@@ -3,6 +3,7 @@ import base64
 import zlib
 import struct
 import sys
+import json
 import os
 import hashlib
 
@@ -45,7 +46,7 @@ def process_translation(input_file, output_dir):
     }
 
     # Generating file_list.txt
-    file_list_content = encode(str(d).encode())
+    file_list_content = encode(json.dumps(d).encode())
     with open(os.path.join(output_dir, "file_list.txt"), "wb") as f:
         f.write(file_list_content)
 
