@@ -16,7 +16,7 @@ Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from december 19 (beta) V1.5.0
+translate by evilhack28 version from december 19 (beta) V1.5.1
 
 [SPRING_TIPS_1]
 Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
