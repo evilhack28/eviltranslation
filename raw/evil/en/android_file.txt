@@ -6,17 +6,23 @@ Youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
 [COMPLAIN_CONTENT]
+--1.5.0--
 Added 3.5.8 text
-ttttttt
 
+--1.5.1--
+just test
 
+--1.5.2--
+Fix lastest plants 
+fix event text 
+fix a lot of other text
 
 [HEALTH_NOTICE_CONTENT_3]
 Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from december 19 (beta) V1.5.1
+translate by evilhack28 version from  January 5 (beta) V1.5.2
 
 [SPRING_TIPS_1]
 Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
@@ -7811,7 +7817,7 @@ Electric Heartbreak Outfit
 Iceweed
 
 [ICEWEED_DESCRIPTION]
-{KEYWORD}Range: {STAT}自身所在格
+{KEYWORD}Range: {STAT}in case
 {KEYWORD}Plant feature: {STAT}Blue Plant
 {FLAVOR} Iceweed is excited to get the call-up to the big leagues and can't wait to start refrigerating zombies whilst inflicting damage on them. He insisted we say "whilst."
 
@@ -7843,7 +7849,7 @@ Ice Hell
 The attack range of Iceweed is expanded to a cross range. When the ice spikes are lost, they explode, causing damage to the source of damage (such as Gargantuars) and a freezing effect. At the same time, they cause a small amount of damage and a slowing effect to zombies within a 3x3 range.
 
 [ICEWEED_NEW_SKILL_LEVEL1_DES]
-攻击所在格的僵尸，被寒冰地刺攻击的僵尸会进入冰霜减速状态
+Attack the zombie in the  tile. Zombies hit by will be slow down.
 
 [ICEWEED_NEW_SKILL_LEVEL2_DES]
 Attacks have a 20% chance to freeze zombies for 2 seconds.
@@ -7858,10 +7864,10 @@ Iceweed may be boosted when planted !
 The attack range of Iceweed is expanded to a cross range. When the ice spikes are lost, they explode, causing damage to the source of damage (such as Gargantuars) and a freezing effect. At the same time, they cause a small amount of damage and a slowing effect to zombies within a 3x3 range.
 
 [ICEWEED_PLANTFOOD_DESCRIPTION]
-将本行的僵尸吸到本行所在区域，后生成一把锯片，击退本行中所有的僵尸至最后一行，并让僵尸冻结2s。同时将自身的刺增加至4根，在第四根刺存在时增加伤害，被攻击时优先损失第四根刺，第四根刺损失后失去伤害增加状态
+Summons a sawblade that drag zombies from nearby lanes in, freezing all zombies it reaches and moving them to the back of the lane
 
 [ICEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-释放锯片后，向上下两行范围内额外发射两枚锯片，锯片对僵尸造成伤害和减速效果
+Additionally launches sawblades on the lanes above and below.
 
 [STORE_PRODUCT_AVATAR_ICEWEED_TITLE]
 Iceweed avatar
@@ -7870,7 +7876,74 @@ Iceweed avatar
 Iceweed avatar
 
 [STORE_PRODUCT_AVATAR_ICEWEED]
-释放锯片后，向上下两行范围内额外发射两枚锯片，锯片对僵尸造成伤害和减速效果
+Additionally launches sawblades on the lanes above and below.
+
+
+[BUBBLECORAL]
+Bubble Coral
+
+[BUBBLECORAL_DESCRIPTION]
+{KEYWORD}Range: {STAT}entire lane
+{KEYWORD}Special:  {STAT}Press to switch between different forms
+{KEYWORD}Plant feature: {STAT}Pink plant
+{FLAVOR}"I... Idiot, you can't even attack!" Bubble Cholla says angrily, "I really can't do anything with you, huh!"
+
+[BUBBLECORAL_DESCRIPTION_HEADER]
+Can launch bubbles with different effects to attack, causing damage to the zombies ahead
+
+[BUBBLECORAL_TOOLTIP]
+Can launch bubbles with different effects to attack, causing damage to the zombies ahead
+
+[BUBBLECORAL_PRODUCT_SHORT_DESC]
+Can launch bubbles with different effects to attack, causing damage to the zombies ahead
+
+[BUBBLECORAL_SKILL_LEVEL1]
+More Bubbles
+
+[BUBBLECORAL_SKILL_LEVEL1_DES]
+Damage dealt by large bubbles is increased by 25%, the attack speed of medium bubbles is increased by 25%, and the number of small bubbles fired is increased to 20.
+
+[BUBBLECORAL_SKILL_LEVEL2]
+So Many Bubbles
+
+[BUBBLECORAL_SKILL_LEVEL2_DES]
+Damage dealt by large bubbles is increased by 50%, the attack speed of medium bubbles is increased by 50%, and the number of small bubbles fired is increased to 25.
+
+[BUBBLECORAL_SKILL_LEVEL5]
+Acid Bubbles
+
+[BUBBLECORAL_SKILL_LEVEL5_DES]
+Bubbles fired have a 50% chance of being acid bubbles. Acid bubbles will do more damage to armor, after large and medium bubbles explode they will leave acid on the ground to continuously damage zombies.
+
+[BUBBLECORAL_NEW_SKILL_LEVEL1_DES]
+Bubble Coral can shoot three different types of bubbles with various functions to attack. Click on the Bubble Coral to switch between different attack.
+
+[BUBBLECORAL_NEW_SKILL_LEVEL2_DES]
+Damage dealt by large bubbles is increased by 25%, the attack speed of medium bubbles is increased by 25%, and the number of small bubbles fired is increased to 20.
+
+[BUBBLECORAL_NEW_SKILL_LEVEL3_DES]
+Damage dealt by large bubbles is increased by 50%, the attack speed of medium bubbles is increased by 50%, and the number of small bubbles fired is increased to 25.
+
+[BUBBLECORAL_NEW_SKILL_LEVEL4_DES]
+Bubble Cholla may be boosted when planted.
+
+[BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
+Bubbles fired have a 50% chance of being acid bubbles. Acid bubbles will do more damage to armor, after large and medium bubbles explode they will leave acid on the ground to continuously damage zombies.
+
+[BUBBLECORAL_PLANTFOOD_DESCRIPTION]
+Blow a giant bubble in its tile, which will then explode and fire a large volley of bubbles of various different sizes.
+
+[BUBBLECORAL_AVATAR_PLANTFOOD_DESCRIPTION]
+giant bubble will be one of this three plants (Sunflower, Ice-shroom, Mangosteen) and more bubbles will be fired.
+
+[BUBBLECORAL_AVATAR_NAME]
+Bubble Coral costume
+
+[STORE_PRODUCT_AVATAR_BUBBLECORAL]
+Explodes to generate more bubbles.
+
+[STORE_PRODUCT_AVATAR_BUBBLECORAL_TITLE]
+Bubble Coral costume
 
 
 
@@ -8097,7 +8170,7 @@ More Stars are unlocked! Replay levels to get them!
 Check out the Almanac!
 
 [ADVICE_GOTO_STORE]
-Visit the store!
+Store
 
 [ADVICE_GOTO_GACHA]
 You've gained access to Penny's treasure! Let's try it out now!
@@ -8965,9 +9038,9 @@ Different plants can upgrade into more other plants. Utilize their skills to pas
 (Create a new player)
 
 [CREDITS_PVZ_TITLE]
-Plants vs. Zombies 2
-Wonderful Journey through Time and Space
-by PopCap
+Plants vs. Zombies 2C
+Mod created by evilhack28
+by popcap
 
 [CREDTIS_CHINA_PRODUCER]
 Producer
@@ -9030,7 +9103,7 @@ Customer Service Director
 Customer Support
 
 [CREDTIS_CHINA_SPECIALTHANKS]
-Special Thanks
+Special Thanks evil
 
 [CURRENCY_STRING]
 {CURRENCY_SYMBOL}{AMOUNT}
@@ -11900,20 +11973,13 @@ User ID
 Here you can see all the information about the game. What you are currently reading is it.
 
 [SETTINGS_DATASHARING_DISABLE]
-^0000FF coleur bleu ?  ^oldclr
+Disable Data Sharing
 
 [SETTINGS_DATASHARING_ENABLE]
-^A020F0 coleur violet ? ^oldclr
+Enable Data Sharing
 
 [SETTINGS_DATASHARING_PROMPT]
-HEX COLOR TEST
-^000000 Black ^oldclr ^800000 Maroon ^oldclr ^4B0082 Indigo ^oldclr ^964B00 Brown ^oldclr ^8A2BE2 Blue Violet ^oldclr ^D2691E Chocolate ^oldclr ^B22222 Firebrick ^oldclr
-^oldclr ^FF0000 Red ^oldclr ^FF6347 Tomato ^oldclr ^FF4500 Orange Red ^oldclr ^800080 Purple ^oldclr ^C71585 Medium Violet Red ^oldclr ^FFD700 Gold ^oldclr 
-^FFA500 Orange ^oldclr ^008080 Teal ^oldclr ^40E0D0 Turquoise ^oldclr ^00CED1 Dark Turquoise ^oldclr ^20B2AA Light Sea Green ^oldclr ^2E8B57 Sea Green ^oldclr 
-^ADFF2F Green Yellow ^oldclr ^FFFF00 Yellow ^oldclr ^008000 Green ^oldclr ^7FFF00 Chartreuse ^oldclr ^F0E68C Khaki ^oldclr ^FFD700 Gold ^oldclr ^A52A2A Light Brown ^oldclr
-^FFC0CB Pink ^oldclr ^800000 Maroon ^oldclr ^FF1493 Deep Pink ^oldclr ^D3D3D3 Light Grey ^oldclr ^F4A460 Sandy Brown ^oldclr ^C71585 Medium Violet Red ^oldclr 
-^FF6347 Tomato ^oldclr ^B22222 Firebrick ^oldclr
-
+Hey disable it is still nice :)
 
 [SETTINGS_USERID_TITLE]
 Personal Information
@@ -12051,7 +12117,7 @@ FPS settings
 30FPS
 
 [SETTINGS_DATASHARING_TITLE]
-TEST COLOR
+Data Sharing
 
 [SETTINGS_DOWNLOADPREFS_TITLE]
 Download Preferences
@@ -14160,7 +14226,7 @@ Legendary Chest         4%.
 
 666. sorry i really need to remove :(
 
-1. Event: January 1–February 25, 2025. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event: January 1-February 25, 2025. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -15257,10 +15323,10 @@ Confirm Unlock
 I think again
 
 [AWARD_SCREEN_NEW_BONUS]
-Get Rewards
+Rewards
 
 [CODE_REWARD_TITLE]
-Gift Code Redemption
+Gift Code
 
 [CODE_REWARD_TIP]
 Please enter your gift code
@@ -15345,11 +15411,11 @@ Labor Day Challenge - Level 7
 Stars shop 
 
 [STAR_CONVERT_INFO_TITLE]
-Star Redemption Instructions
+Star Conversion Info
 
 [STAR_CONVERT_INFO]
-1. The number of stars obtained after clearing the various worlds is accumulated to sum up. The corresponding reward may be claimed when the prescribed quantity has been reached.
-2. After the already owned plants are upgraded, the star redemption cannot be obtained repeatedly, and you will not get plant pieces if you collect them again.
+1. Earn stars by completing levels. Once you reach the required amount, you can claim rewards.
+2. You can't get plant fragments again for upgraded plants.
 
 [STAR_CONVERT_SUCCESS_TITLE]
 Received successfully
@@ -16589,22 +16655,22 @@ Wait for sync archive
 Wait in the sync archive, make sure the network connection is normal.
 
 [NET_CONNECTING]
-In server communications...
+Connecting...
 
 [NET_CONNECTING_DOWNLOAD]
-Level download...
+Downloading levels...
 
 [NET_CONNECTING_FETCHING]
-Level recovery...
+Restoring levels...
 
 [NET_CONNECTING_SAVING]
-Save...
+Saveing...
 
 [NET_CONNECTING_NEW_PVP_QUERY_PLAYER]
-Waiting for other players...
+Waiting for another player...
 
 [NET_CONNECTING_NEW_PVP_QUERY_PLAYER_MATCHING]
-Search other players...
+Searching for another player...
 
 [DIALOG_WAITING]
 Waiting
@@ -19417,77 +19483,6 @@ He practiced the method of sucking as a child.
 [ZOMBIE_KONGFU_MAGIC_BRONZE_DESCRIPTION]
 {FLAVOR} seems to come from another planet.
 
-[SPRING_[SEED_CHOOSER_RECALL_PLANTS]
-Recall
-
-[SEED_CHOOSER_RENT_PLANT]
-Rent for {RENT_COST}
-
-[SEED_CHOOSER_RENT_PLANT_NOT_ENOUGH_COINS]
-Oops! Collect more coins to rent this plant.
-
-[SEED_CHOOSER_SUGGEST_PLANTS]
-Suggest
-
-[SEED_CHOOSER_UNOWNED_IN_SPINE]
-Found Location: {WORLDNAME}
-
-[SETTINGS_BUILDVERSION_TITLE]
-Version Number
-
-[SETTINGS_DATASHARING_PROMPT_DISABLED]
-The data sharing feature of the game has been disabled. Apart from the data you directly provide to Tuo Wei, specific information will be collected by Tuo Wei to improve the products and services provided to you. This includes software upgrades, dynamically adjusted content, product support, and communication with you to enhance your experience using Tuo Wei products and services. This data will not be shared with any third parties and will not be used to identify you. When you disable data sharing, Tuo Wei will still continue to collect some reasonable information, except for anonymous information, to ensure the operation of products and services. Would you like to enable data sharing?
-
-[SETTINGS_DISPLAY_PCPID]
-Player ID
-
-[SETTINGS_DISPLAY_VERSION]
-Version
-
-[SETTINGS_MOREGAMES_MULTIPLATFORM_URL]
-HTTPS://CANVAS.POPCAP.COM/GAMES/{LOCALEINSERT}PLANTS-VS-ZOMBIES-2-SAFARI/{PLATFORM}/{DEVICETYPE}
-
-[SETTINGS_NOTIFICATIONS]
-Enable Notifications
-
-[SETTINGS_RESET_AGE]
-Reset Era
-
-[SETTINGS_RESTORE_PURCHASES]
-Restore Purchases
-
-[SETTINGS_RESTORE_PURCHASES_BUTTON]
-Restore Purchases
-
-[SETTINGS_RESTORE_PURCHASES_PROMPT]
-Restoring purchases allows you to regain non-consumable items you previously purchased from the store. This includes premium plants, upgrades, and worlds.
-
-[SETTINGS_RESTORE_PURCHASES_TITLE]
-Restore Purchases
-
-[SETTINGS_WWF_URL]
-HTTPS://WWW.EA.COM/WWF
-
-[SHRINKINGVIOLET]
-Shrinking Violet
-
-[SHRINKINGVIOLET_DESCRIPTION]
-{KEYWORD}Usage: {STAT} Single-use, activated upon contact with target
-{KEYWORD}Range: {STAT} Affects zombies in surrounding squares
-{KEYWORD}Characteristics: {STAT} Shrinks imp zombies to the point of invisibility.
-{KEYWORD}Plant features: {STAT} Purple plant, short
-
-{FLAVOR} Initially shy, Shrinking Violet underwent a dramatic transformation upon discovering her talent for shrinking zombies.
-
-[SHRINKINGVIOLET_DESCRIPTION_HEADER]
-Shrinking Violet can shrink zombies within a certain area, making them more vulnerable to damage and reducing their ability to bite plants.
-
-[SHRINKINGVIOLET_TOOLTIP]
-Shrink and weaken zombies
-
-[EVIL_TIPS]
-REAL
-
 [NARRATIVE_ZOMBOSS_BLADE_1]
 {NPC_ENTER:crazydave}{SAY}Boss 
 
@@ -19606,7 +19601,7 @@ Refresh the Wishing Pool for 10
 Upgrade
 
 [PLANT_LEVEL_UP_TIP]
-Check how to obtain
+Buy more coin ? 
 
 [PLANT_LEVEL_UP_GET_SPECIAL_PIECE]
 Endless Shop
@@ -28678,10 +28673,10 @@ Lost City - Day 20
 Change log
 
 [COMPLAIN_TITLE]
-MADE BY EVIL AND EVILGIRL
+Made by evilhack28
 
 [COMPLAIN_CONTENT_TIME]
-666
+always here
 
 
 [COMPLAIN_CONTENT_A]
@@ -31710,92 +31705,94 @@ Dead Zombies
 Wizard
 
 [DANGER_ROOM_BEACH_LEVEL_NAME]
-Monsters from the Deep - {LEVEL_NUMBER}
-
-[DANGER_ROOM_BEACH_TITLE_WELCOME]
-Welcome to the monster from the deep sea!
-
-[DANGER_ROOM_DARK_TITLE_WELCOME]
-Welcome to Arthur's Challenge!
-
-[DANGER_ROOM_DARKAGES_LEVEL_NAME]
-Arthur's challenge - {LEVEL_NUMBER}
-
-[DANGER_ROOM_DINO_LEVEL_NAME]
-Tar pit of brain - {LEVEL_NUMBER}
-
-[DANGER_ROOM_DINO_TITLE_WELCOME]
-Welcome to the Tar Pit of the Brain!
-
-[DANGER_ROOM_EIGHTIES_LEVEL_NAME]
-Zombie Best Album - {LEVEL_NUMBER}
-
-[DANGER_ROOM_EIGHTIES_TITLE_WELCOME]
-Welcome to Zombie Best Album!
+Big Wave Beach endless - {LEVEL_NUMBER}
 
 [DANGER_ROOM_FUTURE_LEVEL_NAME]
-Fear of the future - {LEVEL_NUMBER}
+Far Future endless - {LEVEL_NUMBER}
 
 [DANGER_ROOM_FUTURE_TITLE_WELCOME]
-Welcome to the Fear of the Future!
-
-[DANGER_ROOM_ICEAGE_LEVEL_NAME]
-Frozen battlefield - {LEVEL_NUMBER}
-
-[DANGER_ROOM_ICEAGE_TITLE_WELCOME]
-Welcome to the frozen battlefield!
-
-[DANGER_ROOM_LOSTCITY_LEVEL_NAME]
-Lost Fear - {LEVEL_NUMBER}
-
-[DANGER_ROOM_HEIAN_LEVEL_NAME]
-Safe Blast - {LEVEL_NUMBER}
-
-[DANGER_ROOM_LOSTCITY_TITLE_WELCOME]
-Welcome to Lost Fear!
-
-[DANGER_ROOM_MODERN_LEVEL_NAME]
-Dangerous house high speed - {LEVEL_NUMBER}
-
-[DANGER_ROOM_MODERN_TITLE_WELCOME]
-Welcome to Dangerous House Highway!
-
-[DANGER_ROOM_STEAM_LEVEL_NAME]
-Steam Age- {LEVEL_NUMBER}
-
-[DANGER_ROOM_STEAM_TITLE_WELCOME]
-Welcome to Steam Crisis!
-
-[DANGER_ROOM_TALE_LEVEL_NAME]
-Fairy Tale Forest - Level {LEVEL_NUMBER}
-
-[DANGER_ROOM_TALE_TITLE_WELCOME]
-Welcome to Fairy Tale Forest
-
-
-[DANGER_ROOM_REWARD_FLAME_THROWER]
-Add a free Flame Finger
-
-[DANGER_ROOM_REWARD_FLICK_ZOMBIE]
-Add a free floating finger
-
-[DANGER_ROOM_REWARD_FOURTH_CARD]
-Showcases costs
-
-[DANGER_ROOM_REWARD_FOURTH_CARD_DESC]
-Show the fourth choice with gold coins
-
-[DANGER_ROOM_REWARD_SNOWBALL]
-Add a free hail finger
-
-[DANGER_ROOM_REWARD_WIZARD_FINGER]
-Add a free electric shock finger
-
-[DARK_DANGER_ROOM_NAME]
-Arthur's challenge
+Welcome to Far Future endless !
 
 [DARKAGES_DANGER_ROOM_NAME]
-Arthur's challenge
+Dark Ages endless
+
+[DANGER_ROOM_DARKAGES_LEVEL_NAME]
+Dark Ages endless - {LEVEL_NUMBER}
+
+[DARK_DANGER_ROOM_NAME]
+Dark Ages endless
+
+[DANGER_ROOM_DARK_TITLE_WELCOME]
+Welcome to Dark Ages endless !
+
+[DANGER_ROOM_BEACH_TITLE_WELCOME]
+Welcome to Big Wave Beach endless !
+
+[DANGER_ROOM_ICEAGE_LEVEL_NAME]
+Frostbite Caves endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_ICEAGE_TITLE_WELCOME]
+Welcome to Frostbite Caves endless !
+
+[DANGER_ROOM_LOSTCITY_LEVEL_NAME]
+Lost City endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_LOSTCITY_TITLE_WELCOME]
+Welcome to Lost City endless !
+
+[DANGER_ROOM_EIGHTIES_LEVEL_NAME]
+Neon Mixtape Tour endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_EIGHTIES_TITLE_WELCOME]
+Welcome to Neon Mixtape Tour endless !
+
+[DANGER_ROOM_DINO_LEVEL_NAME]
+Jurassic Marsh endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_DINO_TITLE_WELCOME]
+Welcome to Jurassic Marsh endless !
+
+[DANGER_ROOM_MODERN_LEVEL_NAME]
+Welcome to Modern Day endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_MODERN_TITLE_WELCOME]
+Welcome to Modern Day endless !
+
+[DANGER_ROOM_STEAM_LEVEL_NAME]
+Steam Age endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_STEAM_TITLE_WELCOME]
+Welcome to Steam Age endless !
+
+[DANGER_ROOM_HEIAN_LEVEL_NAME]
+Heian Age endless - {LEVEL_NUMBER}
+
+[DANGER_ROOM_HEIAN_TITLE_WELCOME]
+Welcome to Heian Age endless !
+
+[DANGER_ROOM_TALE_LEVEL_NAME]
+Fairy Tale endless - Level {LEVEL_NUMBER}
+
+[DANGER_ROOM_TALE_TITLE_WELCOME]
+Welcome to Fairy Tale endless !
+
+[DANGER_ROOM_REWARD_FLAME_THROWER]
+Adds a free Flame Finger.
+
+[DANGER_ROOM_REWARD_FLICK_ZOMBIE]
+Adds a free Flick Finger.
+
+[DANGER_ROOM_REWARD_FOURTH_CARD]
+Displays cost.
+
+[DANGER_ROOM_REWARD_FOURTH_CARD_DESC]
+Displays the fourth choice using coins.
+
+[DANGER_ROOM_REWARD_SNOWBALL]
+Adds a free Snowball Finger.
+
+[DANGER_ROOM_REWARD_WIZARD_FINGER]
+Adds a free Electric Finger.
 
 [DAYS]
 Days
@@ -45077,7 +45074,7 @@ Plants in the fifth row 36.4% Plants in the sixth row 63.6%
 {NUM}
 
 [LUCKBAG_SELECT]
-Selected
+Chosen
 
 [LUCKBAG_TICKET]
 Purchase with coupons
@@ -45289,7 +45286,7 @@ Emerald League
 Emerald
 
 [JOUST_LEAGUE_NAME_NONPLAYER]
-Charts
+Ranks
 
 [JOUST_LEAGUE_NAME_SILVER]
 ‎ Silver League
@@ -45881,19 +45878,19 @@ Probability Announcement
 Casual Summer Probability Announcement
 
 [PLANT_TREE_EVENT_TITLE]
-Publication of the probability of Congregation Beginning of Summer
+Midsummer Gathering Probability Announcement
 
 [WEEKLY_RECHARGEREWARD_DES]
-During the event, rare plant pieces can be sent by accumulating the recharge, and the recharge amount is reset after the event
+Recharge during the event to receive rare plant fragments. Recharge amount resets after the event.
 
 [CONSUME_RECIVE_DES]
-During the event, you can get up to 40 pieces of {NAME} pieces for free by accumulating diamonds!
+Consume diamonds during the event to receive up to 40 fragments of {NAME} for free!
 
 [CONSUME_RECIVE_EXTRA_DES]
-Cumulative consumption of diamonds during the event to receive free Costume pieces!
+Consume diamonds during the event to receive fragments for free!
 
 [CONSUME_GEMS]
-Consumption diamonds
+Spend Diamonds
 
 [ACTIVITY_TIME_DOWN]
 Countdown to Events
@@ -47613,16 +47610,16 @@ Used to redeem in gene-edited gene sequence stores
 Buy Genetic Gift Pack
 
 [GENE_SEQUENCE]
-Gene sequence
+Gene Sequence
 
 [GENE_ESSENCE]
-Genetic Essence
+Gene Essence
 
 [GENE_SEQUENCE_GROUP]
-      Genome
+Group
 
 [NOT_YET_UNLOCKED]
-Not unlocked yet
+Not Yet Unlocked
 
 [ALREADY_MAX_LEVEL]
 Full-level
@@ -47814,19 +47811,19 @@ Genes Sequence Shop
 Added gene sequence
 
 [WHITE]
-White
+White-
 
 [GREEN]
-Green
+Green-
 
 [BLUE]
-Blue
+Blue-
 
 [PURPLE]
-Purple
+Purple-
 
 [ORANGE]
-Orange
+Orange-
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 Gene Sequence Level: {PARAM}
@@ -48148,35 +48145,34 @@ Treasure EXP: {NUM} / 1000
 Activate Premium Privileges
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_AUTUMN]
-1. Unlock access to premium-tier rewards  
-2. Instantly gain 10 levels  
-3. Get 20% bonus points from tasks  
-4. Receive 150 diamonds  
-
+1. Unlock eligibility for higher-tier rewards.
+2. Instantly level up by 20.
+3. Earn a 20% bonus to points from tasks.
+4. 150 diamonds.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_WINTER]
-1.Unlock eligibility for rewards at the advanced tier.
-2.Instantly level up by 20 levels.
-3.Gain a 20% bonus to points from tasks.
-4.150 diamonds.
+1. Unlock eligibility for higher-tier rewards.
+2. Instantly level up by 20.
+3. Earn a 20% bonus to points from tasks.
+4. 150 diamonds.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRINGFESTIVAL]
-1.Unlock eligibility for rewards at the advanced tier.
-2.Instantly level up by 20 levels.
-3.Gain a 20% bonus to points from tasks.
-4.150 diamonds.
+1. Unlock eligibility for higher-tier rewards.
+2. Instantly level up by 20.
+3. Earn a 20% bonus to points from tasks.
+4. 150 diamonds.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SUMMER]
-1.Unlock eligibility for rewards at the advanced tier.
-2.Instantly level up by 20 levels.
-3.Gain a 20% bonus to points from tasks.
-4.150 diamonds.
+1. Unlock eligibility for higher-tier rewards.
+2. Instantly level up by 20.
+3. Earn a 20% bonus to points from tasks.
+4. 150 diamonds.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRING]
-1.Unlock eligibility for rewards at the advanced tier.
-2.Instantly level up by 20 levels.
-3.Gain a 20% bonus to points from tasks.
-4.150 diamonds.
+1. Unlock eligibility for higher-tier rewards.
+2. Instantly level up by 20.
+3. Earn a 20% bonus to points from tasks.
+4. 150 diamonds.
 
 [BATTLE_ORDER_SELECT_TITLE]
 Pieces Choose One of Five
@@ -48268,11 +48264,7 @@ Cool Summer Event Description
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. Selectable rewards by tier:
-   -Green Plants: Sweet Potato, Threepeater, Melon-pult, Garlic, Whirlwind Acorn.
-   -Blue Plants: Chestnut Squad, Oak Archer, Dragon Fruit, Spore Shroom, Avocado.
-   -Purple Plants 1: Electric Blueberry, Dandelion, Coconut Cannon, Holly Barrier, Beet Shield.
-   -Purple Plants 2: Kiwi, Pennywort Drummer, Shadow Orchid, Sneaky Dartroot, Fume-shroom.
-   -Orange Plants: Iceberg Lettuce, Acid Lemon, Scorching Wasabi, Trumpet Flower, Electric Currant, and more.
+SOORY TOO MUCH TEXT
 7. Charms include Blue, Purple, and Orange quality, with rare options like Cowboy Gloves, Lunar Pan, and Solar Flower Pots.
 
 
@@ -48288,11 +48280,7 @@ Cool Summer Event Description
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. Selectable rewards by tier:
-   -Green Plants: Sweet Potato, Threepeater, Melon-pult, Garlic, Whirlwind Acorn.
-   -Blue Plants: Chestnut Squad, Oak Archer, Dragon Fruit, Spore Shroom, Avocado.
-   -Purple Plants 1: Electric Blueberry, Dandelion, Coconut Cannon, Holly Barrier, Beet Shield.
-   -Purple Plants 2: Kiwi, Pennywort Drummer, Shadow Orchid, Sneaky Dartroot, Fume-shroom.
-   -Orange Plants: Iceberg Lettuce, Acid Lemon, Scorching Wasabi, Trumpet Flower, Electric Currant, and more.
+SOORY TOO MUCH TEXT
 7. Charms include Blue, Purple, and Orange quality, with rare options like Cowboy Gloves, Lunar Pan, and Solar Flower Pots.
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
@@ -48307,14 +48295,8 @@ Cool Summer Event Description
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. Selectable rewards by tier:
-   -Green Plants: Sweet Potato, Threepeater, Melon-pult, Garlic, Whirlwind Acorn.
-   -Blue Plants: Chestnut Squad, Oak Archer, Dragon Fruit, Spore Shroom, Avocado.
-   -Purple Plants 1: Electric Blueberry, Dandelion, Coconut Cannon, Holly Barrier, Beet Shield.
-   -Purple Plants 2: Kiwi, Pennywort Drummer, Shadow Orchid, Sneaky Dartroot, Fume-shroom.
-   -Orange Plants: Iceberg Lettuce, Acid Lemon, Scorching Wasabi, Trumpet Flower, Electric Currant, and more.
+SOORY TOO MUCH TEXT
 7. Charms include Blue, Purple, and Orange quality, with rare options like Cowboy Gloves, Lunar Pan, and Solar Flower Pots.
-7. After level 50, you can obtain the orange plant ^FF8000^Parasitic Fairy Orchid^oldclr^ fragments.
-need to fix this fro real not gonna lie
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -48328,11 +48310,7 @@ need to fix this fro real not gonna lie
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. Selectable rewards by tier:
-   -Green Plants: Sweet Potato, Threepeater, Melon-pult, Garlic, Whirlwind Acorn.
-   -Blue Plants: Chestnut Squad, Oak Archer, Dragon Fruit, Spore Shroom, Avocado.
-   -Purple Plants 1: Electric Blueberry, Dandelion, Coconut Cannon, Holly Barrier, Beet Shield.
-   -Purple Plants 2: Kiwi, Pennywort Drummer, Shadow Orchid, Sneaky Dartroot, Fume-shroom.
-   -Orange Plants: Iceberg Lettuce, Acid Lemon, Scorching Wasabi, Trumpet Flower, Electric Currant, and more.
+SOORY TOO MUCH TEXT
 7. Charms include Blue, Purple, and Orange quality, with rare options like Cowboy Gloves, Lunar Pan, and Solar Flower Pots.
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
@@ -48347,11 +48325,7 @@ need to fix this fro real not gonna lie
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. Selectable rewards by tier:
-   -Green Plants: Sweet Potato, Threepeater, Melon-pult, Garlic, Whirlwind Acorn.
-   -Blue Plants: Chestnut Squad, Oak Archer, Dragon Fruit, Spore Shroom, Avocado.
-   -Purple Plants 1: Electric Blueberry, Dandelion, Coconut Cannon, Holly Barrier, Beet Shield.
-   -Purple Plants 2: Kiwi, Pennywort Drummer, Shadow Orchid, Sneaky Dartroot, Fume-shroom.
-   -Orange Plants: Iceberg Lettuce, Acid Lemon, Scorching Wasabi, Trumpet Flower, Electric Currant, and more.
+SOORY TOO MUCH TEXT
 7. Charms include Blue, Purple, and Orange quality, with rare options like Cowboy Gloves, Lunar Pan, and Solar Flower Pots.
  
 
@@ -48360,10 +48334,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 10 000 Diamonds, +100 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Autumn Lucky Star Rules:  
 1. Players who purchase premium privileges can participate.  
@@ -48379,10 +48353,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 10 000 Diamonds, +100 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Autumn Lucky Star Rules:  
 1. Players who purchase premium privileges can participate.  
@@ -48398,10 +48372,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 10 000 Diamonds, +100 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Autumn Lucky Star Rules:  
 1. Players who purchase premium privileges can participate.  
@@ -48417,10 +48391,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 10 000 Diamonds, +100 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Autumn Lucky Star Rules:  
 1. Players who purchase premium privileges can participate.  
@@ -48436,10 +48410,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 10 000 Diamonds, +100 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Autumn Lucky Star Rules:  
 1. Players who purchase premium privileges can participate.  
@@ -48458,10 +48432,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 4000 Diamonds, +40 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
 - Premium Pass buyers participate.  
@@ -48480,10 +48454,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 4000 Diamonds, +40 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
 - Premium Pass buyers participate.  
@@ -48502,10 +48476,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 4000 Diamonds, +40 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
 - Premium Pass buyers participate.  
@@ -48524,10 +48498,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 4000 Diamonds, +40 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
 - Premium Pass buyers participate.  
@@ -48546,10 +48520,10 @@ Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
 - Initial pool: 4000 Diamonds, +40 Diamonds per purchase.
 - Rewards:
-  - Ranks 1–50: Each gets 0.5% (25% total).
-  - Ranks 51–150: Each gets 0.25% (25% total).
-  - Ranks 151–300: Each gets 0.2% (30% total).
-  - Ranks 301–500: Each gets 0.1% (20% total).
+  - Ranks 1-50: Each gets 0.5% (25% total).
+  - Ranks 51-150: Each gets 0.25% (25% total).
+  - Ranks 151-300: Each gets 0.2% (30% total).
+  - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
 - Premium Pass buyers participate.  
@@ -52485,21 +52459,21 @@ Your score: {NUMBER}
 {HOURS_LEFT}h {MINUTES_LEFT}min
 
 [ZOMBOSS_DEFAULT_PRIZE_LABEL]
-Base Rewards
+Base Reward
 
 [ZOMBOSS_GRAND_PRIZE_GENERIC]
-Exchange Shop Limited-Time Rewards:
+Limited-time Shop Reward:
 {PLANTNAME}
 
 [UNCHARTED_BIRTHDAY_FULL_PRIZE]
-Difficult Full Star Limited Time Avatar:
+Limited-time profile picture:
 {HEADSHOTNAME}
 
 [UNCHARTED_BIRTHDAY_FULL_PRIZE_HAS_GOT]
-Awarded
+Reward Collected
 
 [ZOMBOSS_GRAND_PRIZE_LABEL]
-Winning Rewards
+Victory Reward
 
 [ZOMBOSS_GRAND_PRIZE_NOTHING]
 Dr. Zombie Award: \nabsolutely not!  Enjoy, please!
@@ -52638,7 +52612,7 @@ Remaining time:
 Current Theme:
 
 [RIFT_WORLD_THEME_TITLE_LEFT_TIME]
-(residual time: {DURATION})
+(Time left: {DURATION})
 
 [THEME_PROJECTILE_NAME]
 The flying type bullets are flown by all zombies
@@ -56882,11 +56856,10 @@ Come a latte
 Winter is more with latte
 
 [UNCHARTED_ICEAGE_ID_25391]
-sah jai la flemme
+Zombie Chocolate 
 
 [UNCHARTED_ICEAGE_HEAD_DES_ID_25391]
-real.
-
+Don't eat it !
 
 [UNCHARTED_TALE_ID_10000]
 Fairtale Conqueror
@@ -61093,29 +61066,28 @@ Each level has a specified task, which is rewarded upon completion.
 The rewards for each level are not re-acquired
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ICEAGE_202411]
-1. Activation Conditions
+1. Unlock Conditions
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ICEAGE_202411]
-Normal stages are unlocked after Secret Realm is activated, while Hard difficulty unlocks every two day.
+Normal levels open after the secret realm unlocks. Hard levels unlock two level daily.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ICEAGE_202411]
-2. Stage Content
+2. Level Content
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ICEAGE_202411]
-Normal stages have 3 tiers of zombies, while Hard difficulty varies depending on task selection.
+Normal levels have zombies at level 3. Hard levels' zombie level change based on tasks.
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ICEAGE_202411]
-3. Task Description
+3. Tasks
 
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ICEAGE_202411]
-Each stage has a specified task, and rewards can be earned upon completion.
+Complete tasks for rewards.
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ICEAGE_202411]
-4. Task Rewards
+4. Rewards
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ICEAGE_202411]
-Rewards for each stage cannot be obtained repeatedly. The exclusive Hard difficulty avatar is available from December 20, 2024, to January 14, 2025.
-
+Rewards can't be claimed twice. The exclusive hard mode profile picture is available from Dec 20, 2024 to Jan 14, 2025.
 
 [UNCHARTED_SPRING_FESTIVAL_2024_KEY_INFO_TEXT_1]
 1. Opening conditions
@@ -61416,7 +61388,7 @@ Collected: {NUMS}/100
 Refresh Cooling
 
 [CUSTOM_LEVEL_LEADER_BOARD_TITLE]
-Charts
+Ranks
 
 [CUSTOM_LEVEL_SEARCH_DEFAULT_DESC]
 Enter level id
@@ -61579,36 +61551,39 @@ Reported
 [CUSTOM_LEVEL_REPORT_SURE]
 Sure to report the level?
 
+[CUSTOM_LEVEL_REPORT_SURE]
+Are you sure you want to report this level?
+
 [CUSTOM_LEVEL_PLAY_COIN_FULL]
-The tokens available today are up to the limit
+The maximum coins obtainable today have been reached.
 
 [CUSTOM_LEVEL_PLAY_COIN_LIMIT]
-Today's cap: {NUM1}/{NUM2}
+Today's limit: {NUM1}/{NUM2}
 
 [CUSTOM_LEVEL_NO_REWARD]
-The clearance time is less than 30 seconds
-Unable to obtain play coins
+Completion time is less than 30 seconds.
+No coins will be awarded.
 
 [CUSTOM_LEVEL_REWARED]
-The current level has received play coins
+Coins for this level have already been obtained.
 
 [CUSTOM_LEVEL_ERROR]
-Game Token Settlement Abnormalities
+Game coins error.
 
 [CUSTOM_LEVEL_SUPPORT_TIPS]
-Like Tip
+Like.
 
 [CUSTOM_LEVEL_SUPPORT_SURE]
-Make sure to like the level?
+Are you sure you want to like this level?
 
 [CUSTOM_LEVEL_SUPPORT_APPRAISE]
-Like Reviews
+Like.
 
 [CUSTOM_LEVEL_NOT_SUPPORT_TIPS]
-Click Press to prompt
+Dislike.
 
 [CUSTOM_LEVEL_NOT_SUPPORT_SURE]
-Determine the point to step on the level?
+Are you sure you want to dislike this level?
 
 [CUSTOM_LEVEL_FLTER_WORLD_SELECT_TITLE]
 World Choice
@@ -62091,24 +62066,24 @@ Classroom Shop
 Classroom credits
 
 [PENNY_CLASSROOM_TIPS]
-1. After clearing the course in Penny's class, you can earn class points, which can be redeemed for rewards in the points store.
-2. Courses in Penny's class are opened in order of days, with one level unlocked each day.
-3. After completing the previous course, you can challenge the next course, and the course cannot be challenged repeatedly.
-4. After completing the corresponding levels of 5 plants in each stage, you can receive the classroom avatar of that stage and unlock the challenge course for the next stage.
-5. The plant order in the Classroom Challenge level is a level fixed order that does not coincide with the player's plant order.
-6. After all the points stores were redeemed, Penny Classroom closed.
+1. After completing courses in Penny's Classroom, you can earn Classroom Points and exchange them for rewards in the Points Shop.
+2. Courses unlock daily, with one course available each day.
+3. Complete the previous course to unlock the next one; courses can't be repeated.
+4. Completing 5 plants in a phase unlocks the Classroom Avatar and the next phase.
+5. Classroom Challenge Levels have fixed plant tiers, not based on player tiers.
+6. Penny's Classroom closes once all Points Shop rewards are redeemed.
 
 [PENNY_CLASSROOM_BEGINNER_LEVEL]
-Introductory exam
+Noob exam
 
 [PENNY_CLASSROOM_EASY_LEVEL]
-Initial training
+Pro exam
 
 [PENNY_CLASSROOM_NORMAL_LEVEL]
-Advanced assessment
+God exam
 
 [PENNY_CLASSROOM_HARD_LEVEL]
-Ultimate Trial
+HACKERS exam
 
 [PENNY_CLASSROOM_GOT]
 Available at:
@@ -62126,10 +62101,10 @@ Go to the level
 {NUMS}/5
 
 [PENNY_CLASSROOM_FINAL_BONUS_TIPS]
-Complete the classroom challenge, become a botanical master and get ^ED7424 Level 4 plants ^oldclr!
+Complete all the chanlleng and get ^ED7424 Level 4 plants ^oldclr!
 
 [PENNY_CLASSROOM_FINAL_BONUS_TITLE]
-Final Rewards
+Rewards
 
 [PENNY_CLASSROOM_EASY_LEVEL_LOCK_DESC]
 Unlock after completing all classroom challenges in ^FF0000 introductory exam ^oldclr
@@ -62964,55 +62939,55 @@ Lineup recommendation
 Level Rewards
 
 [PENNY_CLASSROOM_SHOP_BUY_CONFIRM]
-Is it purchased for {NUMS} classroom coins?
+Spend {NUMS} Classroom Coins to purchase?
 
 [MAT_PENNY_CLASSROOM_COIN_NOT_ENOUGH]
-Insufficient classroom coins
+Not enough Classroom Coins.
 
 [PENNY_CLASS_LEVEL1]
-Primary Training - Primitive Sunflower
+Pro exam - Primal Sunflower
 
 [PENNY_CLASS_LEVEL2]
-Elementary Training - Electric Shock Blueberry
+Pro exam - Electric Blueberry
 
 [PENNY_CLASS_LEVEL3]
-Elementary Training - Tall-nut
+Pro exam - Tall-nut
 
 [PENNY_CLASS_LEVEL4]
-Elementary Training - Chomper
+Pro exam - Chomper
 
 [PENNY_CLASS_LEVEL5]
-Initial training - Squash
+Pro exam - Squash
 
 [PENNY_CLASS_LEVEL6]
-Advanced Assessment - Primitive Sunflower
+GOD exam - Primal Sunflower
 
 [PENNY_CLASS_LEVEL7]
-Advanced Assessment - Electric Shock Blueberry
+GOD exam - Electric Blueberry
 
 [PENNY_CLASS_LEVEL8]
-Advanced Assessment - Tall-nut
+GOD exam - Tall-nut
 
 [PENNY_CLASS_LEVEL9]
-Advanced Assessment - Chomper
+GOD exam - Chomper
 
 [PENNY_CLASS_LEVEL10]
-Advanced Assessment - Squash
+GOD exam - Squash
 
 [PENNY_CLASS_LEVEL11]
-Ultimate Trial - Primitive Sunflower
+HACKER exam - Primal Sunflower
 
 [PENNY_CLASS_LEVEL12]
-Ultimate Trial - Electric Shock Blueberry
+HACKER exam - Electric Blueberry
 
 [PENNY_CLASS_LEVEL13]
-Ultimate Trial - Tall-nut
+HACKER exam - Tall-nut
 
 [PENNY_CLASS_LEVEL14]
-Ultimate Trial - Chomper
+HACKER exam - Chomper
 
 [PENNY_CLASS_LEVEL15]
-Ultimate Trial - Squash
+HACKER exam - Squash
 
 [BIND_UNIQUE_ID_TITLE]
 Binding devices
@@ -63114,28 +63089,28 @@ Please complete the front level first.
 6. Exclusive badges accumulate to a certain number to receive additional rewards, which include plant pieces with collection rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ICEAGE_202411]
-1. There are a variety of different new worlds and new zombies waiting for you to explore in the secret realm of time and space, each with normal and difficult levels.
-2. Levels in normal and difficult modes have first pass rewards and normal pass rewards respectively. The first pass reward is obtained when the first pass is completed and cannot be collected repeatedly.
-3. Unlock difficult mode levels after clearing all normal mode levels.
-4. Difficult levels are unlocked as time progresses.
-5. Difficult mode has specific challenge goals. Check the challenge goals to complete the task to get rewards. Failure to achieve it will not affect normal clearance.
-6. The normal mode contains 3 challenge objectives fixedly, and the reward corresponding to this objective is obtained by completing the challenge objective for the first time
+1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
+2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
+3. Hard levels unlock after completing all normal levels.
+4. Hard levels unlock over time.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn’t affect normal progress.
+6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY]
-There are a variety of new worlds and new zombies waiting for you to explore, and each world has ordinary and difficult levels.
-2. General and difficult mode levels have the first prize and normal customs clearance, the first prize is obtained at the first customs clearance, and can not be reciprocated repeatedly.
-3.General mode level all after customs clearance unlocks difficult mode level.
-4. Difficult levels push the unlock over time.
-5.Difficult mode has specific challenge goals, select the challenge target to complete the task can be rewarded, failure to achieve the normal customs clearance.
-6. Ordinary mode fixed contains 3 challenge goals, and for the first time to complete the challenge goal can receive the reward for that goal
+1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
+2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
+3. Hard levels unlock after completing all normal levels.
+4. Hard levels unlock over time.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn’t affect normal progress.
+6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ARBORDAY]
-1. There are a variety of different new worlds and new zombies waiting for you to explore in the secret realm of time and space, each with normal and difficult levels.
-2. Levels in normal and difficult modes have first pass rewards and normal pass rewards respectively. The first pass reward is obtained when the first pass is completed and cannot be collected repeatedly.
-3. Unlock difficult mode levels after clearing all normal mode levels.
-4. Difficult levels are unlocked as time progresses.
-5. Difficult mode has specific challenge goals. Check the challenge goals to complete the task to get rewards. Failure to achieve it will not affect normal clearance.
-6. The normal mode contains 3 challenge objectives fixedly, and the reward corresponding to this objective is obtained by completing the challenge objective for the first time
+1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
+2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
+3. Hard levels unlock after completing all normal levels.
+4. Hard levels unlock over time.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn’t affect normal progress.
+6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_SPRING_FESTIVAL_2024]
 1. There are a variety of different new worlds and new zombies waiting for you to explore in the secret realm of time and space, each with normal and difficult levels.
@@ -63842,35 +63817,35 @@ Move the vehicles within the given steps to help Dave return to his house!
 {PLAYER}'s glacial nightmare
 
 [ACCOUNT_REMOVE_CONTENT_1]
-Dear player, you are in the process of deleting your account. Continuing will result in:
-1. Your diamonds, coins, plants, avatars, accessories, artifacts, fragments, tokens, items, and other in-game assets being deleted.
-2. Your game data for world levels, hard levels, Penny's Pursuit, Endless Challenge, Super Z League, Secret Realm, Plant Families, Memory Journey, Creative Garden, and other modes being deleted.
-3. Your account information will be deleted and cannot be recovered.
+Dear player, you are about to perform an account deletion operation. Proceeding will result in:
+1. Your diamonds, coins, plants, outfits, decorations, artifacts, shards, tokens, items in various modes, and other in-game assets being deleted.
+2. Your game progress, including World Levels, Hard Levels, Penny’s Pursuit, Endless Challenge, Arena, Temporal Treasures, Plant Families, Travel Memories, and Creative Courtyard data, being erased.
+3. Your account information being permanently deleted and irretrievable.
 
-If this was an accidental action, please click the top-right corner to close, and your game data will be retained.
+If this is a mistake, please click the close button in the top-right corner to retain your game data.
 
 [ACCOUNT_REMOVE_CONTENT_2]
-Your account will enter a 10-day freeze period. After selecting the freeze period, your account will be deactivated for 10 days.
-During these 10 days, you can log in and cancel the freeze on your own.
+Your account will enter a 10-day freeze period. During this time, your account will be deactivated for 10 days.
+You may log in within this period to cancel the freeze yourself.
 
 [ACCOUNT_REMOVE_CONTENT_3]
-1. After account deletion, all game data and virtual items will be permanently removed!!
-2. You will no longer be able to log in with this game account!!
+1. Once the account deletion is complete, all game data and virtual items will be permanently erased!!
+2. You will no longer be able to use this account to log into the game!!
 
-If you understand, please click 【Confirm and Submit】. Once the account deletion request is submitted, it cannot be undone! Our staff will proceed with the deletion process, please be patient!
+If you understand, please click [Confirm and Submit]. Once submitted, the deletion request cannot be withdrawn! Our staff will process the account deletion after submission. Please be patient!
 
 [ACCOUNT_REMOVE_CONTENT_4]
 Your account: {ACCOUNT}
 
-This account has applied for deletion on {TIME}, and the account will be officially deleted within 30 days from the application date.
+This account requested deletion on {TIME}. The account will be permanently deleted within 30 days from the application date.
 
 [ACCOUNT_REMOVE_CONTENT_5]
 Your account: {ACCOUNT}
 
-This account is in a deactivated state and will be deleted on {TIME}. If this was an accidental deletion, please click 【Restore Account】 to return to the game.
+This account is currently in a deactivated state and will be permanently deleted on {TIME}. If this was a mistake, please click [Recover Account] to re-enter the game.
 
 [ACCOUNT_REMOVE_CONTENT_6]
-Your account has been deleted. Please create a new account to start playing.
+Your account has been deleted. Please create a new account to start the game.
 
 [NARRATIVE_NEW_PVP_START_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I love these blue flags on the bottom line, guard them!
@@ -64888,51 +64863,51 @@ Task Activity Instructions
 [NEW_PVP_TASK_DESCRIPTION]
 Activity Rules:
 
-[NEW_PVP_TASK_DESCRIPTION_21]
+[NEW_PVP_TASK_DESCRIPTION_26]
 1. Complete daily and weekly tasks to earn XP. Every 1000 XP levels you up with rewards.
 2. Each day, 3 new tasks are added if slots are empty, without affecting progress.
 3. Weekly tasks unlock over 4 weeks and remain completable until the season ends.
-4. Higher levels grant better rewards. Levels 1–50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
+4. Higher levels grant better rewards. Levels 1-50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
 5. Activate Premium Access to unlock premium rewards, boost task XP by 20%, and instantly receive 270 Duel Coins and the season plant.
 6. Use Duel Coins in the "Lucky Spin" for rewards. With Premium Access and up to level 50, you can clear all Treasure Spin rewards.
 7. Treasure Spin rewards can only be claimed once. When drawn, their probability redistributes. Initial probabilities:
 Gold 22.67%, Diamonds 22.66%, Ornament 19.26%, Green Plant 11.33%, Blue Plant 7.93%, Purple Plant 11.33%, Orange Plant 2.49%, Super Ornament 2.04%, Vine & Costume Box 0.23%, Advanced Book 0.06%.
 
-[NEW_PVP_TASK_DESCRIPTION_22]
+[NEW_PVP_TASK_DESCRIPTION_27]
 1. Complete daily and weekly tasks to earn XP. Every 1000 XP levels you up with rewards.
 2. Each day, 3 new tasks are added if slots are empty, without affecting progress.
 3. Weekly tasks unlock over 4 weeks and remain completable until the season ends.
-4. Higher levels grant better rewards. Levels 1–50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
+4. Higher levels grant better rewards. Levels 1-50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
 5. Activate Premium Access to unlock premium rewards, boost task XP by 20%, and instantly receive 270 Duel Coins and the season plant.
 6. Use Duel Coins in the "Lucky Spin" for rewards. With Premium Access and up to level 50, you can clear all Treasure Spin rewards.
 7. Treasure Spin rewards can only be claimed once. When drawn, their probability redistributes. Initial probabilities:
 Gold 22.67%, Diamonds 22.66%, Ornament 19.26%, Green Plant 11.33%, Blue Plant 7.93%, Purple Plant 11.33%, Orange Plant 2.49%, Super Ornament 2.04%, Vine & Costume Box 0.23%, Advanced Book 0.06%.
 
-[NEW_PVP_TASK_DESCRIPTION_23]
+[NEW_PVP_TASK_DESCRIPTION_28]
 1. Complete daily and weekly tasks to earn XP. Every 1000 XP levels you up with rewards.
 2. Each day, 3 new tasks are added if slots are empty, without affecting progress.
 3. Weekly tasks unlock over 4 weeks and remain completable until the season ends.
-4. Higher levels grant better rewards. Levels 1–50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
+4. Higher levels grant better rewards. Levels 1-50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
 5. Activate Premium Access to unlock premium rewards, boost task XP by 20%, and instantly receive 270 Duel Coins and the season plant.
 6. Use Duel Coins in the "Lucky Spin" for rewards. With Premium Access and up to level 50, you can clear all Treasure Spin rewards.
 7. Treasure Spin rewards can only be claimed once. When drawn, their probability redistributes. Initial probabilities:
 Gold 22.67%, Diamonds 22.66%, Ornament 19.26%, Green Plant 11.33%, Blue Plant 7.93%, Purple Plant 11.33%, Orange Plant 2.49%, Super Ornament 2.04%, Vine & Costume Box 0.23%, Advanced Book 0.06%.
 
-[NEW_PVP_TASK_DESCRIPTION_24]
+[NEW_PVP_TASK_DESCRIPTION_29]
 1. Complete daily and weekly tasks to earn XP. Every 1000 XP levels you up with rewards.
 2. Each day, 3 new tasks are added if slots are empty, without affecting progress.
 3. Weekly tasks unlock over 4 weeks and remain completable until the season ends.
-4. Higher levels grant better rewards. Levels 1–50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
+4. Higher levels grant better rewards. Levels 1-50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
 5. Activate Premium Access to unlock premium rewards, boost task XP by 20%, and instantly receive 270 Duel Coins and the season plant.
 6. Use Duel Coins in the "Lucky Spin" for rewards. With Premium Access and up to level 50, you can clear all Treasure Spin rewards.
 7. Treasure Spin rewards can only be claimed once. When drawn, their probability redistributes. Initial probabilities:
 Gold 22.67%, Diamonds 22.66%, Ornament 19.26%, Green Plant 11.33%, Blue Plant 7.93%, Purple Plant 11.33%, Orange Plant 2.49%, Super Ornament 2.04%, Vine & Costume Box 0.23%, Advanced Book 0.06%.
 
-[NEW_PVP_TASK_DESCRIPTION_25]
+[NEW_PVP_TASK_DESCRIPTION_30]
 1. Complete daily and weekly tasks to earn XP. Every 1000 XP levels you up with rewards.
 2. Each day, 3 new tasks are added if slots are empty, without affecting progress.
 3. Weekly tasks unlock over 4 weeks and remain completable until the season ends.
-4. Higher levels grant better rewards. Levels 1–50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
+4. Higher levels grant better rewards. Levels 1-50 include Duel Coins. After level 50, rewards cycle every 10 levels, but no Duel Coins. Coins expire after the season.
 5. Activate Premium Access to unlock premium rewards, boost task XP by 20%, and instantly receive 270 Duel Coins and the season plant.
 6. Use Duel Coins in the "Lucky Spin" for rewards. With Premium Access and up to level 50, you can clear all Treasure Spin rewards.
 7. Treasure Spin rewards can only be claimed once. When drawn, their probability redistributes. Initial probabilities:
@@ -65384,10 +65359,10 @@ Confirm Filter
 All({NUMBER1}/{NUMBER2})
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
-Sure to go back to the old version of the interface?
+Are you sure you want to switch to the old interface?
 
 [NEW_PLANT_UI_SWITCH_TO_NEW]
-Sure to go back to the new version of the interface?
+Are you sure you want to switch to the new interface?
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_0]
 Ranged
@@ -70580,10 +70555,10 @@ Large meat gift pack
 Vote for your favorite plant, group purchase of plants is up to you
 
 [ACTIVITY_COLLECTION_PENNY_CLASSROOM_DESCRIPTION]
-After clearing the course in Penny's class, you can earn class points, which can be redeemed for rewards in the points store
+After completing courses in Penny's Classroom, you can earn Classroom Points and exchange them for rewards in the Points Shop.
 
 [NEWPLAYER_COLLECTION_DISCOUNT_GEM]
-    {NUMS}
+{NUMS}
 
 [NEWPLAYER_COLLECTION_DISCOUNTSOHP_BUY_CONFIRM]
 Sure to buy the gift pack?
@@ -71319,31 +71294,31 @@ Level 5 - First Half
 Level 5 - Second Half
 
 [PRODUCT_LUCKYCHEST_SHORTDESC]
-Weekly Special Offer Package
+Weekly Discount Bundle
 
 [PRODUCT_01LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (I)
+Weekly Discount Bundle (I)
 
 [PRODUCT_02LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (II)
+Weekly Discount Bundle (II)
 
 [PRODUCT_03LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (III)
+Weekly Discount Bundle (III)
 
 [PRODUCT_04LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (IV)
+Weekly Discount Bundle (IV)
 
 [PRODUCT_05LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (V)
+Weekly Discount Bundle (V)
 
 [PRODUCT_06LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (VI)
+Weekly Discount Bundle (VI)
 
 [PRODUCT_07LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (VII)
+Weekly Discount Bundle (VII)
 
 [PRODUCT_08LUCKBOX_68_SHORTDESC]
-Weekly Special Offer Package (VIII)
+Weekly Discount Bundle (VIII)
 
 [PLANTWARS_MODE_HOW_TO_PLAY_1]  
 Event Time
@@ -71820,7 +71795,7 @@ Attack Power Increased by 30%
 Jingle Bell
 
 [GINGLEBELL_RANK_DAMAGE_TEXT]
-Cumulative Damage
+All damages
 
 [GINGLEBELL_RANK_TEXT]
 Top {NUMBER}% of the server
@@ -71861,10 +71836,10 @@ Theme Challenge
 Daily Rewards
 
 [PVZ2TRAINING_DPSDAMAGETEXT]
-Damage per Second: {NUMBER}
+Dmg/s: {NUMBER} 
 
 [PVZ2TRAINING_TOTALDAMAGETEXT]
-Total Damage: {NUMBER}
+Total Damage: {NUMBER} 
 
 [PVZ2TRAINING_DAMAGE1]
 This Round Damage: {NUMBER}
@@ -71882,46 +71857,46 @@ Jingle Bell
 Deal {NUMBER} damage to the snowman in the latest stage
 
 [A_PILE_SNOWMEN1_TITLE]
-Firepower Test - Stage 1
+Primal Pea - Stage 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Firepower Test - Stage 2
+Primal Pea - Stage 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Firepower Test - Stage 3
+Primal Pea - Stage 3
 
 [CONVEYER_BELT1_TITLE]
-Accuracy Test - Stage 1
+Angel Starfruit - Stage 1
 
 [CONVEYER_BELT2_TITLE]
-Accuracy Test - Stage 2
+Angel Starfruit - Stage 2
 
 [CONVEYER_BELT3_TITLE]
-Accuracy Test - Stage 3
+Angel Starfruit - Stage 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Tactical Test - Stage 1
+Eggplant Ninja - Stage 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Tactical Test - Stage 2
+Eggplant Ninja - Stage 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Tactical Test - Stage 3
+Eggplant Ninja - Stage 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
-Challenge to deal the highest damage in 30 seconds!
-
-[SNOWNIGHTSTAGE2_LEVEL_NAME]
-Accuracy Test - Stage {LEVEL_NUMBER}
+Challenge: Deal the highest damage in 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Firepower Test - Stage {LEVEL_NUMBER}
+Primal Pea - Stage {LEVEL_NUMBER}
+
+[SNOWNIGHTSTAGE2_LEVEL_NAME]
+Angel Starfruit - Stage {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Tactical Test - Stage {LEVEL_NUMBER}
+Eggplant Ninja - Stage {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Snowman Testing Journey
+{PLAYER}'s Snowman Time !
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Lunisolar Honeysuckle Winter Outfit
