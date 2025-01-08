@@ -1,4 +1,4 @@
-This translation, as being created by evilhack28 this version is based on the 3.5.8
+This translation, as being created by evilhack28 this version is based on the 3.5.9
 You can't change the file without saying it was based on my translation first 
 
 Discord: https://discord.com/invite/ngTHrgMVuw
@@ -6,9 +6,6 @@ Youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
 [COMPLAIN_CONTENT]
---1.5.0--
-Added 3.5.8 text
-
 --1.5.1--
 just test
 
@@ -17,36 +14,42 @@ Fix lastest plants
 fix event text 
 fix a lot of other text
 
+--1.5.3--
+Fix some event Translation 
+fix some plants costume name 
+and add missing text 
+and did some little text fix
+
 [HEALTH_NOTICE_CONTENT_3]
 Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from  January 5 (beta) V1.5.2
+translate by evilhack28 version from  January 8 (beta) V1.5.3
 
 [SPRING_TIPS_1]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_2]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_3]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_4]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_5]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_6]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_7]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 [SPRING_TIPS_8]
-Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck in the Cornucopia event
+Created by ^FF0000 evil^oldclr^hack28 have a nice day Good luck with Chest
 
 
 [THYMEWARP]
@@ -2827,19 +2830,19 @@ fires 60 peas and ^FFFF00 three big frozen peas that deal 600 damage^oldclr^ whe
 Attack increased by {Param_1}%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_1]
-Winter Hat
+Snow Pea Eternal Warrior
 
 [NEW_AVATAR_DESCRIPTION_SNOWPEA]
 Freeze damage increased by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_2]
-Naraka: Bladepoin
+Snow Pea Winter Hat
 
 [NEW_AVATAR_DESCRIPTION_SNOWPEA_2]
 Attack speed increased by 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_3]
-Eternal Warrior
+Snow Pea Naraka: Bladepoin
 
 [TORCHWOOD]
 Torchwood
@@ -4078,13 +4081,13 @@ This plant does not have an plants food effect
 [HEATHSEEKER_AVATAR_PLANTFOOD_DESCRIPTION]
 This plant does not have an plants food effect 
 
-[GENE_DESCRIPTION_HEATHSEEKER]  
+[GENE_DESCRIPTION_HEATHSEEKER]
 has a {Param_1}% chance to double the number of darts fired
 
-[STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]  
+[STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
 Heath Seeker Costume  
 
-[STORE_PRODUCT_AVATAR_HEATHSEEKER]  
+[STORE_PRODUCT_AVATAR_HEATHSEEKER]
 Reduces planting cooldown by 20%
 
 
@@ -4980,7 +4983,7 @@ Growth Gift Package
 [NEW_AVATAR_DESCRIPTION_ORCHIDMAGE_1]
 Planting cooldown reduced by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_2]  
+[NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_2]
 Orchid Mage Party exlusive Outfit
 
 
@@ -7351,7 +7354,7 @@ Crescendo
 [HEAVENDATURA_SKILL_LEVEL5_DES]
 The damage of consecutive notes will gradually increase, and the damage of each passing note will increase by 0.5 times, up to a maximum of 3 times the damage.
 
-[HEAVENDATURA_NEW_SKILL_LEVEL1_DES]  
+[HEAVENDATURA_NEW_SKILL_LEVEL1_DES]
 Tap on the Datura to play a single note, and swipe to change the pitch of the note. When a projectile passes through, it emits a sound wave that damages zombies in a 1-tile range in front of it. Different sound effects are played based on the pitch. When planting multiple Daturas, starting from the 3rd note, the damage range increases to 3x3, and from the 5th note onwards, the range expands to 5x5.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL2_DES]
@@ -7372,13 +7375,13 @@ Gramophone Datura releases a 5x5 wave that deals huge damage and stun zombies.
 [HEAVENDATURA_AVATAR_PLANTFOOD_DESCRIPTION]
 5x5 wave now launches zombies in the air.
 
-[STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]  
+[STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
 Gramophone Datura Costume  
 
-[HEAVENDATURA_AVATAR_NAME]  
+[HEAVENDATURA_AVATAR_NAME]
 Gramophone Datura Costume  
 
-[STORE_PRODUCT_AVATAR_HEAVENDATURA]  
+[STORE_PRODUCT_AVATAR_HEAVENDATURA]
 5x5 wave now launches zombies in the air.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HEAVENDATURA_1]
@@ -10381,7 +10384,7 @@ This username already exists
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_RIFT_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hello, Penny seems to have tracked down the signal of the Doctor Zomboss, come take a look!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hello, Penny seems to have tracked down the signal of Zomboss, come take a look!
 
 [NARRATIVE_TUTORIAL_RIFT_INTRO_2]
 {NPC_EXIT:crazydave}
@@ -12398,13 +12401,13 @@ Achieve target score
 Battle of Cannon
 
 [STARCHALLENGE_CHALLENGE_HEADER_DOUBLE]
-Clearance conditions:
+Victory Condition
 
 [STARCHALLENGE_CHALLENGE_HEADER_MULTIPLE]
-Clearance conditions:
+Victory Conditions
 
 [STARCHALLENGE_CHALLENGE_HEADER_SINGLE]
-Clearance conditions:
+Victory Condition
 
 [STARCHALLENGE_CORRAL_MINIGAME]
 Successfully fending off zombie invasions
@@ -12484,10 +12487,10 @@ Kill {ZOMBIES} zombies in {TIME} seconds
 Kill zombies in time
 
 [STARCHALLENGE_LASTSTAND_MINIGAME]
-Build your line of defense against zombie attacks
+Build your defense against zombie attacks
 
 [STARCHALLENGE_LASTSTAND_MINIGAME_NAME]
-Indestructible
+Unbreakable
 
 [STARCHALLENGE_MOLD_MINIGAME]
 Mold strikes, hard
@@ -12844,13 +12847,13 @@ Complete the level without using Plant Food.
 No Plant Food
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
-Using Plant Food will prevent you from earning stars. Are you sure you want to use it?
+Using Plant Food will lost stars. Proceed?  
 
 [MISTAKE_CLICK]
-I clicked by mistake
+I clicked by mistake.  
 
 [NEVER_REMIND_AGAIN]
-Do not remind me again
+Do not remind me again.  
 
 [STARCHALLENGE_PROTECT_PLANT]
 Protect the initially existing plants on the field from being eaten by zombies.
@@ -14393,7 +14396,7 @@ Stamina x55
 Stamina x110
 
 [PRODUCT_PLANTTRIAL_1_IOS]
-Plant Adventure - Tier 1 Peashooter
+Plant Adventure - Level 1 Peashooter
 
 [PRODUCT_GEM_60_DESC_IOS]
 60 Gems
@@ -15601,7 +15604,7 @@ The Treasure Snowman runs away
 You need to knock the Treasure Snowman down before he escapes, so that you can get its treasure!
 
 [YETI_ENTER_ADVICE]
-Defeat the Treasure Snowman for a mysterious reward, be careful not to let it run.
+Defeat the Treasure Yeti to earn mysterious rewards. Be careful not to let it escape.
 
 [STARCHALLENGE_YETI_DEMO]
 Resist the zombie invasion and get new plants.
@@ -17776,13 +17779,13 @@ Pepper-pult's Costume
 [CHARDGUARD_AVATAR_NAME]
 Chard Guard's Costume
 
-[ACTIVITY_DOUBLE_COINS]  
+[ACTIVITY_DOUBLE_COINS]
 Event Time! Earn double coin rewards!
 
-[RECHARGE_DOUBLE_COINS]  
+[RECHARGE_DOUBLE_COINS]
 Cumulative Recharge Perk! Earn double coin rewards!
 
-[ACTIVITY_RECHARGE_URFOLD_COINS]  
+[ACTIVITY_RECHARGE_URFOLD_COINS]
 Event Time and Cumulative Recharge Perk combined! Earn quadruple coin rewards!
 
 [STORE_GIFT_LUXURY_GIFT_BUY_FINISH]
@@ -17916,7 +17919,7 @@ Possible to obtain:
 Expedition time:
 
 [PLANT_ADVENTURE_DUNGEON_CHANCES_LEFT]
-Left time:: {CHANCES}
+Left time: {CHANCES}
 
 [PLANT_ADVENTURE_DUNGEON_TIME_LEFT]
 Time Left:
@@ -17948,11 +17951,11 @@ Limit Reached
 
 [PLANT_ADVENTURE_BONUS_AD_BEFORE_WATCH]
 Watch the ads and double your reward
-Left time::
+Left time:
 
 [PLANT_ADVENTURE_BONUS_AD_AFTER_WATCH]
 Congratulations on having already received the double reward
-Left time::
+Left time:
 
 [PLANT_ADVENTURE_BONUS_TITLE]
 Adventure Completed
@@ -18741,19 +18744,19 @@ Throws various explosives and zombies.
 Zombot Sphinx-inator
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT_DESCRIPTION]
-{FLAVOR}It's said that the vehicle reflects its owner, and this saying applies to the Doctor Zomboss as well.
+{FLAVOR}It's said that the vehicle reflects its owner, and this saying applies to Zomboss as well.
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT_DESCRIPTION_HEADER]
-Driving a desert-specialized high-tech vehicle, the Doctor Zomboss will employ various attack methods.
+Driving a desert-specialized high-tech vehicle, Zomboss will employ various attack methods.
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE]
 Zombot Plank Walker
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE_DESCRIPTION]
-{FLAVOR}The legendary amphibious MKII vehicle is the Doctor Zomboss's latest masterpiece. It boasts immense power and agility, and has a powerful ramming horn as a siege weapon, the Doctor explained to the surrounding zombies.
+{FLAVOR}The legendary amphibious MKII vehicle is Zomboss's latest masterpiece. It boasts immense power and agility, and has a powerful ramming horn as a siege weapon, the Doctor explained to the surrounding zombies.
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE_DESCRIPTION_HEADER]
-Driving a sea-battle specialized high-tech vehicle, the Doctor Zomboss will employ various attack methods.
+Driving a sea-battle specialized high-tech vehicle, Zomboss will employ various attack methods.
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY]
 Zombot War Wagon
@@ -18762,7 +18765,7 @@ Zombot War Wagon
 {FLAVOR}Power, power, power. When the Doctor completed his new ride, the power unit became a major challenge. Embracing the philosophy of great strength leads to miracles, the Doctor ultimately chose an unimaginable power structure—Doctorism—to drive the vehicle, as you can see from its spectacular entrance.
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY_DESCRIPTION_HEADER]
-Driving a plains-specialized high-tech vehicle, the Doctor Zomboss will employ various attack methods.
+Driving a plains-specialized high-tech vehicle, Zomboss will employ various attack methods.
 
 [ZOMBIE_ZOMBOSSMECH_FUTURE]
 Zombot Tomorrow-tron
@@ -18770,28 +18773,28 @@ Zombot Tomorrow-tron
 [ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION]
 {KEYWORD}Feature: {STAT}Destroy reinforced tiles with missile attacks.
 
-{FLAVOR}When the Doctor Zomboss sits comfortably in his future brain control compartment, he almost doesn't want to continue being a villain. Of course, this thought quickly dissipates upon seeing a vast array of joyful plants. He immediately returns to his role as a hungry and wicked arch-villain.
+{FLAVOR}When Zomboss sits comfortably in his future brain control compartment, he almost doesn't want to continue being a villain. Of course, this thought quickly dissipates upon seeing a vast array of joyful plants. He immediately returns to his role as a hungry and wicked arch-villain.
 
 [ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION_HEADER]
-After taking a vacation for many years in a distant time, the Doctor Zomboss will employ various high-tech weapons.
+After taking a vacation for many years in a distant time, Zomboss will employ various high-tech weapons.
 
 [ZOMBIE_ZOMBOSSMECH_BEACH]
 Zombot Sharktronic Sub
 
 [ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION]
-{FLAVOR}When the Doctor Zomboss's trusted engineer, Xiao Ming, sank his experimental ship, which he couldn't even count the fingers and toes of, the next generation of the Doctor Zomboss's specialized aquatic vehicle was born. It has the ability to float in water and won't rust too quickly! Although its power system often stalls due to consuming too much seaweed, the Doctor still gave it a cool name—the Big Eye.
+{FLAVOR}When Zomboss's trusted engineer, Xiao Ming, sank his experimental ship, which he couldn't even count the fingers and toes of, the next generation of Zomboss's specialized aquatic vehicle was born. It has the ability to float in water and won't rust too quickly! Although its power system often stalls due to consuming too much seaweed, the Doctor still gave it a cool name—the Big Eye.
 
 [ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION_HEADER]
-Driving a mechanical shark, the Doctor Zomboss leads a large group of sharks.
+Driving a mechanical shark, Zomboss leads a large group of sharks.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM]
 Steam Zombot
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION]
-{FLAVOR}There are no traffic lights here, right? The Doctor Zomboss stands on his beloved steam train, pointing ahead.
+{FLAVOR}There are no traffic lights here, right? Zomboss stands on his beloved steam train, pointing ahead.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
-The Doctor Zomboss from the Steam Age and his little trains make a grand appearance.
+Zomboss from the Steam Age and his little trains make a grand appearance.
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA]
 Fairytale Zombot
@@ -18882,10 +18885,10 @@ Please click on the Fire Gourd to spray fire.
 The flames of the Fire Gourd can effectively clear weapon racks.
 
 [UPGRADE_KONGFU_COMING_SOON]
-The Doctor Zomboss is coming soon!
+Zomboss is coming soon!
 
 [UPGRADE_KONGFU_COMING_SOON_INFO]
-The Doctor Zomboss has also crossed into the KongFu, and the plants will face unprecedented challenges. Guard your brains!
+Zomboss traveled to the Kung Fu, bringing challenges for the plants. Keep your brain !
 
 [UPGRADE_MOWER_4_INFO]
 Obtain the Lawn Mower for Easy difficulty in KongFu, which can withstand one zombie attack on the house.
@@ -18960,13 +18963,13 @@ Challenges
 Please complete the difficulty mode first to unlock that difficulty
 
 [FESTIVALGAME_LEFTTIMES]
-Left time::
+Left time:
 
 [FESTIVALGAME_LEFTTIME_HEAD]
 The number of times today has been used up
 
 [FESTIVALGAME_OPEN_TIME]
-Opening hours: ^31FFE9 per
+Open every:^31FFE9
 
 [FESTIVALGAME_LEFTTIME_TIP]
 Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds to buy one more attempt?
@@ -19000,7 +19003,7 @@ Coconut Cannon
 Yeti Invasion
 
 [FESTIVALGAMEMODE_GARGANTUARCRISIS_TITLE]
-Giant Crisis
+Gargantuar Crisis
 
 [FESTIVALGAMEMODE_DEVILINVADE_TITLE]
 Evil Invasion
@@ -19021,10 +19024,10 @@ Difficult
 Legendary
 
 [FESTIVALGAMELEVEL_PLANTPIECE_REWARD]
-Challenge Rewards: Plant pieces
+Rewards: Plant pieces
 
 [FESTIVALGAMELEVEL_AVATARSPIECE_REWARD]
-Challenge Rewards: Costume Pieces
+Rewards: Costume Pieces
 
 [WEEK_MONDAY]
 Monday
@@ -19361,22 +19364,22 @@ Win to get precious plants and Costume!
 Click Enter
 
 [GARGANTUARLEVEL_EASY]
-Giant Crisis Normal
+Gargantuar easy
 
 [GARGANTUARLEVEL_NORMAL]
-Giant Crisis Difficulty
+Gargantuar normal
 
 [GARGANTUARLEVEL_HARD]
-Giant Crisis Legend
+Gargantuar Legends
 
 [YETILEVEL_EASY]
-Rampage snowman ordinary
+Yeti easy
 
 [YETILEVEL_NORMAL]
-Rampage snowmandifficult
+Yeti normal
 
 [YETILEVEL_HARD]
-Rampage Snowman Legend
+Yeti legends
 
 [WEALTHGOD_EASY]
 Welcome to the God of Wealth ordinary
@@ -19709,7 +19712,7 @@ Open 10 for 300
 Open 1 for 35
 
 [SPRING_GIFT_DES]
-^ffff00^{PLANT_NAME}^oldclr^ ^ff0000^Directly promoted to Tier 3^oldclr^
+^ffff00^{PLANT_NAME}^oldclr^ ^ff0000^Directly promoted to Level 3^oldclr^
 
 [SPRING_GIFT_GEM_DES]
 ^ff0000^{GEM_COUNT}^oldclr^ ^ffff00^Diamonds^oldclr^
@@ -19980,13 +19983,13 @@ Further increases the firing range of Machine Gun Pomegranate by an additional g
 Enhanced Teeth
 
 [CHOMPER_SKILL1_LEVEL1_DES]
-Allows Chomper to devour second-tier zombies, and after devouring one zombie, pushes other zombies back by one grid, speeding up digestion by 10%.
+Allows Chomper to devour second-Level zombies, and after devouring one zombie, pushes other zombies back by one grid, speeding up digestion by 10%.
 
 [CHOMPER_SKILL1_LEVEL2]
 Devour Enhancement
 
 [CHOMPER_SKILL1_LEVEL2_DES]
-Allows Chomper to devour third-tier zombies, and after devouring one zombie, pushes other zombies back by one grid, speeding up digestion by 20%.
+Allows Chomper to devour third-Level zombies, and after devouring one zombie, pushes other zombies back by one grid, speeding up digestion by 20%.
 
 [CHOMPER_SUPERSKILL_NAME]
 Big Bite
@@ -20250,13 +20253,13 @@ again 1 time
 {NPC_ENTER:zombossicon}Humph, my latest creation, the Super Zombie MKII, has finally entered the field. With your wisdom, it's impossible for you to think of upgrading your plants to level 2 to deal with it!
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL3_1]
-{NPC_ENTER:zombossicon}Your luck ends here! My latest creation, the Tier 3 Super Zombie, is unbeatable! Unless you upgrade your plants to level 3... Oops, almost spilled the beans. Anyway, enjoy yourselves, haha!
+{NPC_ENTER:zombossicon}Your luck ends here! My latest creation, the Level 3 Super Zombie, is unbeatable! Unless you upgrade your plants to level 3... Oops, almost spilled the beans. Anyway, enjoy yourselves, haha!
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL4_1]
-{NPC_ENTER:zombossicon}Dear plants, the unprecedented Tier 4 zombie, Z-800, has finally been developed by me. I believe you will have an intuitive understanding of their power. If you haven't upgraded to level 4 yet, then just wait to have your brains eaten by it!
+{NPC_ENTER:zombossicon}Dear plants, the unprecedented Level 4 zombie, Z-800, has finally been developed by me. I believe you will have an intuitive understanding of their power. If you haven't upgraded to level 4 yet, then just wait to have your brains eaten by it!
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL5_1]
-{NPC_ENTER:zombossicon}Dear plants, are you ready to tremble? Let me introduce you to my masterpiece, um... Although I haven't named it yet, you won't be able to handle this Tier 5 enhanced zombie. Just surrender your brains obediently.
+{NPC_ENTER:zombossicon}Dear plants, are you ready to tremble? Let me introduce you to my masterpiece, um... Although I haven't named it yet, you won't be able to handle this Level 5 enhanced zombie. Just surrender your brains obediently.
 
 [NARRATIVE_ELIMINATE_BLOCK_INTRO_1]
 {NPC_ENTER:crazydave}{SAY:crazydave}Frozen balls cannot be connected! Eliminate the surrounding balls to melt it!
@@ -21236,13 +21239,13 @@ Increases the probability of Venom Spray by 100%.
 Intermediate Charm
 
 [HYPNOSHROOM_SKILL1_LEVEL1_DES]
-Turns zombies that eat Hypno-shroom into second-tier zombies and enhances them by 20%.
+Turns zombies that eat Hypno-shroom into second-Level zombies and enhances them by 20%.
 
 [HYPNOSHROOM_SKILL1_LEVEL2]
 Advanced Charm
 
 [HYPNOSHROOM_SKILL1_LEVEL2_DES]
-Turns zombies that eat Hypno-shroom into third-tier zombies and enhances them by 40%.
+Turns zombies that eat Hypno-shroom into third-Level zombies and enhances them by 40%.
 
 [PEANUT_SKILL1_LEVEL1]
 Simultaneous Fire
@@ -21260,13 +21263,13 @@ Increases the chance of Simultaneous Fire by 100%.
 Strong Magnetic Field
 
 [MAGNETSHROOM_SKILL1_LEVEL1_DES]
-Enables Magnet-shroom to affect second-tier zombies and increases recovery speed by 15%.
+Enables Magnet-shroom to affect second-Level zombies and increases recovery speed by 15%.
 
 [MAGNETSHROOM_SKILL1_LEVEL2]
 Super Magnetic Field
 
 [MAGNETSHROOM_SKILL1_LEVEL2_DES]
-Enables Magnet-shroom to affect third-tier zombies and increases recovery speed by 30%.
+Enables Magnet-shroom to affect third-Level zombies and increases recovery speed by 30%.
 
 [SUNSHROOM_SKILL1_LEVEL1]
 Rapid Growth
@@ -21314,7 +21317,7 @@ Get Fire-shroom a 25% chance to summon a fireball in the air with its regular at
 Upgrade to Level %d to unlock.
 
 [CURRENT_PLANTS_LEVEL_IS_LOW]
-This level has {ZOMBIE_LEVEL}-tier zombies. It is recommended to bring {PLANT_LEVEL}-tier plants. Would you like to reselect?
+This level has {ZOMBIE_LEVEL}-Level zombies. It is recommended to bring {PLANT_LEVEL}-Level plants. Would you like to reselect?
 
 [FILTER_WARNING]
 The name you entered contains sensitive characters. Please re-enter.
@@ -21416,7 +21419,7 @@ Farmer Zombie
 {FLAVOR}Upon hearing someone shout, Wake up, undead! the farmer zombie opens his eyes, but he can't remember anything from before.
 
 [ZOMBIE_DARK_DESCRIPTION_HEADER]
-A regular, common, low-tier zombie.
+A regular, common, low-Level zombie.
 
 [ZOMBIE_DARK_ARMOR1]
 Conehead Farmer Zombie
@@ -21544,7 +21547,7 @@ Dark Mechanical Dragon Zombie
 [ZOMBIE_ZOMBOSSMECH_DARK_DESCRIPTION]
 {KEYWORD}Damage: {STAT} Flame breath can damage and destroy plants
 {KEYWORD}Special: {STAT} Throws fireballs that can hatch Dragon Imp zombies
-{FLAVOR}Accompanied by the roar of world destruction, the Doctor Zomboss crafted his mechanical dragon in the heart of a blazing volcano, then tempered it in the frigid waters of the Beast Apocalypse Lake. Finally, he filled it with the deadly coal from the dead mine. Oh, by the way, his neighbor's kid, Xiao Ming, did the paint job.
+{FLAVOR}Accompanied by the roar of world destruction, Zomboss crafted his mechanical dragon in the heart of a blazing volcano, then tempered it in the frigid waters of the Beast Apocalypse Lake. Finally, he filled it with the deadly coal from the dead mine. Oh, by the way, his neighbor's kid, Xiao Ming, did the paint job.
 
 [ZOMBIE_ZOMBOSSMECH_DARK_DESCRIPTION_HEADER]
 From the Dark Ages, destroying everything.
@@ -24393,22 +24396,22 @@ Sun Gear
 A gear that fell off a car, surprisingly with a sun pattern on it.
 
 [SUN_GEAR_1_BOOST_DES]
-Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-tier sun plants ^oldclr 2. Planting cooldown time reduced by 15% 3. Not unlocked
+Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 15% 3. Not unlocked
 
 [SUN_GEAR_1_BOOST_DES_1]
-Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-tier sun plants ^oldclr 2. Planting cooldown time reduced by 18% 3. Not unlocked
+Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 18% 3. Not unlocked
 
 [SUN_GEAR_1_BOOST_DES_2]
-Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-tier sun plants ^oldclr 2. Planting cooldown time reduced by 21% 3. Not unlocked
+Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 21% 3. Not unlocked
 
 [SUN_GEAR_1_BOOST_DES_3]
-Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-tier sun plants ^oldclr 2. Planting cooldown time reduced by 24% 3. Returns 15% of sun cost when planting
+Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 24% 3. Returns 15% of sun cost when planting
 
 [SUN_GEAR_1_BOOST_DES_4]
-Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-tier sun plants ^oldclr 2. Planting cooldown time reduced by 27% 3. Returns 20% of sun cost when planting
+Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 27% 3. Returns 20% of sun cost when planting
 
 [SUN_GEAR_1_BOOST_DES_5]
-Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-tier sun plants ^oldclr 2. Planting cooldown time reduced by 30% 3. Returns 25% of sun cost when planting
+Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 30% 3. Returns 25% of sun cost when planting
 
 [TRAVEL_TOGETHER_1]
 Time Capsule
@@ -24851,23 +24854,23 @@ Opening the red packet can get you the limited-time plant ^FF0000 Bamboo Brother
 
 Opening red packets before the sixth day of the lunar new year (2.24) also allows you to participate in the leaderboard competition and receive rewards:
 
-1st Place: Resin Pitcher Pieces *90, Tier 4 Accessory Super Energy Powder Barrel, Tier 4 Accessory Rubber Duck Swimming Ring
+1st Place: Resin Pitcher Pieces *90, Level 4 Accessory Super Energy Powder Barrel, Level 4 Accessory Rubber Duck Swimming Ring
 
-2nd Place: Resin Pitcher Pieces *80, Tier 4 Accessory Super Energy Powder Barrel, Tier 4 Accessory Rubber Duck Swimming Ring
+2nd Place: Resin Pitcher Pieces *80, Level 4 Accessory Super Energy Powder Barrel, Level 4 Accessory Rubber Duck Swimming Ring
 
-3rd Place: Resin Pitcher Pieces *70, Tier 4 Accessory Super Energy Powder Barrel, Tier 4 Accessory Rubber Duck Swimming Ring
+3rd Place: Resin Pitcher Pieces *70, Level 4 Accessory Super Energy Powder Barrel, Level 4 Accessory Rubber Duck Swimming Ring
 
-4th to 10th Place: Resin Pitcher Pieces *60, Tier 4 Accessory Super Energy Powder Barrel, Tier 4 Accessory Rubber Duck Swimming Ring
+4th to 10th Place: Resin Pitcher Pieces *60, Level 4 Accessory Super Energy Powder Barrel, Level 4 Accessory Rubber Duck Swimming Ring
 
-11th to 50th Place: Resin Pitcher Pieces *50, Tier 3 Accessory High-Energy Powder Barrel
+11th to 50th Place: Resin Pitcher Pieces *50, Level 3 Accessory High-Energy Powder Barrel
 
-51st to 100th Place: Resin Pitcher Pieces *40, Tier 3 Accessory High-Energy Powder Barrel
+51st to 100th Place: Resin Pitcher Pieces *40, Level 3 Accessory High-Energy Powder Barrel
 
-101st to 200th Place: Resin Pitcher Pieces *30, Tier 3 Accessory High-Energy Powder Barrel
+101st to 200th Place: Resin Pitcher Pieces *30, Level 3 Accessory High-Energy Powder Barrel
 
-201st to 500th Place: Resin Pitcher Pieces *20, Tier 3 Accessory High-Energy Powder Barrel
+201st to 500th Place: Resin Pitcher Pieces *20, Level 3 Accessory High-Energy Powder Barrel
 
-501st to 1000th Place: Resin Pitcher Pieces *10, Tier 3 Accessory High-Energy Powder Barrel
+501st to 1000th Place: Resin Pitcher Pieces *10, Level 3 Accessory High-Energy Powder Barrel
 
 [REDPACK_OPEN]
 Red Pack Opening
@@ -26281,7 +26284,7 @@ Try luck
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}He's that what zombie... Oh, Zombie Master!
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_5]
-{TIRED:winnie}Oh, Dave, I need to make a necessary reminder, he's the Doctor Zomboss.
+{TIRED:winnie}Oh, Dave, I need to make a necessary reminder, he's Zomboss.
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_6]
 {EXCITED:winnie}Maybe we should set a timer to see how long he can last this time.
@@ -26302,7 +26305,7 @@ Try luck
 {TIRED:winnie}Perhaps he really is researching something terrible, we need to be careful.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Welcome, everyone, the Doctor Zomboss is here to greet all of you plant friends.
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Welcome, everyone, Zomboss is here to greet all of you plant friends.
 (MADE BY EVIL)
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_2]
@@ -26321,7 +26324,7 @@ Try luck
 {TIRED:winnie}Dear Dave, forget about the corn rolls...
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_7]
-{EXCITED:winnie}We need to take down the Doctor Zomboss first!
+{EXCITED:winnie}We need to take down Zomboss first!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Well done, we got him!
@@ -26540,10 +26543,10 @@ Get any pendant pieces {NUMBER} on the same day
 Get any Costume pieces {NUMBER} on the same day
 
 [DAILY_ACHIEVEMENT_CONTENT_5]
-Clear any difficulty level on the same day. Rampage Snowman level {NUMBER} times
+Clear any difficulty level on the same day. Yeti invasion level {NUMBER} times
 
 [DAILY_ACHIEVEMENT_CONTENT_6]
-Clear any difficulty giant crisis level {NUMBER} times on the same day
+Clear any difficulty gargantuar Crisis level {NUMBER} times on the same day
 
 [DAILY_ACHIEVEMENT_CONTENT_7]
 Clear any difficulty evil invasion level {NUMBER} times that day
@@ -26588,7 +26591,7 @@ The number of rewards received on this page is not included in the number achiev
 
 [DAILY_ACHIEVEMENT_CONTENT_20151002]
 ^FF0000 Tip: ^oldclr 
-costume pieces can be obtained through Penny's Shop, Treasures, Rampage Snowman Challenge, etc;
+costume pieces can be obtained through Penny's Shop, Treasures, Yeti invasion Challenge, etc;
 The number of rewards received on this page is not included in the number achieved, and the achievements are refreshed at 0 points daily
 
 [DAILY_ACHIEVEMENT_CONTENT_20151003]
@@ -26602,12 +26605,12 @@ Stars are available through mainline levels
 
 [DAILY_ACHIEVEMENT_CONTENT_20151005]
 ^FF0000 Tip: ^oldclr 
-costume pieces can be obtained through Penny's Shop, Treasures, Rampage Snowman Challenge, etc;
+costume pieces can be obtained through Penny's Shop, Treasures, Yeti invasion Challenge, etc;
 The number of rewards received on this page is not included in the number achieved, and the achievements are refreshed at 0 points daily
 
 [DAILY_ACHIEVEMENT_CONTENT_20151006]
 ^FF0000 Tip: ^oldclr 
-Click the challenge button in the main interface to enter the levels of Evil Invasion, Giant Crisis, and Rampage Snowman; achievements are refreshed at 0 points every day
+Click the challenge button in the main interface to enter the levels of Evil Invasion, Gargantuar Crisis, and Yeti invasion; achievements are refreshed at 0 points every day
 
 [DAILY_ACHIEVEMENT_CONTENT_20151007]
 ^FF0000 Tip: ^oldclr 
@@ -28934,7 +28937,7 @@ Current highest level to skip: Level {NUMBER}
 Cannot skip levels currently
 
 [TRAINING_COUNT]
-Left time:: {NUMBER}
+Left time: {NUMBER}
 
 [DANGERROOM_TRAINING_QUIT_HINT_TITLE]
 Hint
@@ -29022,7 +29025,7 @@ Statues x{NUM}
 Statues x{NUM}
 
 [CONSUMPTION_COUNT_REWARD]
-{NAME} x{COUNT}
+{NAME} x {COUNT}
 
 [TWO_YEAR_RECORD_1]
 Since your first entry into the game until now, you have
@@ -29674,10 +29677,10 @@ Next order: plague virus evolution, reduce {COUNT}% energy consumption each time
 Fury potion
 
 [ZOMBIE_PVPSKILL_RAGE_DESCRIPTION]
-The most terrifying thing isn't zombies, it's enraged zombies. The Doctor Zomboss invented rage potion, and the zombies are all excited. Their attack power and speed are greatly enhanced. Of course, due to excessive excitement, they're also more susceptible to damage!
+The most terrifying thing isn't zombies, it's enraged zombies. Zomboss invented rage potion, and the zombies are all excited. Their attack power and speed are greatly enhanced. Of course, due to excessive excitement, they're also more susceptible to damage!
 
 [PVPSKILL_RAGE_UPGRADE_DESCRIPTION]
-Next Tier: Each time Rage is used, zombies' attack power and speed increase by {COUNT}%.
+Next Level: Each time Rage is used, zombies' attack power and speed increase by {COUNT}%.
 
 [NARRATIVE_MAP_PVP_INTRO_1]
 {NPC_ENTER:winnie}{EXCITED}There's a wormhole ahead emitting an unknown signal!
@@ -30334,23 +30337,23 @@ Small red envelope
 [MAT_REDPACKET_B]
 Big red envelope
 
-[MAT_NUTRIENT_0]
-Level 5 white culture medium
+[MAT_NUTRIENT_0]  
+5th level White potion  
 
-[MAT_NUTRIENT_1]
-Level 5 green culture medium
+[MAT_NUTRIENT_1]  
+5th level Green potion  
 
-[MAT_NUTRIENT_2]
-Level 5 blue culture medium
+[MAT_NUTRIENT_2]  
+5th level Blue potion  
 
-[MAT_NUTRIENT_3]
-Level 5 purple culture medium
+[MAT_NUTRIENT_3]  
+5th level Purple potion  
 
-[MAT_NUTRIENT_4]
-Level 5 orange culture medium
+[MAT_NUTRIENT_4]  
+5th level Orange potion  
 
 [NORMAL_LOGIN_CHEST]
-Ordinary treasure chest
+Normal treasure chest
 
 [LEGEND_LOGIN_CHEST]
 Boutique Treasure Box
@@ -30572,39 +30575,43 @@ Leaderboard Rewards Preview
 [BOSS_CHALLENGE_HEAD_ID_10000]
 It's a head
 
+[GACHA_ITEM_NORMAL_HEADER]
+Normal Treasure
+
+[GACHA_ITEM_NORMAL_HEADER10]
 Normal Treasure x10
 
-[GACHA_ITEM_NORMAL_DES]  
+[GACHA_ITEM_NORMAL_DES]
 Can obtain ^FF0000 {NUMBER} ^oldclr coins  
 Extra plants or plant fragments  
 Quality: ^a3a3a3 White ^oldclr ^4ca830 Green ^oldclr ^3365ce Blue ^oldclr ^7300c7 Purple ^oldclr
 
-[GACHA_ITEM_RARE_HEADER]  
+[GACHA_ITEM_RARE_HEADER]
 Rare Treasure
 
-[GACHA_ITEM_RARE_HEADER10]  
+[GACHA_ITEM_RARE_HEADER10]
 Rare Treasure x10
 
-[GACHA_ITEM_RARE_DES]  
+[GACHA_ITEM_RARE_DES]
 Can obtain ^FF0000 {NUMBER} ^oldclr coins  
 Extra plants or plant fragments  
 Quality: ^3365ce Blue ^oldclr ^7300c7 Purple ^oldclr ^ef7600 Orange ^oldclr
 
-[GACHA_ITEM_LEGEND_HEADER]  
+[GACHA_ITEM_LEGEND_HEADER]
 Legendary Treasure
 
-[GACHA_ITEM_LEGEND_HEADER10]  
+[GACHA_ITEM_LEGEND_HEADER10]
 Legendary Treasure x10
 
-[GACHA_ITEM_LEGEND_DES]  
+[GACHA_ITEM_LEGEND_DES]
 Can obtain ^FF0000 {NUMBER} ^oldclr coins  
 Receive plant or plant fragment rewards  
 Quality: ^7300c7 Purple ^oldclr ^ef7600 Orange ^oldclr
 
-[GACHA_ITEM_AVATAR_HEADER]  
+[GACHA_ITEM_AVATAR_HEADER]
 Avatar Treasure
 
-[GACHA_ITEM_AVATAR_HEADER10]  
+[GACHA_ITEM_AVATAR_HEADER10]
 Avatar Treasure x10
 
 [GACHA_ITEM_AVATAR_DES]
@@ -33668,35 +33675,37 @@ Your marigold just made a lot of gold for you!
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_MARIGOLD_01]
 Your marigolds grow tall! If you water it again, you can make a lot more money.
+
 [LOCAL_PUSH_YETI_EVENT_01]
-What's in the treasure snowman's lunch box? You won't know if you beat him!
+What's in the Treasure Yeti's lunchbox? Defeat him and you'll find out!
 
 [LOCAL_PUSH_YETI_EVENT_02]
-Treasure Snowman won't admit defeat obediently. Fight him then!
+The Treasure Yeti won't go down easily. Let's fight him!
 
 [LOCAL_PUSH_YETI_EVENT_03]
-Sometimes the Treasure Snowman will sneak up on you. Like now!
+Sometimes the Treasure Yeti will ambush you. Just like now!
 
 [LOCAL_PUSH_YETI_EVENT_04]
-Treasure Snowman is on full fire! Defeat him and win his wealth.
+The Treasure Yeti is going all out! Defeat him and win his treasures.
 
 [LOCAL_PUSH_YETI_EVENT_05]
-Fight for the good things in the treasure snowman's lunch box! 
+Let's battle for the goodies in the Treasure Yeti's lunchbox!
 
 [LOCAL_PUSH_YETI_EVENT_06]
-Defeat the Treasure Snowman and snatch the good stuff from his lunch box.
+Defeat the Treasure Yeti and snatch the goodies from his lunchbox.
 
 [LOCAL_PUSH_YETI_EVENT_07]
-Eat the delicious treasure snowman. . . . . Treasure feast!
+Eat the Treasure Yeti's delicious... treasure feast!
 
 [LOCAL_PUSH_YETI_EVENT_08]
-Treasure Snowman thinks you're weak. Let him admit his mistake!
+The Treasure Yeti thinks you're weak. Show him he's wrong!
 
 [LOCAL_PUSH_YETI_EVENT_09]
-Defeat the Treasure Snowman and snatch his lunch box over. Hurry up and do it!
+Defeat the Treasure Yeti and seize his lunchbox. Move quickly!
 
 [LOCAL_PUSH_YETI_EVENT_10]
-There is only one way to grab the treasure of the Snowman. That's beating him!
+The only way to steal the Treasure Yeti's wealth is to defeat him!
+
 
 [LOD_AVAILABLE_FOR]
 Available for
@@ -39425,28 +39434,28 @@ Master of Botany
 [PENNYCLASS_SECOND_HEAD_DES_ID_25350]
 Proof of completion of primary training in Penny's class
 
-[PENNYCLASS_THIRD]  
+[PENNYCLASS_THIRD]
 Plant Doctor  
 
-[PENNYCLASS_THIRD_HEAD_ID_25351]  
+[PENNYCLASS_THIRD_HEAD_ID_25351]
 Plant Doctor  
 
-[PENNYCLASS_THIRD_HEAD_DES_ID_25351]  
+[PENNYCLASS_THIRD_HEAD_DES_ID_25351]
 Proof of completing the advanced assessment of Penny's Classroom  
 
-[PENNYCLASS_FOURTH]  
+[PENNYCLASS_FOURTH]
 Plant Master  
 
-[PENNYCLASS_FOURTH_HEAD_ID_25352]  
+[PENNYCLASS_FOURTH_HEAD_ID_25352]
 Plant Master  
 
-[PENNYCLASS_FOURTH_HEAD_DES_ID_25352]  
+[PENNYCLASS_FOURTH_HEAD_DES_ID_25352]
 Proof of completing the ultimate trial of Penny's Classroom  
 
-[USERINFO_1]  
+[USERINFO_1]
 Please fill in the information so that we can notify you promptly in case of winning. (^FF0000^*^oldclr^ marks required fields)  
 
-[USERINFO_2]  
+[USERINFO_2]
 We respect and protect your information, using it only to improve services.
 
 [USERINFO_3]
@@ -41540,28 +41549,28 @@ The giant wave gluttonous snake
 [MINI_GAME_T7]
 Can guess
 
-[ACTIVITY_SUMMERY_FIRE_COST_2]  
+[ACTIVITY_SUMMERY_FIRE_COST_2]
 Gem: {COUNT}
 
-[CHARGEDOUBLE_FESTIVAL_NOUSE]  
+[CHARGEDOUBLE_FESTIVAL_NOUSE]
 No suitable data
 
-[PLANTDEFENCEGAMEMODE_DAYS]  
+[PLANTDEFENCEGAMEMODE_DAYS]
 Double Festival Defense, protect your plants!
 
-[FESTIVAL_EVENT_LEFT_TIME]  
+[FESTIVAL_EVENT_LEFT_TIME]
 Activity left: {TIME}
 
-[FESTIVAL_EVENT_LEFT_TIME_SHOP]  
+[FESTIVAL_EVENT_LEFT_TIME_SHOP]
 Activity countdown: {TIME}
 
-[BUYPLANT_BUTTON]  
+[BUYPLANT_BUTTON]
 Buy
 
-[BUYPLANT_TITLE]  
+[BUYPLANT_TITLE]
 ^ff0000^{PLANTNAME}^oldclr^ Limited Purchase
 
-[BUYPLANT_LEFT_TIME]  
+[BUYPLANT_LEFT_TIME]
 Remaining time:
 
 [ELECTRICPEASHOOTER]
@@ -45441,9 +45450,6 @@ You got {NUMBER} space-time coins!
 [CHEST_AWARD_HEADER1]
 You got {NUMBER} treasure chest!
 
-[STARCHALLENGE_TARGET_SCORE]
-Defeating zombies within a level earns points, with the side with the highest score within a set time winning.
-
 [JOUST_COUNT_TIME]
 There are still {NUMBER} days until the end of the current event
 
@@ -45767,7 +45773,7 @@ Pendant pieces
 Trophy
 
 [LIMITEDGACHA_LEGENDPLANTS_LEVEL2]
-2nd Tier Orange Plant pieces
+2nd Level Orange Plant pieces
 
 [LIMITEDGACHA_LEGENDPLANTS]
 Orange plants
@@ -46293,7 +46299,7 @@ Event Rules:
 1. The Exquisite Treasure Chest event will be available from October 15th at 00:00 to October 28th at 24:00.
 2. The event requires gold bars to open treasure chests. A single draw costs 1 gold bar, and a 10-draw costs 9 gold bars. Gold bars can be obtained through the event shop.
 3. Each time a treasure chest is opened, there is a chance to receive a grand prize from the prize pool. After 30 draws, you are guaranteed a superior or higher prize; after 60 draws, you are guaranteed an epic or higher prize; after 90 draws, you are guaranteed a Legendary Reward 2 or higher; and after 180 draws, you are guaranteed a Legendary Reward 1 (only one item is awarded per draw).
-4. When a grand prize is won, one of the prizes from all prize tiers will be awarded based on the probability.
+4. When a grand prize is won, one of the prizes from all prize level will be awarded based on the probability.
 5. Prize Overlap Rule: If multiple prizes trigger at the same time, higher-level prizes will override lower-level ones.
 6. Prize Reset Rule: After receiving a higher-level prize, all guaranteed draws below (and including) that level will be reset.
 7. Each legendary and epic prize can only be obtained once. After obtaining a prize, its probability will be evenly distributed among other grand prizes.
@@ -46599,149 +46605,149 @@ If you want to prove your strength, then go and challenge Doctor Zombie in the M
 [TASK_WORLDTASK_DESCRIPTION_STEAM3]
 If you want to prove your strength, then go and challenge Dr. Zombie in the Steam world!
 
-[TASK_WORLDTASK_EGYPT1]
-Clear the simple level of the Ancient Egypt Day 8
+[TASK_WORLDTASK_EGYPT1]  
+Complete the easy level on Day 8 of the Ancient Egypt  
 
 [TASK_WORLDTASK_EGYPT3]
-The ultimate challenge to clear the Ancient Egypt
+Complete the boss battle to finish Ancient Egypt
 
 [TASK_WORLDTASK_PIRATE1]
-Clear a simple level on Day 8 of Pirate Harbor
+Complete the easy level of Day 8 Pirate Sea
 
 [TASK_WORLDTASK_DESCRIPTION_PIRATE1]
-Build your line of defense against zombie attacks
+Build your defense against zombie attacks
 
 [TASK_WORLDTASK_PIRATE2]
-Clear the difficult level on Day 8 of Pirate Harbor
+Complete the hard level on Day 8 of the Pirate Sea
 
 [TASK_WORLDTASK_PIRATE3]
-The ultimate challenge to clear Pirate Harbor
+Complete the boss battle to finish Pirate Sea
 
 [TASK_WORLDTASK_COWBOY1]
-Clear a simple level on Day 8 of the Wild West
+Complete the easy level on Day 8 of the Wild West
 
 [TASK_WORLDTASK_COWBOY2]
-Clear the difficult levels of Day 8 in the Wild West
+Complete the hard level on Day 8 of the Wild West
 
 [TASK_WORLDTASK_COWBOY3]
-The ultimate challenge to clear the Wild West
+Complete the boss battle to finish Wild West
 
 [TASK_WORLDTASK_KONGFU1]
-Clear the simple levels of KongFu Day 13
+Complete the easy level on Day 13 of the KongFu
 
 [TASK_WORLDTASK_KONGFU2]
-Clear the difficult levels of the 13th day of KongFu
+Complete the hard level on Day 13 of the KongFu
 
 [TASK_WORLDTASK_KONGFU3]
-The ultimate challenge to clear the world of KongFu
+Complete the boss battle to finish KongFu
 
 [TASK_WORLDTASK_FUTURE1]
-Clear a simple level on Day 13 of Far Future
+Complete the easy level on Day 13 of the Far Future
 
 [TASK_WORLDTASK_FUTURE2]
-Clear the difficult levels of Day 13 of Far Future
+Complete the hard level on Day 13 of the Far Future
 
 [TASK_WORLDTASK_FUTURE3]
-The ultimate challenge to clear the Far Future
+Complete the boss battle to finish Far Future
 
 [TASK_WORLDTASK_EIGHTIES1]
-Clear the simple levels of Day 13 of the Rock Age
+Complete the easy level of Day 13 Neon Mixtape Tour
 
 [TASK_WORLDTASK_EIGHTIES2]
-Clear the difficult levels of Day 13 of the Rock Age
+Complete the hard level of Day 13 Neon Mixtape Tour
 
 [TASK_WORLDTASK_EIGHTIES3]
-The ultimate challenge to clear the rock era
+Complete the boss battle to finish Neon Mixtape Tour
 
 [TASK_WORLDTASK_DARK1]
-Clear a simple level on Day 10 of the Dark Ages
+Complete the easy level on Day 10 of the Dark Ages
 
 [TASK_WORLDTASK_DARK2]
-Clear the difficult levels of Day 10 of the Dark Ages
+Complete the hard level on Day 10 of the Dark Ages
 
 [TASK_WORLDTASK_DARK3]
-The ultimate challenge to clear the Dark Ages
+Complete the boss battle to finish the Dark Ages
 
 [TASK_WORLDTASK_BEACH1]
-Clear the simple levels of Day 11 of Big Wave Beach
+Complete the easy level of Day 11 of Big Wave Beach
 
 [TASK_WORLDTASK_BEACH2]
-Clear the difficult levels of Day 11 of Big Wave Beach
+Complete the hard level on Day 11 of the Big Wave Beach
 
 [TASK_WORLDTASK_BEACH3]
-The ultimate challenge to clear the giant wave beach
+Complete the boss battle to finish Big Wave Beach
 
 [TASK_WORLDTASK_DINO1]
-Clear the simple levels of Day 11 of Jurassic Marsh
+Complete the easy level of Day 11 of Jurassic Marsh
 
 [TASK_WORLDTASK_DINO2]
-Clear the difficult levels of Day 11 of Jurassic Marsh
+Complete the hard level on Day 11 of the Jurassic Marsh
 
 [TASK_WORLDTASK_DINO3]
-The ultimate challenge to clear the Jurassic Marsh
+Complete the boss battle to finish Jurassic Marsh
 
 [TASK_WORLDTASK_ICEAGE1]
-Clear the simple level of Glacier World Day 12
+Complete the easy level on Day 12 of the Frostbite Caves
 
 [TASK_WORLDTASK_ICEAGE2]
-Clear the difficult level of Glacier World Day 12
+Complete the hard level on Day 12 of the Frostbite Caves
 
 [TASK_WORLDTASK_ICEAGE3]
-The ultimate challenge to clear the glacier world
+Complete the boss battle to finish Frostbite Caves
 
 [TASK_WORLDTASK_LOSTCITY1]
-Clear a simple level on Day 12 of Lost City
+Complete the easy level on Day 12 of the Lost City
 
 [TASK_WORLDTASK_LOSTCITY2]
-Clear the difficult levels of Day 12 in Lost City
+Complete the hard level on Day 12 of the Lost City
 
 [TASK_WORLDTASK_LOSTCITY3]
-The ultimate challenge to clear the Lost City
+Complete the boss battle to finish Lost City
 
 [TASK_WORLDTASK_SKYCITY1]
-Clear the simple level of Sky City Day 15
+Complete the easy level on Day 15 of the Sky City
 
 [TASK_WORLDTASK_SKYCITY2]
-Clear the difficult levels of Sky City Day 15
+Complete the hard level on Day 15 of the Sky City
 
 [TASK_WORLDTASK_SKYCITY3]
-The ultimate challenge to clear Sky City
+Complete the boss battle to finish Sky City
 
 [TASK_WORLDTASK_MODERN1]
-Clear a simple level on Day 16 of Modern Day
+Complete the easy level on Day 16 of the Modern Day
 
 [TASK_WORLDTASK_MODERN2]
-Clear the difficult levels of the 16th day of Modern Day
+Complete the hard level on Day 16 of the Modern Day
 
 [TASK_WORLDTASK_MODERN3]
-The ultimate challenge to clear the Modern Day
+Complete the boss battle to finish Modern Day
 
 [TASK_WORLDTASK_STEAM1]
-Clear the simple level of Day 9 of Steam Age
+Complete the easy level on Day 9 of the Steam Age
 
 [TASK_WORLDTASK_STEAM2]
-Clear the difficult levels of Day 9 in Steam Age
+Complete the hard level on Day 9 of the Steam Age
 
 [TASK_WORLDTASK_STEAM3]
-The ultimate challenge to clear the steam world
+Complete the boss battle to finish Steam Age
 
 [TASK_WORLDTASK_RENAI1]
-Clear a simple level on Day 13 of the Revival Era
+Complete the easy level on Day 13 of the Renaissance Age
 
 [TASK_WORLDTASK_RENAI2]
-Clear the difficult levels of Day 13 of the Revival Era
+Complete the hard level on Day 13 of the Renaissance Age
 
 [TASK_WORLDTASK_RENAI3]
-The ultimate challenge of the Pass Revival era
+Complete the boss battle to finish Renaissance Age
 
 [TASK_WORLDTASK_HEIAN1]
-Clear a simple level on the 13th day of the Heian period
+Complete the easy level on Day 13 of the Heian Age
 
 [TASK_WORLDTASK_HEIAN2]
-Clear the difficult levels of the 13th day of the Heian period
+Complete the hard level on Day 13 of the Heian Age
 
 [TASK_WORLDTASK_HEIAN3]
-The ultimate challenge to clear the Heian era
+Complete the boss battle to finish Heian Age
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
 Use specific plants to clear limited levels and get rare treasure chest rewards!
@@ -47306,7 +47312,7 @@ Grand Prize: 3.85% First Prize: 7.69%
 Second Class Rewards: 11.54% Third Class Rewards: 19.23%
  4th Class Award: 26.92% 5th Class Award: 30.77%
  
-Fifth tier egg smashing probability public
+Fifth Level egg smashing probability public
 Grand Prize: 28.30% First Prize: 7.55%
 Second Class Award: 11.32% Third Class Award: 11.32%
  4th Class Reward: 18.87% 5th Class Reward: 22.64%
@@ -47633,37 +47639,37 @@ Plant classification
 [PROFESSION_SHOOTER]
 Remote
 
-[PROFESSION_SHOOTER_DESCRIPTION]  
+[PROFESSION_SHOOTER_DESCRIPTION]
 A profession specializing in long-range attacks.  
 
-[PROFESSION_WARRIOR]  
+[PROFESSION_WARRIOR]
 Vanguard  
 
-[PROFESSION_WARRIOR_DESCRIPTION]  
+[PROFESSION_WARRIOR_DESCRIPTION]
 A profession specializing in close-range attacks.  
 
-[PROFESSION_SUPPORTER]  
+[PROFESSION_SUPPORTER]
 Support  
 
-[PROFESSION_SUPPORTER_DESCRIPTION]  
+[PROFESSION_SUPPORTER_DESCRIPTION]
 A profession capable of providing buffs or removing negative effects from plants.  
 
-[PROFESSION_PROTECTOR]  
+[PROFESSION_PROTECTOR]
 Defender  
 
-[PROFESSION_PROTECTOR_DESCRIPTION]  
+[PROFESSION_PROTECTOR_DESCRIPTION]
 A profession specializing in blocking zombies.  
 
 [PROFESSION_SUNMAKER]
 Sun
 
-[PROFESSION_SUNMAKER_DESCRIPTION]  
+[PROFESSION_SUNMAKER_DESCRIPTION]
 A profession capable of producing sunlight.  
 
-[PROFESSION_SPECIALIST]  
+[PROFESSION_SPECIALIST]
 Specialist  
 
-[PROFESSION_SPECIALIST_DESCRIPTION]  
+[PROFESSION_SPECIALIST_DESCRIPTION]
 A profession with unique attack methods or specialized in countering zombies.  
 
 [PLANT_DETAILS]
@@ -50505,25 +50511,25 @@ Currently used by {PLANT}
 [NEW_AVATAR_EFFECT]
 Costume Effect
 
-[NEW_AVATAR_WEAR]  
+[NEW_AVATAR_WEAR]
 Equip  
 
-[NEW_AVATAR_TAKE_OFF]  
+[NEW_AVATAR_TAKE_OFF]
 Unequip  
 
-[NEW_AVATAR_EXCHANGE]  
+[NEW_AVATAR_EXCHANGE]
 Craft  
 
-[NEW_AVATAR_EQUIPED]  
+[NEW_AVATAR_EQUIPED]
 Set
 
-[NEW_AVATAR_NOT_ACQUIRED]  
+[NEW_AVATAR_NOT_ACQUIRED]
 Not Acquired  
 
-[NEW_AVATAR_BUFF]  
+[NEW_AVATAR_BUFF]
 Buff:  
 
-[NEW_AVATAR_GET]  
+[NEW_AVATAR_GET]
 Obtained From:  
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_2]
@@ -51747,7 +51753,7 @@ First pass rewards
 Gameplay instructions
 
 [RIFT_HOWTOPLAY_1_DESCRIPTION]
-New levels are available every week. Complete the levels to fill the Doctor Zomboss's signal value to 100%, then challenge the Doctor Zomboss for rewards!
+New levels are available every week. Complete the levels to fill Zomboss's signal value to 100%, then challenge Zomboss for rewards!
 
 [RIFT_HOWTOPLAY_2_DESCRIPTION]
 Complete level objectives to draw Penny's powerful enhancement features. One enhancement can be used for free in each level, resetting after each round.
@@ -51756,7 +51762,7 @@ Complete level objectives to draw Penny's powerful enhancement features. One enh
 Penny's Pursuit levels consume a certain amount of batteries. Batteries restore over time or can be replenished with diamonds.
 
 [RIFT_HOWTOPLAY_4_DESCRIPTION]
-Challenge the Doctor Zomboss in three rounds! Successfully complete all three rounds to earn substantial rewards.
+Challenge Zomboss in three rounds! Successfully complete all three rounds to earn substantial rewards.
 
 [RIFT_HOWTOPLAY_5_DESCRIPTION]
 (1) Classic: Survival Mode (2) Unbreakable: Set up your defense and defeat zombies (3) Arena: Pre-set a defense lineup and score high (4) Timer: Survive for a set time (5) Mini Game: Unique gameplay, like bowling.
@@ -52429,22 +52435,23 @@ In the Challenge Zombie Level, every {TIME} second, the damage of {DAMAGE} point
 Replace the giant zombies in the level with normal zombies!
 
 [PLAYERS_TRIP_TO_RIFT]
-{PLAYER}'s Penny's pursuit!
+{PLAYER}'s Welcome to Penny's pursuit!
 
 [STARCHALLENGE_TARGET_SCORE]
-Defeat Zombies for Points.  A higher score than the opponent is obtained to win.
+Defeat zombies to earn points. Score higher than your opponent to win.
 
 [STARCHALLENGE_TARGET_SCORE_BONUS_PLANTS]
-Plant addition+ x {NUMBER}
+Plant Bonus + x {NUMBER}
 
 [STARCHALLENGE_TARGET_SCORE_FAILURE]
 You missed the target score:
 
 [STARCHALLENGE_TARGET_SCORE_NAME]
-Reach target score!
+Reach the Target Score!
 
 [STARCHALLENGE_TARGET_SCORE_PLAYER_SCORE]
-Your score: {NUMBER}
+Your Score: {NUMBER}
+
 
 [WORLDMAP_EVENT_LOD_COUNTDOWN]
 {HOURS_LEFT}h {MINUTES_LEFT}m {SECONDS_LEFT}s
@@ -52980,7 +52987,7 @@ Rewards
 [FIRST_RECHARGE_EXTRA_TIPS]
 Complete recharge goals and log in for 3 days to earn generous rewards, including upgrade books, rare plants & costumes, useful accessories, and exclusive avatars. Note: Only recharges after 11:00 on January 31, 2024, will count towards the current recharge rewards.
 
-There are 3 reward tiers for recharge:
+There are 3 reward level for recharge:
 - Recharge 2 CNY: Choose one orange plant (Ice-shroom, Tangle Kelp, Cob Cannon), First Recharge Avatar Frame, 10 Orange Plant Nutrients, and one orange plant costume (Ice-shroom, Tangle Kelp, Cob Cannon).
 - Cumulative 60 CNY: Choose one dragon plant (Ice Dragon, Lightning Reed, Fire Peashooter), 10 Gene Primers, 10 Directed Pieces.
 - Cumulative 198 CNY: Metal Slingshot accessory, 300 Diamonds, and Plant Upgrade Book.
@@ -55389,38 +55396,38 @@ System Prompt
 [UI_BAG_ITEM_COUNT]
 Quantity Owned: {NUMS}
 
-[MAT_NUTRIENT_4_USE]
-Material for advancing fourth-tier plants to fifth tier
+[MAT_NUTRIENT_4_USE]  
+Material for upgrading Level 4 plants to Level 5  
 
-[MAT_NUTRIENT_4_GOT_WAY]
-Endless Shop, Limited Time Packs
+[MAT_NUTRIENT_4_GOT_WAY]  
+Endless Store, Limited-Time Packs  
 
-[MAT_NUTRIENT_3_USE]
-Material for advancing third-tier plants to fourth tier
+[MAT_NUTRIENT_3_USE]  
+Material for upgrading Level 4 plants to Level 55  
 
-[MAT_NUTRIENT_3_GOT_WAY]
-Endless Shop, Limited Time Packs
+[MAT_NUTRIENT_3_GOT_WAY]  
+Endless Store, Limited-Time Packs  
 
-[MAT_NUTRIENT_2_USE]
-Material for advancing second-tier plants to third tier
+[MAT_NUTRIENT_2_USE]  
+Material for upgrading Level 4 plants to Level 5  
 
-[MAT_NUTRIENT_2_GOT_WAY]
-Endless Shop, Limited Time Packs
+[MAT_NUTRIENT_2_GOT_WAY]  
+Endless Store, Limited-Time Packs  
 
-[MAT_NUTRIENT_1_USE]
-Material for advancing first-tier plants to second tier
+[MAT_NUTRIENT_1_USE]  
+Material for upgrading Level 4 plants to Level 5  
 
-[MAT_NUTRIENT_1_GOT_WAY]
-Endless Shop, Limited Time Packs
+[MAT_NUTRIENT_1_GOT_WAY]  
+Endless Store, Limited-Time Packs  
 
-[MAT_NUTRIENT_0_USE]
-Material for advancing fourth-tier plants to fifth tier
+[MAT_NUTRIENT_0_USE]  
+Material for upgrading Level 4 plants to Level 5  
 
-[MAT_NUTRIENT_0_GOT_WAY]
-Endless Shop, Limited Time Packs
+[MAT_NUTRIENT_0_GOT_WAY]  
+Endless Store, Limited-Time Packs  
 
 [MAT_PLANT_LEVELUP_BOOK_USE]
-Used during the advancement of plants from 2nd to 4th tier. Using it during this process, without consuming coins or plant pieces, advances the plant by one tier. Note: Cannot be used when advancing from 4th to 5th tier.
+Used during the advancement of plants from 2nd to 4th Level. Using it during this process, without consuming coins or plant pieces, advances the plant by one tier. Note: Cannot be used when advancing from 4th to 5th tier.
 
 [MAT_PLANT_LEVELUP_BOOK_GOT_WAY]
 Dave's Mysterious Treasure
@@ -55679,44 +55686,6 @@ Advanced Privileges
 
 [GROWTH_PACKAGE_DESCRIPTION_TITLE]
 Growth Pack Description
-
-[BOOPHONEGEISHA]
-Dazzling Flower Geisha
-
-[BOOPHONEGEISHA_DESCRIPTION]
-{KEYWORD}Usage: {STAT}Not only can she attack zombies in her current lane, but she can also damage zombies in other lanes when her fan returns.
-{KEYWORD}Plant features: {STAT}Green plant
-{FLAVOR} Years of geisha performance training have given her proficient fan manipulation skills. She will showcase her strength against zombies with her splendid fan performances.
-
-[BOOPHONEGEISHA_DESCRIPTION_HEADER]
-The returning fan can damage zombies within its attack range.
-
-[BOOPHONEGEISHA_TOOLTIP]
-Throw out a fan to damage zombies along the path.
-
-[BOOPHONEGEISHA_SKILL_LEVEL1]
-Flying Bird
-
-[BOOPHONEGEISHA_SKILL_LEVEL1_DES]
-Bullets have a 50% chance to pierce through other zombies in the same lane until hitting the last one, then start spiraling back.
-
-[BOOPHONEGEISHA_SKILL_LEVEL2]
-Swallow's Return
-
-[BOOPHONEGEISHA_SKILL_LEVEL2_DES]
-Bullets have a 100% chance to pierce through other zombies in the same lane until hitting the last one, then start spiraling back.
-
-[STORE_PRODUCT_AVATAR_BOOPHONEGEISHA_TITLE]
-Geisha Hairpin Avatar
-
-[STORE_PRODUCT_AVATAR_BOOPHONEGEISHA]
-After hitting the first zombie with the ultimate, an additional separated fan penetrates all zombies in that lane.
-
-[BOOPHONEGEISHA_SKILL_LEVEL5]
-Swallow Dance
-
-[BOOPHONEGEISHA_SKILL_LEVEL5_DES]
-Bullets deal 2.5 times damage when hitting zombies from behind.
 
 [ZOMBIE_HEIAN_ONMYOJI]
 Yin-Yang Master Zombie
@@ -56507,7 +56476,7 @@ Mammoth Head Zombie
 The sturdy helmet provides higher defense.
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION]
-Originally a regular Cave Zombie, he used to dip his head into the icy streams every day, hoping to become an Ice Block Zombie. But one day, a mammoth stepped on the Ice Block Zombie next to him, flattening it. So mammoths are the strongest, he thought. So he asked the Doctor Zomboss to make him a mammoth helmet. With this, he's sure to taste delicious brains!
+Originally a regular Cave Zombie, he used to dip his head into the icy streams every day, hoping to become an Ice Block Zombie. But one day, a mammoth stepped on the Ice Block Zombie next to him, flattening it. So mammoths are the strongest, he thought. So he asked Zomboss to make him a mammoth helmet. With this, he's sure to taste delicious brains!
 
 [ZOMBIE_ICEAGE_HUNTER_ELITE]
 Elite Hunter Zombie
@@ -60199,10 +60168,10 @@ A calm day
 [PLAYERS_TRIP_TO_MEMORY_TUTORIAL2]
 {PLAYER}'s old house
 
-[MEMORY_TUTORIAL_LEVEL_NAME]  
+[MEMORY_TUTORIAL_LEVEL_NAME]
 Heian Era  
 
-[MEMORY2_TUTORIAL_LEVEL_NAME]  
+[MEMORY2_TUTORIAL_LEVEL_NAME]
 Old Times  
 
 [MEMORY_LEVEL_NAME_001_H]
@@ -62070,7 +62039,7 @@ Classroom credits
 2. Courses unlock daily, with one course available each day.
 3. Complete the previous course to unlock the next one; courses can't be repeated.
 4. Completing 5 plants in a phase unlocks the Classroom Avatar and the next phase.
-5. Classroom Challenge Levels have fixed plant tiers, not based on player tiers.
+5. Classroom Challenge Levels have fixed plant level, not based on player level.
 6. Penny's Classroom closes once all Points Shop rewards are redeemed.
 
 [PENNY_CLASSROOM_BEGINNER_LEVEL]
@@ -63057,16 +63026,16 @@ View Tasks
 Current Level Tasks
 
 [PVZ2_UNCHARTED_MODE_KEY_NOT_ENOUGH]
-Insufficient keys. Keys refresh daily; please return tomorrow.
+Not enough keys. Keys refresh daily, please come back tomorrow.  
 
 [PVZ2_UNCHARTED_MODE_UNLOCK_HARD_LEVEL]
-Do you want to spend a key to unlock the hard level?
+Use keys to unlock hard levels?  
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_TITLE]
-Activate Premium Benefits
+Activate Premium Access
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
-Activate for 45 CNY
+Activate for 45 Yuan
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_STAR_DESC]
 {NUMS}/{NUMS_MAX}
@@ -63077,8 +63046,8 @@ Tip
 [PVZ2_UNCHARTED_MODE_TALE_2_HARD_TIPS_DESC]
 The Boss level unlock condition of difficult mode is to unlock the front 7 knots using key
 
-[PVZ2_UNCHARTED_MODE_TALE_2_NORMAL_TIPS_DESC]
-Please complete the front level first.
+[PVZ2_UNCHARTED_MODE_TALE_2_NORMAL_TIPS_DESC]  
+Complete the previous levels first.  
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC]
 1. There are a variety of different new worlds and new zombies waiting for you to explore in the secret realm of time and space, each with normal and difficult levels.
@@ -63093,7 +63062,7 @@ Please complete the front level first.
 2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
 3. Hard levels unlock after completing all normal levels.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn’t affect normal progress.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
 6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY]
@@ -63101,7 +63070,7 @@ Please complete the front level first.
 2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
 3. Hard levels unlock after completing all normal levels.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn’t affect normal progress.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
 6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ARBORDAY]
@@ -63109,7 +63078,7 @@ Please complete the front level first.
 2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
 3. Hard levels unlock after completing all normal levels.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn’t affect normal progress.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
 6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_SPRING_FESTIVAL_2024]
@@ -63242,49 +63211,49 @@ Magic Mirror
 Magic mirrors always appear in pairs, one side in and one side out
 
 [FOREST_LEVEL_NAME_01]
-Fairy Tale Forest - Day 1
+Fairy tale - Day 1
 
 [FOREST_LEVEL_NAME_02]
-Fairy Tale Forest - Day 2
+Fairy tale - Day 2
 
 [FOREST_LEVEL_NAME_03]
-Fairy Tale Forest - Day 3
+Fairy tale - Day 3
 
 [FOREST_LEVEL_NAME_04]
-Fairy Tale Forest - Day 4
+Fairy tale - Day 4
 
 [FOREST_LEVEL_NAME_05]
-Fairy Tale Forest - Day 5
+Fairy tale - Day 5
 
 [FOREST_LEVEL_NAME_06]
-Fairy Tale Forest - Day 6
+Fairy tale - Day 6
 
 [FOREST_LEVEL_NAME_07]
-Fairy Tale Forest - Day 7
+Fairy tale - Day 7
 
 [FOREST_LEVEL_NAME_08]
-Fairy Tale Forest - Day 1
+Fairy tale - Day 1
 
 [FOREST_LEVEL_NAME_09]
-Fairy Tale Forest - Day 2
+Fairy tale - Day 2
 
 [FOREST_LEVEL_NAME_10]
-Fairy Tale Forest - Day 3
+Fairy tale - Day 3
 
 [FOREST_LEVEL_NAME_11]
-Fairy Tale Forest - Day 4
+Fairy tale - Day 4
 
 [FOREST_LEVEL_NAME_12]
-Fairy Tale Forest - Day 5
+Fairy tale - Day 5
 
 [FOREST_LEVEL_NAME_13]
-Fairy Tale Forest - Day 6
+Fairy tale - Day 6
 
 [FOREST_LEVEL_NAME_14]
-Fairy Tale Forest - Day 7
+Fairy tale - Day 7
 
 [FOREST_LEVEL_NAME_15]
-Fairy Tale Forest - Fairy Tale Zombie Boss Invasion
+Fairy tale - Zomboss
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
 {PLAYER}'s horror Halloween trip
@@ -63819,7 +63788,7 @@ Move the vehicles within the given steps to help Dave return to his house!
 [ACCOUNT_REMOVE_CONTENT_1]
 Dear player, you are about to perform an account deletion operation. Proceeding will result in:
 1. Your diamonds, coins, plants, outfits, decorations, artifacts, shards, tokens, items in various modes, and other in-game assets being deleted.
-2. Your game progress, including World Levels, Hard Levels, Penny’s Pursuit, Endless Challenge, Arena, Temporal Treasures, Plant Families, Travel Memories, and Creative Courtyard data, being erased.
+2. Your game progress, including World Levels, Hard Levels, Penny's Pursuit, Endless Challenge, Arena, Temporal Treasures, Plant Families, Travel Memories, and Creative Courtyard data, being erased.
 3. Your account information being permanently deleted and irretrievable.
 
 If this is a mistake, please click the close button in the top-right corner to retain your game data.
@@ -64230,28 +64199,28 @@ This evil mist can give the zombies a powerful shield, and perhaps only the bree
 [LEFT_AD_COUNT]
 Remaining {NUMBER} times
 
-[NEWPVP_HOWTOPLAY_1_DESCRIPTION]  
+[NEWPVP_HOWTOPLAY_1_DESCRIPTION]
 This is a 1v1 duel mode where both players compete in real-time on the same lawn.  
 
-[NEWPVP_HOWTOPLAY_2_DESCRIPTION]  
+[NEWPVP_HOWTOPLAY_2_DESCRIPTION]
 In this mode, plant level are marked in the top-left corner of their slots. No external bonuses (artifacts, family buffs, ornaments, costumes, or genes) apply.  
 
-[NEWPVP_HOWTOPLAY_3_DESCRIPTION]  
+[NEWPVP_HOWTOPLAY_3_DESCRIPTION]
 The top lawn is your area, and the bottom lawn is your opponent. Defend your lawn by planting plants and attack the opponent's lawn by deploying zombies. Zombies crossing the opponent's baseline reduce their HP. The game ends when one player's HP reaches zero.  
 
-[NEWPVP_HOWTOPLAY_4_DESCRIPTION]  
+[NEWPVP_HOWTOPLAY_4_DESCRIPTION]
 The sunflower icon in the top-left corner generates sun. Spend sun to increase its production and raise your plant limit.  
 
-[NEWPVP_HOWTOPLAY_5_DESCRIPTION]  
+[NEWPVP_HOWTOPLAY_5_DESCRIPTION]
 As rounds progress, more powerful zombies and skills unlock. Strategically combine them for an easier path to victory.  
 
-[NEWPVP_ARMY_HOWTOPLAY_1_DESCRIPTION]  
+[NEWPVP_ARMY_HOWTOPLAY_1_DESCRIPTION]
 Here, you can freely train your zombie army.  
 
-[NEWPVP_ARMY_HOWTOPLAY_2_DESCRIPTION]  
+[NEWPVP_ARMY_HOWTOPLAY_2_DESCRIPTION]
 Zombie cards obtained from chests help you unlock and upgrade zombies.  
 
-[NEWPVP_ARMY_HOWTOPLAY_3_DESCRIPTION]  
+[NEWPVP_ARMY_HOWTOPLAY_3_DESCRIPTION]
 Cards with matching round limits can be swapped with each other.  
 
 [NEW_PVP_TRAINING_PACKET_LEVEL_STR]
@@ -64297,16 +64266,17 @@ Full-level
 Sun price
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_LABEL]
-Attack power
+Attack
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_HP_LABEL]
-Health-value
+Health
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_SPEED_LABEL]
-Moving speed
+speed
 
 [NEW_PVP_TRAINING_LEVELUP_BATTLE_LABEL]
-Rarity: {RARE} Type: {BATTLE_TYPE}
+Rarity: {RARE} 
+Type: {BATTLE_TYPE}
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_INSTANT_KILL]
 Flashkill
@@ -65092,20 +65062,20 @@ Choose one from the following piece rewards!
 [NEW_PVP_BATTLE_PASS_SELECT_CONFIRM]
 Confirm to choose this reward
 
-[NEW_PVP_SHOP]  
+[NEW_PVP_SHOP]
 Two-Player Duel Shop
 
-[NEW_PVP_SHOP_INFO_TITLE]  
+[NEW_PVP_SHOP_INFO_TITLE]
 Two-Player Duel Shop Rules
 
-[NEW_PVP_SHOP_INFO_DETAIL]  
+[NEW_PVP_SHOP_INFO_DETAIL]
 1. Shop items refresh daily at 00:00 (UTC+8) , resetting item purchase limits.  
 2. Amethyst Coins can be obtained through daily and weekly chests and used to exchange for various items in the shop.  
 3. Seasonal Legendary Chests and Seasonal Normal Chests usually contain newly introduced zombies for the season.  
 4. The Seasonal Legendary Chest rewards include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Amethyst Coins from the pool.  
 5. The Seasonal Normal Chest rewards include 50 cards of a random common zombie, 15 cards of a rare zombie, 3 Amethyst Coins, and 60 diamonds.
 
-[NEW_PVP_SHOP_RESET_TIMER]  
+[NEW_PVP_SHOP_RESET_TIMER]
 Shop Reset Countdown
 
 [NEW_PVP_SHOP_ITEM_LOCK_DESCRIPTION]
@@ -65124,13 +65094,13 @@ Do you want to spend {NUMS} to purchase?
 Open
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_1]
-Random Legend Quality Zombie Card
+Random Legendary card
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_2]
-Random Rare Quality Zombie Cards
+Random Rare card
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_3]
-Random Normal Quality Zombie Card
+Random Common card
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_4]
 Amethyst Coins
@@ -65416,7 +65386,7 @@ Support
 Control
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_6]
-Tier
+Level
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_TEXT]
 Attributes
@@ -65612,76 +65582,76 @@ Medium Grade Gift Pack
 [PRODUCT_WORLD_LEVEL_PACKAGE_2_SHORTDESC]
 Large Grade Gift Pack
 
-[CORNUCOPIA_TITLE]  
+[CORNUCOPIA_TITLE]
 Cornucopia  
 
-[EXP_CORNUCOPIA]  
+[EXP_CORNUCOPIA]
 Cornucopia EXP  
 
-[CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]  
+[CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
 Event Countdown  
 
-[CORNUCOPIA_SHOP_COUNTDOWN_TITLE]  
+[CORNUCOPIA_SHOP_COUNTDOWN_TITLE]
 Exchange Countdown  
 
-[CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]  
+[CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
 Leaderboard Countdown  
 
-[CORNUCOPIA_MAX_LEVEL]  
+[CORNUCOPIA_MAX_LEVEL]
 Max Level Reached  
 
-[CORNUCOPIA_ACTIVITY_TIME_OVER]  
+[CORNUCOPIA_ACTIVITY_TIME_OVER]
 Event Over  
 
-[CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]  
+[CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]
 Cornucopia Prize Pool Total  
 
-[CORNUCOPIA_TOTAL_GACHA_TITLE]  
+[CORNUCOPIA_TOTAL_GACHA_TITLE]
 Total Draws: {NUMS}  
 
-[CORNUCOPIA_CURRENT_TITLE]  
+[CORNUCOPIA_CURRENT_TITLE]
 Current  
 
-[CORNUCOPIA_NEXT_TITLE]  
+[CORNUCOPIA_NEXT_TITLE]
 Next Level  
 
-[CORNUCOPIA_NEXT_LEVEL_DESC]  
+[CORNUCOPIA_NEXT_LEVEL_DESC]
 {NUMS} Growth Points needed for the next level. Earn Growth Points by recharging or completing tasks.  
 
-[CORNUCOPIA_GACHA_TIPS_DESC]  
+[CORNUCOPIA_GACHA_TIPS_DESC]
 You can win a grand prize of up to 5000 Diamonds in a single draw!  
 
-[CORNUCOPIA_HARVEST_COOLDOWN_TITLE]  
+[CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
 Harvest Acceleration  
 
-[CORNUCOPIA_LOCK_TITLE]  
-Tier  
+[CORNUCOPIA_LOCK_TITLE]
+Level  
 
-[CORNUCOPIA_GACHA_ONE_TITLE]  
+[CORNUCOPIA_GACHA_ONE_TITLE]
 Draw Once  
 
-[CORNUCOPIA_GACHA_TEN_TITLE]  
+[CORNUCOPIA_GACHA_TEN_TITLE]
 Draw Ten Times  
 
-[CORNUCOPIA_TAB_NAME1]  
+[CORNUCOPIA_TAB_NAME1]
 Cornucopia  
 
-[CORNUCOPIA_TAB_NAME2]  
+[CORNUCOPIA_TAB_NAME2]
 Level Tasks  
 
-[CORNUCOPIA_TAB_NAME3]  
+[CORNUCOPIA_TAB_NAME3]
 Special Bundles  
 
-[CORNUCOPIA_TAB_NAME4]  
+[CORNUCOPIA_TAB_NAME4]
 Exchange Shop  
 
-[CORNUCOPIA_TAB_NAME5]  
+[CORNUCOPIA_TAB_NAME5]
 Prize Pool Distribution  
 
-[CORNUCOPIA_GOTO_LEVEL]  
+[CORNUCOPIA_GOTO_LEVEL]
 Upgrade  
 
-[CORNUCOPIA_LEVEL_DESC]  
+[CORNUCOPIA_LEVEL_DESC]
 {NUM1} / {NUM2}
 
 
@@ -65750,34 +65720,34 @@ Do you want to spend {NUMS} Lucky Coins for the draw?
 [CORNUCOPIA_HARVEST_GOT_CONFIRM]
 Do you want to Obtain Cornucopia bubbles?
 
-[CORNUCOPIA_HARVEST_TITLE]  
+[CORNUCOPIA_HARVEST_TITLE]
 Obtainable  
 
-[CORNUCOPIA_SHOP_BUY_TIME]  
+[CORNUCOPIA_SHOP_BUY_TIME]
 Purchase Limit: {NUM1} / {NUM2}  
 
-[MAT_CORNUCOPIA_TICKET_NOT_ENOUGH]  
+[MAT_CORNUCOPIA_TICKET_NOT_ENOUGH]
 Insufficient Lucky Coins  
 
-[MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]  
+[MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]
 Insufficient Exchange Badges  
 
-[MAT_CORNUCOPIA_TICKET]  
+[MAT_CORNUCOPIA_TICKET]
 Lucky Coin  
 
-[MAT_CORNUCOPIA_EMBLEM]  
+[MAT_CORNUCOPIA_EMBLEM]
 Exchange Badge  
 
-[MAT_CORNUCOPIA_TICKET_USE]  
+[MAT_CORNUCOPIA_TICKET_USE]
 Used for Cornucopia Draws  
 
-[MAT_CORNUCOPIA_TICKET_GOT_WAY]  
+[MAT_CORNUCOPIA_TICKET_GOT_WAY]
 Obtained from Special Bundles and Cornucopia Bubbles  
 
-[MAT_CORNUCOPIA_EMBLEM_USE]  
+[MAT_CORNUCOPIA_EMBLEM_USE]
 Used to Redeem Rewards in the Exchange Store  
 
-[MAT_CORNUCOPIA_EMBLEM_GOT_WAY]  
+[MAT_CORNUCOPIA_EMBLEM_GOT_WAY]
 Obtained from Cornucopia Draws  
 
 [CORNUCOPIA_BONUS_DETAIL_PLANT]
@@ -69636,27 +69606,6 @@ The olive pit attracts zombies in the surrounding 3x3 range and devours up to 6 
 [OLIVEPIT_AVATAR_PLANTFOOD_DESCRIPTION]
 The olive pit attracts zombies in the surrounding 3x3 range and swallows up to 9 zombies ^ff0000^ and is covered with oil that lasts for a period of time.
 
-[BOOPHONEGEISHA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the dazzling flower geisha, it spins to turn the flower fan out, hitting the zombie and returning in an arc to cause damage to the zombie that passes through it. The flower fan alternates up and down and returns.
-
-[BOOPHONEGEISHA_NEW_SKILL_LEVEL2_DES]
-There is a 50% chance that the flower fan will penetrate other zombies in the row and will not start spinning until it hits the last zombie.
-
-[BOOPHONEGEISHA_NEW_SKILL_LEVEL3_DES]
-Asuka's trigger probability increases by 100%. The flower fan is bound to penetrate the rest of the zombies in the row, and does not start to spin until it hits the last zombie.
-
-[BOOPHONEGEISHA_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[BOOPHONEGEISHA_NEW_SKILL_LEVEL5_DES]
-During the return of the flower fan, the penetration damage is raised to 900.
-
-[BOOPHONEGEISHA_PLANTFOOD_DESCRIPTION]
-A flame appeared on the dazzling flower geisha, and he turned to the right to produce a large burning flower fan. After hitting the zombie, he caused damage to the surrounding 3x3 zombies and split into 2 flower fans that returned along the upper and lower arcs.
-
-[BOOPHONEGEISHA_AVATAR_PLANTFOOD_DESCRIPTION]
-A flame appeared on the dazzling flower geisha, and a large burning flower fan turned to the right. After hitting the zombie, it caused damage to the surrounding 3x3 zombies and split into 2 flower fans returning along the upper and lower arcs and ^ff0000^1 flower fans flying to the right. ^oldclr^
-
 [STICKYBOMBRICE_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side, an explosive glutinous rice ball is thrown to stop the zombie from moving and explodes after 1.3 seconds, causing damage to the zombie in the surrounding 1 grid and a 15% probability of causing it to explode in a chain. Glutinous rice balls can be superimposed and simultaneously superimposed with damage.
 
@@ -70330,7 +70279,7 @@ Future Gift Box Event
 Event Rules:
 1. The gift box contains various preset items. Players can choose several rewards to place in the slots. After purchasing the selected content gift pack, corresponding items can be obtained.
 2. Each gift pack can only be purchased once per day.
-3. There are 6 tiers of gift packs, each containing different contents.
+3. There are 6 level of gift packs, each containing different contents.
 
 [FUTURE_GIFT_TICKETS_NOT_ENOUGH]
 Insufficient gold coins for the current gift box. Would you like to go to the shop interface to purchase?
@@ -70683,7 +70632,7 @@ Hello, my neighbor! ^FF0000 {NAME} ^oldclr
 [NEWYEAR_GIFTBOX_INDEX1_2]
 Happy to see you again in the new anniversary.
 
-[NEWYEAR_GIFTBOX_INDEX1_3]  
+[NEWYEAR_GIFTBOX_INDEX1_3]
 In the past year, we have met in the courtyard for a total of ^FF0000 {COUNT} ^oldclr days.
 
 [NEWYEAR_GIFTBOX_INDEX1_4]
@@ -71018,25 +70967,25 @@ Thorny Wizard Growth Pack costume
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
 Sunflower Singer Olympic costume
 
-[PLANTWARS_WORLD_THEME_TITLE]  
+[PLANTWARS_WORLD_THEME_TITLE]
 Deadlock Escape
 
-[PLANTWARS_WORLD_LEVEL_PASS_CONDITION]  
+[PLANTWARS_WORLD_LEVEL_PASS_CONDITION]
 Do not let zombies eat the brain before the countdown ends
 
-[PLANTWARS_WORLD_UNLOCK]  
+[PLANTWARS_WORLD_UNLOCK]
 Current Ztalemate is not open
 
-[PLANTWARS_WORLD_SCORE_DESC]  
+[PLANTWARS_WORLD_SCORE_DESC]
 Score {NUMS}
 
-[PLANTWARS_WORLD_TEXT_DESC]  
+[PLANTWARS_WORLD_TEXT_DESC]
 Test: 1000
 
-[PLANTWARS_KEY_INFO_TITLE]  
+[PLANTWARS_KEY_INFO_TITLE]
 Description
 
-[PLANTWARS_KEY_INFO_TEXT_ALL]  
+[PLANTWARS_KEY_INFO_TEXT_ALL]
 1. Opening Time  
 The time for this secret realm is from October 31 to November 21.  
 2. Level Unlock  
@@ -71046,128 +70995,128 @@ Each level has a specific task to complete for rewards.
 4. Task Rewards  
 Rewards for each level cannot be received again
 
-[PLANTWARS_KEY_INFO_TEXT_1]  
+[PLANTWARS_KEY_INFO_TEXT_1]
 1. Opening Time
 
 [PLANTWARS_KEY_INFO_TEXT_2]
 The time for this Secret Realm is from October 30 to November 28.
 
-[PLANTWARS_KEY_INFO_TEXT_3]  
+[PLANTWARS_KEY_INFO_TEXT_3]
 2. Level Unlock
 
-[PLANTWARS_KEY_INFO_TEXT_4]  
+[PLANTWARS_KEY_INFO_TEXT_4]
 Levels unlock over time, with one new level each day.
 
-[PLANTWARS_KEY_INFO_TEXT_5]  
+[PLANTWARS_KEY_INFO_TEXT_5]
 3. Task Description
 
-[PLANTWARS_KEY_INFO_TEXT_6]  
+[PLANTWARS_KEY_INFO_TEXT_6]
 Each level has a specific task to complete for rewards.
 
-[PLANTWARS_KEY_INFO_TEXT_7]  
+[PLANTWARS_KEY_INFO_TEXT_7]
 4. Task Rewards
 
-[PLANTWARS_KEY_INFO_TEXT_8]  
+[PLANTWARS_KEY_INFO_TEXT_8]
 Rewards for each level cannot be received again
 
-[PLAYER_TRIP_TO_PLANTWARS]  
+[PLAYER_TRIP_TO_PLANTWARS]
 Plant Wars Journey
 
-[PLANTWARS_LEVEL_NAME_NODE]  
+[PLANTWARS_LEVEL_NAME_NODE]
 Day {NUMS}
 
-[PLANTWARS_LEVEL_NAME_NODE_A]  
+[PLANTWARS_LEVEL_NAME_NODE_A]
 Day {NUMS} Upper Layer
 
-[PLANTWARS_LEVEL_NAME_NODE_B]  
+[PLANTWARS_LEVEL_NAME_NODE_B]
 Day {NUMS} Lower Layer
 
-[PLANTWARS_TIMEOUT_DESC]  
+[PLANTWARS_TIMEOUT_DESC]
 Time's up
 
-[PLANTWARS_ZOMBIEDIE_DESC]  
+[PLANTWARS_ZOMBIEDIE_DESC]
 Zombies Cleared
 
-[PLANTWARS_ZOMBIEATEBRAIN_DESC]  
+[PLANTWARS_ZOMBIEATEBRAIN_DESC]
 The zombie ate your brain
 
-[PLANTWARS_NEXT_NODE_TITLE]  
+[PLANTWARS_NEXT_NODE_TITLE]
 System
 
-[PLANTWARS_NEXT_NODE_DESC]  
+[PLANTWARS_NEXT_NODE_DESC]
 Proceed to the next level
 
-[PLANTWARS_NEXT_NODE_BTN_TITLE]  
+[PLANTWARS_NEXT_NODE_BTN_TITLE]
 Confirm
 
-[PLANTWARS_TIME_COUNTDOWN_DESC]  
+[PLANTWARS_TIME_COUNTDOWN_DESC]
 {LEVELNAME}  
 Countdown: {TIME}
 
-[PLANTWARS_LEVEL_OFFSEASON_DESC]  
+[PLANTWARS_LEVEL_OFFSEASON_DESC]
 Currently in the off-season, gameplay is not available
 
-[PLANTWARS_ZTCRYSTAL1_NAME]  
+[PLANTWARS_ZTCRYSTAL1_NAME]
 Crystal
 
 [PLANTWARS_ZTCRYSTAL1_DESCRIPTION]
 Immune to instant-kill effects, can only take damage once every 0.1 seconds, and each instance of damage is reduced to 1 point. Zombie base health is decreased.
 
-[PLANTWARS_ZTGRAVITY1_NAME]  
+[PLANTWARS_ZTGRAVITY1_NAME]
 Supergravity
 
-[PLANTWARS_ZTGRAVITY1_DESCRIPTION]  
+[PLANTWARS_ZTGRAVITY1_DESCRIPTION]
 Not affected by knockback and knock-up effects
 
-[PLANTWARS_ZTSHIELD1_NAME]  
+[PLANTWARS_ZTSHIELD1_NAME]
 Energy Shield
 
-[PLANTWARS_ZTSHIELD1_DESCRIPTION]  
+[PLANTWARS_ZTSHIELD1_DESCRIPTION]
 The first 5 instances of damage are nullified. Immune to instant kill effects during the shield's duration.
 
-[PLANTWARS_ZTSHIELD2_NAME]  
+[PLANTWARS_ZTSHIELD2_NAME]
 Energy Shield
 
-[PLANTWARS_ZTSHIELD2_DESCRIPTION]  
+[PLANTWARS_ZTSHIELD2_DESCRIPTION]
 The first 7 instances of damage are nullified. Immune to instant kill effects during the shield's duration.
 
-[PLANTWARS_ZTSHIELD3_NAME]  
+[PLANTWARS_ZTSHIELD3_NAME]
 Energy Shield
 
-[PLANTWARS_ZTSHIELD3_DESCRIPTION]  
+[PLANTWARS_ZTSHIELD3_DESCRIPTION]
 The first 9 instances of damage are nullified. Immune to instant kill effects during the shield's duration.
 
-[PLANTWARS_ZTIMMUNECONTROL1_NAME]  
+[PLANTWARS_ZTIMMUNECONTROL1_NAME]
 Unyielding
 
-[PLANTWARS_ZTIMMUNECONTROL1_DESCRIPTION]  
+[PLANTWARS_ZTIMMUNECONTROL1_DESCRIPTION]
 Reduces control effects received by 70%
 
-[PLANTWARS_ZTANTICONTROL1_NAME]  
+[PLANTWARS_ZTANTICONTROL1_NAME]
 Steadfast
 
-[PLANTWARS_ZTANTICONTROL1_DESCRIPTION]  
+[PLANTWARS_ZTANTICONTROL1_DESCRIPTION]
 Reduces damage taken by 99% when affected by control effects
 
-[PLANTWARS_ZTATTACK1_NAME]  
+[PLANTWARS_ZTATTACK1_NAME]
 Powerful
 
-[PLANTWARS_ZTATTACK1_DESCRIPTION]  
+[PLANTWARS_ZTATTACK1_DESCRIPTION]
 Attack power increased by 50%
 
-[PLANTWARS_ZTSPEED1_NAME]  
+[PLANTWARS_ZTSPEED1_NAME]
 High Speed
 
-[PLANTWARS_ZTSPEED1_DESCRIPTION]  
+[PLANTWARS_ZTSPEED1_DESCRIPTION]
 Movement speed increased by 50%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_3]
 Kiwi full-body costume
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]  
+[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
 Sunflower Singer Olympic Outfit
 
-[ACCUMULATED_LOGIN_TITLE]  
+[ACCUMULATED_LOGIN_TITLE]
 Courtyard Record
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
@@ -71200,49 +71149,49 @@ Halloween Pumpkin Witch Costume
 [NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1]
 Reduces planting cooldown by 15%
 
-[PLAYERS_TRIP_TO_PLANTWARS]  
+[PLAYERS_TRIP_TO_PLANTWARS]
 {PLAYER}'s Escape from the Deadlock!
 
-[PLANTWARS_LEVEL_NAME_W1_1]  
+[PLANTWARS_LEVEL_NAME_W1_1]
 Level 1
 
-[PLANTWARS_LEVEL_NAME_W1_1_A]  
+[PLANTWARS_LEVEL_NAME_W1_1_A]
 Level 1 — First part
 
-[PLANTWARS_LEVEL_NAME_W1_1_B]  
+[PLANTWARS_LEVEL_NAME_W1_1_B]
 Level 1 — Sceond part
 
-[PLANTWARS_LEVEL_NAME_W1_2]  
+[PLANTWARS_LEVEL_NAME_W1_2]
 Level 2
 
-[PLANTWARS_LEVEL_NAME_W1_2_A]  
+[PLANTWARS_LEVEL_NAME_W1_2_A]
 Level 2 — First part
 
-[PLANTWARS_LEVEL_NAME_W1_2_B]  
+[PLANTWARS_LEVEL_NAME_W1_2_B]
 Level 2 — Sceond part
 
-[PLANTWARS_LEVEL_NAME_W1_3]  
+[PLANTWARS_LEVEL_NAME_W1_3]
 Level 3
 
-[PLANTWARS_LEVEL_NAME_W1_3_A]  
+[PLANTWARS_LEVEL_NAME_W1_3_A]
 Level 3 — First part
 
-[PLANTWARS_LEVEL_NAME_W1_3_B]  
+[PLANTWARS_LEVEL_NAME_W1_3_B]
 Level 3 — Sceond part
 
-[PLANTWARS_LEVEL_NAME_W1_4]  
+[PLANTWARS_LEVEL_NAME_W1_4]
 Level 4
 
-[PLANTWARS_LEVEL_NAME_W1_4_A]  
+[PLANTWARS_LEVEL_NAME_W1_4_A]
 Level 4 — First part
 
-[PLANTWARS_LEVEL_NAME_W1_4_B]  
+[PLANTWARS_LEVEL_NAME_W1_4_B]
 Level 4 — Sceond part
 
-[PLANTWARS_LEVEL_NAME_W1_5]  
+[PLANTWARS_LEVEL_NAME_W1_5]
 Level 5
 
-[PLANTWARS_LEVEL_NAME_W1_5_A]  
+[PLANTWARS_LEVEL_NAME_W1_5_A]
 Level 5 — First part
 
 [PLANTWARS_LEVEL_NAME_W1_5_B]
@@ -71320,88 +71269,88 @@ Weekly Discount Bundle (VII)
 [PRODUCT_08LUCKBOX_68_SHORTDESC]
 Weekly Discount Bundle (VIII)
 
-[PLANTWARS_MODE_HOW_TO_PLAY_1]  
+[PLANTWARS_MODE_HOW_TO_PLAY_1]
 Event Time
 
-[PLANTWARS_MODE_HOW_TO_PLAY_2]  
+[PLANTWARS_MODE_HOW_TO_PLAY_2]
 Zombie Attributes
 
-[PLANTWARS_MODE_HOW_TO_PLAY_3]  
+[PLANTWARS_MODE_HOW_TO_PLAY_3]
 Death Tombstones
 
-[PLANTWARS_MODE_HOW_TO_PLAY_4]  
+[PLANTWARS_MODE_HOW_TO_PLAY_4]
 Pea Rain
 
-[PLANTWARS_MODE_HOW_TO_PLAY_5]  
+[PLANTWARS_MODE_HOW_TO_PLAY_5]
 Pea Rain
 
-[PLANTWARS_MODE_HOW_TO_PLAY_6]  
+[PLANTWARS_MODE_HOW_TO_PLAY_6]
 Pass Conditions
 
-[PLANTWARS_MODE_HOW_TO_PLAY_7]  
+[PLANTWARS_MODE_HOW_TO_PLAY_7]
 Score Calculation
 
 [PLANTWARS_MODE_HOWTOPLAY_1_DESCRIPTION]
 The event starts at 14:00 on September 29th and ends at 00:00 on December 21st.
 
-[PLANTWARS_MODE_HOWTOPLAY_2_DESCRIPTION]  
+[PLANTWARS_MODE_HOWTOPLAY_2_DESCRIPTION]
 Zombies with attributes will receive additional buffs, handle with care.
 
-[PLANTWARS_MODE_HOWTOPLAY_3_DESCRIPTION]  
+[PLANTWARS_MODE_HOWTOPLAY_3_DESCRIPTION]
 When plants die or are removed, they will leave behind a high-health tombstone that will automatically decay after 5 seconds.
 
-[PLANTWARS_MODE_HOWTOPLAY_4_DESCRIPTION]  
+[PLANTWARS_MODE_HOWTOPLAY_4_DESCRIPTION]
 Use pea-type plants to deal damage and accumulate Pea Rain charge.
 
-[PLANTWARS_MODE_HOWTOPLAY_5_DESCRIPTION]  
+[PLANTWARS_MODE_HOWTOPLAY_5_DESCRIPTION]
 When fully charged, Pea Rain will fall, dealing damage to zombies while ignoring attributes and damage reduction effects.
 
-[PLANTWARS_MODE_HOWTOPLAY_6_DESCRIPTION]  
+[PLANTWARS_MODE_HOWTOPLAY_6_DESCRIPTION]
 Similar to normal mode, prevent zombies from eating your brain and unlock the next level after clearing.
 
-[PLANTWARS_MODE_HOWTOPLAY_7_DESCRIPTION]  
+[PLANTWARS_MODE_HOWTOPLAY_7_DESCRIPTION]
 Earn points by defeating zombies, and accumulate points to receive star rewards.
 
-[ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE]  
+[ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE]
 Elite Hunter Zombie
 
-[ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION_HEADER]  
+[ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION_HEADER]
 The Elite Hunter Zombie has a toughness bar mechanism. Fire attribute attacks can reduce its toughness (burning attacks can cause significant reductions). Emptying the toughness bar will cause the zombie to enter a weakened state, during which it will neither act nor attack until the toughness bar is restored. When the zombie has toughness, it provides a damage absorption limit effect.
 
-[ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION]  
+[ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION]
 Actually, zombies also hold sports events every 4 years. The Elite Hunter Zombie has won the championship from the first event to... um... which edition is it now? In any case, it is the champion among champions.
 
-[ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE]  
+[ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE]
 Elite Ice Weasel Zombie
 
-[ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]  
+[ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]
 The Elite Ice Weasel Zombie has a toughness bar mechanism. Fire attribute attacks can reduce its toughness (burning attacks can cause significant reductions). Emptying the toughness bar will cause the zombie to enter a weakened state, during which it will neither act nor attack until the toughness bar is restored. When the zombie has toughness, it provides a damage absorption limit effect.
 
-[ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION]  
+[ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION]
 One day, the Ice Weasel Zombie found a new hollow piece of wood and discovered a frozen squirrel with two sharp fangs inside. Next to it was a pine cone. The Ice Weasel Zombie and the weasel nibbled on the pine cone, and then they became Elite Ice Weasel Zombies.
 
-[ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE]  
+[ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE]
 Elite Icewind Chieftain Zombie
 
-[ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE_DESCRIPTION_HEADER]  
+[ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE_DESCRIPTION_HEADER]
 The Elite Icewind Chieftain Zombie has a toughness bar mechanism. Fire attribute attacks can reduce its toughness (burning attacks can cause significant reductions). Emptying the toughness bar will cause the zombie to enter a weakened state, during which it will neither act nor attack until the toughness bar is restored. When the zombie has toughness, it provides a damage absorption limit effect.
 
-[ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE_DESCRIPTION]  
+[ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE_DESCRIPTION]
 After a routine attack, the Icewind Chieftain Zombie discovered that the guy in the cave with the flat-bottomed pot took out a fan device. The Icewind Chieftain Zombie was blown away by it. After being blown away repeatedly, the Icewind Chieftain Zombie has now learned how to counter the fan device.
 
-[ZOMBIE_PLANTWARS_ICEYEARMONSTER]  
+[ZOMBIE_PLANTWARS_ICEYEARMONSTER]
 Frost Year Beast Zombie
 
-[ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION_HEADER]  
+[ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION_HEADER]
 The Frost Year Beast Zombie has a toughness bar mechanism. Fire attribute attacks can reduce its toughness (burning attacks can cause significant reductions). Emptying the toughness bar will cause the zombie to enter a weakened state, during which it will neither act nor attack until the toughness bar is restored. When the zombie has toughness, it provides a damage absorption limit effect.
 
-[ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION]  
+[ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION]
 After training in the Ice Age, it no longer fears red or explosive attacks.
 
-[PLANTWARS_HEAD_ID_25594]  
+[PLANTWARS_HEAD_ID_25594]
 Chief Escape Expert
 
-[PLANTWARS_HEAD_DES_ID_25594]  
+[PLANTWARS_HEAD_DES_ID_25594]
 Achieved 15 stars in the first season of Escape from the MISSING NAME 
 
 [PLANTWARS_HEAD_ID_25607]
@@ -71433,9 +71382,8 @@ Diamond Sharing Instructions
 1. The base prize pool is 200,000 diamonds; for every player participating in the event, the prize pool increases by 50 diamonds for each draw.
 2. Up to 10% of diamond rewards can be shared!
 
-[ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]  
-Activity Description  
-1. Purchase gift packs to obtain Autumn Harvest Coins and win super prizes, including artifacts and a large number of diamonds!  
+[ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
+Activity Description1. Purchase gift packs to obtain Autumn Harvest Coins and win super prizes, including artifacts and a large number of diamonds!  
 2. Up to 30 times for selected rewards and up to 90 times for Super Corn.  
 3. Each time a player draws from the diamond pool, 50 diamonds are accumulated, with a maximum of 10% of the total diamonds to be shared!  
 4. After the event ends, tokens will be converted to diamonds proportionally, with a conversion rate of 1 Autumn Harvest Coin to 30 diamonds, and 1 Super Corn to 500 diamonds.
@@ -71804,7 +71752,7 @@ Top {NUMBER}% of the server
 Participation Award
 
 [GINGLEBELL_RECORD]
-Best Records
+Best Score
 
 
 [GINGLEBELL_DESCRIPTION_TITLE]
@@ -71815,19 +71763,19 @@ Event Rules:
     1. All damage to snowmen within the limited time counts as completion score.
     2. Score from the latest unlocked stage is used to complete daily reward tasks, which refresh daily.
     3. Three themes (Firepower Test, Accuracy Test, Tactical Test) will unlock sequentially, with one new stage every two days and a new theme every six days.
-    4. Leaderboard is based on the sum of scores from the latest theme’s three stages. The leaderboard will be closed from midnight to 10 AM after unlocking a new theme, and stages from non-latest themes won't count.
+    4. Leaderboard is based on the sum of scores from the latest theme's three stages. The leaderboard will be closed from midnight to 10 AM after unlocking a new theme, and stages from non-latest themes won't count.
     5. Rewards will be issued automatically after 10 AM. On January 11, the leaderboard display will be extended, and no stages can be challenged during this time.
     6. Players with abnormal scores will have their scores excluded from the leaderboard.
 
 
-[GINGLEBELL_RANK]
-Your Rank: {NUMBER}
+[GINGLEBELL_RANK]  
+Your Rank: {NUMBER}  
 
-[GINGLEBELL_PARTIC_NUM]
-Total Participants: {NUMBER}
+[GINGLEBELL_PARTIC_NUM]  
+Total Participants: {NUMBER}  
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-Double Holiday Jingle Bells Leaderboard Rewards
+Jingle Bells Leaderboard Rewards
 
 [GINGLEBELL_TAB1]
 Theme Challenge
@@ -71836,10 +71784,10 @@ Theme Challenge
 Daily Rewards
 
 [PVZ2TRAINING_DPSDAMAGETEXT]
-Dmg/s: {NUMBER} 
+Dmg/s: {NUMBER}
 
 [PVZ2TRAINING_TOTALDAMAGETEXT]
-Total Damage: {NUMBER} 
+Total: {NUMBER}
 
 [PVZ2TRAINING_DAMAGE1]
 This Round Damage: {NUMBER}
@@ -71854,7 +71802,7 @@ Deal as much damage as possible in 30 seconds
 Jingle Bell
 
 [GINGLEBELL_TASKDESCRIPTION]
-Deal {NUMBER} damage to the snowman in the latest stage
+Deal {NUMBER} damage in the latest level
 
 [A_PILE_SNOWMEN1_TITLE]
 Primal Pea - Stage 1
