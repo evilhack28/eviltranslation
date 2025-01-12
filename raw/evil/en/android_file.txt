@@ -6,11 +6,6 @@ Youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
 [COMPLAIN_CONTENT]
---1.5.2--
-Fix lastest plants 
-fix event text 
-fix a lot of other text
-
 --1.5.3--
 Fix some event Translation 
 fix some plants costume name 
@@ -20,12 +15,17 @@ and did some little text fix
 --1.5.4--
 added early 3.6.0 text 
 
+--1.5.5--
+fix PAMEGRANATE
+
+
+
 [HEALTH_NOTICE_CONTENT_3]
 Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from  January 10 (beta) V1.5.4
+translate by evilhack28 version from  January 13 (beta) V1.5.5
 
 [SPRING_TIPS_1]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
