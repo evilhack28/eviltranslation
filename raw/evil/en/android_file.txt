@@ -178,7 +178,6 @@ Your data has been modified by staff, and reloading the archive was successful.
 [PVZ_ERROR_75706]
 The match has already started.
 
-
 [PVZ_ERROR_75511]
 Conditions not met.
 
@@ -197,6 +196,61 @@ Upload local archive failed.
 
 
 
+[PAMEGRANATE]
+Machine Gun Pomegranate
+
+[PAMEGRANATE_DESCRIPTION]
+{KEYWORD}Range: {STAT}In front of it
+{KEYWORD}Plant features: {STAT}orange-red plant, weapon family, buck-toothed boy
+{FLAVOR}When Machine Gun Pomegranate went to the library to peek at the school beauty he accidentally read a book entitled "1000 Ways to Eat Pomegranates", on the title page was a quote that changed his life, "No matter how you eat it, pomegranate seeds are always spit out." Then he joined the army, and became a machine gunner with oddly bad marksmanship. And then he discharged, and became a landlord who ate seeds and sunbathed every day. And then? Don't you see that guy over there who opened his mouth to spit at you?
+
+[PAMEGRANATE_DESCRIPTION_HEADER]
+Machine Gun Pomegranate fires the front range of zombies.
+
+[PAMEGRANATE_TOOLTIP]
+Machine Gun Pomegranate fires the front range of zombies.
+
+[PAMEGRANATE_PRODUCT_SHORT_DESC]
+Machine Gun Pomegranate fires the front range of zombies.
+
+[PAMEGRANATE_SKILL1_LEVEL1]
+Scattered Shots
+
+[PAMEGRANATE_SKILL1_LEVEL1_DES]
+The attack range of Machine Gun Pomegranate is expanded to 3×3.
+
+[PAMEGRANATE_SKILL1_LEVEL2]
+Neva-Miss
+
+[PAMEGRANATE_SKILL1_LEVEL2_DES]
+The attack range of Machine Gun Pomegranate is expanded to 3×4.
+
+[PAMEGRANATE_NEW_SKILL_LEVEL1_DES]
+The attack range of machine gun pomegranate is expanded to 3x2.
+
+[PAMEGRANATE_NEW_SKILL_LEVEL2_DES]
+The attack range of machine gun pomegranate is expanded to 3x3.
+
+[PAMEGRANATE_NEW_SKILL_LEVEL3_DES]
+The attack range of machine gun pomegranate is expanded to 3x4.
+
+[PAMEGRANATE_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[PAMEGRANATE_PLANTFOOD_DESCRIPTION]
+Starts firing powerful seeds every second, dealing massive damage to whatever is in front of him in a 3x4 area.
+
+[PAMEGRANATE_AVATAR_PLANTFOOD_DESCRIPTION]
+Starts firing powerful seeds every second, dealing massive damage to whatever is in front of him in a 3x4 area. ^ff0000^ can also causes splash damage in a 2x1 area the splash damage is 1/2 of the hit damage. ^oldclr^
+
+[PAMEGRANATE_AVATAR_NAME]
+Machine Gun Pomegranate's Costume
+
+[STORE_PRODUCT_AVATAR_PAMEGRANATE_TITLE]
+Machine Gun Pomegranate Costume
+
+[STORE_PRODUCT_AVATAR_PAMEGRANATE]
+He causes splash damage along with direct damage.
 
 
 
@@ -23932,7 +23986,7 @@ Pieces needed {PIECE_COUNT}
 ^ffff00^ {NUMBER} diamond^oldclr^
 
 [SPRINGGIFT_DES]
-^ffff00^ 三级{NAME} ^oldclr^
+^ffff00^ Level 3 {NAME} ^oldclr
 
 [ACTIVITYDATA]
 Event date: ^ff0000^ From now until March 31 ^oldclr^
@@ -44373,7 +44427,7 @@ The experience card time has expired. Do you want to buy this plant?
 [NEWER_PRESENT_FIRSTRECHARGE_TITLE]
 First Charge Gift Pack
 
-[[NEWER_PRESENT_FIRSTRECHARGE_DES]
+[NEWER_PRESENT_FIRSTRECHARGE_DES]
 Make a single recharge of ^00FF00 2 yuan ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
 
 [PLANT_SPECIAL_LEFT_TIME]
@@ -65986,7 +66040,7 @@ Ready
 Ready
 
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
-Save Lineup
+Save plants
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
 Confirm
@@ -71078,7 +71132,6 @@ Activity Rules:
 6. Tokens and progress do not carry over. Remaining tokens are converted to diamonds at a 1:10 ratio.
 7. Convert tokens into diamonds in the backpack after the event. Unused tokens will be cleared in the next version.
 
-
 [MAT_PARTY_ASSIST_TICKET]
 Party Boosters
 
@@ -71124,7 +71177,6 @@ Obtain the full outfit of Nyuwa Ophiuros, Snapdragon costume, the Mulberry Blast
 
 [PARTY_ASSIST_TASK_DES_2]
 Obtain the full outfit of Nyuwa Ophiuros and all other non-full outfit rewards from this event.
-
 
 [FUTURE_GIFT_TOKEN_NUM]
 Current remaining tokens: {NUMBER}
