@@ -42463,7 +42463,7 @@ Pisum
 
 [PEASHOOTER_PEDIA]
 EVILHACK28（Pisum sativum L.）
-skibidi peashooter
+no more skibidi 
 
 [PLANT_PEDIA]
 Plant Encyclopedia
