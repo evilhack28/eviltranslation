@@ -19992,7 +19992,7 @@ Rose Costume
 Magic Mushroom Costume
 
 [STORE_PRODUCT_AVATAR_FIREPEASHOOTER_TITLE]
-Flame shooter Costume
+Fire Peashooter Costume
 
 [STORE_PRODUCT_AVATAR_PEPPERPULT_TITLE]
 Chili pitcher costume
@@ -23487,7 +23487,7 @@ Shoot charming light at the enemy
 {FLAVOR}Super cauliflower eyes spin due to pain. He just wants to write a finale for his novel, but he fears his cousin won't understand it.
  
 [BLOOMINGHEARTS]
-Suzuka pitcher
+Blooming Heart
 
 [BLOOMINGHEARTS_TOOLTIP]
 Throwing Love Flowers at Zombies
@@ -23496,7 +23496,7 @@ Throwing Love Flowers at Zombies
 Infatuated Absolute
 
 [BLOOMINGHEARTS_SKILL_LEVEL1_DES]
-There is a 10% probability that after hitting a zombie, a huge love mark will be formed, and the Suzuka pitcher will give priority to attacking enemy units with a huge love mark.
+There is a 10% probability that after hitting a zombie, a huge love mark will be formed, and the Blooming Heart will give priority to attacking enemy units with a huge love mark.
 
 [BLOOMINGHEARTS_SKILL_LEVEL2]
 Eternity of Love
@@ -23508,7 +23508,7 @@ Increase the absolute effect of infatuation by 100%
 Create huge playboy munitions that cause additional damage
 
 [STORE_PRODUCT_AVATAR_BLOOMINGHEARTS_TITLE]
-Suzukusa Costume
+Blooming Heart Costume
 
 [BLOOMINGHEARTS_DESCRIPTION_HEADER]
 The love mark can superimpose damage
@@ -23517,7 +23517,7 @@ The love mark can superimpose damage
 
 {KEYWORD}Special: {STAT} Love imprint can superimpose damage
 {KEYWORD}Plant features: {STAT} red plant, full of love,Short plant
-{FLAVOR} Suzuka pitcher likes zombies. She gets some rumors from her partner, but she stands firm. She likes zombies and doesn't apologize for it.
+{FLAVOR} Blooming Heart likes zombies. She gets some rumors from her partner, but she stands firm. She likes zombies and doesn't apologize for it.
  
  
 
@@ -26350,16 +26350,16 @@ Hurricane Brassica blows a hurricane to push all the zombies off the field.
 Blow out the hurricane that pushed the zombies to the bottom line
 
 [FIREPEASHOOTER]
-Flame Pea Shooter
+Fire Peashooter
 
 [FIREPEASHOOTER_DESCRIPTION_HEADER]
-Flame Pea Shooter Spray Flame Pea.
+Fire Peashooter Spray Flame Pea.
 
 [FIREPEASHOOTER_DESCRIPTION]
 {KEYWORD}Special: {STAT} is immune to freezing
 {KEYWORD}Special: {STAT} ice release plants near it
 {KEYWORD}Plant features: {STAT} orange plant, pea family, covered in fire, full of anger
-{FLAVOR} Flame Pea Shooter knows what it will look like when she gets excited. But dealing with spitfire is not a joke, and more importantly, it is a dangerous job. So in her spare time, she always says to her children that it is safe to use fire. I'm a professionally trained , she explained. Children, don't play with fire at home.
+{FLAVOR} Fire Peashooter knows what it will look like when she gets excited. But dealing with spitfire is not a joke, and more importantly, it is a dangerous job. So in her spare time, she always says to her children that it is safe to use fire. I'm a professionally trained , she explained. Children, don't play with fire at home.
 
 [FIREPEASHOOTER_TOOLTIP]
 Spray flame peas and freeze nearby plants
@@ -36151,7 +36151,7 @@ It's hard to grind.
 {EXCITED:CRAZYDAVE} Even if the end of the world is the end of the world, I will not let this happen, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
-{SAY:CRAZYDAVE} It's time to release the flame pea shooter! 
+{SAY:CRAZYDAVE} It's time to release the Fire Peashooter! 
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_5]
 {PLAYFUL:CRAZYDAVE} She can release heat energy to zombies and warm nearby friends! 
@@ -37488,7 +37488,7 @@ Explode-O-Nut
 Launch flame peas and warm nearby plants!
 
 [PRODUCT_FIREPEA_NAME]
-Plant - Flame Pea Shooter
+Plant - Fire Peashooter
 
 [PRODUCT_FLASHSNOWPEA_DESCRIPTION]
 Complete new challenges with Ice Pea, 50 Gems and 5000 Gold Coins!
@@ -38933,7 +38933,7 @@ Preview Frost Cave in advance!
 Let the weasels out!
 
 [WORLDMAP_EVENT_LOD_ICEAGE2_TEASER_DESC]
-Melt the ice with the flame pea shooter!
+Melt the ice with the Fire Peashooter!
 
 [WORLDMAP_EVENT_LOD_LOST1_HERE_DESC]
 Outside is a jungle.
@@ -46329,7 +46329,7 @@ Narcissus Queen Costume
 plants food turns into a colored bullet and repels the medium zombie 2 squares.
 
 [HOLLYKNIGHT]
-The Holly Knight
+Holly Barrier
 
 [HOLLYKNIGHT_DESCRIPTION_HEADER]
 Holly can launch small holly to any lattice position on the lawn
@@ -46339,7 +46339,7 @@ Holly can launch small holly to any lattice position on the lawn
 {KEYWORD}Range: {STAT} lawn grid full range
 {KEYWORD}Special: {STAT} repels zombies and leaves little holly behind
 {KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} The Holly Knight advises not to eat their fruits casually. He said: It is very impolite to eat his fruits without being allowed. As a knight, he hates impolite behavior. As a knight, I would like to remind children not to eat randomly, they may have diarrhea
+{FLAVOR} Holly Barrier advises not to eat their fruits casually. He said: It is very impolite to eat his fruits without being allowed. As a knight, he hates impolite behavior. As a knight, I would like to remind children not to eat randomly, they may have diarrhea
 
 [HOLLYKNIGHT_TOOLTIP]
 Click on the holly, click on the lattice to launch the little holly
@@ -46360,13 +46360,13 @@ Long range increases one square of repulse distance
 Knight Guardian
 
 [HOLLYKNIGHT_SKILL_LEVEL5_DES]
-The little holly thrown by the holly knight increases in size, the spines become longer, and the corresponding blood damage increases
+The little holly thrown by Holly Barrier increases in size, the spines become longer, and the corresponding blood damage increases
 
 [HOLLYKNIGHT_AVATAR_NAME]
-The Holly Knight Costume
+Holly Barrier Costume
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT_TITLE]
-The Holly Knight Costume
+Holly Barrier Costume
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT]
 plants food has an electric shock effect that can paralyze zombies for 1 second.
@@ -48772,7 +48772,7 @@ Cooling time shortened for Tangle Kelp plants {Param_1}%
 Croton planting cooling time shortened {Param_1}%
 
 [GENE_DESCRIPTION_FIREPEASHOOTER]
-Flame pea shooter attack power increased {Param_1}%
+Fire Peashooter attack power increased {Param_1}%
 
 [GENE_DESCRIPTION_PINEAPPLE]
 Spin pineapple health increase {Param_1}%
@@ -68522,22 +68522,22 @@ This plant does not have an plants food effect
 This plant does not have an plants food effect 
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-When a zombie appears to the right of the Flame Pea Shooter, the Flame Pea Shooter fires the Red Fire Pea to attack the zombie.
+When a zombie appears to the right of the Fire Peashooter, the Fire Peashooter fires the Red Fire Pea to attack the zombie.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-The Flame Pea Shooter has a 10% probability of firing bullets from each attack (continuous attacks can also be triggered).
+The Fire Peashooter has a 10% probability of firing bullets from each attack (continuous attacks can also be triggered).
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-The Flame Pea Shooter has a 20% probability of firing bullets from a continuous attack per attack (continuous attacks can also be triggered).
+The Fire Peashooter has a 20% probability of firing bullets from a continuous attack per attack (continuous attacks can also be triggered).
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
 
 [FIREPEASHOOTER_PLANTFOOD_DESCRIPTION]
-The Flame Pea Shooter is angry and spits out the flames, causing damage to the entire line of zombies that ignores the armor.
+The Fire Peashooter is angry and spits out the flames, causing damage to the entire line of zombies that ignores the armor.
 
 [FIREPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-The Flame Pea Shooter was angry and spit out the flame^ff0000^ and added an energy fountain.^oldclr^ caused damage to the entire line of zombies that ignored the armor.
+The Fire Peashooter was angry and spit out the flame^ff0000^ and added an energy fountain.^oldclr^ caused damage to the entire line of zombies that ignored the armor.
 
 [HOTPOTATO_NEW_SKILL_LEVEL1_DES]
 Roasted potatoes can melt a block of ice.
@@ -69700,7 +69700,7 @@ The leaves of Night Shadow Nightshade turn blue to fire 3 blades, subsequently b
 The leaves of Night Shadow Nightshade turn blue^ff0000^Fire a large blade^oldclr^, and then increase his attack power in normal and shadow states.
 
 [bloominghearts_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the Suzuka pitcher, the Suzuka pitcher throws the love fruit. Attacks by Suzukusa pitchers superimpose a love mark on a single zombie and increase damage based on the number of superimposed. A zombie can be superimposed up to five love marks, each adding 10 points of damage.
+When a zombie appears on the right side of the Blooming Heart, the Blooming Heart throws the love fruit. Attacks by Blooming Heart pitchers superimpose a love mark on a single zombie and increase damage based on the number of superimposed. A zombie can be superimposed up to five love marks, each adding 10 points of damage.
 
 [bloominghearts_NEW_SKILL_LEVEL2_DES]
 The attack of Bellflower has a 50% chance to generate a marker, and Bellflower will prioritize attacking the marked zombies
@@ -70033,10 +70033,10 @@ The double-gun pine cone enters Marksman mode, firing 6 consecutive rounds of fl
 The double-gun Pinecone enters marksman mode. ^ff0000^ fires 7 consecutive rounds of purple fire Pinecone^oldclr^ that can track zombies and cause higher damage, and causes sputtering damage to a small area.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL1_DES]
-The Holly Knight can fire Little Holly at a designated location, causing damage to a small area and repelling small zombies when Little Holly lands, firing up to 3. Holly Knight and Little Holly can cause damage to zombies one square on each side.
+Holly Barrier can fire Little Holly at a designated location, causing damage to a small area and repelling small zombies when Little Holly lands, firing up to 3. Holly Knight and Little Holly can cause damage to zombies one square on each side.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL2_DES]
-The holly knight's attack range is expanded to allow it to attack all zombies in one square, left, right, and up at the same time.
+Holly Barrier's attack range is expanded to allow it to attack all zombies in one square, left, right, and up at the same time.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL3_DES]
 Little Holly's repulse effect is enhanced, and it can repel 3 squares of small zombies.
@@ -70045,13 +70045,13 @@ Little Holly's repulse effect is enhanced, and it can repel 3 squares of small z
 There is a high probability of be boosted
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
-The little holly thrown by the holly knight increases in size, increases health to 3200, and increases attack power to coincide with the holly knight.
+The little holly thrown by Holly Barrier increases in size, increases health to 3200, and increases attack power to coincide with Holly Barrier.
 
 [HOLLYKNIGHT_PLANTFOOD_DESCRIPTION]
-The holly knight immediately launches the little holly to a full-screen random position and reset the number of little holly that can be launched to 3.
+Holly Barrier immediately launches the little holly to a full-screen random position and reset the number of little holly that can be launched to 3.
 
 [HOLLYKNIGHT_AVATAR_PLANTFOOD_DESCRIPTION]
-The Holly Knight immediately fires ^ff0000^ live little holly at a random position on the full screen. While attacking, it can paralyze zombies^oldclr^^ff9600^Ⅰ^oldclr^^ff0000^,^oldclr^ and reset the number of little holly that can be fired to 3.
+Holly Barrier immediately fires ^ff0000^ live little holly at a random position on the full screen. While attacking, it can paralyze zombies^oldclr^^ff9600^Ⅰ^oldclr^^ff0000^,^oldclr^ and reset the number of little holly that can be fired to 3.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL1_DES]
 A cordon will be open between the two police explosive magnetic mushrooms in the same row. It takes 2 seconds to wake up after planting, and after awakening, when the zombies appear within one square on the left and right or touch the cordon, they will fly out and explode to cause damage to the small range of zombies. ^ff0000^The mechanical unit has miraculous effects! ^oldclr^
