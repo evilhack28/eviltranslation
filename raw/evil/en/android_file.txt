@@ -193,6 +193,77 @@ Upload local archive failed.
 
 
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]  
+Burdock Batter Stand-Up Outfit  
+
+[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_2]  
+Increases attack speed by 20%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]  
+Nüwa Party Helper Outfit  
+
+[NEW_AVATAR_DESCRIPTION_EYWA_1]  
+Reduces planting cooldown by 20%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TUPISTRASTALKER_1]  
+Stealth Arrow New Year Outfit  
+
+[NEW_AVATAR_DESCRIPTION_TUPISTRASTALKER_1]  
+Reduces planting cooldown by 10%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]  
+Serpent Demon Pitcher Plant Sunglasses Outfit  
+
+[NEW_AVATAR_DESCRIPTION_SARRACENIA_2]  
+Increases attack speed by 20%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_2]  
+Water Lily Lantern Outfit  
+
+[NEW_AVATAR_DESCRIPTION_DRAFTODIL_2]  
+Reduces sunlight cost by 20  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]  
+Electric Hook Kiss Party Helper Outfit  
+
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]  
+Increases attack power by 10%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]  
+Big Smoke Mushroom Lion Dance Outfit  
+
+[NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]  
+Increases attack speed by 10%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]  
+Barbarian Rhubarb Growth Pack Outfit  
+
+[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]  
+Increases attack power by 10%  
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]  
+Crazy Firecracker Flower Growth Outfit  
+
+[NEW_AVATAR_DESCRIPTION_FIRECRACKERFLOWER_1]  
+Increases attack speed by 20%  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [PAMEGRANATE]
 Machine Gun Pomegranate
@@ -3815,6 +3886,11 @@ Dark Twin Sunflower Super Costume
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_2]
 Each time sun is produced, there is a 15% chance to produce 100 coins.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]  
+Tile Radish Super Outfit  
+
+[NEW_AVATAR_DESCRIPTION_POWERPLANT_1]  
+Planting cooldown reduced by 20%  
 
 
 [BONKCHOY]
@@ -8161,7 +8237,7 @@ Bubble Coral costume
 Pocket Paph
 
 [PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}Range: {STAT}3 line up and down  
+{KEYWORD}Range: {STAT}single line  
 {KEYWORD}Feature: {STAT}launch random items  
 {KEYWORD}Plant feature: {STAT}Pink plant
 {FLAVOR}Nobody knows how many things can be stuffed into Pocket Paph’s pocket. Laser Bean’s bamboo-copter, Potato Mine’s eye patch… everyone’s looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
@@ -8261,10 +8337,10 @@ The first plant minion created will directly be a Mortar Minion. The number of a
 Aerial Technology
 
 [EYWA_SKILL_LEVEL5_DES]
-The first plant minion created will directly be a Tank Minion. The Tank Minion jumps out of the tank, and during its disappearance in the air, there is a chance that a plane will appear to catch the minion, drop a nuclear bomb, and fly away. The nuclear bomb has a 3×3 explosion range, dealing damage and causing the degeneration effect to zombies within the range.
+首次捏人会直接捏出坦克小人，坦克小人消失时有概率出现一架飞机，额外投下一颗核弹后再飞走，核弹有3×3的爆炸范围，对范围内的僵尸造成伤害和退化效果
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
-Create plant minions that will autonomously seek out and attack zombies. After attacking zombies a certain number of times, the plant minions will evolve.
+捏出植物小人，植物小人会自己寻找僵尸攻击，植物小人攻击僵尸一定次数后会进化
 
 [EYWA_NEW_SKILL_LEVEL2_DES]
 The first plant minion created will directly be a Rifle Minion. The number of attacks required for all plant minions to evolve is reduced by 1.
@@ -8477,7 +8553,7 @@ Primal Sunflower No. 42
 Ultimate sunlight plant, produces 1000 sunlight per cycle.
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION_HEADER]
-Primal Sunflower produces large suns, not ordinary ones.
+Primal Sunflower produces large suns, not ordinary ones
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION]
 Ultimate sunlight plant, produces 1000 sunlight per cycle.
@@ -8570,20 +8646,13 @@ Corn cannon instantly kills medium and small zombies, deals 50% of max health as
 Potato Mine No. 42
 
 [PARALLEL_POTATOMINE_TOOLTIP]
-Ultimate sunshine plant, produces 1000 sunshine per activation.
+A basic single-use plant with no changes.
 
 [PARALLEL_POTATOMINE_DESCRIPTION_HEADER]
-Primal sunflowers produce large sun, not regular sun.
+A makeshift solution for when sunlight is scarce.
 
-[PARALLEL_POTATOMINE_DESCRIPTION]
-Ultimate sunshine plant, produces 1000 sunshine per activation.
-
-
-
-
-
-
-
+[PARALLEL_POTATOMINE_DESCRIPTION]  
+A basic single-use plant with no changes.
 
 
 
@@ -10206,6 +10275,12 @@ Skiing Adventure
 [RANK_AVATAR_CONTENT_CONTENT_61033]
 Congratulations! you win the banner for be a Grandmaster !!!!
 Season 26
+
+[RANK_AVATAR_CONTENT_TITLE_61034]  
+Ephemeral Fireworks  
+
+[RANK_AVATAR_CONTENT_CONTENT_61034]  
+Reward for players who participated in the March 2025 Co-Op Event.  
 
 [RANK_AVATAR_BTN_CHANGE]
 Replace
@@ -26950,38 +27025,38 @@ Try luck
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
 {TIRED:winnie}Perhaps he really is researching something terrible, we need to be careful.
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon} Long time no see, beard, rusty tin, oh, and you!
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_1]  
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, madman, do you think your plants can halt the wheels of fate?  
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_2]
-{SAY:zombossicon} It wasn’t easy to get here, was it?
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_2]  
+{SAY:zombossicon}I shall transform your garden into a domain of zombies.  
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_3]
-{SAY:zombossicon} To reward your efforts, let me show you the power of industrial era technology!
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_3]  
+{SAY:zombossicon}Before that, let us begin a grand performance!  
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} He's that... uh... zombie... Professor Zomboss!
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_4]  
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn’t understand a word.  
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_5]
-{TIRED:winnie} Oh Dave, I should give a necessary reminder. He is Doctor Zomboss.
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_5]  
+{EXCITED:winnie}He said he’s going to take you down.  
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_6]
-{EXCITED:winnie} Maybe we should start a timer and see how long he lasts this time.
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_6]  
+{EXCITED:crazydave}Maybe he has tacos with him.  
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon} You think you’ve won, right?
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]  
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Alas, fate! Fate!  
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_2]
-{SAY:zombossicon} But you don’t know, some scary things are happening!
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_2]  
+{SAY:zombossicon}All my efforts were but a fleeting meteor across the sky.  
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_3]
-{SAY:zombossicon} Hahahahaha, keep basking in your victory, soon you’ll witness something... "new"!
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_3]  
+{SAY:zombossicon}You revel in temporary joys, but know this: I shall return like a bolt of lightning!  
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} That was pretty intimidating, hahahah!
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]  
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn’t understand a thing.  
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
-{TIRED:winnie} Maybe he's really researching something terrifying, we should be careful. (sorry the text is really weird)
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]  
+{TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic failure.  
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Welcome, everyone, Zomboss is here to greet all of you plant friends.
@@ -34557,6 +34632,9 @@ Steam - Day {LEVEL_NUMBER}
 [RENAI_LEVEL_NAME]
 Renaissance - Day {LEVEL_NUMBER}
 
+[RENAI_FINALE_NAME]
+Renaissance Age - Ultimate Challenge
+
 [STEAM_FINALE_NAME]
 Steam - Ultimate Challenge
 
@@ -40659,23 +40737,98 @@ Quick Fusion will automatically combine overflow fragments; manual ratio adjustm
 [NOT_REMIND_TODAY]
 Do not remind me again today
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hmm! There seem to be several high-end cars ahead, much better than Penny's!
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What’s this? A vortex I’ve never seen before?  
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Then choose one, and let's race to see who's faster!
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows this is a new vortex black hole caused by chaotic temporal fluctuations in the spacetime channel.  
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} Alright, but if I win, you'll have to give me one of those cars!
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} A black hole? Plants always need to dig a hole in the soil to take root and sprout.  
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hmm! There seem to be several high-end cars ahead, much better than Penny's!
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} You’re not wrong, Dave, but according to the data, this isn’t connecting to a giant plant—it’s leading to a new universe.  
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Then choose one, and let's race to see who's faster!
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We’re being sucked in!  
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} Alright, but if I win, you'll have to give me one of those cars!
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} New-universe-flavored tacos! Here I come!  
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]  
+{NPC_ENTER:no42zombossicon} Let’s see what kind of chaos this disturbance has brought me!  
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]  
+{NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.  
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum—I won’t let it slide!  
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]  
+{NPC_ENTER:no42zombossicon} It seems this disruption hasn’t given you any decent help. You should take better care of your face!  
+
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It’s because you stole the wig! You’ve destabilized the parallel worlds! I will catch you!  
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows... Universe No. 42 has a 42% similarity with our universe.  
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_2]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here may look the same but have surprising differences.  
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who’s this talking car?  
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Scanning... User identified: Tough Guy Dave, registration complete.  
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_5]  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data indicates that Tough Guy Dave from Universe No. 42 has a 42% thought synchronization with Crazy Dave.  
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} I don’t understand half of what you’re saying, but whatever, help me deal with Handsome Zomboss! 
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} 这里的植物和僵尸好奇怪啊。
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_2]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 我们的宇宙本来如此，从未改变。
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} 希望能抓紧时间找到用户戴夫，找到回去的办法......
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_4]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 继续！追击帅哥僵博！
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_5]
+{NPC_ENTER:no42zombossicon} 傻瓜！就你也想抓住本少爷？
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_6]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} 帅哥僵博先生，请问我们要怎么回去呢！
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_7]
+{NPC_ENTER:no42zombossicon} 白痴！本少爷绝不会告诉你！引起这场骚乱的就是本少爷！也绝不会告诉你！回去的关键就是本少爷睿智的假发！
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_8]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 就算你不告诉我！我也会自己查清楚！
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_9]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} 42％的相似度说低不低，说高也不高.....
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} 用户硬汉戴夫，你觉得现在疯狂戴夫人在哪里？
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_2]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} 这并不重要！我一定要把帅哥僵博找到！把假发送回博物馆！
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} ......也只能照做了，先抓住帅哥僵博，把假发弄回去吧.....
+
+[NARRATIVE_UNCHARTED_NO42_OUTRO_ZOMBOSS_END_1]
+{NPC_ENTER:no42zombossicon}  你们给本少爷等着！本少爷就算没有假发也是如此光鲜亮丽美丽动人！
+
+[NARRATIVE_UNCHARTED_NO42_OUTRO_ZOMBOSS_END_2]
+{NPC_ENTER:no42zombossicon}  我还会回来教训你们这些白痴的！
 
 [NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Well, I noticed that you've acquired a magical item called a piece.
@@ -44687,26 +44840,29 @@ Buy Endless Gift Pack
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
 Endless Gift Pack
 
-[PRODUCT_LION_DANCE_01]
-Buy Small Christmas Stocking Gift Pack
+[PRODUCT_LION_DANCE_01]  
+Purchase Small Firecracker Pack  
 
-[PRODUCT_LION_DANCE_01_SHORTDESC]
-Small Christmas Stocking Gift Pack
+[PRODUCT_LION_DANCE_01_SHORTDESC]  
+Small Firecracker Pack  
 
-[PRODUCT_LION_DANCE_02]
-Buy Special Christmas Stockings Gift Pack
+[PRODUCT_LION_DANCE_02]  
+Purchase Discounted Firecracker Pack  
 
-[PRODUCT_LION_DANCE_02_SHORTDESC]
-Special Christmas Socks Gift Pack
+[PRODUCT_LION_DANCE_02_SHORTDESC]  
+Discounted Firecracker Pack  
 
-[PRODUCT_LION_DANCE_03]
-Buy Medium Christmas Stocking Gift Pack
+[PRODUCT_LION_DANCE_03]  
+Purchase Medium Firecracker Pack  
 
-[PRODUCT_LION_DANCE_03_SHORTDESC]
-Medium Christmas Stocking Gift Pack
+[PRODUCT_LION_DANCE_03_SHORTDESC]  
+Medium Firecracker Pack  
 
-[PRODUCT_LION_DANCE_04]
-Buy Large Christmas Stocking Gift Pack
+[PRODUCT_LION_DANCE_04]  
+Purchase Large Firecracker Pack  
+
+[PRODUCT_LION_DANCE_04_SHORTDESC]  
+Large Firecracker Pack  
 
 [PRODUCT_LION_DANCE_04_SHORTDESC]
 Large Christmas Stocking Gift Pack
@@ -45751,23 +45907,23 @@ Is it confirmed that this plant casts your valuable vote?
 [NO_CONDITIONS]
 Conditions not fulfilled
 
-[LUCKBAG_ANNOUNCEMENT_TITLE]
-Golden Autumn Lucky Bag
+[LUCKBAG_ANNOUNCEMENT_TITLE]  
+Spring Festival Lucky Bag  
 
-[LUCKBAG_ANNOUNCEMENT_CONTENT]
-Event Details: Choose 6 desired plants to put into the lucky bag. Opening the bag guarantees 1 orange plant and 1 purple plant from the selection.
+[LUCKBAG_ANNOUNCEMENT_CONTENT]  
+Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.  
 
-[LUCKBAG_TITLE]
-Golden Autumn Lucky Bag
+[LUCKBAG_TITLE]  
+Spring Festival Lucky Bag  
 
-[LUCKBAG_SELECT_PLANT]
-Select Plants
+[LUCKBAG_SELECT_PLANT]  
+Select Plants  
 
-[LUCKBAG_RESELECT_PLANT]
-Reselect
+[LUCKBAG_RESELECT_PLANT]  
+Reselect  
 
-[LUCKBAG_SELECT_TITLE]
-Golden Autumn Lucky Bag Bundle Configuration
+[LUCKBAG_SELECT_TITLE]  
+Spring Festival Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
 Fukuro Confirmation
@@ -46219,8 +46375,8 @@ Electric Energy Pea Commemorative Coin
 [MAT_COLLECT_COIN_E]
 Sunflower commemorative coin
 
-[MAT_FIREWORKS]
-Christmas Stockings
+[MAT_FIREWORKS]  
+Firecrackers
 
 [LOAD_AD_ERROR_TITLE]
 Failed to load ad
@@ -50044,29 +50200,29 @@ Description of the activities of the plant cultivation programme
 6. Obtained Plant Experience Card, go to Backpack - Other Props, view and use.
 7. Players must first enter the Plant Cultivation Plan to view the task list each time they enter the game. Rewards for the corresponding tasks can only be claimed after completing the relevant levels. Players cannot exit the game while completing the tasks.
 
-[FIGHT_ZODIAC_TITLE]
-Christmas Dedication
+[FIGHT_ZODIAC_TITLE]  
+New Year Gift  
 
-[FIGHT_ZODIAC_TAB_1]
-Christmas Dedication
+[FIGHT_ZODIAC_TAB_1]  
+New Year Gift  
 
-[FIGHT_ZODIAC_TAB_2]
-Christmas Pack
+[FIGHT_ZODIAC_TAB_2]  
+New Year Pack  
 
-[FIGHT_ZODIAC_INDEX]
-The {NUM} Christmas gift pack
+[FIGHT_ZODIAC_INDEX]  
+The {NUM}th New Year Pack  
 
-[FIGHT_ZODIAC_OBTAIN]
-Free Christmas Stockings Receive
+[FIGHT_ZODIAC_OBTAIN]  
+Free Firecracker Pickup  
 
-[FIGHT_ZODIAC_ONE]
-Hand over 1 Christmas sock
+[FIGHT_ZODIAC_ONE]  
+Give 1 Firecracker  
 
-[FIGHT_ZODIAC_TEN]
-Hand over 10 Christmas socks
+[FIGHT_ZODIAC_TEN]  
+Give 10 Firecrackers  
 
-[FIGHT_ZODIAC_NOT_ENOUGH]
-Insufficient Christmas socks
+[FIGHT_ZODIAC_NOT_ENOUGH]  
+Not Enough Firecrackers  
 
 [FIGHT_ZODIAC_BEAT]
 Break Rewards
@@ -50074,41 +50230,41 @@ Break Rewards
 [FIGHT_ZODIAC_LIMIT]
 Have reached the purchase cap today
 
-[FIGHT_ZODIAC_BEAT_DES]
-For each Christmas sock, you can get 1~2 gift pack points at Davena and get a piece of the item in the prize pool
+[FIGHT_ZODIAC_BEAT_DES]  
+Each firecracker grants 1-2 gift points at Dave's and provides a fragment of an item from the reward pool.  
 
-[FIGHT_ZODIAC_REWARD]
-Get Christmas Stockings for Free
+[FIGHT_ZODIAC_REWARD]  
+Free Firecracker Pickup  
 
-[FIGHT_ZODIAC_REWARD_PENNY]
-Play once {TYPE} to get Christmas socks
+[FIGHT_ZODIAC_REWARD_PENNY]  
+Play {TYPE} once to earn a firecracker  
 
-[FIGHT_ZODIAC_REWARD_MONTHLY_CARD]
-Daily Super Monthly Card with Christmas Stockings
+[FIGHT_ZODIAC_REWARD_MONTHLY_CARD]  
+Super Monthly Card rewards firecrackers daily  
 
-[FIGHT_ZODIAC_REWARD_FREE]
-Get Christmas Stockings for Free Daily
+[FIGHT_ZODIAC_REWARD_FREE]  
+Free firecracker pickup every day  
 
-[GACHA_TIME_COUNT_DOWN]
-Gift pack refresh countdown
+[GACHA_TIME_COUNT_DOWN]  
+Gift Pack Refresh Countdown  
 
-[PENNY_CHASE]
-Penny Pursuit
+[PENNY_CHASE]  
+Penny's Pursuit  
 
-[BUY_MONTHLY_CARD]
-Buy Monthly Card
+[BUY_MONTHLY_CARD]  
+Purchase Monthly Card  
 
-[FIGHT_ZODIAC_DESCRIPTION_TITLE]
-Christmas Gifts Description
+[FIGHT_ZODIAC_DESCRIPTION_TITLE]  
+New Year Gift Event Description  
 
-[FIGHT_ZODIAC_DESCRIPTION]
-Activity content:
-1. The player earns gift pack points from Davena by consuming Christmas socks, earning one bonus for each Christmas sock consumed.
-2. Consuming Christmas socks has a probability of getting double points.
-3. e the points reach a certain amount, get the gift pack displayed on the upper right.
-4. The remaining points required for the next gift pack are shown above Dave's head.
-5. Once the gift pack gift is obtained, a new gift pack is automatically reset.
-6. Plant piece probability announcement: Orange plant piece: 10%; Purple plant piece: 35%; Blue plant piece: 45%; rubies: 10%
+[FIGHT_ZODIAC_DESCRIPTION]  
+Event Details:  
+1. Players consume firecrackers to earn gift points from Dave. Each firecracker consumed grants one reward.  
+2. Consuming firecrackers has a chance to double the points.  
+3. When the points reach a certain amount, the gift pack displayed in the top right is unlocked.  
+4. The remaining points required for the next gift pack will be shown above Dave's head.  
+5. After receiving a gift, the pack will automatically reset.  
+6. Plant fragment probability distribution: Orange Plant Fragments: 10%; Purple Plant Fragments: 35%; Blue Plant Fragments: 45%; Mysterious Crystal: 10%  
 
 [LIMITED_SUMMON_TITLE]
 Time-limited Summons
@@ -52223,11 +52379,11 @@ Buy Theatre Luxury Gift Pack
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_248]
 Theatre Luxury Gifts Pack
 
-[STORE_CATEGORY_NAME_LUCKBAG_45]
-Purchase Golden Autumn Lucky Bag
+[STORE_CATEGORY_NAME_LUCKBAG_45]  
+Purchase New Year Lucky Bag  
 
-[STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
-Golden Autumn Lucky Bag
+[STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]  
+New Year Lucky Bag 
 
 [MAT_RICHMAN_COIN]
 Theatre Coins
@@ -57608,11 +57764,17 @@ Party Mangosteen
 [PARTYEPSACTIVITY_HEAD_DES_ID_25627]
 Limited-edition avatar for Party Support Event
 
-[PARTYEPSACTIVITY_HEAD_ID_25574]
-Party Kiwi
+[PARTYEPSACTIVITY_HEAD_ID_25573]  
+Party Kiwi  
 
-[PARTYEPSACTIVITY_HEAD_DES_ID_25574]
-Limited-edition avatar for Party Support Event
+[PARTYEPSACTIVITY_HEAD_DES_ID_25573]  
+Limited Avatar for Party Assistance Event  
+
+[PARTYEPSACTIVITY_HEAD_ID_25644]  
+Party Nüwa Serpent Tail Grass  
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25644]  
+Limited Avatar for Party Assistance Event  
 
 [NUMBERLOGINS_HEAD_ID_25590]
 "Dedicated Player" Black Iron
@@ -63884,7 +64046,7 @@ Collect sun to plant plants and defeat the zombie invasion. Complete the challen
 Slide up and down to avoid obstacles, survive to score points and achieve victory.
 
 [PVZ2_UNCHARTED_NO42_ENDLESS_RECORD_DESC]
-Highest Record: {NUMS}/99
+Highest Record: {NUMS}/100
 
 [MAT_NO42_UNIVERSE_NORMAL_COIN]
 Normal Coin
@@ -63892,8 +64054,11 @@ Normal Coin
 [MAT_NO42_UNIVERSE_HARD_COIN]
 Hard Coin
 
-[MAT_NO42_UNIVERSE_BASIC_SUN]
-Enhanced sun
+[MAT_NO42_UNIVERSE_BASIC_SUN1]  
+Enhanced Sun 
+
+[MAT_NO42_UNIVERSE_BASIC_SUN2]  
+Enhanced Sun
 
 [PVZ2_UNCHARTED_SPECIAL_LEVEL_MAIN_GOAL_DESC]
 Swipe up and down to avoid obstacles and survive to score points for victory.
@@ -64287,6 +64452,9 @@ Millennium
 
 [NO42_LEVEL_NAME_07_H]
 Entering Dream
+
+[NO42_LEVEL_NAME_MUGEN]  
+Infinite  
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
 {PLAYER}'s Spooky Halloween Night
@@ -65992,11 +66160,18 @@ Cancel Matchmaking
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM]
 Create Room
 
+[NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM_TITLE]  
+Create and Join
+
 [NEW_PVP_FREE_TO_PLAY_MAIN_JOIN_ROOM]
 Join Room
 
 [NEW_PVP_FREE_TO_PLAY_AREA_CONFIRM]
 Confirm
+
+[NEW_PVP_FREE_TO_PLAY_AREA_TITLE]  
+Background Selection  
+
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_HOST]
 Host
@@ -66009,6 +66184,10 @@ Your lineup^oldclr ^00FF00 is preparing ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
 Your lineup^oldclr ^00FF00 is ready ^oldclr
+
+[NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]  
+^oldclr ^00FF00 Waiting to Enter ^oldclr  
+
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
 Guest^oldclr ^00FF00 is preparing ^oldclr
@@ -66040,8 +66219,8 @@ Ready
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
 Save plants
 
-[NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
-Confirm
+[NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]  
+Join Room
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
 Room Code
@@ -66152,8 +66331,8 @@ The battle has started!
 [NEW_PVP_FREE_PLAY_ERROR_CODE_4]
 Room is full!
 
-[NEW_PVP_FREE_PLAY_ERROR_CODE_5]
-^FF0000 You have been kicked out of the room!
+[NEW_PVP_FREE_PLAY_ERROR_CODE_5]  
+^FF0000 The room has been dissolved!  
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
 ^FF0000 Your current game frame rate is too low! Can't play online! ^oldclr^
@@ -70870,8 +71049,8 @@ Participate in the survey, answer questions, and receive diamonds and voucher.
 [ACTIVITY_NEW_PLAYER_SURVEY_REWARD_TITLE]
 Possible rewards
 
-[ACTIVITY_NEW_PIGGY_BANK_DESC]
-Buy the Little Dragon Piggy Bank and enjoy ^ff0000^9.9^oldclr^ times the diamond rebate, with the highest return ^ff0000^2970^oldclr^ diamond
+[ACTIVITY_NEW_PIGGY_BANK_DESC]  
+Purchase the Little Snake Piggy Bank to enjoy ^ff0000^9.9^oldclr^x diamond rebate, with a maximum return of ^ff0000^2970^oldclr^ diamonds.  
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
 Purchase for 30 yuan
@@ -71081,8 +71260,8 @@ Dave Kitchen Events
 [DAVEKITCHEN_SHORT_DESCRIPTION]
 Help Dave make delicious corn rolls with the probability of getting diamonds, artifact blessing coupons, advanced books and other thanks.
 
-[PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]
-Redeem the obtained socks to Dave for a reward, there are various plant pieces to get!
+[PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]  
+Exchange the obtained firecrackers for rewards from Dave, with various plant piece!  
 
 [PARTY_ASSIST_TITLE]
 Party Help
@@ -72305,8 +72484,8 @@ In the Farm Battle event, exchange for Super Corn.
 [TOYS_HEAD_ID_25327]
 Hungry Dragon Attack
 
-[TOYS_HEAD_DES_ID_25327]
-Participate in the event "Black Hole" to obtain.
+[TOYS_HEAD_DES_ID_25327]  
+Earned by participating in the Toy Night event
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_TIPS]
 Diamond Pool Explanation:
@@ -72441,10 +72620,10 @@ Obtain a plant costume.
 [TOURISMOCTOBER_TASK_NAME_8]
 Participate in one Penny's Treasure lottery.
 
-[TOURISMOCTOBER_TASK_NAME_9]
+[TOURISMOCTOBER_TASK_NAME_9 ]
 Engage in 15 plant explorations.
 
-[TOURISMOCTOBER_TASK_NAME_10]
+[TOURISMOCTOBER_TASK_NAME_001 ]
 Achieve 6 stars in the Zombie Escape mode.
 
 [TOURISMOCTOBER_TASKDAY_TIPS_LABEL]
@@ -72495,11 +72674,11 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION]
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
-[NIGHTTHETOY_TIP]
-Parts Shop
+[NIGHTTHETOY_TIP]  
+Black Hole Shop
 
-[NIGHTTHETOY_SHOP]
-Parts Shop
+[NIGHTTHETOY_SHOP]  
+Black Hole Shop
 
 [NIGHTTHETOY_TASK]
 Event Tasks
@@ -72519,26 +72698,26 @@ Guaranteed Grand Prize after {NUMS} more draws
 [NIGHT_THE_TOY_REWARD_PLAYER_DESC]
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
-[PRODUCT_NIGHTTHETOY_SHORTDESC]
-Black Hole Adventure
+[PRODUCT_NIGHTTHETOY_SHORTDESC]  
+Black Hole Journey  
 
-[TOYNIGHT_TITLE]
-Black Hole Adventure
+[TOYNIGHT_TITLE]  
+Black Hole Journey  
 
-[PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Basic Toy Bundle
+[PRODUCT_TOY_NIGHT_6_SHORTDESC]  
+Beginner Star Coin Pack  
 
-[PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Toy Bundle
+[PRODUCT_TOY_NIGHT_30_SHORTDESC]  
+Intermediate Star Coin Pack  
 
-[PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Advanced Toy Bundle
+[PRODUCT_TOY_NIGHT_98_SHORTDESC]  
+Advanced Star Coin Pack  
 
-[PRODUCT_TOY_NIGHT_45_SHORTDESC]
-Basic Limited Bundle
+[PRODUCT_TOY_NIGHT_45_SHORTDESC]  
+Beginner Limited Purchase Pack  
 
-[PRODUCT_TOY_NIGHT_198_SHORTDESC]
-Royal Luxury Limited Edition Bundle
+[PRODUCT_TOY_NIGHT_198_SHORTDESC]  
+Advanced Limited Purchase Pack  
 
 [TOYNIGHT_TASK_1]
 First time entering the event
@@ -72546,29 +72725,29 @@ First time entering the event
 [TOYNIGHT_TASK_2]
 Obtain the Super Costume of Turnip
 
-[TOYNIGHT_TASK_3]
-Obtain all Costumes of Turnip
+[TOYNIGHT_TASK_3]  
+Obtain all outfits
 
-[MAT_TOY_PARTS]
-Small Black Hole
+[MAT_TOY_PARTS]  
+Small Black Hole  
 
-[MAT_TOY_PARTS_USE]
-Used to exchange rewards in the Black Hole Parts Store
+[MAT_TOY_PARTS_USE]  
+Redeem rewards in the Black Hole Fantasy Journey event's Black Hole Shop  
 
-[MAT_TOY_PARTS_GOT_WAY]
-Obtained by drawing in the Black Hole Event
+[MAT_TOY_PARTS_GOT_WAY]  
+Obtained through draws in the Black Hole Fantasy Journey event  
 
-[MAT_TOY_CLOCKWORK]
-Star Coins
+[MAT_TOY_CLOCKWORK]  
+Star Coin  
 
-[MAT_TOY_CLOCKWORK_USE]
-An item consumed for drawing rewards in the Black Hole Event
+[MAT_TOY_CLOCKWORK_USE]  
+Item used for draws in the Black Hole Fantasy Journey event  
 
-[MAT_TOY_CLOCKWORK_GOT_WAY]
-Obtained by purchasing in the Black Hole Event Gift Shop
+[MAT_TOY_CLOCKWORK_GOT_WAY]  
+Purchased in the Black Hole Fantasy Journey event's Gift Shop  
 
-[TOY_NIGHT_EXPIRED]
-Expired rewards for the Black Hole
+[TOY_NIGHT_EXPIRED]  
+Expired rewards for the Black Hole Fantasy Journey  
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Event Rules:
@@ -72577,27 +72756,26 @@ Event Rules:
 3. If no grand prize is drawn in 20 consecutive draws, the next draw will be from the guaranteed prize pool.
 
 Guaranteed Prize Pool:
-Turnip Super Costume: 2.22%
-Black Hole*1300: 2.78%
-Black Hole*700: 5.55%
-Black Hole*500: 11.10%
-Diamonds*1888: 39.18%
-Penny's Treasure Ticket*10: 39.18%
+Turnip Super Costume: 3.72%
+Small Black Hole *1300: 5.28%
+Small Black Hole *700: 12.55%
+Small Black Hole *500: 11.10%
+Diamonds *1888: 32.17%
+Penny's Voucher *10: 35.18%
 
 Reward Probabilities:
 Turnip Super Costume: 0.17%
-Black Hole*1300: 0.21%
-Black Hole*700: 0.43%
-Black Hole*500: 0.85%
-Black Hole*100: 3.00%
-Black Hole*50: 5.00%
-Black Hole*20: 12.00%
-Black Hole*10: 36.00%
-Turnip costume: 2.09%
-Gorgon Pitcher: 2.00%
-Costume Ticket*500: 2.50%
-Costume Ticket*100: 15.75%
-Penny's Treasure Ticket*1: 20.00%
+Small Black Hole *1300: 0.21%
+Small Black Hole *700: 0.43%
+Small Black Hole *500: 0.85%
+Small Black Hole *100: 6.09%
+Small Black Hole *50: 16.00%
+Small Black Hole *20: 12.00%
+Small Black Hole *10: 35.00%
+Costume Voucher *500: 2.50%
+Costume Voucher *100: 9.75%
+Penny's Voucher *1: 17.00%
+
 
 [TOY_NIGHT_GACHA_GOT_HINT]
 Already owned, automatically converted to points reward
@@ -72695,11 +72873,11 @@ Jingle Bells Event Description
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules:
-    1. All damage to snowmen within the limited time counts as completion score.
+    1. All damage dealt to the Money Tree in the limited time will be counted as the completion score.
     2. Score from the latest unlocked stage is used to complete daily reward tasks, which refresh daily.
     3. Three themes (Firepower Test, Accuracy Test, Tactical Test) will unlock sequentially, with one new stage every two days and a new theme every six days.
     4. Leaderboard is based on the sum of scores from the latest theme's three stages. The leaderboard will be closed from midnight to 10 AM after unlocking a new theme, and stages from non-latest themes won't count.
-    5. Rewards will be issued automatically after 10 AM. On January 11, the leaderboard display will be extended, and no stages can be challenged during this time.
+    5. After 10:00, the leaderboard will be closed and rewards will be automatically distributed. The leaderboard display for February 15th will be extended for one day, and no levels can be challenged during this period.
     6. Players with abnormal scores will have their scores excluded from the leaderboard.
 
 
@@ -72779,7 +72957,7 @@ Angel Starfruit - Stage {LEVEL_NUMBER}
 Eggplant Ninja - Stage {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Snowman Time !
+{PLAYER}'s Tree Time !
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Lunisolar Honeysuckle Winter Outfit
@@ -73171,7 +73349,7 @@ hello
 在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
 
 [ZOMBIE_ZOMBOSSMECH_RENAI]
-复兴时代僵尸博士
+剧团操纵者
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
 {KEYWORD}特点：{STAT}创作戏剧
 {FLAVOR}一页僵尸博士的手稿：
@@ -73183,7 +73361,7 @@ hello
 [ZOMBIE_RENAI_HAMLET]
 哈姆雷特僵尸
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION]
-{KEYWORD}特点：{STAT}向前方发射扇形范围的子弹
+{KEYWORD}特点：{STAT}向前方发射扇形范围的子弹，子弹可以与植物子弹相撞。
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION_HEADER]
 一千个读者心目中有一千个哈姆雷特，而一千个植物心目中只有一个僵尸！不管他怎么变，永远逃不掉！
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
@@ -73192,7 +73370,7 @@ hello
 [ZOMBIE_RENAI_SHERLOCK]
 夏洛克僵尸
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION]
-{KEYWORD}特点：{STAT}向前方植物丢出钱袋时，压扁植物并使该行僵尸加速和免控
+{KEYWORD}特点：{STAT}向本行第一列或第二列的丢出一个钱袋并换行，钱袋可以压扁植物并使该行僵尸加速，并持续召唤僵尸
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION_HEADER]
 夏洛克僵尸是专业的法庭演员，从他被拖上证言台开始，到最后判决，无不是精心设计的表演。不过这场庭审是一个更加巨大的剧本，再精致的表演也跨不出去。
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_SHERLOCK]
@@ -73246,19 +73424,14 @@ New Year Pack Purchase Instructions:
 New Year Cumulative Recharge Instructions:
 During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
 
-[NEWYEARPACK_MAIN_TIPS_INFO]
-Costumes available in the Normal New Year Box: Peashooter, Potato Mine, Chard Guard, Agave, Cabbage-pult costume.
-Costumes available in the rare New Year Box: Sunflower Singer,Dollarweed Drummer, Dual Pistol Pinecone,Phat Beet, Chomper, Bonk Choy Ox, Bonk Choy Festival costume.
-Costumes available in the legendary New Year Box: Primal Pea, Pineapple,Apple Mortar,Thunder Snapdragon Rabbit,Thunder Snapdragon Year,Snapdragon,Cold Snapdragon,Chestnut Brothers.
-THAT TOOOOOO MUCH NO ?
+Daily 0 Yuan Welcome Gift: Diamonds*15  
+2 Yuan Gift Pack: Diamonds*30, 10% chance to get a normal Outfit New Year's Goods Box  
+3 Yuan Gift Pack: Diamonds*90, 10% chance to get an rare Outfit New Year's Goods Box  
+6 Yuan Gift Pack: Diamonds*180, 10% chance to get an Advanced Outfit New Year's Goods Box
 
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
-Probability of obtaining items from the New Year Box:
-  Daily Free Gift: Diamonds*15
-  ¥2 Value Pack: Diamonds*30, 10% chance to get a Normal New Year Box
-  ¥3 Value Pack: Diamonds*90, 10% chance to get an rare New Year Box
-  ¥6 Value Pack: Diamonds*180, 10% chance to get an Advanced New Year Box
+2 Yuan Gift Box
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
 ¥3 Value Gift Box
@@ -73294,13 +73467,17 @@ After use, you can select one plant costume from the items to obtain.
 Obtained by purchasing value gift boxes in the New Year Pack with a probability.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
-Description of the New Year Event
+1. The event red note at fixed times daily: 12:00-14:00 and 18:00-21:00 (UTC+8). You can claim one red packet between the hour, with a max of 2 red packets per day.
+2. From January 27th to February 9th, a lucky player will be selected from all servers (on iOS and one Android) at 21:00 daily, provided they have claimed that day's red packet, to win a amazing reward.
+3. On special dates (tentatively New Year's Eve, New Year's Day, and the 5th day of the Lunar New Year), there will be an additional prize draw. From 00:00-21:59 on these dates, you can use a lottery ticket to enter the prize draw for prizes.
+4. Each time a player uses a lottery ticket, their registration information will be recorded. The gold bar grand prize will be drawn from all registered players at 22:00 on New Year's Eve, New Year's Day, and the 5th day of the Lunar New Year.
+5. The daily lucky grand prize will be drawn the following day. If the player does not log in and claim the prize before the draw, they forfeit the reward.
 
 [UINEWYEARREDPACKET_DES_TITLE]
 Description of the New Year Event
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} New Year Red Packet
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations Here’s your New Year red packet.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
 {SAY:NEWYEARCRAZYDAVE} New Year Red Packet
@@ -73312,7 +73489,7 @@ Description of the New Year Event
 Sign Up for Lottery
 
 [REDPACKETWIDGET_DES_DESCRIPTION]
-Congratulations! You have been chosen as today's luckiest player.
+During the event period, you can receive a red packet once daily from 12:00-14:00 and 18:00-21:00.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]
 Player ^FFFF00 {NAME} ^oldclr 
@@ -73321,7 +73498,7 @@ Player ^FFFF00 {NAME} ^oldclr
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar December 28th.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar December 29th.
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the New Year's Eve grand prize!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar January 1st.
@@ -73344,7 +73521,7 @@ Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar Janua
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar January 7th.
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar January 8th.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
@@ -73414,7 +73591,7 @@ Publish three levels in Creative Courtyard.
 Doom Carrot
 
 [TOYS_HEAD_DES_ID_25630]
-Exchange during the Black Hole Adventure event.
+Earned by participating in the Black Hole event.
 
 [HARVEST_BATTLE_HEAD_ID_25631]
 Just Kidding
@@ -73427,6 +73604,12 @@ Golden and Silver Greetings
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25632]
 Claim after reaching cumulative recharge milestones during the New Year Pack event.
+
+[TEN_THOUSAND_HEAD_ID_25636]
+Dev are jealous >-<
+
+[TEN_THOUSAND_HEAD_DES_ID_25636]
+Earned by spending 10 000 yuans the richest of the richest !!.
 
 [NEWYEARREDPACKETE_TAB0]
 New Spring Grand Prize
@@ -73444,10 +73627,30 @@ Get Free Lottery Tickets
 New Spring Red Packet
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
-Reward Preview
+Reward Preview:
+28th of the 12th lunar month: ^ff0000^Universal Fragment^oldclr^*200
+29th of the 12th lunar month: ^ff0000^Book^oldclr^*10
+1st of the 1st lunar month: ^ff0000^Fragment^oldclr^*300
+2nd of the 1st lunar month: ^ff0000^Diamonds^oldclr^*20250
+3rd of the 1st lunar month: ^ff0000^Limited Treasure Trophy^oldclr^*5
+4th of the 1st lunar month: ^ff0000^Universal Fragment^oldclr^*200
+5th of the 1st lunar month: ^ff0000^Book^oldclr^*10
+6th of the 1st lunar month: ^ff0000^Fragment^oldclr^*300
+7th of the 1st lunar month: ^ff0000^Diamonds^oldclr^*20250
+8th of the 1st lunar month: ^ff0000^Limited Treasure Trophy^oldclr^*5
+9th of the 1st lunar month: ^ff0000^Universal Fragment^oldclr^*200
+10th of the 1st lunar month: ^ff0000^Book^oldclr^*10
+11th of the 1st lunar month: ^ff0000^Fragment^oldclr^*300
+12th of the 1st lunar month: ^ff0000^Diamonds^oldclr^*20250
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
-Red Packet Reward Preview
+Top Lucky Player Award
+
+[ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
+Open the New Year Gift Pack to get tons of diamonds and rare outfits
+
+[REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
+Congratulations, you’ve been selected as today’s luckiest player
 
 
 [PVZ2_CHINESE_END]
