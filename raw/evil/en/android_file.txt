@@ -6,17 +6,15 @@ Youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
 [COMPLAIN_CONTENT]
---1.5.3--
-Fix some event Translation 
-fix some plants costume name 
-and add missing text 
-and did some little text fix
-
 --1.5.4--
 added early 3.6.0 text 
 
 --1.5.5--
 fix PAMEGRANATE
+
+--1.5.5--
+added new early 3.6.0 text 
+
 
 [HEALTH_NOTICE_CONTENT_3]
 Plants: 128/271 (30 broken because of wiki)
@@ -19905,7 +19903,7 @@ Plants food can cause damage to zombies that are kicked away.
 plants food can activate special sword skills, causing additional damage.
 
 [STORE_PRODUCT_AVATAR_MAGICSHROOM]
-plants food prevents Magic Mushroom from turning into an ordinary zombie.
+Plants food will only spawn Buckethead Zombies and Gargantuars
 
 [BUTTON_TEXT_OF_ACCEPT]
 Confirm
@@ -20353,7 +20351,7 @@ Lucky Treasure
 Pendant Treasure
 
 [RECHARGE_CAN_GOT]
-Recharge to obtain
+Obtain through recharge
 
 [NATIONAL_CAN_GOT]
 2015 National Day commemorative event
@@ -31249,49 +31247,49 @@ Your current version is outdated. Please download the latest version to continue
 {NUMBER} Days
 
 [SUMMER_FIREBOSS_LEVEL1]
-Passionate Zombie Group - Level 1
+Boss rush - Level 1
 
 [SUMMER_FIREBOSS_LEVEL2]
-Passionate Zombie Group - Level 2
+Boss rush - Level 2
 
 [SUMMER_FIREBOSS_LEVEL3]
-Passionate Zombie Group - Level 3
+Boss rush - Level 3
 
 [SUMMER_ICEBOSS_LEVEL1]
-Bingshuang Zombie Bo Group - Level 1
+Boss rush - Level 1
 
 [SUMMER_ICEBOSS_LEVEL2]
-Bingshuang Zombie Bo Group - Level 2
+Boss rush - Level 2
 
 [SUMMER_ICEBOSS_LEVEL3]
-Bingshuang Zombie Bo Group - Level 3
+Boss rush - Level 3
 
 [SUMMER_ELECTRIC_LEVEL1]
-Lightning Zombie Group - Level 1
+Boss rush - Level 1
 
 [SUMMER_ELECTRIC_LEVEL2]
-Lightning Zombie Group - Level 2
+Boss rush - Level 2
 
 [SUMMER_ELECTRIC_LEVEL3]
-Lightning Zombie Group - Level 3
+Boss rush - Level 3
 
 [SUMMER_PURPLE_LEVEL1]
-NAME INCORRECT - Level 1
+Boss rush - Level 1
 
 [SUMMER_PURPLE_LEVEL2]
-NAME INCORRECT - Level 2
+Boss rush - Level 2
 
 [SUMMER_PURPLE_LEVEL3]
-NAME INCORRECT  - Level 3
+Boss rush  - Level 3
 
 [SUMMER_FANTASY_LEVEL1]
-Fantasy Zombie League - Level 1
+Boss rush - Level 1
 
 [SUMMER_FANTASY_LEVEL2]
-Fantasy Zombie League - Level 2
+Boss rush - Level 2
 
 [SUMMER_FANTASY_LEVEL3]
-Fantasy Zombie League - Level 3
+Boss rush - Level 3
 
 [PLAYERS_TRIP_TO_SUMMEREVENT]
 {PLAYER}'s ice and fire challenge journey
@@ -41806,10 +41804,10 @@ Defending Sweet Potatoes
 Double Dan Defense Battle
 
 [WECHAT_SHARE_SUCCESS_MSG]
-Share success, congratulations on the following rewards
+Share successful, congratulations on receiving the following rewards
 
 [NATIONAL_DAY_SUCCESS_MSG]
-Congratulations on the following rewards
+Congratulations on receiving the following rewards
 
 [TWO_YEAR_BIRTHDAY_REWARD_GOT_BTN]
 Confirm
@@ -44893,8 +44891,7 @@ Copy successful
 Profile abnormality
 
 [PVZ_PROFILE_CHECK_CHEAT]
-if you have this error reload the game!
-made by evil
+Please Restart the game :)
 
 [EXIT_GAME]
 Exit Game
@@ -47729,14 +47726,14 @@ Treasure Hunt
 Purchased
 
 [ANNIVERSART_TREASURE_DESCRIPTION_TITLE]
-Anniversary Treasure Hunt Instructions
+Treasure Hunt Description
 
 [ANNIVERSART_TREASURE_DESCRIPTION]
-Event Details:
-1. Players break gold jars by spending gold bars, and breaking a jar will yield a reward.
-2. When the broken gold jars form a line, the reward at the end of the line is awarded. Breaking all the jars grants the final reward.
-3. The cost of purchasing gold bars with diamonds increases: 1-3 times costs 50 diamonds, 4-6 times costs 100 diamonds, and 7-9 times costs 150 diamonds.
-4. When no gold jars remain, the rewards will automatically reset, with a limit on the number of resets.
+Event Content:
+1. Players consume gold blocks to open gold cans. Opening a gold can rewards one item.
+2. When gold cans form a line, the reward displayed at the end of the line is obtained; when all gold cans are opened, the final reward is obtained.
+3. The price of gold blocks purchased with diamonds increases incrementally. For the 1st-3rd times, it costs 50 diamonds; for the 4th-6th times, it costs 100 diamonds; for the 7th-9th times, it costs 150 diamonds.
+4. When there are no remaining gold cans, the rewards will automatically reset, with a limit on the number of resets.
 
 [ANNIVERSART_TREASURE_SHORT_DESCRIPTION]
 Come treasure hunt and hide the grand prize there! Get ^00FF00^Rare Plants^oldclr^Oh!
@@ -64787,16 +64784,17 @@ Move the vehicles within the given steps to help Dave return to his house!
 {PLAYER}'s glacial nightmare
 
 [ACCOUNT_REMOVE_CONTENT_1]
-Dear player, you are about to perform an account deletion operation. Proceeding will result in:
-1. Your diamonds, coins, plants, outfits, decorations, artifacts, shards, tokens, items in various modes, and other in-game assets being deleted.
+Dear player, you are about deleted your account.
+1. Your diamonds, coins, plants, outfits, decorations, artifacts, piece, tokens, items in various modes, and other in-game assets being deleted.
 2. Your game progress, including World Levels, Hard Levels, Penny's Pursuit, Endless Challenge, Arena, Temporal Treasures, Plant Families, Travel Memories, and Creative Courtyard data, being erased.
 3. Your account information being permanently deleted and irretrievable.
-
 If this is a mistake, please click the close button in the top-right corner to retain your game data.
 
 [ACCOUNT_REMOVE_CONTENT_2]
 Your account will enter a 10-day freeze period. During this time, your account will be deactivated for 10 days.
 You may log in within this period to cancel the freeze yourself.
+
+ARE YOU REALLY SURE ???????????????
 
 [ACCOUNT_REMOVE_CONTENT_3]
 1. Once the account deletion is complete, all game data and virtual items will be permanently erased!!
@@ -65748,28 +65746,28 @@ Level 5:
 Round
 
 [NEW_PVP_DUAN_TIPS]
-Complete ^ff0000^{NUM}^oldclr^ matches this season to unlock these division rewards!
+Complete ^ff0000^{NUM}^oldclr^ matches this season to unlock these rank rewards!
 
 [NEW_PVP_MAX_DUAN_OF_THE_SEASON]
 Max Division of the Season
 
 [NEW_PVP_DUAN_RANK_0]
-Bronze Pot
+Bronze
 
 [NEW_PVP_DUAN_RANK_1]
-Silver Pot
+Silver
 
 [NEW_PVP_DUAN_RANK_2]
-Gold Pot
+Gold
 
 [NEW_PVP_DUAN_RANK_3]
-Diamond Pot
+Diamond
 
 [NEW_PVP_DUAN_RANK_4]
-Master Pot
+Master
 
 [NEW_PVP_DUAN_RANK_5]
-Grandmaster Pot
+Grandmaster
 
 [ROMAN_NUM_1]
 Ⅰ
