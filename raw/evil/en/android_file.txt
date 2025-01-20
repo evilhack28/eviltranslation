@@ -64453,10 +64453,10 @@ Need for Speed Racing (Hard) - Day 7
 {PLAYER}'s Trip to the Parallel Universe No.42
 
 [NO42_LEVEL_NAME_01]
-Opening
+the beginning of the end
 
 [NO42_LEVEL_NAME_02]
-Time
+Opening
 
 [NO42_LEVEL_NAME_03]
 Analysis
@@ -64465,37 +64465,37 @@ Analysis
 Science
 
 [NO42_LEVEL_NAME_05]
-Reality vs Illusion
+Dialetheism
 
 [NO42_LEVEL_NAME_06]
-Contradiction
+Antinomy
 
 [NO42_LEVEL_NAME_07]
-Breaking the Situation
+Cataclysm
 
 [NO42_LEVEL_NAME_01_H]
-Four Two
+Four-Two
 
 [NO42_LEVEL_NAME_02_H]
-Closed Loop
+Closed-Loop
 
 [NO42_LEVEL_NAME_03_H]
-Plan
+Schemes
 
 [NO42_LEVEL_NAME_04_H]
-Trap
+Traps
 
 [NO42_LEVEL_NAME_05_H]
 Mirror
 
 [NO42_LEVEL_NAME_06_H]
-Millennium
+Millennia
 
 [NO42_LEVEL_NAME_07_H]
-Entering Dream
+Dreaming
 
 [NO42_LEVEL_NAME_MUGEN]  
-Infinite  
+the beginning of the end
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
 {PLAYER}'s Spooky Halloween Night
@@ -73260,13 +73260,13 @@ Game Error
 ^FF0000 CHEATER I HOPE YOU GET BAN FOR CHEATING LOOOOOSER
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
-精英冰风酋长僵尸
+Zombie N.42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+///// in research ////
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+{FLAVOR}In this universe 
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1]
 精英冰风酋长僵尸
@@ -73287,13 +73287,14 @@ Game Error
 在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR]
-精英冰风酋长僵尸
+Gargantuar N.42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+ he would be bullied for Look like a imp in yours universe 
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+{FLAVOR}yes he's small but is not mean he's weak 
+we Always say "it’s not the small bug that will eat the big one" but i think this time is false
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR]
 精英冰风酋长僵尸
@@ -73391,52 +73392,64 @@ hello
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION]
 在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
 
+
+
 [ZOMBIE_ZOMBOSSMECH_RENAI]
-剧团操纵者
+Troupe Manipulator
+
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
 {KEYWORD}特点：{STAT}创作戏剧
-{FLAVOR}一页僵尸博士的手稿：
-“‘懦夫在未死之前已经多次死亡，勇者一生只尝一次死亡的滋味。’作为最年轻的死亡学博士，僵尸博士的伟大传奇早已跨越了每一个时间阶段。重来，复仇，毁灭，创造一段新的神话！伟大的僵尸博士一定会再次复出！僵尸博士的邪恶事业终将兴盛！（注释，这段不要出版：纪念最美好的大学剧团生活）。”
-                                   ——《僵博：史上最棒的回忆录！第1616号增刊》
+{FLAVOR}One page from Dr. Zomboss' manuscript:
+"Cowards die many times before their deaths; the valiant never taste of death but once". as the youngest Doctor of Death, Dr. Zomboss' great saga has long spanned every stage of its time. Repeat, revenge, destruction, and a new myth! The Great Dr. Zomboss will definitely make a comeback again! Dr. Zomboss' evil intentions will eventually flourish! (Note, this passage is not to be published: Remembering the Best of College-Troupe Life)."
+                                   — Zomboss: The Greatest Memoir of All Time! Supplement No. 1616
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
-夹杂悲壮史诗与邪恶混乱的剧场幕后主使。
+The mastermind behind this theatre is a mix of tragic epics and evil chaos.
 
 [ZOMBIE_RENAI_HAMLET]
-哈姆雷特僵尸
+Hamlet
+
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION]
 {KEYWORD}特点：{STAT}向前方发射扇形范围的子弹，子弹可以与植物子弹相撞。
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION_HEADER]
 一千个读者心目中有一千个哈姆雷特，而一千个植物心目中只有一个僵尸！不管他怎么变，永远逃不掉！
+
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
 ^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
 
 [ZOMBIE_RENAI_SHERLOCK]
-夏洛克僵尸
+Sherlock
+
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION]
 {KEYWORD}特点：{STAT}向本行第一列或第二列的丢出一个钱袋并换行，钱袋可以压扁植物并使该行僵尸加速，并持续召唤僵尸
+
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION_HEADER]
 夏洛克僵尸是专业的法庭演员，从他被拖上证言台开始，到最后判决，无不是精心设计的表演。不过这场庭审是一个更加巨大的剧本，再精致的表演也跨不出去。
+
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_SHERLOCK]
 ^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
 
 [ZOMBIE_RENAI_ROMEO]
-罗密欧僵尸
+Romeo
+
 [ZOMBIE_RENAI_ROMEO_DESCRIPTION]
 {KEYWORD}特点：{STAT}用剑抵挡来自正面的直线物理攻击，当朱丽叶死亡时进入狂暴状态
 [ZOMBIE_RENAI_ROMEO_DESCRIPTION_HEADER]
 罗密欧僵尸对剧本里要求在豪华大别墅前痛哭然后倒下的情节十分不解，毕竟这是他永远得不到的，这是对于僵尸来说真正的悲剧。
+
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_ROMEO]
 ^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
 
 [ZOMBIE_RENAI_JULIET]
-朱丽叶僵尸
+Juliet
+
 [ZOMBIE_RENAI_JULIET_DESCRIPTION]
 {KEYWORD}特点：{STAT}用洋伞抵挡植物的抛投攻击，当罗密欧死亡时进入狂暴状态
+
 [ZOMBIE_RENAI_JULIET_DESCRIPTION_HEADER]
 朱丽叶僵尸在剧场上苏醒了过来，她不被外人的意愿所左右，有自己的追求和目标，也坚信跨越死亡的爱情。有人说女僵尸是真正的演员，这对于朱丽叶僵尸来说是一种夸赞。
+
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]
 ^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
-
 
 
 [PVZ2UNCHARTED_SHOP_TITLE]
@@ -73686,7 +73699,7 @@ Reward Preview:
 9th of the 1st lunar month: ^ff0000^Universal Fragment^oldclr^*200
 10th of the 1st lunar month: ^ff0000^Book^oldclr^*10
 11th of the 1st lunar month: ^ff0000^Fragment^oldclr^*300
-12th of the 1st lunar month: ^ff0000^Diamonds^oldclr^*20250
+12th of the 1st lunar month: ^ff0000^ Diamonds ^oldclr^ *20250
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
 Top Lucky Player Award
