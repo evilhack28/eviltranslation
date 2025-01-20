@@ -10280,6 +10280,19 @@ Ephemeral Fireworks
 [RANK_AVATAR_CONTENT_CONTENT_61034]  
 Reward for players who participated in the March 2025 Co-Op Event.  
 
+[RANK_AVATAR_CONTENT_TITLE_61035]
+New year snake
+
+[RANK_AVATAR_CONTENT_CONTENT_61035]
+Reward for the Master Rank in the 27th season of Two-player Duel
+
+[RANK_AVATAR_CONTENT_TITLE_61036]
+Vision of Wisdom
+
+[RANK_AVATAR_CONTENT_CONTENT_61036]
+Reward for the Master Rank in the 28th season of Two-player Duel
+
+
 [RANK_AVATAR_BTN_CHANGE]
 Replace
 
@@ -10387,6 +10400,15 @@ Death Stare
 
 [RANK_AVATAR_DIY_34]
 Skiing Adventure
+
+[RANK_AVATAR_DIY_35]
+Fireworks Fade Quickly
+
+[RANK_AVATAR_DIY_36]
+New year snake
+
+[RANK_AVATAR_DIY_37]
+Vision of Wisdom
 
 [DOWNLOAD_FAILED_BODY]
 Unable to retrieve update information.
@@ -20408,7 +20430,7 @@ Thank you for updating. You can now upgrade the available population of zombies 
 Treasures
 
 [STORE_CATEGORY_NAME_EVENT1_SHORT_DESC]
-Penny's Treasures
+Penny's ticket
 
 [STORE_CATEGORY_NAME_EVENT10_SHORT_DESC]
 Penny's Treasures x10
@@ -26563,6 +26585,16 @@ A sturdy zombie that can push snowballs across the lawn.
 [ZOMBIE_ICEAGE_TROGLOBITE_DESCRIPTION]
 {FLAVOR} Cave Ice Zombie has been pushing ice blocks across the tundra from the moment he can remember. It's cold and exhausting work, and frankly, he's ready for a vacation. He wants a change, to go somewhere sunny. He's thinking about relaxing on the beach. He heard Big Wave Beach is nice this time of year.
 
+[ZOMBIE_ICEAGE_FAT_WEASEL]
+Fat weasel
+
+[ZOMBIE_ICEAGE_FAT_WEASEL_DESCRIPTION_HEADER]
+The fattest weasel on Earth can only be found in the country of fast food.
+
+[ZOMBIE_ICEAGE_FAT_WEASEL_DESCRIPTION]
+{KEYWORD}Special: {STAT}Takes all the game files just by her size.
+{FLAVOR}Don’t eat too much fast food, or you'll end up like this weasel. Even after intense exercise, she can't lose weight. Now, she just rolls on the ground.
+
 [ZOMBIE_ICEAGE_WEASEL]
 Ice Weasel
 
@@ -27383,8 +27415,8 @@ Receivable
 Received
 
 [BUY_MOWER_DESC]
-Zombies to eat brains...
-Summon a ^FF0000 trolley to eliminate the zombies in front of you ^oldclr and then play well?
+Zombies are going to eat your brains...
+Buy a ^FF0000 Lawn mowers to kill the zombies ^oldclr. Ready to continue playing?
 
 [BUY_AD_MOWER_LEFT_TIMES]
 Remaining {NUMBER} times
@@ -31017,7 +31049,7 @@ Can still challenge today ^FFF000 {NUMBER} ^oldclr times
 ^FF3000 {NUMBER} ^000000 hours before the end of the event
 
 [ACTIVITY_SUMMERY_DRAW_DESC]
-when the lucky value is full get extra rare prizes!
+After 10 draw you will get the extra prizes
 
 [ACTIVITY_SUMMERY_FIRE_COST]
 Lucky Flame Crystal: {COUNT}
@@ -31044,7 +31076,7 @@ Challenge settlement error occurred, <Error Code: {NUM}>
 If the network connection fails, please conduct the challenge activities in a good network environment to avoid losses.
 
 [BOARD_ALMANAC_WARNING]
-Warning: New zombies appear!
+Warning: New zombie !
 
 [BOARD_ALMANAC_RECOMMEND_PLANT]
 Recommended plants:
@@ -31053,8 +31085,9 @@ Recommended plants:
 Currently owned: {NAME} piece ^00FF00 {NUMBER} ^oldclr
 
 [SUMMERY_LOTTERY_NET_ERROR]
-Network connection failed, please keep in good networked state to draw a prize.
- (When the network fails, the lottery props will not be deducted )
+Network connection failed. Please ensure a stable connection while drawing or stop spam click thanks you :)
+(When the connection fails, lottery items will not be deducted.)
+
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
 {ITEM} is insufficient, please get enough quantity before trying it out.
@@ -31135,7 +31168,7 @@ Invitational Vouchers
 Buy Gems to Draw Rare Plants!
 
 [BUY_GOLD_GACHA_TITLE_1]
-Buy blue crystals to extract rare plants!
+Buy blue crystals to get rare plants!
 
 [BUY_GOLD_GACHA_1]
 1
@@ -31186,8 +31219,8 @@ A heap of gems
 Challenge gem: {COUNT}
 
 [LOTTERY_NET_ERROR]
-Network connection failed, please keep in good networked state to draw a prize.
- (ITEM{ will not be deducted } when the ) network fails
+Network connection failed. Please ensure a stable connection while drawing or stop spam click thanks you :)
+(When the connection fails, lottery items will not be deducted.)
 
 [CHALLENGE_BONUS]
 Challenge Rewards
@@ -31217,7 +31250,7 @@ It's a pity that you failed to get results in the last week's event and you can'
 Top {NUM}%
 
 [BOSS_CHALLENGE_TIME]
-Time Used: ^FFFF00 {TIME}
+Time: ^FFFF00 {TIME}
 
 [LIMITED_GACHA_TITLE]
 Weekly gacha
@@ -45779,7 +45812,7 @@ Redemption failed, your trophies are insufficient.
 Detecting that you already have the costume, do you continue to redeem? Continued redemption converts this costume to an equal amount ^ff0000 plant pieces ^oldclr .
 
 [GROUP_BUY_LIMIT]
-Limited time group play
+Limited time group
 
 [GROUP_BUY_ECITON]
 Preview grouping
@@ -45815,7 +45848,7 @@ Successful grouping
 Here are the items that can be discounted tomorrow:
 
 [GROUP_BUY_NOTICE_END]
-The event is about to end.
+That the ^FFFF00 last day ^oldclr quickly buy your favorite plant before the end !!!
 
 [GROUP_BUY_USE_GEM]
 {NUMBER} Group
@@ -46908,7 +46941,7 @@ Plant Challenge - Level 7
 Garden War 2 victories
 
 [DAVE_TREASURE_PVZ1_1]
-Participate in 1 trip of memories
+Play 1 Memory level
 
 [DAVE_TREASURE_PVZ1_2]
 Pass 1 Memories Tour
@@ -46986,7 +47019,7 @@ Extinguish the torch in the zombie's hand 15 times at any level
 Cumulative {NUM} days, recharge 30 yuan daily to receive
 
 [DAVE_TREASURE]
-Dave's Mysterious Treasure
+Dave's Treasure
 
 [DAVE_TAB_AWARD]
 Rewards
@@ -46995,31 +47028,32 @@ Rewards
 Tasks
 
 [DAVE_TAB_NORMAL]
-Ordinary
+Free
 
 [DAVE_TAB_HIGH]
 Premium
 
 [DAVE_INTGETRAL]
-number of treasure clues:
+number of treasure:
 
 [DAVE_DISPLAY_BANNER_1]
-^FFFF00 Premium Benefits ^oldclr 
-Purchase to directly obtain exclusive treasure plants and activate premium treasure rewards
+^FFFF00 Premium Benefits ^oldclr  
+Purchase to directly receive the treasure-exclusive plant and activate premium treasure rewards
 
 [DAVE_DISPLAY_BANNER_2]
-^FFFF00 Treasure Limited Plant^oldclr 
-A level 1 defining plant X1 can be obtained
+^FFFF00 Treasure-exclusive Plant ^oldclr  
+Receive 1-tier exclusive plant X1
 
 [DAVE_DISPLAY_BANNER_3]
-^FFFF00 Treasure limited plant costume^oldclr 
-Get 160 treasure clues to get treasure limited plant Costume X1
+^FFFF00 Treasure-exclusive Plant Costume ^oldclr  
+Receive the treasure-exclusive plant costume X1 by obtaining 160 treasure clues
 
 [DAVE_TREASURE_DESCRIPTION]
-For every recharge ^FFFF00 1 ^oldclr yuan, you can get ^FFFF00 5 ^oldclr treasure clues (purchasing premium rights does not count towards treasure clues)
+For every recharge of ^FFFF00 1 ^oldclr yuan, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium benefits does not count)
+
 
 [DAVE_NORMAL_CHALLENGE]
-Normal challenges
+Free challenges
 
 [DAVE_HIGH_CHALLENGE]
 Premium challenges
@@ -47381,7 +47415,7 @@ Participate in 1 endless challenge
 Participated in 1 Pursuit of Penny
 
 [TASK_PVZ1]
-Participate in 1 trip of memories
+Play 1 Memory level
 
 [TASK_CUSTOMER]
 Participation 1 time Creative Courtyard
@@ -47478,6 +47512,9 @@ If you want to prove your strength, then go and challenge Dr. Zombie in the Stea
 
 [TASK_WORLDTASK_EGYPT1]  
 Complete the easy level on Day 8 of the Ancient Egypt  
+
+[TASK_WORLDTASK_EGYPT2]
+Complete the hard level on Day 8 of the Ancient Egypt  
 
 [TASK_WORLDTASK_EGYPT3]
 Complete the boss battle to finish Ancient Egypt
@@ -47772,7 +47809,7 @@ Egypt 15 clears
 Conducted 1 Garden War
 
 [NOVICESEVENDAYS_TASK_NAME_7_CHANGE]
-Participate in 1 trip of memories
+Play 1 Memory level
 
 [NOVICESEVENDAYS_TASK_NAME_8]
 Completed 1 challenge
@@ -47913,7 +47950,7 @@ Collect 60 stars
 Unlock the 3rd New World
 
 [NOVICESEVENDAYS_TASK_NAME_50]
-Participate in 1 trip of memories
+Play 1 Memory level
 
 [NOVICESEVENDAYS_TASK_NAME_51]
 Participate in 2 Memories Tours
@@ -49764,11 +49801,11 @@ Activity Rules:
 - Bubble Reward 10.00%
 
 9. Additional Rewards Based on Lottery Count:
-- 10 Draws: Gluttonous Snapdragon*10
-- 30 Draws: Gluttonous Snapdragon*10
-- 60 Draws: Gluttonous Snapdragon*20
-- 100 Draws: Gluttonous Snapdragon*40
-- 150 Draws: Gluttonous Snapdragon*60
+- 10 Draws: Laser Crown Flower Fragment*10
+- 30 Draws: Laser Crown Flower Fragment*10
+- 60 Draws: Laser Crown Flower Fragment*20
+- 100 Draws: Laser Crown Flower Fragment*40
+- 150 Draws: Laser Crown Flower Fragment*60
 
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
@@ -49794,11 +49831,11 @@ Activity Rules:
 - Bubble Reward 10.00%
 
 9. Additional Rewards Based on Lottery Count:
-- 10 Draws: Gluttonous Snapdragon*10
-- 30 Draws: Gluttonous Snapdragon*10
-- 60 Draws: Gluttonous Snapdragon*20
-- 100 Draws: Gluttonous Snapdragon*40
-- 150 Draws: Gluttonous Snapdragon*60
+ 10 Draws: Laser Crown Flower Fragment*10
+- 30 Draws: Laser Crown Flower Fragment*10
+- 60 Draws: Laser Crown Flower Fragment*20
+- 100 Draws: Laser Crown Flower Fragment*40
+- 150 Draws: Laser Crown Flower Fragment*60
 
 
 [WISHING_POOL_DESCRIPTION_TITLE]
@@ -52416,7 +52453,7 @@ Unzip file{NUMBER1}/{NUMBER2}, remaining time (estimated): {NUMBER3} seconds
 Loading of core resources, remaining time (estimated): 3 seconds
 
 [COINSTORE_AD_LEFT]
-Today the remaining {NUMBER} times to watch ads to get rewards
+{NUMBER} ads left to get the rewards
 
 [COINSTORE_AD_LEFT_SUN]
 This game has {NUMBER} Left time: to watch ads to get rewards
@@ -56298,7 +56335,7 @@ Endless Store, Limited-Time Packs
 Used during the advancement of plants from 2nd to 4th Level. Using it during this process, without consuming coins or plant pieces, advances the plant by one tier. Note: Cannot be used when advancing from 4th to 5th tier.
 
 [MAT_PLANT_LEVELUP_BOOK_GOT_WAY]
-Dave's Mysterious Treasure
+Dave's Treasure
 
 [MAT_SPACE_TIME_CRYSTAL_USE]
 Material for enhancing super accessories
@@ -57718,6 +57755,12 @@ Fairtale Conqueror
 
 [UNCHARTED_TALE_HEAD_DES_ID_10000]
 Proof of the Perfect Close to Fairy Talk
+
+[UNCHARTED_NO42_HEAD_ID_10000]
+Parallel Universe Conqueror
+
+[UNCHARTED_NO42_HEAD_DES_ID_10000]
+Even on other universes you are still 42 time better  ;)
 
 [ANNIVERSARY_10TH_HEAD_ID_25388]
 Big eat
@@ -63969,7 +64012,8 @@ Complete the previous levels first.
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
 1. The final level of Hard mode unlocks Endless mode.
 2. Endless mode consists of 100 waves, with zombies randomly selected from all the event pools. The zombie's level and quantity increase progressively.
-3. There are no currency rewards for completing Endless mode, but the commemorative avatar in the shop will display the highest Endless wave the player has completed.
+3. Completing the Endless Mode Challenge rewards you with a large amount of high-level coins, which can be exchanged for commemorative avatars in the store.
+
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_NO42_UNIVERSE]
 1. The Spacetime Event has various new worlds and new zombies for you to explore, with each world containing both Normal and Hard levels.
@@ -72459,7 +72503,7 @@ After training in the Ice Age, it no longer fears red or explosive attacks.
 Chief Escape Expert
 
 [PLANTWARS_HEAD_DES_ID_25594]
-Achieved 15 stars in the first season of Escape from the MISSING NAME 
+Achieved 15 stars in the first season of Escape from the Ztalemate
 
 [PLANTWARS_HEAD_ID_25607]
 Chief Escape Expert
@@ -72752,6 +72796,7 @@ Event Rules:
 1. Obtain Star Coins by purchasing gift packs, and use them to draw rewards in the event. Star Coins and Black Holes cannot be carried over to the next event. After the event ends, they will automatically be converted into diamonds at a 1:10 and 1:1 ratio.
 2. Each draw has a chance to obtain Black Holes or other rewards. Lucky players may directly receive the Super Costume of Turnip.
 3. If no grand prize is drawn in 20 consecutive draws, the next draw will be from the guaranteed prize pool.
+4. Repeatedly drawn super costumes will automatically be converted into 200 small black hole rewards.
 
 Guaranteed Prize Pool:
 Turnip Super Costume: 3.72%
@@ -73467,9 +73512,11 @@ Obtained by purchasing value gift boxes in the New Year Pack with a probability.
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. The event red note at fixed times daily: 12:00-14:00 and 18:00-21:00 (UTC+8). You can claim one red packet between the hour, with a max of 2 red packets per day.
 2. From January 27th to February 9th, a lucky player will be selected from all servers (on iOS and one Android) at 21:00 daily, provided they have claimed that day's red packet, to win a amazing reward.
-3. On special dates (tentatively New Year's Eve, New Year's Day, and the 5th day of the Lunar New Year), there will be an additional prize draw. From 00:00-21:59 on these dates, you can use a lottery ticket to enter the prize draw for prizes.
-4. Each time a player uses a lottery ticket, their registration information will be recorded. The gold bar grand prize will be drawn from all registered players at 22:00 on New Year's Eve, New Year's Day, and the 5th day of the Lunar New Year.
-5. The daily lucky grand prize will be drawn the following day. If the player does not log in and claim the prize before the draw, they forfeit the reward.
+3. On special dates (New Year's Eve, New Year's Day, Fifth Day), an additional physical prize lottery is available once per day. From 00:00 to 21:59 on New Year's Eve, New Year's Day, and Fifth Day, you can use lottery tickets to sign up for the physical prize draw on the event page.
+4. Each time a player consumes a lottery ticket, their information is recorded. The physical prizes will be drawn from all registered participants at 22:00 on New Year's Eve, New Year's Day, and Fifth Day.
+5. If the daily lucky prize is not claimed before the next day's drawing, it will be considered forfeited.
+6. The physical prize is a ^CDBE70 5g *Plants vs. Zombies 2* custom gold banknote ^oldclr. The reward will be based on the actual physical item.
+
 
 [UINEWYEARREDPACKET_DES_TITLE]
 Description of the New Year Event
@@ -73604,7 +73651,7 @@ Golden and Silver Greetings
 Claim after reaching cumulative recharge milestones during the New Year Pack event.
 
 [TEN_THOUSAND_HEAD_ID_25636]
-Dev are jealous >-<
+Richer then dev ! 
 
 [TEN_THOUSAND_HEAD_DES_ID_25636]
 Earned by spending 10 000 yuans the richest of the richest !!.
