@@ -6,14 +6,23 @@ Youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
 [COMPLAIN_CONTENT]
---1.5.4--
-added early 3.6.0 text 
+--1.6.0--
+Added 3.6.0 text
 
---1.5.5--
-fix PAMEGRANATE
-
---1.5.5--
-added new early 3.6.0 text 
+--1.6.1--
+Fixed aborday day text + daily pack plants
+Fixed treasure text
+fixed penny store text 
+fixed diamond + coin + gene + dave treasure + all other pack text
+fixed dave treasure text 
+fixed new year red note text 
+fixed tile tunrip costume event text
+fixed inviation text
+fixed vase breaker text
+fixed batlle pass text
+fixed weekly gacha textfixed plants adventure text
+fixed travel log text
+fixed artifact text + piece machine + backpack +nfs text
 
 
 [HEALTH_NOTICE_CONTENT_3]
@@ -21,7 +30,7 @@ Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from  January 13 (beta) V1.5.5
+translate by evilhack28 version from  January 27 (beta) V1.6.1
 
 [SPRING_TIPS_1]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
@@ -5261,7 +5270,7 @@ Orchid Mage Costume
 The gravitational balls are upgraded to powered gravitational balls, dealing more damage and pulls longer distances.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_1]
-Growth Gift Package
+Growth Package
 
 [NEW_AVATAR_DESCRIPTION_ORCHIDMAGE_1]
 Planting cooldown reduced by 10%
@@ -6073,7 +6082,7 @@ Abyss Anemone's tentacles will deal heavy damage to zombies that can't be dragge
 Abyss Anemone Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CTHULHUACTINIA_1]
-Abyss Anemone Growth Gift Package
+Abyss Anemone Growth Package
 
 [NEW_AVATAR_DESCRIPTION_CTHULHUACTINIA_1]
 Plant attack increased by 20%
@@ -8962,7 +8971,7 @@ You can't plant on evil potions
 You can't plant on dumplings
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-You can't plant on tangyuan
+You can't plant on tang¥
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
 You can't plant on piggy banks
@@ -11141,7 +11150,7 @@ Unlocked difficult levels!
 {NPC_EXIT:crazydave}
 
 [ADVICE_FIRST_RECHARGE]
-Now there is a first deposit gift pack to improve!
+Now there is a first deposit Pack to improve!
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA_INTRO_1]
 {NPC_ENTER:winnie}{NPC_ENTER:crazydave}{PLAYFUL:crazydave}There is actually a skull logo here! Must be dangerous!
@@ -12575,7 +12584,7 @@ Purchase could not be completed. Please try again.
 Recharge failed
 
 [PURCHASE_MAX_BODY]
-You can recharge up to %d yuan today.
+You can recharge up to %d ¥ today.
 
 [PURCHASE_ERROR_NOT_AUTHORIZED_BODY]
 Not authorized to purchase on this device
@@ -15042,26 +15051,26 @@ Battery
 
 [PRODUCT_STAMINA_20_DESC]
 22 Stamina
-^FF0000 Includes 2 gifts
+^FF0000 Includes 2
 
 [PRODUCT_STAMINA_50_DESC]
 55 Stamina
-^FF0000 Includes 5 gifts
+^FF0000 Includes 5
 
 [PRODUCT_STAMINA_100_DESC]
 110 Stamina
-^FF0000 Includes 10 gifts
+^FF0000 Includes 10
 
 [PRODUCT_COIN_10000_DESC]
 10,000 Coins
 
 [PRODUCT_COIN_20000_DESC]
 50,000 Coins
-^FF0000 Plus 5,000 gifts
+^FF0000 Plus 5,000
 
 [PRODUCT_COIN_40000_DESC]
 100,000 Coins
-^FF0000 Plus 30,000 gifts
+^FF0000 Plus 30,000
 
 [PRODUCT_COIN_10000_SHORT_DESC]
 Coins
@@ -15070,22 +15079,22 @@ Coins
 Small Pile of Coins
 
 [PRODUCT_COIN_40000_SHORT_DESC]
-Big Pile of Coins
+Large Pile of Coins
 
 [PRODUCT_PVP_COIN_1_DESC]
 500 Star Coins
 
 [PRODUCT_PVP_COIN_2_DESC]
 1,500 Star Coins
-^FF0000 Plus 500 gifts
+^FF0000 Plus 500
 
 [PRODUCT_PVP_COIN_3_DESC]
 5,000 Star Coins
-^FF0000 Plus 2,500 gifts
+^FF0000 Plus 2,500
 
 [PRODUCT_PVP_COIN_4_DESC]
 20,000 Star Coins
-^FF0000 Plus 20,000 gifts
+^FF0000 Plus 20,000
 
 [PRODUCT_PVP_COIN_1_SHORT_DESC]
 Star Coins
@@ -15142,23 +15151,23 @@ Plant Adventure - Level 1 Peashooter
 
 [PRODUCT_GEM_60_DESC_ANDROID]
 60 Gems
-^FF0000 Plus 3 gifts
+and ^FF0000 3
 
 [PRODUCT_GEM_100_DESC_ANDROID]
 100 Gems
-^FF0000 Plus 5 gifts
+and ^FF0000 5
 
 [PRODUCT_GEM_200_DESC_ANDROID]
 200 Gems
-^FF0000 Plus 15 gifts
+and ^FF0000 15
 
 [PRODUCT_GEM_300_DESC_ANDROID]
 300 Gems
-^FF0000 Plus 30 gifts
+and ^FF0000 30
 
 [PRODUCT_GEM_1000_DESC_ANDROID]
 1,000 Gems
-^FF0000 Plus 150 gifts
+and ^FF0000 150 gifts
 
 [PRODUCT_GEM_NEWER_PRESENT_ANDROID]
 20 Gems
@@ -15171,35 +15180,35 @@ Clearance reward
 
 [PRODUCT_GEM_330_DESC_ANDROID]
 100 Gems
-^FF0000 Plus 5 gifts
+and ^FF0000 5
 
 [PRODUCT_GEM_780_DESC_ANDROID]
 200 Gems
-^FF0000 Plus 15 gifts
+and ^FF0000 15
 
 [PRODUCT_GEM_1480_DESC_ANDROID]
 300 Gems
-^FF0000 Plus 30 gifts
+and ^FF0000 30
 
 [PRODUCT_GEM_330_DESC_IOS]
 300 Gems
-^FF0000 Plus 30 gifts
+and ^FF0000 30
 
 [PRODUCT_GEM_780_DESC_IOS]
 680 Gems
-^FF0000 Plus 100 gifts
+and ^FF0000 100
 
 [PRODUCT_GEM_1480_DESC_IOS]
 1,280 Gems
-^FF0000 Plus 250 gifts
+and ^FF0000 250
 
 [PRODUCT_GEM_4108_DESC_IOS]
 3280 diamonds
-^FF0000 Another 828 pieces will be given
+and ^FF0000 828
 
 [PRODUCT_GEM_8468_DESC_IOS]
 6480 diamonds
-^FF0000 Another 1988 pieces
+and ^FF0000 1988
 
 [PRODUCT_GEM_AD_REWARD_TITLE]
 Get Reward
@@ -15211,28 +15220,28 @@ Successfully watched an ad and received 5 batteries
 Successfully watched an ad and received 1 Z Key
 
 [PRODUCT_GEM_AD_DESC_IOS]
-Watch a video ad
+Watch ads
 ^FF0000 Receive 10 Gems
 
 [PRODUCT_GEM_AD_SHORT_DESC]
 Free Gems
 
 [PRODUCT_COIN_AD_DESC]
-Watch a video ad
+Watch ads
 ^FF0000 Receive 10,000 Coins
 
 [PRODUCT_COIN_AD_SHORT_DESC]
 Free Coins
 
 [PRODUCT_MYSTERY_AD_DESC]
-Watch a video ad
+Watch ads
 ^FF0000 Receive 1,000 Crystals
 
 [PRODUCT_MYSTERY_AD_SHORT_DESC]
 Free Crystals
 
 [PRODUCT_FUEL_AD_DESC]
-Watch a video ad
+Watch ads
 ^FF0000 Receive 5 Batteries
 
 [PRODUCT_FUEL_AD_SHORT_DESC]
@@ -15298,23 +15307,23 @@ Watch Ad
 
 [PRODUCT_GEM_700_DESC_ANDROID]
 700 diamonds
-and ^FF0000 100^oldclr^
+plus ^FF0000 100^oldclr^
 
 [PRODUCT_GEM_1500_DESC_ANDROID]
 1500 diamonds
-and ^FF0000 200^oldclr^
+plus ^FF0000 200^oldclr^
 
 [PRODUCT_GEM_3000_DESC_ANDROID]
 3000 diamonds
-and ^FF0000 450^oldclr^
+plus ^FF0000 450^oldclr^
 
 [PRODUCT_GEM_6000_DESC_ANDROID]
 6000 diamonds
-and ^FF0000 1000^oldclr^
+plus ^FF0000 1000^oldclr^
 
 [PRODUCT_GEM_7500_DESC_ANDROID]
 7500 diamonds
-and ^FF0000 1600^oldclr^
+plus ^FF0000 1600^oldclr^
 
 [PRODUCT_GEM_700_SHORT_DESC]
 Extra Large Box Diamond
@@ -15323,10 +15332,10 @@ Extra Large Box Diamond
 Giant Box Diamond
 
 [PRODUCT_GEM_NEWER_PRESENT_DESC]
-Supreme Gift Pack
+Supreme Pack
 
 [PRODUCT_GEM_ADVANCE_NEWER_PRESENT_DESC]
-Supreme Platinum Gift Pack
+Supreme Platinum Pack
 
 [PRODUCT_GEM_PLAY_CARD_DESC]
 Clearance Rewards
@@ -15383,34 +15392,34 @@ Diamond car
 YOU ARE RICH !!!
 
 [PRODUCT_BUNDLE_10_SHORT_DESC]
-Special Gift Pack
+Special Pack
 
 [PRODUCT_BUNDLE_60_SHORT_DESC]
-Classic Gift Pack
+Classic Pack
 
 [PRODUCT_BUNDLE_300_SHORT_DESC]
-Play the gift pack
+Play the Pack
 
 [PRODUCT_BUNDLE_680_SHORT_DESC]
-Platinum Gift Pack
+Platinum Pack
 
 [PRODUCT_BUNDLE_1280_SHORT_DESC]
-Deluxe Gift Pack
+Deluxe Pack
 
 [PRODUCT_BUNDLE_3280_SHORT_DESC]
-Supreme Gift Pack
+Supreme Pack
 
 [PRODUCT_BUNDLE_6480_SHORT_DESC]
-Glory Gift Pack
+Glory Pack
 
 [PRODUCT_BUNDLE_860_SHORT_DESC]
-Great Value Blue Gift Pack
+Great Value Blue Pack
 
 [PRODUCT_BUNDLE_1980_SHORT_DESC]
-Great Value Purple Gift Pack
+Great Value Purple Pack
 
 [PRODUCT_BUNDLE_5280_SHORT_DESC]
-Great Value Orange Gift Pack
+Great Value Orange Pack
 
 [PRODUCT_SUN_500_DESC]
 Increase ^FF0000 500 ^oldclr sun
@@ -16419,31 +16428,31 @@ Return of gold coins
 Because of the plant price adjustment, the gold coin difference that you have already purchased the plant will be returned ^00FF00 {GOLD_DIFF} ^oldclr gold coin
 
 [NEWER_PRESENT_TITLE]
-Supreme Gift Pack
+Supreme Pack
 
 [NEWER_PRESENT_ADVANCE_TITLE]
-Supreme Platinum Gift Pack
+Supreme Platinum Pack
 
 [PRESENT_TITLE_1000]
-360 Supreme Gift Pack
+360 Supreme Pack
 
 [PRESENT_TITLE_1001]
-OPPO supreme gift package
+OPPO supreme Package
 
 [PRESENT_TITLE_1002]
-Xiaomi Supreme Gift Pack
+Xiaomi Supreme Pack
 
 [PRESENT_TITLE_1003]
-Lenovo Supreme Gift Pack
+Lenovo Supreme Pack
 
 [PRESENT_TITLE_1004]
-BAIDU Supreme Gift Pack
+BAIDU Supreme Pack
 
 [PRESENT_TITLE_1005]
-4399 Supreme Gift Pack
+4399 Supreme Pack
 
 [PRESENT_TITLE_1006]
-UC Supreme Gift Pack
+UC Supreme Pack
 
 [PRESENT_TITLE_1007]
 Anniversary Lucky Awards
@@ -16464,16 +16473,16 @@ Anniversary Supreme Award
 Clearance Sweepstakes
 
 [NEWER_PRESENT_DES]
-Now you only need to recharge ^00FF00 2 yuan ^oldclr to buy a small bag of diamonds and you can get the supreme gift package! ( A total of ^00FF00 30 diamonds ^oldclr oh!) can be obtained
+Now you only need to recharge ^00FF00 2 ¥ ^oldclr to buy a small bag of diamonds and you can get the supreme Package! ( A total of ^00FF00 30 diamonds ^oldclr oh!) can be obtained
 
 [NEWER_PRESENT_ADVANCE_DES]
-Now you only need to recharge ^00FF00 10 yuan ^oldclr to purchase the gold coin gift pack to get the supreme platinum gift pack! ( A total of ^00FF00 155 diamonds ^oldclr can be obtained Oh!)
+Now you only need to recharge ^00FF00 10 ¥ ^oldclr to purchase the gold coin Pack to get the supreme platinum Pack! ( A total of ^00FF00 155 diamonds ^oldclr can be obtained Oh!)
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
-Buy now for only 0.1 yuan, opportunities are limited, don't come again!
+Buy now for only 0.1 ¥, opportunities are limited, don't come again!
 
 [NEWER_PRESENT_QUIT]
-Discard gift packs
+Discard Packs
 
 [NEWER_PRESENT_BUY]
 Recharge Now
@@ -16503,10 +16512,10 @@ Congratulations on getting gold coins X38888, diamonds X8, 3 mysterious Egyptian
 Enter the activation code to receive a gift for newbies
 
 [NEWER_BAG_PLANT_GET_TITLE]
-Novice Card Gift Pack
+Novice Card Pack
 
 [QQ_BAG_PLANT_GET_TITLE]
-Newbie Gift Pack
+Newbie Pack
 
 [NEWER_BAG_CODE_ERROR_TITLE]
 Activation code error
@@ -17245,26 +17254,26 @@ First-Class Pumpkin Wizard with Costume
 level 1 rotating pineapple with Costume
 
 [PLANT_BAG_PLANT_GET_TITLE]
-You got the gift pack
+You got the Pack
 
 [PLANT_BAG_PLANT_VIEW]
-Click to view the gift packs obtained
+Click to view the Packs obtained
 
 [PLANT_BAG_PLANT_TITLE]
-Plant Gift Pack
+Plant Pack
 
 [PLANT_BAG_PLANT_OPEN_BUTTOM]
 Open now
 
 [PLANT_BAG_REWARD]
-You can get it by recharging more than 1,000 yuan in total.
+You can get it by recharging more than 1,000 ¥ in total.
 
 [PLANT_BAG_REWARD_TIPS]
-If you recharge more than 10 yuan in total, you will receive a plant gift package
+If you recharge more than 10 ¥ in total, you will receive a plant Package
  (Randomly get a powerful plant)!
 
 [PLANT_BAG_REWARD_TIPS_QQ]
-If you recharge more than 10 yuan in total, you will receive a plant gift package
+If you recharge more than 10 ¥ in total, you will receive a plant Package
  (Randomly get a powerful plant)!
 
 [PLANT_BAG_REWARD_COINS]
@@ -17277,10 +17286,10 @@ Get a value plant at random!
 Try the acceleration function! Defeat zombies in a quick battle!
 
 [CHNAGE_SPEED_TIPS]
-With a cumulative recharge of 20 yuan or more, you can use the level acceleration function unlimitedly!
+With a cumulative recharge of 20 ¥ or more, you can use the level acceleration function unlimitedly!
 
 [CHNAGE_SPEED_TIPS_QQ]
-With a cumulative recharge of 20 yuan or more, you can use the level acceleration function unlimitedly!
+With a cumulative recharge of 20 ¥ or more, you can use the level acceleration function unlimitedly!
 
 [BUTTON_RECHARGE_NOW]
 Recharge Now
@@ -17475,7 +17484,7 @@ Second place
 Third place
 
 [TELECOM_PURCHASE_TIPS]
-Is it spending % d yuan to buy % s?
+Is it spending % d ¥ to buy % s?
 
 [TELECOM_PURCHASE_SUCCESS]
 Purchase %s Success
@@ -17635,7 +17644,7 @@ From February 1st to February 15th, click on firecrackers to draw Spring Festiva
 From February 7th to February 22nd, you can guess lantern riddles for free and win red envelopes
 From February 1st to February 11th, you can win prizes by smashing golden eggs by recharging
 There will be big rebates when you recharge from February 12th to February 22nd
-From February 1st to February 22nd, you can get a free gift package when you recharge
+From February 1st to February 22nd, you can get a free Package when you recharge
  <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
   sign-in plant surprises 
@@ -17657,7 +17666,7 @@ Cherry Bomb ^ff0000^ Costume ^oldclr^ - Blast zombies to death after equipping f
 Above ^ff0000^ Costume ^oldclr^ Only sold for 7 days (May 1st - May 7th), no waiting after the deadline ~
 Friendly reminder: Remember to get plants before you can wear them^ff0000^ Costume^oldclr^ yo~
  
-A special gift pack every day
+A special Pack every day
 May 1st Winter Melon + Tall-nut
 May 2nd Double Sagittarius^ff0000^ Costume^oldclr^ +caiwen^ff0000^ Costume^oldclr^ 
 May 3 coconut cannon+ coconut cannon^ff0000^ Costume^oldclr^ 
@@ -17666,7 +17675,7 @@ May 5th Lightning Reed+ Torchwood
 May 6th Fire Gourd+ Xiantao
 May 7 Kernel-pult+ Kernel-pult^ff0000^ Costume^oldclr^ 
  
-Value-for-money combination gift packs are exchanged every day, and the mall's limited-time gift packs are waiting for you!
+Value-for-money combination Packs are exchanged every day, and the mall's limited-time Packs are waiting for you!
                                         
 Small pea
 
@@ -17726,7 +17735,7 @@ Start the game
 Resource information
 
 [SUMMARY_LEVEL]
-Level progress
+Level
 
 [COIN_NUM_TITLE]
 Coins
@@ -17753,7 +17762,7 @@ costumes
 {STAR_COUNT}
 
 [SUMMARY_LAST_TIME]
-{MONTH}/{DAY}   {HOUR}:{MIN}:{SECONDS}:{SECONDS_LEFT}
+{MONTH}/{DAY}   {HOUR}:{MIN}
 
 [CARD_GAME_AREA_STAR_NOT_ENOUGH]
 The exclusive stars of this card chapter are insufficient and {NUM} stars are needed
@@ -17796,13 +17805,13 @@ Could be a network failure, or endless mode is over
 Tip: The new version needs to read network data to enter the game for the first time, please open the network connection.
 
 [RECHARGE_REWARD_TITLE]
-Recharge {RECHARGE_COUNT} yuan reward
+Recharge {RECHARGE_COUNT} ¥ reward
 
 [RECHARGE_REWARD_PLANT_PIECES]
 Congratulations on getting Cherry Bomb Piece x30, upgrade immediately to feel his more powerful power!
 
 [RECHARGE_REWARD_BAG]
-Congratulations on getting a random plant gift pack!
+Congratulations on getting a random plant Pack!
 
 [RECHARGE_REWARD_COIN]
 Congratulations on opening the double gold reward! Gold coin income will double after passing the level!
@@ -17835,13 +17844,13 @@ Congratulations on getting the accumulated recharge reward! Choose a plant quick
 Recharge
 
 [RECHARGE_PACKAGE_REWARD_TITLE]
-Recharge Gift Pack
+Recharge Pack
 
 [RECHARGE_PACKAGE_FIRST_RECHARGE_TITLE]
-First Charge Gift Pack
+First Charge Pack
 
 [RECHARGE_TOTAL_NUM]
-Recharge {NUMBER} yuan
+Recharge {NUMBER} ¥
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
 Recharge **** Yuan
@@ -17856,28 +17865,28 @@ Display
 Accumulated recharge with great gifts!
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
-Accumulate a total of 2 yuan in the game, get double the gold coin income in the game, and buy gold coin plants faster!
-With a total of 6 yuan, you can participate in 2 lucky draws every day! Lucky gifts for you to choose from!
-If you recharge more than 10 yuan in total, you will get a value-for-money random plant gift pack!
-Fill up 20 yuan in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
-If you charge 30 yuan in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
+Accumulate a total of 2 ¥ in the game, get double the gold coin income in the game, and buy gold coin plants faster!
+With a total of 6 ¥, you can participate in 2 lucky draws every day! Lucky gifts for you to choose from!
+If you recharge more than 10 ¥ in total, you will get a value-for-money random plant Pack!
+Fill up 20 ¥ in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
+If you charge 30 ¥ in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
 Killing zombies instantly from now on is not a dream!
 
 [RECHARGE_NOTICE_DESC]
-Accumulate a total of 2 yuan in the game, get double the gold coin income in the game, and buy gold coin plants faster!
-If you recharge more than 10 yuan in total, you will get a value-for-money random plant gift pack!
-Fill up 20 yuan in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
-If you charge 30 yuan in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
+Accumulate a total of 2 ¥ in the game, get double the gold coin income in the game, and buy gold coin plants faster!
+If you recharge more than 10 ¥ in total, you will get a value-for-money random plant Pack!
+Fill up 20 ¥ in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
+If you charge 30 ¥ in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
 Killing zombies instantly from now on is not a dream!
 
 [TOTAL_LOGIN_DAYS]
 {DAY_COUNT} days
 
 [STORE_GIFT_LUXURY_GIFT]
-Supreme Invincible Gift Pack
+Supreme Invincible Pack
 
 [STORE_GIFT_ONSALE_GIFT]
-Christmas Promotions Gift Pack
+Christmas Promotions Pack
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT]
 Iceburg Lettuce's Costume
@@ -17907,48 +17916,48 @@ KongFu Double Piece Set
 Corn combo pack
 
 [STORE_GIFT_LUXURY_GIFT_DESC]
-A rich and handsome grinding gift pack containing Winter Melon, transformed eggplant, coconut cannon, lightning reed, Spikerock, and tall nuts.
+A rich and handsome grinding Pack containing Winter Melon, transformed eggplant, coconut cannon, lightning reed, Spikerock, and tall nuts.
 
 [STORE_GIFT_ONSALE_GIFT_DESC]
-Newbie Promotional Gift Pack with Winter Melon, Lightning Reed, Tall Nuts.
+Newbie Promotional Pack with Winter Melon, Lightning Reed, Tall Nuts.
 
 [STORE_GIFT_LABORDAY_SUNFLOWER_GIFT]
-Sunflower Gift Pack
+Sunflower Pack
 
 [STORE_GIFT_LABORDAY_SUNFLOWER_GIFT_DESC]
 ^009900 Limited time from today until 9.16^oldclr
 Advanced Sunflower and Costume
 
 [STORE_GIFT_LABORDAY_PEASHOOTER_GIFT]
-Peashooter Gift Pack
+Peashooter Pack
 
 [STORE_GIFT_LABORDAY_PEASHOOTER_GIFT_DESC]
 ^009900 Limited time from today until 9.16^oldclr
 Advanced Peashooter and Costume
 
 [STORE_GIFT_LABORDAY_WALLNUT_GIFT]
-Wall-nut Gift Pack
+Wall-nut Pack
 
 [STORE_GIFT_LABORDAY_WALLNUT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Wall-nut and Costume
 
 [STORE_GIFT_LABORDAY_CABBAGEPULT_GIFT]
-Cabbage-pult Gift Pack
+Cabbage-pult Pack
 
 [STORE_GIFT_LABORDAY_CABBAGEPULT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Cabbage-pult & Costume
 
 [STORE_GIFT_LABORDAY_REPEATER_GIFT]
-Double Gift Pack
+Double Pack
 
 [STORE_GIFT_LABORDAY_REPEATER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Repeater & Costume
 
 [STORE_GIFT_LABORDAY_TALLNUT_GIFT]
-Tall-nut Gift Pack
+Tall-nut Pack
 
 [STORE_GIFT_LABORDAY_TALLNUT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
@@ -18013,363 +18022,363 @@ Kernel-pult＋ Kernel-pult Costume
 ^009900 (Today's limited edition)^oldclr
 
 [STORE_GIFT_DIALOG_TITLE_BUY_IT]
-Buy Gift Pack
+Buy Pack
 
 [STORE_GIFT_DIALOG_TITLE_NO_PLNAT]
 No plants have been obtained
 
 [STORE_GIFT_LABORDAY_CRACKER_GIFT]
-Bamboo Member Outside Gift Pack
+Bamboo Member Outside Pack
 
 [STORE_GIFT_LABORDAY_CRACKER_GIFT_DESC]
 ^009900 Limited time 6.20-6.30^oldclr
 Advanced Bamboo Member Outside and Costume
 
 [STORE_GIFT_LABORDAY_CHESTNUT_GIFT]
-Chestnut Gift Pack
+Chestnut Pack
 
 [STORE_GIFT_LABORDAY_CHESTNUT_GIFT_DESC]
 ^009900 Limited time 6.20-6.30^oldclr
 Advanced Chestnut Squad & Costume
 
 [STORE_GIFT_LABORDAY_PEPPERPULT_GIFT]
-Chili Gift Pack
+Chili Pack
 
 [STORE_GIFT_LABORDAY_PEPPERPULT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Pepper Pitcher & Costume
 
 [STORE_GIFT_LABORDAY_RAFFLESIA_GIFT]
-The Daylily Gift Pack
+The Daylily Pack
 
 [STORE_GIFT_LABORDAY_RAFFLESIA_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Daeohana & Costume
 
 [STORE_GIFT_LABORDAY_ACORN_GIFT]
-Acorn Gift Pack
+Acorn Pack
 
 [STORE_GIFT_LABORDAY_ACORN_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Cyclone Acorn & Costume
 
 [STORE_GIFT_LABORDAY_WINTERMELON_GIFT]
-Winter Melon Gift Pack
+Winter Melon Pack
 
 [STORE_GIFT_LABORDAY_WINTERMELON_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Winter Melon Pitcher & Costume
 
 [STORE_GIFT_LABORDAY_FIRESHROOM_GIFT]
-Flame Mushroom Gift Pack
+Flame Mushroom Pack
 
 [STORE_GIFT_LABORDAY_FIRESHROOM_GIFT_DESC]
 ^009900 Limited time 6.20-6.30^oldclr
 Advanced Flame Mushroom & Costume
 
 [STORE_GIFT_LABORDAY_ICESHROOM_GIFT]
-Ice Mushroom Gift Pack
+Ice Mushroom Pack
 
 [STORE_GIFT_LABORDAY_ICESHROOM_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Ice Mushrooms & Costume
 
 [STORE_GIFT_LABORDAY_BANANA_GIFT]
-Banana Gift Pack
+Banana Pack
 
 [STORE_GIFT_LABORDAY_BANANA_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Banana Rocket Cannon & Costume
 
 [STORE_GIFT_LABORDAY_LEMON_GIFT]
-Lemon Gift Pack
+Lemon Pack
 
 [STORE_GIFT_LABORDAY_LEMON_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Strong Sour Lemon & Costume
 
 [STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT]
-Lian Xiaopeng gift pack
+Lian Xiaopeng Pack
 
 [STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Lotus Koh Peng and Costume
 
 [STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT]
-Bowling gift pack
+Bowling Pack
 
 [STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Bowling Bubbles & Costume
 
 [STORE_GIFT_LABORDAY_TANGLEKELP_GIFT]
-Waterweed Gift Pack
+Waterweed Pack
 
 [STORE_GIFT_LABORDAY_TANGLEKELP_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Wrapping Watergrass & Costume
 
 [STORE_GIFT_LABORDAY_GUACODILE_GIFT]
-Avocado Gift Pack
+Avocado Pack
 
 [STORE_GIFT_LABORDAY_GUACODILE_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Avocado & Costume
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT]
-Guide Thistle Gift Pack
+Guide Thistle Pack
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Orientation Thistle & Costume
 
 [STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT]
-Carrot Gift Pack
+Carrot Pack
 
 [STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Carrot Missile Vehicle & Costume
 
 [STORE_GIFT_LABORDAY_DANDELION_GIFT]
-Dandelion Gift Pack
+Dandelion Pack
 
 [STORE_GIFT_LABORDAY_DANDELION_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Dandelion & Costume
 
 [STORE_GIFT_LABORDAY_BROCCOLI_GIFT]
-Powerful Cauliflower Gift Pack
+Powerful Cauliflower Pack
 
 [STORE_GIFT_LABORDAY_BROCCOLI_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Dianabola & Costume
 
 [STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT]
-Pomegranate Gift Pack
+Pomegranate Pack
 
 [STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Machine Gun Pomegranate & Costume
 
 [STORE_GIFT_LABORDAY_CHOMPER_GIFT]
-Chomper Gift Pack
+Chomper Pack
 
 [STORE_GIFT_LABORDAY_CHOMPER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Chomper & Costume
 
 [STORE_GIFT_LABORDAY_OAKSHOOTER_GIFT]
-Archer's Gift Pack
+Archer's Pack
 
 [STORE_GIFT_LABORDAY_OAKSHOOTER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Oak Archers & Costume
 
 [STORE_GIFT_LABORDAY_MAGNETSHROOM_GIFT]
-Magnetic Mushroom Gift Pack
+Magnetic Mushroom Pack
 
 [STORE_GIFT_LABORDAY_MAGNETSHROOM_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Magnetic Mushroom & Costume
 
 [STORE_GIFT_LABORDAY_PEANUT_GIFT]
-Peanut Sagittarius Gift Pack
+Peanut Sagittarius Pack
 
 [STORE_GIFT_LABORDAY_PEANUT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Peanut Sagittarius & Costume
 
 [STORE_GIFT_LABORDAY_SUNSHROOM_GIFT]
-sun Mushroom Gift Pack
+sun Mushroom Pack
 
 [STORE_GIFT_LABORDAY_SUNSHROOM_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Sun Mushroom & Costume
 
 [STORE_GIFT_LABORDAY_HYPNOSHROOM_GIFT]
-Hypno-shroom Gift Pack
+Hypno-shroom Pack
 
 [STORE_GIFT_LABORDAY_HYPNOSHROOM_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Hypno-shroom & Costume
 
 [STORE_GIFT_LABORDAY_FUMESHROOM_GIFT]
-Fume-shroom gift pack
+Fume-shroom Pack
 
 [STORE_GIFT_LABORDAY_FUMESHROOM_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Fume-shroom & Costume
 
 [STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT]
-Small mushroom spray gift pack
+Small mushroom spray Pack
 
 [STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced small mushroom spray and Costume
 
 [STORE_GIFT_LABORDAY_HOLONUT_GIFT]
-Holographic Gift Pack
+Holographic Pack
 
 [STORE_GIFT_LABORDAY_HOLONUT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Holographic Nuts & Costume
 
 [STORE_GIFT_LABORDAY_CITRON_GIFT]
-Grapefruit Gift Pack
+Grapefruit Pack
 
 [STORE_GIFT_LABORDAY_CITRON_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Charging Grapefruit & Costume
 
 [STORE_GIFT_LABORDAY_STARFRUIT_GIFT]
-Star Fruit Gift Pack
+Star Fruit Pack
 
 [STORE_GIFT_LABORDAY_STARFRUIT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Star Fruit & Costume
 
 [STORE_GIFT_LABORDAY_LASER_BEAN_GIFT]
-Laser Bean Gift Pack
+Laser Bean Pack
 
 [STORE_GIFT_LABORDAY_LASER_BEAN_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Laser Bean & Costume
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT]
-Prismatic Grass Gift Pack
+Prismatic Grass Pack
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Prism Grass & Costume
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT]
-Bamboo shoot gift pack
+Bamboo shoot Pack
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Bamboo Shoots & Costume
 
 [STORE_GIFT_LABORDAY_TURNIP_GIFT]
-White Carrot Gift Pack
+White Carrot Pack
 
 [STORE_GIFT_LABORDAY_TURNIP_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced White Carrot & Costume
 
 [STORE_GIFT_LABORDAY_FIREGOURD_GIFT]
-Fire Gourd Gift Pack
+Fire Gourd Pack
 
 [STORE_GIFT_LABORDAY_FIREGOURD_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Fire Gourd & Costume
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT]
-Xiantao Gift Pack
+Xiantao Pack
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Xiantao & Costume
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT]
-Triple Gift Pack
+Triple Pack
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Triple Shooter & Costume
 
 [STORE_GIFT_LABORDAY_PEAPOD_GIFT]
-Pea-pod gift pack
+Pea-pod Pack
 
 [STORE_GIFT_LABORDAY_PEAPOD_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Wandoujia & Costume
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT]
-Melon-pult Gift Pack
+Melon-pult Pack
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Melon-pult & Costume
 
 [STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT]
-Coconut Gift Pack
+Coconut Pack
 
 [STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Coconut Cannon & Costume
 
 [STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT]
-Reed Gift Pack
+Reed Pack
 
 [STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT_DESC]
 ^009900 Limited time 6.20-6.30^oldclr
 Advanced Lightning Reed & Costume
 
 [STORE_GIFT_LABORDAY_KERNELPULT_GIFT]
-Corn Gift Pack
+Corn Pack
 
 [STORE_GIFT_LABORDAY_KERNELPULT_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Kernel-pult & Costume
 
 [STORE_GIFT_LABORDAY_TORCHWOOD_GIFT]
-Torchwood Gift Pack
+Torchwood Pack
 
 [STORE_GIFT_LABORDAY_TORCHWOOD_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Torchwood & Costume
 
 [STORE_GIFT_LABORDAY_SNOWPEA_GIFT]
-Ice Gift Pack
+Ice Pack
 
 [STORE_GIFT_LABORDAY_SNOWPEA_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Ice Shooter & Costume
 
 [STORE_GIFT_LABORDAY_SPLITPEA_GIFT]
-Two-way Gift Pack
+Two-way Pack
 
 [STORE_GIFT_LABORDAY_SPLITPEA_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Two-Way Shooter & Costume
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT]
-Croton Gift Pack
+Croton Pack
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Croton & Costume
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT]
-Squash Gift Pack
+Squash Pack
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Squash & Costume
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT]
-Fire dragon Gift Pack
+Fire dragon Pack
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT_DESC]
 ^009900 Limited time 6.20-6.30^oldclr
 Advanced Fire dragon & Costume
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT]
-Spring Bean Gift Pack
+Spring Bean Pack
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced Spring Bean & Costume
 
 [STORE_GIFT_LABORDAY_BONKCHOY_GIFT]
-Dish gift package
+Dish Package
 
 [STORE_GIFT_LABORDAY_BONKCHOY_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
 Advanced dish questioning and dressing up
 
 [STORE_GIFT_LABORDAY_TWINSUNFLOWER_GIFT]
-Twins Gift Pack
+Twins Pack
 
 [STORE_GIFT_LABORDAY_TWINSUNFLOWER_GIFT_DESC]
 ^009900 Limited time from now until 9.16^oldclr
@@ -18393,31 +18402,31 @@ Cherry Pieces
 You haven't gotten the plant yet, dressing up is not working, confirm if you want to buy dressing up?
 
 [STORE_GIFT_DIALOG_DAY_ONE_TYPE_ONE]
-Event day gift packs are on sale at a discount, the original price ^00FF00 % d gold coins ^oldclr's gift pack only needs ^00FF00 % d gold coins ^oldclr to get it!
+Event day Packs are on sale at a discount, the original price ^00FF00 % d gold coins ^oldclr's Pack only needs ^00FF00 % d gold coins ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_DAY_ONE_TYPE_TWO]
-You already have ^00FF00 %s^oldclr, the original price ^00FF00 %d gold coin ^oldclr gift pack only needs ^00FF00 %d gold coin ^oldclr to get it!
+You already have ^00FF00 %s^oldclr, the original price ^00FF00 %d gold coin ^oldclr Pack only needs ^00FF00 %d gold coin ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_ONE]
-Event day gift packs are on sale at a discount, the original price ^00FF00 % d diamond ^oldclr's gift pack only needs ^00FF00 % d diamond ^oldclr to get it!
+Event day Packs are on sale at a discount, the original price ^00FF00 % d diamond ^oldclr's Pack only needs ^00FF00 % d diamond ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_TWO]
-You already have ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr gift pack only needs ^00FF00 %d diamond ^oldclr to get it!
+You already have ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr Pack only needs ^00FF00 %d diamond ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_THREE]
-You already have ^00FF00 %s^oldclr and ^00FF00 %d^oldclr ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr gift pack only needs ^00FF00 %d diamond ^oldclr to get it!
+You already have ^00FF00 %s^oldclr and ^00FF00 %d^oldclr ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr Pack only needs ^00FF00 %d diamond ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_FOUR]
-You already have ^00FF00 %d^oldclr ^00FF00 %s^oldclr and ^00FF00 %d^oldclr ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr gift pack only needs ^00FF00 %d diamond ^oldclr to get it!
+You already have ^00FF00 %d^oldclr ^00FF00 %s^oldclr and ^00FF00 %d^oldclr ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr Pack only needs ^00FF00 %d diamond ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_FIVE]
-You already have ^00FF00 %d^oldclr ^00FF00 %s^oldclr, the original price ^00FF00 %d gold coins ^oldclr's gift pack only needs ^00FF00 %d gold coins ^oldclr to get it!
+You already have ^00FF00 %d^oldclr ^00FF00 %s^oldclr, the original price ^00FF00 %d gold coins ^oldclr's Pack only needs ^00FF00 %d gold coins ^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_SIX]
-You already have ^00FF00 %d/%d^oldclr's ^00FF00 %s^oldclr and ^00FF00 %d/%d^oldclr's ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr's gift pack only needs ^00FF00 %d diamond^oldclr to get it!
+You already have ^00FF00 %d/%d^oldclr's ^00FF00 %s^oldclr and ^00FF00 %d/%d^oldclr's ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr's Pack only needs ^00FF00 %d diamond^oldclr to get it!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_SEVEN]
-You already have ^00FF00 %s^oldclr and ^00FF00 %d/%d^oldclr's ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr's gift pack only needs ^00FF00 %d diamond ^oldclr to get it!
+You already have ^00FF00 %s^oldclr and ^00FF00 %d/%d^oldclr's ^00FF00 %s^oldclr, the original price ^00FF00 %d diamond ^oldclr's Pack only needs ^00FF00 %d diamond ^oldclr to get it!
 
 [CARROTLAUNCHER_AVATAR_NAME]
 Carrotillery's Costume
@@ -18525,52 +18534,52 @@ Cumulative Recharge Perk! Earn double coin rewards!
 Event Time and Cumulative Recharge Perk combined! Earn quadruple coin rewards!
 
 [STORE_GIFT_LUXURY_GIFT_BUY_FINISH]
-Congratulations on getting the Supreme Invincible Gift Pack! 
-Gift pack containing Winter Melon, transformation eggplant, coconut cannon, lightning reed, Spikerock, tall nut
+Congratulations on getting the Supreme Invincible Pack! 
+Pack containing Winter Melon, transformation eggplant, coconut cannon, lightning reed, Spikerock, tall nut
 
 [STORE_GIFT_ONSALE_GIFT_BUY_FINISH]
 Congratulations on getting the Christmas promotion package!
-Gift pack with Winter Melon, lightning reed, Tall-nut novice promotion pack.
+Pack with Winter Melon, lightning reed, Tall-nut novice promotion pack.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_BUY_FINISH]
-Congratulations on getting the Frozen Lettuce Costume Gift Pack!
+Congratulations on getting the Frozen Lettuce Costume Pack!
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT_BUY_FINISH]
-Congratulations on getting the Triple Sagittarius Costume Costume Gift Pack!
+Congratulations on getting the Triple Sagittarius Costume Costume Pack!
 
 [STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT_BUY_FINISH]
-Congratulations on getting the Cherry Bomb Costume Costume Gift Pack!
+Congratulations on getting the Cherry Bomb Costume Costume Pack!
 
 [STORE_GIFT_LABORDAY_ONE_GIFT_BUY_FINISH]
 Congratulations on getting a plant suit that is both offensive and defensive!
-Gift pack with Winter Melon, Tall-nut.
+Pack with Winter Melon, Tall-nut.
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_BUY_FINISH]
 Congratulations on getting a good review Costume Two-Piece Set!
-The gift pack contains a Repeater costume, a dishwire costume.
+The Pack contains a Repeater costume, a dishwire costume.
 
 [STORE_GIFT_LABORDAY_THREE_GIFT_BUY_FINISH]
 Congratulations on getting the Cannon Combo Pack!
-Gift pack containing coconut cannon, coconut cannon Costume.
+Pack containing coconut cannon, coconut cannon Costume.
 
 [STORE_GIFT_LABORDAY_FOUR_GIFT_BUY_FINISH]
 Congratulations on getting the pea combo pack!
-The gift pack contains pea pods, which are costume as pea pods.
+The Pack contains pea pods, which are costume as pea pods.
 
 [STORE_GIFT_LABORDAY_FIVE_GIFT_BUY_FINISH]
 Congratulations on getting the Chicken Killing and Fire Pack!
-Gift pack containing lightning reeds, torch stumps.
+Pack containing lightning reeds, torch stumps.
 
 [STORE_GIFT_LABORDAY_SIX_GIFT_BUY_FINISH]
 Congratulations on getting the KongFu Plant two-piece set!
-Gift pack containing fire gourd, Xiantao.
+Pack containing fire gourd, Xiantao.
 
 [STORE_GIFT_LABORDAY_SEVEN_GIFT_BUY_FINISH]
 Congratulations on getting the corn combo pack!
-Gift pack containing Kernel-pult, Kernel-pult Costume.
+Pack containing Kernel-pult, Kernel-pult Costume.
 
 [STORE_SALE_ALL_GIFT]
-You have purchased all the gift packs for this issue!
+You have purchased all the Packs for this issue!
 
 [KONGFU_STRING_START]
 KongFu text configuration begins
@@ -18672,8 +18681,8 @@ Get
 [PLANT_ADVENTURE_DUNGEON_SUSPEND]
 Stop
 
-[PLANT_ADVENTURE_DUNGEON_SKIP]
-Done immediately
+[PLANT_ADVENTURE_DUNGEON_SKIP]  
+Complete Now
 
 [PLANT_ADVENTURE_OPENED_HINT]
 Congratulations on successfully passing the ^FF0000 plant piece level ^oldclr ,
@@ -18697,26 +18706,27 @@ Left time:
 Adventure Completed
 
 [PLANT_ADVENTURE_BONUS_HINT]
-The plants have successfully returned from the ^00FF00 {DUNGEON}^oldclr expedition. 
-After a tough battle, they found some good items.
+The plants have successfully returned from the ^00FF00 {DUNGEON} ^oldclr expedition. 
+After a hard battle, they found some good items.
 
 [PLANT_ADVENTURE_BONUS_BUTTON_SURPRISE]
-Unexpected Discovery
+Surprise
 
 [PLANT_ADVENTURE_BONUS_BUTTON_FINISHED]
-Finish Adventure
+Finish
 
 [PLANT_ADVENTURE_SURPRISE_TITLE]
-Unexpected Discovery
+Surprise
 
 [PLANT_ADVENTURE_SURPRISE_HINT]
-Report! During the expedition, we encountered a merchant. Penny says the bag he's holding has something we want!
+Report! We encountered a merchant during the adventure, and Penny says the bag he's holding has what we need!
+
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_GIVEUP]
-Reluctantly Give Up
+Give Up
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_OPEN]
-.. Open with {GEMS}
+Open {GEMS}
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_FREE]
 Free ON
@@ -18731,7 +18741,7 @@ There are still plants in your plant team that have not returned to a full energ
 Sorry, your current available plants do not meet the expedition conditions
 
 [PLANT_ADVENTURE_SKIP_TITLE]
-Done immediately?
+Complete Now ?
 
 [PLANT_ADVENTURE_SKIP_TITLE_DES]
 Do you want to spend ^ff0000 {GEMS} diamonds ^oldclr or ^ff0000 watch an ad ^oldclr to instantly complete the current adventure task?
@@ -18768,7 +18778,7 @@ The Plant Squad has set off and will not be able to get any reward for the abort
 Buy-buy-buy
 
 [PLANT_ADVENTURE_BUY_PLANT_SKIP]
-Done immediately
+Complete Now
 
 [PLANT_ADVENTURE_SUSPEND]
 I'm cancelling
@@ -18780,13 +18790,14 @@ I think again
 Plants Required: {PLANTS}
 
 [PLANT_ADVENTURE_TEAMEDITOR_PLANTTYPE]
-Plant characteristics:
+Plant Type:
 
 [PLANT_ADVENTURE_TEAMEDITOR_AUTO_BUTTON]
-Auto-select
+Auto Select
 
 [PLANT_ADVENTURE_TEAMEDITOR_START_BUTTON]
-Start an expedition
+Start Adventure
+
 
 [ADVENTURE_FLAGS_DES_PRODUCT]
 Production plants x1
@@ -18955,7 +18966,7 @@ All your plants in the prize pool have reached level 3, go check out the other a
 Come back tomorrow
 
 [CHRISTMAS_ACCESSORY_REFRESH_HINT]
-Gift pack content reset daily
+Pack content reset daily
 
 [CHRISTMAS_GOLDEN_EGG_CONNECTING_TITLE]
 Please later
@@ -18971,7 +18982,7 @@ Network failure
 It may be that the activity has ended or the network fails, please try to close the activity center, adjust the network link and try again.
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Every day you can get {HAMMERS} hammer by accumulating recharge {RMB} yuan.
+Every day you can get {HAMMERS} hammer by accumulating recharge {RMB} ¥.
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 I think again
@@ -20460,7 +20471,7 @@ Activity Date: ^ff0000^July 1st to July 7th^oldclr^
 Today's recharge reward
 
 [SPRING_GIFT_ACTIVITY_REWARD_DES]
-Your single recharge today reached 30 yuan, and you received the following gift
+Your single recharge today reached 30 ¥, and you received the following gift
 
 [SPRING_GIFT_REWARD_FAIL_TITLE]
 Failed to receive gift
@@ -20473,15 +20484,16 @@ You may need to restart the client and try again.
 You have already received the gift today. Come back tomorrow!
 
 [TODAY_SURPRISE_REWARD]
-Today's surprise reward:
+Today's reward:
 
 [CAN_BE_OBTAINED]
 Can be obtained:
 
 [DAILY_SINGLE_RECHARGE_REWARD]
 Daily Single Recharge
-    Spend {AMOUNT} Yuan to receive
-rewards.
+    ¥ to receive
+the reward.
+
 
 
 [SPRING_GIFT_REWARD_ALREADY_3_LEVEL]
@@ -22071,7 +22083,7 @@ Dear players,
 Penny and the developers have teamed up to fix some critical save issues, and the account transfer function is now reopened! Penny also discovered during self-check that the game's lag has been greatly reduced, and crashes have been rare lately.
 
 Tenfold Earnings Super Benefits
-Now recharge 1 yuan to get 105 diamonds, isn't that a great deal?
+Now recharge 1 ¥ to get 105 diamonds, isn't that a great deal?
 (The gifted diamonds are claimable over 7 days, no need to log in continuously)
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
@@ -22620,7 +22632,7 @@ Pass Reward: x{REWARD_COUNT}
 Points: {SCORE_COUNT}
 
 [GIFT_GET_TITLE]
-Benefit Gift Pack
+Benefit Pack
 
 [GIFT_GET_DES]
 Enter the activation code to receive benefits
@@ -22629,13 +22641,13 @@ Enter the activation code to receive benefits
 Endless Redemption
 
 [PRESENT_TITLE_35]
-Beginner's Sailing Gift Pack
+Beginner's Sailing Pack
 
 [PRESENT_TITLE_36]
-Comfortable Play Gift Pack
+Comfortable Play Pack
 
 [PRESENT_TITLE_37]
-Supreme Luxury Gift Pack
+Supreme Luxury Pack
 
 [PRESENT_DES_35]
 50,000 gold coins, 15 diamonds
@@ -24088,7 +24100,7 @@ Event date: ^ff0000^ From now until March 31 ^oldclr^
 Today's recharge rewards
 
 [SPRINGACTIVITYREWARDDES]
-Your single recharge today reaches 30 yuan and you get the following gifts
+Your single recharge today reaches 30 ¥ and you get the following gifts
 
 [SPRINGACTIVITYREWARDERROR]
 Sold out today, new tomorrow
@@ -25291,56 +25303,56 @@ Number of pendants: {OWNED_COUNT}/{TOTAL_COUNT}
 Pendant not yet worn
 
 [STORE_GIFT_LABORDAY_LASERBEAN_GIFT]
-Laser Bean Gift Pack
+Laser Bean Pack
 
 [STORE_GIFT_LABORDAY_LASERBEAN_GIFT_DESC]
 Advanced Laser Bean & Costume
 ^009900 (Limited time 10.1-10.12)^oldclr
 
 [STORE_GIFT_LABORDAY_DOUBLESAMARA_GIFT]
-Loquat Gift Pack
+Loquat Pack
 
 [STORE_GIFT_LABORDAY_DOUBLESAMARA_GIFT_DESC]
 Advanced Vortex Loquat & Costume
 ^009900 Limited time from now until 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_ASPARAGUS_GIFT]
-Asparagus Gift Pack
+Asparagus Pack
 
 [STORE_GIFT_LABORDAY_ASPARAGUS_GIFT_DESC]
 Advanced Asparagus Fighter & Costume
 ^009900 Limited time from now until 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_ANTHURIUM_GIFT]
-Anthurium Gift Pack
+Anthurium Pack
 
 [STORE_GIFT_LABORDAY_ANTHURIUM_GIFT_DESC]
 Advanced Ionized Anthurium & Costume
 ^009900 Limited time from now until 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_HOSERBEAN_GIFT]
-Broad Bean Gift Pack
+Broad Bean Pack
 
 [STORE_GIFT_LABORDAY_HOSERBEAN_GIFT_DESC]
 Advanced Broad Bean Commando & Costume
 ^009900 Limited time from now until 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_SAUCER_GIFT]
-UFO Melon Gift Pack
+UFO Melon Pack
 
 [STORE_GIFT_LABORDAY_SAUCER_GIFT_DESC]
 Advanced UFO melon and Costume
 ^009900 Limited time from now until 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT]
-Lanternwort Gift Pack
+Lanternwort Pack
 
 [STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT_DESC]
 Advanced Lanterns & Costume
 ^009900 Limited time from now until 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_PINEAPPLE_GIFT]
-Pineapple Gift Pack
+Pineapple Pack
 
 [STORE_GIFT_LABORDAY_PINEAPPLE_GIFT_DESC]
 Advanced Spin Pineapple & Costume
@@ -25356,7 +25368,7 @@ The 60x diamond return activity is now over, here are the {GEMS} diamonds you ha
 Confirm to receive
 
 [GEMRETURN_DES]
-Recharge 0.1 yuan from now on to get 60 diamonds, which will be returned in 7 days (requires Internet access)
+Recharge 0.1 ¥ from now on to get 60 diamonds, which will be returned in 7 days (requires Internet access)
 
 [GEMRETURN_ACTIVE]
 ...      Activate immediately
@@ -25371,37 +25383,37 @@ Recharge 0.1 yuan from now on to get 60 diamonds, which will be returned in 7 da
 60 times diamond return
 
 [PRODUCT_GEM_REWARD]
-1 yuan paid diamond return activity
+1 ¥ paid diamond return activity
 
 [PRODUCT_GEM_REWARD_SHORTDESC]
 Diamond Week Card
 
 [PRODUCT_IOS_CUKE_PACKAGE]
-1 yuan cucumber gift pack
+1 ¥ cucumber Pack
 
 [PRODUCT_IOS_CUKE_PACKAGE_SHORTDESC]
-1 yuan cucumber gift pack
+1 ¥ cucumber Pack
 
 [PRODUCT_MONTHLY_CARD]
-Play monthly card for 30 yuan
+Play monthly card for 30 ¥
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-Play monthly card for 30 yuan
+Play monthly card for 30 ¥
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
-6 yuan cool master card
+6 ¥ cool master card
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP_SHORTDESC]
-6 yuan cool master card
+6 ¥ cool master card
 
 [PRODUCT_MONTHLY_CARD_SUPER]
-50 yuan Hacker card
+50 ¥ Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM]
 VIP monthly card
 
 [PRODUCT_MONTHLY_CARD_SUPER_SHORTDESC]
-50 yuan Hacker card
+50 ¥ Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
 VIP monthly card
@@ -25410,7 +25422,7 @@ VIP monthly card
 ...      Activate immediately
 
 [PRODUCT_DIAMONDS_REWARD_DES]
-Recharge 1 yuan from now on to get 105 back diamonds, which will be returned in 7 days (need to connect to the Internet)
+Recharge 1 ¥ from now on to get 105 back diamonds, which will be returned in 7 days (need to connect to the Internet)
 
 [PRODUCT_DIAMONDS_REWARD]
 {GEMS} diamonds are available
@@ -25422,7 +25434,7 @@ Not open
 Events not open
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED]
-The 1 yuan paid diamond return event is not yet open, please try again
+The 1 ¥ paid diamond return event is not yet open, please try again
 
 [PRODUCT_GEM_REWARD_GET_FAILED_TITLE]
 Failed to claim
@@ -25434,7 +25446,7 @@ If the return diamond collection fails, please check the network or reopen and t
 Summon the trolley
 
 [PRODUCT_BUY_PRESENT_DES]
-Breakthrough gift pack
+Breakthrough Pack
 
 [PRODUCT_PLANTTRIAL_1_DES]
 Plant Bloomerang
@@ -26851,7 +26863,7 @@ Don't worry, the first 3 planting trial plants don't need to consume sun, try yo
 {EXCITED:crazydave}{SAY} Try the newly arrived acorns, specializing in restraining walrus zombies, breaking their teeth, and preventing ski zombies from sprinting.
 
 [PLANTTRIAL_BUY_BUTTON_NAME_1]
-{NUMBER} yuan
+{NUMBER} ¥
 
 [PLANTTRIAL_BUY_BUTTON_NAME_2]
 {NUMBER} diamond
@@ -26908,7 +26920,7 @@ The ultimate will give priority to attacking the rear row, and the bullets will 
 It can cause additional damage to shells, and the full-screen acid rain of plants food will kill you instantly
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-Cost {COST_NUM} yuan to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
+Cost {COST_NUM} ¥ to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
 Spend {COST_NUM} diamond to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
@@ -26933,13 +26945,13 @@ The Mechanical Imp Zombies are coming!
 Warning: A huge energy reaction is detected in front, the channel cannot be started, and the space-time transmitter cannot be started before the {PLANT_LEVEL} order plant has been obtained!
 
 [PURCHASE_PLANT_GIFT]
-Buy Plant Gift Pack
+Buy Plant Pack
 
 [STOP_HERE]
 Stop moving forward
 
 [PLANT_GIFT_HEADER]
-Great Value Plant Gift Pack
+Great Value Plant Pack
 
 [PLANT_GIFT_TEXT]
 You can randomly get a {PLANT_LEVEL}-level plant to help you directly enter the new world!
@@ -27422,7 +27434,7 @@ Buy a ^FF0000 Lawn mowers to kill the zombies ^oldclr. Ready to continue playing
 Remaining {NUMBER} times
 
 [BUY_PRESENT_DESC]
-Wow ～ hidden ^FF0000 Breakthrough gift pack ^oldclr was met by you!
+Wow ～ hidden ^FF0000 Breakthrough Pack ^oldclr was met by you!
 Unparalleled offers, come and enjoy this opportunity!
 
 [RECHARGE_GIFT_ACTIVITY_DESC]
@@ -27622,7 +27634,7 @@ Your ship crashed!
 The spacecraft is about to crash, now only ^00e46e {GEM_COUNT} diamonds ^oldclr are needed to restore the durability of the spacecraft?
 
 [UPDATE_REWARD_RANDOM_GIFT]
-Mystery Gift Pack
+Mystery Pack
 
 [UPDATE_REWARD_CONTENT]
 Welcome to the latest ^FF0000 World of Plants vs. Zombies^oldclr, and to thank you for your support we have specially prepared a small gift for you^FF0000^oldclr!
@@ -29486,8 +29498,8 @@ Age Advisory for Plants vs. Zombies 2 Game
 
 3) According to national requirements, the game has a real-name authentication system. Users who have not passed the real-name authentication cannot enter the game; users certified as minors cannot enter the game at any time other than 20:00 to 21:00 daily on Fridays, Saturdays, Sundays, and legal holidays. Some gameplay and items in the game require payment. Users certified as minors will be subject to the following management:
  - Users under 8 years old cannot make payments.
- - Users aged 8 or above but under 16 cannot recharge more than 50 yuan in a single transaction or exceed a cumulative monthly recharge amount of 200 yuan.
- - Users aged 16 or above cannot recharge more than 100 yuan in a single transaction or exceed a cumulative monthly recharge amount of 400 yuan.
+ - Users aged 8 or above but under 16 cannot recharge more than 50 ¥ in a single transaction or exceed a cumulative monthly recharge amount of 200 ¥.
+ - Users aged 16 or above cannot recharge more than 100 ¥ in a single transaction or exceed a cumulative monthly recharge amount of 400 ¥.
 
 4) The game requires players to allocate resources reasonably, upgrade plant levels, arrange battlefield formations to enhance team strength for victory in battles, and adjust combat strategies based on battlefield events, helping to improve players' logical thinking and adaptability.
 
@@ -29540,7 +29552,7 @@ Steady Magnet Shroom
 Battle Plant pieces
 
 [DANGERROOM_RULE_BTN_TXT]
-Rules Explanation
+Rules
 
 [DANGERROOM_REWARD_BTN_TXT]
 Score Rewards
@@ -29902,7 +29914,7 @@ Reward Collection Period: October 29th - November 15th
 Reward Collection Period: October 29th - November 15th
 
 [TWO_YEAR_SHARE_DESC_WITH_GIFT]
-Share your adventure journey to WeChat to receive a sharing gift pack and have a chance to win physical rewards!
+Share your adventure journey to WeChat to receive a sharing Pack and have a chance to win physical rewards!
 
 [TWO_YEAR_SHARE_DESC]
 Share your adventure journey to WeChat for a chance to win physical rewards!
@@ -30336,7 +30348,7 @@ The training cohort has exceeded the population cap and cannot train in its enti
 Consume {NUMBER} diamonds to finish immediately?
 
 [PVP_TRAINING_FINISH_TIP2]
-Cost {NUMBER} yuan to complete immediately?
+Cost {NUMBER} ¥ to complete immediately?
 
 [PVP_SEEDPACKET_LOCKED]
 Base {NUMBER} level unlock
@@ -31004,7 +31016,7 @@ You only have one direct completion
 ￥{MONEY} Get it now
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_1]
-Spend {COST_NUM} yuan to buy {PLANT_LEVEL} level {PLANT_NAME}, and get extra {COIN_NUM} gold coins
+Spend {COST_NUM} ¥ to buy {PLANT_LEVEL} level {PLANT_NAME}, and get extra {COIN_NUM} gold coins
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
 Cost {COST_NUM} diamond purchase {PLANT_LEVEL} level {PLANT_NAME}, extra {COIN_NUM} gold coins
@@ -31090,7 +31102,7 @@ Network connection failed. Please ensure a stable connection while drawing or st
 
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
-{ITEM} is insufficient, please get enough quantity before trying it out.
+Insufficient {ITEM} quantity, please get enough quantity before trying again.
 
 [SUMMERY_LOTTERY_UNKONW_BONUS]
 Rewards cannot be identified.
@@ -31138,10 +31150,10 @@ Big red envelope
 5th level Orange potion  
 
 [NORMAL_LOGIN_CHEST]
-Normal treasure chest
+Normal chest
 
 [LEGEND_LOGIN_CHEST]
-Boutique Treasure Box
+Legend chest
 
 [MAT_GACHAKEY_NORMAL]
 Normal Treasure Chest Key
@@ -34077,54 +34089,54 @@ Watch Video Ads
 Free Diamonds
 
 [PRODUCT_COIN_AD_DESC]
-Watch Video Ads
+Watch Ads
 ^FF0000 Receive 10,000 gold coins
 
 [PRODUCT_COIN_AD_SHORT_DESC]
-Free Gold Coins
+Free coin
 
 [PRODUCT_AVATAR_TICKET_AD_DESC]
 Watch Video Ads
-^FF0000 Get costume coupons
+^FF0000 Get costume voucher
 
 [PRODUCT_AVATAR_TICKET_AD_SHORT_DESC]
-Free costume coupons
+Free costume voucher
 
 [PRODUCT_AVATAR_TICKET_6_DESC]
-60 costume coupons
+60 costume voucher
 
 [PRODUCT_AVATAR_TICKET_6_SHORT_DESC]
-Small Costume Voucher Gift Pack
+Small Costume Voucher Pack
 
 [PRODUCT_AVATAR_TICKET_30_DESC]
-330 costume coupons
+330 costume voucher
 
 [PRODUCT_AVATAR_TICKET_30_SHORT_DESC]
-Medium Costume voucher gift pack
+Medium Costume voucher pack
 
 [PRODUCT_AVATAR_TICKET_68_DESC]
-780 costume coupons
+780 costume voucher
 
 [PRODUCT_AVATAR_TICKET_68_SHORT_DESC]
-Large Costume Voucher Gift Pack
+Large Costume Voucher Pack
 
 [PRODUCT_AVATAR_TICKET_128_DESC]
-1550 costume coupons
+1550 costume voucher
 
 [PRODUCT_AVATAR_TICKET_128_SHORT_DESC]
-Small box Costume voucher gift pack
+Small box Costume voucher pack
 
 [PRODUCT_AVATAR_TICKET_328_DESC]
-4100 costume coupons
+4100 costume voucher
 
 [PRODUCT_AVATAR_TICKET_328_SHORT_DESC]
-Medium box costume coupon gift pack
+Medium box costume coupon pack
 
 [PRODUCT_AVATAR_TICKET_648_DESC]
-8450 costume coupons
+8450 costume voucher
 
 [PRODUCT_AVATAR_TICKET_648_SHORT_DESC]
-Big box Costume voucher gift pack
+Big box Costume voucher pack
 
 [PRODUCT_MYSTERY_AD_DESC]
 Watch Video Ads
@@ -34682,7 +34694,7 @@ Card Clash - Day {LEVEL_NUMBER}
 Arena
 
 [DEMO_BUTTON]
-Demo
+Test
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]
 Hint
@@ -37350,17 +37362,17 @@ World - Pirate Seas
 Squash your opponent, collect 5000 gold coins and get the shovel reward!
 
 [PRODUCT_91_NAME]
-Gift Pack - Novice Bag
+Pack - Novice Bag
 
 [PRODUCT_91_SHORT_DESCRIPTION]
-Newbie Gift Pack
+Newbie Pack
  
 
 [PRODUCT_BUNDLE_DRAGONS_HOARD_DESC]
 Cold snapdragon. 50 gems and 5,000 gold coins.
 
 [PRODUCT_BUNDLE_DRAGONS_HOARD_TITLE]
-Dragon Treasure Gift Pack
+Dragon Treasure Pack
 
 [PRODUCT_BUNDLE_GEM_PACK_1800_DESC]
 Gem Fountain!
@@ -37372,7 +37384,7 @@ Gem Pack 1800
 Use 5,000 gold coins and extra sun to support your new bursting grapes.
 
 [PRODUCT_BUNDLE_GRAPEVINE_TITLE]
-Grapevine Gift Pack
+Grapevine Pack
 
 [PRODUCT_CACTUS_DESCRIPTION]
 Shooting the thorns of penetration, hiding when damaged by the ground!
@@ -37555,22 +37567,22 @@ Escape Roots
 Use 50 gems and 20,000 gold coins to ensure the escape route!
 
 [PRODUCT_ESCAPEROOTBUNDLE_NAME]
-Escape Roots Gift Pack
+Escape Roots Pack
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_DESCRIPTION]
 Explode those zombies and get 20,000 gold coins!
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_NAME]
-Gift Pack - Explode-O-Nut
+Pack - Explode-O-Nut
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_SHORT_DESCRIPTION]
-Explode-O-Nut Gift Pack
+Explode-O-Nut Pack
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_DESCRIPTION]
 Enhance Explode-O-Nut while also getting 50000 gold coins!
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_NAME]
-Gift Pack - Explosive Wall-nut Reinforcement
+Pack - Explosive Wall-nut Reinforcement
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_SHORT_DESCRIPTION]
 Explode-O-Nut Enhancement Pack
@@ -37582,10 +37594,10 @@ Explodes when eaten!
 Let Track Bitter Vegetables and Explode-O-Nut Team Up!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_NAME]
-Gift Pack - Explosion Duo
+Pack - Explosion Duo
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_SHORT_DESCRIPTION]
-Explosion duo gift pack
+Explosion duo Pack
 
 [PRODUCT_EXPLODEONUT_NAME]
 Plant - Explode-O-Nut
@@ -37603,13 +37615,13 @@ Plant - Fire Peashooter
 Complete new challenges with Ice Pea, 50 Gems and 5000 Gold Coins!
 
 [PRODUCT_FLASHSNOWPEA_NAME]
-Android Gift Pack - Snow Pea
+Android Pack - Snow Pea
 
 [PRODUCT_FLASHSNOWPEA_SHORT_DESCRIPTION]
-Snow Pea Gift Pack
+Snow Pea Pack
 
 [PRODUCT_FLASHSNOWPEA2_NAME]
-Gift Pack - Snow Pea
+Pack - Snow Pea
 
 [PRODUCT_GHOSTPEPPER_DESCRIPTION]
 Entangling all the zombies that pass by
@@ -37669,10 +37681,10 @@ Magma guava
 Complete new challenges with hot chili, 50 gems and 5000 gold coins!
 
 [PRODUCT_NEW_USER_BUNDLE_NAME]
-Gift Pack - New Player Gift Pack
+Pack - New Player Pack
 
 [PRODUCT_NEW_USER_BUNDLE_SHORT_DESCRIPTION]
-New Player Gift Pack
+New Player Pack
 
 [PRODUCT_PEANUT_DESCRIPTION]
 A plant that is both offensive and defensive!
@@ -37687,10 +37699,10 @@ Peanut
 Plant a forest with a resin pitcher who can slow down zombies, 10,000 gold coins and 5 seedlings!
 
 [PRODUCT_REFORESTATION_NAME]
-Resin pitcher returns Lin gift pack
+Resin pitcher returns Lin Pack
 
 [PRODUCT_REFORESTATION_SHORT_DESCRIPTION]
-Resin pitcher returns Lin gift pack
+Resin pitcher returns Lin Pack
 
 [PRODUCT_SAPFLING_DESCRIPTION]
 Slow down the zombies with resin!
@@ -37714,7 +37726,7 @@ Shrink Violet
 Don't back down until you're in danger! Strengthen yourself with 20,000 gold coins and shrinking violets!
 
 [PRODUCT_SHRINKINGVIOLETBUNDLE_NAME]
-Shrink Violet Gift Pack
+Shrink Violet Pack
 
 [PRODUCT_SPROUTS1_DESCRIPTION]
 Add some seedlings to the garden!
@@ -37759,10 +37771,10 @@ Exploding Strawberry
 Create double the firepower with an imitator! And 50 gems and 10,000 gold coins!
 
 [PRODUCT_SUMMER_BUNDLE_NAME]
-Gift Pack - Summer
+Pack - Summer
 
 [PRODUCT_SUMMER_BUNDLE_SHORT_DESCRIPTION]
-Summer Gift Pack
+Summer Pack
 
 [PRODUCT_SWEETPOTATO_DESCRIPTION]
 To take a bite, zombies change lines!
@@ -37777,19 +37789,19 @@ Sweet potatoes
 Use 20,000 gold coins and a flame whip to whip zombies!
 
 [PRODUCT_WASABIWHIP_2000_BUNDLE_NAME]
-Gift Pack - Hot Wasabi
+Pack - Hot Wasabi
 
 [PRODUCT_WASABIWHIP_2000_BUNDLE_SHORT_DESCRIPTION]
-Hot Wasabi Gift Pack
+Hot Wasabi Pack
 
 [PRODUCT_WASABIWHIP_5000_BUNDLE_DESCRIPTION]
 Arm yourself with hot wasabi and 50,000 gold coins!
 
 [PRODUCT_WASABIWHIP_5000_BUNDLE_NAME]
-Gift Pack - Hot Wasabi Enhancement
+Pack - Hot Wasabi Enhancement
 
 [PRODUCT_WASABIWHIP_5000_BUNDLE_SHORT_DESCRIPTION]
-Hot Wasabi Enhanced Gift Pack
+Hot Wasabi Enhanced Pack
 
 [PRODUCT_WASABIWHIP_DESCRIPTION]
 Swing from beginning to end!
@@ -39737,7 +39749,7 @@ Falling from the sky on a huge speaker, flattening your plants by the way.
 {FLAVOR}You can't stop the bassist zombie who plays with his life until his speaker is destroyed. By the way, bassist zombie's favorite saying is dissatisfied mid laner sala!
 
 [DAILYSIGN_TW4399_TITLE]
-4399 sign-in gift package
+4399 sign-in Package
 
 [DAILYSIGN_TW4399_TIME]
 Event Time:
@@ -40103,7 +40115,7 @@ To players who have received an anniversary reward at the Mystery Treasure event
 Magic Bean Collector
 
 [MONTHLY_POINT_HEAD_DES_ID_25327]
-To the player who gets the final reward in the Growth Gift Pack event
+To the player who gets the final reward in the Growth Pack event
 
 [SUPER_POWERPLANT_HEAD_DES_ID_25330]
 Once worn, the tile pattern of the tile radish generation can be changed.
@@ -40289,7 +40301,7 @@ Save and Claim        30
 Gender:
 
 [SETTINGHEADSHOT_1]
-You can only enter eight characters!
+Max 8 characters!
 
 [SETTINGHEADSHOT_2]
 Account Information
@@ -40349,7 +40361,7 @@ Level
 Avatar
 
 [PLANT_FAMILY_DISPLAY_SUPPORT_LEVEL]
-Support Level
+Current level
 
 [PLANT_FAMILY_DO_NOT_HAVE_PLANT]
 Not Acquired
@@ -40700,10 +40712,10 @@ Acquisition Rate
 Tip: This feature will prioritize producing costume pieces for costumes not yet obtained.
 
 [TRANS_GENOSIS_PLANT]
-Plant Gene Modification
+Plant
 
 [TRANS_GENOSIS_AVATAR]
-Costume Gene Modification
+Costume
 
 [TRANS_GENOSIS_AVATAR_SIMPLE_DES]
 Guaranteed to get one costume piece
@@ -40989,7 +41001,7 @@ It's like eating a tacos, it's too strong!
 {NPC_ENTER:researchercrazydave}{EXCITED:researchercrazydave}Now you are a qualified gene editing scientist! Go use the genetic sequence to increase the combat effectiveness of the plant!
 
 [NARRATIVE_GENE_ENHANCEMENT_THIRD_2]
-{NPC_ENTER:Winnie} can speed up gene editing progress by participating in a two-player duel or purchasing a gene editing gift pack.
+{NPC_ENTER:Winnie} can speed up gene editing progress by participating in a two-player duel or purchasing a gene editing Pack.
 
 [NARRATIVE_SUPER_ACCESSORY_TUTORIAL_1]
 {NPC_ENTER:researchercrazydave}{PLAYFUL:researchercrazydave}Now you have obtained a new pendant. This pendant is quite special and can be enhanced by using space-time crystals!
@@ -41289,7 +41301,7 @@ Careful, the ground is shaking!
 A certain roar of terror came from deep in the jungle
 
 [RECHARGEBUNDLE_TITLE]
-Limited-time gift pack
+Limited-time Pack
 
 [RECHARGEBUNDLE_VALUE]
 Great value
@@ -41310,13 +41322,13 @@ Plant pieces {NUMBER}
 Level 5 culture medium {NUMBER}
 
 [RECHARGEBUNDLE_REFRESH_BUNDLE]
-Refresh Gift Pack
+Refresh Pack
 
 [RECHARGEBUNDLE_WAITING_FOR_REFRESH]
-There is still {TIME} until the next batch of gift packs is refreshed
+There is still {TIME} until the next batch of Packs is refreshed
 
 [RECHARGEBUNDLE_CLOSE_TO_REFRESH]
-Please reopen the limited time gift pack interface to refresh
+Please reopen the limited time Pack interface to refresh
 
 [DRAGONROAR]
 Dragon Roaring Grass
@@ -41488,7 +41500,7 @@ Great value
 {PERCENT}%!
 
 [LOST_NETWORK_ACTIVE_TIME_PRE]
-Gift pack refresh:
+Pack refresh:
 
 [LOST_NETWORK_ACTIVE_OLD_COST_1]
 Original PRICE
@@ -41497,7 +41509,7 @@ Original PRICE
 Yuan
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
-{COST} yuan
+{COST} ¥
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL1]
 level 1 {PLANT}
@@ -42032,20 +42044,20 @@ Gold coins
 Return of Old Players Event
 
 [RECALL_OFFER_NETWORK_ERROR]
-Return Gift Pack Network Error
+Return Pack Network Error
 
 [RECALL_OFFER_CURRENT_NAME]
 Current piece: {NAME}
 
 [RECALL_OFFER_BANK_BUY]
-18 yuan
+18 ¥
 
 [RECALL_OFFER_BEAR_BUNDLE_BUY]
-128 yuan
+128 ¥
 
 [RECALL_OFFER_BEAR_BUY]
 Need to purchase any of the above
-Only gift packs can unlock bear fruit gift packs
+Only Packs can unlock bear fruit Packs
 
 [RECALL_AMOUNT_TEXT]
 Quantity: {NUMBER}
@@ -42069,10 +42081,10 @@ Are you sure you're going to pick this plant?
 Purple plant pieces 5 pick 1
 
 [RECALL_OFFER_BANK_SELECT_DESCRIPTION]
-The plants selected now determine that the corresponding plant pieces will be included in the subsequent gift pack
+The plants selected now determine that the corresponding plant pieces will be included in the subsequent Pack
 
 [RECALL_OFFER_BANK_SELECT_CONFIRM_1]
-The pieces now selected determine the subsequent gift pack
+The pieces now selected determine the subsequent Pack
 All are corresponding plant pieces
 
 [RECALL_OFFER_BANK_SELECT_CONFIRM_2]
@@ -42089,10 +42101,10 @@ Change Success
 Return Diamond Advance Pack
 
 [RECALL_OFFER_BUNDLE_2]
-Return Nutrient Liquid Gift Pack
+Return Nutrient Liquid Pack
 
 [RECALL_OFFER_BUNDLE_3]
-Return Companion Gift Pack
+Return Companion Pack
 
 [COLLECTABLE_AD_TITLE]
 Zombie ingots
@@ -42416,13 +42428,13 @@ Click on the mistletoe ice fairy and then click on a lattice to fire the ice she
 Recharge big rebate Costume the lottery and get it at will
 
 [STORE_PRODUCT_CHARGE_ACCUMULATE]
-Cumulative Recharge {NUM} yuan:
+Cumulative Recharge {NUM} ¥:
 
 [STORE_PRODUCT_CHARGECANAWARD]
-Recharge {NUM} yuan to receive
+Recharge {NUM} ¥ to receive
 
 [STORE_PRODUCT_ACTIVITY_DES]
-Activity content: During the activity, players who recharge to the corresponding amount can receive corresponding rewards. If the recharge reaches {NUM} yuan, they can also receive ^ff0000^ costume rewards! ^oldclr^
+Activity content: During the activity, players who recharge to the corresponding amount can receive corresponding rewards. If the recharge reaches {NUM} ¥, they can also receive ^ff0000^ costume rewards! ^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
 Only once to claim
@@ -44607,10 +44619,10 @@ Login days: {NUMBER} days
 The experience card time has expired. Do you want to buy this plant?
 
 [NEWER_PRESENT_FIRSTRECHARGE_TITLE]
-First Charge Gift Pack
+First Charge Pack
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-Make a single recharge of ^00FF00 2 yuan ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
+Make a single recharge of ^00FF00 2 ¥ ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
 
 [PLANT_SPECIAL_LEFT_TIME]
 Activity countdown: {TIME}
@@ -44622,73 +44634,73 @@ Activity countdown: {TIME}
 Kamikaze Artifact
 
 [ARTIFACT_PRESENT_NEW_TITLE]
-Artifact Gift Pack
+Artifact Pack
 
 [ARTIFACT_PRESENT_UNLOCK_TIP]
-Each type of gift pack has a certain number of limited purchases
+Each type of Pack has a certain number of limited purchases
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_DESC]
-Buy Artifact Gift Pack
+Buy Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC]
-Artifact Gift Pack
+Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_1]
-Kamikaze Artifact Gift Pack
+Kamikaze Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_2]
-Lightning Artifact Gift Pack
+Lightning Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_3]
-Artifact Enhancement Gift Pack 1
+Artifact Enhancement Pack 1
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_4]
-Artifact Enhancement Gift Pack 2
+Artifact Enhancement Pack 2
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_5]
-Artifact Enhancement Gift Pack 3
+Artifact Enhancement Pack 3
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_6]
-Octopus Artifact Gift Pack
+Octopus Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_8]
-Time Artifact Gift Pack
+Time Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_9]
-Sky Monkey Artifact Gift Pack
+Sky Monkey Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_10]
-UFO Artifact Gift Pack
+UFO Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_11]
-Prism Tower Artifact Gift Pack
+Prism Tower Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_12]
-Horn Artifact Gift Pack
+Horn Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_13]
-Black Hole Artifact Gift Pack
+Black Hole Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_14]
-Meteorite Artifact Gift Pack
+Meteorite Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_15]
-Magic Hat Artifact Gift Pack
+Magic Hat Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_16]
-Hive Artifact Gift Pack
+Hive Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_17]
-Artifact Gift Pack
+Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_18]
-Acid Artifact Gift Pack
+Acid Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_19]
-Snowmaking artifact gift pack
+Snowmaking artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_20]
-Silver Key Artifact Gift Pack
+Silver Key Artifact Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_21]
 Small Blessing Pack
@@ -44700,16 +44712,16 @@ Medium-sized Blessing Pack
 Large Blessing Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
-Poseidon Trident Artifact Gift Pack
+Poseidon Trident Artifact Pack
 
 [NEWER_PRESENT_NEW_TITLE]
-Newbie Gift Pack
+Newbie Pack
 
 [NEWER_PRESENT_UNLOCK_TIP]
-The next gift pack is unlocked after purchasing the previous one
+The next Pack is unlocked after purchasing the previous one
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_DESC]
-Buy Gift Pack
+Buy Pack
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_1]
 Newbie Happiness Gift
@@ -44733,25 +44745,25 @@ Champion's Return Gift
 Original Price: ¥198
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Purchase for 68 yuan
+Purchase for 68 ¥
 
 [STORE_CATEGORY_NAME_SECRET_STORE_DESC]
-Buy Gift Pack
+Buy Pack
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_1]
 Junior Bash Pack
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_2]
-Intermediate Carnival Gift Pack
+Intermediate Carnival Pack
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_3]
-Premium Bash Gift Pack
+Premium Bash Pack
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_4]
-Special Carnival Gift Pack
+Special Carnival Pack
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_5]
-Top carnival gift pack
+Top carnival Pack
 
 [SECRET_STORE_TITLE]
 Mystery Shop
@@ -44760,7 +44772,7 @@ Mystery Shop
 {TIME}
 
 [SECRET_STORE_END_LABEL]
-Events end only
+Refresh in 
 
 [DISCOUNT_SHOP_REFRESH_LABEL]
 Countdown to the prize pool refresh
@@ -44778,7 +44790,7 @@ Store Reset Countdown
 Available
 
 [SECRET_BUY_STR]
-{NUMBER} yuan
+{NUMBER} ¥
 
 [SECRET_BUY_STR_FREE]
 Free-of-charge
@@ -44787,10 +44799,10 @@ Free-of-charge
 Limited purchase {NUMBER} times
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_TITLE]
-Endless Recommended Gift Pack
+Endless Recommended Pack
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_DESC]
-Each gift pack can only be purchased once, and the clearance progress and purchase status will be refreshed every Thursday at 12:00
+Each Pack can only be purchased once, and the clearance progress and purchase status will be refreshed every Thursday at 12:00
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_PRICE_DESC_NUM]
 Pass the {NUMS} level to unlock
@@ -44817,34 +44829,34 @@ Pass level 50 is unlockable
 Pass level 60 is unlockable
 
 [DANGERROOM_SPECIAL_OFFER_TITLE]
-Endless Limited Time Gift Pack
+Endless Limited Time Pack
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600000]
-Endless Gift Pack 1
+Endless Pack 1
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600001]
-Endless Gift Pack 2
+Endless Pack 2
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600002]
-Endless Gift Pack 3
+Endless Pack 3
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600003]
-Endless Gift Pack 4
+Endless Pack 4
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600004]
-Endless Gift Pack 5
+Endless Pack 5
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600005]
-Endless Gift Pack 6
+Endless Pack 6
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600006]
-Endless Gift Pack 7
+Endless Pack 7
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Original price {NUMBER} yuan
+Original price {NUMBER} ¥
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-{NUMBER} yuan purchase
+{NUMBER} ¥ purchase
 
 [PLANT_SPECIAL_OFFER_TITLE]
 Plant Package Thanksgiving Pack
@@ -44866,10 +44878,10 @@ Plant Package
  
 
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_DESC]
-Buy Endless Gift Pack
+Buy Endless Pack
 
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
-Endless Gift Pack
+Endless Pack
 
 [PRODUCT_LION_DANCE_01]  
 Purchase Small Firecracker Pack  
@@ -44896,7 +44908,7 @@ Purchase Large Firecracker Pack
 Large Firecracker Pack  
 
 [PRODUCT_LION_DANCE_04_SHORTDESC]
-Large Christmas Stocking Gift Pack
+Large Christmas Stocking Pack
 
 [PLANT_OFFER_LABEL_NAME]
 Extra Send
@@ -44975,7 +44987,7 @@ Small Blessing Pack
 Purchase one Zongzi
 
 [STORE_CATEGORY_NAME_DUMPLING10_DESC]
-Purchase a small blessing gift package
+Purchase a small blessing Package
 
 [DUMPLING_NUM_DESC]
 Received Zongzi
@@ -45701,10 +45713,10 @@ Obtained ^FF0000 10 ^oldclr times
 Challenge Opportunities
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
-1 yuan
+1 ¥
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
-6 yuan
+6 ¥
 
 [MAT_ZMATCH_TICKET]
 Z-League Medal
@@ -45749,47 +45761,47 @@ Visit the vivo Game Center
 Vivo Game Center Privileges
 
 [PACKETS_DETAILS]
-Gift Pack Details
+Pack Details
 
 [LIMIT_LOTTERY_CONFIRM_TEXT_ONE]
-There are not enough lucky carousel single draw coupons. Is it confirmed that the {NUMBER} diamond will be exchanged for lucky carousel single draw coupons and open?
+Insufficient tickets, confirm spending {NUMBER} diamonds to exchange for a draw ticket and spin?
 
 [LIMIT_LOTTERY_CONFIRM_TEXT_TEN]
-There are not enough Lucky Roulette ten consecutive coupons. Is it confirmed that the cost of {NUMBER} diamonds can be exchanged for Lucky Roulette ten consecutive coupons and open?
+Insufficient tickets, confirm spending {NUMBER} diamonds to exchange for 10 draw ticket and spin?
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
-Buy ^FFFF00 6000 ^oldclr Gold Coin Free ^FFFF00 60 ^oldclr Purple Gold Coin
-Purple gold coins can be used in a limited time treasure hunt draw to draw ^ef7600 orange plant ^oldclr with trophy
+Purchase ^FFFF00 6000 ^oldclr coins to receive ^FFFF00 60 ^oldclr purple coins.
+Purple coins can be used for the limited-time treasure draw event to win ^ef7600 orange plants ^oldclr and trophies.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-Purchase ^ffff00 1 ^oldclr times for 6 yuan
+Purchase ^ffff00 1 ^oldclr times for 6 ¥
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-Purchase for 25 yuan^ffff00 5^oldclr times
+Purchase for 25 ¥^ffff00 5^oldclr times
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-Purchased for 328 yuan^ffff00 66^oldclr times
+Purchased for 328 ¥^ffff00 66^oldclr times
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD1_DESC]
-Buy a small purple gold coin gift pack
+Buy a small purple gold coin Pack
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD1_SHORT_DESC]
 Gold Coin X6000 Purple Gold Coin X60
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD2_DESC]
-Buy the Purple Gold Coin Gift Pack
+Buy the Purple Gold Coin Pack
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD2_SHORT_DESC]
 Gold coin X30000 Purple gold coin X300
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD3_DESC]
-Buy a super large gift pack of purple gold coins
+Buy a super large Pack of purple coins
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD3_SHORT_DESC]
 Gold coin X396000 Purple gold coin X3960
 
 [VIOLET_GOLD]
-Purple gold coins
+Purple coins
 
 [CONFIRM_TO_EXCHANGE1]
 Determine the cost {NUMBER} trophy
@@ -45803,10 +45815,10 @@ Redeem {ITEM} ?
 Trophy
 
 [EXCHANGE_FAILED_TEXT1]
-Redemption failed, you have redeemed the item.
+Exchange failed, you have already redeemed this item.
 
 [EXCHANGE_FAILED_TEXT2]
-Redemption failed, your trophies are insufficient.
+Exchange failed, you do not have enough trophies.
 
 [EXCHANGE_AVATAR_TIPS]
 Detecting that you already have the costume, do you continue to redeem? Continued redemption converts this costume to an equal amount ^ff0000 plant pieces ^oldclr .
@@ -45892,7 +45904,7 @@ Group buying instructions
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
 1. The group buy event starts at 9 AM on the day it begins and settles at 9 AM the next day. On the last day, the group buy settles at midnight.
 2. During the event, players purchase items at full price using diamonds to join the group buy. After the group buy countdown ends, diamonds will be refunded based on the discount!
-3. During the group buy period (when there is a group buy event entry), players will receive 10 Dave Coupons for every 1 yuan recharged. These coupons can be used to exchange for certain group buy plants. The group buy coupons are valid for the current event period and will be cleared after expiration.
+3. During the group buy period (when there is a group buy event entry), players will receive 10 Dave Coupons for every 1 ¥ recharged. These coupons can be used to exchange for certain group buy plants. The group buy coupons are valid for the current event period and will be cleared after expiration.
 4. Plants purchased in the group buy will be 3-star or 2-star plants. If the player already owns the same plant, it will be converted into plant pieces of the same level. Outfits will be converted into outfit pieces.
 
 [VOTE]
@@ -45962,7 +45974,7 @@ Fukuro Confirmation
 The lucky bag plants you selected are:
 
 [LUCKBAG_BUY]
-45 yuan to activate
+45 ¥ to activate
 
 [LUCKBAG_DESCRIPTION]
 Lucky bag instructions
@@ -46166,7 +46178,7 @@ Entering the top 3 of your leaderboard, you will be promoted to a more competiti
 Each edition of the Super Z-League starts at 15:00 pm on Friday, with all fixtures for 5 weeks and the 6th week as the settlement week. Ends at 09:00 am on Friday of Week 6. After the current event, the next event will all undergo a level reset.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-The player has a free key every day, and the countdown is turned on for 8 hours only after the number of free keys have been used, instead of giving you a free key every 8 hours. The free countdown stops if the player has spent diamonds or yuan on keys during this period. The free key countdown is only entered when the player's key count is 0.
+The player has a free key every day, and the countdown is turned on for 8 hours only after the number of free keys have been used, instead of giving you a free key every 8 hours. The free countdown stops if the player has spent diamonds or ¥ on keys during this period. The free key countdown is only entered when the player's key count is 0.
 
 [JOUST_LEAGUE_NAME_BRICK]
 Brick League
@@ -46602,7 +46614,7 @@ plants food releases an additional ghost ball.
 Payment Tips
 
 [PAY_CHECK_DIALOG_CONTENT]
-Your accumulated recharge has reached 1,000 yuan and requires real-name authentication !
+Your accumulated recharge has reached 1,000 ¥ and requires real-name authentication !
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hi, the basic guidance level has been skipped for you. The guidance rewards will be distributed to you later. Pay attention to check!
@@ -46677,7 +46689,7 @@ Pendant pieces
 Trophy
 
 [LIMITEDGACHA_LEGENDPLANTS_LEVEL2]
-2nd Level Orange Plant pieces
+2nd Orange Plant pieces
 
 [LIMITEDGACHA_LEGENDPLANTS]
 Orange plants
@@ -46695,7 +46707,7 @@ Purple plant pieces
 Blue plants
 
 [LIMITEDGACHA_BLUEPLANTS_PIECE]
-Blue plant puzzle
+Blue plant pieces
 
 [CHRISTMAS2018_LOTTERY_PIECE]
 Plant piece
@@ -47016,7 +47028,7 @@ Extinguish the torch in the zombie's hand 15 times at any level
 10 fusions of transgenic
 
 [ACCUMULATE_RECHARGE_REWARD]
-Cumulative {NUM} days, recharge 30 yuan daily to receive
+Cumulative {NUM} days, recharge 30 ¥ daily to receive
 
 [DAVE_TREASURE]
 Dave's Treasure
@@ -47037,20 +47049,19 @@ Premium
 number of treasure:
 
 [DAVE_DISPLAY_BANNER_1]
-^FFFF00 Premium Benefits ^oldclr  
-Purchase to directly receive the treasure-exclusive plant and activate premium treasure rewards
+^FFFF00 Premium Benefits ^oldclr
+Purchase to directly obtain the exclusive plant and activate premium treasure rewards
 
 [DAVE_DISPLAY_BANNER_2]
-^FFFF00 Treasure-exclusive Plant ^oldclr  
-Receive 1-tier exclusive plant X1
+^FFFF00 Exclusive Plant ^oldclr
+Get 1 level of the exclusive plant X1
 
 [DAVE_DISPLAY_BANNER_3]
-^FFFF00 Treasure-exclusive Plant Costume ^oldclr  
-Receive the treasure-exclusive plant costume X1 by obtaining 160 treasure clues
+^FFFF00 Exclusive Plant costume ^oldclr
+Get 160 treasure to claim the exclusive plant costume X1
 
 [DAVE_TREASURE_DESCRIPTION]
-For every recharge of ^FFFF00 1 ^oldclr yuan, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium benefits does not count)
-
+For every ^FFFF00 1 ^oldclr ¥, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium does not count)
 
 [DAVE_NORMAL_CHALLENGE]
 Free challenges
@@ -47068,7 +47079,7 @@ Purchase of senior interests
 Premium Treasure Rewards Permissions and Qualified Plants
 
 [MAT_LIMITLOTTERY_CRYSTAL]
-Purple gold coins
+Purple coins
 
 [MAT_LIMITLOTTERY_CUP]
 Limited Time Treasure Hunt Trophy
@@ -47092,13 +47103,13 @@ Advanced Guide Rewards Permissions
 Exchange vouchers
 
 [MAT_CARNIVAL_TICKET_USE]
-Buy value gift packs at Carnival events
+Buy value Packs at Carnival events
 
 [MAT_CARNIVAL_TICKET_GOT_WAY]
 Purchase Gain
 
 [DAILY_ALREADY_LOGIN]
-Accumulated logins.
+Total logins: ^3AAD14 ^oldclr
 
 [DAVE_TREASURE_CHECK_PRIVILEGE]
 Please check if there are privileges or refresh the active interface
@@ -47153,7 +47164,7 @@ Diamond*200 2.50% Diamond*50 13.00%
 Dragon Treasure House Activity Description
 
 [ACTIVITY_DRAGONT_REASURE_SHORT_DESCRIPTION]
-During the event, players can receive gift pack props and dragon crystals when purchasing gift packs, and receive extra number points, which can be redeemed at the store for props, and dragon crystals are used in treasure house draws
+During the event, players can receive Pack props and dragon crystals when purchasing Packs, and receive extra number points, which can be redeemed at the store for props, and dragon crystals are used in treasure house draws
 
 [DRAGON_TREASURE]
 Dragon Treasure House
@@ -47171,19 +47182,19 @@ Points Redemption
 Dragon Treasure House Props Expiration Settlement
 
 [PRODUCT_DRAGON_TREASURE_45_SHORTDESC]
-Limited time Longjing gift pack one
+Limited time Longjing Pack one
 
 [PRODUCT_DRAGON_TREASURE_68_SHORTDESC]
-Limited Time Dragon Crystal Gift Pack Two
+Limited Time Dragon Crystal Pack Two
 
 [PRODUCT_DRAGON_TREASURE_30_SHORTDESC]
-Junior Dragon Crystal Gift Pack
+Junior Dragon Crystal Pack
 
 [PRODUCT_DRAGON_TREASURE_60_SHORTDESC]
-Intermediate Dragon Crystal Gift Pack
+Intermediate Dragon Crystal Pack
 
 [PRODUCT_DRAGON_TREASURE_128_SHORTDESC]
-Premium Dragon Crystal Gift Pack
+Premium Dragon Crystal Pack
  
 Here is the translation of the provided text:
 
@@ -47343,13 +47354,13 @@ Released 50 ultimate moves in Penny Chase
 Travel Log
 
 [TRAVEL_LOG_DAILY_TASK]
-Daily Missions
+Daily tasks
 
 [TRAVEL_LOG_WEEKLY_TASK]
 Special Events
 
 [TRAVEL_LOG_WORLD_TASK]
-World Mission
+World task
 
 [TRAVEL_LOG_PROGRASS]
 Progress
@@ -48108,17 +48119,17 @@ Unknown activity error. Please check your network connection or reopen the activ
 Vase breaker Instructions
 
 [HAPPY_VASE_BREAKER_DESCRIPTION]
-Activity content:
-1. The player receives a bonus for smashing open the gold vase by the smashing vase hammer he owns.
-2. When the remaining gold vase, the number is zero, the reward can be reset, otherwise it will need to consume the can smashing hammer to reset, and the reward card pool will be randomly selected from the reward when reset (there is a probability of resetting to the current card pool)
-3. Smashing the hammer can be obtained through daily tasks, daily recharge, and cumulative recharge within the event page.
-4. Daily tasks and daily recharges are reset daily.
-5. The number of can smashing hammers consumed per can smash is inconsistent. The remaining can-smashing hammers in each issue are emptied.
-6. If the player already owns the plants in the gold vase, the reward is converted into 10 plant pieces, and 15 Costume pieces are given if they own the Costume in the gold jar.
-7. Each event has a first-class plant jackpot, which will not appear again in this event after the player has smashed the jackpot plant.
- 
-Announcement of the probability of breaking the vase
-First Class Rewards: 2.06% Second Class Rewards: 6.18% Third Class Rewards: 9.36% Fourth Class Rewards: 26.22% Fifth Class Rewards: 56.18%
+1. Players use their Hammer to break vase and receive a reward.
+2. When there are no remaining vase, rewards will reset. Otherwise, a Hammer is needed to reset, and the rewards are randomly selected (with a chance to reset to the current pool).
+3. Hammers can be obtained through daily tasks, daily recharge, and cumulative recharge in the event page.
+4. Daily tasks and daily recharge reset every day.
+5. The number of Hammers used per attempt varies. Remaining Hammers are reset at the end of each round.
+6. If a player already has the plant in the vase, the reward is converted into 10 piece. If they have the costume, they receive 15 piece.
+7. Each event has a grand prize plant. After obtaining the grand prize plant, it will not appear again in the current event.
+
+Vase Probability:
+1st Prize: 2.06%  2nd Prize: 6.18%  3rd Prize: 9.36%  4th Prize: 26.22%  5th Prize: 56.18%
+
 
 [HAPPY_VASE_BREAKER_HAMMER_CONFIRM]
 Use {NUM} Hammer to break the vase ? 
@@ -48190,7 +48201,7 @@ Smash golden eggs
 Golden Egg Mission
 
 [FESTIVAL_GOLDENEGG_BUNDLE]
-Hammer Gift Pack
+Hammer Pack
 
 [FESTIVAL_GOLDENEGG_HAMMER_NUM]
 Hammer currently in possession
@@ -48209,7 +48220,7 @@ Activity content:
 1. The player selects the level of the egg, and after selecting the egg-in-egg jackpot for that level, one bonus is awarded for each egg smashed open through the egg-smashing hammer he has.
 2. When the player smashes their chosen grand prize, they can choose the next level of eggs. When the golden egg of the highest level is reached, after smashing the grand prize inside the golden egg, the reward for the golden egg of the highest level can be reset, and the player re-selects the grand prize.
 3. Players can choose to move to the next level of eggs after smashing the optional grand prize in the current level of eggs, or continue smashing eggs in the current level until the number of eggs is emptied.
-4. Egg-smashing hammers can be obtained by purchasing gift packs through daily tasks within the event page.
+4. Egg-smashing hammers can be obtained by purchasing Packs through daily tasks within the event page.
 5. Daily tasks and daily recharges are reset daily.
 6. Egg smashing consumes an increasing number of egg smashing hammers, with varying numbers of hammers required per layer.
 7. The remaining egg-smashing hammers in each issue are emptied.
@@ -48241,7 +48252,7 @@ Clear a DIY level once a day.
 Daily collection and release of an expedition
 
 [ARBORDAY]
-Time and Space Treasure Search
+Arborday
 
 [GROWING_TASK]
 Charging Tasks
@@ -48253,16 +48264,16 @@ Battery package
 Progress Rewards
 
 [ARBORDAY_PLAYER_PROGRESS_DESC]
-Personal progress: ^FFFF00 {NUMS} ^oldclr times
+Personal progress: ^FFFF00 {NUMS} ^oldclr /
 
 [ARBORDAY_SERVER_PROGRESS_DESC]
-Server-wide progress: ^FFFF00 {NUMS} ^oldclr times
+Server-side progress: ^FFFF00 {NUMS} ^oldclr times
 
 [ARBORDAY_PRESENT_PRICE_DESC]
 {NUMS}
 
 [ARBORDAY_BUY_BUNDLE_CONFIRM]
-Confirm the cost {NUM} diamond purchase gift pack?
+Confirm the cost {NUM} diamond purchase Pack?
 
 [ARBORDAY_GEM_NOT_ENOUGH]
 Diamonds are insufficient
@@ -48412,10 +48423,10 @@ Roll dice (draw steps) 8 times in the "Grand Theater of Literature and Art" even
 Trees planted: ^FFFF00 {NUM} ^oldclr trees
 
 [ARBORDAY_PROCESS]
-Server-wide progress: ^FFFF00 {NUM} ^oldclr times
+server-side progress: ^FFFF00 {NUM} ^oldclr times
 
 [ARBORDAY_TOTAL_SERVER_BUY_REWARD_TIPS]
-Tip: You need to charge at least 10 times to claim the server-wide progress reward~
+Tip: To claim server-side progress, you need to charge at least 10 times~
 
 [ARBORDAY_NEXT_HARVEST]
 Need ^FFFF00 {NUM} ^oldclr more charges until the next harvest
@@ -48460,46 +48471,46 @@ Secret Realm Treasure Search
 Event Details:
 1. Every three batteries consumed will open a treasure chest once, rewarding a large amount of plant fragments, diamonds, coins, and other prizes. The available rewards are: ^FF8000^Artifact Voucher, Zombie Pod, Crazy Hat Mushroom^oldclr^ ^8600FF^Nightshade, Missile Toe^oldclr^ ^2828FF^Primal Wall-nut, Asparagus, Caulipower^oldclr^ ^82D900^Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclr^
 2. Batteries can be obtained through charging tasks or by purchasing diamond packs.
-3. Every battery consumed will accumulate both personal and server-wide charging progress. Rewards can be claimed based on individual and server-wide progress!
+3. Every battery consumed will accumulate both personal and server-side charging progress. Rewards can be claimed based on individual and server-side progress!
 
 [NEWYEAR_GOODS_SHORT_DESCRIPTION]
-Participate in the super optional event and buy a great value optional gift pack
+Participate in the super optional event and buy a great value optional Pack
 
 [NEWYEAR_GOODS_DESCRIPTION_TITLE]
 Super Optional Event Description
 
 [NEWYEAR_GOODS_DESCRIPTION]
 Activity rules:
-1. Many items are preset in the gift box, and players can choose a number of rewards to put into the field. The corresponding item can be obtained after purchasing the gift pack with the selected content.
-2. Each gift package is limited to one purchase per day.
-3. There are 6 levels in the gift package, each level contains different contents.
+1. Many items are preset in the gift box, and players can choose a number of rewards to put into the field. The corresponding item can be obtained after purchasing the Pack with the selected content.
+2. Each Package is limited to one purchase per day.
+3. There are 6 levels in the Package, each level contains different contents.
 
 [PRODUCT_NEWYEARGOODS_6_SHORTDESC]
-Super Option Trumpet Gift Pack
+Super Option Trumpet Pack
 
 [PRODUCT_NEWYEARGOODS_30_SHORTDESC]
-Super Selectable Gift Pack
+Super Selectable Pack
 
 [PRODUCT_NEWYEARGOODS_68_SHORTDESC]
-Super Option Large Gift Pack
+Super Option Large Pack
 
 [PRODUCT_NEWYEARGOODS_128_SHORTDESC]
-Super Option Extra Large Gift Pack
+Super Option Extra Large Pack
 
 [PRODUCT_NEWYEARGOODS_328_SHORTDESC]
-Super-optional huge gift pack
+Super-optional huge Pack
 
 [PRODUCT_NEWYEARGOODS_648_SHORTDESC]
-Super Option Super Big Gift Pack
+Super Option Super Big Pack
 
 [NEWYEAR_GOODS]
 Super-optional
 
 [NEWYEAR_GOODS_BUNDLE]
-{NUM} yuan optional gift pack
+{NUM} ¥ optional Pack
 
 [NEWYEAR_GOODS_SELECTED]
-Selected Gift Pack Content
+Selected Pack Content
 
 [NEWYEAR_GOODS_NOT_SELECT_ALL]
 Choose every location!
@@ -48511,7 +48522,7 @@ Genogenous
 Used to distill gene sequences in gene editing
 
 [MAT_GENE_FACTOR_GOT_WAY]
-Purchase a gene gift pack, a two-player duel rank reward
+Purchase a gene Pack, a two-player duel rank reward
 
 [MAT_UNIVERAL_GENE_SEQUENCE]
 Universal Genetic Coin
@@ -48520,7 +48531,7 @@ Universal Genetic Coin
 Used to redeem in gene-edited gene sequence stores
 
 [MAT_UNIVERAL_GENE_SEQUENCE_GOT_WAY]
-Buy Genetic Gift Pack
+Buy Genetic Pack
 
 [GENE_SEQUENCE]
 Gene Sequence
@@ -48529,7 +48540,6 @@ Gene Sequence
 Gene Essence
 
 [GENE_SEQUENCE_GROUP]
-Group
 
 [NOT_YET_UNLOCKED]
 Not Yet Unlocked
@@ -48660,7 +48670,7 @@ Gene Sequence Shop Rules:
 Genetic primacy and universal gene coin acquisition pathways:
 1. Each player is initially given 10 genetic primitives.
 2. Genogenous primality is available through rank rewards in duels.
-3. Genetic Primacy and Universal Genetic Coins are available through the purchase of gene gift packs and other paid gift packs.
+3. Genetic Primacy and Universal Genetic Coins are available through the purchase of gene Packs and other paid Packs.
 
 [GENE_HOWTOPLAY_1_DESCRIPTION]
 Plant gene editing can provide additional bonus effects to plants, making them more powerful and better guarding their homes against zombies!
@@ -48672,71 +48682,71 @@ The consumed gene primates are processed in a gene refiner to obtain random gene
 Gene essence is used to upgrade the gene sequence level of this plant, and the bonus value will also be increased after the level is upgraded, with a full level of 10.
 
 [GENE_HOWTOPLAY_4_DESCRIPTION]
-Get the Gene Essence again when you reach full level and buy the Gene Editing Gift Pack to get the Universal Gene Coin, and you can buy your favorite gene sequence directly in the store.
+Get the Gene Essence again when you reach full level and buy the Gene Editing Pack to get the Universal Gene Coin, and you can buy your favorite gene sequence directly in the store.
 
 [GENE_FACTOR_SHOP]
-Buy Genetic Gift Pack
+Buy Genetic Pack
 
 [GENE_FACTOR_BUNDLE1]
-Small Genetic Gift Pack
+Genetic Pack
 
 [GENE_FACTOR_BUNDLE1_DES]
-30 universal gene coins
-^FF0000^Another 2 gene prototypes will be given^oldclr^
+30 universal gene
+and ^FF0000 2
 
 [PRODUCT_GENEFACTOR_6_SHORTDESC]
-Small Genetic Gift Pack
+Genetic Pack
 
 [GENE_FACTOR_BUNDLE2]
-Large Genetic Gift Pack
+Big Genetic Pack
 
 [GENE_FACTOR_BUNDLE2_DES]
-160 universal gene coins
-^FF0000^Another 10 genetic prototypes will be sent^oldclr^
+160 universal gene
+and ^FF0000 10
 
 [PRODUCT_GENEFACTOR_30_SHORTDESC]
-Large Genetic Gift Pack
+Large Genetic Pack
 
 [GENE_FACTOR_BUNDLE3]
-Small Box Gene Gift Pack
+Small Box Gene Pack
 
 [GENE_FACTOR_BUNDLE3_DES]
-390 universal gene coins
-^FF0000^Another 25 gene prototypes will be sent^oldclr^
+390 universal gene
+and ^FF0000 25
 
 [PRODUCT_GENEFACTOR_68_SHORTDESC]
-Small Box Gene Gift Pack
+Small box Gene Pack
 
 [GENE_FACTOR_BUNDLE4]
-Big Box Gene Gift Pack
+Big Box Gene Pack
 
 [GENE_FACTOR_BUNDLE4_DES]
-760 universal gene coins
-^FF0000^Another 50 genetic prototypes will be sent^oldclr^
+760 universal gene
+and ^FF0000 50
 
 [PRODUCT_GENEFACTOR_128_SHORTDESC]
-Big Box Gene Gift Pack
+Big Box Gene Pack
 
 [GENE_SEQUENCE_SHOP]
-Genes Sequence Shop
+Genes Shop
 
 [NEW_ADDITION_GENE]
-Added gene sequence
+New gene
 
 [WHITE]
-White-
+White
 
 [GREEN]
-Green-
+Green
 
 [BLUE]
-Blue-
+Blue
 
 [PURPLE]
-Purple-
+Purple
 
 [ORANGE]
-Orange-
+Orange
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 Gene Sequence Level: {PARAM}
@@ -49100,10 +49110,10 @@ Choose one from the following piece rewards!
 Confirm to choose this reward
 
 [BATTLE_ORDER_NORMAL_PREVIEW]
-{NUM} level ordinary reward preview
+Level {NUM} Reward
 
 [BATTLE_ORDER_PRIVILEGE_PREVIEW]
-{NUM} level advanced reward preview
+Level {NUM} Reward
 
 [DRAW_ONCE]
 Draw once
@@ -49148,7 +49158,8 @@ Super Pendant pieces Choose One of Five
 At least a {NUM} piece reward is available
 
 [GOTO_ACTIVITY]
-Enter activities
+Enter
+
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_AUTUMN]
 Golden Autumn Outing Event Description
@@ -49595,19 +49606,19 @@ Difficulty 3
 Difficulty 4
 
 [GROWTH_PACKAGE_BUNDLE]
-Limited Time Growth Gift Pack
+Limited Time Growth Pack
 
 [GROWTH_PACKAGE_LIMIT]
-There will be different growth gift packs every day, limited to 1 purchase per model per day
+There will be different growth Packs every day, limited to 1 purchase per model per day
 
 [GROWTH_PACKAGE_DISCOUNT]
-Special Growth Gift Pack
+Special Growth Pack
 
 [GROWTH_PACKAGE_EFFECTIVE]
-Great Value Growth Gift Pack
+Great Value Growth Pack
 
 [GROWTH_PACKAGE_ADVANCE]
-Advanced Growth Gift Pack
+Advanced Growth Pack
 
 [GROWTH_PACKAGE_DESCRIPTION_TITLE]
 Growth Pack Description
@@ -49617,7 +49628,7 @@ Activity content:
  
 1. Every three times you pour water, you can bear fruit and get a large number of plant pieces, diamonds, gold coins and other rewards. List of plants you can get: ^FF8000^Mad Hat Mushroom Trumpet Flower Bowling Bubble^oldclr^ ^8600FF^Crystal Orchid Dandelion^oldclr^ ^2828FF^Qianjin Vine Passion Lotus Engineer Lurking Celery^oldclr^^82D900^UFO Melon Machine Gun Pomegranate Sweet Potato^oldclr^
  
-2. The kettle is available through the growth quest, as well as the diamond gift pack.
+2. The kettle is available through the growth quest, as well as the diamond Pack.
  
 3. Each watering will accumulate the watering progress of the individual and the whole server, and you can receive rewards according to the individual progress and the whole server progress!
 
@@ -49631,13 +49642,13 @@ Summon once
 Summon ten times
 
 [CALL_OF_WISH_BUY_TIPS_1]
-Get more discounts with your gift pack!
+Get more discounts with your Pack!
 
 [CALL_OF_WISH_BUY_TIPS_2]
-During the event, special gift packs can be purchased up to three times.
+During the event, special Packs can be purchased up to three times.
 
 [CALL_OF_WISH_BUY_TIPS_3]
-All gift packs can only be purchased once a day!
+All Packs can only be purchased once a day!
 
 [CALL_OF_WISH_DESCRIPTION_TITLE]
 Wish Call Instructions
@@ -49647,7 +49658,7 @@ Activity content:
 1. The player can choose a wish plant, which is added to the wishing pool by the chosen plant.
 2.  the wish plant is not selected at the time of summoning, the selected plant will be the main plant of the current period by default.
 3. Players use diamonds or single draw coupons to summon wish plants, giving priority to single draw coupons when summoning.
-4. Single draw coupons can be obtained by purchasing gift packs or doing tasks.
+4. Single draw coupons can be obtained by purchasing Packs or doing tasks.
 5. ten single draw coupons for ten consecutive summons.
 
 [CALL_OF_WISH_SELECT_PLANT_TITLE]
@@ -49768,7 +49779,7 @@ Gluttonous Snapdragon *10
 Wishing pool
 
 [WISHING_POOL_TAB2]
-Special Gift Pack
+Special Pack
 
 [WISHING_POOL_TAB3]
 Cumulative Rewards
@@ -49779,7 +49790,7 @@ Need to select all the bubble rewards
 
 [WISHING_POOL_DESCRIPTION_1_VERSION1]
 Activity Rules:
-1. Buy gift packs to obtain Wish Coins, valid only for the current event.
+1. Buy Packs to obtain Wish Coins, valid only for the current event.
 2. The Wishing Pool has 9 bubbles, each with 3 possible rewards. Default reward if no selection.
 3. Once a reward is drawn from a bubble, it won't appear in the same round.
 4. Reset to refill bubbles with default rewards, which can be changed.
@@ -49810,7 +49821,7 @@ Activity Rules:
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
 Activity Rules:
-1. Buy gift packs to obtain Wish Coins, valid only for the current event.
+1. Buy Packs to obtain Wish Coins, valid only for the current event.
 2. The Wishing Pool has 9 bubbles, each with 3 possible rewards. Default reward if no selection.
 3. Once a reward is drawn from a bubble, it won't appear in the same round.
 4. Reset to refill bubbles with default rewards, which can be changed.
@@ -49863,7 +49874,7 @@ Bubble Rewards
 For Lucky Wishing Pool Draw
 
 [MAT_WISHING_COIN_GOT_WAY]
-Lucky Wishing Pool Gift Pack
+Lucky Wishing Pool Pack
 
 [THE_MATERIAL_NOT_ENOUGH]
 {NAME} is insufficient
@@ -49913,7 +49924,7 @@ Corn rolls
 Ingredient Tasks
 
 [DAVE_KITCHEN_TAB3]
-Ingredients Gift Pack
+Ingredients Pack
 
 [DAVEKITCHEN_EXCHANGE_1]
 Big Mac Corn Rolls: You can get Monoceros pieces, orienteering pieces or advanced books
@@ -49973,7 +49984,7 @@ Return Mission
 Return to sun Points
 
 [GIFT_RETURN_TAB_3]
-Return Gift Pack
+Return Pack
 
 [GIFT_RETURN_UPDATE_NEWS]
 Update Express
@@ -50161,7 +50172,7 @@ Take part in the plant breeding program, rare plant pieces are waiting for you t
 The selected plants of order 5 were only trial plants and disappeared after the event.
 
 [PLANT_CALLOFWISH_SHORT_DESCRIPTION]
-Participate in wish activities, grab purchase restriction gift packs, summon and cultivate rebates, wish plants are waiting for you! 
+Participate in wish activities, grab purchase restriction Packs, summon and cultivate rebates, wish plants are waiting for you! 
 
 [PLANT_CULTIVATE_GEM_EXCHANGE]
 Determine the cost {NUM} diamond unlocking cultivation progress?
@@ -50173,7 +50184,7 @@ Growth value
 Nurturing tasks
 
 [PRODUCT_PLANT_CULTIVATE_20_SHORTDESC]
-Plant Cultivation Limited Time Gift Pack
+Plant Cultivation Limited Time Pack
 
 [TASK_TIME_COUNTDOWN]
 Countdown to end of mission
@@ -50182,7 +50193,7 @@ Countdown to end of mission
 available: {NAME} piecex{NUM}
 
 [PLANT_CULTIVATE_BUNDLE_PRICE]
-Purchase for 20 yuan
+Purchase for 20 ¥
 
 [PLANT_CULTIVATE_BUNDLE_LIMIT]
 Remaining purchases: ^FF0000^{NUM}^oldclr^
@@ -50279,8 +50290,8 @@ Super Monthly Card rewards firecrackers daily
 [FIGHT_ZODIAC_REWARD_FREE]  
 Free firecracker pickup every day  
 
-[GACHA_TIME_COUNT_DOWN]  
-Gift Pack Refresh Countdown  
+[GACHA_TIME_COUNT_DOWN]
+Pack Refresh Countdown
 
 [PENNY_CHASE]  
 Penny's Pursuit  
@@ -50295,8 +50306,8 @@ New Year Gift Event Description
 Event Details:  
 1. Players consume firecrackers to earn gift points from Dave. Each firecracker consumed grants one reward.  
 2. Consuming firecrackers has a chance to double the points.  
-3. When the points reach a certain amount, the gift pack displayed in the top right is unlocked.  
-4. The remaining points required for the next gift pack will be shown above Dave's head.  
+3. When the points reach a certain amount, the Pack displayed in the top right is unlocked.  
+4. The remaining points required for the next Pack will be shown above Dave's head.  
 5. After receiving a gift, the pack will automatically reset.  
 6. Plant fragment probability distribution: Orange Plant Fragments: 10%; Purple Plant Fragments: 35%; Blue Plant Fragments: 45%; Mysterious Crystal: 10%  
 
@@ -50304,16 +50315,16 @@ Event Details:
 Time-limited Summons
 
 [PRODUCT_LIMITED_SUMMON_6_SHORTDESC]
-Primary Summoning Gift Pack
+Primary Summoning Pack
 
 [PRODUCT_LIMITED_SUMMON_30_SHORTDESC]
-Intermediate Summoning Gift Pack
+Intermediate Summoning Pack
 
 [PRODUCT_LIMITED_SUMMON_98_SHORTDESC]
-Premium Summoning Gift Pack
+Premium Summoning Pack
 
 [PRODUCT_LIMITED_SUMMON_328_SHORTDESC]
-Super Summon Gift Pack
+Super Summon Pack
 
 [PRODUCT_LIMITED_SUMMON_VIP_SHORTDESC]
 VIP Privileges
@@ -50466,7 +50477,7 @@ Limited-time Summoning Voucher
 Used to summon plants in a time-limited summon
 
 [MAT_LIMITED_SUMMON_TICKET_GOT_WAY]
-Get VIP benefits or gift packs in limited time summons
+Get VIP benefits or Packs in limited time summons
 
 [MAT_GENERAL_PLANT_CHIPS]
 Oriented plant pieces
@@ -50523,7 +50534,7 @@ Time-limited summon instructions
 Activity content:
 1. Players can summon using a limited-time summon coupon.
 2. A new plant must come out within twenty summons (including twenty).
-3. Limited-time summoning coupons can be obtained by purchasing gift packs and VIPs.
+3. Limited-time summoning coupons can be obtained by purchasing Packs and VIPs.
 4. Ten limited-time summoning coupons can be accumulated for ten consecutive summons.
  
 About VIP Description:
@@ -50546,7 +50557,7 @@ The ranking of the leaderboard is the same number of summons, and the tie situat
 The corresponding ranking avatar is obtained when the overall ranking is settled.
 
 [LIMITED_SUMMON_SHORT_DESCRIPTION]
-Participate in the limited-time summons, purchase discount gift packs, and return gifts the cumulative number of times. Summon a certain number of times to get the theme plant
+Participate in the limited-time summons, purchase discount Packs, and return gifts the cumulative number of times. Summon a certain number of times to get the theme plant
 
 [POSSIBLE_REWARDS]
 Possible rewards
@@ -50591,7 +50602,7 @@ Buy Big Bag Redemption Vouchers
 Big Bag Redemption Vouchers
 
 [PVP_ERROR_75021]
-Insufficient gift pack stock
+Insufficient Pack stock
 
 [PVP_ERROR_75505]
 Cannot purchase repeatedly
@@ -50612,49 +50623,49 @@ Design table configuration error
 Exceeded purchase limit
 
 [PVP_ERROR_75024]
-You did not purchase a gift pack at the event and cannot receive the cumulative gift pack rewards for the entire server!
+You did not purchase a Pack at the event and cannot receive the cumulative Pack rewards for the entire server!
 
 [PVP_ERROR_75025]
-The gift pack has expired, please refresh the interface
+The Pack has expired, please refresh the interface
 
 [BUNDLE_OUT_OF_TIME]
-Gift pack expired
+Pack expired
 
 [CARNIVAL_DESCRIPTION_TITLE]
 Carnival Event Description
 
 [CARNIVAL_DESCRIPTION_1]
 Activity rules:
-1. A variety of gift packages will be refreshed every day, and you can purchase redemption coupons to redeem them；
-2. Every time you purchase a gift pack, in addition to the fixed product content, you will receive additional probability output and receive more prizes and diamonds. Click in the upper right corner of the gift pack? Button to see details；
-3. During the event, the flash sale gift pack rush event will be launched from 20:00 to 22:00 every day:
-A. Special gift package: Get the special gift package at a great discount, limited to 1,000 copies, and each person is limited to purchasing 1 copy；
-B. Lucky bag gift pack: After purchasing the gift pack, you can randomly get a gift pack that is on sale on the same day. Limited to 10000 copies, limited to 1 copy per person；
-4. Click the flash sale preview function to view the content of the next flash sale gift pack；
-5. If you purchase multiple gift packages in total, you can unlock personal progress rewards. The more times you purchase gift packages, the richer the rewards will be；
-6. Purchase gift packs to accumulate server-wide progress and unlock server-wide progress rewards. You need to purchase the gift pack at least once to receive the full server progress reward；
-7. When you purchase a gift package and obtain a large amount of additional output, you will have the opportunity to use the marquee display function of the entire server to share your good luck with everyone；
+1. A variety of Packages will be refreshed every day, and you can purchase redemption coupons to redeem them；
+2. Every time you purchase a Pack, in addition to the fixed product content, you will receive additional probability output and receive more prizes and diamonds. Click in the upper right corner of the Pack? Button to see details；
+3. During the event, the flash sale Pack rush event will be launched from 20:00 to 22:00 every day:
+A. Special Package: Get the special Package at a great discount, limited to 1,000 copies, and each person is limited to purchasing 1 copy；
+B. Lucky bag Pack: After purchasing the Pack, you can randomly get a Pack that is on sale on the same day. Limited to 10000 copies, limited to 1 copy per person；
+4. Click the flash sale preview function to view the content of the next flash sale Pack；
+5. If you purchase multiple Packages in total, you can unlock personal progress rewards. The more times you purchase Packages, the richer the rewards will be；
+6. Purchase Packs to accumulate server-side progress and unlock server-side progress rewards. You need to purchase the Pack at least once to receive the full server progress reward；
+7. When you purchase a Package and obtain a large amount of additional output, you will have the opportunity to use the marquee display function of the entire server to share your good luck with everyone；
 8. Click the + button on the right side of the redemption coupon to go to the recharge page. Unconsumed redemption coupons in the current period can be retained for subsequent carnival activities；
 
 [CARNIVAL_DESCRIPTION_2]
-9. The contents of each gift package are as follows:
-A. Preferred orange plant gift pack: Purchase the gift pack to get ^FF0000^ plant pieces*10^oldclr^ and 10-675 diamonds, with a 25% probability of getting plant pieces*30；
-B. Orange plant gift package: Purchase the gift package to get ^FF0000^ plant pieces*10^oldclr^ and 10-450 diamonds, with a 25% probability of getting plant pieces*30；
-C. Purple plant gift package: Purchase the gift package to get ^FF0000^ plant pieces*10^oldclr^ and 10-270 diamonds, with a 20% probability of getting plant pieces*30；
-D. Oriented plant piece gift pack: Purchase the gift pack to get ^FF0000^ Oriented plant piece*10^oldclr^ and 10-900 diamonds, with a 15% probability of getting universal piece*30；
-E. Pendant gift package: Purchase the gift package to get ^FF0000^ time and space dust*150^oldclr^ and 10-450 diamonds, with a 30% probability of getting purple glove pieces*15；
-F. Dave penny ticket Coupon Gift Pack: Purchase the gift pack to get ^FF0000^ penny ticket Coupon*8^oldclr^ and 10-1500 diamonds, with a 15% probability of getting penny ticket Coupon*22；
-G. Nutrient solution gift pack: Purchase the gift pack to get ^FF0000^ orange nutrient solution*10^oldclr^ and 10-450 diamonds, with a 20% probability of getting the advanced book*1；
-H. Diamond gift package: Purchase the gift package to get ^FF0000^ diamond*300^oldclr^ and 10-450 diamonds, with a 35% probability of getting diamond*1000；
-I. Gold coin gift package: Purchase the gift package to get ^FF0000^ gold coins*450000^oldclr^ and 10-450 diamonds, with a 50% probability of getting gold coins*750000；
-J. Flash sale gift package: Purchase the gift package to get ^FF0000^ plant pieces*10^oldclr^ and 10-1000 diamonds, with a 25% probability of getting plant pieces*30；
-K. Artifact material gift pack: Purchase the gift pack to get ^FF0000^ space-time energy tank*20^oldclr^ and 10-180 diamonds, with a 35% probability of getting space-time cubic*10；
+9. The contents of each Package are as follows:
+A. Preferred orange plant Pack: Purchase the Pack to get ^FF0000^ plant pieces*10^oldclr^ and 10-675 diamonds, with a 25% probability of getting plant pieces*30；
+B. Orange plant Package: Purchase the Package to get ^FF0000^ plant pieces*10^oldclr^ and 10-450 diamonds, with a 25% probability of getting plant pieces*30；
+C. Purple plant Package: Purchase the Package to get ^FF0000^ plant pieces*10^oldclr^ and 10-270 diamonds, with a 20% probability of getting plant pieces*30；
+D. Oriented plant piece Pack: Purchase the Pack to get ^FF0000^ Oriented plant piece*10^oldclr^ and 10-900 diamonds, with a 15% probability of getting universal piece*30；
+E. Pendant Package: Purchase the Package to get ^FF0000^ time and space dust*150^oldclr^ and 10-450 diamonds, with a 30% probability of getting purple glove pieces*15；
+F. Dave penny ticket Coupon Pack: Purchase the Pack to get ^FF0000^ penny ticket Coupon*8^oldclr^ and 10-1500 diamonds, with a 15% probability of getting penny ticket Coupon*22；
+G. Nutrient solution Pack: Purchase the Pack to get ^FF0000^ orange nutrient solution*10^oldclr^ and 10-450 diamonds, with a 20% probability of getting the advanced book*1；
+H. Diamond Package: Purchase the Package to get ^FF0000^ diamond*300^oldclr^ and 10-450 diamonds, with a 35% probability of getting diamond*1000；
+I. Gold coin Package: Purchase the Package to get ^FF0000^ gold coins*450000^oldclr^ and 10-450 diamonds, with a 50% probability of getting gold coins*750000；
+J. Flash sale Package: Purchase the Package to get ^FF0000^ plant pieces*10^oldclr^ and 10-1000 diamonds, with a 25% probability of getting plant pieces*30；
+K. Artifact material Pack: Purchase the Pack to get ^FF0000^ space-time energy tank*20^oldclr^ and 10-180 diamonds, with a 35% probability of getting space-time cubic*10；
 
 [CARNIVAL]
 Carnival
 
 [CARNIVAL_SHORT_DESCRIPTION]
-Participate in the carnival, buy redemption coupons, redeem value gift packs, and get surprise rewards!
+Participate in the carnival, buy redemption coupons, redeem value Packs, and get surprise rewards!
 
 [LIMIT_GIFT]
 Limited-time courtesy
@@ -50663,7 +50674,7 @@ Limited-time courtesy
 Accumulate good gifts
 
 [DAILY_GIFT_REFRESH]
-Daily gift pack refresh
+Daily Pack refresh
 
 [NEXT_FLASH_SALE]
 Distance to the next flash sale
@@ -50691,13 +50702,13 @@ Goods sold out
 
 [GET_RANDOM_BUNDLE_OFFER]
 Randomly get one
-Gift packs on sale on the same day
+Packs on sale on the same day
 
 [LIMITED_BUNDLE_OFFER]
 Limited time flash sale special package
 
 [DAILY_BUNDLE_OFFER]
-Courtesy Value Gift Pack
+Courtesy Value Pack
 
 [START_SALE_TIME]
 On sale time
@@ -50727,7 +50738,7 @@ Big Bag Redemption Vouchers
 Super lucky bag
 
 [DAILY_SALE_PACKET]
-{ITEM} courtesy value gift pack
+{ITEM} courtesy value Pack
 
 [BUY_MUST_GET]
 Guaranteed Reward:
@@ -50742,16 +50753,16 @@ Number of purchases in the whole server
 Reach {NUM} times reward
 
 [TOTAL_SERVER_BUY_REWARD_TIPS]
-Tips: To receive the full server progress reward, you need to purchase the gift pack at least once
+Tips: To receive the full server progress reward, you need to purchase the Pack at least once
 
 [PERSON_ACCUMU_PROGRESS]
-Individual cumulative progress
+Personal progress
 
 [PACKET_BUY_TIMES]
-Number of purchases of gift packs:
+Number of purchases of Packs:
 
 [CARNIVAL_MARQUEE_TEMPLATE]
-Congratulations to the player {NAME} for triggering a surprise gift pack in carnival , for extra {INFO}
+Congratulations to the player {NAME} for triggering a surprise Pack in carnival , for extra {INFO}
 
 [PLANTING_NOT_ON_ROLLER]
 Can't be planted on a ring
@@ -51909,7 +51920,7 @@ Mulberry Blaster Anniversary Costume
 Attack power increased by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_2]
-Mulberry growth gift packaging
+Mulberry growth Packaging
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_2]
 10% reduction in planting cooling%
@@ -52293,13 +52304,13 @@ Partial permissions are necessary permissions to implement the core functions of
 Single recharge cap
 
 [AUTH_PAYMENT_PER_LIMIT_DESC]
-According to relevant laws and regulations, your single recharge amount shall not exceed {PRICE} yuan, please consume it moderately
+According to relevant laws and regulations, your single recharge amount shall not exceed {PRICE} ¥, please consume it moderately
 
 [AUTH_PAYMENT_TOTAL_LIMIT_TITLE]
 Cumulative top-up cap
 
 [AUTH_PAYMENT_TOTAL_LIMIT_DESC]
-You can recharge up to {PRICE} yuan per month.
+You can recharge up to {PRICE} ¥ per month.
 After this recharge, your accumulated recharge amount will exceed the upper limit, and according to the relevant laws and regulations, this recharge cannot be carried out.
 Please consume moderately.
 
@@ -52384,31 +52395,31 @@ Negative
 Ping Ping
 
 [STORE_CATEGORY_NAME_RICHMAN_1]
-Buy a small gift pack for the theater
+Buy a small Pack for the theater
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_1]
-Small gift pack for the theatre
+Small Pack for the theatre
 
 [STORE_CATEGORY_NAME_RICHMAN_12]
-Buy the Theatre Gift Pack
+Buy the Theatre Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_12]
 Theatre Gifts Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_88]
-Buy Theatre Super Gift Pack
+Buy Theatre Super Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_88]
-Theatre Super Gift Pack
+Theatre Super Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_168]
-Buy Theatre Luxury Gift Pack
+Buy Theatre Luxury Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_168]
-Theatre Luxury Gift Pack
+Theatre Luxury Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_248]
-Buy Theatre Luxury Gift Pack
+Buy Theatre Luxury Pack
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_248]
 Theatre Luxury Gifts Pack
@@ -52486,7 +52497,7 @@ penny ticket Description
 7. Besides diamonds and plant rewards, other reward in the prize pool are for display purposes only and do not include all rewards.
 
 [SECRET_GACHA_TITLE]
-Probabilistic Publicity
+Probability
 
 [SECRET_GACHA_LEGENDPLANTS_PIECE]
 Plant
@@ -53907,7 +53918,7 @@ You've already received all the rewards!
 Orange Plant 3 Choose 1
 
 [FIRST_RECHARGE_EXTRA_BONUS_CHOOSE_DESC]
-Congratulations on getting your first deposit gift pack! Quickly choose a reward!
+Congratulations on getting your first deposit Pack! Quickly choose a reward!
 
 [EQUIP]
 Equip
@@ -54032,10 +54043,10 @@ Skill Enhancement
 Enhancement Cost
 
 [ARTIFACT_SKILL_GET]
-Get Skill
+New Skill
 
 [ARTIFACT_SKILL_RANK_UP_CONSUME]
-Rank Up Cost
+Level up cost
 
 [ARTIFACT_WAY_TO_GET]
 Currently unavailable. Please stay tuned for upcoming events. You can experience it in advance by purchasing the artifact body pack from the store's artifact pack.
@@ -55997,19 +56008,19 @@ Purchase Limit: ^FF0000^{NUM}^oldclr^ times
 Free
 
 [MONTHLY_CARD_PRICE]
-{NUM} yuan
+{NUM} ¥
 
 [MONTHLY_CARD_ORIGINAL_PRICE0]
-^FF0000^0 yuan^oldclr^
+^FF0000^0 ¥^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE1]
-^FF0000^12.5 yuan^oldclr^
+^FF0000^12.5 ¥^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE2]
-^FF0000^50 yuan^oldclr^
+^FF0000^50 ¥^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE3]
-^FF0000^150 yuan^oldclr^
+^FF0000^150 ¥^oldclr^
 
 [MONTHLY_CARD_LINE]
 ^FF0000^ —^oldclr^
@@ -56165,13 +56176,13 @@ Your account has been banned. If you have any questions, please contact customer
 Backpack
 
 [UI_BAG_PLANT_PIECE]
-Plant Pieces
+Plant
 
 [UI_BAG_AVATAR_PIECE]
-Avatar Pieces
+Costume
 
 [UI_BAG_ACCESSORY_PIECE]
-Accessory Pieces
+qpqendant
 
 [UI_BAG_OTHER_ITEM]
 Other Items
@@ -56365,13 +56376,13 @@ Penny's Chase Gameplay Rewards
 Used for secret summoning
 
 [MAT_SECRET_GACHA_TICKET_GOT_WAY]
-First Recharge Gift Pack
+First Recharge Pack
 
 [MAT_LIMITLOTTERY_CRYSTAL_USE]
 Used for limited-time lottery draws
 
 [MAT_LIMITLOTTERY_CRYSTAL_GOT_WAY]
-Purchase Gift Packs
+Purchase Packs
 
 [MAT_LIMITLOTTERY_CUP_USE]
 Used to exchange items in the Limited-time Treasure Shop
@@ -56554,28 +56565,28 @@ Purchase Experience Pack
 Experience Pack
 
 [PRODUCT_BATTLE_ORDER_8]
-Purchase Basic Level Gift Pack
+Purchase Basic Level Pack
 
 [PRODUCT_BATTLE_ORDER_8_SHORTDESC]
-Basic Level Gift Pack
+Basic Level Pack
 
 [PRODUCT_BATTLE_ORDER_18]
-Purchase Intermediate Level Gift Pack
+Purchase Intermediate Level Pack
 
 [PRODUCT_BATTLE_ORDER_18_SHORTDESC]
-Intermediate Level Gift Pack
+Intermediate Level Pack
 
 [PRODUCT_BATTLE_ORDER_45]
-Purchase Advanced Level Gift Pack
+Purchase Advanced Level Pack
 
 [PRODUCT_BATTLE_ORDER_45_SHORTDESC]
-Advanced Level Gift Pack
+Advanced Level Pack
 
 [PRODUCT_BATTLE_ORDER_78]
-Purchase Super Level Gift Pack
+Purchase Super Level Pack
 
 [PRODUCT_BATTLE_ORDER_78_SHORTDESC]
-Super Level Gift Pack
+Super Level Pack
 
 [PRODUCT_BATTLE_ORDER_68]
 Activate Advanced Privileges
@@ -56584,8 +56595,8 @@ Activate Advanced Privileges
 Advanced Privileges
 
 [GROWTH_PACKAGE_DESCRIPTION]
-1. Gift packs refresh at 12:00 a.m. daily, with 3 different packs refreshed daily.
-2. Gift pack contents include but are not limited to plant pieces, Level 5 nutrients, avatar pieces, accessory pieces, super accessory pieces, and materials for super accessories.
+1. Packs refresh at 12:00 a.m. daily, with 3 different packs refreshed daily.
+2. Pack contents include but are not limited to plant pieces, Level 5 nutrients, avatar pieces, accessory pieces, super accessory pieces, and materials for super accessories.
 3. Each pack can be purchased once per day, and purchasing it earns corresponding points. Accumulated points can earn additional rewards.
 4. Accumulated points reset at 12:00 a.m. on the 1st of each month.
 
@@ -66040,19 +66051,19 @@ Deploy 25 zombies in control-free status
 Costume pieces Choose one of three
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_1]
-Pumpkin Costume Choose One Gift Pack
+Pumpkin Costume Choose One Pack
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_2]
-Choose one of two gift packs for dressing up electric vines
+Choose one of two Packs for dressing up electric vines
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_3]
-Pea Vine Plant Costume 2-Opt-One Gift Pack
+Pea Vine Plant Costume 2-Opt-One Pack
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_4]
-Sparkling Vine Plant Costume 2-Opt-One Gift Pack
+Sparkling Vine Plant Costume 2-Opt-One Pack
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_5]
-Costume Two-Out Gift Pack for Pyre Vine Plant
+Costume Two-Out Pack for Pyre Vine Plant
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_6]
 Vines & Decoration Choice Box
@@ -66061,34 +66072,34 @@ Vines & Decoration Choice Box
 Vines & Decoration Choice Box
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_6]
-Purchase Experience Gift Pack
+Purchase Experience Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_6_SHORTDESC]
-Experience Gift Pack
+Experience Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_8]
-Buy a Junior Grade Gift Pack
+Buy a Junior Grade Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_8_SHORTDESC]
-Junior Grade Gift Pack
+Junior Grade Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18]
-Buy intermediate grade gift packs
+Buy intermediate grade Packs
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18_SHORTDESC]
-Intermediate Level Gift Pack
+Intermediate Level Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_45]
-Buy Premium Grade Gift Pack
+Buy Premium Grade Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_45_SHORTDESC]
-Premium Grade Gift Pack
+Premium Grade Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_78]
-Buy Super Grade Gift Pack
+Buy Super Grade Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_78_SHORTDESC]
-Super Grade Gift Pack
+Super Grade Pack
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_68]
 Activate Premium Equity
@@ -66417,7 +66428,7 @@ Rematch
 Upgrade
 
 [NEW_PLANT_UI_VALUE_DETAIL_BTN_TEXT]
-Detailed Attributes
+Detail
 
 [NEW_PLANT_UI_VALUE_AVATAR_BTN_TEXT]
 View Costume
@@ -66459,7 +66470,8 @@ Confirm Filter
 All({NUMBER1}/{NUMBER2})
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
-Are you sure you want to switch to the old interface?
+Are you sure you want to switch to the old UI?
+Warning: ^FF0000 that very laggy and can make crash your game !
 
 [NEW_PLANT_UI_SWITCH_TO_NEW]
 Are you sure you want to switch to the new interface?
@@ -66669,48 +66681,48 @@ Penny's Journey
 Activity Description
 
 [WORLD_LEVEL_PACKAGE_TIPS_DESC]
-1.  Gift pack opening follows the progress of the world, offering gift packs with different contents at different stages in different worlds.
-2.  Gift pack opening requires the player to collect the stars within the level.
-3.  The gift pack is open for a limited time of 3 days, after the end it will no longer be displayed and cannot be purchased.
+1.  Pack opening follows the progress of the world, offering Packs with different contents at different stages in different worlds.
+2.  Pack opening requires the player to collect the stars within the level.
+3.  The Pack is open for a limited time of 3 days, after the end it will no longer be displayed and cannot be purchased.
 
 [WORLD_LEVEL_PACKAGE_0]
-Small-size gift pack
+Small-size Pack
 
 [WORLD_LEVEL_PACKAGE_1]
-Medium Gift Pack
+Medium Pack
 
 [WORLD_LEVEL_PACKAGE_2]
-Large Gift Pack
+Large Pack
 
 [WORLD_LEVEL_PACKAGE_LIMIT_BUY_DESC]
 Purchase restriction ^FF0000 {NUMS} ^oldclr^ times
 
 [WORLD_LEVEL_PACKAGE_BUY_CONFIRM]
-Whether to buy a grade gift pack
+Whether to buy a grade Pack
 
 [WORLD_LEVEL_PACKAGE_DESC_TITLE]
 Gift Preview
 
 [WORLD_LEVEL_PACKAGE_BUY_CONFIRM]
-Confirm purchase gift pack
+Confirm purchase Pack
 
 [WORLD_LEVEL_PACKAGE_PRICE_0]
-6 yuan
+6 ¥
 
 [WORLD_LEVEL_PACKAGE_PRICE_1]
-30 yuan
+30 ¥
 
 [WORLD_LEVEL_PACKAGE_PRICE_2]
-60 yuan
+60 ¥
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_0_SHORTDESC]
-Small Grade Gift Pack
+Small Grade Pack
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_1_SHORTDESC]
-Medium Grade Gift Pack
+Medium Grade Pack
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_2_SHORTDESC]
-Large Grade Gift Pack
+Large Grade Pack
 
 [CORNUCOPIA_TITLE]
 Cornucopia  
@@ -66893,7 +66905,7 @@ Pendant pieces
 Diamonds
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL]
-Cornucopia Gift Pack
+Cornucopia Pack
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL_6_SHORTDESC]
 Junior Lucky Pack
@@ -71096,7 +71108,7 @@ Possible rewards
 Purchase the Little Snake Piggy Bank to enjoy ^ff0000^9.9^oldclr^x diamond rebate, with a maximum return of ^ff0000^2970^oldclr^ diamonds.  
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
-Purchase for 30 yuan
+Purchase for 30 ¥
 
 [ACTIVITY_NEW_PIGGY_BANK_TITLE]
 Sign-in seven days
@@ -71115,19 +71127,19 @@ Recharge any amount to buy the same day's discounted props in the prize pool
 Participate in the Broken Can Master activity, and rare plant rewards are waiting for you!
 
 [INVATATION_TITLE]
-The invitation is polite
+Invitation event
 
 [INVATATION_TAB_NAME1]
-Recruitment coverage
+Recruitment Report
 
 [INVATATION_TAB_NAME2]
-Recruitment order
+Recruitment Order
 
 [INVATATION_TAB_NAME3]
-Recruitment missions
+Recruitment Tasks
 
 [INVATATION_TAB_NAME4]
-Recruitment sweepstakes
+Recruitment Lottery
 
 [INVATATION_DEFAULT_TEXT1]
 Invitation code to be filled in
@@ -71148,19 +71160,19 @@ Copy Invitation Code
 Share and copy the invitation code
 
 [INVATATION_TAB2_TEXT]
-Only newly created accounts during the event can fill in the invitation code
+Only newly created accounts during the event can enter an invitation code
 
 [INVATATION_TAB1_RECORD]
-Invitational Records
+Invitation Record
 
 [INVATATION_GRADE_TASK_NAME_1_1]
 Daily Login
 
 [INVATATION_GRADE_TASK_NAME_1_2]
-Recruitment reached {NUM} people
+Recruit {NUM} People
 
 [INVATATION_GRADE_TASK_NAME_1_3]
-Recruiting players with more than 45 stars to achieve {NUM} people
+Recruit {NUM} Players with +45 Stars
 
 [ACTIVITY_NEW_TIPS_TITLE]
 Tip
@@ -71252,7 +71264,7 @@ Two-player duel  is online in 2023!  The highest ever you've ever achieved
                               loveyourdave
 
 [PRODUCT_PLANT_CULTIVATE_20_SHORTDESC]
-Plant Cultivation Purchase Restriction Gift Pack
+Plant Cultivation Purchase Restriction Pack
 
 [INVITATION_MAIN_TIPS_INFO]
 1. This event will run from January 21, 2025 to March 16, 2025.
@@ -71269,7 +71281,7 @@ Plant Cultivation Purchase Restriction Gift Pack
     Android invitation codes can only invite Android players, and iOS invitation codes can only invite iOS players.
 
 [UIINVITATION_REWARD_BOX_0]
-Artificial advanced book select one more gift pack
+Artificial advanced book select one more Pack
 
 [DAVEKITCHEN_DESCRIPTION_TITLE]
 Dave Kitchen Events
@@ -71405,13 +71417,13 @@ Current remaining tokens: {NUMBER}
 Left time: today: {NUMBER}
 
 [FUTURE_GIFT_REFRESH]
-Refresh Gift Pack
+Refresh Pack
 
 [FUTURE_GIFT_PRICE]
 Buy for {NUMBER} tokens
 
 [FUTURE_GIFT_FREE_SHOP]
-Free gift pack not yet claimed, please claim first.
+Free Pack not yet claimed, please claim first.
 
 [FUTURE_GIFT_FREE]
 Free Purchase
@@ -71430,9 +71442,9 @@ Future Gift Box Event
 
 [FUTURE_GIFT_DESCRIPTION]
 Event Rules:
-1. The gift box contains various preset items. Players can choose several rewards to place in the slots. After purchasing the selected content gift pack, corresponding items can be obtained.
-2. Each gift pack can only be purchased once per day.
-3. There are 6 level of gift packs, each containing different contents.
+1. The gift box contains various preset items. Players can choose several rewards to place in the slots. After purchasing the selected content Pack, corresponding items can be obtained.
+2. Each Pack can only be purchased once per day.
+3. There are 6 level of Packs, each containing different contents.
 
 [FUTURE_GIFT_TICKETS_NOT_ENOUGH]
 Insufficient gold coins for the current gift box. Would you like to go to the shop interface to purchase?
@@ -71630,13 +71642,13 @@ The initial sun increases while carrying the artifact
 First planting without cooling while carrying the artifact
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL]
-Party Boost Gift Pack
+Party Boost Pack
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_6_SHORTDESC]
-Initial booster gift pack
+Initial booster Pack
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_30_SHORTDESC]
-Intermediate Boost Gift Pack
+Intermediate Boost Pack
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_68_SHORTDESC]
 Premium Power Pack
@@ -71645,13 +71657,13 @@ Premium Power Pack
 Super Power Pack
 
 [PRODUCT_DAVE_KITCHEN]
-Dave Kitchen Gift Pack
+Dave Kitchen Pack
 
 [PRODUCT_DAVE_KITCHEN_6_SHORTDESC]
-Small Meat Gift Pack
+Small Meat Pack
 
 [PRODUCT_DAVE_KITCHEN_68_SHORTDESC]
-Large meat gift pack
+Large meat Pack
 
 [ACTIVITY_COLLECTION_CUSTOM_VOTING_DESCRIPTION]
 Vote for your favorite plant, group purchase of plants is up to you
@@ -71663,7 +71675,7 @@ After completing courses in Penny's Classroom, you can earn Classroom Points and
 {NUMS}
 
 [NEWPLAYER_COLLECTION_DISCOUNTSOHP_BUY_CONFIRM]
-Sure to buy the gift pack?
+Sure to buy the Pack?
 
 [NEWPLAYER_COLLECTION_ACTIVITY_NOTICE_SEVENDAYS_UNLOCK_DESC]
 Egypt 2 after passing the level
@@ -72033,7 +72045,7 @@ Penny's Future Gift Box Event Details
 2. Players can spend Penny's coins to purchase Future Gift Boxes and receive corresponding rewards. When purchasing Future Gift Boxes, Penny will offer discounts based on the number of gift boxes already purchased in the current round.
 3. Each time a Future Gift Box is purchased, in addition to the fixed items, there will be an additional probability-based reward. To receive more prizes and diamonds, click the "?" button in the top right corner of the Future Gift Box for details.
 4. Accumulating multiple Future Gift Boxes purchases can unlock personal progress rewards. The more tokens used to buy Future Gift Boxes, the more generous the rewards.
-5. Purchasing Future Gift Boxes contributes to the server-wide progress, unlocking server-wide rewards. At least one Future Gift Box must be purchased to claim the server-wide rewards.
+5. Purchasing Future Gift Boxes contributes to the server-side progress, unlocking server-side rewards. At least one Future Gift Box must be purchased to claim the server-side rewards.
 6. After spending Penny's coins to buy Future Gift Boxes, you will be ranked on the leaderboard based on the total price of the purchased boxes. Ranking on the leaderboard will earn additional substantial rewards upon settlement.
 7. Any unspent Penny's coins will be automatically converted into corresponding diamond rewards at a 1:10 ratio after the event ends and cannot be carried over to the next event.
 8. The probability of additional outputs in various categories is as follows: 
@@ -72537,7 +72549,7 @@ Diamond Pool Explanation:
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
 Event Details:
-1. Purchase gift packs to earn Farm Coins and win super prizes, including artifacts and large amounts of diamonds!
+1. Purchase Packs to earn Farm Coins and win super prizes, including artifacts and large amounts of diamonds!
 2. You can draw up to 30 times for selectable rewards and up to 90 times for Super Corn.
 3. After the event ends, tokens will be converted into diamonds at a rate of 1:30 for Farm Coins and 1:500 for Super Corn.
 4. If both guarantees are triggered in one draw, the selectable reward will be prioritized. The next draw will definitely give you Super Corn.
@@ -72601,7 +72613,7 @@ Farm Coins
 Used to draw rewards in Farm Battle
 
 [MAT_AUTUMN_HARVEST_TICKET_GOT_WAY]
-Obtained by purchasing from the Farm Battle gift pack store
+Obtained by purchasing from the Farm Battle Pack store
 
 [MAT_AUTUMN_HARVEST_TICKET_NOT_ENOUGH]
 Not enough Farm Coins
@@ -73482,9 +73494,9 @@ New Year Instructions:
 During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
 
 Daily free Welcome Gift: Diamonds*15
-2 Yuan Gift: Diamonds*30, 10% chance to get a normal Outfit New Year's Box
-3 Yuan Gift: Diamonds*90, 10% chance to get an rare Outfit New Year's Box
-6 Yuan Gift: Diamonds*180, 10% chance to get an Advanced Outfit New Year's Box
+2 Yuan Gift: Diamonds 30, 10% chance to get a normal costume
+3 Yuan Gift: Diamonds 90, 10% chance to get a rare costume
+6 Yuan Gift: Diamonds 180, 10% chance to get a Advanced costume
 
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
@@ -73608,7 +73620,7 @@ Costume Selection
 Choose one costume from the options below!
 
 [NEW_YEAR_PACK_BUNDLE_LIMIT]
-Remaining daily purchase limit: ^FF0000^{NUM}^oldclr^
+Daily purchase limit: ^FF0000 {NUM} ^oldclr
 
 [NEWYEARREDPACKET_TASK_NAME_1]
 Play Duo pvp twice.
@@ -73668,7 +73680,7 @@ Claim after reaching cumulative recharge milestones during the New Year Pack eve
 Richer then dev ! 
 
 [TEN_THOUSAND_HEAD_DES_ID_25636]
-Earned by spending 10 000 yuans the richest of the richest !!.
+Earned by spending 10 000¥ the richest of the richest !
 
 [NEWYEARREDPACKETE_TAB0]
 New Year Prize
@@ -73706,7 +73718,7 @@ Reward Preview:
 Top Lucky Player Award
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-Open the New Year Gift Pack to get tons of diamonds and rare outfits
+Open the New Year Pack to get tons of diamonds and rare outfits
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Congratulations, you’ve been selected as today’s luckiest player
