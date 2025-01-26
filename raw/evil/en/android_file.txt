@@ -6083,20 +6083,20 @@ Plant attack increased by 20%
 
 
 [DEVILSFLOWER]
-Abyss Devil's Claw
+Devil's Claw
 
 [DEVILSFLOWER_DESCRIPTION]
 {KEYWORD}Plant features: {STAT}purple plant, Growing
 {FLAVOR}Nobody knows where it comes from. But since every zombie it comes into contact with get sucked dry, none of the zombies want to know anymore.
 
 [DEVILSFLOWER_DESCRIPTION_HEADER]
-Abyss Devil's Claw can summon Abyss Disciples to squeeze zombies to attack and absorb energy.
+Devil's Claw can summon Abyss Disciples to squeeze zombies to attack and absorb energy.
 
 [DEVILSFLOWER_TOOLTIP]
-Abyss Devil's Claw can summon Abyss Disciples to squeeze zombies to attack and absorb energy.
+Devil's Claw can summon Abyss Disciples to squeeze zombies to attack and absorb energy.
 
 [DEVILSFLOWER_PRODUCT_SHORT_DESC]
-Abyss Devil's Claw can summon Abyss Disciples to squeeze zombies to attack and absorb energy.
+Devil's Claw can summon Abyss Disciples to squeeze zombies to attack and absorb energy.
 
 [DEVILSFLOWER_SKILL_LEVEL1]
 Void Crack
@@ -6138,10 +6138,10 @@ byss Devil's Claw will spit out an egg that will instantly hatch into a Disciple
 the Disciple Gargantuar she summons will be upgraded to a Disciple Leader Gargantuar, which has more health, deals more damage, and has a chance of spawning a 3x3 area pool of acid when it attacks.
 
 [DEVILSFLOWER_AVATAR_NAME]
-Abyss Devil's Claw Costume
+Devil's Claw Costume
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
-Abyss Devil's Claw Costume
+Devil's Claw Costume
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER]
 the Disciple Gargantuar she summons will be upgraded to a Disciple Leader Gargantuar, which has more health, deals more damage, and has a chance of spawning a 3x3 area pool of acid when it attacks.
@@ -16087,7 +16087,7 @@ Usage object:
 Please enter the correct verification code!
 
 [PLANT_OBTAIN]
-Receive
+Get
 
 [GEM_RETURN_BUY_BTN]
 Buy
@@ -18667,7 +18667,7 @@ Start
 Go participate
 
 [PLANT_SEVENDAYSLOGIN_AWARD]
-Receive
+Get
 
 [PLANT_ADVENTURE_DUNGEON_SUSPEND]
 Stop
@@ -34240,7 +34240,7 @@ Hours
 Frozen battlefield
 
 [INGAME_RESTORE_PURCHASE_ITEM_BUTTON]
-Receive
+Get
 
 [INGAME_RESTORE_PURCHASE_WORLD_BUTTON]
 Start
@@ -42020,7 +42020,7 @@ Received
 Going
 
 [RECALL_OFFER_CLAIM]
-Receive
+Get
 
 [RECALL_OFFER_GEM]
 Diamonds
@@ -42143,7 +42143,7 @@ MiniCoin
 Christmas Redemption Pieces
 
 [MAT_SECRET_GACHA_TICKET]
-Penny's penny ticket single draw coupon
+Penny's ticket
 
 [MAT_MYSTERY_CRYSTAL]
 Crystal Mystic
@@ -43960,7 +43960,7 @@ Curling Yuheng
 There is a probability of generating a curling wrapped in ice fog, which will cause damage to zombies in a one-square range, the second curling will not disappear after hitting a unit, and can be hit by the next curling.
 
 [ELAEOCARPUS]
-Duying Pitcher
+Elaeocarpus
 
 [ELAEOCARPUS_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} white plant
@@ -43982,7 +43982,7 @@ When zombies are in the distance, they fire ejection bullets, killing low-blood 
 The little whirlwind of plants food can move a whole line
 
 [STORE_PRODUCT_AVATAR_ELAEOCARPUS_TITLE]
-Duying Pitcher Costume
+Elaeocarpus Costume
 
 [ELAEOCARPUS_SKILL1_LEVEL1]
 Distance training
@@ -47028,7 +47028,7 @@ Rewards
 Tasks
 
 [DAVE_TAB_NORMAL]
-Free
+Normal
 
 [DAVE_TAB_HIGH]
 Premium
@@ -48080,7 +48080,7 @@ Ending Row of Interval
 Zombie Level Setting
 
 [HAPPY_VASE_BREAKER_TITLE]
-Vase breaker: goodluck by evil :)
+Vase breaker
 
 [HAPPY_VASE_BREAKER_TAB_ONE]
 Vase breaker
@@ -48169,7 +48169,7 @@ Perform {NUM} times to Costume transgenic
 Perform {NUM} subplant transgenes
 
 [HAPPY_VASE_BREAKER_CHARGE_GEM]
-Cumulative recharge diamonds reach {NUM}
+Total Recharge: {NUM} Diamonds
 
 [MAT_FESTIVAL_GOLDEN_EGG_HAMMER]
 Egg-smashing hammer
@@ -50730,7 +50730,7 @@ Super lucky bag
 {ITEM} courtesy value gift pack
 
 [BUY_MUST_GET]
-Buy Must:
+Guaranteed Reward:
 
 [BUY_MAY_GET]
 Probability obtained:
@@ -51546,7 +51546,7 @@ Holographic Nuts Anniversary Costume
 Cultivation cooling is reduced by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_2]
-Duying Pitcher Anniversary Costume
+Elaeocarpus Anniversary Costume
 
 [NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
 Cultivation cooling is reduced by 10%
@@ -53961,7 +53961,7 @@ Used for advanced artifact blessings
 Obtained from purchasing artifact shop packages
 
 [MAT_AVATAR_TICKET]
-Costume Exchange Ticket
+Costume Ticket
 
 [MAT_AVATAR_TICKET_USE]
 Used to exchange for costumes
@@ -66106,17 +66106,17 @@ Choose one from the following piece rewards!
 Confirm to choose this reward
 
 [NEW_PVP_SHOP]
-Two-Player Duel Shop
+PvP Shop
 
 [NEW_PVP_SHOP_INFO_TITLE]
-Two-Player Duel Shop Rules
+PvP Shop Rules
 
 [NEW_PVP_SHOP_INFO_DETAIL]
 1. Shop items refresh daily at 00:00 (UTC+8) , resetting item purchase limits.  
-2. Amethyst Coins can be obtained through daily and weekly chests and used to exchange for various items in the shop.  
+2. Pvp coin can be obtained through daily and weekly chests and used to exchange for various items in the shop.  
 3. Seasonal Legendary Chests and Seasonal Normal Chests usually contain newly introduced zombies for the season.  
-4. The Seasonal Legendary Chest rewards include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Amethyst Coins from the pool.  
-5. The Seasonal Normal Chest rewards include 50 cards of a random common zombie, 15 cards of a rare zombie, 3 Amethyst Coins, and 60 diamonds.
+4. The Seasonal Legendary Chest rewards include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Pvp coin from the pool.  
+5. The Seasonal Normal Chest rewards include 50 cards of a random common zombie, 15 cards of a rare zombie, 3 Pvp coin, and 60 diamonds.
 
 [NEW_PVP_SHOP_RESET_TIMER]
 Shop Reset Countdown
@@ -66125,10 +66125,11 @@ Shop Reset Countdown
 Locked
 
 [NEW_PVP_SHOP_ITEM_BUY_LIMIT]
-^ffff00^Number of purchase restrictions: ^oldclr^{NUM1}/{NUM2}
+^ffff00^Purchase Limit: ^oldclr^{NUM1}/{NUM2}
+
 
 [NEW_PVP_SHOP_BUY_CONFIRM]
-Do you want to spend {NUMS} Amethyst Coins to purchase?
+Do you want to spend {NUMS} Pvp coin to purchase?
 
 [NEW_PVP_SHOP_RECHARGE_CONFIRM]
 Do you want to spend {NUMS} to purchase?
@@ -66146,13 +66147,13 @@ Random Rare card
 Random Common card
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_4]
-Amethyst Coins
+Pvp coin
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_5]
 Diamonds
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN]
-Amethyst Coins
+Pvp coin
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_NOT_ENOUGH]
 Amethyst Insufficient
@@ -66164,16 +66165,16 @@ Redeem items in the Double Showdown store
 Open the treasure chest in the duel between the two to gain
 
 [PRODUCT_NEW_PVP_CHEST_3]
-Season Normal Treasure Box
+Treasure Box
 
 [PRODUCT_NEW_PVP_CHEST_3_SHORTDESC]
-Season Normal Treasure Box
+Normal Treasure Box
 
 [PRODUCT_NEW_PVP_CHEST_4]
-Season Legend Treasure Box
+Legend Treasure Box
 
 [PRODUCT_NEW_PVP_CHEST_4_SHORTDESC]
-Season Legend Treasure Box
+Legend Treasure Box
 
 [NEW_PVP_ZOMBIE_CARD]
 Card
@@ -66949,7 +66950,7 @@ Draw {NUMS} times
 Void
 
 [SHOP_NO_LIMIT_BUYTIME_TITLE]
-Number of purchase limits: no limit
+Purchase Limit: no limit
 
 [CORNUCOPIA_CRYSTAL_5000]
 Lucky Grand Prize
@@ -70514,10 +70515,10 @@ The Venom Pea shooter accumulates a large amount of venom, fires a huge Venom Pe
 When the zombie appears on the right side 3 squares, a high ball is played, which catapults once after hitting the zombie. When a zombie appears within 3 squares on the right side, it plays a smash serve that can kill less than 40% of the health in an instant, increasing the damage to 120 and the attack interval to 2.9 seconds.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL2_DES]
-The Duying pitcher changed the range of attack for smash serve from 3 to 4 squares through distance training.
+The Elaeocarpus changed the range of attack for smash serve from 3 to 4 squares through distance training.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL3_DES]
-The Duying pitcher changed the target of the attacking fan that smashed the serve from a single body to a single grid through strength training.
+The Elaeocarpus changed the target of the attacking fan that smashed the serve from a single body to a single grid through strength training.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
@@ -70526,7 +70527,7 @@ When planting, there is a probability of directly releasing plants food!
 The smashing technique of Du Ying pitchers has been further improved, and smashing serves can instantly kill zombies with less than 50% health.
 
 [ELAEOCARPUS_PLANTFOOD_DESCRIPTION]
-The Duying pitcher temporarily changes the attack mode and will hit a laterally spinning ball, generating a cyclone that causes multiple injuries in a row after hitting the zombie, and the cyclone moves 1 square.
+The Elaeocarpus temporarily changes the attack mode and will hit a laterally spinning ball, generating a cyclone that causes multiple injuries in a row after hitting the zombie, and the cyclone moves 1 square.
 
 [ELAEOCARPUS_AVATAR_PLANTFOOD_DESCRIPTION]
 Pitcher Du Ying temporarily changes his attack mode and will hit a laterally spinning ball, generating a cyclone that causes multiple injuries in a row after hitting the zombie. The cyclone moves ^ff0000^1 for the entire line. ^oldclr^
@@ -72082,7 +72083,7 @@ Yuanbao Tasks
 Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-Yuanbao Battle Event Description
+Yuanbao Battle Description
 
 [NFSLINKAGE_DESCRIPTION]
 Event Rules:
@@ -72102,7 +72103,7 @@ Yuanbao Battle
 Yuanbao
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn Yuanbao, which can be used in the exchange shop to obtain great rewards!
+During the event, players can log in to receive 14 days of rewards. Complete tasks to earn Yuanbao and exchange them for rewards in the shop!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -72741,10 +72742,10 @@ Guaranteed Grand Prize after {NUMS} more draws
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]  
-Black Hole Journey  
+Black Hole event
 
 [TOYNIGHT_TITLE]  
-Black Hole Journey  
+Black Hole event
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]  
 Beginner Star Coin Pack  
@@ -72793,32 +72794,31 @@ Expired rewards for the Black Hole Fantasy Journey
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Event Rules:
-1. Obtain Star Coins by purchasing gift packs, and use them to draw rewards in the event. Star Coins and Black Holes cannot be carried over to the next event. After the event ends, they will automatically be converted into diamonds at a 1:10 and 1:1 ratio.
+1. Obtain Star by purchasing packs, and use them to draw rewards in the event. Star and Black Holes cannot be carried over to the next event. After the event ends, they will be converted into diamonds at a 1:1 ratio.
 2. Each draw has a chance to obtain Black Holes or other rewards. Lucky players may directly receive the Super Costume of Turnip.
 3. If no grand prize is drawn in 20 consecutive draws, the next draw will be from the guaranteed prize pool.
-4. Repeatedly drawn super costumes will automatically be converted into 200 small black hole rewards.
+4. Repeatedly drawn of super costumes will be converted into 200 black hole rewards.
 
-Guaranteed Prize Pool:
-Turnip Super Costume: 3.72%
-Small Black Hole *1300: 5.28%
-Small Black Hole *700: 12.55%
-Small Black Hole *500: 11.10%
-Diamonds *1888: 32.17%
-Penny's Voucher *10: 35.18%
+Guaranteed Pool:
+Turnip super Costume: 3.72%
+Black Hole 1300: 5.28%
+Black Hole 700: 12.55%
+Black Hole 500: 11.10%
+Diamonds 1888: 32.17%
+Penny's Voucher 10: 35.18%
 
 Reward Probabilities:
-Turnip Super Costume: 0.17%
-Small Black Hole *1300: 0.21%
-Small Black Hole *700: 0.43%
-Small Black Hole *500: 0.85%
-Small Black Hole *100: 6.09%
-Small Black Hole *50: 16.00%
-Small Black Hole *20: 12.00%
-Small Black Hole *10: 35.00%
-Costume Voucher *500: 2.50%
-Costume Voucher *100: 9.75%
-Penny's Voucher *1: 17.00%
-
+Turnip super Costume: 0.17%
+Black Hole 1300: 0.21%
+Black Hole 700: 0.43%
+Black Hole 500: 0.85%
+Black Hole 100: 6.09%
+Black Hole 50: 16.00%
+Black Hole 20: 12.00%
+Black Hole 10: 35.00%
+Costume Voucher 500: 2.50%
+Costume Voucher 100: 9.75%
+Penny's Ticket 1: 17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
 Already owned, automatically converted to points reward
@@ -72836,10 +72836,10 @@ Mini Games
 Event Rewards
 
 [MINIGAME_COLLECTION_TAB3]
-Mini Game Enhancements
+Mini Game perks
 
 [MINIGAME_COLLECTION_TAB4]
-Event Description
+Event Info
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
 Normal Mode
@@ -73465,7 +73465,7 @@ Players can earn coin by completing levels in the Uncharted mode and exchange th
 New Year Pack
 
 [NEWYEAR_PACK_TEN]
-Guaranteed within ten tries
+10x Guaranteed:
 
 [NEWYEARPACK_DESCRIPTION_TITLE]
 Event Description
@@ -73477,13 +73477,14 @@ New Year Pack Purchase Instructions:
 3. The purchase limit for packs refreshes daily, but the guaranteed reward counter does not reset and can be carried over.
 4. Once obtained, the New Year Box will be stored in the inventory. Upon use, players can select one costume from the box.
 
-New Year Cumulative Recharge Instructions:
+[NEWYEARPACK_MAIN_TIPS_INFO]
+New Year Instructions:
 During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
 
-Daily 0 Yuan Welcome Gift: Diamonds*15  
-2 Yuan Gift Pack: Diamonds*30, 10% chance to get a normal Outfit New Year's Goods Box  
-3 Yuan Gift Pack: Diamonds*90, 10% chance to get an rare Outfit New Year's Goods Box  
-6 Yuan Gift Pack: Diamonds*180, 10% chance to get an Advanced Outfit New Year's Goods Box
+Daily free Welcome Gift: Diamonds*15
+2 Yuan Gift: Diamonds*30, 10% chance to get a normal Outfit New Year's Box
+3 Yuan Gift: Diamonds*90, 10% chance to get an rare Outfit New Year's Box
+6 Yuan Gift: Diamonds*180, 10% chance to get an Advanced Outfit New Year's Box
 
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
@@ -73524,9 +73525,9 @@ Obtained by purchasing value gift boxes in the New Year Pack with a probability.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. The event red note at fixed times daily: 12:00-14:00 and 18:00-21:00 (UTC+8). You can claim one red packet between the hour, with a max of 2 red packets per day.
-2. From January 27th to February 9th, a lucky player will be selected from all servers (on iOS and one Android) at 21:00 daily, provided they have claimed that day's red packet, to win a amazing reward.
-3. On special dates (New Year's Eve, New Year's Day, Fifth Day), an additional physical prize lottery is available once per day. From 00:00 to 21:59 on New Year's Eve, New Year's Day, and Fifth Day, you can use lottery tickets to sign up for the physical prize draw on the event page.
-4. Each time a player consumes a lottery ticket, their information is recorded. The physical prizes will be drawn from all registered participants at 22:00 on New Year's Eve, New Year's Day, and Fifth Day.
+2. From January 27th to February 9th, a lucky player will be selected from all servers (one iOS and one Android) at 21:00 daily, to win a amazing reward.
+3. On special dates (New Year's Eve, New Year's Day, Fifth Day), an additional prize lottery is available once per day. From 00:00 to 21:59 on New Year's Eve, New Year's Day, and Fifth Day, you can use lottery tickets to sign up for the prize draw on the event page.
+4. Each time a player consumes a lottery ticket, their information is recorded. The prizes will be drawn from all registered participants at 22:00 on New Year's Eve, New Year's Day, and Fifth Day.
 5. If the daily lucky prize is not claimed before the next day's drawing, it will be considered forfeited.
 6. The physical prize is a ^CDBE70 5g *Plants vs. Zombies 2* custom gold banknote ^oldclr. The reward will be based on the actual physical item.
 
@@ -73556,7 +73557,7 @@ Player ^FFFF00 {NAME} ^oldclr
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar December 28th.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the New Year's Eve grand prize!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the New Ye Eve grand prize!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar January 1st.
@@ -73576,7 +73577,7 @@ Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar Janua
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar January 6th.
 
-[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
+[REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]ar's
 Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar January 7th.
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
@@ -73598,7 +73599,7 @@ Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar Janua
 ^0775F7 {ITEM} ^oldclr x {NUMS}
 
 [REDPACKETWIDGET_DES_TITLE]
-New Spring Red Packet
+New year packet
 
 [REDPACKETWIDGET_SELECT_TITLE]
 Costume Selection
@@ -73670,7 +73671,7 @@ Richer then dev !
 Earned by spending 10 000 yuans the richest of the richest !!.
 
 [NEWYEARREDPACKETE_TAB0]
-New Spring Grand Prize
+New Year Prize
 
 [NEWYEARREDPACKETE_TAB1]
 Physical Prizes
@@ -73682,7 +73683,7 @@ Sign Up for Lottery
 Get Free Lottery Tickets
 
 [PRODUCT_NEWYEARREDPACKETE_TITLE]
-New Spring Red Packet
+New year packet
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
 Reward Preview:
