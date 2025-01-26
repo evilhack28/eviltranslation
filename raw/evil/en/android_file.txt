@@ -1,4 +1,4 @@
-This translation, as being created by evilhack28 this version is based on the 3.6.0
+﻿This translation, as being created by evilhack28 this version is based on the 3.6.0
 You can't change the file without saying it was based on my translation first 
 
 Discord: https://discord.com/invite/ngTHrgMVuw
@@ -6315,7 +6315,7 @@ MayBee
 
 [MAYBEE_DESCRIPTION]
 {KEYWORD}Plant features: {STAT}yellow plant
-{FLAVOR}"I'm more than just a set of pretty bells ya know? I can also throw a wicked curveball.”
+{FLAVOR}"I'm more than just a set of pretty bells ya know? I can also throw a wicked curveball."
 
 [MAYBEE_DESCRIPTION_HEADER]
 Summon multiple bees to attack the zombies
@@ -6461,7 +6461,7 @@ Dracaena
 {KEYWORD}Range: {STAT}1 row ahead
 {KEYWORD}Special: {STAT}Sends out sword energy to attack zombies, and flying swords can instantly kill zombies with a certain amount of health.
 {KEYWORD}Plant features: {STAT}Green plant
-{FLAVOR}"Hey! Ha!” Dracaena swinged his sword, being insurmountably happy. After all, no plant can say no to a straight long stick.
+{FLAVOR}"Hey! Ha!" Dracaena swinged his sword, being insurmountably happy. After all, no plant can say no to a straight long stick.
 
 [DRACAENA_DESCRIPTION_HEADER]
 Good at swordsmanship, using sword energy and flying swords to attack zombies.
@@ -6971,7 +6971,7 @@ Bun Chi
 {KEYWORD}range: {STAT}1 grid in front
 {KEYWORD}Special: {STAT}Use your ears to continuously slap zombies. After each round of attacks, the purple flowers on the rabbit's head will grow
 {KEYWORD}Plant features: {STAT} green plant
-{FLAVOR}A wise plant once said... "Great results can be achieved with small forces... on your lawn! When it rains... it thunders... and something something ...quickness is the essence of a strong lawn defense.” What does that even mean?!
+{FLAVOR}A wise plant once said... "Great results can be achieved with small forces... on your lawn! When it rains... it thunders... and something something ...quickness is the essence of a strong lawn defense." What does that even mean?!
 
 [WATERRABBIT_DESCRIPTION_HEADER]
 Uses its ears to hit zombies, and after each round of attacks, the flower on Bun Chi's head will grow
@@ -8247,7 +8247,7 @@ Pocket Paph
 {KEYWORD}Range: {STAT}single line  
 {KEYWORD}Feature: {STAT}launch random items  
 {KEYWORD}Plant feature: {STAT}Pink plant
-{FLAVOR}Nobody knows how many things can be stuffed into Pocket Paph’s pocket. Laser Bean’s bamboo-copter, Potato Mine’s eye patch… everyone’s looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
+{FLAVOR}Nobody knows how many things can be stuffed into Pocket Paph's pocket. Laser Bean's bamboo-copter, Potato Mine's eye patch... everyone's looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
 
 [PAPHIOPEDILUM_DESCRIPTION_HEADER]
 Throws various items with different effects in a tossing manner
@@ -16208,7 +16208,7 @@ Complemented
 Buy
 
 [GEM_BUY_RMB]
-Yuan
+¥
 
 [PLANT_BUY_FULL_PIECE]
 Get it now
@@ -17688,12 +17688,12 @@ Dear plant buddies,
  
 
 [NOTICE_CONTENT_FIRST_QQ]
-Dear plant buddies, 
- Crazy Dave has traveled to China, and a big wave of KongFu zombies sharpening their knives is coming to your head! 
+Dear plant buddies, 
+ Crazy Dave has traveled to China, and a big wave of KongFu zombies sharpening their knives is coming to your head! 
  At the same time, we have prepared a more exciting daily challenge for all of you, and do you feel that zombies are not powerful enough? Ancient
  giant zombies have been summoned! Not enough to beat just one snowman zombie each time? We have a snowman rampaging, and a large number of snowman zombies in the Year of the Horse are coming at you!
  A new plant dressing system is already online! Putting new clothing on the plants, in addition to being more gorgeous, can also unlock new plant skills! And beat the giants every day to get these precious prizes!
- New KongFu Plants, new gameplay makes a shining debut! Plant plants with Dave and experience a new game of joy! 
+ New KongFu Plants, new gameplay makes a shining debut! Plant plants with Dave and experience a new game of joy! 
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
 Old progress was selected
@@ -17853,7 +17853,7 @@ First Charge Pack
 Recharge {NUMBER} ¥
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-Recharge **** Yuan
+Recharge **** ¥
 
 [RECHARGE_HIDE_BTN]
 Hide
@@ -19509,7 +19509,7 @@ Driving a sea-battle specialized high-tech vehicle, Zomboss will employ various 
 Zombot War Wagon
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY_DESCRIPTION]
-{FLAVOR}Power, power, power. When the Doctor completed his new ride, the power unit became a major challenge. Embracing the philosophy of great strength leads to miracles, the Doctor ultimately chose an unimaginable power structure—Doctorism—to drive the vehicle, as you can see from its spectacular entrance.
+{FLAVOR}Power, power, power. When the Doctor completed his new ride, the power unit became a major challenge. Embracing the philosophy of great strength leads to miracles, the Doctor ultimately chose an unimaginable power structure-Doctorism-to drive the vehicle, as you can see from its spectacular entrance.
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY_DESCRIPTION_HEADER]
 Driving a plains-specialized high-tech vehicle, Zomboss will employ various attack methods.
@@ -19529,7 +19529,7 @@ After taking a vacation for many years in a distant time, Zomboss will employ va
 Zombot Sharktronic Sub
 
 [ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION]
-{FLAVOR}When Zomboss's trusted engineer, Xiao Ming, sank his experimental ship, which he couldn't even count the fingers and toes of, the next generation of Zomboss's specialized aquatic vehicle was born. It has the ability to float in water and won't rust too quickly! Although its power system often stalls due to consuming too much seaweed, the Doctor still gave it a cool name—the Big Eye.
+{FLAVOR}When Zomboss's trusted engineer, Xiao Ming, sank his experimental ship, which he couldn't even count the fingers and toes of, the next generation of Zomboss's specialized aquatic vehicle was born. It has the ability to float in water and won't rust too quickly! Although its power system often stalls due to consuming too much seaweed, the Doctor still gave it a cool name-the Big Eye.
 
 [ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION_HEADER]
 Driving a mechanical shark, Zomboss leads a large group of sharks.
@@ -23870,7 +23870,7 @@ Bamboo Memberwai
 
 [CRACKER_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} A man outside Zhu Yuan lives in a big house in the west of Fireworks Town. Although he looks evil, he is actually a kind old man who likes children. Every New Year, he sends firecrackers and fireworks to the little ones in town, hoping they will have a happy New Year. And his biggest wish is to hope that his grandson Bamboo Shoots, who is studying in the distance, can one day hit the door of this house by stepping on the piece of firecrackers......
+{FLAVOR} A man outside Zhu ¥ lives in a big house in the west of Fireworks Town. Although he looks evil, he is actually a kind old man who likes children. Every New Year, he sends firecrackers and fireworks to the little ones in town, hoping they will have a happy New Year. And his biggest wish is to hope that his grandson Bamboo Shoots, who is studying in the distance, can one day hit the door of this house by stepping on the piece of firecrackers......
 
 [CRACKER_DESCRIPTION_HEADER]
 Bamboo members can cause explosive damage to approaching zombies.
@@ -26605,7 +26605,7 @@ The fattest weasel on Earth can only be found in the country of fast food.
 
 [ZOMBIE_ICEAGE_FAT_WEASEL_DESCRIPTION]
 {KEYWORD}Special: {STAT}Takes all the game files just by her size.
-{FLAVOR}Don’t eat too much fast food, or you'll end up like this weasel. Even after intense exercise, she can't lose weight. Now, she just rolls on the ground.
+{FLAVOR}Don't eat too much fast food, or you'll end up like this weasel. Even after intense exercise, she can't lose weight. Now, she just rolls on the ground.
 
 [ZOMBIE_ICEAGE_WEASEL]
 Ice Weasel
@@ -26639,7 +26639,7 @@ Skiing Zombie
 The Skiing Zombie can take off from the prone Walrus Zombie.
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION]
-{FLAVOR} The Skiing Zombie loves challenges and adventures. He really hopes to be able to fly off a small slope like the performers he watched as a child, perform various complex maneuvers in the air, and then land safely. So after he grew up, he bravely tried it—back then he was too young to see the sign standing in front of the performance venue: Dangerous Stunts, Do Not Imitate...
+{FLAVOR} The Skiing Zombie loves challenges and adventures. He really hopes to be able to fly off a small slope like the performers he watched as a child, perform various complex maneuvers in the air, and then land safely. So after he grew up, he bravely tried it-back then he was too young to see the sign standing in front of the performance venue: Dangerous Stunts, Do Not Imitate...
 
 [ZOMBIE_ICEAGE_WALRUS]
 Walrus Zombie
@@ -27077,10 +27077,10 @@ Try luck
 {SAY:zombossicon}Before that, let us begin a grand performance!  
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_4]  
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn’t understand a word.  
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn't understand a word.  
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_5]  
-{EXCITED:winnie}He said he’s going to take you down.  
+{EXCITED:winnie}He said he's going to take you down.  
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_6]  
 {EXCITED:crazydave}Maybe he has tacos with him.  
@@ -27095,7 +27095,7 @@ Try luck
 {SAY:zombossicon}You revel in temporary joys, but know this: I shall return like a bolt of lightning!  
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]  
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn’t understand a thing.  
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn't understand a thing.  
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]  
 {TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic failure.  
@@ -34571,7 +34571,7 @@ Click Super Large Gift 3 times to open the mysterious treasure!
 Click on the fireworks box 3 times to open the mysterious treasure!
 
 [LOD_OPEN_REWARDS_BIRTHDAYZ_FOOTER]
-Win the gem every time you win! 
+Win the gem every time you win! 
 
 [LOD_OPEN_REWARDS_FOOTER]
 Receive 2 times gold coin reward, source is
@@ -35156,7 +35156,7 @@ It's hard to grind.
 {SAY:CRAZYDAVE} This place is as cold as, uh, like ice. . . . . . Not to mention there is a large group of zombies waiting for you.
 
 [NARRATIVE_DANGER_ROOM_INTRO_ICEAGE_3]
-{PLAYFUL:CRAZYDAVE} It's best to do some hot zombie fighting moves. Or put on a warm coat. 
+{PLAYFUL:CRAZYDAVE} It's best to do some hot zombie fighting moves. Or put on a warm coat. 
 
 [NARRATIVE_DANGER_ROOM_INTRO_LOSTCITY_1]
 {NPC_ENTER:CRAZYDAVE}{SAY}Hello, neighbor! Welcome to the Temple of Bloom!
@@ -36272,10 +36272,10 @@ It's hard to grind.
 {EXCITED:CRAZYDAVE} Even if the end of the world is the end of the world, I will not let this happen, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
-{SAY:CRAZYDAVE} It's time to release the Fire Peashooter! 
+{SAY:CRAZYDAVE} It's time to release the Fire Peashooter! 
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_5]
-{PLAYFUL:CRAZYDAVE} She can release heat energy to zombies and warm nearby friends! 
+{PLAYFUL:CRAZYDAVE} She can release heat energy to zombies and warm nearby friends! 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_8]
 {SAY:CRAZYDAVE}Don't worry! We will sensibly plant them to stop the zombie cold snap!
 
@@ -36401,7 +36401,7 @@ It's hard to grind.
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:winnie} Dave classmate, I detected an ice cube approaching.
 
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_2]
-{EXCITED:CRAZYDAVE} looks like a popsicle zombie. 
+{EXCITED:CRAZYDAVE} looks like a popsicle zombie. 
 
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_3]
 {SAY:WINNIE} analysis shows that this terrifying ice cube will unlock a shivering challenge.
@@ -36419,7 +36419,7 @@ It's hard to grind.
 {SAY:CRAZYDAVEICON} uh. . . . . . I don't have either. Doing that must be four crazy!
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_4]
-{SAY:WINNIEICON}Hey. Keep an eye out for strange slabs during your tongue recovery. 
+{SAY:WINNIEICON}Hey. Keep an eye out for strange slabs during your tongue recovery. 
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_5]
 {SAY:WINNIEICON} It seems to be a warning sign, written in cave zombie language.
@@ -39078,7 +39078,7 @@ Lost City Part 2 is now open!
 Preview the second part of Lost City in advance.
 
 [WORLDMAP_EVENT_LOD_LOST2_TEASER_TITLE]
-Explore more! 
+Explore more! 
 
 [WORLDMAP_EVENT_LOD_MASHUP_DESC]
 Daily Mixed Levels. Win the jackpot!
@@ -40781,7 +40781,7 @@ Quick Fusion will automatically combine overflow fragments; manual ratio adjustm
 Do not remind me again today
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]  
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What’s this? A vortex I’ve never seen before?  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What's this? A vortex I've never seen before?  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]  
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows this is a new vortex black hole caused by chaotic temporal fluctuations in the spacetime channel.  
@@ -40790,28 +40790,28 @@ Do not remind me again today
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} A black hole? Plants always need to dig a hole in the soil to take root and sprout.  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} You’re not wrong, Dave, but according to the data, this isn’t connecting to a giant plant—it’s leading to a new universe.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} You're not wrong, Dave, but according to the data, this isn't connecting to a giant plant-it's leading to a new universe.  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We’re being sucked in!  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We're being sucked in!  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]  
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} New-universe-flavored tacos! Here I come!  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]  
-{NPC_ENTER:no42zombossicon} Let’s see what kind of chaos this disturbance has brought me!  
+{NPC_ENTER:no42zombossicon} Let's see what kind of chaos this disturbance has brought me!  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]  
 {NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum—I won’t let it slide!  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum-I won't let it slide!  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]  
-{NPC_ENTER:no42zombossicon} It seems this disruption hasn’t given you any decent help. You should take better care of your face!  
+{NPC_ENTER:no42zombossicon} It seems this disruption hasn't given you any decent help. You should take better care of your face!  
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It’s because you stole the wig! You’ve destabilized the parallel worlds! I will catch you!  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It's because you stole the wig! You've destabilized the parallel worlds! I will catch you!  
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]  
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows... Universe No. 42 has a 42% similarity with our universe.  
@@ -40820,7 +40820,7 @@ Do not remind me again today
 {NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here may look the same but have surprising differences.  
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who’s this talking car?  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who's this talking car?  
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]  
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Scanning... User identified: Tough Guy Dave, registration complete.  
@@ -40829,7 +40829,7 @@ Do not remind me again today
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Data indicates that Tough Guy Dave from Universe No. 42 has a 42% thought synchronization with Crazy Dave.  
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} I don’t understand half of what you’re saying, but whatever, help me deal with Handsome Zomboss! 
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} I don't understand half of what you're saying, but whatever, help me deal with Handsome Zomboss! 
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_1]
 {NPC_ENTER:winnie}{PLAYFUL:winnie} 这里的植物和僵尸好奇怪啊。
@@ -41506,7 +41506,7 @@ Pack refresh:
 Original PRICE
 
 [LOST_NETWORK_ACTIVE_OLD_COST_3]
-Yuan
+¥
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
 {COST} ¥
@@ -41768,13 +41768,13 @@ Double Dan Defense Challenge Victory
 A large number of prizes can be obtained by participating in the Double Dan Defense Campaign every day
 
 [YUANBAODEFENCE_WIN_HEADER_TITLE]
-Victory in the Battle of Yuanbao
+Victory in the Battle of ¥bao
 
 [YUANBAO_DZ_HEADER]
 Click on the red envelope to see what gifts there are in it ～
 
 [YUANBAODEFENCE_DZ_FOOT]
-If you participate in the Yuanbao Battle event the first 3 times a day, you can draw special rewards!
+If you participate in the ¥bao Battle event the first 3 times a day, you can draw special rewards!
 
 [SUMMEREVENTGAMEMODE_DAYS_TITLE]
 {DAY}D
@@ -47115,7 +47115,7 @@ Total logins: ^3AAD14 ^oldclr
 Please check if there are privileges or refresh the active interface
 
 [DAVE_TREASURE_BUY_1]
-^FFFF00 60 ^oldclr Yuan Purchase
+^FFFF00 60 ^oldclr ¥ Purchase
 
 [DAVE_TREASURE_BUY_2]
 Activate to claim
@@ -47312,7 +47312,7 @@ Penny's Pursuit Guide
 During the event, complete the mission to claim points, and accumulate enough points to receive a rich Penny pursuit reward.
 
 [PENNY_ADVANCED_GUIDE_BUY]
-^FFFF00 30 ^oldclr Yuan Purchase
+^FFFF00 30 ^oldclr ¥ Purchase
 
 [PENNY_INTGETRAL]
 Number of stars:
@@ -47357,7 +47357,7 @@ Travel Log
 Daily tasks
 
 [TRAVEL_LOG_WEEKLY_TASK]
-Special Events
+Special tasks
 
 [TRAVEL_LOG_WORLD_TASK]
 World task
@@ -49184,7 +49184,7 @@ Cool Summer Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the “Treasure” section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclr^.
@@ -49198,7 +49198,7 @@ Cool Summer Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the “Treasure” section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclr^.
@@ -49211,7 +49211,7 @@ Cool Summer Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the “Treasure” section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclr^.
@@ -49224,7 +49224,7 @@ Cool Summer Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the “Treasure” section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclr^.
@@ -49237,7 +49237,7 @@ Cool Summer Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the “Treasure” section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclr^.
@@ -52555,7 +52555,7 @@ Luxury sign-in
 Received
 
 [DISCOUNT_SHOP_ACTIVITY_DESC]
-During the event period, June 1 — June 10, recharge any amount of diamonds daily to unlock discounted items from the daily prize pool.
+During the event period, June 1 - June 10, recharge any amount of diamonds daily to unlock discounted items from the daily prize pool.
 
 [DISCOUNT_SHOP_ACTIVITY_DESC_PARAM]
 During the event period, from {MONTH}/{START} to {MONTH}/{END}, recharge any amount of diamonds daily to unlock discounted items from the daily prize pool.
@@ -55203,252 +55203,252 @@ Chapter 3 Acquisition, Use, and Custody of Game Accounts
 
 [PRIVACY_RULE_TXT_6]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
-  
+  
  4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the 《 privacy policy 》 and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
-  
+  
  4.2 Tuowei Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as name, personal valid ID number, contact information, home address, etc. in user registration information to any third party without your permission, except in the following circumstances:
  (1) You or your guardian authorizes Tuowei Company to disclose；
  (2) Relevant laws require Tuowei Information Systems Co., Ltd. to disclose；
  (3) Judicial or administrative agencies require Tuowei Information Systems Co., Ltd. to provide it based on legal procedures；
  (4) When Tuowei Information Systems Co., Ltd. files a lawsuit or arbitration against you in order to safeguard its legitimate rights and interests；
  (5) When providing your personally identifiable information at the legal request of your guardian.
-  
+  
  4.3 You fully understand and agree: If you disclose important information and information such as your various property accounts, bank cards, credit cards and corresponding passwords to others in the game services of Tuowei Information Systems Co., Ltd., any losses incurred will be borne by you.
 
 [PRIVACY_RULE_TXT_7]
 Chapter 5 Games of Tuowei Information Systems Co, Ltd and Game Services of Tuowei Information Systems Co, Ltd
-  
+  
  5.1 You may use Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services only for non-commercial purposes in the following ways:
-  
+  
  (1) Receive, download, install, start, upgrade, log in, display, run and/or take screenshots of Tuowei Information Systems Co., Ltd. games；
-  
+  
  (2) Create game characters, set online names, view game rules, user personal information, game results, purchase and use virtual items through legitimate channels in the game, etc.
-  
+  
  (3) Use one or more other functions supported and allowed by Tuowei Information Systems Co., Ltd. games.
-  
+  
 Any other form of unlicensed installation, use, access, display, operation, and transfer you make, will be considered a breach of the Agreement.
 
 [PRIVACY_RULE_TXT_8]
 5.2 In the process of using Tuowei Information System Co., Ltd.'s game services, you shall not record and disseminate Tuowei Information System Co., Ltd.'s game content to others in any way without Tuowei Information System Co., Ltd.'s permission, including not using any third-party software for online dissemination, etc.
-  
+  
  5.3 When provided in the form of software by Tuowei Information Systems Co., Ltd., you should also comply with the provisions of this Agreement on software download and installation when using Tuowei Information Systems Co., Ltd. games and services.
-  
+  
  5.4 If Tuowei Information Systems Co., Ltd. discovers or receives reports or complaints from others that you have violated the provisions of this agreement, Tuowei Information Systems Co., Ltd. has the right to delete relevant content at any time without notice, and will punish illegal game accounts depending on the circumstances of the behavior. Punishments include but are not limited to warnings, restrictions or prohibitions on the use of all or part of functions、 Penalties for banning game accounts until they are cancelled, and announcement of the results.
-  
+  
  5.5 You fully understand and agree that Tuowei Information Systems Co., Ltd. has the right to reasonably judge and punish violations of relevant laws, regulations or the provisions of this agreement, take appropriate legal actions against any user who violates laws and regulations, and save relevant information in accordance with laws and regulations. Report to relevant departments, etc., users should bear all legal responsibilities arising therefrom alone.
-  
+  
  5.6 You fully understand and agree that you shall be independently responsible for any claims, demands or losses caused or caused by third parties due to your violation of this Agreement or relevant terms of service; Tuowei Information Systems Co., Ltd. has suffered losses as a result, you shall also compensate together.
-  
+  
  5.7 You fully understand and agree that virtual items, etc. are part of the game services of Tuowei Information Systems Co., Ltd. Tuowei Information Systems Co., Ltd. hereby allows you to obtain the right to use them in accordance with this agreement. Your purchase and use of virtual items, etc. shall follow the requirements of this Agreement and the specific rules of the game; at the same time, virtual items, etc. may be subject to a certain validity period. If you do not use it within the specified validity period, except for force majeure or attributable to Tuowei Information Systems Co., Ltd., once the validity period expires, it will automatically expire.
-  
+  
  5.8 You fully understand and agree: In order to create a fair and healthy gaming environment, in the process of your use of Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. has the right to understand your relevant terminal equipment information through technical means. Once any unauthorized procedure has been found that would endanger the normal operation of the game services of Tuowei Information Systems Co, Ltd, Tuowei Information Systems Co, Ltd will collect all information related to this and take reasonable measures to combat it.
-  
+  
  5.9 You fully understand and agree that when you use the charging function of Tuowei Information System Co., Ltd.'s games, you should pay the corresponding fees in accordance with the requirements of Tuowei Information System Co., Ltd. Moreover, this right belongs to the operating autonomy of Tuowei Information System Co., Ltd. Tuowei Information System Co., Ltd. reserves the right to change the business model at any time, that is, it reserves the right to change the rate standard of the charge, the software functions of the charge, the charging objects and the charging time. At the same time, Tuowei Information Systems Co., Ltd. also reserves the right to upgrade, revise, add, delete, modify, change the functions of the application or change the rules of the game. If you do not accept such changes, you should immediately stop using the application; if you continue to use the application, it will be deemed that you accept the changed business model.
-  
+  
  5.10 You fully understand and agree: In order to ensure the game speed of you and other users, Tuowei Information System Co., Ltd. has the right to regularly transfer or clear some past game data stored on the game server of Tuowei Information System Co., Ltd.
-  
+  
  5.11 You fully understand and agree that the game services you are using involve Internet services and may be affected by unstable factors in various aspects of the Internet. There is therefore a risk that this game service will be disrupted or will not meet user requirements due to force majeure, viral or hacking attacks, system instability, location of the user, user shutdown, and any other technology, Internet, communication line causes, etc.
-  
+  
 In view of this, to the maximum extent permitted by applicable law, Tuowei Information Systems Co., Ltd. does not guarantee that the game services provided will definitely meet your requirements, nor that the game services provided will not be interrupted, and does not guarantee that the game services will not be interrupted. There is no guarantee for the timeliness, security, occurrence of errors, and whether the information can be transmitted accurately, timely, and smoothly.
-  
+  
  5.12 You fully understand and agree that when using the game services of Tuowei Information Systems Co., Ltd., there is threatening, defamatory, objectionable or illegal content or behavior or infringement of the rights of others from any other person. (including intellectual property rights), you must bear the above risks, Tuowei Information Systems Co., Ltd. does not make any type of guarantee for game services, whether explicit or implicit, including all implied guarantees regarding the authenticity, merchantability, fitness for a specific purpose, ownership and non-infringement of the information. and conditions, resulting in any direct, indirect, incidental, special and subsequent damage arising from your improper or illegal use of the service, No liability.
 
 [PRIVACY_RULE_TXT_9]
 5.13 You fully understand and pay attention to the following:
-  
+  
  (1) Tuowei Information Systems Co., Ltd. may update applications from time to time by publishing software upgrade packages or software patches, online upgrades, etc. During the update process, Tuowei Information Systems Co., Ltd. may retrieve and collect your personal client software version information about the game, and automatically replace, modify, delete, add, modify, supplement, etc. This behavior is a necessary operation or step for software update. If you do not agree to Tuowei Information Systems Co., Ltd. to perform such operation, please do not update it; the behavior you use is deemed to be your consent. Tuowei Information Systems Co., Ltd. performs such operation.
-  
+  
  (2) For games, some updates may be updates to the software version, and if you do not make such updates, you will not be able to log in to the app. Moreover, such an update will cause the original software version on the terminal you are using to be completely replaced by the new software version.
-  
+  
  (3) Obtaining game coins, game props, game equipment and other virtual items from third parties may pose various risks. You may not obtain the above-mentioned game virtual items from a third party. If you insist on obtaining the above-mentioned game virtual items from a third party, you shall bear the corresponding risks. Tuowei Information Systems Co., Ltd. has the right to directly retrieve or delete such game virtual items. Delete and other processing.
-  
+  
  (4) The measures taken by Tuowei Information Systems Co., Ltd. due to users engaging in violations of this Agreement or regulations may cause virtual items with a service period under your current game account to expire during the period of taking the above measures and be unable to continue to be used, the losses caused to you will be borne by you. That is, the time it takes for Tuowei Information Systems Co., Ltd. to take the above measures is calculated in the use period of virtual items with a use period; after the execution of such measures is terminated, the use period of virtual items will not be extended as a result.
-  
+  
  5.14 Tuowei Information Systems Co., Ltd. may provide you with game rule descriptions, bugs (also known as vulnerabilities, defects, etc.) or plug-in complaints, and game item retrieval through the official website, customer service phone number, game administrator, or other channels, game item lock or unlock, account complaint and other customer services, the provision of the above services should be based on the following prerequisites:
-  
+  
  (1) Understand the content, requirements and tariffs of these customer services through the official customer service website of Tuowei Information Systems Co., Ltd. or other channels provided by Tuowei Information Systems Co., Ltd., carefully choose whether you need to enjoy corresponding customer services, and provide Tuowei Information Systems Co., Ltd. to truly and accurately express your needs.
-  
+  
  (2) Agree and accept Tuowei Information Systems Co., Ltd.'s special agreement or terms on these customer services.
-  
+  
  (3) truthfully provide your relevant personal information and game status in accordance with the requirements of Tuowei Information Systems Co., Ltd., as well as other users you know or the online game itself, such as: your account and the personal information under it, Online game login status and game items status, bugs (also known as vulnerabilities, defects, etc.) in the application、 Plug-ins and other players you know about using bugs (also known as vulnerabilities, defects, etc.) or plug-ins.
 
 [PRIVACY_RULE_TXT_10]
 5.15 When one of the following circumstances occurs, Tuowei Information Systems Co., Ltd. has the right to stop or interrupt the services provided by the game server. For inconvenience or damage caused thereby, Tuowei Information Systems Co., Ltd. will not be liable to users or third parties. No liability:
-  
+  
  (1) For regular inspections or construction, updating software and hardware, etc., Tuowei Information Systems Co., Ltd. has the right to suspend services, but will complete maintenance and update work as soon as possible；
-  
+  
  (2) The server is damaged and cannot operate normally；
-  
+  
  (3) Sudden failure of software, hardware and electronic communication equipment；
-  
+  
  (4) Network provider lines or other faults；
-  
+  
  (5) In order to maintain national security or the personal safety of other users and third parties in emergencies；
-  
+  
  (6) Force majeure and other third-party reasons.
-  
+  
  5.16 Tuowei Information System Co., Ltd. will take effective measures to protect the legitimate rights and interests of minors in the process of using Tuowei Information System Co., Ltd.'s game services in accordance with relevant laws, regulations and the provisions of this agreement, including possible technical measures, prohibit minors from being exposed to inappropriate games or game functions, limit minors' game time, and prevent minors from being addicted to the Internet. All users of minors should carefully read and follow these guidelines and instructions under the guidance of their legal guardian; other players should avoid publishing and producing any content that is harmful to the physical and mental health of minors in the process of using the game services of Tuowei Information System Co., Ltd., and jointly create a healthy gaming environment.
 
 [PRIVACY_RULE_TXT_11]
 CHAPTER VI USER CANDARD OF CONDUCT
-  
+  
  6.1 You fully understand and agree that you must be responsible for all actions under your game account, including any content you publish and any consequences arising therefrom. You shall make your own judgment on the content in the game of Tuowei Information Systems Co., Ltd. and bear all risks arising from the use of Tuowei Information Systems Co., Ltd. game services, including due to the correctness of Tuowei Information Systems Co., Ltd. game content. risks arising from reliance on the accuracy, completeness or practicality. Tuowei Information Systems GmbH Games cannot and will not be liable for any loss or damage resulting from the aforementioned risks.
-  
+  
  6.2 In addition to using the game services of Tuowei Information System Co., Ltd. as stipulated in this agreement, you shall not engage in any infringement of the intellectual property rights related to the game of Tuowei Information System Co., Ltd. and the game components of Tuowei Information System Co., Ltd., or conduct other acts that harm the legitimate rights and interests of Tuowei Information System Co., Ltd. or other third parties.
-  
+  
  6.3 Unless permitted by law or with the written permission of Tuowei Information Systems Co., Ltd., you may not commit the following acts while using Tuowei Information Systems Co., Ltd.'s game services:
-  
+  
  (1) Delete all copyright information and content on the game and other copies；
-  
+  
  (2) Reverse engineering, reverse assembly, reverse compilation of the game or otherwise attempt to discover the source code of the software, etc., and use or disclose such source code to any third party；
-  
+  
  (3) Scan, explore, and test game software to detect, discover, and find possible bugs (also known as vulnerabilities, defects, etc.) or weaknesses；
-  
+  
  (4) Copy, modify, add, delete, and hang up the data released into any terminal memory during the operation of the game software or software, the interaction data between the client and the server during the operation of the software, and the system data necessary for the operation of the software. Run or create any derivative works, including but not limited to using plug-ins, plug-ins or non-legally authorized third-party tools/ Service access software and related systems；
-  
+  
  (5) Modify or forge instructions and data in the operation of the software, add, delete, or change the functions or operating effects of the software, or operate or disseminate the software and methods used for the above purposes to the public, regardless of whether the above behavior is for commercial purposes；
-  
+  
  (6) Use third-party software, plug-ins, plug-ins, and systems developed and authorized by Tuowei Information System Co., Ltd., use Tuowei Information System Co., Ltd. games and Tuowei Information System Co., Ltd. game services, or produce, Publish and disseminate third-party software, plug-ins, plug-ins, and systems developed and authorized by Feituowei Information System Co., Ltd；
-  
+  
  (7) Use, rent, lend, copy, modify, link, reprint, compile, publish, publish, and establish mirror sites for content in the game that Tuowei Information System Co., Ltd. owns intellectual property rights, and establish relevant Tuowei Information System Co., Ltd. Mirror sites for games, or take web (network) snapshots, or use server setup and other methods, Provide others with exactly the same or similar services as the game services of Tuowei Information Systems Co., Ltd；
-  
+  
  (8) Separate any part of the game of Tuowei Information Systems Co., Ltd. for separate use, or perform other uses that do not comply with this Agreement；
-  
+  
  (9) Use the name, trademark or other intellectual property rights of Tuowei Information Systems Co., Ltd.'s games in a manner inconsistent with the provisions of this Agreement；
-  
+  
  (10) Other acts that have not been expressly authorized by Tuowei Information Systems Co., Ltd.
 
 [PRIVACY_RULE_TXT_12]
 6.4 If you engage in the following behaviors while using Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. will temporarily or permanently ban you based on the severity of the case and in accordance with the provisions of this Agreement and relevant game rules. Prohibit login, delete game account and game data, delete relevant information and other processing measures, In serious cases, the administrative authorities concerned will be handed over for administrative penalties, or you will be held criminally responsible:
-  
+  
  (1) Use games and services to publish, transmit, disseminate, and store content that endangers national security, the reunification of the motherland, and social stability, or insult, slander, pornography, violence, cause uneasiness to others, or violate social ethics and any content that violates national laws, regulations, and policies. Or set up online names and character names containing the above content.
-  
+  
  (2) Use games and services to publish, transmit, disseminate, and store content that infringes upon the legal rights of others such as intellectual property rights, commercial confidentiality rights, portrait rights, and privacy.
-  
+  
  (3) Carry out any behavior that endangers network security, including but not limited to: using unauthorized data or entering unauthorized servers/accounts; entering the public network or other people's terminal systems without permission and deleting, modifying, and adding stored information; Attempt to explore, scan, and test the weaknesses of this software or network or other behaviors that undermine network security without permission; attempt to interfere、 Undermining the normal operation of this  software system or website, deliberately spreading malicious programs or viruses and other acts that undermine and interfere with normal network information services; forging packet names or partial names.
-  
+  
  (4) Carry out any behavior that undermines the fairness of the game services of Tuowei Information System Co., Ltd. or other behaviors that affect the normal order of the game, such as actively or passively brushing points, cheating in partnership, using plug-ins or other cheating software, and using BUG (also called  Vulnerability or  defect, etc.) to obtain improper and illegal benefits, Or use the Internet or other means to make plug-ins, cheating software, and bugs public.
-  
+  
  (5) Use Tuowei Information System Co., Ltd.'s games to engage in any commercial activities such as publishing advertisements and selling goods, or engage in any illegal behavior that infringes on the interests of Tuowei Information System Co., Ltd., such as selling game accounts and selling in-game virtual items or information, illegal recharge, hiring others to provide in-game services and paying remuneration outside the game, For example, for profit-making purposes, make money, power leveling services, trade virtual vouchers for profit-making purposes, or provide intermediary services, spread advertising, etc. Once discovered, Tuowei Information Systems Co., Ltd. has the right to suspend the user account and has the right to determine the suspension period based on the degree of impact you have caused, and Tuowei Information Systems Co., Ltd. has the right to recover and delete all your abnormal income. data.
-  
+  
  (6) Pretend to be Tuowei Information Systems Co., Ltd., game service administrator or game forum administrator, and moderator to publish any fraudulent or false information.
-  
+  
  (7) Various illegal cheating behaviors.
-  
+  
  (8) Stealing other people's game accounts and game items.
-  
+  
  (9) Conduct game account transactions privately, and conduct transactions of game props, game equipment, game coins, etc. privately.
-  
+  
  (10) Exploit possible technical flaws or loopholes in the online game system to make profits for yourself and others in various forms.
-  
+  
  (11) Use all or part of the data information generated and stored in the game during the use of various paid or free games provided by Tuowei Information Systems Co., Ltd. to make profits for yourself and others in various forms.
-  
+  
  (12) Promote plug-ins, private servers, power leveling, coin brushing, Trojans and other content or publicly conduct negative publicity for Tuowei Information Systems Co., Ltd.
-  
+  
  (13) Unauthorized use of the products and services provided by Tuowei Information Systems Co., Ltd. to make profits in reality, as well as other misconduct that is widely recognized in the industry, whether or not it has been expressly enumerated in this Agreement.
-  
+  
  6.5 Except for the usage methods stipulated in this agreement, you may not perform any of the following acts without the permission of Tuowei Information Systems Co., Ltd.; if you want to perform any of the following acts, please contact Tuowei Information Systems Co., Ltd. Contact us and obtain the consent of Tuowei Information Systems Co., Ltd, And at the request of Tuowei Information Systems Co., Ltd., sign an electronic or paper written contract with it:
-  
+  
  (1) Modify, copy, distribute, rent, publish, translate, compile, adapt and/or reproduce the game or its various derivative works, or make it public on the Internet or other means.
-  
+  
  (2) Produce, produce, wholesale, sell, publish and/or publish derivatives adapted from the game.
-  
+  
  (3) Provide testing, bugs (also called  vulnerabilities,  defects, etc.) and plug-in tracking reports, soft article writing and promotion, competitive intelligence collection and other services for the game.
-  
+  
  (4) Use the name, trademark, etc. of the game.
-  
+  
  (5) Conduct other relevant game services that require developer consent other than the above behaviors.
 
 [PRIVACY_RULE_TXT_13]
 6.6 If a user violates this Agreement or relevant regulations, Tuowei Information Systems Co., Ltd. has the right to take one or more of the following measures:
-  
+  
  (1) Immediately disconnect the network connection between the terminal you are currently using and the application server, and you must log in again to continue using the application.
-  
+  
  (2) You are temporarily prohibited from logging into online games with your currently used account.
-  
+  
  (3) You are temporarily prohibited from using a paid function in the application until the date when you pay off the fees owed and pay the corresponding fees in advance to continue using the above paid function.
-  
+  
  (4) Reduce or clear the points, levels and/or honors in the application of the account you are currently using.
-  
+  
  (5) You are temporarily prohibited from making any comments in online games with your currently used account.
-  
+  
  (6) Permanently and irrevocably delete the advertisements, false information or illegal remarks you publish, or take other measures to prevent their dissemination.
-  
+  
  (7) Permanently and irrevocably delete game items such as virtual currencies, game props and/or game equipment that you illegally obtained, or return them to other users who originally obtained their rights to use them through legal channels.
-  
+  
  (8) Permanently and irrevocably cancel or clear the points, levels and/or honors you illegally obtained.
-  
+  
  (9) Permanently and irrevocably prohibit you from making any comments in the app by virtue of your currently used account.
-  
+  
  (10) Permanently and irrevocably delete all game props, game equipment, game coins, points, levels, honors and other information under the account you are currently using, as well as corresponding game data.
-  
+  
  (11) Permanently and irrevocably prohibit you from logging into the application with the account you are currently using, and delete or clear all data, game coins, props, equipment and other information generated by the account in the application.
-  
+  
  (12) Take measures other than those listed above.
-  
+  
 Tuowei Information Systems Co., Ltd. may take one or more of the aforementioned measures continuously, intermittently or alternately.
-  
+  
 If any account or role of the same user violates this Agreement and other relevant provisions, Tuowei Information Systems Co., Ltd. has the right to sanction all accounts and roles under the user, including but not limited to suspending, terminating, and deleting all accounts under the user.
 
 [PRIVACY_RULE_TXT_14]
 CHAPTER VII DOWNLOAD AND INSTALLATION OF SOFTWARE
-  
+  
 7.1 Using Tuowei Information Systems Co., Ltd. game services may require downloading and installing relevant software. You can obtain the software directly from the relevant websites of Tuowei Information Systems Co., Ltd., or you can obtain it from Tuowei Information Systems Co., Ltd. Authorized third party to obtain. If you have never obtained a game of Tuowei Information Systems Co., Ltd. by a third party authorized by Tuowei Information Systems Co., Ltd. or a game with the same name as the game of Tuowei Information Systems Co., Ltd., you will be deemed to have not obtained Tuowei Information Systems Co., Ltd. authorized by the company, Tuowei Information Systems Co., Ltd. cannot guarantee that the game can be used normally, And is not responsible for the loss caused to you as a result.
 
 7.2 Tuowei Information Systems Co., Ltd. may have developed different software versions for different terminal devices or operating systems, including but not limited to multiple application versions such as ios and android. You should choose to download the appropriate version for installation according to the actual situation. After downloading and installing the program, you need to follow the steps prompted by the program to install it correctly.
-  
+  
 7.3 In order to provide more secure services, Tuowei Information Systems Co., Ltd. may recommend you to install other software when installing the software. You can choose to install or not install it.
-  
+  
 7.4 If you no longer need to use the software or need to install a new version, you can uninstall it yourself.
-  
+  
 7.5 In order to ensure the security and functional consistency of Tuowei Information Systems Co., Ltd.'s game services, Tuowei Information Systems Co., Ltd. has the right to update the software without special notice to you, or to modify some functional effects of the software. Make changes or restrictions.
-  
+  
 7.6 After the new version of the software is released, the old version of the software may not be used. Tuowei Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the latest version at any time.
 
 [PRIVACY_RULE_TXT_15]
 Chapter V3 Disclaimer
-  
+  
  8.1 Tuowei Information System Co., Ltd. Games and Tuowei Information System Co., Ltd. game services are subject to the actual situation and version provided to you. Tuowei Information Systems Co., Ltd. does not guarantee that: Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services are error-free and will not be interrupted, all defects have been corrected, or Tuowei Information Systems Co., Ltd. Game Services will not be compromised by viruses or any other factors. Unless expressly provided by law, Tuowei Information Systems Co., Ltd. hereby expressly disclaims any liability for warranty, express or implied, including, but not limited to, the performance, suitability or non-infringement of Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services. guarantee.
-  
+  
  8.2 Under any circumstances, Tuowei Information Systems Co., Ltd. shall not be liable for the losses you suffer during the use of Tuowei Information Systems Co., Ltd. games and Tuowei Information Systems Co., Ltd. game services due to force majeure. Such force majeure events include, but are not limited to, national laws, regulations, policies, that is, orders of state organs or other unpredictable, inevitable and insurmountable events such as earthquakes, fires, snow disasters, fires, tsunamis, typhoons, strikes, wars, etc.
-  
+  
  8.3 Tuowei Information Systems Co., Ltd. may independently decide to change, terminate, or suspend your use of any Tuowei Information Systems Co., Ltd. games and Tuowei Information Systems Co., Ltd. game services at any time based on the information or information it knows or has. No advance notice is required from you, but in accordance with laws and regulations、 Except as agreed in this Agreement or your agreement with Tuowei Information Systems Co., Ltd. requires advance notice. If your actions violate the provisions of laws and regulations or the provisions of this Agreement, Tuowei Information System Co., Ltd. terminates or suspends your use of any Tuowei Information System Co., Ltd. games and Tuowei Information System Co., Ltd. games in accordance with relevant regulations. If the company's game services are provided, Tuowei Information System Co., Ltd. does not need to bear any liability to you and has the right to require you to bear corresponding liability.
-  
+  
  8.4 Tuowei Information System Co., Ltd. Games and Tuowei Information System Co., Ltd. game services may cause bugs in game software (also known as vulnerabilities, defects, etc.), version update defects, third-party virus attacks, Internet connections or any other factors. Abnormal account data such as game characters, game props, game equipment, and game coins. Before the cause of the data abnormality is found out, Tuowei Information Systems Co., Ltd. has the right to temporarily freeze the game account; if it is found that the data abnormality is abnormal game behavior, Tuowei Information Systems Co., Ltd. has the right to restore the game account data to the original state before the abnormality occurs (including recovering transferred data from third parties), And Tuowei Information Systems Co., Ltd. does not assume any responsibility to you.
-  
+  
  8.5 Tuowei Information Systems Co., Ltd. does not authorize you to obtain game accounts, game props, game equipment, game coins, etc. from any third party by purchasing, accepting gifts or other means. Tuowei Information Systems Co., Ltd. is not responsible for third-party transactions, and will not accept complaints caused by disputes over any third-party transactions.
-  
+  
  8.6 You fully understand that the advertisements, links or other forms of promotional content placed by third parties in the games of Tuowei Information Systems Co., Ltd. are provided by them themselves. You should judge their authenticity by yourself. Tuowei Information Systems Co., Ltd. does not make any express or implied guarantee for its promotional content. The transaction of the services or goods you purchase through Tuowei Information Systems Co., Ltd. or the websites it links to exists only between you and the provider of the goods or services, and has nothing to do with Tuowei Information Systems Co., Ltd., Tuowei Information Systems Co., Ltd. does not assume any legal liability arising between you and the provider of the goods or services.
-  
+  
  8.7 You fully understand that there is an objective situation of non-interoperability between different operating systems. This objective situation is not caused by Tuowei Information Systems Co., Ltd., which may cause your recharge and game data in one operating system to not be smoothly transferred to another operating system. operating system. The risk of loss of recharge and loss of game data due to your switching on different systems shall be your own responsibility and Tovi Information Systems Ltd shall not be required to assume any liability.
-  
+  
  8.8 You fully understand that: Tuowei Information Systems Co., Ltd. may set up a forced battle area or gameplay in the game. If you do not agree to the forced battle, please do not enter the game or game area; your entry will be deemed to agree to the gameplay. and accept the corresponding consequences.
 
 [PRIVACY_RULE_TXT_17]
 CHAPTER IX Privacy policy
-  
+  
  9.1 Tuowei Information Systems Co., Ltd. will take reasonable measures to protect users' personal privacy information. Unless otherwise agreed in this agreement, Tuowei Information Systems Co., Ltd.'s game services will follow the unified announcement of Tuowei Information Systems Co., Ltd. 《 privacy policy》.
 
 [PRIVACY_RULE_TXT_18]
 Chapter 10 Interruption, suspension and termination of services
-  
+  
  10.1 Suspension and termination of your services
  (1) If you publish illegal information, seriously violate social ethics, or other behaviors that violate legal prohibitions, Tuowei Information Systems Co., Ltd. shall immediately terminate the provision of services to you.
  (2) If you commit improper acts when accepting services from Tuowei Information Systems Co., Ltd., Tuowei Information Systems Co., Ltd. has the right to terminate the provision of services to you. The specific circumstances of the improper conduct shall be clearly stipulated in this agreement or shall be prohibited sexual conduct that shall be terminated as expressly notified in advance by Tuowei Information System Co., Ltd. Otherwise, Tuowei Information System Co., Ltd. shall not terminate the service to you. provide services.
  (3) If you provide false registered identity information or commit any violation of this Agreement, Tuowei Information System Co., Ltd. has the right to suspend all or part of its services to you; Tuowei Information System Co., Ltd. shall notify you of the suspension measures and inform you During the suspension period, the suspension period should be reasonable, and Tuowei Information System Co., Ltd. shall resume its services to you in a timely manner upon expiration of the suspension period.
  (4) If Tuowei Information Systems Co., Ltd. suspends or terminates the provision of some or all services to you in accordance with the provisions of items (1), (2), and (3) of this paragraph, Tuowei Information Systems Co., Ltd. shall bear the burden of proof.
-  
+  
  10.2 Interruption, suspension and termination of game server operations
  (1) For the normal operation of the game server, Tuowei Information System Co., Ltd. needs to regularly shut down and maintain the game server or perform emergency shutdown maintenance for emergencies; normal service interruption and suspension caused by the above circumstances, please understand, Tuowei Information System Co., Ltd. is obliged to try its best to limit the interruption time to the shortest time.
 When any of the following circumstances occurs, Tuowei Information Systems Co., Ltd. has the right to terminate or interrupt all or part of the services provided by the game server. Tuowei will not be liable to you or a third party for any inconvenience or damage caused thereby. Any liability: ① regular inspection or construction, update of software and hardware, etc., Tuowei Information Systems Co., Ltd. has the right to suspend services, However, Tuowei Information Systems Co., Ltd. will complete the maintenance and update work as soon as possible; the ② game server is damaged and cannot operate normally; ③ sudden software and hardware equipment and electronic communication equipment failures; ④ network provider lines or other failures; ⑤ Under emergencies, in accordance with legal provisions or for the personal safety of you and third parties; ⑥ third-party reasons or other force majeure situations.
-  
+  
  (2) Tuowei Information Systems Co., Ltd. reserves the right to terminate or partially terminate the provision of Tuowei game services if it deems it necessary, and will announce it 60 days in advance before termination.
 Regardless of the reason for terminating the game service of Tuowei Information Systems Co., Ltd., you should take corresponding measures to handle the game virtual items yourself, including but not limited to canceling or stopping the use of your account, game virtual items and other related matters. You may not require Tuowei Information Systems Co., Ltd. to assume any form of liability for compensation or compensation other than the game virtual currency you have purchased but have not yet used due to the complete termination of Tuowei Information Systems Co., Ltd.'s game services, including but not limited to compensation required for no longer being able to continue using user accounts, game virtual items, etc.
 
 [PRIVACY_RULE_TXT_19]
 Chapter 11 Rules for the processing of data exceptions
- 11.1 If Tuowei Information Systems Co., Ltd. discovers that your data is abnormal or there is illegal or other unfair behavior,  other unfair behavior  includes but is not limited to: (1) Using bugs or abnormal game methods to improve game character data and in-game characters Ranking behavior; (2) Do not conduct transactions for the purpose of normal game entertainment interaction needs；  (3) Abnormal trading behavior with the purpose of transferring game virtual items or improving the strength of specific game characters, including but not limited to purchasing game virtual items that are not required for your own game character games, trading game virtual items at abnormal prices, and using your own control Multiple game accounts trade game virtual items with each other, etc.  Tuowei Information Systems Co., Ltd. has the right to conduct investigations and take corresponding measures, including but not limited to: (1) deleting game virtual items; (2) confiscating improper benefits; (3) data retracement or clearing; (4) banning; (5) temporarily prohibiting login; (6) permanently prohibiting login; (7) temporarily isolating; (8) permanently isolating； (9) Forced offline; (10) Cancellation of transactions; (11) Deduction of illegal transactions; (12) Trading function restrictions; (13) Blocking until user accounts are deleted, etc. Users are not entitled to claim any liability from Tuowei as a result.
-  
+ 11.1 If Tuowei Information Systems Co., Ltd. discovers that your data is abnormal or there is illegal or other unfair behavior,  other unfair behavior  includes but is not limited to: (1) Using bugs or abnormal game methods to improve game character data and in-game characters Ranking behavior; (2) Do not conduct transactions for the purpose of normal game entertainment interaction needs；  (3) Abnormal trading behavior with the purpose of transferring game virtual items or improving the strength of specific game characters, including but not limited to purchasing game virtual items that are not required for your own game character games, trading game virtual items at abnormal prices, and using your own control Multiple game accounts trade game virtual items with each other, etc.  Tuowei Information Systems Co., Ltd. has the right to conduct investigations and take corresponding measures, including but not limited to: (1) deleting game virtual items; (2) confiscating improper benefits; (3) data retracement or clearing; (4) banning; (5) temporarily prohibiting login; (6) permanently prohibiting login; (7) temporarily isolating; (8) permanently isolating； (9) Forced offline; (10) Cancellation of transactions; (11) Deduction of illegal transactions; (12) Trading function restrictions; (13) Blocking until user accounts are deleted, etc. Users are not entitled to claim any liability from Tuowei as a result.
+  
 Chapter 12 Rules for the use of game graphics
  12.1 Without the prior written permission of Tuowei Information Systems Co., Ltd., you may not publicly display, copy, disseminate, or play game screens in Tuowei Information Systems Co., Ltd.'s services in whole or in part through third-party software, websites, or platforms, otherwise Tuowei Information Systems Co., Ltd. will have the right to take various handling measures based on your breach of contract, including but not limited to one or more of the following, And Tuowei Information Systems Co., Ltd. reserves the right to further pursue your legal liability: temporarily prohibiting login, forcing offline, and blocking accounts.
 
@@ -55462,22 +55462,22 @@ Chapter 13 Special Conventions on Custom Levels
 [PRIVACY_RULE_TXT_21]
 CHAPTER XIV DAMAGES
  14.1 If your violations in the game cause damage to Tuowei Information Systems Co., Ltd. or a third party, you shall bear corresponding legal liability, and Tuowei Information Systems Co., Ltd. has the right to take all reasonable actions against its own damage. actions, including but not limited to taking back game virtual items, etc, Tuowei Information Systems Co., Ltd. and has the right to claim back the loss from you and require you to bear the reasonable recourse costs of Tuowei Information Systems Co., Ltd.
-  
+  
 CHAPTER XV STORAGE AND SECURITY OF INFORMATION AND LIMITATIONS OF SERVICES
  15.1 Tuowei Information Systems Co., Ltd. will try its best to maintain the security and convenience of the services provided under this agreement, but will not be responsible for the deletion or failure to store information that appears in the service (including but not limited to information posted by users). Tuowei Information Systems Co., Ltd. reserves the right to determine whether your behavior complies with the provisions of this Agreement. If you violate the provisions of this Agreement, Tuowei Information Systems Co., Ltd. has the right to interrupt the services provided to you in accordance with this Agreement.
-  
+  
 CHAPTER XVI Legal regulation
-  
+  
  16.1 When using the game services of Tuowei Information Systems Co., Ltd., you should abide by relevant local laws and regulations and respect local customs and habits. If your actions violate local laws and regulations or moral customs, you should be independently responsible for them.
-  
+  
  16.2 You should avoid involving Tuowei Information Systems Co., Ltd. in political and public events due to the use of Tuowei Information Systems Co., Ltd. game services, otherwise Tuowei Information Systems Co., Ltd. has the right to suspend or terminate its services to you.
 
 [PRIVACY_RULE_TXT_22]
 Chapter 17 Game Software Licensing and Restrictions of Tuowei Information Systems Co., Ltd
  17.1 Subject to your agreement to accept all terms of this Agreement, Tuowei Information Systems Co., Ltd. agrees to grant you non-commercial, revocable, changeable, non-proprietary, non-transferable and non-sublicensable use of this Agreement. The rights of Tuowei Information Systems Co., Ltd. to use game software and Tuowei game services. You can install Bentuowei Information Systems Co., Ltd. game software on a mobile smart device or computer terminal for personal use within the scope of authorization and run a copy of Bentuowei Information Systems Co., Ltd. game software in a manner specified by Bentuowei Information Systems Co., Ltd. and enjoy the services provided by Bentuowei Information Systems Co., Ltd.
-  
+  
  17.2 The license granted to you by Tuowei Information Systems Co., Ltd. based on this agreement is for personal use. If you need to use Tuowei Information System Co., Ltd. game software and Tuowei Information System Co., Ltd. game services outside the scope of personal use, or use Tuowei Information System Co., Ltd. game software and Tuowei Information System Co., Ltd. game services for any commercial use, Then you should contact Tuowei Information Systems Co., Ltd. and obtain separate authorization from Tuowei Information Systems Co., Ltd. Any installation, use, access, display, operation, commercial use, etc. without the permission of Tuowei Information Systems Co., Ltd. is an infringement of Tuowei Information Systems Co., Ltd.
-  
+  
  17.3 Unless otherwise agreed in this Agreement, you may not commit the following acts (whether for profit or non-profit) without the prior written consent of Tuowei Information Systems Co., Ltd:
  (1) Copy, rip, decompile, disassemble, disseminate and display all or part of the programs, user manuals and other graphic, text and audio-visual materials of Tuowei Information Systems Co., Ltd. game software, or to Tuowei Information Systems Co., Ltd. Any functions or programs of the company's game software are reverse engineered.
  (2) Publicly display and play all or part of the game software of Tuowei Information System Co., Ltd./Tuowei Information System Co., Ltd. game services in various forms and on various platforms (including but not limited to online live broadcast platforms, websites, APPs, etc.) part of the content.
@@ -55487,32 +55487,32 @@ Chapter 17 Game Software Licensing and Restrictions of Tuowei Information System
 
 [PRIVACY_RULE_TXT_23]
 Chapter 18 Jurisdiction and application of the law
-  
+  
  18.1 This Agreement applies to the laws and regulations of the People's Republic of China (excluding conflict laws).
-  
+  
  18.2 This agreement was concluded in Hongkou District, Shanghai. If any dispute arises between the two parties regarding the content of this agreement or its execution (including but not limited to contract or other property rights disputes), the two parties shall resolve it through friendly negotiation; if the negotiation fails, both parties agree to submit it to the jurisdiction of the Shanghai Hongkou District People's Court and handle it.
-  
+  
  18.3 The titles of all provisions of this Agreement are for ease of reading only and have no actual meaning themselves. They cannot be used as the basis for the interpretation of the meaning of this Agreement.
-  
+  
  18.4 Regardless of the reasons for which the provisions of this Agreement are partially invalid, the remaining provisions remain valid and binding on all parties.
-  
+  
 CHAPTER 19 CHANGES TO TERMS
  19.1 Tuowei Information Systems Co., Ltd. has the right to modify the terms of this agreement when necessary. Please check the relevant content regularly. If you continue to use the services covered by this Agreement, you will be deemed to have given your consent to the modification of the content; if you do not agree to the modification of the content, you shall uninstall Tuowei Information Systems Co., Ltd. Game Software, terminate this Agreement and cease using Tuowei Information Systems Co., Ltd. Game Services.
 
 [PRIVACY_RULE_TXT_24]
 CHAPTER XX NOTIFICATION
  20.1 All notifications sent to you by Tuowei Information Systems Co., Ltd. can be transmitted through announcements, emails or regular phone calls, e-mails, letters, etc. on important pages of the game, the game official website or the game official forum. At the same time, you hereby agree that Tuowei Information Systems Co., Ltd. can send commercial information to its email, telephone, Yixin and letter.
-  
+  
 Chapter 21 Game Data
 Any data information generated during your participation in the game and stored in the server of Tuowei Information System Co., Ltd., including but not limited to account data information, character data information, level and virtual item data information, etc. (but the user's name, Except for personal identity data such as ID number and phone number), it is part of the game software, Owned and managed by Tuowei Information Systems Co., Ltd., users have the right to modify, transfer, abandon, etc. the data information belonging to their own user accounts through legitimate channels on the premise of complying with the rules of the game.
 
 [PRIVACY_RULE_TXT_25]
 Chapter XXII Other
-  
+  
  22.1 In order to avoid disputes, the user agrees to use the data stored in Tuowei's server as the judgment standard for relevant data and technical issues involved in this agreement. Tovi guarantees the authenticity of this data.
-  
+  
  22.2 According to the advice of the State Administration of Press and Publication on healthy games, Tuowei Information Systems Co., Ltd. reminds you: boycott bad games and refuse pirated games; pay attention to self-protection and beware of being deceived; moderate games benefit the brain and addiction to games hurts the body.
-  
+  
  22.3 If you have any comments or suggestions on this agreement or Tuowei Information Systems Co., Ltd. game services, you can contact the customer service department of Tuowei Information Systems Co., Ltd. and we will provide you with necessary help.
 Contact details are as follows:
 Contact Email: csonline@139.com
@@ -56023,7 +56023,7 @@ Free
 ^FF0000^150 ¥^oldclr^
 
 [MONTHLY_CARD_LINE]
-^FF0000^ —^oldclr^
+^FF0000^ -^oldclr^
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_01]
 Purchase 7 Days Trial
@@ -56182,7 +56182,7 @@ Plant
 Costume
 
 [UI_BAG_ACCESSORY_PIECE]
-qpqendant
+Pendant
 
 [UI_BAG_OTHER_ITEM]
 Other Items
@@ -64006,7 +64006,7 @@ Use keys to unlock hard levels?
 Activate Premium Access
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
-Activate for 45 Yuan
+Activate for 45 ¥
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_STAR_DESC]
 {NUMS}/{NUMS_MAX}
@@ -71357,7 +71357,7 @@ Participate in party assistance, help climb levels, win various rare rewards, an
 [PARTY_ASSIST_TIPS_DESC]
 Activity Rules:
 1. Select 3 custom rewards before starting. Rewards are given at corresponding levels.
-2. After 3 rounds reaching level 10, you’ll get the Nyuwa Ophiuros outfit.
+2. After 3 rounds reaching level 10, you'll get the Nyuwa Ophiuros outfit.
 3. Each assistance increases progress by one level. There's a 10% chance for a Super Reward per level. After 3 rounds at level 10, the Super Reward is guaranteed.
 4. After reaching level 10, reset custom rewards. Players at level 5+ can manually reset.
 5. Complete tasks to get rewards; required outfits can be earned in custom rewards.
@@ -72089,33 +72089,33 @@ Obtained through the Lucky Treasure event or weekly special offer package purcha
 New Year Sign-In
 
 [NFS_LINKAGE_TAB2]
-Yuanbao Tasks
+¥bao Tasks
 
 [NFS_LINKAGE_TAB3]
 Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-Yuanbao Battle Description
+¥bao Battle Description
 
 [NFSLINKAGE_DESCRIPTION]
 Event Rules:
 1. Players can log in daily during the event period to receive valuable rewards. The sign-in rewards last for 14 days.
-2. Yuanbao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
+2. ¥bao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
 3. Event tasks have multiple stages. Only after completing one stage will the next stage be unlocked.
-4. Completing Yuanbao tasks will reward Yuanbao, which can be used to exchange items in the exchange shop.
-5. Yuanbao can be exchanged in the shop only during the event period, so be sure to exchange in time!
+4. Completing ¥bao tasks will reward ¥bao, which can be used to exchange items in the exchange shop.
+5. ¥bao can be exchanged in the shop only during the event period, so be sure to exchange in time!
 
 [MAT_NFSLINKAGE_INTEGRAL]
-Yuanbao
+¥bao
 
 [NFSLINKAGE_TITLE]
-Yuanbao Battle
+¥bao Battle
 
 [MAT_NFSLINKAGE_TICKET]
-Yuanbao
+¥bao
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to receive 14 days of rewards. Complete tasks to earn Yuanbao and exchange them for rewards in the shop!
+During the event, players can log in to receive 14 days of rewards. Complete tasks to earn ¥bao and exchange them for rewards in the shop!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -72321,43 +72321,43 @@ Reduces planting cooldown by 15%
 Level 1
 
 [PLANTWARS_LEVEL_NAME_W1_1_A]
-Level 1 — First part
+Level 1 - First part
 
 [PLANTWARS_LEVEL_NAME_W1_1_B]
-Level 1 — Sceond part
+Level 1 - Sceond part
 
 [PLANTWARS_LEVEL_NAME_W1_2]
 Level 2
 
 [PLANTWARS_LEVEL_NAME_W1_2_A]
-Level 2 — First part
+Level 2 - First part
 
 [PLANTWARS_LEVEL_NAME_W1_2_B]
-Level 2 — Sceond part
+Level 2 - Sceond part
 
 [PLANTWARS_LEVEL_NAME_W1_3]
 Level 3
 
 [PLANTWARS_LEVEL_NAME_W1_3_A]
-Level 3 — First part
+Level 3 - First part
 
 [PLANTWARS_LEVEL_NAME_W1_3_B]
-Level 3 — Sceond part
+Level 3 - Sceond part
 
 [PLANTWARS_LEVEL_NAME_W1_4]
 Level 4
 
 [PLANTWARS_LEVEL_NAME_W1_4_A]
-Level 4 — First part
+Level 4 - First part
 
 [PLANTWARS_LEVEL_NAME_W1_4_B]
-Level 4 — Sceond part
+Level 4 - Sceond part
 
 [PLANTWARS_LEVEL_NAME_W1_5]
 Level 5
 
 [PLANTWARS_LEVEL_NAME_W1_5_A]
-Level 5 — First part
+Level 5 - First part
 
 [PLANTWARS_LEVEL_NAME_W1_5_B]
 Level 5 - Second Half
@@ -73306,7 +73306,7 @@ Gargantuar N.42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION]
 {FLAVOR}yes he's small but is not mean he's weak 
-we Always say "it’s not the small bug that will eat the big one" but i think this time is false
+we Always say "it's not the small bug that will eat the big one" but i think this time is false
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR]
 精英冰风酋长僵尸
@@ -73413,7 +73413,7 @@ Troupe Manipulator
 {KEYWORD}特点：{STAT}创作戏剧
 {FLAVOR}One page from Dr. Zomboss' manuscript:
 "Cowards die many times before their deaths; the valiant never taste of death but once". as the youngest Doctor of Death, Dr. Zomboss' great saga has long spanned every stage of its time. Repeat, revenge, destruction, and a new myth! The Great Dr. Zomboss will definitely make a comeback again! Dr. Zomboss' evil intentions will eventually flourish! (Note, this passage is not to be published: Remembering the Best of College-Troupe Life)."
-                                   — Zomboss: The Greatest Memoir of All Time! Supplement No. 1616
+                                   - Zomboss: The Greatest Memoir of All Time! Supplement No. 1616
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
 The mastermind behind this theatre is a mix of tragic epics and evil chaos.
 
@@ -73494,13 +73494,13 @@ New Year Instructions:
 During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
 
 Daily free Welcome Gift: Diamonds*15
-2 Yuan Gift: Diamonds 30, 10% chance to get a normal costume
-3 Yuan Gift: Diamonds 90, 10% chance to get a rare costume
-6 Yuan Gift: Diamonds 180, 10% chance to get a Advanced costume
+2 ¥ Gift: Diamonds 30, 10% chance to get a normal costume
+3 ¥ Gift: Diamonds 90, 10% chance to get a rare costume
+6 ¥ Gift: Diamonds 180, 10% chance to get a Advanced costume
 
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
-2 Yuan Gift Box
+2 ¥ Gift Box
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
 ¥3 Value Gift Box
@@ -73548,7 +73548,7 @@ Obtained by purchasing value gift boxes in the New Year Pack with a probability.
 Description of the New Year Event
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations Here’s your New Year red packet.
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations Here's your New Year red packet.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
 {SAY:NEWYEARCRAZYDAVE} New Year Red Packet
@@ -73721,7 +73721,7 @@ Top Lucky Player Award
 Open the New Year Pack to get tons of diamonds and rare outfits
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
-Congratulations, you’ve been selected as today’s luckiest player
+Congratulations, you've been selected as today's luckiest player
 
 
 [PVZ2_CHINESE_END]
