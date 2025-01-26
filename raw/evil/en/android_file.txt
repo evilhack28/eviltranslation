@@ -17714,10 +17714,10 @@ Local progress
 (Recommended for newer progress)
 
 [SUMMARY_USE_CLOUD]
-cloud progress
+cloud
 
 [SUMMARY_USE_LOCAL]
-local progress
+local
 
 [SUMMARY_START]
 Start the game
@@ -17732,28 +17732,28 @@ Level progress
 Coins
 
 [HOW_MANY_COINS]
-{COIN_COUNT} Coins
+{COIN_COUNT}
 
 [GEM_NUM_TITLE]
 Diamonds
 
 [PLANT_NUM_TITLE]
-Plants numbers
+Plants
 
 [AVATAR_NUM_TITLE]
 costumes
 
 [HOW_MANY_GEMS]
-{GEM_COUNT} Gems
+{GEM_COUNT}
 
 [SUMMARY_DAYS]
-{DAY_COUNT} Days
+{DAY_COUNT}
 
 [SUMMARY_STAR_AMOUNT]
-{STAR_COUNT} Stars
+{STAR_COUNT}
 
 [SUMMARY_LAST_TIME]
-{MONTH}/{DAY}   {HOUR}:{MIN}
+{MONTH}/{DAY}   {HOUR}:{MIN}:{SECONDS}:{SECONDS_LEFT}
 
 [CARD_GAME_AREA_STAR_NOT_ENOUGH]
 The exclusive stars of this card chapter are insufficient and {NUM} stars are needed
