@@ -56,6 +56,796 @@ want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
 [SPRING_TIPS_8]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
 
+
+[BOSS_CHALLENGE_HEAD_ID_25003]
+Anniversary Champion Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25003]
+Even game designers can’t beat you!
+
+[BOSS_CHALLENGE_HEAD_ID_25004]
+Anniversary Runner-up Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25004]
+When you look up to the peak, countless people are also looking up to you!
+
+[BOSS_CHALLENGE_HEAD_ID_25005]
+Annual Runner-up Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25005]
+The certificate of a master who is qualified to stand on the podium, your record will be unknown to no one!
+
+[BOSS_CHALLENGE_HEAD_ID_25006]
+Anniversary Peak Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25006]
+The elite among the elites, the strong among the strong!
+
+[BOSS_CHALLENGE_HEAD_ID_25007]
+Anniversary Master Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25007]
+This alone can prove that you are one in a million!
+
+[BOSS_CHALLENGE_HEAD_ID_25008]
+Anniversary Warrior Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25008]
+The proof of the most outstanding players, no one knows this game better than you!
+
+[BOSS_CHALLENGE_HEAD_ID_25009]
+Anniversary Avatar
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25009]
+The 3rd anniversary of the trials and tribulations, thank you for your company, the journey of time and space is extremely exciting because of you!
+
+[BOSS_CHALLENGE_HEAD_ID_25010]
+Anniversary Champion Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25010]
+The game designer lost to you again!
+
+[BOSS_CHALLENGE_HEAD_ID_25011]
+Anniversary Runner-up Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25011]
+When you look up to the peak, countless people are also looking up to you!
+
+[BOSS_CHALLENGE_HEAD_ID_25012]
+Annual Runner-up Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25012]
+The certificate of a master who is qualified to stand on the podium, your record will be unknown to no one!
+
+[BOSS_CHALLENGE_HEAD_ID_25013]
+Anniversary Peak Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25013]
+The elite among the elites, the strong among the strong!
+
+[BOSS_CHALLENGE_HEAD_ID_25014]
+Anniversary Master Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25014]
+This alone can prove that you are one in a million!
+
+[BOSS_CHALLENGE_HEAD_ID_25015]
+Anniversary Warrior Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25015]
+The proof of the most outstanding players, no one knows this game better than you!
+
+[BOSS_CHALLENGE_HEAD_ID_25016]
+Anniversary Avatar II
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25016]
+The 3rd anniversary of the trials and tribulations, thank you for your company, the journey of time and space is extremely exciting because of you!
+
+[BOSS_CHALLENGE_HEAD_ID_25017]
+Winter Challenge Champion
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25017]
+Congratulations on winning the title of the strongest in the Winter Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25018]
+Winter Challenge Runner-up
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25018]
+Por una Cabeza!
+
+[BOSS_CHALLENGE_HEAD_ID_25019]
+Winter Challenge Second Runner-up
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25019]
+Cricket third place……
+
+[BOSS_CHALLENGE_HEAD_ID_25020]
+Winter Challenge Pro
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25020]
+Top 10 in the Winter Challenge!
+
+[BOSS_CHALLENGE_HEAD_ID_25021]
+Winter Challenge Master
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25021]
+Top 100 in the Winter Challenge!
+
+[BOSS_CHALLENGE_HEAD_ID_25022]
+Winter Challenge Winner
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25022]
+Top 1000 in the Winter Challenge!
+
+[BOSS_CHALLENGE_HEAD_ID_25023]
+Winter Challenge Winners
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25023]
+Top 5000 in the Winter Challenge!
+
+[BOSS_CHALLENGE_HEAD_ID_25024]
+Winter Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25024]
+To outstanding players who have achieved results in the Winter Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25100]
+Egypt Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25100]
+To players who have achieved results in the Egypt Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25110]
+Pirate Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25110]
+To players who have achieved results in the Pirate Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25120]
+West Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25120]
+To players who have achieved results in the West Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25130]
+Kongfu Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25130]
+To players who have achieved results in the Kongfu Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25140]
+Future Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25140]
+To players who have achieved results in the Future Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25150]
+Dark Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25150]
+To players who have achieved results in the Dark Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25160]
+Beach Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25160]
+To players who have achieved results in the Beach Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25170]
+Glacier Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25170]
+To players who have achieved results in the Glacier Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25180]
+Sky Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25180]
+To players who have achieved results in the Sky Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25190]
+Lost Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25190]
+To players who have achieved results in the Lost Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25200]
+Rock Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25200]
+To players who have achieved results in the Rock Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25210]
+Modern Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25210]
+To players who have achieved results in the Modern Endless Challenge.
+
+[BOSS_CHALLENGE_HEAD_ID_25300]
+Jurassic Marsh Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25300]
+To players who have achieved results in the Jurassic Marsh Endless Challenge.
+
+[DAVE_TREASURE_HEAD_ID_25307]
+Treasure Marauder
+
+[DAVE_TREASURE_HEAD_DES_ID_25307]
+To players who have received the final reward in the Dave's Treasure event.
+
+[DAVE_TREASURE_HEAD_ID_25308]
+Treasure Marauder
+
+[DAVE_TREASURE_HEAD_DES_ID_25308]
+To players who have received the final reward in the Dave's Treasure event.
+
+[DAVE_TREASURE_HEAD_ID_25316]
+June 1'st Treasure Marauder
+
+[DAVE_TREASURE_HEAD_DES_ID_25316]
+To players who have won the June 1st reward in the Dave's Treasure Event.
+
+[ZOMBIE_ROMAN_IMP_HEAD_ID_25318]
+Penny's Pursuit Brick Challenger
+
+[ZOMBIE_ROMAN_IMP_HEAD_DES_ID_25318]
+To the challenger who reached the Brick League in the Penny's Pursuit mode.
+
+[ZOMBIE_ROMAN_BUCKET_HEAD_ID_25319]
+Penny's Pursuit Iron Challenger
+
+[ZOMBIE_ROMAN_BUCKET_HEAD_DES_ID_25319]
+To the challenger who reached the Iron League in the Penny's Pursuit mode.
+
+[ZOMBIE_ROMAN_CONE_HEAD_ID_25320]
+Penny's Pursuit Bronze Challenger
+
+[ZOMBIE_ROMAN_CONE_HEAD_DES_ID_25320]
+To the challenger who reached the Bronze League in the Penny's Pursuit mode.
+
+[ZOMBIE_ROMAN_ARMOR_HELMET_HEAD_ID_25321]
+Penny's Pursuit Silver Challenger
+
+[ZOMBIE_ROMAN_ARMOR_HELMET_HEAD_DES_ID_25321]
+To the challenger who reached the Silver League in the Penny's Pursuit mode.
+
+[ZOMBIE_ROMAN_HEALER_HEAD_ID_25322]
+Penny's Pursuit Gold Challenger
+
+[ZOMBIE_ROMAN_HEALER_HEAD_DES_ID_25322]
+To the challenger who reached the Gold League in the Penny's Pursuit mode.
+
+[ZCORPIAN_BALLISTA_HEAD_ID_25323]
+Penny's Pursuit Diamond Challenger
+
+[ZCORPIAN_BALLISTA_HEAD_DES_ID_25323]
+To the challenger who reached the Diamond League in the Penny's Pursuit mode.
+
+[ZOMBIE_ROMAN_GARGANTUAR_HEAD_ID_25324]
+Penny's Pursuit Legendary Challenger
+
+[ZOMBIE_ROMAN_GARGANTUAR_HEAD_DES_ID_25324]
+The legendary god who travels through time and space, please take our knees!
+
+[MONTHLY_POINT_HEAD_ID_25327]
+Magic Bean Collector
+
+[MONTHLY_POINT_HEAD_DES_ID_25327]
+To players who have received the final reward in the Growth Pack event.
+
+[SUPER_POWERPLANT_HEAD_ID_25330]
+One-corner Tile
+
+[SUPER_POWERPLANT_HEAD_DES_ID_25330]
+After putting it on, you can change the tile pattern generated by Tile Turnip.
+
+[SUMMER_MEMORIES_HEAD_ID_25337]
+Hey Hey
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25337]
+To players journeying through memories.
+Season 1
+
+[SUMMER_MEMORIES_ACHIEVEMENT_ID_25339]
+Achievement Master
+
+[SUMMER_MEMORIES_ACHIEVEMENT_DES_ID_25339]
+To the best in the journey of memories.
+
+[SUMMER_MEMORIES_HEAD_ID_25341]
+Night Sky
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25341]
+To players journeying through memories.
+Season 2
+
+[LEVEL_EDITOR_HEAD_ID_25343]
+Creator Avatar
+
+[LEVEL_EDITOR_HEAD_DES_ID_25343]
+To the players who worked hard to create in Creative Courtyard.
+
+[LEVEL_EDITOR_HEAD_ID_25344]
+Player Avatar
+
+[LEVEL_EDITOR_HEAD_DES_ID_25344]
+To the players who played a lot in Creative Courtyard.
+
+[SUMMER_MEMORIES_HEAD_ID_25345]
+Meow Meow
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25345]
+To players journeying through memories.
+Season 3
+
+[LEVEL_EDITOR_HEAD_ID_25347]
+Spring Sky
+
+[LEVEL_EDITOR_HEAD_DES_ID_25347]
+To the players who worked hard to create in Creative Courtyard's second season.
+
+[LEVEL_EDITOR_HEAD_ID_25348]
+Spring Ground
+
+[LEVEL_EDITOR_HEAD_DES_ID_25348]
+To the players who played a lot in Creative Courtyard's second season.
+
+[SUMMER_MEMORIES_HEAD_ID_25353]
+Song of Spring
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25353]
+To players journeying through memories.
+Season 4
+
+[LEVEL_EDITOR_HEAD_ID_25355]
+Afternoon Tea Waiter
+
+[LEVEL_EDITOR_HEAD_DES_ID_25355]
+It's time to have an afternoon tea together in the atmosphere of the fairy tale world.
+
+[LEVEL_EDITOR_HEAD_ID_25356]
+Afternoon Refreshment Sunflower
+
+[LEVEL_EDITOR_HEAD_DES_ID_25356]
+Sunflower said she likes the atmosphere of the fairy tale world and the delicious afternoon tea very much.
+
+[SUMMER_MEMORIES_HEAD_ID_25357]
+Balloons Flying
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25357]
+To players journeying through memories.
+Season 5
+
+[SUMMER_MEMORIES_HEAD_ID_25363]
+Hot Enough to Melt
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25363]
+To players journeying through memories.
+Season 6
+
+[DAVE_TREASURE_HEAD_ID_25368]
+Anniversary Treasure Marauder
+
+[DAVE_TREASURE_HEAD_DES_ID_25368]
+To players who have won the anniversary reward in the Dave's Treasure Event.
+
+[LEVEL_EDITOR_HEAD_ID_25371]
+Martial Artist Sugarcane Master
+
+[LEVEL_EDITOR_HEAD_DES_ID_25371]
+Sugarcane Master exercises his skills against the stake every day.
+
+[LEVEL_EDITOR_HEAD_ID_25372]
+Special Sausage
+
+[LEVEL_EDITOR_HEAD_DES_ID_25372]
+This special sausage will always try to jump on the table.
+
+[PENNYCLASS_FIRST_HEAD_ID_25349]
+Bachelor of Botany
+
+[PENNYCLASS_FIRST_HEAD_DES_ID_25349]
+Certificate of completing the Ultimate Trial of Penny’s Classroom.
+
+[PENNYCLASS_SECOND_HEAD_ID_25350]
+Master of Botany
+
+[PENNYCLASS_SECOND_HEAD_DES_ID_25350]
+Certificate of completing the Ultimate Trial of Penny’s Classroom.
+
+[PENNYCLASS_THIRD_HEAD_ID_25351]
+Doctor of Botany 
+
+[PENNYCLASS_THIRD_HEAD_DES_ID_25351]
+Certificate of completing the Ultimate Trial of Penny’s Classroom.
+
+[PENNYCLASS_FOURTH_HEAD_ID_25352]
+Master of Plants
+
+[PENNYCLASS_FOURTH_HEAD_DES_ID_25352]
+Certificate of completing the Ultimate Trial of Penny’s Classroom.
+
+[TIME_SUMMON_HEAD_ID_25373]
+Limited-time Summoning Gold Award
+
+[TIME_SUMMON_HEAD_DES_ID_25373]
+To the player who won the first place in the Limited-time Summon event.
+
+[TIME_SUMMON_HEAD_ID_25374]
+Limited-time Summoning Silver Award
+
+[TIME_SUMMON_HEAD_DES_ID_25374]
+To the player who won the second place in the Limited-time Summon event.
+
+[TIME_SUMMON_HEAD_ID_25375]
+Limited-time Summoning Bronze Award
+
+[TIME_SUMMON_HEAD_DES_ID_25375]
+To the player who won the third place in the Limited-time Summon event.
+
+[TIME_SUMMON_HEAD_ID_25376]
+Limited-time Summoning Participant
+
+[TIME_SUMMON_HEAD_DES_ID_25376]
+To players who have been ranked in the Limited-time Summon event.
+Top 4 - 10
+
+[TIME_SUMMON_HEAD_ID_25377]
+Limited-time Summoning Participant
+
+[TIME_SUMMON_HEAD_DES_ID_25377]
+To players who have been ranked in the Limited-time Summon event.
+Top 11 - 50
+
+[TIME_SUMMON_HEAD_ID_25378]
+Limited-time Summoning Participant
+
+[TIME_SUMMON_HEAD_DES_ID_25378]
+To players who have been ranked in the Limited-time Summon event.
+Top 51 - 100
+
+[TIME_SUMMON_HEAD_ID_25379]
+Limited-time Summoning Commemorative Avatar
+
+[TIME_SUMMON_HEAD_DES_ID_25379]
+To players who have participated in the Limited-time Summon event.
+Below top 100
+
+[SUMMER_MEMORIES_HEAD_ID_25380]
+Memories of Autumn
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25380]
+To players journeying through memories.
+Season 7
+
+[SUMMER_MEMORIES_HEAD_ID_25381]
+Christmas Holly
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25381]
+To players journeying through memories.
+Season 8
+
+[SUMMER_MEMORIES_HEAD_ID_25382]
+Happy Year of the Rabbit
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25382]
+To players journeying through memories.
+Season 9
+
+[SUMMER_MEMORIES_HEAD_ID_25383]
+Swaying Youth
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25383]
+To players journeying through memories.
+Season 10
+
+[PLANT_TREE_HEAD_ID_25384]
+Tree of Wisdom
+
+[PLANT_TREE_HEAD_DES_ID_25384]
+Limited avatar for Arbor Day activities.
+
+[SUMMER_MEMORIES_HEAD_ID_25385]
+Joyful Peach
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25385]
+To players journeying through memories.
+Season 11
+
+[SUMMER_MEMORIES_HEAD_ID_25386]
+Surfing Pineapple
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25386]
+To players journeying through memories.
+Season 12
+
+[TENYEAR_MEMORIES_HEAD_ID_25465]
+Tenth Anniversary
+
+[TENYEAR_MEMORIES_HEAD_DES_ID_25465]
+10th Anniversary Spokes-plant winner limited-edition profile picture, thank you for your decade-long love.
+Season 13
+
+[SUMMER_MEMORIES_HEAD_ID_25387]
+Happy Idol House
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25387]
+To players journeying through memories.
+Season 13
+
+[ANNIVERSARY_10TH_HEAD_ID_25388]
+Have a Big Meal
+
+[ANNIVERSARY_10TH_HEAD_DES_ID_25388]
+It's useless to say more, let's eat first.
+
+[PARTYEPSACTIVITY_HEAD_ID_25389]
+Party Cactus
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25389]
+Party Assistance event limited avatar.
+
+[SUMMER_MEMORIES_HEAD_ID_25388]
+The Joy of Harvest
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25388]
+To players journeying through memories.
+Season 14
+
+[HEMUDU_POINT_HEAD_ID_25327]
+Hemudu Linkage
+
+[HEMUDU_POINT_HEAD_DES_ID_25327]
+Discover Hemudu!
+Season 14
+
+[BOSS_CHALLENGE_HEAD_ID_25490]
+Steam Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25490]
+To players who have achieved results in the Steam Endless Challenge.
+
+[PARTYEPSACTIVITY_HEAD_ID_25509]
+Party Apple
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25509]
+Party Assistance event limited avatar.
+
+[SUMMER_MEMORIES_HEAD_ID_25389]
+Enthusiasm is like Fire
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25389]
+To players journeying through memories.
+Season 15
+
+[UNCHARTED_ICEAGE_ID_25390]
+Order a Latte
+
+[UNCHARTED_ICEAGE_HEAD_DES_ID_25390]
+Winter is better with a latte.
+
+[FIRST_RECHARGE_HEAD_ID_25391]
+First Recharge Avatar
+
+[FIRST_RECHARGE_HEAD_DES_ID_25391]
+May you reap happiness in the courtyard and be happy every day.
+
+[PARTYEPSACTIVITY_HEAD_ID_25521]
+Party Cranesbill Fencer
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25521]
+Party Assistance event limited avatar.
+
+[SUMMER_MEMORIES_HEAD_ID_25390]
+hinese New Year Eating Spree
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25390]
+To players journeying through memories.
+Season 16
+
+[PARTYEPSACTIVITY_HEAD_ID_25534]
+Party Gatling Pea
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25534]
+Party Assistance event limited avatar.
+
+[SUMMER_MEMORIES_HEAD_ID_25391]
+Rabbit's Extreme Contempt
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25391]
+To players journeying through memories.
+Season 17
+
+[DRACAENALINKAGE_HEAD_ID_25544]
+Dustless Dracaena
+
+[DRACAENALINKAGE_HEAD_DES_ID_25544]
+Naraka: Bladepoint Linkage Limited Avatar.
+
+[LEVEL_EDITOR_HEAD_ID_25545]
+Garden Carnival
+
+[LEVEL_EDITOR_HEAD_DES_ID_25545]
+It's time for a hearty roller coaster.
+
+[LEVEL_EDITOR_HEAD_ID_25546]
+Zombie Little Yellow Duck
+
+[LEVEL_EDITOR_HEAD_DES_ID_25546]
+Have you seen my little yellow duck?
+
+[UNCHARTED_CHILDRENSDAY_ID_25547]
+Children's Mangosteen
+
+[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25547]
+Come and play happily with the children's mangosteen.
+
+[UNCHARTED_TALE_ID_10000]
+Conqueror of the Fairytale Secret Realm
+
+[UNCHARTED_TALE_HEAD_DES_ID_10000]
+Proof of perfect clearance of the Fairytale Secret Realm.
+
+[SUMMER_MEMORIES_HEAD_ID_25392]
+Holographic Shock
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25392]
+To players journeying through memories.
+Season 18
+
+[PARTYEPSACTIVITY_HEAD_ID_25560]
+Party Mandrake
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25560]
+Party Assistance event limited avatar.
+
+[PARTYEPSACTIVITY_HEAD_ID_25571]
+Party Electric Peel
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25571]
+Party Assistance event limited avatar.
+
+[NEEDFORSPEED_SUNFLOWER_ID_25561]
+Sunflower Speed Holiday
+
+[NEEDFORSPEED_SUNFLOWER_DES_ID_25561]
+Welcome to the world of Need for Speed: Assembly with Sunflower!
+
+[BOSS_CHALLENGE_HEAD_ID_25500]
+Fairytale Endless Challenger
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25500]
+To players who have achieved results in the Fairytale Endless Challenge.
+
+[SUMMER_MEMORIES_HEAD_ID_25393]
+Autumn Appetite
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25393]
+To players journeying through memories.
+Season 19
+
+[PARTYEPSACTIVITY_HEAD_ID_25572]
+Party Orchid Mage
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25572]
+Party Assistance event limited avatar.
+
+[NUMBERLOGINS_HEAD_ID_25590]
+"Loyal Player" Black Iron
+
+[NUMBERLOGINS_HEAD_DES_ID_25590]
+Log in for a total of 180 days to get this avatar.
+
+[NUMBERLOGINS_HEAD_ID_25591]
+"The Year is Like a Day" Silver
+
+[NUMBERLOGINS_HEAD_DES_ID_25591]
+Log in for a total of 365 days to get this avatar.
+
+[NUMBERLOGINS_HEAD_ID_25592]
+"Hardcore Fan" Gilded Gold
+
+[NUMBERLOGINS_HEAD_DES_ID_25592]
+Log in for a total of 600 days to get this avatar.
+
+[NUMBERLOGINS_HEAD_ID_25593]
+"Millennium Covenant" Diamond
+
+[NUMBERLOGINS_HEAD_DES_ID_25593]
+Log in for a total of 999 days to get this avatar.
+
+[PLANTWARS_HEAD_ID_25594]
+Chief Escape Expert
+
+[PLANTWARS_HEAD_DES_ID_25594]
+Get 15 stars in the first season of Ztalemate Escape.
+
+[HARVEST_BATTLE_HEAD_ID_25595]
+Autumn Noble
+
+[HARVEST_BATTLE_HEAD_DES_ID_25595]
+Redeem through Super Corn in the Autumn Harvest Battle event.
+
+[PLANTWARS_HEAD_ID_25607]
+Chief Escape Expert
+
+[PLANTWARS_HEAD_DES_ID_25607]
+Get 15 stars in the second season of Ztalemate Escape.
+
+[PARTYEPSACTIVITY_HEAD_ID_25573]  
+Party Kiwi
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25573]  
+Party Assistance event limited avatar.
+
+[TOYS_HEAD_ID_25327]
+Hungry Dragon Strikes
+
+[TOYS_HEAD_DES_ID_25327]  
+Participate in the Wonderful Night of Toys event to get.
+
+[PARTYEPSACTIVITY_HEAD_ID_25627]
+Party Mangosteen
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25627]
+Party Assistance event limited avatar.
+
+[UNCHARTED_ICEAGE_ID_25391]
+The Latte Turned Over
+
+[UNCHARTED_ICEAGE_HEAD_DES_ID_25391]
+Pay attention to take it lightly.
+
+[TOYS_HEAD_ID_25630]
+World Destroyer Turnip
+
+[TOYS_HEAD_DES_ID_25630]
+Participate in the Black Hole Fantasy Tour event to get.
+
+[HARVEST_BATTLE_HEAD_ID_25631]
+Tease You
+
+[HARVEST_BATTLE_HEAD_DES_ID_25631]
+Redeem through Super Corn in the Autumn Harvest Battle event.
+
+[NEWYEAR_GIFT_HEAD_ID_25632]
+Gold and Silver New Year's Greetings
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25632]
+During the New Year's Gift Package event, reach the cumulative recharge progress in the event to receive.
+
+[TEN_THOUSAND_HEAD_ID_25636]
+Richer then dev ! 
+
+[TEN_THOUSAND_HEAD_DES_ID_25636]
+Earned by spending 10 000� the richest of the richest !
+
+[PARTYEPSACTIVITY_HEAD_ID_25644]  
+Party Nüwa Ophiuros
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25644]  
+Limited Avatar for Party Assistance Event  
+
+[UNCHARTED_TALE_HEAD_DES_ID_10000]
+Party Assistance event limited avatar.
+
+[UNCHARTED_NO42_HEAD_ID_10000]
+Conqueror of the Parallel Universe
+
+[UNCHARTED_NO42_HEAD_DES_ID_10000]
+Even on other universes you are still 42 time better  ;)
+
+
+
+
+
+
+
+
+
+
+
+
 [PVZ_ERROR_20001]
 Compression failed.
 
