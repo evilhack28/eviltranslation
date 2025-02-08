@@ -1,4 +1,4 @@
-This translation, as being created by evilhack28 this version is based on the 3.6.0
+ï»¿This translation, as being created by evilhack28 this version is based on the 3.6.0
 You can't change the file without saying it was based on my translation first 
 
 Discord: https://discord.com/invite/ngTHrgMVuw
@@ -55,530 +55,6 @@ want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
 
 [SPRING_TIPS_8]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
-
-[BOSS_CHALLENGE_HEAD_ID_25003]
-Anniversary Champion Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25003]
-Even game designers can't beat you!
-
-[BOSS_CHALLENGE_HEAD_ID_25004]
-Anniversary Runner-up Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25004]
-When you look up to the peak, countless people are also looking up to you!
-
-[BOSS_CHALLENGE_HEAD_ID_25005]
-Annual Runner-up Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25005]
-The certificate of a master who is qualified to stand on the podium, your record will be unknown to no one!
-
-[BOSS_CHALLENGE_HEAD_ID_25006]
-Anniversary Peak Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25006]
-The elite among the elites, the strong among the strong!
-
-[BOSS_CHALLENGE_HEAD_ID_25007]
-Anniversary Master Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25007]
-This alone can prove that you are one in a million!
-
-[BOSS_CHALLENGE_HEAD_ID_25008]
-Anniversary Warrior Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25008]
-The proof of the most outstanding players, no one knows this game better than you!
-
-[BOSS_CHALLENGE_HEAD_ID_25009]
-Anniversary Avatar
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25009]
-The 3rd anniversary of the trials and tribulations, thank you for your company, the journey of time and space is extremely exciting because of you!
-
-[BOSS_CHALLENGE_HEAD_ID_25010]
-Anniversary Champion Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25010]
-The game designer lost to you again!
-
-[BOSS_CHALLENGE_HEAD_ID_25011]
-Anniversary Runner-up Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25011]
-When you look up to the peak, countless people are also looking up to you!
-
-[BOSS_CHALLENGE_HEAD_ID_25012]
-Annual Runner-up Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25012]
-The certificate of a master who is qualified to stand on the podium, your record will be unknown to no one!
-
-[BOSS_CHALLENGE_HEAD_ID_25013]
-Anniversary Peak Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25013]
-The elite among the elites, the strong among the strong!
-
-[BOSS_CHALLENGE_HEAD_ID_25014]
-Anniversary Master Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25014]
-This alone can prove that you are one in a million!
-
-[BOSS_CHALLENGE_HEAD_ID_25015]
-Anniversary Warrior Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25015]
-The proof of the most outstanding players, no one knows this game better than you!
-
-[BOSS_CHALLENGE_HEAD_ID_25016]
-Anniversary Avatar II
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25016]
-The 3rd anniversary of the trials and tribulations, thank you for your company, the journey of time and space is extremely exciting because of you!
-
-[BOSS_CHALLENGE_HEAD_ID_25017]
-Winter Challenge Champion
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25017]
-Congratulations on winning the title of the strongest in the Winter Challenge.
-
-[BOSS_CHALLENGE_HEAD_ID_25018]
-Winter Challenge Runner-up
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25018]
-Por una Cabeza!
-
-[BOSS_CHALLENGE_HEAD_ID_25019]
-Winter Challenge Second Runner-up
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25019]
-Cricket third place......
-
-[BOSS_CHALLENGE_HEAD_ID_25020]
-Winter Challenge Pro
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25020]
-Top 10 in the Winter Challenge!
-
-[BOSS_CHALLENGE_HEAD_ID_25021]
-Winter Challenge Master
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25021]
-Top 100 in the Winter Challenge!
-
-[BOSS_CHALLENGE_HEAD_ID_25022]
-Winter Challenge Winner
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25022]
-Top 1000 in the Winter Challenge!
-
-[BOSS_CHALLENGE_HEAD_ID_25023]
-Winter Challenge Winners
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25023]
-Top 5000 in the Winter Challenge!
-
-[BOSS_CHALLENGE_HEAD_ID_25024]
-Winter Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25024]
-To outstanding players who have achieved results in the Winter Challenge.
-
-[BOSS_CHALLENGE_HEAD_ID_25200]
-Rock Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25200]
-To players who have achieved results in the Modern Endless Challenge.
-
-[BOSS_CHALLENGE_HEAD_ID_25210]
-Modern Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25210]
-To players who have achieved results in the Rock Endless Challenge.
-
-[BOSS_CHALLENGE_HEAD_ID_25300]
-Jurassic Marsh Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25300]
-To players who have achieved results in the Jurassic Marsh Endless Challenge.
-
-[DAVE_TREASURE_HEAD_ID_25307]
-Treasure Marauder
-
-[DAVE_TREASURE_HEAD_DES_ID_25307]
-To players who have received the final reward in the Dave's Treasure event.
-
-[DAVE_TREASURE_HEAD_ID_25308]
-Treasure Marauder
-
-[DAVE_TREASURE_HEAD_DES_ID_25308]
-To players who have received the final reward in the Dave's Treasure event.
-
-[DAVE_TREASURE_HEAD_ID_25316]
-June 1'st Treasure Marauder
-
-[DAVE_TREASURE_HEAD_DES_ID_25316]
-To players who have won the June 1st reward in the Dave's Treasure Event.
-
-[ZOMBIE_ROMAN_IMP_HEAD_ID_25318]
-Penny's Pursuit Brick Challenger
-
-[ZOMBIE_ROMAN_IMP_HEAD_DES_ID_25318]
-To the challenger who reached the Brick League in the Penny's Pursuit mode.
-
-[ZOMBIE_ROMAN_BUCKET_HEAD_ID_25319]
-Penny's Pursuit Iron Challenger
-
-[ZOMBIE_ROMAN_BUCKET_HEAD_DES_ID_25319]
-To the challenger who reached the Iron League in the Penny's Pursuit mode.
-
-[ZOMBIE_ROMAN_CONE_HEAD_ID_25320]
-Penny's Pursuit Bronze Challenger
-
-[ZOMBIE_ROMAN_CONE_HEAD_DES_ID_25320]
-To the challenger who reached the Bronze League in the Penny's Pursuit mode.
-
-[ZOMBIE_ROMAN_ARMOR_HELMET_HEAD_ID_25321]
-Penny's Pursuit Silver Challenger
-
-[ZOMBIE_ROMAN_ARMOR_HELMET_HEAD_DES_ID_25321]
-To the challenger who reached the Silver League in the Penny's Pursuit mode.
-
-[ZOMBIE_ROMAN_HEALER_HEAD_ID_25322]
-Penny's Pursuit Gold Challenger
-
-[ZOMBIE_ROMAN_HEALER_HEAD_DES_ID_25322]
-To the challenger who reached the Gold League in the Penny's Pursuit mode.
-
-[ZCORPIAN_BALLISTA_HEAD_ID_25323]
-Penny's Pursuit Diamond Challenger
-
-[ZCORPIAN_BALLISTA_HEAD_DES_ID_25323]
-To the challenger who reached the Diamond League in the Penny's Pursuit mode.
-
-[ZOMBIE_ROMAN_GARGANTUAR_HEAD_ID_25324]
-Penny's Pursuit Legendary Challenger
-
-[ZOMBIE_ROMAN_GARGANTUAR_HEAD_DES_ID_25324]
-The legendary god who travels through time and space, please take our knees!
-
-[MONTHLY_POINT_HEAD_ID_25327]
-Magic Bean Collector
-
-[MONTHLY_POINT_HEAD_DES_ID_25327]
-To players who have received the final reward in the Growth Pack event.
-
-[HEMUDU_POINT_HEAD_ID_25327]
-Hemudu Linkage
-
-[HEMUDU_POINT_HEAD_DES_ID_25327]
-Discover Hemudu!
-
-
-
-
-
-
-
-
-[TOYS_HEAD_ID_25327]
-Hungry Dragon Attack
-
-[TOYS_HEAD_DES_ID_25327]  
-Earned by participating in the Toy Night event
-
-
-
-
-
-
-
-[SUPER_POWERPLANT_HEAD_ID_25330]
-One-corner Tile
-
-[SUPER_POWERPLANT_HEAD_DES_ID_25330]
-After putting it on, you can change the tile pattern generated by Tile Turnip.
-
-[SUMMER_MEMORIES_HEAD_ID_25337]
-Hey Hey
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25337]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_ACHIEVEMENT_ID_25339]
-Achievement Master
-
-[SUMMER_MEMORIES_ACHIEVEMENT_DES_ID_25339]
-To the best in the journey of memories.
-
-
-
-
-[SUMMER_MEMORIES_HEAD_ID_25341]
-Night Sky
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25341]
-To the players who are moving forward together in the journey of memories.
-
-[LEVEL_EDITOR_HEAD_ID_25343]
-Creator Avatar
-
-[LEVEL_EDITOR_HEAD_DES_ID_25343]
-To the players who worked hard to create in Creative Courtyard.
-
-[LEVEL_EDITOR_HEAD_ID_25344]
-Player Avatar
-
-[LEVEL_EDITOR_HEAD_DES_ID_25344]
-To the players who played a lot in Creative Courtyard.
-
-[SUMMER_MEMORIES_HEAD_ID_25345]
-Meow Meow
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25345]
-To the players who are moving forward together in the journey of memories.
-
-[LEVEL_EDITOR_HEAD_ID_25347]
-Spring Sky
-
-[LEVEL_EDITOR_HEAD_DES_ID_25347]
-To the players who worked hard to create in Creative Courtyard's second season.
-
-[LEVEL_EDITOR_HEAD_ID_25348]
-Spring Ground
-
-[LEVEL_EDITOR_HEAD_DES_ID_25348]
-To the players who played a lot in Creative Courtyard's second season.
-
-
-
-
-
-
-[PENNYCLASS_FIRST_HEAD_ID_25349]
-Botanical
-
-[PENNYCLASS_FIRST_HEAD_DES_ID_25349]
-Proof of completion of Penny's introductory class exam
-
-[PENNYCLASS_SECOND_HEAD_ID_25350]
-Master of Botany
-
-[PENNYCLASS_SECOND_HEAD_DES_ID_25350]
-Proof of completion of primary training in Penny's class
-
-[PENNYCLASS_THIRD_HEAD_ID_25351]
-Plant Doctor  
-
-[PENNYCLASS_THIRD_HEAD_DES_ID_25351]
-Proof of completing the advanced assessment of Penny's Classroom  
-
-[PENNYCLASS_FOURTH_HEAD_ID_25352]
-Plant Master  
-
-[PENNYCLASS_FOURTH_HEAD_DES_ID_25352]
-Proof of completing the ultimate trial of Penny's Classroom  
-
-
-
-
-
-
-[LEVEL_EDITOR_HEAD_ID_25355]
-Afternoon Tea Waiter
-
-[LEVEL_EDITOR_HEAD_DES_ID_25355]
-It's time to have an afternoon tea together in the atmosphere of the fairy tale world.
-
-[SUMMER_MEMORIES_HEAD_ID_25353]
-Song of Spring
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25353]
-To the players who are moving forward together in the journey of memories.
-Memory Lane Shop - Season 4
-
-[LEVEL_EDITOR_HEAD_ID_25356]
-Afternoon Refreshment Sunflower
-
-[LEVEL_EDITOR_HEAD_DES_ID_25356]
-Sunflower said she likes the atmosphere of the fairy tale world and the delicious afternoon tea very much.
-
-[SUMMER_MEMORIES_HEAD_ID_25357]
-Balloons Flying
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25357]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25363]
-Hot Enough to Melt
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25363]
-To the players who are moving forward together in the journey of memories.
-
-[DAVE_TREASURE_HEAD_ID_25368]
-Anniversary Treasure Marauder
-
-[DAVE_TREASURE_HEAD_DES_ID_25368]
-To players who have won the anniversary reward in the Dave's Treasure Event.
-
-[LEVEL_EDITOR_HEAD_ID_25371]
-Martial Artist Sugarcane Master
-
-[LEVEL_EDITOR_HEAD_DES_ID_25371]
-Sugarcane Master exercises his skills against the stake every day.
-
-[LEVEL_EDITOR_HEAD_ID_25372]
-Special Sausage
-
-[LEVEL_EDITOR_HEAD_DES_ID_25372]
-This special sausage will always try to jump on the table.
-
-[TIME_SUMMON_HEAD_ID_25373]
-Limited-time Summoning Gold Award
-
-[TIME_SUMMON_HEAD_DES_ID_25373]
-To the player who won the first place in the Limited-time Summon event.
-
-[TIME_SUMMON_HEAD_ID_25374]
-Limited-time Summoning Silver Award
-
-[TIME_SUMMON_HEAD_DES_ID_25374]
-To the player who won the second place in the Limited-time Summon event.
-
-[TIME_SUMMON_HEAD_ID_25375]
-Limited-time Summoning Bronze Award
-
-[TIME_SUMMON_HEAD_DES_ID_25375]
-To the player who won the third place in the Limited-time Summon event.
-
-[TIME_SUMMON_HEAD_ID_25376]
-Limited-time Summoning Participant
-
-[TIME_SUMMON_HEAD_DES_ID_25376]
-To players who have been ranked in the Limited-time Summon event.
-Ranked in the Top 4 - 10 Players
-
-[TIME_SUMMON_HEAD_ID_25377]
-Limited-time Summoning Participant
-
-[TIME_SUMMON_HEAD_DES_ID_25377]
-To players who have been ranked in the Limited-time Summon event.
-Ranked in the Top 11 - 50 Players
-
-[TIME_SUMMON_HEAD_ID_25378]
-Limited-time Summoning Participant
-
-[TIME_SUMMON_HEAD_DES_ID_25378]
-To players who have been ranked in the Limited-time Summon event.
-Ranked in the Top 51 - 100 Players
-
-[TIME_SUMMON_HEAD_ID_25379]
-Limited-time Summoning Commemorative Avatar
-
-[TIME_SUMMON_HEAD_DES_ID_25379]
-To players who have participated in the Limited-time Summon event.
-
-[SUMMER_MEMORIES_HEAD_ID_25380]
-Memories of Autumn
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25380]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25381]
-Christmas Holly
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25381]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25382]
-Happy Year of the Rabbit
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25382]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25383]
-Swaying Youth
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25383]
-To the players who are moving forward together in the journey of memories.
-
-[PLANT_TREE_HEAD_ID_25384]
-Tree of Wisdom
-
-[PLANT_TREE_HEAD_DES_ID_25384]
-Limited avatar for Arbor Day activities.
-
-[SUMMER_MEMORIES_HEAD_ID_25385]
-Joyful Peach
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25385]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25386]
-Surfing Pineapple
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25386]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25387]
-Happy Idol House
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25387]
-To the players who are moving forward together in the journey of memories.
-
-[SUMMER_MEMORIES_HEAD_ID_25388]
-The Joy of Harvest
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25388]
-To the players who are moving forward together in the journey of memories.
-
-[ANNIVERSARY_10TH_HEAD_ID_25388]
-Have a Big Meal
-
-[ANNIVERSARY_10TH_HEAD_DES_ID_25388]
-It's useless to say more, let's eat first.
-
-[SUMMER_MEMORIES_HEAD_ID_25389]
-Enthusiasm is like Fire
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25389]
-To the players who are moving forward together in the journey of memories.
-
-[PARTYEPSACTIVITY_HEAD_ID_25389]
-Party Cactus
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25389]
-Party Assistance event limited avatar.
-
-[SUMMER_MEMORIES_HEAD_ID_25390]
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25390]
-
-[SUMMER_MEMORIES_HEAD_ID_25391]
-Rabbit's Defeat
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25391]
-Players who travel together on memory journey
-
-[SUMMER_MEMORIES_HEAD_ID_25392]
-Holographic shock
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25392]
-To the players who journeyed together in the Memories Journey
-
-[SUMMER_MEMORIES_HEAD_ID_25393]
-Autumn of Appetite
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25393]
-Players who travel together on memory journey
-
-
-
-
 
 [PVZ_ERROR_20001]
 Compression failed.
@@ -731,7 +207,7 @@ Burdock Batter Stand-Up Outfit
 Increases attack speed by 20%  
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]  
-Nüwa Party Helper Outfit  
+Nï¿½wa Party Helper Outfit  
 
 [NEW_AVATAR_DESCRIPTION_EYWA_1]  
 Reduces planting cooldown by 20%  
@@ -817,13 +293,13 @@ Machine Gun Pomegranate fires the front range of zombies.
 Scattered Shots
 
 [PAMEGRANATE_SKILL1_LEVEL1_DES]
-The attack range of Machine Gun Pomegranate is expanded to 3×3.
+The attack range of Machine Gun Pomegranate is expanded to 3ï¿½3.
 
 [PAMEGRANATE_SKILL1_LEVEL2]
 Neva-Miss
 
 [PAMEGRANATE_SKILL1_LEVEL2_DES]
-The attack range of Machine Gun Pomegranate is expanded to 3×4.
+The attack range of Machine Gun Pomegranate is expanded to 3ï¿½4.
 
 [PAMEGRANATE_NEW_SKILL_LEVEL1_DES]
 The attack range of machine gun pomegranate is expanded to 3x2.
@@ -862,6 +338,11 @@ Thyme Warp
 {KEYWORD}Special: {STAT}zombies teleported back also restore health
 {KEYWORD}Plant features: {STAT}green plant
 {FLAVOR}"Ytilaitilibissop rehto tpecca deen ew," Thyme Warp says, "detimil saw emit fo ytilanoitceridinu eht taht tlef syawla ev'I."
+
+{KEYWORD}Special: {STAT}Some special information about the plant.
+{KEYWORD}Plant features: {STAT}The plant has special abilities.
+
+
 
 [THYMEWARP_DESCRIPTION_HEADER]
 Thyme Warps rewind time, sending zombies back where they started.
@@ -3422,10 +2903,10 @@ Threepeater have 80% of be boosted when planted!
 30% chance to fire ice peas, 30% chance to produce flaming peas and 10% chance to fire plasma peas
 
 [THREEPEATER_PLANTFOOD_DESCRIPTION]
-Threepeater shoots 30 peas in each of three directions: front, up (changing from 0°~90°) and down (changing from 0°~90°).
+Threepeater shoots 30 peas in each of three directions: front, up (changing from 0ï¿½~90ï¿½) and down (changing from 0ï¿½~90ï¿½).
 
 [THREEPEATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Threepeater shoots ^FFFF00 60^oldclr^  peas in each of three directions: front, up (changing from 0°~90°) and down (changing from 0°~90°).
+Threepeater shoots ^FFFF00 60^oldclr^  peas in each of three directions: front, up (changing from 0ï¿½~90ï¿½) and down (changing from 0ï¿½~90ï¿½).
 
 [GENE_DESCRIPTION_THREEPEATER]
 Base sun cost reduced by {Param_1} sun
@@ -8798,7 +8279,7 @@ The probability of launching 2 random items consecutively increases to 20%, with
 Air support
 
 [PAPHIOPEDILUM_SKILL_LEVEL5_DES]
-Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5×5 area, with 5 bombs, each causing 3×3 area fire damage
+Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5ï¿½5 area, with 5 bombs, each causing 3ï¿½3 area fire damage
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL1_DES]
 launch various items (snacks, butter blocks, anvils, bombs, rubber hammers) using a tossing method
@@ -8813,7 +8294,7 @@ The probability of launching 2 random items consecutively increases to 20%, with
 High probability of releasing the plants food when planted
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]
-Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5×5 area, with 5 bombs, each causing 3×3 area fire damage
+Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5ï¿½5 area, with 5 bombs, each causing 3ï¿½3 area fire damage
 
 [PAPHIOPEDILUM_PLANTFOOD_DESCRIPTION]
 Throw a random item at each zombie on the field. If there are fewer than 5 zombies, at least 5 items will still be thrown.
@@ -8868,7 +8349,7 @@ The first plant minion created will directly be a Mortar Minion. The number of a
 Aerial Technology
 
 [EYWA_SKILL_LEVEL5_DES]
-?????????????,????????????????,????????????,???3×3?????,????????????????
+?????????????,????????????????,????????????,???3ï¿½3?????,????????????????
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
 ??????,?????????????,????????????????
@@ -8883,10 +8364,10 @@ The first plant minion created will directly be a Mortar Minion. The number of a
 There is a high chance to release an energy bean ultimate when planting.
 
 [EYWA_NEW_SKILL_LEVEL5_DES]
-The first plant minion created will directly be a Tank Minion. The Tank Minion jumps out of the tank, and during its disappearance in the air, there is a chance that a plane will appear to catch the minion, drop a nuclear bomb, and fly away. The nuclear bomb has a 3×3 explosion range, dealing damage and causing the degeneration effect to zombies within the range.
+The first plant minion created will directly be a Tank Minion. The Tank Minion jumps out of the tank, and during its disappearance in the air, there is a chance that a plane will appear to catch the minion, drop a nuclear bomb, and fly away. The nuclear bomb has a 3ï¿½3 explosion range, dealing damage and causing the degeneration effect to zombies within the range.
 
 [EYWA_PLANTFOOD_DESCRIPTION]
-Nyuwa Ophiuros its vines to whip 5 clumps of mud spots. These mud spots randomly drop in the front 2 columns, turning into Bomb Minions that rush toward the nearest zombie and explode, dealing 3×3 area damage.
+Nyuwa Ophiuros its vines to whip 5 clumps of mud spots. These mud spots randomly drop in the front 2 columns, turning into Bomb Minions that rush toward the nearest zombie and explode, dealing 3ï¿½3 area damage.
 
 [EYWA_AVATAR_PLANTFOOD_DESCRIPTION]
 An additional minion with a larger bomb will appear.
@@ -8961,13 +8442,13 @@ Basic instant-kill plant, cannot eat large zombies, but has no class restriction
 Cherry Bomb No. 42
 
 [PARALLEL_CHERRY_BOMB_TOOLTIP]
-Basic area-clearing plant, instantly kills all zombies within a 3×3 area (except for large zombies), dealing some damage to large zombies.
+Basic area-clearing plant, instantly kills all zombies within a 3ï¿½3 area (except for large zombies), dealing some damage to large zombies.
 
 [PARALLEL_CHERRY_BOMB_DESCRIPTION_HEADER]
 Single-use plants now have a role in high-level battles.
 
 [PARALLEL_CHERRY_BOMB_DESCRIPTION]
-Basic area-clearing plant, instantly kills all zombies within a 3×3 area (except for large zombies), dealing some damage to large zombies.
+Basic area-clearing plant, instantly kills all zombies within a 3ï¿½3 area (except for large zombies), dealing some damage to large zombies.
 
 [PARALLEL_ICEBURG]
 Iceburg No. 42
@@ -9495,7 +8976,7 @@ You can't plant on evil potions
 You can't plant on dumplings
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-You can't plant on tang¥
+You can't plant on tangï¿½
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
 You can't plant on piggy banks
@@ -9760,85 +9241,85 @@ sun is a necessary resource for plant production, tap on sun to increase it in y
 Using a shovel can remove plants, making space for the plants you want to plant!
 
 [ADVICE_WAIT]
-Wait a moment!!!
+WAIT!!!
 
 [ADVICE_ZOMBIE_ONSLAUGHT]
-Don't let the zombies get near your house!
+Don't let the zombies reach your house!
 
 [ALMANAC_CLOSE]
 Close
 
 [ALMANAC_PLANT_VIEW_ON_MAP]
-View on Map
+VIEW ON MAP
 
 [ALMANAC_PLANTS]
-View Plants
+PLANTS
 
 [ALMANAC_PURCHASE]
 Purchase {PRODUCT_NAME}
 
 [ALMANAC_UPGRADE_VIEW_ON_MAP]
-View on Map
+VIEW ON MAP
 
 [ALMANAC_UPGRADES]
-View Upgrades
+UPGRADES
 
 [ALMANAC_ZOMBIES]
-View Zombies
+ZOMBIES
 
 [APP_UPDATE_REQUIRED]
-Please download the latest version of Plants vs. Zombies 2 from the App Store.
+To continue playing, visit the store and download the latest version
 
 [ARE_YOU_SURE]
-Are you sure?
+Are You Sure?
 
 [AWARD_SCREEN_ALL_STARS]
-You've earned all stars!
+You got a ALL the STAR!
 
 [AWARD_SCREEN_AND]
 and
 
 [AWARD_SCREEN_FINALDAY_COMPLETE]
-Three-star unlock activated!
+Final Day Complete!
 
 [AWARD_SCREEN_FIRSTKEY_DESCRIPTION]
-This is an ancient key, now all you need is an ancient lock.
+It's an ancient key.  Now all you need is an ancient lock.
 
 [AWARD_SCREEN_FIRSTKEY_TITLE]
-Ancient Egypt Key!
+Egyptian Key!
 
 [AWARD_SCREEN_GOAL_FAILED]
 ^ff0000 Goal Failed
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
-One or more lawnmowers triggered!
+ONE OR MORE LAWN MOWERS WERE TRIGGERED!
 
 [AWARD_SCREEN_MAPGADGET_DESCRIPTION]
-An ancient parchment containing cosmic mysteries.
+A parchment of ancient lands, with cosmic implications.
 
 [AWARD_SCREEN_MAPGADGET_TITLE]
-Space-time Map
+Map of space-time-ness
 
 [AWARD_SCREEN_MULTIPLE_PRESENTS]
-Receive gifts!
+You got PRESENTS!
 
 [AWARD_SCREEN_NEW_PLANT]
-You have unlock a new plant!
+You got a new PLANT!
 
 [AWARD_SCREEN_NEW_AVATAR]
-You have unlock a new plant costume!
+You got a new plant COSTUME!
 
 [AWARD_SCREEN_AVATAR_PLANT_LOCKED]
-The costume corresponds to a locked plant. Hurry up and unlock the plant!
+You got a new plant COSTUME!
 
 [AWARD_SCREEN_NEW_UPGRADE]
-Received a new upgrade item!
+You got a new UPGRADE!
 
 [AWARD_SCREEN_NO_STAR]
-No stars obtained
+You missed the Star
 
 [AWARD_SCREEN_ONE_PRESENT]
-Receive a gift!
+You got a PRESENT!
 
 [AWARD_SCREEN_POWERUP_TITLE]
 You've unlocked a new item!
@@ -9850,10 +9331,10 @@ Summon all the power of the Golden Finger!
 Quick, try out the newly acquired gadget in the game!
 
 [AWARD_SCREEN_PRIZE]
-You've received a reward!
+You got a PRIZE!
 
 [AWARD_SCREEN_STAR]
-You've earned a star!
+ou got a STAR!
 
 [AWARD_SCREEN_STAR_GOAL]
 Goal: {CHALLENGE}
@@ -9862,12 +9343,10 @@ Goal: {CHALLENGE}
 {LEVEL}
 
 [AWARD_SCREEN_WORLDKEY_DESCRIPTION]
-Can be used to unlock new worlds and travel to other worlds!
-
-Simultaneously, the three-star unlock has been activated!
+Use to unlock new Worlds and travel to other times!
 
 [AWARD_SCREEN_RETURN_WORLDKEY_DESCRIPTION]
-Received a Secret Realm key, can be used to unlock new worlds and travel to other worlds!
+Use to unlock new Worlds and travel to other times!
 
 [AWARD_SCREEN_STARKEY_DESCRIPTION]
 Three-star unlock activated!
@@ -9882,16 +9361,16 @@ Three-star Tin
 Three-star Space-time Key
 
 [AWARD_SCREEN_WORLDTROPHY]
-You've earned a trophy!
+You got a TROPHY!
 
 [AWARD_SCREEN_WORLDTROPHY_COWBOY]
-The three-star unlock for Wild West is now activated!
+You have defeated Dr. Zomboss' creation, the Zombot War Wagon.
 
 [AWARD_SCREEN_WORLDTROPHY_EGYPT]
-The three-star unlock for Ancient Egypt is now activated! Earn more stars in Ancient Egypt levels to unlock new plants and unlock the new world: Pirate Seas!
+You have defeated Dr. Zomboss' creation, the Zombot Sphinx-inator.
 
 [AWARD_SCREEN_WORLDTROPHY_PIRATE]
-The three-star unlock for Pirate Seas is now activated! Earn more stars in Pirate Seas levels to unlock new plants and unlock the new world: Wild West!
+You have defeated Dr. Zomboss' creation, the Zombot Plank Walker.
 
 [BACK_TO_MAP]
 Back to Map
@@ -13108,7 +12587,7 @@ Purchase could not be completed. Please try again.
 Recharge failed
 
 [PURCHASE_MAX_BODY]
-You can recharge up to %d ¥ today.
+You can recharge up to %d ï¿½ today.
 
 [PURCHASE_ERROR_NOT_AUTHORIZED_BODY]
 Not authorized to purchase on this device
@@ -13843,7 +13322,7 @@ Smash all the jars in the field, and take out all the zombies.
 Golden tile
 
 [STARCHALLENGE_LOSTCITY_GOLDROAD]
-*"':;!?@#€_&-+()/1234567890
+*"':;!?@#ï¿½_&-+()/1234567890
 
 [STARCHALLENGE_LOSTCITY_BOSS_NAME]
 Ultimate Challenge
@@ -15409,7 +14888,7 @@ Purchase {NAME} ({NUMBER})
 Unlock the full version of the game?
 
 [UNLOCK_GAME_INFO]
-Do you want to spend ¥6 to unlock the full version?
+Do you want to spend ï¿½6 to unlock the full version?
 
 [UNLOCK_BUTTON]
 Unlock
@@ -15453,12 +14932,12 @@ Event Rules:
 1. Players can buy initial plant outfits using Outfit Tickets in the Plant Outfits section.
 2. Outfit Tickets can be obtained from the Outfit Ticket Shop and events.
 3. First-time purchases in the shop will grant bonus tickets:
-   - ¥6 Pack: 60 tickets + 18 bonus
-   - ¥30 Pack: 330 tickets + 132 bonus
-   - ¥68 Pack: 780 tickets + 360 bonus
-   - ¥128 Pack: 1550 tickets + 700 bonus
-   - ¥328 Pack: 4100 tickets + 2050 bonus
-   - ¥648 Pack: 8450 tickets + 4650 bonus
+   - ï¿½6 Pack: 60 tickets + 18 bonus
+   - ï¿½30 Pack: 330 tickets + 132 bonus
+   - ï¿½68 Pack: 780 tickets + 360 bonus
+   - ï¿½128 Pack: 1550 tickets + 700 bonus
+   - ï¿½328 Pack: 4100 tickets + 2050 bonus
+   - ï¿½648 Pack: 8450 tickets + 4650 bonus
 4. Outfit Tickets can only be used for initial outfits, not for special or rare outfits.
 5. Rare and new plant outfits may be available for limited-time purchase.
 6. Required Outfit Tickets for outfits:
@@ -16732,7 +16211,7 @@ Complemented
 Buy
 
 [GEM_BUY_RMB]
-¥
+ï¿½
 
 [PLANT_BUY_FULL_PIECE]
 Get it now
@@ -16997,13 +16476,13 @@ Anniversary Supreme Award
 Clearance Sweepstakes
 
 [NEWER_PRESENT_DES]
-Now you only need to recharge ^00FF00 2 ¥ ^oldclr to buy a small bag of diamonds and you can get the supreme Package! ( A total of ^00FF00 30 diamonds ^oldclr oh!) can be obtained
+Now you only need to recharge ^00FF00 2 ï¿½ ^oldclr to buy a small bag of diamonds and you can get the supreme Package! ( A total of ^00FF00 30 diamonds ^oldclr oh!) can be obtained
 
 [NEWER_PRESENT_ADVANCE_DES]
-Now you only need to recharge ^00FF00 10 ¥ ^oldclr to purchase the gold coin Pack to get the supreme platinum Pack! ( A total of ^00FF00 155 diamonds ^oldclr can be obtained Oh!)
+Now you only need to recharge ^00FF00 10 ï¿½ ^oldclr to purchase the gold coin Pack to get the supreme platinum Pack! ( A total of ^00FF00 155 diamonds ^oldclr can be obtained Oh!)
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
-Buy now for only 0.1 ¥, opportunities are limited, don't come again!
+Buy now for only 0.1 ï¿½, opportunities are limited, don't come again!
 
 [NEWER_PRESENT_QUIT]
 Discard Packs
@@ -17790,14 +17269,14 @@ Plant Pack
 Open now
 
 [PLANT_BAG_REWARD]
-You can get it by recharging more than 1,000 ¥ in total.
+You can get it by recharging more than 1,000 ï¿½ in total.
 
 [PLANT_BAG_REWARD_TIPS]
-If you recharge more than 10 ¥ in total, you will receive a plant Package
+If you recharge more than 10 ï¿½ in total, you will receive a plant Package
  (Randomly get a powerful plant)!
 
 [PLANT_BAG_REWARD_TIPS_QQ]
-If you recharge more than 10 ¥ in total, you will receive a plant Package
+If you recharge more than 10 ï¿½ in total, you will receive a plant Package
  (Randomly get a powerful plant)!
 
 [PLANT_BAG_REWARD_COINS]
@@ -17810,10 +17289,10 @@ Get a value plant at random!
 Try the acceleration function! Defeat zombies in a quick battle!
 
 [CHNAGE_SPEED_TIPS]
-With a cumulative recharge of 20 ¥ or more, you can use the level acceleration function unlimitedly!
+With a cumulative recharge of 20 ï¿½ or more, you can use the level acceleration function unlimitedly!
 
 [CHNAGE_SPEED_TIPS_QQ]
-With a cumulative recharge of 20 ¥ or more, you can use the level acceleration function unlimitedly!
+With a cumulative recharge of 20 ï¿½ or more, you can use the level acceleration function unlimitedly!
 
 [BUTTON_RECHARGE_NOW]
 Recharge Now
@@ -18008,7 +17487,7 @@ Second place
 Third place
 
 [TELECOM_PURCHASE_TIPS]
-Is it spending % d ¥ to buy % s?
+Is it spending % d ï¿½ to buy % s?
 
 [TELECOM_PURCHASE_SUCCESS]
 Purchase %s Success
@@ -18179,7 +17658,7 @@ In February, the new plant kiwi fruit will be launched. If you insist on signing
 [NOTICE_CONTENT_FIRST_LABORDAY]
 Dear players:
  
- « Plants vs. Zombies 2» welcomes the latest version of May Day to meet everyone!
+ ï¿½ Plants vs. Zombies 2ï¿½ welcomes the latest version of May Day to meet everyone!
 Little Wowan also brought out the best baby to give back to everyone!
  
   new^ff0000^ Costume^oldclr^ limited time purchase
@@ -18329,7 +17808,7 @@ Could be a network failure, or endless mode is over
 Tip: The new version needs to read network data to enter the game for the first time, please open the network connection.
 
 [RECHARGE_REWARD_TITLE]
-Recharge {RECHARGE_COUNT} ¥ reward
+Recharge {RECHARGE_COUNT} ï¿½ reward
 
 [RECHARGE_REWARD_PLANT_PIECES]
 Congratulations on getting Cherry Bomb Piece x30, upgrade immediately to feel his more powerful power!
@@ -18374,10 +17853,10 @@ Recharge Pack
 First Charge Pack
 
 [RECHARGE_TOTAL_NUM]
-Recharge {NUMBER} ¥
+Recharge {NUMBER} ï¿½
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-Recharge **** ¥
+Recharge **** ï¿½
 
 [RECHARGE_HIDE_BTN]
 Hide
@@ -18389,18 +17868,18 @@ Display
 Accumulated recharge with great gifts!
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
-Accumulate a total of 2 ¥ in the game, get double the gold coin income in the game, and buy gold coin plants faster!
-With a total of 6 ¥, you can participate in 2 lucky draws every day! Lucky gifts for you to choose from!
-If you recharge more than 10 ¥ in total, you will get a value-for-money random plant Pack!
-Fill up 20 ¥ in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
-If you charge 30 ¥ in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
+Accumulate a total of 2 ï¿½ in the game, get double the gold coin income in the game, and buy gold coin plants faster!
+With a total of 6 ï¿½, you can participate in 2 lucky draws every day! Lucky gifts for you to choose from!
+If you recharge more than 10 ï¿½ in total, you will get a value-for-money random plant Pack!
+Fill up 20 ï¿½ in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
+If you charge 30 ï¿½ in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
 Killing zombies instantly from now on is not a dream!
 
 [RECHARGE_NOTICE_DESC]
-Accumulate a total of 2 ¥ in the game, get double the gold coin income in the game, and buy gold coin plants faster!
-If you recharge more than 10 ¥ in total, you will get a value-for-money random plant Pack!
-Fill up 20 ¥ in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
-If you charge 30 ¥ in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
+Accumulate a total of 2 ï¿½ in the game, get double the gold coin income in the game, and buy gold coin plants faster!
+If you recharge more than 10 ï¿½ in total, you will get a value-for-money random plant Pack!
+Fill up 20 ï¿½ in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
+If you charge 30 ï¿½ in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
 Killing zombies instantly from now on is not a dream!
 
 [TOTAL_LOGIN_DAYS]
@@ -19506,7 +18985,7 @@ Network failure
 It may be that the activity has ended or the network fails, please try to close the activity center, adjust the network link and try again.
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Every day you can get {HAMMERS} hammer by accumulating recharge {RMB} ¥.
+Every day you can get {HAMMERS} hammer by accumulating recharge {RMB} ï¿½.
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 I think again
@@ -20995,7 +20474,7 @@ Activity Date: ^ff0000^July 1st to July 7th^oldclr^
 Today's recharge reward
 
 [SPRING_GIFT_ACTIVITY_REWARD_DES]
-Your single recharge today reached 30 ¥, and you received the following gift
+Your single recharge today reached 30 ï¿½, and you received the following gift
 
 [SPRING_GIFT_REWARD_FAIL_TITLE]
 Failed to receive gift
@@ -21015,7 +20494,7 @@ Can be obtained:
 
 [DAILY_SINGLE_RECHARGE_REWARD]
 Daily Single Recharge
-    ¥ to receive
+    ï¿½ to receive
 the reward.
 
 
@@ -22601,7 +22080,7 @@ Dear players,
 Penny and the developers have teamed up to fix some critical save issues, and the account transfer function is now reopened! Penny also discovered during self-check that the game's lag has been greatly reduced, and crashes have been rare lately.
 
 Tenfold Earnings Super Benefits
-Now recharge 1 ¥ to get 105 diamonds, isn't that a great deal?
+Now recharge 1 ï¿½ to get 105 diamonds, isn't that a great deal?
 (The gifted diamonds are claimable over 7 days, no need to log in continuously)
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
@@ -24388,7 +23867,7 @@ Bamboo Memberwai
 
 [CRACKER_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} A man outside Zhu ¥ lives in a big house in the west of Fireworks Town. Although he looks evil, he is actually a kind old man who likes children. Every New Year, he sends firecrackers and fireworks to the little ones in town, hoping they will have a happy New Year. And his biggest wish is to hope that his grandson Bamboo Shoots, who is studying in the distance, can one day hit the door of this house by stepping on the piece of firecrackers......
+{FLAVOR} A man outside Zhu ï¿½ lives in a big house in the west of Fireworks Town. Although he looks evil, he is actually a kind old man who likes children. Every New Year, he sends firecrackers and fireworks to the little ones in town, hoping they will have a happy New Year. And his biggest wish is to hope that his grandson Bamboo Shoots, who is studying in the distance, can one day hit the door of this house by stepping on the piece of firecrackers......
 
 [CRACKER_DESCRIPTION_HEADER]
 Bamboo members can cause explosive damage to approaching zombies.
@@ -24618,7 +24097,7 @@ Event date: ^ff0000^ From now until March 31 ^oldclr^
 Today's recharge rewards
 
 [SPRINGACTIVITYREWARDDES]
-Your single recharge today reaches 30 ¥ and you get the following gifts
+Your single recharge today reaches 30 ï¿½ and you get the following gifts
 
 [SPRINGACTIVITYREWARDERROR]
 Sold out today, new tomorrow
@@ -25886,7 +25365,7 @@ The 60x diamond return activity is now over, here are the {GEMS} diamonds you ha
 Confirm to receive
 
 [GEMRETURN_DES]
-Recharge 0.1 ¥ from now on to get 60 diamonds, which will be returned in 7 days (requires Internet access)
+Recharge 0.1 ï¿½ from now on to get 60 diamonds, which will be returned in 7 days (requires Internet access)
 
 [GEMRETURN_ACTIVE]
 ...      Activate immediately
@@ -25901,37 +25380,37 @@ Recharge 0.1 ¥ from now on to get 60 diamonds, which will be returned in 7 days 
 60 times diamond return
 
 [PRODUCT_GEM_REWARD]
-1 ¥ paid diamond return activity
+1 ï¿½ paid diamond return activity
 
 [PRODUCT_GEM_REWARD_SHORTDESC]
 Diamond Week Card
 
 [PRODUCT_IOS_CUKE_PACKAGE]
-1 ¥ cucumber Pack
+1 ï¿½ cucumber Pack
 
 [PRODUCT_IOS_CUKE_PACKAGE_SHORTDESC]
-1 ¥ cucumber Pack
+1 ï¿½ cucumber Pack
 
 [PRODUCT_MONTHLY_CARD]
-Play monthly card for 30 ¥
+Play monthly card for 30 ï¿½
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-Play monthly card for 30 ¥
+Play monthly card for 30 ï¿½
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
-6 ¥ cool master card
+6 ï¿½ cool master card
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP_SHORTDESC]
-6 ¥ cool master card
+6 ï¿½ cool master card
 
 [PRODUCT_MONTHLY_CARD_SUPER]
-50 ¥ Hacker card
+50 ï¿½ Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM]
 VIP monthly card
 
 [PRODUCT_MONTHLY_CARD_SUPER_SHORTDESC]
-50 ¥ Hacker card
+50 ï¿½ Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
 VIP monthly card
@@ -25940,7 +25419,7 @@ VIP monthly card
 ...      Activate immediately
 
 [PRODUCT_DIAMONDS_REWARD_DES]
-Recharge 1 ¥ from now on to get 105 back diamonds, which will be returned in 7 days (need to connect to the Internet)
+Recharge 1 ï¿½ from now on to get 105 back diamonds, which will be returned in 7 days (need to connect to the Internet)
 
 [PRODUCT_DIAMONDS_REWARD]
 {GEMS} diamonds are available
@@ -25952,7 +25431,7 @@ Not open
 Events not open
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED]
-The 1 ¥ paid diamond return event is not yet open, please try again
+The 1 ï¿½ paid diamond return event is not yet open, please try again
 
 [PRODUCT_GEM_REWARD_GET_FAILED_TITLE]
 Failed to claim
@@ -27381,7 +26860,7 @@ Don't worry, the first 3 planting trial plants don't need to consume sun, try yo
 {EXCITED:crazydave}{SAY} Try the newly arrived acorns, specializing in restraining walrus zombies, breaking their teeth, and preventing ski zombies from sprinting.
 
 [PLANTTRIAL_BUY_BUTTON_NAME_1]
-{NUMBER} ¥
+{NUMBER} ï¿½
 
 [PLANTTRIAL_BUY_BUTTON_NAME_2]
 {NUMBER} diamond
@@ -27438,7 +26917,7 @@ The ultimate will give priority to attacking the rear row, and the bullets will 
 It can cause additional damage to shells, and the full-screen acid rain of plants food will kill you instantly
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-Cost {COST_NUM} ¥ to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
+Cost {COST_NUM} ï¿½ to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
 Spend {COST_NUM} diamond to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
@@ -28165,9 +27644,9 @@ share is a gift
 
 [UPDATE_NOTICE_CONTEXT]
 Dear Player:
- « Plants vs. Zombies 2» latest version can be updated.
+ ï¿½ Plants vs. Zombies 2ï¿½ latest version can be updated.
  
-The new « Plants vs. Zombies 2»PvP function has been turned on. Come and play PvP now and get 10 diamonds for each win, up to 50 diamonds a day!
+The new ï¿½ Plants vs. Zombies 2ï¿½PvP function has been turned on. Come and play PvP now and get 10 diamonds for each win, up to 50 diamonds a day!
 There are also exciting PvP daily achievement activities for you to challenge, and rare plant pieces are waiting for you!
  
  <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
@@ -28671,7 +28150,7 @@ Sunflower singers can produce sun and inspire the plants around them by singing,
 
 [BIRTHSUNFLOWER_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} yellow plant, endless sun
-{FLAVOR} In order to prepare for the second anniversary celebration, the organizers specially invited Sunflower, the most famous singer in the plant industry, as a special guest. In addition to a large amount of sun's appearance fees, the organizers also spent days convincing the leader, retrieving the missing agent, Little Pea, and promising to invite the famous hairstylist Shamrock to make a new hairstyle for Sunflower to succeed. At that time, you will be able to listen to her singing the famous song «Zombies On Your Lawn» at the celebration venue, if you can buy a ticket or kill the tall bodyguard chasing the second grass......
+{FLAVOR} In order to prepare for the second anniversary celebration, the organizers specially invited Sunflower, the most famous singer in the plant industry, as a special guest. In addition to a large amount of sun's appearance fees, the organizers also spent days convincing the leader, retrieving the missing agent, Little Pea, and promising to invite the famous hairstylist Shamrock to make a new hairstyle for Sunflower to succeed. At that time, you will be able to listen to her singing the famous song ï¿½Zombies On Your Lawnï¿½ at the celebration venue, if you can buy a ticket or kill the tall bodyguard chasing the second grass......
 
 [BIRTHSUNFLOWER_TOOLTIP]
 Sunflower singers can produce sun and inspire the surrounding plants by singing.
@@ -30016,8 +29495,8 @@ Age Advisory for Plants vs. Zombies 2 Game
 
 3) According to national requirements, the game has a real-name authentication system. Users who have not passed the real-name authentication cannot enter the game; users certified as minors cannot enter the game at any time other than 20:00 to 21:00 daily on Fridays, Saturdays, Sundays, and legal holidays. Some gameplay and items in the game require payment. Users certified as minors will be subject to the following management:
  - Users under 8 years old cannot make payments.
- - Users aged 8 or above but under 16 cannot recharge more than 50 ¥ in a single transaction or exceed a cumulative monthly recharge amount of 200 ¥.
- - Users aged 16 or above cannot recharge more than 100 ¥ in a single transaction or exceed a cumulative monthly recharge amount of 400 ¥.
+ - Users aged 8 or above but under 16 cannot recharge more than 50 ï¿½ in a single transaction or exceed a cumulative monthly recharge amount of 200 ï¿½.
+ - Users aged 16 or above cannot recharge more than 100 ï¿½ in a single transaction or exceed a cumulative monthly recharge amount of 400 ï¿½.
 
 4) The game requires players to allocate resources reasonably, upgrade plant levels, arrange battlefield formations to enhance team strength for victory in battles, and adjust combat strategies based on battlefield events, helping to improve players' logical thinking and adaptability.
 
@@ -30312,7 +29791,7 @@ Participate in the lottery during the event period for a chance to win the 2nd-a
 Plants in this period:[Sunflower Singer],[Ice Shroom],[Carrot Missile Truck],[Melon-pult],[Snow Pea].
 
 [NATIONALDAY_ACTIVE_BUY]
-    {GEM} Draw Once
+    {GEM} x1
 
 [NATIONALDAY_ACTIVE_BUY_DIALOG_TITLE]
 Purchase pieces
@@ -30866,7 +30345,7 @@ The training cohort has exceeded the population cap and cannot train in its enti
 Consume {NUMBER} diamonds to finish immediately?
 
 [PVP_TRAINING_FINISH_TIP2]
-Cost {NUMBER} ¥ to complete immediately?
+Cost {NUMBER} ï¿½ to complete immediately?
 
 [PVP_SEEDPACKET_LOCKED]
 Base {NUMBER} level unlock
@@ -31534,7 +31013,7 @@ You only have one direct completion
 ?{MONEY} Get it now
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_1]
-Spend {COST_NUM} ¥ to buy {PLANT_LEVEL} level {PLANT_NAME}, and get extra {COIN_NUM} gold coins
+Spend {COST_NUM} ï¿½ to buy {PLANT_LEVEL} level {PLANT_NAME}, and get extra {COIN_NUM} gold coins
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
 Cost {COST_NUM} diamond purchase {PLANT_LEVEL} level {PLANT_NAME}, extra {COIN_NUM} gold coins
@@ -31795,7 +31274,7 @@ Draw 10 Times
 ^FF0000^Only^oldclr^ the listed plants and their fragments can be drawn^349901^(First single draw and first 10-draw guarantee a plant)^oldclr^.
 
 [GACHA_POOL_SHOW]
-Prize Pool Preview
+Prize Pool
 
 [SECRET_GACHA_ONCE]
 Open
@@ -31895,9 +31374,6 @@ Leaderboard Rewards Preview
 
 [BOSS_CHALLENGE_INFO_RANK]
 {RANK}name
-
-[BOSS_CHALLENGE_HEAD_ID_10000]
-It's a head
 
 [GACHA_ITEM_NORMAL_HEADER]
 Normal Treasure
@@ -32610,7 +32086,7 @@ Perspective Jar Skills
 10,000 gold coins
 
 [AWARD_SCREEN_WORLDTROPHY_BEACH]
-You defeated Dr. Zombie's Dr. Zombie ( mechanical shark ).
+You have defeated Dr. Zomboss' creation, the Zombot Sharktronic Sub.
 
 [AWARD_SCREEN_ARTIFACT_VASE_DESCRIPTION]
 A powerful artifact
@@ -32625,148 +32101,148 @@ A powerful artifact
 Healing Artifact
 
 [AWARD_SCREEN_WORLDTROPHY_BEACH_TITLE]
-A Big Wave of Beach Trophy 
+Big Wave Beach Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_COWBOY_TITLE]
 Wild West Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_DARK]
-You defeated Dr. Zombie's Dark Mechanical Dragon.
+You have defeated Dr. Zomboss' creation, the Zombot Dark Dragon.
 
 [AWARD_SCREEN_WORLDTROPHY_DARK_TITLE]
-Dark Age Trophy
+Dark Ages Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_DINO]
-You beat Dr. Zombie's dinosaur mechanical zombies.
+You have defeated Dr. Zomboss' creation, the Zombot Dinotronic Mechasaur.
 
 [AWARD_SCREEN_WORLDTROPHY_DINO_TITLE]
 Jurassic Marsh Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_EGYPT_TITLE]
-The Mysterious Egyptian Trophy
+Ancient Egypt Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES]
-You beat Dr. Zombie's new generation, Dr. Rock Zombie
+You have defeated Dr. Zombossâ€™ creation, the Zombot Multi-stage Masher.
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES_TITLE]
-Rock Age Journey Trophy
+Neon Mixtape Tour Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_FUTURE]
-You beat Dr. Zombie's future mechanical zombies.
+ou have defeated Dr. Zomboss' creation, the Zombot Tomorrow-tron.
 
 [AWARD_SCREEN_WORLDTROPHY_ICEAGE]
-You defeated Dr. Zombie's Tusk Conqueror.
+You have defeated Dr. Zomboss' creation, the Zombot Tuskmaster 10,000 BC.
 
 [AWARD_SCREEN_WORLDTROPHY_ICEAGE_TITLE]
-Glacier World Trophy
+Frostbite Caves Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_LOSTCITY]
-You defeated the airship Doctor Zombie in Doctor Zombie.
+You have defeated Dr. Zomboss' invention, the Zombot Aerostatic Gondola.
 
 [AWARD_SCREEN_WORLDTROPHY_LOSTCITY_TITLE]
 Lost City Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_MODERN]
-You got a corn roll with a cookie on it!
+You have acquired a taco with a waffle in it!
 
 [AWARD_SCREEN_WORLDTROPHY_MODERN_TITLE]
-Corn rolls with biscuits
+Taco With a Waffle In It
 
 [AWARD_SCREEN_WORLDTROPHY_PIRATE_TITLE]
-Pirate Harbor Trophy
+Pirate Seas Trophy
 
 [BEACH_DANGER_ROOM_NAME]
-Tiki Torch
+Tiki Torch-er
 
 [BEGHOULED_METER_TEXT]
-{COUNT}/{TOTAL} match
+{COUNT}/{TOTAL} matches
 
 [BIRTHDAYZ_SURPRISE]
-Birthday surprise!
+Birthdayz Surprise!
 
 [BOOST_ALREADY_ACTIVE]
-This plant has been strengthened! Use in levels!
+This plant is already boosted! Use it in a level!
 
 [BOOST_COMBAT_BOUNTY_HUNTER]
-The zombies that are knocked down will drop gold coins
+Defeated zombies drop coins
 
 [BOOST_COMBAT_EXTRA_TOUGH]
-Additional protection in the face of attacks
+Extra protection against attacks
 
 [BOOST_COMBAT_FAST_RECHARGE]
-Cool faster
+Recharges faster
 
 [BOOST_COMBAT_FIRST_STRIKE]
-Get free energy bean effect
+Gets free Plant Food effect
 
 [BOOST_COMBAT_RAPID_FIRE]
-Faster attack
+Faster attack rate
 
 [BOOST_COMBAT_SHOVEL_BOMB]
-Explodes when eradicated
+Explodes when shoveled"
 
 [BOOST_COMBAT_SUN_DISCOUNT]
-Reducing sun cost
+Reduced sun cost
 
 [BOOST_DETAIL_BOUNTY_HUNTER]
-Zombies knocked down by this plant drop gold coins. This reinforcement lasts for one level
+Zombies defeated by this plant drop coins. This boost lasts for 1 level.
 
 [BOOST_DETAIL_EXTRA_TOUGH]
-Additional protection when dealing with zombies. This reinforcement lasts for one level
+Extra protection from zombies. This boost lasts for 1 level.
 
 [BOOST_DETAIL_FAST_RECHARGE]
-Cooling faster. This reinforcement lasts for one level
+Recharges more quickly. This boost lasts for 1 level.
 
 [BOOST_DETAIL_FIRST_STRIKE]
-Get free energy bean effect after placement. This reinforcement lasts for one level
+Recharges more quickly. This boost lasts for 1 level.
 
 [BOOST_DETAIL_RAPID_FIRE]
-Faster attack. This reinforcement lasts for one level
+Attacks at a faster rate. This boost lasts for 1 level.
 
 [BOOST_DETAIL_SHOVEL_BOMB]
-Explosion while eradicating. This reinforcement lasts for one level
+Explodes when shoveled. This boost lasts for 1 level.
 
 [BOOST_DETAIL_SUN_DISCOUNT]
-Planting consumes less sun. This reinforcement lasts for one level
+Costs less sun to plant. This boost lasts for 1 level.
 
 [BOOST_TITLE_BOUNTY_HUNTER]
 Bounty Hunter
 
 [BOOST_TITLE_EXTRA_TOUGH]
-Extra toughness
+Extra Toughness
 
 [BOOST_TITLE_FAST_RECHARGE]
-Cool faster
+Fast Recharge
 
 [BOOST_TITLE_FIRST_STRIKE]
 First Strike
 
 [BOOST_TITLE_RAPID_FIRE]
-Rapid-fire
+Rapid Fire
 
 [BOOST_TITLE_SHOVEL_BOMB]
-Rooting bombs
+Shovel Bomb
 
 [BOOST_TITLE_SUN_DISCOUNT]
-sun Discount
+Sun Discount
 
 [BUTTON_KEEP]
-Keep
+KEEP
 
 [BUTTON_NEW_EPIC_QUEST_AVAILABLE]
-New epic quest unlocked!
+NEW EPIC QUEST AVAILABLE!
 
 [BUTTON_NEW_QUEST_AVAILABLE]
-New mission unlocked!
+NEW QUEST AVAILABLE!
 
 [BUTTON_QUEST_COMPLETED]
-Mission accomplished!
+QUEST COMPLETE!
 
 [BUTTON_REFRESH]
-Refresh
+REFRESH
 
 [BUY_NOW]
-Buy right away
+Buy Now
 
 [CACTUS]
 Cactus
@@ -32774,7 +32250,7 @@ Cactus
 [CACTUS_DESCRIPTION]
 {KEYWORD}Special: {STAT} Hides, does ground damage when zombies are near
 {KEYWORD}Plant features: {STAT} green plant, thunderbolt, tall
-{FLAVOR} Lately for Cactus, things have greatly changed. Book trades, movies, truck show appearances and such... she just wants to stay humble, launching thorns like always.
+{FLAVOR}Lately for Cactus, things have greatly changed. Book trades, movies, truck show appearances and such... she just wants to stay humble, launching thorns like always.
 
 [CACTUS_DESCRIPTION_HEADER]
 Cactus can fire penetrative spikes, dealing damage to multiple enemies!
@@ -32783,13 +32259,13 @@ Cactus can fire penetrative spikes, dealing damage to multiple enemies!
 Launch penetrating spikes to avoid ground damage
 
 [CATEGORY_4_DESCRIPTION]
-Gold coins
+COINS
 
 [CATEGORY_6_DESCRIPTION]
-Plant
+PLANTS
 
 [CATEGORY_7_DESCRIPTION]
-Upgrade
+UPGRADES
 
 [CATEGORY_79_DESCRIPTION]
 Jewel
@@ -32798,7 +32274,7 @@ Jewel
 Jewel
 
 [CATEGORY_8_DESCRIPTION]
-Giftpack
+BUNDLES
 
 [CELERYSTALKER]
 Lurking celery
@@ -32888,9 +32364,9 @@ Details can be viewed in the illustrated book.
 New Rewards!
 
 [CONVERSION_SPLASH_DESCRIPTION]
-•Faster travel to new time and space.
-•New turbo speed characteristics.
-•Giant zombie battles in every space-time.
+ï¿½Faster travel to new time and space.
+ï¿½New turbo speed characteristics.
+ï¿½Giant zombie battles in every space-time.
 
 [CONVERSION_SPLASH_TITLE]
 Feature: New map!
@@ -33926,16 +33402,16 @@ Log out {FB_NAME}
 Must board out!!!
 
 [FACEBOOK_GIFT_DIALOG_HEADER]
-« Plants vs. Zombies 2» Gift
+ï¿½ Plants vs. Zombies 2ï¿½ Gift
 
 [FACEBOOK_GIFT_DIALOG_TEXT]
-Give gifts to friends in « Plants vs. Zombies 2»!
+Give gifts to friends in ï¿½ Plants vs. Zombies 2ï¿½!
 
 [FACEBOOK_INVITE_DIALOG_HEADER]
-« Plants vs. Zombies 2» invitation
+ï¿½ Plants vs. Zombies 2ï¿½ invitation
 
 [FACEBOOK_INVITE_DIALOG_TEXT]
-Your friends want you to see « Plants vs. Zombies 2». Enter the game right away!
+Your friends want you to see ï¿½ Plants vs. Zombies 2ï¿½. Enter the game right away!
 
 [FAILED_PROTECT_THE_PUFFSHROOM]
 Small spray mushroom
@@ -34868,32 +34344,32 @@ It's time for a 24-hour zombie party! Your next can party is ready. Come play!
 The last can party is coming to an end! After it's over, go and beat SEASOR PIiasATA.
 
 [LOCAL_NOTE_LOD_GOLIVE_07]
-There's only one can party left to challenge {LARGE_PINATA_INTERVAL} winning streak SEãOR PI?ATA! Coming to an end.
+There's only one can party left to challenge {LARGE_PINATA_INTERVAL} winning streak SEï¿½OR PI?ATA! Coming to an end.
 
 [LOCAL_NOTE_LOD_GOLIVE_08]
-Hello, Piñata party lover! Hurry up and take on Señor Piñata. Coming to an end.
+Hello, Piï¿½ata party lover! Hurry up and take on Seï¿½or Piï¿½ata. Coming to an end.
 
 [LOCAL_NOTE_LOD_PARTY_ANIMAL]
-Piñata party lovers! Go now and take on Señor Piñata.
+Piï¿½ata party lovers! Go now and take on Seï¿½or Piï¿½ata.
 
 [LOCAL_NOTE_LOD_PARTY_TIME]
-Piñata party time is up. Win streak {LARGE_PINATA_INTERVAL} field to challenge Señor Piñata!
+Piï¿½ata party time is up. Win streak {LARGE_PINATA_INTERVAL} field to challenge Seï¿½or Piï¿½ata!
 
 [LOCAL_NOTE_LOD_PLAY_TODAY]
-Come to today's Piñata party and win a glorious tomorrow!
+Come to today's Piï¿½ata party and win a glorious tomorrow!
 
 [LOCAL_NOTE_LOD_TODAY]
-Today's Piñata party is starting! Go teach the zombies a lesson.
+Today's Piï¿½ata party is starting! Go teach the zombies a lesson.
 
 [LOCAL_NOTE_LOD_WIN_5]
-Win {LARGE_PINATA_INTERVAL} Piñata party in a row to win the big prize!
+Win {LARGE_PINATA_INTERVAL} Piï¿½ata party in a row to win the big prize!
  
 
 [LOCAL_NOTE_LOD_WIN_PRIZES]
 Fight zombies from all over the world for 24 hours and win big prizes!
 
 [LOCAL_NOTE_LOD_WIN_TODAY]
-In today's Piñata party, win consecutive {LARGE_PINATA_INTERVAL} games!
+In today's Piï¿½ata party, win consecutive {LARGE_PINATA_INTERVAL} games!
 
 [LOCAL_NOTE_NEXT_DANGER_ROOM_01]
 In {DANGER_ROOM_NAME} you achieved the personal best {LEVEL_NUMBER}. Do you think you can challenge it again?
@@ -35098,7 +34574,7 @@ Receive 2 times gold coin reward, source is
 Summer Nights - now get more power-ups every time you win!
 
 [LOD_OPEN_REWARDS_HEADER]
-Hit hard and open 3 Piñata parties
+Hit hard and open 3 Piï¿½ata parties
 
 [LOD_OPEN_REWARDS_HEADER_HOLIDAY]
 Click and open 3 gifts
@@ -35152,10 +34628,10 @@ I have read and accepted:
 minutes
 
 [MKTG_EIGHTIES_1]
-Hello fans of « Plants vs. Zombies 2»! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
+Hello fans of ï¿½ Plants vs. Zombies 2ï¿½! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
 
 [MKTG_EIGHTIES_2]
-Hello fans of « Plants vs. Zombies 2»! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
+Hello fans of ï¿½ Plants vs. Zombies 2ï¿½! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
 
 [MODE_NAME_BEGHOULED]
 Gemmaze
@@ -36733,7 +36209,7 @@ It's hard to grind.
 {SAY:IMPFINITY} More exciting, so stay tuned......
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_12]
-{SAY:IMPFINITY}. . . . . Don't miss « Plants vs. Zombies: Hero »!
+{SAY:IMPFINITY}. . . . . Don't miss ï¿½ Plants vs. Zombies: Hero ï¿½!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_2]
 {NPC_EXIT:GREENSHADOW}{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}No! Just a bunch of trash! So you, the Wall-nut Knight?
@@ -40383,78 +39859,6 @@ Open Treasures
 [CONTENT_OPEN_CHEST]
 Spend ^00FF00{NUMBER} diamond ^oldclr Try your luck.
 
-[BOSS_CHALLENGE_HEAD_DES_ID_25100]
-To players who have achieved results in the endless challenges in Egypt. 
-
-[BOSS_CHALLENGE_HEAD_ID_25100]
-Egypt Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25110]
-To players who have achieved results in the Pirate Endless Challenge. 
-
-[BOSS_CHALLENGE_HEAD_ID_25110]
-Pirate Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25120]
-To players who have achieved results in the Endless Challenge of the West. 
-
-[BOSS_CHALLENGE_HEAD_ID_25120]
-Western Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25130]
-To players who have achieved results in endless KongFu challenges. 
-
-[BOSS_CHALLENGE_HEAD_ID_25130]
-KongFu Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25140]
-To players who have achieved results in endless challenges ahead. 
-
-[BOSS_CHALLENGE_HEAD_ID_25140]
-Future Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25150]
-To players who have achieved results in the Dark Endless Challenge. 
-
-[BOSS_CHALLENGE_HEAD_ID_25150]
-Dark Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25160]
-To players who have achieved results in endless challenges at the beach. 
-
-[BOSS_CHALLENGE_HEAD_ID_25160]
-Beach Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25170]
-To players who have achieved results in the Glacier Endless Challenge. 
-
-[BOSS_CHALLENGE_HEAD_ID_25170]
-Glacier Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25180]
-To players who have achieved results in the Sky Endless Challenge. 
-
-[BOSS_CHALLENGE_HEAD_ID_25180]
-Sky Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25190]
-To players who have achieved results in the Lost Endless Challenge. 
-
-[BOSS_CHALLENGE_HEAD_ID_25190]
-Lost Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25490]
-To players who have achieved results in the Steam Endless Challenge. 
-
-[BOSS_CHALLENGE_HEAD_ID_25490]
-Steam Endless Challenger
-
-[BOSS_CHALLENGE_HEAD_DES_ID_25500]
-To the players who achieved results in the Fairy Tale Endless Challenge.
-
-[BOSS_CHALLENGE_HEAD_ID_25500]
-Fairy Tale Endless Challenger
-
 [FIRSTCREATE]
 Creation
 
@@ -41724,10 +41128,10 @@ Pack refresh:
 Original PRICE
 
 [LOST_NETWORK_ACTIVE_OLD_COST_3]
-¥
+ï¿½
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
-{COST} ¥
+{COST} ï¿½
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL1]
 level 1 {PLANT}
@@ -41986,13 +41390,13 @@ Double Dan Defense Challenge Victory
 A large number of prizes can be obtained by participating in the Double Dan Defense Campaign every day
 
 [YUANBAODEFENCE_WIN_HEADER_TITLE]
-Victory in the Battle of ¥bao
+Victory in the Battle of ï¿½bao
 
 [YUANBAO_DZ_HEADER]
 Click on the red envelope to see what gifts there are in it ~
 
 [YUANBAODEFENCE_DZ_FOOT]
-If you participate in the ¥bao Battle event the first 3 times a day, you can draw special rewards!
+If you participate in the ï¿½bao Battle event the first 3 times a day, you can draw special rewards!
 
 [SUMMEREVENTGAMEMODE_DAYS_TITLE]
 {DAY}D
@@ -42268,10 +41672,10 @@ Return Pack Network Error
 Current piece: {NAME}
 
 [RECALL_OFFER_BANK_BUY]
-18 ¥
+18 ï¿½
 
 [RECALL_OFFER_BEAR_BUNDLE_BUY]
-128 ¥
+128 ï¿½
 
 [RECALL_OFFER_BEAR_BUY]
 Need to purchase any of the above
@@ -42646,13 +42050,13 @@ Click on the mistletoe ice fairy and then click on a lattice to fire the ice she
 Recharge big rebate Costume the lottery and get it at will
 
 [STORE_PRODUCT_CHARGE_ACCUMULATE]
-Cumulative Recharge {NUM} ¥:
+Cumulative Recharge {NUM} ï¿½:
 
 [STORE_PRODUCT_CHARGECANAWARD]
-Recharge {NUM} ¥ to receive
+Recharge {NUM} ï¿½ to receive
 
 [STORE_PRODUCT_ACTIVITY_DES]
-Activity content: During the activity, players who recharge to the corresponding amount can receive corresponding rewards. If the recharge reaches {NUM} ¥, they can also receive ^ff0000^ costume rewards! ^oldclr^
+Activity content: During the activity, players who recharge to the corresponding amount can receive corresponding rewards. If the recharge reaches {NUM} ï¿½, they can also receive ^ff0000^ costume rewards! ^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
 Only once to claim
@@ -42852,7 +42256,7 @@ Poaceae
 Saccharum
 
 [SUGARCANE_PEDIA]
-EVILHACK28(Phyllostachys edulis (Carrière) J. Houzeau)
+EVILHACK28(Phyllostachys edulis (Carriï¿½re) J. Houzeau)
 NO NO NO YOU GONNA WAIT FOR SEE THIS TRANSLATE 
 
 [SUGARCANE_PEDIA_EXTRA]
@@ -43376,7 +42780,7 @@ Speed growth
 Increase the effect of Skill 2 by 100%
 
 [TUPISTRASTALKER_SKILL_LEVEL5]
-Rotate 720°
+Rotate 720ï¿½
 
 [TUPISTRASTALKER_SKILL_LEVEL5_DES]
 2 rounds of darts will be shot when attacking
@@ -43386,7 +42790,7 @@ Chef Pyo Lan
 
 [CYPRIPEDIUM_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} Chef Piaolan was once the premier top chef, and the soup he made was extremely delicious. Until one day he came into contact with a new recipe «Moo City Cooking Essence», and enshrined it in the holy scriptures, and his cooking began to produce surprising results.
+{FLAVOR} Chef Piaolan was once the premier top chef, and the soup he made was extremely delicious. Until one day he came into contact with a new recipe ï¿½Moo City Cooking Essenceï¿½, and enshrined it in the holy scriptures, and his cooking began to produce surprising results.
 
 [CYPRIPEDIUM_DESCRIPTION_HEADER]
 Chef ladle orchid's soup will make the zombies take a detour.
@@ -44840,7 +44244,7 @@ The experience card time has expired. Do you want to buy this plant?
 First Charge Pack
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-Make a single recharge of ^00FF00 2 ¥ ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
+Make a single recharge of ^00FF00 2 ï¿½ ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
 
 [PLANT_SPECIAL_LEFT_TIME]
 Activity countdown: {TIME}
@@ -44960,10 +44364,10 @@ Super Master Gift
 Champion's Return Gift
 
 [PLANT_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Original Price: ¥198
+Original Price: ï¿½198
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Purchase for 68 ¥
+Purchase for 68 ï¿½
 
 [STORE_CATEGORY_NAME_SECRET_STORE_DESC]
 Buy Pack
@@ -45008,7 +44412,7 @@ Store Reset Countdown
 Available
 
 [SECRET_BUY_STR]
-{NUMBER} ¥
+{NUMBER} ï¿½
 
 [SECRET_BUY_STR_FREE]
 Free-of-charge
@@ -45071,10 +44475,10 @@ Endless Pack 6
 Endless Pack 7
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Original price {NUMBER} ¥
+Original price {NUMBER} ï¿½
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-{NUMBER} ¥ purchase
+{NUMBER} ï¿½ purchase
 
 [PLANT_SPECIAL_OFFER_TITLE]
 Plant Package Thanksgiving Pack
@@ -45251,12 +44655,12 @@ Ice Hockey Match
 
 [PVZ_WORLDCUP_DES]
 Gameplay Overview:
-· A large number of zombies will appear in the game, among which zombies with a ball possession mark on their heads will score a goal when they reach our baseline.
-· Players play as the plant side, set up formations, and after setting up the formation, plants that kill zombies with ball possession marks will gain ball possession plants food. Dragging the ice hockey plants food onto plants with ball possession marks will shoot the soccer ball.
-· Dragging plants food onto plants without ball possession marks will pass the ball to the plant before shooting.
-· The ice hockey continues to advance without zombie obstruction or killing zombies. If it advances to the baseline, the player scores one point.
-· After the time is up, the side with more goals wins. In case of a draw, players can challenge again.
-· Completing levels will earn rich rewards!
+ï¿½ A large number of zombies will appear in the game, among which zombies with a ball possession mark on their heads will score a goal when they reach our baseline.
+ï¿½ Players play as the plant side, set up formations, and after setting up the formation, plants that kill zombies with ball possession marks will gain ball possession plants food. Dragging the ice hockey plants food onto plants with ball possession marks will shoot the soccer ball.
+ï¿½ Dragging plants food onto plants without ball possession marks will pass the ball to the plant before shooting.
+ï¿½ The ice hockey continues to advance without zombie obstruction or killing zombies. If it advances to the baseline, the player scores one point.
+ï¿½ After the time is up, the side with more goals wins. In case of a draw, players can challenge again.
+ï¿½ Completing levels will earn rich rewards!
 
 [PVZ_WORLDCUP_LEFT_TICKET]
 Remaining Tickets: {NUM}
@@ -45931,10 +45335,10 @@ Obtained ^FF0000 10 ^oldclr times
 Challenge Opportunities
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
-1 ¥
+1 ï¿½
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
-6 ¥
+6 ï¿½
 
 [MAT_ZMATCH_TICKET]
 Z-League Medal
@@ -45992,13 +45396,13 @@ Purchase ^FFFF00 6000 ^oldclr coins to receive ^FFFF00 60 ^oldclr purple coins.
 Purple coins can be used for the limited-time treasure draw event to win ^ef7600 orange plants ^oldclr and trophies.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-Purchase ^ffff00 1 ^oldclr times for 6 ¥
+Purchase ^ffff00 1 ^oldclr times for 6 ï¿½
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-Purchase for 25 ¥^ffff00 5^oldclr times
+Purchase for 25 ï¿½^ffff00 5^oldclr times
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-Purchased for 328 ¥^ffff00 66^oldclr times
+Purchased for 328 ï¿½^ffff00 66^oldclr times
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD1_DESC]
 Buy a small purple gold coin Pack
@@ -46122,7 +45526,7 @@ Group buying instructions
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
 1. The group buy event starts at 9 AM on the day it begins and settles at 9 AM the next day. On the last day, the group buy settles at midnight.
 2. During the event, players purchase items at full price using diamonds to join the group buy. After the group buy countdown ends, diamonds will be refunded based on the discount!
-3. During the group buy period (when there is a group buy event entry), players will receive 10 Dave Coupons for every 1 ¥ recharged. These coupons can be used to exchange for certain group buy plants. The group buy coupons are valid for the current event period and will be cleared after expiration.
+3. During the group buy period (when there is a group buy event entry), players will receive 10 Dave Coupons for every 1 ï¿½ recharged. These coupons can be used to exchange for certain group buy plants. The group buy coupons are valid for the current event period and will be cleared after expiration.
 4. Plants purchased in the group buy will be 3-star or 2-star plants. If the player already owns the same plant, it will be converted into plant pieces of the same level. Outfits will be converted into outfit pieces.
 
 [VOTE]
@@ -46192,7 +45596,7 @@ Fukuro Confirmation
 The lucky bag plants you selected are:
 
 [LUCKBAG_BUY]
-45 ¥ to activate
+45 ï¿½ to activate
 
 [LUCKBAG_DESCRIPTION]
 Lucky bag instructions
@@ -46396,7 +45800,7 @@ Entering the top 3 of your leaderboard, you will be promoted to a more competiti
 Each edition of the Super Z-League starts at 15:00 pm on Friday, with all fixtures for 5 weeks and the 6th week as the settlement week. Ends at 09:00 am on Friday of Week 6. After the current event, the next event will all undergo a level reset.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-The player has a free key every day, and the countdown is turned on for 8 hours only after the number of free keys have been used, instead of giving you a free key every 8 hours. The free countdown stops if the player has spent diamonds or ¥ on keys during this period. The free key countdown is only entered when the player's key count is 0.
+The player has a free key every day, and the countdown is turned on for 8 hours only after the number of free keys have been used, instead of giving you a free key every 8 hours. The free countdown stops if the player has spent diamonds or ï¿½ on keys during this period. The free key countdown is only entered when the player's key count is 0.
 
 [JOUST_LEAGUE_NAME_BRICK]
 Brick League
@@ -46543,7 +45947,7 @@ Highest League Reward
 No rewards
 
 [JOUST_TOURNAMENT_PLACEMENT_RESULT]
-Tournament:
+Place:
 
 [RIFT_TOURNAMENT_PLACEMENT_RANK]
 Rank {NUMBER}
@@ -46832,7 +46236,7 @@ plants food releases an additional ghost ball.
 Payment Tips
 
 [PAY_CHECK_DIALOG_CONTENT]
-Your accumulated recharge has reached 1,000 ¥ and requires real-name authentication !
+Your accumulated recharge has reached 1,000 ï¿½ and requires real-name authentication !
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hi, the basic guidance level has been skipped for you. The guidance rewards will be distributed to you later. Pay attention to check!
@@ -47246,7 +46650,7 @@ Extinguish the torch in the zombie's hand 15 times at any level
 10 fusions of transgenic
 
 [ACCUMULATE_RECHARGE_REWARD]
-Cumulative {NUM} days, recharge 30 ¥ daily to receive
+Cumulative {NUM} days, recharge 30 ï¿½ daily to receive
 
 [DAVE_TREASURE]
 Dave's Treasure
@@ -47279,7 +46683,7 @@ Get 1 level of the exclusive plant X1
 Get 160 treasure to claim the exclusive plant costume X1
 
 [DAVE_TREASURE_DESCRIPTION]
-For every ^FFFF00 1 ^oldclr ¥, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium does not count)
+For every ^FFFF00 1 ^oldclr ï¿½, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium does not count)
 
 [DAVE_NORMAL_CHALLENGE]
 Free challenges
@@ -47333,7 +46737,7 @@ Total logins: ^3AAD14 ^oldclr
 Please check if there are privileges or refresh the active interface
 
 [DAVE_TREASURE_BUY_1]
-^FFFF00 60 ^oldclr ¥ Purchase
+^FFFF00 60 ^oldclr ï¿½ Purchase
 
 [DAVE_TREASURE_BUY_2]
 Activate to claim
@@ -47530,7 +46934,7 @@ Penny's Pursuit Guide
 During the event, complete the mission to claim points, and accumulate enough points to receive a rich Penny pursuit reward.
 
 [PENNY_ADVANCED_GUIDE_BUY]
-^FFFF00 30 ^oldclr ¥ Purchase
+^FFFF00 30 ^oldclr ï¿½ Purchase
 
 [PENNY_INTGETRAL]
 Number of stars:
@@ -48725,7 +48129,7 @@ Super Option Super Big Pack
 Super-optional
 
 [NEWYEAR_GOODS_BUNDLE]
-{NUM} ¥ optional Pack
+{NUM} ï¿½ optional Pack
 
 [NEWYEAR_GOODS_SELECTED]
 Selected Pack Content
@@ -50405,7 +49809,7 @@ Countdown to end of mission
 available: {NAME} piecex{NUM}
 
 [PLANT_CULTIVATE_BUNDLE_PRICE]
-Purchase for 20 ¥
+Purchase for 20 ï¿½
 
 [PLANT_CULTIVATE_BUNDLE_LIMIT]
 Remaining purchases: ^FF0000^{NUM}^oldclr^
@@ -50546,12 +49950,6 @@ Secret Realm Reward Activation
 
 [PRODUCT_NEW_PLAYER_SPECIAL_GIFT_ACTIVATE_SHORTDESC]
 Special gifts activation
-
-[NEEDFORSPEED_SUNFLOWER_ID_25561]
-Sunflower's Racing Holiday
-
-[NEEDFORSPEED_SUNFLOWER_DES_ID_25561]
-Welcome to the world of Need for Speed: Gathering with Sunflower!
 
 [LIMITED_SUMMON_ADD_UP]
 Cumulative call: {NUM} times
@@ -51469,7 +50867,7 @@ Explode-O-Nut Zombies
 {KEYWORD}Special: {STAT} will cause a lot of damage to the surrounding plants after death!
 {KEYWORD}Weakness: {STAT} will not cause an explosion after being swallowed by plants.
  
-{FLAVOR} No one knows where he came from, just like he appeared out of thin air. The mysterious plant head attracted the attention of many zombies. The latest « Zombie Evening News » reported the place where he appeared, headgear club , oh ~ Okay, do you know how to be stiff, know how to face, and don't know how to know, right?
+{FLAVOR} No one knows where he came from, just like he appeared out of thin air. The mysterious plant head attracted the attention of many zombies. The latest ï¿½ Zombie Evening News ï¿½ reported the place where he appeared, headgear club , oh ~ Okay, do you know how to be stiff, know how to face, and don't know how to know, right?
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
 Plant-headed zombies from mysterious time and space, don't let him die too close to your plant!
@@ -52474,13 +51872,13 @@ Partial permissions are necessary permissions to implement the core functions of
 Single recharge cap
 
 [AUTH_PAYMENT_PER_LIMIT_DESC]
-According to relevant laws and regulations, your single recharge amount shall not exceed {PRICE} ¥, please consume it moderately
+According to relevant laws and regulations, your single recharge amount shall not exceed {PRICE} ï¿½, please consume it moderately
 
 [AUTH_PAYMENT_TOTAL_LIMIT_TITLE]
 Cumulative top-up cap
 
 [AUTH_PAYMENT_TOTAL_LIMIT_DESC]
-You can recharge up to {PRICE} ¥ per month.
+You can recharge up to {PRICE} ï¿½ per month.
 After this recharge, your accumulated recharge amount will exceed the upper limit, and according to the relevant laws and regulations, this recharge cannot be carried out.
 Please consume moderately.
 
@@ -54074,9 +53472,9 @@ Rewards
 Complete recharge goals and log in for 3 days to earn generous rewards, including upgrade books, rare plants & costumes, useful accessories, and exclusive avatars. Note: Only recharges after 11:00 on January 31, 2024, will count towards the current recharge rewards.
 
 There are 3 reward level for recharge:
-- Recharge ¥2: Choose one orange plant (Ice-shroom, Tangle Kelp, Cob Cannon), First Recharge Avatar Frame, 10 Orange Plant Nutrients, and one orange plant costume (Ice-shroom, Tangle Kelp, Cob Cannon).
-- Cumulative ¥60: Choose one dragon plant (Ice Dragon, Lightning Reed, Fire Peashooter), 10 Gene Primers, 10 Directed Pieces.
-- Cumulative ¥198: Metal Slingshot accessory, 300 Diamonds, and Plant Upgrade Book.
+- Recharge ï¿½2: Choose one orange plant (Ice-shroom, Tangle Kelp, Cob Cannon), First Recharge Avatar Frame, 10 Orange Plant Nutrients, and one orange plant costume (Ice-shroom, Tangle Kelp, Cob Cannon).
+- Cumulative ï¿½60: Choose one dragon plant (Ice Dragon, Lightning Reed, Fire Peashooter), 10 Gene Primers, 10 Directed Pieces.
+- Cumulative ï¿½198: Metal Slingshot accessory, 300 Diamonds, and Plant Upgrade Book.
 
 [FIRST_RECHARGE_EXTRA_HAVE_GOT_PRIZE]
 You've already received today's reward, come and take a look tomorrow!
@@ -55374,7 +54772,7 @@ Chapter 3 Acquisition, Use, and Custody of Game Accounts
 [PRIVACY_RULE_TXT_6]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
   
- 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the « privacy policy » and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
+ 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the ï¿½ privacy policy ï¿½ and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
   
  4.2 Tuowei Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as name, personal valid ID number, contact information, home address, etc. in user registration information to any third party without your permission, except in the following circumstances:
  (1) You or your guardian authorizes Tuowei Company to disclose;
@@ -55597,7 +54995,7 @@ Chapter V3 Disclaimer
 [PRIVACY_RULE_TXT_17]
 CHAPTER IX Privacy policy
   
- 9.1 Tuowei Information Systems Co., Ltd. will take reasonable measures to protect users' personal privacy information. Unless otherwise agreed in this agreement, Tuowei Information Systems Co., Ltd.'s game services will follow the unified announcement of Tuowei Information Systems Co., Ltd. « privacy policy».
+ 9.1 Tuowei Information Systems Co., Ltd. will take reasonable measures to protect users' personal privacy information. Unless otherwise agreed in this agreement, Tuowei Information Systems Co., Ltd.'s game services will follow the unified announcement of Tuowei Information Systems Co., Ltd. ï¿½ privacy policyï¿½.
 
 [PRIVACY_RULE_TXT_18]
 Chapter 10 Interruption, suspension and termination of services
@@ -55625,7 +55023,7 @@ Chapter 12 Rules for the use of game graphics
 [PRIVACY_RULE_TXT_20]
 Chapter 13 Special Conventions on Custom Levels
  13.1 Custom level refers to the new function of Tuowei Game in its game. You can customize the content of the game level, that is, you can use Tuowei game materials in Tuowei Game to create levels for other players to entertain. Tuowei Information Systems Co., Ltd. owns the relevant rights of any character, world view, dialogue, art work, animation, music, video, game scene, design concept, etc. in Tuowei game software and services, or has obtained authorization from the legal rights holder (Tuowei game material)
- 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, « privacy policy » and various policies and agreements published from time to time while creating.
+ 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, ï¿½ privacy policy ï¿½ and various policies and agreements published from time to time while creating.
  13.3 You agree to transfer ownership, copyright and other related rights and interests in custom level content globally to Tuowei Information Systems Co., Ltd. Where the foregoing is not enforceable, to the maximum extent permitted by law, you agree to grant Tovi Information Systems GmbH exclusive, irrevocable, royalty-free, transferable, sublicensable, permanent, worldwide rights to use custom level content for any purpose and manner. If Tuowei Information Systems Co., Ltd. needs to register custom level content or obtain relevant certificates, you should cooperate with Tuowei Information Systems Co., Ltd. in a timely manner.
  13.4 You guarantee that the customized level content created will not derogate or damage the image of Tuowei Information Systems Co., Ltd. and the world view of related games, and will not violate any applicable laws and regulations. The use of custom level content will not infringe the intellectual property rights and other legitimate interests of Tuowei Information Systems Co., Ltd. and any third party. If you violate the aforementioned regulations, Tuowei Games has the right to suspend or terminate your use of custom level functions and offline the content of the set custom level. At the same time, it will be processed in accordance with Chapter 14 of this Agreement
 
@@ -55695,7 +55093,7 @@ User Use License Service Agreement
 
 [EULA_TXT_1]
 Welcome to apply to use the services provided by Tuowei Information Systems Co., Ltd. (hereinafter also referred to as  Tuowei Company )!
- «Tuowei Information Systems Co., Ltd. User License Service Agreement» (hereinafter referred to as this Agreement) is jointly concluded between you and the game service provider of Tuowei Information Systems Co., Ltd. This agreement has contractual effect. In order to protect your legitimate rights and interests, please be sure to read and fully understand the content of each clause carefully before agreeing to and accepting all terms of this agreement, especially the terms that exempt or limit liability, as well as separate agreements to activate or use a certain service. Restrictions, disclaimer clauses may prompt you in bold to note.
+ ï¿½Tuowei Information Systems Co., Ltd. User License Service Agreementï¿½ (hereinafter referred to as this Agreement) is jointly concluded between you and the game service provider of Tuowei Information Systems Co., Ltd. This agreement has contractual effect. In order to protect your legitimate rights and interests, please be sure to read and fully understand the content of each clause carefully before agreeing to and accepting all terms of this agreement, especially the terms that exempt or limit liability, as well as separate agreements to activate or use a certain service. Restrictions, disclaimer clauses may prompt you in bold to note.
  
 When you click  agree  or  accept  key online, it is deemed that you have read and understood the entire content of this Agreement in detail and agree to abide by the provisions of this Agreement. Unless you have read and accept all the terms of this Agreement, you do not have the right to use Tovi Information Systems GmbH Game Services. Your use of Tovi Information Systems GmbH Game Services is deemed to have been read and you agree to sign this Agreement. Thereafter you may not raise any form of defence for non-reading/non-agreement to the content of this Agreement or similar reasons.
  
@@ -55752,7 +55150,7 @@ Chapter 3 Acquisition, use and safekeeping of game accounts
  
  3.1 Obtaining game accounts
  
- (1) If you need to use and enjoy the games of Tuowei Information System Co., Ltd. and the game services of Tuowei Information System Co., Ltd., you must fully agree to the terms of this agreement, in accordance with the « online game management interim regulations » and the Ministry of Culture « The requirements of the necessary terms of the online game service formatting agreement », and complete the registration process in accordance with the requirements of the registration page, Including, but not limited to, inputting correct basic information and information. The user undertakes to register in his or her true identity, including but not limited to real-name authentication in accordance with the requirements of Tuowei Information Systems Co., Ltd. Games and agrees to hand over the filled-in information to a third-party organization for verification, and ensures that the information provided by him or her The information is true, complete and valid, and the user shall bear corresponding legal liability for the information provided in accordance with legal provisions and this agreement.
+ (1) If you need to use and enjoy the games of Tuowei Information System Co., Ltd. and the game services of Tuowei Information System Co., Ltd., you must fully agree to the terms of this agreement, in accordance with the ï¿½ online game management interim regulations ï¿½ and the Ministry of Culture ï¿½ The requirements of the necessary terms of the online game service formatting agreement ï¿½, and complete the registration process in accordance with the requirements of the registration page, Including, but not limited to, inputting correct basic information and information. The user undertakes to register in his or her true identity, including but not limited to real-name authentication in accordance with the requirements of Tuowei Information Systems Co., Ltd. Games and agrees to hand over the filled-in information to a third-party organization for verification, and ensures that the information provided by him or her The information is true, complete and valid, and the user shall bear corresponding legal liability for the information provided in accordance with legal provisions and this agreement.
  
  (2) If you register successfully, you will get the corresponding account, and you can log in to the game and/or use related services.
  
@@ -55787,7 +55185,7 @@ Chapter 3 Acquisition, use and safekeeping of game accounts
 [EULA_TXT_7]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
  
- 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the « privacy policy » and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
+ 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the ï¿½ privacy policy ï¿½ and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
  
  4.2 Tuowei Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as names, personal valid ID numbers, contact information, home addresses, etc. in user registration information to any third party without your permission, except in the following circumstances:
  
@@ -56054,7 +55452,7 @@ Chapter 13 Special Conventions on Custom Levels
  
  13.1 Custom level refers to the new function of Tuowei Game in its game. You can customize the content of the game level, that is, you can use Tuowei game materials in Tuowei Game to create levels for other players to entertain. Tuowei Information Systems Co., Ltd. owns the relevant rights of any character, world view, dialogue, art work, animation, music, video, game scene, design concept, etc. in Tuowei game software and services, or has obtained authorization from the legal rights holder (Tuowei game material)
  
- 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, « privacy policy » and various policies and agreements published from time to time while creating.
+ 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, ï¿½ privacy policy ï¿½ and various policies and agreements published from time to time while creating.
  
  13.3 You agree to transfer ownership, copyright and other related rights and interests in custom level content globally to Tuowei Information Systems Co., Ltd. Where the foregoing is not enforceable, to the maximum extent permitted by law, you agree to grant Tovi Information Systems GmbH exclusive, irrevocable, royalty-free, transferable, sublicensable, permanent, worldwide rights to use custom level content for any purpose and manner. If Tuowei Information Systems Co., Ltd. needs to register custom level content or obtain relevant certificates, you should cooperate with Tuowei Information Systems Co., Ltd. in a timely manner.
  
@@ -56178,19 +55576,19 @@ Purchase Limit: ^FF0000^{NUM}^oldclr^ times
 Free
 
 [MONTHLY_CARD_PRICE]
-{NUM} ¥
+{NUM} ï¿½
 
 [MONTHLY_CARD_ORIGINAL_PRICE0]
-^FF0000^0 ¥^oldclr^
+^FF0000^0 ï¿½^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE1]
-^FF0000^12.5 ¥^oldclr^
+^FF0000^12.5 ï¿½^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE2]
-^FF0000^50 ¥^oldclr^
+^FF0000^50 ï¿½^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE3]
-^FF0000^150 ¥^oldclr^
+^FF0000^150 ï¿½^oldclr^
 
 [MONTHLY_CARD_LINE]
 ^FF0000^ -^oldclr^
@@ -56358,7 +55756,7 @@ Pendant
 Other Items
 
 [UI_BAG_PLANT_LEVELUP]
-Plant Advancement
+level up
 
 [UI_BAG_TRANS_GENOSIS]
 Transgenesis
@@ -56382,16 +55780,16 @@ Quantity Held: ^ff0000^{NUMS}^oldclr^
 ^ff0000^{NAME}^oldclr^
 
 [UI_BAG_PIECE_TITLE]
-Piece Function: {DESC}
+Piece: {DESC}
 
 [UI_BAG_PLANT_PIECE_DESC]
-Piece Function: Combine to form {DESC} plants
+Piece: Combine to form {DESC} plants
 
 [UI_BAG_AVATAR_PIECE_DESC]
-Piece Function
+Piece
 
 [UI_BAG_ACCESSORY_PIECE_DESC]
-Piece Function: Combine to craft accessories {DESC}
+Piece: Combine to craft accessories {DESC}
 
 [UI_BAG_MATERIAL_DESC]
 Material Function: {DESC}
@@ -56447,7 +55845,7 @@ Event Reward, Secret Realms
 Secret Realms
 
 [UI_BAG_PIECE_WAY]
-Acquisition Method: {DESC}
+Method: {DESC}
 
 [UI_BAG_PIECE_PLANT_TITLE]
 Plant Features
@@ -57793,149 +57191,11 @@ Season-limited Cattail
 [MEMORIESBIRTHSUNFLOWER]
 Season-limited singer Sunflower
 
-[TENYEAR_MEMORIES_HEAD_ID_25465]
-10th Anniversary
-
-[TENYEAR_MEMORIES_HEAD_DES_ID_25465]
-10th anniversary popular endorsement plant champion limited avatar, to all the companionship and love in the past ten years
-
-[UNCHARTED_ICEAGE_ID_25390]
-Come a latte
-
-[UNCHARTED_ICEAGE_HEAD_DES_ID_25390]
-Winter is more with latte
-
-[UNCHARTED_ICEAGE_ID_25391]
-Zombie Chocolate 
-
-[UNCHARTED_ICEAGE_HEAD_DES_ID_25391]
-Don't eat it !
-
-[UNCHARTED_TALE_ID_10000]
-Fairtale Conqueror
-
-[UNCHARTED_TALE_HEAD_DES_ID_10000]
-Proof of the Perfect Close to Fairy Talk
-
-[UNCHARTED_NO42_HEAD_ID_10000]
-Parallel Universe Conqueror
-
-[UNCHARTED_NO42_HEAD_DES_ID_10000]
-Even on other universes you are still 42 time better  ;)
-
-[PARTYEPSACTIVITY_HEAD_ID_25509]
-Party Apple
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25509]
-Party Help Event Limited Avatar
-
-[PARTYEPSACTIVITY_HEAD_ID_25560]
-Party Mandela
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25560]
-Party boost activity exclusive avatar
-
-[PARTYEPSACTIVITY_HEAD_ID_25571]
-Party Electric Peel
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25571]
-Party boost activity exclusive avatar
-
-[PARTYEPSACTIVITY_HEAD_ID_25572]
-Party Scallop Orchid
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25572]
-Party Support Activity Limited Avatar
-
-[PARTYEPSACTIVITY_HEAD_ID_25627]
-Party Mangosteen
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25627]
-Limited-edition avatar for Party Support Event
-
-[PARTYEPSACTIVITY_HEAD_ID_25573]  
-Party Kiwi  
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25573]  
-Limited Avatar for Party Assistance Event  
-
-[PARTYEPSACTIVITY_HEAD_ID_25644]  
-Party Nüwa Serpent Tail Grass  
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25644]  
-Limited Avatar for Party Assistance Event  
-
-[NUMBERLOGINS_HEAD_ID_25590]
-"Dedicated Player" Black Iron
-
-[NUMBERLOGINS_HEAD_DES_ID_25590]
-Avatar awarded for 180 cumulative login days
-
-[NUMBERLOGINS_HEAD_ID_25591]
-"Year After Year" Silver
-
-[NUMBERLOGINS_HEAD_DES_ID_25591]
-Avatar awarded for 365 cumulative login days
-
-[NUMBERLOGINS_HEAD_ID_25592]
-"Die-Hard Fan" Gilded
-
-[NUMBERLOGINS_HEAD_DES_ID_25592]
-Avatar awarded for 600 cumulative login days
-
-[NUMBERLOGINS_HEAD_ID_25593]
-"Millennial Promise" Diamond
-
-[NUMBERLOGINS_HEAD_DES_ID_25593]
-Avatar awarded for 999 cumulative login days
-
-[FIRST_RECHARGE_HEAD_ID_25391]
-First charge avatar
-
-[FIRST_RECHARGE_HEAD_DES_ID_25391]
-May you reap happiness in the courtyard and be happy every day
-
-[PARTYEPSACTIVITY_HEAD_ID_25521]
-Party Stork Fencer
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25521]
-Party Help Event Limited Avatar
-
-[PARTYEPSACTIVITY_HEAD_ID_25534]
-Party Gatling Peas 
-
-[PARTYEPSACTIVITY_HEAD_DES_ID_25534]
-Party Help Event Limited Avatar
-
-[DRACAENALINKAGE_HEAD_ID_25544]
-Dust-free blood tree
-
-[DRACAENALINKAGE_HEAD_DES_ID_25544]
-Ever-lock Link Limited Ahead
-
 [ZOMBIECARNIVAL]
 Garden Games
 
-[LEVEL_EDITOR_HEAD_ID_25545]
-Garden Games
-
-[LEVEL_EDITOR_HEAD_DES_ID_25545]
-It's time to come to a smooth roller coaster.
-
 [ZOMBIEYELLOWDUCK]
 Zombie Yellow Duck
-
-[LEVEL_EDITOR_HEAD_ID_25546]
-Zombie Yellow Duck
-
-[LEVEL_EDITOR_HEAD_DES_ID_25546]
-Did you see my little yellow duck?
-
-[UNCHARTED_CHILDRENSDAY_ID_25547]
-Children's Mountains
-
-[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25547]
-Come and play with children's bamboo.
 
 [MEMORIESLEMON]
 Season limited strong sour lemon
@@ -61738,10 +60998,10 @@ Zomboss is approaching!
 No challenge targets were selected
 
 [PVZ1MODE_TIME_COUNTDOWN]
-Activity remaining:
+Hard progress reset:
 
 [PVZ1MODE_TIME_RESET]
-Normal mode progress reset time:
+Normal progress reset:
 
 [PVZ1_HOW_TO_PLAY_1]
 Space-time energy bar
@@ -62796,7 +62056,7 @@ Please read and agree to the agreement
 I have read and agree
 
 [LINKED_USE_PROTOCOL_2]
-«user license service agreement»
+ï¿½user license service agreementï¿½
 
 [CUSTOM_LEVEL_LINKED_SUCCESS]
 Mobile number association was successful
@@ -64038,7 +63298,7 @@ Use keys to unlock hard levels?
 Activate Premium Access
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
-Activate for 45 ¥
+Activate for 45 ï¿½
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_STAR_DESC]
 {NUMS}/{NUMS_MAX}
@@ -65313,13 +64573,13 @@ Cards with matching round limits can be swapped with each other.
 Level {NUMBER}
 
 [NEW_PVP_TRAINING_LOWER_BACKGROUND_TITLE]
-Zombie Lineup
+Zombie lineup
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_TITLE]
 Fight Zombies
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_BTN]
-Editorial Lineup
+Edit Lineup
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_SAVE_BTN]
 Save
@@ -65361,8 +64621,7 @@ Health
 speed
 
 [NEW_PVP_TRAINING_LEVELUP_BATTLE_LABEL]
-Rarity: {RARE} 
-Type: {BATTLE_TYPE}
+Rarity: {RARE}|Type: {BATTLE_TYPE}
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_INSTANT_KILL]
 Flashkill
@@ -65899,7 +65158,7 @@ Task
 Activate
 
 [NEW_PVP_TASK_TAB1]
-Challenge Tasks
+Challenge
 
 [NEW_PVP_TASK_TAB2]
 Task Levels
@@ -65974,7 +65233,7 @@ Gold 22.67%, Diamonds 22.66%, Ornament 19.26%, Green Plant 11.33%, Blue Plant 7.
 Costume pieces Choose one of three
 
 [NEW_PVP_TASK_NAME_1_1]
-Participation in 2 matches
+Play 2 matches
 
 [NEW_PVP_TASK_NAME_1_2]
 Won 1 match
@@ -65995,7 +65254,7 @@ Kill 80 zombies
 Upgrade 8 times Sunflower bank
 
 [NEW_PVP_TASK_NAME_1_8]
-Causes 20 points of damage to enemy bases
+Deal 20 damage to the enemy base
 
 [NEW_PVP_TASK_NAME_1_9]
 Plant 8 plants level 5
@@ -66007,16 +65266,16 @@ Plant 10 plants level 3
 Plant 12 plants level 1
 
 [NEW_PVP_TASK_NAME_1_12]
-Deploy 3 gargantuan zombies
+Deploy 3 Gargantuar
 
 [NEW_PVP_TASK_NAME_1_13]
 Deploy 15 zombies with speed buff
 
 [NEW_PVP_TASK_NAME_1_14]
-Deploy 10 zombies with blood buff
+Deploy 10 zombies with health buff
 
 [NEW_PVP_TASK_NAME_1_15]
-Deploy 5 zombies in control-free status
+Deploy 5 zombies with control immunity buff
 
 [NEW_PVP_TASK_NAME_2_1]
 Won 3 time in 8 rounds
@@ -66028,10 +65287,10 @@ Deploy 10 zombies with buff in a single round
 Plant 125 plants
 
 [NEW_PVP_TASK_NAME_2_4]
-Causes 100 points of damage to enemy bases
+Deal 100 points of damage to enemy bases
 
 [NEW_PVP_TASK_NAME_2_5]
-Deploy 15 gargantuan zombies
+Deploy 15 gargantuan
 
 [NEW_PVP_TASK_NAME_2_6]
 Win 2 time without lose any point 
@@ -66049,8 +65308,7 @@ Plant 40 plants level 5
 Deploy 75 zombies with speed buff 
 
 [NEW_PVP_TASK_NAME_2_11]
-It first caused 20 damage to enemy bases
-***CODE WRONG TRANSLATION***
+Be the first to damage the enemy in 20 matches
 
 [NEW_PVP_TASK_NAME_2_12]
 Won 5 matches
@@ -66062,10 +65320,10 @@ kill 400 zombies
 Plant 50 plants level 2
 
 [NEW_PVP_TASK_NAME_2_15]
-Deploy 50 zombies with blood buff
+Deploy 50 zombies with health buff
 
 [NEW_PVP_TASK_NAME_2_16]
-30 zombies deployed in a single inning
+Deploy 30 zombies in a single match
 
 [NEW_PVP_TASK_NAME_2_17]
 use 40 000 sun
@@ -66077,7 +65335,7 @@ Upgrade 40 times Sunflower bank
 Plant 50 plants level 1
 
 [NEW_PVP_TASK_NAME_2_20]
-Deploy 25 zombies in control-free status
+Deploy 25 zombies in control immunity buff
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_0]
 Costume pieces Choose one of three
@@ -66739,13 +65997,13 @@ Gift Preview
 Confirm purchase Pack
 
 [WORLD_LEVEL_PACKAGE_PRICE_0]
-6 ¥
+6 ï¿½
 
 [WORLD_LEVEL_PACKAGE_PRICE_1]
-30 ¥
+30 ï¿½
 
 [WORLD_LEVEL_PACKAGE_PRICE_2]
-60 ¥
+60 ï¿½
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_0_SHORTDESC]
 Small Grade Pack
@@ -66796,31 +66054,30 @@ Next Level
 You can win a grand prize of up to 5000 Diamonds in a single draw!  
 
 [CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
-Harvest Acceleration  
 
 [CORNUCOPIA_LOCK_TITLE]
 Level  
 
 [CORNUCOPIA_GACHA_ONE_TITLE]
-Draw Once  
+x1
 
 [CORNUCOPIA_GACHA_TEN_TITLE]
-Draw Ten Times  
+x10
 
 [CORNUCOPIA_TAB_NAME1]
 Cornucopia  
 
 [CORNUCOPIA_TAB_NAME2]
-Level Tasks  
+Tasks  
 
 [CORNUCOPIA_TAB_NAME3]
-Special Bundles  
+Bundles  
 
 [CORNUCOPIA_TAB_NAME4]
-Exchange Shop  
+Shop  
 
 [CORNUCOPIA_TAB_NAME5]
-Prize Pool Distribution  
+Prize Pool  
 
 [CORNUCOPIA_GOTO_LEVEL]
 Upgrade  
@@ -68581,7 +67838,7 @@ Generate a lotus leaf on each of your own up, down, left and right.
 Generate a lotus leaf in a ^ff0000^3x3 area centered on itself^oldclr^.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the bowling bubble, the bowling bubble fires three bowling balls out in turn. Bowling bounces at a declination of 45° after hitting a zombie, and deflects 90° each time thereafter. The bowling bubble itself restores a bowling ball every ~4 seconds. Bowling bubbles prioritize firing and restoring bowling balls with minimal attack power
+When a zombie appears on the right side of the bowling bubble, the bowling bubble fires three bowling balls out in turn. Bowling bounces at a declination of 45ï¿½ after hitting a zombie, and deflects 90ï¿½ each time thereafter. The bowling bubble itself restores a bowling ball every ~4 seconds. Bowling bubbles prioritize firing and restoring bowling balls with minimal attack power
 
 [BOWLINGBULB_NEW_SKILL_LEVEL2_DES]
 There is a 25% probability of recovering two bowls at a time each time the bowling is resumed.
@@ -69339,7 +68596,7 @@ The golden cudgel became larger and was smashed 4 squares to the right, causing 
 The golden cudgel became larger, and ^ff0000^ hit the 5-square ^oldclr^ on the right, causing damage to all zombies and causing the zombies to fall to the ground^ff0000^ unable to move for 12 seconds. One additional ground smash, causing 2 injuries to zombies that have not been smashed to the ground. ^oldclr^
 
 [WINTERSWEET_NEW_SKILL_LEVEL1_DES]
-When a zombie appears to Mei Xiaomei's right, Mei Xiaomei throws a plum blossom at the zombie. The plum blossom scatters five petals after touching the zombie, one of which flies out to the right, and the remaining four petals fly out at an oblique angle of 72° or 144° to it
+When a zombie appears to Mei Xiaomei's right, Mei Xiaomei throws a plum blossom at the zombie. The plum blossom scatters five petals after touching the zombie, one of which flies out to the right, and the remaining four petals fly out at an oblique angle of 72ï¿½ or 144ï¿½ to it
 
 [WINTERSWEET_NEW_SKILL_LEVEL2_DES]
 Mei Xiaomei has a 20% chance of launching another plum blossom when attacking.
@@ -71140,7 +70397,7 @@ Possible rewards
 Purchase the Little Snake Piggy Bank to enjoy ^ff0000^9.9^oldclr^x diamond rebate, with a maximum return of ^ff0000^2970^oldclr^ diamonds.  
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
-Purchase for 30 ¥
+Purchase for 30 ï¿½
 
 [ACTIVITY_NEW_PIGGY_BANK_TITLE]
 Sign-in seven days
@@ -72121,33 +71378,33 @@ Obtained through the Lucky Treasure event or weekly special offer package purcha
 New Year Sign-In
 
 [NFS_LINKAGE_TAB2]
-¥bao Tasks
+ï¿½bao Tasks
 
 [NFS_LINKAGE_TAB3]
 Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-¥bao Battle Description
+ï¿½bao Battle Description
 
 [NFSLINKAGE_DESCRIPTION]
 Event Rules:
 1. Players can log in daily during the event period to receive valuable rewards. The sign-in rewards last for 14 days.
-2. ¥bao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
+2. ï¿½bao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
 3. Event tasks have multiple stages. Only after completing one stage will the next stage be unlocked.
-4. Completing ¥bao tasks will reward ¥bao, which can be used to exchange items in the exchange shop.
-5. ¥bao can be exchanged in the shop only during the event period, so be sure to exchange in time!
+4. Completing ï¿½bao tasks will reward ï¿½bao, which can be used to exchange items in the exchange shop.
+5. ï¿½bao can be exchanged in the shop only during the event period, so be sure to exchange in time!
 
 [MAT_NFSLINKAGE_INTEGRAL]
-¥bao
+ï¿½bao
 
 [NFSLINKAGE_TITLE]
-¥bao Battle
+ï¿½bao Battle
 
 [MAT_NFSLINKAGE_TICKET]
-¥bao
+ï¿½bao
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to receive 14 days of rewards. Complete tasks to earn ¥bao and exchange them for rewards in the shop!
+During the event, players can log in to receive 14 days of rewards. Complete tasks to earn ï¿½bao and exchange them for rewards in the shop!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -72544,29 +71801,11 @@ The Frost Year Beast Zombie has a toughness bar mechanism. Fire attribute attack
 [ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION]
 After training in the Ice Age, it no longer fears red or explosive attacks.
 
-[PLANTWARS_HEAD_ID_25594]
-Chief Escape Expert
-
-[PLANTWARS_HEAD_DES_ID_25594]
-Achieved 15 stars in the first season of Escape from the Ztalemate
-
-[PLANTWARS_HEAD_ID_25607]
-Chief Escape Expert
-
-[PLANTWARS_HEAD_DES_ID_25607]
-Achieved 15 stars in Season 2 of Zombie Escape.
-
 [ACTIVITY_NEW_AUTUMN_HARVEST_DIAMOND_TITLE]
 Diamond Accumulation
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_GOTO_BUTTON]
 Share Prize Pool
-
-[HARVEST_BATTLE_HEAD_ID_25595]
-Autumn Noble
-
-[HARVEST_BATTLE_HEAD_DES_ID_25595]
-In the Farm Battle event, exchange for Super Corn.
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_TIPS]
 Diamond Pool Explanation:
@@ -73520,19 +72759,19 @@ New Year Instructions:
 During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
 
 Daily free Welcome Gift: Diamonds*15
-2 ¥ Gift: Diamonds 30, 10% chance to get a normal costume
-3 ¥ Gift: Diamonds 90, 10% chance to get a rare costume
-6 ¥ Gift: Diamonds 180, 10% chance to get a Advanced costume
+2 ï¿½ Gift: Diamonds 30, 10% chance to get a normal costume
+3 ï¿½ Gift: Diamonds 90, 10% chance to get a rare costume
+6 ï¿½ Gift: Diamonds 180, 10% chance to get a Advanced costume
 
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
-2 ¥ Gift Box
+2 ï¿½ Gift Box
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
-¥3 Value Gift Box
+ï¿½3 Value Gift Box
 
 [PRODUCT_NEW_YEAR_PACK_6_SHORTDESC]
-¥6 Value Gift Box
+ï¿½6 Value Gift Box
 
 [MAT_NEW_YEAR_CHESTS_SMALL]
 Basic New Year Box
@@ -73683,30 +72922,6 @@ Opens on day {NUMBER}.
 
 [TOURISMOCTOBER_TASK_NAME_10]
 Publish three levels in Creative Courtyard.
-
-[TOYS_HEAD_ID_25630]
-Doom Carrot
-
-[TOYS_HEAD_DES_ID_25630]
-Earned by participating in the Black Hole event.
-
-[HARVEST_BATTLE_HEAD_ID_25631]
-Just Kidding
-
-[HARVEST_BATTLE_HEAD_DES_ID_25631]
-Obtain through Super Corn exchange during the Harvest Battle event.
-
-[NEWYEAR_GIFT_HEAD_ID_25632]
-Golden and Silver Greetings
-
-[NEWYEAR_GIFT_HEAD_DES_ID_25632]
-Claim after reaching cumulative recharge milestones during the New Year Pack event.
-
-[TEN_THOUSAND_HEAD_ID_25636]
-Richer then dev ! 
-
-[TEN_THOUSAND_HEAD_DES_ID_25636]
-Earned by spending 10 000¥ the richest of the richest !
 
 [NEWYEARREDPACKETE_TAB0]
 New Year Prize
