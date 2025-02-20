@@ -1,11 +1,31 @@
-﻿This translation, as being created by evilhack28 this version is based on the 3.6.0
+This translation, as being created by evilhack28 this version is based on the 3.6.0
 You can't change the file without saying it was based on my translation first 
 
 Discord: https://discord.com/invite/ngTHrgMVuw
 Youtube channel: https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
 
 
+[COMPLAIN_ICON]
+Credits
+
 [COMPLAIN_CONTENT]
+^340202 evilhack28 ^oldclr     Creator of the mod and translation
+^090320 evilgirl28 ^oldclr     Help on the translation and mod
+^4B0082 cybersteve ^oldclr     Create the template for the translation on github
+^008000 eluth ^oldclrr         Help on the translation
+
+
+[HEALTH_NOTICE_CONTENT_3]
+Plants: 128/271 (30 broken because of wiki)
+Zombie: no
+
+[HEALTH_NOTICE_CONTENT_4]
+translate by evilhack28 version from  January 27 (beta) V1.6.1
+
+[AGE_TIP]
+Change Log by randomgirl3196
+
+[AGE_TIP_CONTENT]
 --1.6.0--
 Added 3.6.0 text
 
@@ -23,14 +43,6 @@ fixed batlle pass text
 fixed weekly gacha textfixed plants adventure text
 fixed travel log text
 fixed artifact text + piece machine + backpack +nfs text
-
-
-[HEALTH_NOTICE_CONTENT_3]
-Plants: 128/271 (30 broken because of wiki)
-Zombie: no
-
-[HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from  January 27 (beta) V1.6.1
 
 [SPRING_TIPS_1]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
@@ -56,12 +68,11 @@ want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
 [SPRING_TIPS_8]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
 
-
 [BOSS_CHALLENGE_HEAD_ID_25003]
 Anniversary Champion Avatar
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25003]
-Even game designers can’t beat you!
+Even game designers can't beat you!
 
 [BOSS_CHALLENGE_HEAD_ID_25004]
 Anniversary Runner-up Avatar
@@ -157,7 +168,7 @@ Por una Cabeza!
 Winter Challenge Second Runner-up
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25019]
-Cricket third place……
+Cricket third place......
 
 [BOSS_CHALLENGE_HEAD_ID_25020]
 Winter Challenge Pro
@@ -445,25 +456,25 @@ This special sausage will always try to jump on the table.
 Bachelor of Botany
 
 [PENNYCLASS_FIRST_HEAD_DES_ID_25349]
-Certificate of completing the Ultimate Trial of Penny’s Classroom.
+Certificate of completing the Ultimate Trial of Penny's Classroom.
 
 [PENNYCLASS_SECOND_HEAD_ID_25350]
 Master of Botany
 
 [PENNYCLASS_SECOND_HEAD_DES_ID_25350]
-Certificate of completing the Ultimate Trial of Penny’s Classroom.
+Certificate of completing the Ultimate Trial of Penny's Classroom.
 
 [PENNYCLASS_THIRD_HEAD_ID_25351]
 Doctor of Botany 
 
 [PENNYCLASS_THIRD_HEAD_DES_ID_25351]
-Certificate of completing the Ultimate Trial of Penny’s Classroom.
+Certificate of completing the Ultimate Trial of Penny's Classroom.
 
 [PENNYCLASS_FOURTH_HEAD_ID_25352]
 Master of Plants
 
 [PENNYCLASS_FOURTH_HEAD_DES_ID_25352]
-Certificate of completing the Ultimate Trial of Penny’s Classroom.
+Certificate of completing the Ultimate Trial of Penny's Classroom.
 
 [TIME_SUMMON_HEAD_ID_25373]
 Limited-time Summoning Gold Award
@@ -772,16 +783,16 @@ Chief Escape Expert
 [PLANTWARS_HEAD_DES_ID_25607]
 Get 15 stars in the second season of Ztalemate Escape.
 
-[PARTYEPSACTIVITY_HEAD_ID_25573]  
+[PARTYEPSACTIVITY_HEAD_ID_25573]
 Party Kiwi
 
-[PARTYEPSACTIVITY_HEAD_DES_ID_25573]  
+[PARTYEPSACTIVITY_HEAD_DES_ID_25573]
 Party Assistance event limited avatar.
 
 [TOYS_HEAD_ID_25327]
 Hungry Dragon Strikes
 
-[TOYS_HEAD_DES_ID_25327]  
+[TOYS_HEAD_DES_ID_25327]
 Participate in the Wonderful Night of Toys event to get.
 
 [PARTYEPSACTIVITY_HEAD_ID_25627]
@@ -818,13 +829,13 @@ During the New Year's Gift Package event, reach the cumulative recharge progress
 Richer then dev ! 
 
 [TEN_THOUSAND_HEAD_DES_ID_25636]
-Earned by spending 10 000� the richest of the richest !
+Earned by spending 10 000? the richest of the richest !
 
-[PARTYEPSACTIVITY_HEAD_ID_25644]  
-Party Nüwa Ophiuros
+[PARTYEPSACTIVITY_HEAD_ID_25644]
+Party N�wa Ophiuros
 
-[PARTYEPSACTIVITY_HEAD_DES_ID_25644]  
-Limited Avatar for Party Assistance Event  
+[PARTYEPSACTIVITY_HEAD_DES_ID_25644]
+Limited Avatar for Party Assistance Event
 
 [UNCHARTED_TALE_HEAD_DES_ID_10000]
 Party Assistance event limited avatar.
@@ -990,59 +1001,59 @@ Upload local archive failed.
 
 
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]  
-Burdock Batter Stand-Up Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]
+Burdock Batter Stand-Up Outfit
 
-[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_2]  
-Increases attack speed by 20%  
+[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_2]
+Increases attack speed by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]  
-N�wa Party Helper Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]
+N?wa Party Helper Outfit
 
-[NEW_AVATAR_DESCRIPTION_EYWA_1]  
-Reduces planting cooldown by 20%  
+[NEW_AVATAR_DESCRIPTION_EYWA_1]
+Reduces planting cooldown by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TUPISTRASTALKER_1]  
-Stealth Arrow New Year Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_TUPISTRASTALKER_1]
+Stealth Arrow New Year Outfit
 
-[NEW_AVATAR_DESCRIPTION_TUPISTRASTALKER_1]  
-Reduces planting cooldown by 10%  
+[NEW_AVATAR_DESCRIPTION_TUPISTRASTALKER_1]
+Reduces planting cooldown by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]  
-Serpent Demon Pitcher Plant Sunglasses Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]
+Serpent Demon Pitcher Plant Sunglasses Outfit
 
-[NEW_AVATAR_DESCRIPTION_SARRACENIA_2]  
-Increases attack speed by 20%  
+[NEW_AVATAR_DESCRIPTION_SARRACENIA_2]
+Increases attack speed by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_2]  
-Water Lily Lantern Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_2]
+Water Lily Lantern Outfit
 
-[NEW_AVATAR_DESCRIPTION_DRAFTODIL_2]  
-Reduces sunlight cost by 20  
+[NEW_AVATAR_DESCRIPTION_DRAFTODIL_2]
+Reduces sunlight cost by 20
 
-[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]  
-Electric Hook Kiss Party Helper Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
+Electric Hook Kiss Party Helper Outfit
 
-[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]  
-Increases attack power by 10%  
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]
+Increases attack power by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]  
-Big Smoke Mushroom Lion Dance Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
+Big Smoke Mushroom Lion Dance Outfit
 
-[NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]  
-Increases attack speed by 10%  
+[NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]
+Increases attack speed by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]  
-Barbarian Rhubarb Growth Pack Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]
+Barbarian Rhubarb Growth Pack Outfit
 
-[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]  
-Increases attack power by 10%  
+[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]
+Increases attack power by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]  
-Crazy Firecracker Flower Growth Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]
+Crazy Firecracker Flower Growth Outfit
 
-[NEW_AVATAR_DESCRIPTION_FIRECRACKERFLOWER_1]  
-Increases attack speed by 20%  
+[NEW_AVATAR_DESCRIPTION_FIRECRACKERFLOWER_1]
+Increases attack speed by 20%
 
 
 
@@ -1083,13 +1094,13 @@ Machine Gun Pomegranate fires the front range of zombies.
 Scattered Shots
 
 [PAMEGRANATE_SKILL1_LEVEL1_DES]
-The attack range of Machine Gun Pomegranate is expanded to 3�3.
+The attack range of Machine Gun Pomegranate is expanded to 3?3.
 
 [PAMEGRANATE_SKILL1_LEVEL2]
 Neva-Miss
 
 [PAMEGRANATE_SKILL1_LEVEL2_DES]
-The attack range of Machine Gun Pomegranate is expanded to 3�4.
+The attack range of Machine Gun Pomegranate is expanded to 3?4.
 
 [PAMEGRANATE_NEW_SKILL_LEVEL1_DES]
 The attack range of machine gun pomegranate is expanded to 3x2.
@@ -1766,8 +1777,8 @@ Egret Flower Plane Costume
 Sap-fling
 
 [SAPFLING_DESCRIPTION]
-{KEYWORD}Damage Explanation: {STAT} Cannot deal damage but leaves resin on the ground.  
-{KEYWORD}Features: {STAT} Slows down zombies that pass over the resin.  
+{KEYWORD}Damage Explanation: {STAT} Cannot deal damage but leaves resin on the ground.
+{KEYWORD}Features: {STAT} Slows down zombies that pass over the resin.
 {FLAVOR}You've gotta see Sap-fling's throwing arm to believe it. He may be young, but everyone agrees ... the kid's got TALENT. Scouts from some of the biggest Pinecone Ball teams have been keeping a close eye on him. He could be headed to the majors. Oh sure, some knock him for his incredibly sticky spitball. But he only uses all-natural sap, so it's entirely legal.
 
 [SAPFLING_DESCRIPTION_HEADER]
@@ -3693,10 +3704,10 @@ Threepeater have 80% of be boosted when planted!
 30% chance to fire ice peas, 30% chance to produce flaming peas and 10% chance to fire plasma peas
 
 [THREEPEATER_PLANTFOOD_DESCRIPTION]
-Threepeater shoots 30 peas in each of three directions: front, up (changing from 0�~90�) and down (changing from 0�~90�).
+Threepeater shoots 30 peas in each of three directions: front, up (changing from 0?~90?) and down (changing from 0?~90?).
 
 [THREEPEATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Threepeater shoots ^FFFF00 60^oldclr^  peas in each of three directions: front, up (changing from 0�~90�) and down (changing from 0�~90�).
+Threepeater shoots ^FFFF00 60^oldclr^  peas in each of three directions: front, up (changing from 0?~90?) and down (changing from 0?~90?).
 
 [GENE_DESCRIPTION_THREEPEATER]
 Base sun cost reduced by {Param_1} sun
@@ -3881,11 +3892,11 @@ Freezing Gasp
 [SNOWPEA_SKILL1_LEVEL2_DES]
 Enhances the effect of Freezing by 100%.
 
-[SNOWPEA_SKILL1_LEVEL5]  
-Icy Spike  
+[SNOWPEA_SKILL1_LEVEL5]
+Icy Spike
 
-[SNOWPEA_SKILL1_LEVEL5_DES]  
-Occasionally launches a reinforced ice spike that freezes zombies on impact. The explosion deals damage to zombies in a 1-tile radius and leaves an frozen ground for three seconds. Zombies on the frozen tile are slowed by the ice effect.  
+[SNOWPEA_SKILL1_LEVEL5_DES]
+Occasionally launches a reinforced ice spike that freezes zombies on impact. The explosion deals damage to zombies in a 1-tile radius and leaves an frozen ground for three seconds. Zombies on the frozen tile are slowed by the ice effect.
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in front of an ice shooter, the ice shooter fires ice peas to attack the zombie and cause ice deceleration effects that last 10 seconds on the hit target.
@@ -3899,8 +3910,8 @@ Every time a pea is fired, there is a 30% chance to launch an ice pick with dama
 [SNOWPEA_NEW_SKILL_LEVEL4_DES]
 Snow Pea have 50% of be boosted when planted!
 
-[SNOWPEA_NEW_SKILL1_LEVEL5_DES]  
-Occasionally launches a reinforced ice spike that freezes zombies on impact. The explosion deals damage to zombies in a 1-tile radius and leaves an frozen ground for three seconds. Zombies on the frozen tile are slowed by the ice effect.  
+[SNOWPEA_NEW_SKILL1_LEVEL5_DES]
+Occasionally launches a reinforced ice spike that freezes zombies on impact. The explosion deals damage to zombies in a 1-tile radius and leaves an frozen ground for three seconds. Zombies on the frozen tile are slowed by the ice effect.
 
 [SNOWPEA_PLANTFOOD_DESCRIPTION]
 fires 60 peas and creates ice trail on the lane in front of him
@@ -4688,11 +4699,11 @@ Dark Twin Sunflower Super Costume
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_2]
 Each time sun is produced, there is a 15% chance to produce 100 coins.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]  
-Tile Radish Super Outfit  
+[NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]
+Tile Radish Super Outfit
 
-[NEW_AVATAR_DESCRIPTION_POWERPLANT_1]  
-Planting cooldown reduced by 20%  
+[NEW_AVATAR_DESCRIPTION_POWERPLANT_1]
+Planting cooldown reduced by 20%
 
 
 [BONKCHOY]
@@ -5172,7 +5183,7 @@ This plant does not have an plants food effect
 has a {Param_1}% chance to double the number of darts fired
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
-Heath Seeker Costume  
+Heath Seeker Costume
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER]
 Reduces planting cooldown by 20%
@@ -7406,9 +7417,9 @@ Growth Gift outfit
 Shining vines
 
 [SHINEVINE_DESCRIPTION]
-{KEYWORD}Range: {STAT}single tile  
-{KEYWORD}Features: {STAT}Supports sun plants to produce more sun.  
-{KEYWORD}Plant special: {STAT}Yellow plant, endless sunlight, vine plant  
+{KEYWORD}Range: {STAT}single tile
+{KEYWORD}Features: {STAT}Supports sun plants to produce more sun.
+{KEYWORD}Plant special: {STAT}Yellow plant, endless sunlight, vine plant
 {FLAVOR}"Peek-a-boo!" giggles Shine Vine, staring directly at you, the player. "Consider that fourth wall SHATTERED!
 
 [SHINEVINE_DESCRIPTION_HEADER]
@@ -8463,10 +8474,10 @@ Gramophone Datura releases a 5x5 wave that deals huge damage and stun zombies.
 5x5 wave now launches zombies in the air.
 
 [STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
-Gramophone Datura Costume  
+Gramophone Datura Costume
 
 [HEAVENDATURA_AVATAR_NAME]
-Gramophone Datura Costume  
+Gramophone Datura Costume
 
 [STORE_PRODUCT_AVATAR_HEAVENDATURA]
 5x5 wave now launches zombies in the air.
@@ -9039,8 +9050,8 @@ Bubble Coral costume
 Pocket Paph
 
 [PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}Range: {STAT}single line  
-{KEYWORD}Feature: {STAT}launch random items  
+{KEYWORD}Range: {STAT}single line
+{KEYWORD}Feature: {STAT}launch random items
 {KEYWORD}Plant feature: {STAT}Pink plant
 {FLAVOR}Nobody knows how many things can be stuffed into Pocket Paph's pocket. Laser Bean's bamboo-copter, Potato Mine's eye patch... everyone's looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
 
@@ -9069,7 +9080,7 @@ The probability of launching 2 random items consecutively increases to 20%, with
 Air support
 
 [PAPHIOPEDILUM_SKILL_LEVEL5_DES]
-Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5�5 area, with 5 bombs, each causing 3�3 area fire damage
+Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5?5 area, with 5 bombs, each causing 3?3 area fire damage
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL1_DES]
 launch various items (snacks, butter blocks, anvils, bombs, rubber hammers) using a tossing method
@@ -9084,7 +9095,7 @@ The probability of launching 2 random items consecutively increases to 20%, with
 High probability of releasing the plants food when planted
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]
-Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5�5 area, with 5 bombs, each causing 3�3 area fire damage
+Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5?5 area, with 5 bombs, each causing 3?3 area fire damage
 
 [PAPHIOPEDILUM_PLANTFOOD_DESCRIPTION]
 Throw a random item at each zombie on the field. If there are fewer than 5 zombies, at least 5 items will still be thrown.
@@ -9139,7 +9150,7 @@ The first plant minion created will directly be a Mortar Minion. The number of a
 Aerial Technology
 
 [EYWA_SKILL_LEVEL5_DES]
-?????????????,????????????????,????????????,???3�3?????,????????????????
+?????????????,????????????????,????????????,???3?3?????,????????????????
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
 ??????,?????????????,????????????????
@@ -9154,10 +9165,10 @@ The first plant minion created will directly be a Mortar Minion. The number of a
 There is a high chance to release an energy bean ultimate when planting.
 
 [EYWA_NEW_SKILL_LEVEL5_DES]
-The first plant minion created will directly be a Tank Minion. The Tank Minion jumps out of the tank, and during its disappearance in the air, there is a chance that a plane will appear to catch the minion, drop a nuclear bomb, and fly away. The nuclear bomb has a 3�3 explosion range, dealing damage and causing the degeneration effect to zombies within the range.
+The first plant minion created will directly be a Tank Minion. The Tank Minion jumps out of the tank, and during its disappearance in the air, there is a chance that a plane will appear to catch the minion, drop a nuclear bomb, and fly away. The nuclear bomb has a 3?3 explosion range, dealing damage and causing the degeneration effect to zombies within the range.
 
 [EYWA_PLANTFOOD_DESCRIPTION]
-Nyuwa Ophiuros its vines to whip 5 clumps of mud spots. These mud spots randomly drop in the front 2 columns, turning into Bomb Minions that rush toward the nearest zombie and explode, dealing 3�3 area damage.
+Nyuwa Ophiuros its vines to whip 5 clumps of mud spots. These mud spots randomly drop in the front 2 columns, turning into Bomb Minions that rush toward the nearest zombie and explode, dealing 3?3 area damage.
 
 [EYWA_AVATAR_PLANTFOOD_DESCRIPTION]
 An additional minion with a larger bomb will appear.
@@ -9232,13 +9243,13 @@ Basic instant-kill plant, cannot eat large zombies, but has no class restriction
 Cherry Bomb No. 42
 
 [PARALLEL_CHERRY_BOMB_TOOLTIP]
-Basic area-clearing plant, instantly kills all zombies within a 3�3 area (except for large zombies), dealing some damage to large zombies.
+Basic area-clearing plant, instantly kills all zombies within a 3?3 area (except for large zombies), dealing some damage to large zombies.
 
 [PARALLEL_CHERRY_BOMB_DESCRIPTION_HEADER]
 Single-use plants now have a role in high-level battles.
 
 [PARALLEL_CHERRY_BOMB_DESCRIPTION]
-Basic area-clearing plant, instantly kills all zombies within a 3�3 area (except for large zombies), dealing some damage to large zombies.
+Basic area-clearing plant, instantly kills all zombies within a 3?3 area (except for large zombies), dealing some damage to large zombies.
 
 [PARALLEL_ICEBURG]
 Iceburg No. 42
@@ -9453,7 +9464,7 @@ A basic single-use plant with no changes.
 [PARALLEL_POTATOMINE_DESCRIPTION_HEADER]
 A makeshift solution for when sunlight is scarce.
 
-[PARALLEL_POTATOMINE_DESCRIPTION]  
+[PARALLEL_POTATOMINE_DESCRIPTION]
 A basic single-use plant with no changes.
 
 
@@ -9766,7 +9777,7 @@ You can't plant on evil potions
 You can't plant on dumplings
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-You can't plant on tang�
+You can't plant on tang?
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
 You can't plant on piggy banks
@@ -11076,11 +11087,11 @@ Skiing Adventure
 Congratulations! you win the banner for be a Grandmaster !!!!
 Season 26
 
-[RANK_AVATAR_CONTENT_TITLE_61034]  
-Ephemeral Fireworks  
+[RANK_AVATAR_CONTENT_TITLE_61034]
+Ephemeral Fireworks
 
-[RANK_AVATAR_CONTENT_CONTENT_61034]  
-Reward for players who participated in the March 2025 Co-Op Event.  
+[RANK_AVATAR_CONTENT_CONTENT_61034]
+Reward for players who participated in the March 2025 Co-Op Event.
 
 [RANK_AVATAR_CONTENT_TITLE_61035]
 New year snake
@@ -13377,7 +13388,7 @@ Purchase could not be completed. Please try again.
 Recharge failed
 
 [PURCHASE_MAX_BODY]
-You can recharge up to %d � today.
+You can recharge up to %d ? today.
 
 [PURCHASE_ERROR_NOT_AUTHORIZED_BODY]
 Not authorized to purchase on this device
@@ -13541,106 +13552,94 @@ Customer Service Email: 2059044571@qq.com
 Customer Service QQ: 2059044571
 
 [SETTINGS_ABOUT_PROMPT]
-This game is translated by ^FF0000 evil^oldclr^hack28 ^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^4B0082 cybersteve ^oldclr for the GitHub
-Special thanks to ^008000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 normal ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HD]
-This game is translated by ^FF0000 evil^oldclr^hack28 ^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^4B0082 cybersteve ^oldclr for the GitHub
-Special thanks to ^008000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 HD ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HD_A]
-This game is translated by ^FF0000 evil^oldclr^hack28 ^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^4B0082 cybersteve ^oldclr for the GitHub
-Special thanks to ^008000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 HD A ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HUAWEI]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^FF0000 HUAWEI ^oldclr version 
-
-PLEASE USE 360 VERSION
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_IOS]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 IOS ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_TELECOM]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 TELECOM ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_TELECOM_HD]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 TELECOM HD ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_QQ]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^008000 QQ ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_JINLI]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^^FF0000 JINLI ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_JINLIHD]
-This game is translated by ^FF0000 evilhack28^oldclr  and is a free project
-Nobody paid me/ I don't get paid for did this 
-Thanks for using my mod and support me
-
-Special thanks to ^FF0000 cybersteve ^oldclr for the GitHub
-Special thanks to ^FF0000 eluth ^oldclrr for help me in the translation
-
-Your "about prompt" is the ^^FF0000 JINLIHD ^oldclr version
+Game Name: Plants vs. Zombies 2
+Game Genre: Casual Puzzle
+Company Name: Talkweb Information System Co., Ltd.
+Customer Service QQ Official Account: 4008932088
+Service Hours: 9:00 - 18:00
+Customer Service Email: csonline@139.com
+Version Number: {VersionName}
 
 [SETTINGS_FPS_TITLE]
 FPS settings
@@ -13971,13 +13970,13 @@ Survive after a big wave attack in future mode
 [STARCHALLENGE_DARK_FINALE]
 Survive after a big wave of zombie attacks in the Dark Ages
 
-[STARCHALLENGE_DARK_FINALE_NAME]  
-"Final" Day  
+[STARCHALLENGE_DARK_FINALE_NAME]
+"Final" Day
 
-[STARCHALLENGE_RENAI_FINALE]  
-Survive after a massive zombie attack in the Renaissance Age  
+[STARCHALLENGE_RENAI_FINALE]
+Survive after a massive zombie attack in the Renaissance Age
 
-[STARCHALLENGE_RENAI_FINALE_NAME]  
+[STARCHALLENGE_RENAI_FINALE_NAME]
 "Final" Day 
 
 [DARK_FINALE_NAME]
@@ -14112,7 +14111,7 @@ Smash all the jars in the field, and take out all the zombies.
 Golden tile
 
 [STARCHALLENGE_LOSTCITY_GOLDROAD]
-*"':;!?@#�_&-+()/1234567890
+*"':;!?@#?_&-+()/1234567890
 
 [STARCHALLENGE_LOSTCITY_BOSS_NAME]
 Ultimate Challenge
@@ -14385,13 +14384,13 @@ Complete the level without using Plant Food.
 No Plant Food
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
-Using Plant Food will lost stars. Proceed?  
+Using Plant Food will lost stars. Proceed?
 
 [MISTAKE_CLICK]
-I clicked by mistake.  
+I clicked by mistake.
 
 [NEVER_REMIND_AGAIN]
-Do not remind me again.  
+Do not remind me again.
 
 [STARCHALLENGE_PROTECT_PLANT]
 Protect the initially existing plants on the field from being eaten by zombies.
@@ -15678,7 +15677,7 @@ Purchase {NAME} ({NUMBER})
 Unlock the full version of the game?
 
 [UNLOCK_GAME_INFO]
-Do you want to spend �6 to unlock the full version?
+Do you want to spend ?6 to unlock the full version?
 
 [UNLOCK_BUTTON]
 Unlock
@@ -15722,12 +15721,12 @@ Event Rules:
 1. Players can buy initial plant outfits using Outfit Tickets in the Plant Outfits section.
 2. Outfit Tickets can be obtained from the Outfit Ticket Shop and events.
 3. First-time purchases in the shop will grant bonus tickets:
-   - �6 Pack: 60 tickets + 18 bonus
-   - �30 Pack: 330 tickets + 132 bonus
-   - �68 Pack: 780 tickets + 360 bonus
-   - �128 Pack: 1550 tickets + 700 bonus
-   - �328 Pack: 4100 tickets + 2050 bonus
-   - �648 Pack: 8450 tickets + 4650 bonus
+   - ?6 Pack: 60 tickets + 18 bonus
+   - ?30 Pack: 330 tickets + 132 bonus
+   - ?68 Pack: 780 tickets + 360 bonus
+   - ?128 Pack: 1550 tickets + 700 bonus
+   - ?328 Pack: 4100 tickets + 2050 bonus
+   - ?648 Pack: 8450 tickets + 4650 bonus
 4. Outfit Tickets can only be used for initial outfits, not for special or rare outfits.
 5. Rare and new plant outfits may be available for limited-time purchase.
 6. Required Outfit Tickets for outfits:
@@ -16469,109 +16468,109 @@ Release different ice spells as you grow to attack the zombies ahead.
 Release different fire spells as you grow to attack the zombies ahead.
 
 [BONUS_GOLD_1]
-Gold coins
+Coins
 
 [BONUS_GOLD_1_DESCRIPTION]
 Get 10000 gold coins
 
 [BONUS_GOLD_2]
-Gold coins
+Coins
 
 [BONUS_GOLD_2_DESCRIPTION]
 Get 20000 gold coins
 
 [BONUS_GOLD_3]
-Gold coins
+Coins
 
 [BONUS_GOLD_3_DESCRIPTION]
 Get 30000 gold coins
 
 [BONUS_GOLD_4]
-Gold coins
+Coins
 
 [BONUS_GOLD_4_DESCRIPTION]
 Get 20000 gold coins
 
 [BONUS_GOLD_5]
-Gold coins
+Coins
 
 [BONUS_GOLD_5_DESCRIPTION]
 Get 30000 gold coins
 
 [BONUS_GOLD_6]
-Gold coins
+Coins
 
 [BONUS_GOLD_6_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_7]
-Gold coins
+Coins
 
 [BONUS_GOLD_7_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_8]
-Gold coins
+Coins
 
 [BONUS_GOLD_8_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_9]
-Gold coins
+Coins
 
 [BONUS_GOLD_9_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_10]
-Gold coins
+Coins
 
 [BONUS_GOLD_10_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_11]
-Gold coins
+Coins
 
 [BONUS_GOLD_11_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_12]
-Gold coins
+Coins
 
 [BONUS_GOLD_12_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_13]
-Gold coins
+Coins
 
 [BONUS_GOLD_13_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_14]
-Gold coins
+Coins
 
 [BONUS_GOLD_14_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_15]
-Gold coins
+Coins
 
 [BONUS_GOLD_15_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_16]
-Gold coins
+Coins
 
 [BONUS_GOLD_16_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_17]
-Gold coins
+Coins
 
 [BONUS_GOLD_17_DESCRIPTION]
 Get 50000 gold coins
 
 [BONUS_GOLD_18]
-Gold coins
+Coins
 
 [BONUS_GOLD_18_DESCRIPTION]
 Get 50000 gold coins
@@ -17001,7 +17000,7 @@ Complemented
 Buy
 
 [GEM_BUY_RMB]
-�
+?
 
 [PLANT_BUY_FULL_PIECE]
 Get it now
@@ -17266,13 +17265,13 @@ Anniversary Supreme Award
 Clearance Sweepstakes
 
 [NEWER_PRESENT_DES]
-Now you only need to recharge ^00FF00 2 � ^oldclr to buy a small bag of diamonds and you can get the supreme Package! ( A total of ^00FF00 30 diamonds ^oldclr oh!) can be obtained
+Now you only need to recharge ^00FF00 2 ? ^oldclr to buy a small bag of diamonds and you can get the supreme Package! ( A total of ^00FF00 30 diamonds ^oldclr oh!) can be obtained
 
 [NEWER_PRESENT_ADVANCE_DES]
-Now you only need to recharge ^00FF00 10 � ^oldclr to purchase the gold coin Pack to get the supreme platinum Pack! ( A total of ^00FF00 155 diamonds ^oldclr can be obtained Oh!)
+Now you only need to recharge ^00FF00 10 ? ^oldclr to purchase the gold coin Pack to get the supreme platinum Pack! ( A total of ^00FF00 155 diamonds ^oldclr can be obtained Oh!)
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
-Buy now for only 0.1 �, opportunities are limited, don't come again!
+Buy now for only 0.1 ?, opportunities are limited, don't come again!
 
 [NEWER_PRESENT_QUIT]
 Discard Packs
@@ -18059,14 +18058,14 @@ Plant Pack
 Open now
 
 [PLANT_BAG_REWARD]
-You can get it by recharging more than 1,000 � in total.
+You can get it by recharging more than 1,000 ? in total.
 
 [PLANT_BAG_REWARD_TIPS]
-If you recharge more than 10 � in total, you will receive a plant Package
+If you recharge more than 10 ? in total, you will receive a plant Package
  (Randomly get a powerful plant)!
 
 [PLANT_BAG_REWARD_TIPS_QQ]
-If you recharge more than 10 � in total, you will receive a plant Package
+If you recharge more than 10 ? in total, you will receive a plant Package
  (Randomly get a powerful plant)!
 
 [PLANT_BAG_REWARD_COINS]
@@ -18079,10 +18078,10 @@ Get a value plant at random!
 Try the acceleration function! Defeat zombies in a quick battle!
 
 [CHNAGE_SPEED_TIPS]
-With a cumulative recharge of 20 � or more, you can use the level acceleration function unlimitedly!
+With a cumulative recharge of 20 ? or more, you can use the level acceleration function unlimitedly!
 
 [CHNAGE_SPEED_TIPS_QQ]
-With a cumulative recharge of 20 � or more, you can use the level acceleration function unlimitedly!
+With a cumulative recharge of 20 ? or more, you can use the level acceleration function unlimitedly!
 
 [BUTTON_RECHARGE_NOW]
 Recharge Now
@@ -18277,7 +18276,7 @@ Second place
 Third place
 
 [TELECOM_PURCHASE_TIPS]
-Is it spending % d � to buy % s?
+Is it spending % d ? to buy % s?
 
 [TELECOM_PURCHASE_SUCCESS]
 Purchase %s Success
@@ -18448,7 +18447,7 @@ In February, the new plant kiwi fruit will be launched. If you insist on signing
 [NOTICE_CONTENT_FIRST_LABORDAY]
 Dear players:
  
- � Plants vs. Zombies 2� welcomes the latest version of May Day to meet everyone!
+ ? Plants vs. Zombies 2? welcomes the latest version of May Day to meet everyone!
 Little Wowan also brought out the best baby to give back to everyone!
  
   new^ff0000^ Costume^oldclr^ limited time purchase
@@ -18598,7 +18597,7 @@ Could be a network failure, or endless mode is over
 Tip: The new version needs to read network data to enter the game for the first time, please open the network connection.
 
 [RECHARGE_REWARD_TITLE]
-Recharge {RECHARGE_COUNT} � reward
+Recharge {RECHARGE_COUNT} ? reward
 
 [RECHARGE_REWARD_PLANT_PIECES]
 Congratulations on getting Cherry Bomb Piece x30, upgrade immediately to feel his more powerful power!
@@ -18643,10 +18642,10 @@ Recharge Pack
 First Charge Pack
 
 [RECHARGE_TOTAL_NUM]
-Recharge {NUMBER} �
+Recharge {NUMBER} ?
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-Recharge **** �
+Recharge **** ?
 
 [RECHARGE_HIDE_BTN]
 Hide
@@ -18658,18 +18657,18 @@ Display
 Accumulated recharge with great gifts!
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
-Accumulate a total of 2 � in the game, get double the gold coin income in the game, and buy gold coin plants faster!
-With a total of 6 �, you can participate in 2 lucky draws every day! Lucky gifts for you to choose from!
-If you recharge more than 10 � in total, you will get a value-for-money random plant Pack!
-Fill up 20 � in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
-If you charge 30 � in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
+Accumulate a total of 2 ? in the game, get double the gold coin income in the game, and buy gold coin plants faster!
+With a total of 6 ?, you can participate in 2 lucky draws every day! Lucky gifts for you to choose from!
+If you recharge more than 10 ? in total, you will get a value-for-money random plant Pack!
+Fill up 20 ? in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
+If you charge 30 ? in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
 Killing zombies instantly from now on is not a dream!
 
 [RECHARGE_NOTICE_DESC]
-Accumulate a total of 2 � in the game, get double the gold coin income in the game, and buy gold coin plants faster!
-If you recharge more than 10 � in total, you will get a value-for-money random plant Pack!
-Fill up 20 � in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
-If you charge 30 � in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
+Accumulate a total of 2 ? in the game, get double the gold coin income in the game, and buy gold coin plants faster!
+If you recharge more than 10 ? in total, you will get a value-for-money random plant Pack!
+Fill up 20 ? in total, permanently turn on 2 times the speed in the game, and fight zombies more powerfully!
+If you charge 30 ? in total, you will immediately receive the in-game artifact - Cherry Bomb! Wide range of high damage!
 Killing zombies instantly from now on is not a dream!
 
 [TOTAL_LOGIN_DAYS]
@@ -19405,10 +19404,10 @@ Plant Adventure
 The network is not strong, please try again after reconnecting
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED]
-Turn on after clearing {DUNGEON}
+Unlock after beat {DUNGEON}
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED_HARD]
-Turn on after clearing {DUNGEON} ^FF0000 Hard mode^oldclr
+Unlock after beat {DUNGEON} ^FF0000 Hard mode^oldclr
 
 [PLANT_ADVENTURE_UNCONNECTED]
 Not yet connected
@@ -19474,7 +19473,7 @@ Get
 [PLANT_ADVENTURE_DUNGEON_SUSPEND]
 Stop
 
-[PLANT_ADVENTURE_DUNGEON_SKIP]  
+[PLANT_ADVENTURE_DUNGEON_SKIP]
 Complete Now
 
 [PLANT_ADVENTURE_OPENED_HINT]
@@ -19482,10 +19481,9 @@ Congratulations on successfully passing the ^FF0000 plant piece level ^oldclr ,
 Now you can send a plant team^oldclr to conduct a^FF0000 expedition here^oldclr.
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_TEXT]
-Crystal of the Week: 
+Week limit: 
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_LIMIT_TEXT]
-Limit Reached
 
 [PLANT_ADVENTURE_BONUS_AD_BEFORE_WATCH]
 Watch the ads and double your reward
@@ -19499,8 +19497,7 @@ Left time:
 Adventure Completed
 
 [PLANT_ADVENTURE_BONUS_HINT]
-The plants have successfully returned from the ^00FF00 {DUNGEON} ^oldclr expedition. 
-After a hard battle, they found some good items.
+Plants successfully returned from ^00FF00 {DUNGEON} ^oldclr.
 
 [PLANT_ADVENTURE_BONUS_BUTTON_SURPRISE]
 Surprise
@@ -19775,7 +19772,7 @@ Network failure
 It may be that the activity has ended or the network fails, please try to close the activity center, adjust the network link and try again.
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Every day you can get {HAMMERS} hammer by accumulating recharge {RMB} �.
+Every day you can get {HAMMERS} hammer by accumulating recharge {RMB} ?.
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 I think again
@@ -21264,7 +21261,7 @@ Activity Date: ^ff0000^July 1st to July 7th^oldclr^
 Today's recharge reward
 
 [SPRING_GIFT_ACTIVITY_REWARD_DES]
-Your single recharge today reached 30 �, and you received the following gift
+Your single recharge today reached 30 ?, and you received the following gift
 
 [SPRING_GIFT_REWARD_FAIL_TITLE]
 Failed to receive gift
@@ -21284,7 +21281,7 @@ Can be obtained:
 
 [DAILY_SINGLE_RECHARGE_REWARD]
 Daily Single Recharge
-    � to receive
+    ? to receive
 the reward.
 
 
@@ -22818,7 +22815,7 @@ Super Growth
 [SUNSHROOM_SKILL1_LEVEL2_DES]
 Multiplies the effect of Rapid Growth by 5.
 
-[SUNSHROOM_SKILL1_LEVEL5]  
+[SUNSHROOM_SKILL1_LEVEL5]
 Sun Spore
 
 [SUNSHROOM_SKILL1_LEVEL5_DES]
@@ -22870,7 +22867,7 @@ Dear players,
 Penny and the developers have teamed up to fix some critical save issues, and the account transfer function is now reopened! Penny also discovered during self-check that the game's lag has been greatly reduced, and crashes have been rare lately.
 
 Tenfold Earnings Super Benefits
-Now recharge 1 � to get 105 diamonds, isn't that a great deal?
+Now recharge 1 ? to get 105 diamonds, isn't that a great deal?
 (The gifted diamonds are claimable over 7 days, no need to log in continuously)
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
@@ -23578,7 +23575,7 @@ There are no endless rewards that can be claimed, it may be that the rewards are
 
 [DANGERROOM_BONUS_UNCONNECTED_INLEVEL]
 Diamond claim in reward failed due to network failure!
- (Gold coins and pieces can be collected normally)
+ (Coins and pieces can be collected normally)
 After the network improves
 Diamond rewards can be replenished at the leaderboard or when the level jumps.
 
@@ -23589,7 +23586,7 @@ Endless Reward Collection Failed Because No Network Connection!
 Diamonds
 
 [REWARD_TYPE_COIN]
-Gold coins
+Coins
 
 [REWARD_TYPE_STONE]
 Endless Medal
@@ -23684,44 +23681,41 @@ Subordinate Preview
 Pendant reinforcement
 
 [CONFIRM_STEADY]
-Whether the following materials were spent on strengthening
-{MAT1}:{NUM1},{MAT2}:{NUM2},{MAT3}:{NUM3}
+Do you want to spend the following materials to enhance?
+{MAT1}: {NUM1}, {MAT2}: {NUM2}, {MAT3}: {NUM3}
 
 [ACCESSORY_STEADY_SUCCESS_INFO]
-Congratulations on getting ^FF0000 {LEVEL} order{NAME} ^oldclr 
+Congratulations! You have obtained a ^FF0000 Level {LEVEL} {NAME} ^oldclr
 
 [ACCESSORY_STEADY_SUCCESS_TITLE]
 Reinforcement success
 
 [MAT_SPACE_TIME_CRYSTAL]
-Crystal of space-time
+Space-Time Crystal
 
 [MAT_SPACE_TIME_CRYSTAL2]
-Crystal of space-time
+Space-Time Crystal
 
 [MAT_SPACE_TIME_CRYSTAL3]
-Crystal of space-time
+Space-Time Crystal
 
 [MAT_SPACE_TIME_DUST]
-Dust in space-time
+Space-Time Dust
 
 [MAT_SPACE_TIME_DUST2]
-Dust in space-time
+Space-Time Dust
 
 [MAT_SPACE_TIME_DUST3]
-Dust in space-time
+Space-Time Dust
 
 [MAT_SPACE_TIME_DUST4]
-Dust in space-time
+Space-Time Dust
 
 [CONFIRM_RESET_TITLE]
-Pendant Reset
+Accessory Reset
 
 [CONFIRM_RESET]
-Do you want to spend 10 diamonds to reset the pendant?
-
-
-
+Do you want to spend 10 diamonds to reset the Pendant ?
 
 [BONUS_CARD_PIECE_SUNFLOWER]
 Sunflower pieces
@@ -24657,7 +24651,7 @@ Bamboo Memberwai
 
 [CRACKER_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} A man outside Zhu � lives in a big house in the west of Fireworks Town. Although he looks evil, he is actually a kind old man who likes children. Every New Year, he sends firecrackers and fireworks to the little ones in town, hoping they will have a happy New Year. And his biggest wish is to hope that his grandson Bamboo Shoots, who is studying in the distance, can one day hit the door of this house by stepping on the piece of firecrackers......
+{FLAVOR} A man outside Zhu ? lives in a big house in the west of Fireworks Town. Although he looks evil, he is actually a kind old man who likes children. Every New Year, he sends firecrackers and fireworks to the little ones in town, hoping they will have a happy New Year. And his biggest wish is to hope that his grandson Bamboo Shoots, who is studying in the distance, can one day hit the door of this house by stepping on the piece of firecrackers......
 
 [CRACKER_DESCRIPTION_HEADER]
 Bamboo members can cause explosive damage to approaching zombies.
@@ -24887,7 +24881,7 @@ Event date: ^ff0000^ From now until March 31 ^oldclr^
 Today's recharge rewards
 
 [SPRINGACTIVITYREWARDDES]
-Your single recharge today reaches 30 � and you get the following gifts
+Your single recharge today reaches 30 ? and you get the following gifts
 
 [SPRINGACTIVITYREWARDERROR]
 Sold out today, new tomorrow
@@ -24920,7 +24914,7 @@ Not yet connected
 Events End
 
 [SALES_TIME_DAYS]
-{DAYS} days
+{DAYS}D
 
 [SALES_BUY_SUCCESS_TITLE]
 Purchase Success
@@ -25072,7 +25066,7 @@ Not yet connected
 Events closed
 
 [REMAIN_DAYS]
-{DAYS} days
+{DAYS}D
 
 [GEILIVABLE_LOTTERY_SPECIAL_BONUS_DES]
 Third Anniversary Limited Pillow
@@ -26155,7 +26149,7 @@ The 60x diamond return activity is now over, here are the {GEMS} diamonds you ha
 Confirm to receive
 
 [GEMRETURN_DES]
-Recharge 0.1 � from now on to get 60 diamonds, which will be returned in 7 days (requires Internet access)
+Recharge 0.1 ? from now on to get 60 diamonds, which will be returned in 7 days (requires Internet access)
 
 [GEMRETURN_ACTIVE]
 ...      Activate immediately
@@ -26170,37 +26164,37 @@ Recharge 0.1 � from now on to get 60 diamonds, which will be returned in 7 day
 60 times diamond return
 
 [PRODUCT_GEM_REWARD]
-1 � paid diamond return activity
+1 ? paid diamond return activity
 
 [PRODUCT_GEM_REWARD_SHORTDESC]
 Diamond Week Card
 
 [PRODUCT_IOS_CUKE_PACKAGE]
-1 � cucumber Pack
+1 ? cucumber Pack
 
 [PRODUCT_IOS_CUKE_PACKAGE_SHORTDESC]
-1 � cucumber Pack
+1 ? cucumber Pack
 
 [PRODUCT_MONTHLY_CARD]
-Play monthly card for 30 �
+Play monthly card for 30 ?
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-Play monthly card for 30 �
+Play monthly card for 30 ?
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
-6 � cool master card
+6 ? cool master card
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP_SHORTDESC]
-6 � cool master card
+6 ? cool master card
 
 [PRODUCT_MONTHLY_CARD_SUPER]
-50 � Hacker card
+50 ? Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM]
 VIP monthly card
 
 [PRODUCT_MONTHLY_CARD_SUPER_SHORTDESC]
-50 � Hacker card
+50 ? Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
 VIP monthly card
@@ -26209,7 +26203,7 @@ VIP monthly card
 ...      Activate immediately
 
 [PRODUCT_DIAMONDS_REWARD_DES]
-Recharge 1 � from now on to get 105 back diamonds, which will be returned in 7 days (need to connect to the Internet)
+Recharge 1 ? from now on to get 105 back diamonds, which will be returned in 7 days (need to connect to the Internet)
 
 [PRODUCT_DIAMONDS_REWARD]
 {GEMS} diamonds are available
@@ -26221,7 +26215,7 @@ Not open
 Events not open
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED]
-The 1 � paid diamond return event is not yet open, please try again
+The 1 ? paid diamond return event is not yet open, please try again
 
 [PRODUCT_GEM_REWARD_GET_FAILED_TITLE]
 Failed to claim
@@ -27650,7 +27644,7 @@ Don't worry, the first 3 planting trial plants don't need to consume sun, try yo
 {EXCITED:crazydave}{SAY} Try the newly arrived acorns, specializing in restraining walrus zombies, breaking their teeth, and preventing ski zombies from sprinting.
 
 [PLANTTRIAL_BUY_BUTTON_NAME_1]
-{NUMBER} �
+{NUMBER} ?
 
 [PLANTTRIAL_BUY_BUTTON_NAME_2]
 {NUMBER} diamond
@@ -27707,7 +27701,7 @@ The ultimate will give priority to attacking the rear row, and the bullets will 
 It can cause additional damage to shells, and the full-screen acid rain of plants food will kill you instantly
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-Cost {COST_NUM} � to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
+Cost {COST_NUM} ? to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
 Spend {COST_NUM} diamond to buy {COIN_NUM} gold coins, extra {PLANT_LEVEL} level {PLANT_NAME}
@@ -27854,38 +27848,38 @@ Try luck
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
 {TIRED:winnie}Perhaps he really is researching something terrible, we need to be careful.
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_1]  
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, madman, do you think your plants can halt the wheels of fate?  
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, madman, do you think your plants can halt the wheels of fate?
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_2]  
-{SAY:zombossicon}I shall transform your garden into a domain of zombies.  
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_2]
+{SAY:zombossicon}I shall transform your garden into a domain of zombies.
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_3]  
-{SAY:zombossicon}Before that, let us begin a grand performance!  
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_3]
+{SAY:zombossicon}Before that, let us begin a grand performance!
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_4]  
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn't understand a word.  
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_4]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn't understand a word.
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_5]  
-{EXCITED:winnie}He said he's going to take you down.  
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_5]
+{EXCITED:winnie}He said he's going to take you down.
 
-[NARRATIVE_RENAI_INTRO_ZOMBOSS_6]  
-{EXCITED:crazydave}Maybe he has tacos with him.  
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_6]
+{EXCITED:crazydave}Maybe he has tacos with him.
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]  
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Alas, fate! Fate!  
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Alas, fate! Fate!
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_2]  
-{SAY:zombossicon}All my efforts were but a fleeting meteor across the sky.  
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_2]
+{SAY:zombossicon}All my efforts were but a fleeting meteor across the sky.
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_3]  
-{SAY:zombossicon}You revel in temporary joys, but know this: I shall return like a bolt of lightning!  
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_3]
+{SAY:zombossicon}You revel in temporary joys, but know this: I shall return like a bolt of lightning!
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]  
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn't understand a thing.  
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn't understand a thing.
 
-[NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]  
-{TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic failure.  
+[NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
+{TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic failure.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Welcome, everyone, Zomboss is here to greet all of you plant friends.
@@ -28434,9 +28428,9 @@ share is a gift
 
 [UPDATE_NOTICE_CONTEXT]
 Dear Player:
- � Plants vs. Zombies 2� latest version can be updated.
+ ? Plants vs. Zombies 2? latest version can be updated.
  
-The new � Plants vs. Zombies 2�PvP function has been turned on. Come and play PvP now and get 10 diamonds for each win, up to 50 diamonds a day!
+The new ? Plants vs. Zombies 2?PvP function has been turned on. Come and play PvP now and get 10 diamonds for each win, up to 50 diamonds a day!
 There are also exciting PvP daily achievement activities for you to challenge, and rare plant pieces are waiting for you!
  
  <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
@@ -28940,7 +28934,7 @@ Sunflower singers can produce sun and inspire the plants around them by singing,
 
 [BIRTHSUNFLOWER_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} yellow plant, endless sun
-{FLAVOR} In order to prepare for the second anniversary celebration, the organizers specially invited Sunflower, the most famous singer in the plant industry, as a special guest. In addition to a large amount of sun's appearance fees, the organizers also spent days convincing the leader, retrieving the missing agent, Little Pea, and promising to invite the famous hairstylist Shamrock to make a new hairstyle for Sunflower to succeed. At that time, you will be able to listen to her singing the famous song �Zombies On Your Lawn� at the celebration venue, if you can buy a ticket or kill the tall bodyguard chasing the second grass......
+{FLAVOR} In order to prepare for the second anniversary celebration, the organizers specially invited Sunflower, the most famous singer in the plant industry, as a special guest. In addition to a large amount of sun's appearance fees, the organizers also spent days convincing the leader, retrieving the missing agent, Little Pea, and promising to invite the famous hairstylist Shamrock to make a new hairstyle for Sunflower to succeed. At that time, you will be able to listen to her singing the famous song ?Zombies On Your Lawn? at the celebration venue, if you can buy a ticket or kill the tall bodyguard chasing the second grass......
 
 [BIRTHSUNFLOWER_TOOLTIP]
 Sunflower singers can produce sun and inspire the surrounding plants by singing.
@@ -30264,7 +30258,6 @@ Made by evilhack28
 [COMPLAIN_CONTENT_TIME]
 always here
 
-
 [COMPLAIN_CONTENT_A]
 Customer service hours: 9:00-18:00
 
@@ -30274,21 +30267,6 @@ Note: Click on "Find People", display the "Tuowei Game" public account, and clic
 
 [COMPLAIN_CONTENT_HUAWEI]
 Customer Service Hours: 9:00-18:00
-
-[AGE_TIP]
-Age Advisory for Plants vs. Zombies 2 Game
-
-[AGE_TIP_CONTENT]
-1) This game is a strategy tower defense game suitable for users aged 12 and above. It is recommended that minors use the game products under parental supervision.
-
-2) The characters and plot of this game are fictional and will not be confused with real life. Integrated with elements of real-time strategy, tower defense, and card collection, players need to control cards to defend against attacks and achieve mission goals. The game does not contain voice or chat functions.
-
-3) According to national requirements, the game has a real-name authentication system. Users who have not passed the real-name authentication cannot enter the game; users certified as minors cannot enter the game at any time other than 20:00 to 21:00 daily on Fridays, Saturdays, Sundays, and legal holidays. Some gameplay and items in the game require payment. Users certified as minors will be subject to the following management:
- - Users under 8 years old cannot make payments.
- - Users aged 8 or above but under 16 cannot recharge more than 50 � in a single transaction or exceed a cumulative monthly recharge amount of 200 �.
- - Users aged 16 or above cannot recharge more than 100 � in a single transaction or exceed a cumulative monthly recharge amount of 400 �.
-
-4) The game requires players to allocate resources reasonably, upgrade plant levels, arrange battlefield formations to enhance team strength for victory in battles, and adjust combat strategies based on battlefield events, helping to improve players' logical thinking and adaptability.
 
 [REDEEM_TITLE]
 Order Compensation
@@ -31135,7 +31113,7 @@ The training cohort has exceeded the population cap and cannot train in its enti
 Consume {NUMBER} diamonds to finish immediately?
 
 [PVP_TRAINING_FINISH_TIP2]
-Cost {NUMBER} � to complete immediately?
+Cost {NUMBER} ? to complete immediately?
 
 [PVP_SEEDPACKET_LOCKED]
 Base {NUMBER} level unlock
@@ -31803,7 +31781,7 @@ You only have one direct completion
 ?{MONEY} Get it now
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_1]
-Spend {COST_NUM} � to buy {PLANT_LEVEL} level {PLANT_NAME}, and get extra {COIN_NUM} gold coins
+Spend {COST_NUM} ? to buy {PLANT_LEVEL} level {PLANT_NAME}, and get extra {COIN_NUM} gold coins
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
 Cost {COST_NUM} diamond purchase {PLANT_LEVEL} level {PLANT_NAME}, extra {COIN_NUM} gold coins
@@ -31921,20 +31899,20 @@ Small red envelope
 [MAT_REDPACKET_B]
 Big red envelope
 
-[MAT_NUTRIENT_0]  
-5th level White potion  
+[MAT_NUTRIENT_0]
+5th level White potion
 
-[MAT_NUTRIENT_1]  
-5th level Green potion  
+[MAT_NUTRIENT_1]
+5th level Green potion
 
-[MAT_NUTRIENT_2]  
-5th level Blue potion  
+[MAT_NUTRIENT_2]
+5th level Blue potion
 
-[MAT_NUTRIENT_3]  
-5th level Purple potion  
+[MAT_NUTRIENT_3]
+5th level Purple potion
 
-[MAT_NUTRIENT_4]  
-5th level Orange potion  
+[MAT_NUTRIENT_4]
+5th level Orange potion
 
 [NORMAL_LOGIN_CHEST]
 Normal chest
@@ -32055,10 +32033,10 @@ Time: ^FFFF00 {TIME}
 Weekly gacha
 
 [LIMITED_GACHA_ONCE]
-Draw Once
+x1
 
 [LIMITED_GACHA_TENTH]
-Draw 10 Times
+x10
 
 [LIMITED_GACHA_INFO]
 ^FF0000^Only^oldclr^ the listed plants and their fragments can be drawn^349901^(First single draw and first 10-draw guarantee a plant)^oldclr^.
@@ -32912,7 +32890,7 @@ Jurassic Marsh Trophy
 Ancient Egypt Trophy
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES]
-You have defeated Dr. Zomboss’ creation, the Zombot Multi-stage Masher.
+You have defeated Dr. Zomboss' creation, the Zombot Multi-stage Masher.
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES_TITLE]
 Neon Mixtape Tour Trophy
@@ -33154,9 +33132,9 @@ Details can be viewed in the illustrated book.
 New Rewards!
 
 [CONVERSION_SPLASH_DESCRIPTION]
-�Faster travel to new time and space.
-�New turbo speed characteristics.
-�Giant zombie battles in every space-time.
+?Faster travel to new time and space.
+?New turbo speed characteristics.
+?Giant zombie battles in every space-time.
 
 [CONVERSION_SPLASH_TITLE]
 Feature: New map!
@@ -34192,16 +34170,16 @@ Log out {FB_NAME}
 Must board out!!!
 
 [FACEBOOK_GIFT_DIALOG_HEADER]
-� Plants vs. Zombies 2� Gift
+? Plants vs. Zombies 2? Gift
 
 [FACEBOOK_GIFT_DIALOG_TEXT]
-Give gifts to friends in � Plants vs. Zombies 2�!
+Give gifts to friends in ? Plants vs. Zombies 2?!
 
 [FACEBOOK_INVITE_DIALOG_HEADER]
-� Plants vs. Zombies 2� invitation
+? Plants vs. Zombies 2? invitation
 
 [FACEBOOK_INVITE_DIALOG_TEXT]
-Your friends want you to see � Plants vs. Zombies 2�. Enter the game right away!
+Your friends want you to see ? Plants vs. Zombies 2?. Enter the game right away!
 
 [FAILED_PROTECT_THE_PUFFSHROOM]
 Small spray mushroom
@@ -35134,32 +35112,32 @@ It's time for a 24-hour zombie party! Your next can party is ready. Come play!
 The last can party is coming to an end! After it's over, go and beat SEASOR PIiasATA.
 
 [LOCAL_NOTE_LOD_GOLIVE_07]
-There's only one can party left to challenge {LARGE_PINATA_INTERVAL} winning streak SE�OR PI?ATA! Coming to an end.
+There's only one can party left to challenge {LARGE_PINATA_INTERVAL} winning streak SE?OR PI?ATA! Coming to an end.
 
 [LOCAL_NOTE_LOD_GOLIVE_08]
-Hello, Pi�ata party lover! Hurry up and take on Se�or Pi�ata. Coming to an end.
+Hello, Pi?ata party lover! Hurry up and take on Se?or Pi?ata. Coming to an end.
 
 [LOCAL_NOTE_LOD_PARTY_ANIMAL]
-Pi�ata party lovers! Go now and take on Se�or Pi�ata.
+Pi?ata party lovers! Go now and take on Se?or Pi?ata.
 
 [LOCAL_NOTE_LOD_PARTY_TIME]
-Pi�ata party time is up. Win streak {LARGE_PINATA_INTERVAL} field to challenge Se�or Pi�ata!
+Pi?ata party time is up. Win streak {LARGE_PINATA_INTERVAL} field to challenge Se?or Pi?ata!
 
 [LOCAL_NOTE_LOD_PLAY_TODAY]
-Come to today's Pi�ata party and win a glorious tomorrow!
+Come to today's Pi?ata party and win a glorious tomorrow!
 
 [LOCAL_NOTE_LOD_TODAY]
-Today's Pi�ata party is starting! Go teach the zombies a lesson.
+Today's Pi?ata party is starting! Go teach the zombies a lesson.
 
 [LOCAL_NOTE_LOD_WIN_5]
-Win {LARGE_PINATA_INTERVAL} Pi�ata party in a row to win the big prize!
+Win {LARGE_PINATA_INTERVAL} Pi?ata party in a row to win the big prize!
  
 
 [LOCAL_NOTE_LOD_WIN_PRIZES]
 Fight zombies from all over the world for 24 hours and win big prizes!
 
 [LOCAL_NOTE_LOD_WIN_TODAY]
-In today's Pi�ata party, win consecutive {LARGE_PINATA_INTERVAL} games!
+In today's Pi?ata party, win consecutive {LARGE_PINATA_INTERVAL} games!
 
 [LOCAL_NOTE_NEXT_DANGER_ROOM_01]
 In {DANGER_ROOM_NAME} you achieved the personal best {LEVEL_NUMBER}. Do you think you can challenge it again?
@@ -35364,7 +35342,7 @@ Receive 2 times gold coin reward, source is
 Summer Nights - now get more power-ups every time you win!
 
 [LOD_OPEN_REWARDS_HEADER]
-Hit hard and open 3 Pi�ata parties
+Hit hard and open 3 Pi?ata parties
 
 [LOD_OPEN_REWARDS_HEADER_HOLIDAY]
 Click and open 3 gifts
@@ -35418,10 +35396,10 @@ I have read and accepted:
 minutes
 
 [MKTG_EIGHTIES_1]
-Hello fans of � Plants vs. Zombies 2�! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
+Hello fans of ? Plants vs. Zombies 2?! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
 
 [MKTG_EIGHTIES_2]
-Hello fans of � Plants vs. Zombies 2�! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
+Hello fans of ? Plants vs. Zombies 2?! The Rock and Roll Era (Side A) is here. We've made small tweaks to the game to make sure it makes you happy. Thank you for your enthusiastic participation! As usual, please share your thoughts on the game and rate us after each update.
 
 [MODE_NAME_BEGHOULED]
 Gemmaze
@@ -36999,7 +36977,7 @@ It's hard to grind.
 {SAY:IMPFINITY} More exciting, so stay tuned......
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_12]
-{SAY:IMPFINITY}. . . . . Don't miss � Plants vs. Zombies: Hero �!
+{SAY:IMPFINITY}. . . . . Don't miss ? Plants vs. Zombies: Hero ?!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_2]
 {NPC_EXIT:GREENSHADOW}{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}No! Just a bunch of trash! So you, the Wall-nut Knight?
@@ -39017,7 +38995,7 @@ Row & Column
 Plants and upgrades purchased in the mall are unlocked in all files
 
 [STORE_COINS_CURRENT_PROFILE]
-Gold coins purchased in the mall will only be valid for the current file.
+Coins purchased in the mall will only be valid for the current file.
 
 [STORE_COSTUMES_CURRENT_PROFILE]
 Plant dressing will only work for the current dossier
@@ -39044,7 +39022,7 @@ Over {NUMBER}%!
 Promotions! Over {NUMBER}%!
 
 [STORE_SALE_REMAINING_DAYS]
-{DAYS} days
+{DAYS}D
 
 [STORE_SALE_REMAINING_TIME]
 Coming to an end {DURATION}
@@ -40680,13 +40658,13 @@ Botanical
 Master of Botany
 
 [PENNYCLASS_THIRD]
-Plant Doctor  
+Plant Doctor
 
 [PENNYCLASS_FOURTH]
-Plant Master  
+Plant Master
 
 [USERINFO_1]
-Please fill in the information so that we can notify you promptly in case of winning. (^FF0000^*^oldclr^ marks required fields)  
+Please fill in the information so that we can notify you promptly in case of winning. (^FF0000^*^oldclr^ marks required fields)
 
 [USERINFO_2]
 We respect and protect your information, using it only to improve services.
@@ -41174,7 +41152,7 @@ Please confirm
 Is it cost {COST}{CURRENCY} to do {TYPE}?
 
 [TRANS_GENOSIS_SIMPLE_CURRENCY]
-Gold coins
+Coins
 
 [TRANS_GENOSIS_SENIOR_CURRENCY]
 Diamonds
@@ -41192,55 +41170,55 @@ Quick Fusion will automatically combine overflow fragments; manual ratio adjustm
 [NOT_REMIND_TODAY]
 Do not remind me again today
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]  
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What's this? A vortex I've never seen before?  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What's this? A vortex I've never seen before?
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows this is a new vortex black hole caused by chaotic temporal fluctuations in the spacetime channel.  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows this is a new vortex black hole caused by chaotic temporal fluctuations in the spacetime channel.
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]  
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} A black hole? Plants always need to dig a hole in the soil to take root and sprout.  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} A black hole? Plants always need to dig a hole in the soil to take root and sprout.
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} You're not wrong, Dave, but according to the data, this isn't connecting to a giant plant-it's leading to a new universe.  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} You're not wrong, Dave, but according to the data, this isn't connecting to a giant plant-it's leading to a new universe.
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We're being sucked in!  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We're being sucked in!
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]  
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} New-universe-flavored tacos! Here I come!  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} New-universe-flavored tacos! Here I come!
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]  
-{NPC_ENTER:no42zombossicon} Let's see what kind of chaos this disturbance has brought me!  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]
+{NPC_ENTER:no42zombossicon} Let's see what kind of chaos this disturbance has brought me!
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]  
-{NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]
+{NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum-I won't let it slide!  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum-I won't let it slide!
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]  
-{NPC_ENTER:no42zombossicon} It seems this disruption hasn't given you any decent help. You should take better care of your face!  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]
+{NPC_ENTER:no42zombossicon} It seems this disruption hasn't given you any decent help. You should take better care of your face!
 
-[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It's because you stole the wig! You've destabilized the parallel worlds! I will catch you!  
+[NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It's because you stole the wig! You've destabilized the parallel worlds! I will catch you!
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows... Universe No. 42 has a 42% similarity with our universe.  
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows... Universe No. 42 has a 42% similarity with our universe.
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_2]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here may look the same but have surprising differences.  
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_2]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here may look the same but have surprising differences.
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]  
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who's this talking car?  
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who's this talking car?
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Scanning... User identified: Tough Guy Dave, registration complete.  
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Scanning... User identified: Tough Guy Dave, registration complete.
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_5]  
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Data indicates that Tough Guy Dave from Universe No. 42 has a 42% thought synchronization with Crazy Dave.  
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_5]
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data indicates that Tough Guy Dave from Universe No. 42 has a 42% thought synchronization with Crazy Dave.
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]  
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
 {NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} I don't understand half of what you're saying, but whatever, help me deal with Handsome Zomboss! 
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_1]
@@ -41918,10 +41896,10 @@ Pack refresh:
 Original PRICE
 
 [LOST_NETWORK_ACTIVE_OLD_COST_3]
-�
+?
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
-{COST} �
+{COST} ?
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL1]
 level 1 {PLANT}
@@ -42180,13 +42158,13 @@ Double Dan Defense Challenge Victory
 A large number of prizes can be obtained by participating in the Double Dan Defense Campaign every day
 
 [YUANBAODEFENCE_WIN_HEADER_TITLE]
-Victory in the Battle of �bao
+Victory in the Battle of ?bao
 
 [YUANBAO_DZ_HEADER]
 Click on the red envelope to see what gifts there are in it ~
 
 [YUANBAODEFENCE_DZ_FOOT]
-If you participate in the �bao Battle event the first 3 times a day, you can draw special rewards!
+If you participate in the ?bao Battle event the first 3 times a day, you can draw special rewards!
 
 [SUMMEREVENTGAMEMODE_DAYS_TITLE]
 {DAY}D
@@ -42450,7 +42428,7 @@ Get
 Diamonds
 
 [RECALL_OFFER_COIN]
-Gold coins
+Coins
 
 [RECALL_OFFER_TITLE]
 Return of Old Players Event
@@ -42462,10 +42440,10 @@ Return Pack Network Error
 Current piece: {NAME}
 
 [RECALL_OFFER_BANK_BUY]
-18 �
+18 ?
 
 [RECALL_OFFER_BEAR_BUNDLE_BUY]
-128 �
+128 ?
 
 [RECALL_OFFER_BEAR_BUY]
 Need to purchase any of the above
@@ -42840,13 +42818,13 @@ Click on the mistletoe ice fairy and then click on a lattice to fire the ice she
 Recharge big rebate Costume the lottery and get it at will
 
 [STORE_PRODUCT_CHARGE_ACCUMULATE]
-Cumulative Recharge {NUM} �:
+Cumulative Recharge {NUM} ?:
 
 [STORE_PRODUCT_CHARGECANAWARD]
-Recharge {NUM} � to receive
+Recharge {NUM} ? to receive
 
 [STORE_PRODUCT_ACTIVITY_DES]
-Activity content: During the activity, players who recharge to the corresponding amount can receive corresponding rewards. If the recharge reaches {NUM} �, they can also receive ^ff0000^ costume rewards! ^oldclr^
+Activity content: During the activity, players who recharge to the corresponding amount can receive corresponding rewards. If the recharge reaches {NUM} ?, they can also receive ^ff0000^ costume rewards! ^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
 Only once to claim
@@ -43046,7 +43024,7 @@ Poaceae
 Saccharum
 
 [SUGARCANE_PEDIA]
-EVILHACK28(Phyllostachys edulis (Carri�re) J. Houzeau)
+EVILHACK28(Phyllostachys edulis (Carri?re) J. Houzeau)
 NO NO NO YOU GONNA WAIT FOR SEE THIS TRANSLATE 
 
 [SUGARCANE_PEDIA_EXTRA]
@@ -43570,7 +43548,7 @@ Speed growth
 Increase the effect of Skill 2 by 100%
 
 [TUPISTRASTALKER_SKILL_LEVEL5]
-Rotate 720�
+Rotate 720?
 
 [TUPISTRASTALKER_SKILL_LEVEL5_DES]
 2 rounds of darts will be shot when attacking
@@ -43580,7 +43558,7 @@ Chef Pyo Lan
 
 [CYPRIPEDIUM_DESCRIPTION]
 {KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} Chef Piaolan was once the premier top chef, and the soup he made was extremely delicious. Until one day he came into contact with a new recipe �Moo City Cooking Essence�, and enshrined it in the holy scriptures, and his cooking began to produce surprising results.
+{FLAVOR} Chef Piaolan was once the premier top chef, and the soup he made was extremely delicious. Until one day he came into contact with a new recipe ?Moo City Cooking Essence?, and enshrined it in the holy scriptures, and his cooking began to produce surprising results.
 
 [CYPRIPEDIUM_DESCRIPTION_HEADER]
 Chef ladle orchid's soup will make the zombies take a detour.
@@ -43644,7 +43622,7 @@ Each wave of bullets has a 50% chance of turning into a blue fire bullet and a 5
 Pea mortar costume
 
 [SLINGPEA_SKILL_LEVEL1]
-Stretch peas           
+Stretch peas         
 
 [SLINGPEA_SKILL_LEVEL1_DES]
 There is a probability of firing five ejection bullets, which will have an ejection effect and eject up to 2 zombies.
@@ -45034,7 +45012,7 @@ The experience card time has expired. Do you want to buy this plant?
 First Charge Pack
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-Make a single recharge of ^00FF00 2 � ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
+Make a single recharge of ^00FF00 2 ? ^oldclr or more to purchase diamonds and receive the First Recharge Pack! (You can get ^00FF00 155 diamonds ^oldclr in total!)
 
 [PLANT_SPECIAL_LEFT_TIME]
 Activity countdown: {TIME}
@@ -45154,10 +45132,10 @@ Super Master Gift
 Champion's Return Gift
 
 [PLANT_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Original Price: �198
+Original Price: ?198
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Purchase for 68 �
+Purchase for 68 ?
 
 [STORE_CATEGORY_NAME_SECRET_STORE_DESC]
 Buy Pack
@@ -45202,7 +45180,7 @@ Store Reset Countdown
 Available
 
 [SECRET_BUY_STR]
-{NUMBER} �
+{NUMBER} ?
 
 [SECRET_BUY_STR_FREE]
 Free-of-charge
@@ -45265,10 +45243,10 @@ Endless Pack 6
 Endless Pack 7
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Original price {NUMBER} �
+Original price {NUMBER} ?
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-{NUMBER} � purchase
+{NUMBER} ? purchase
 
 [PLANT_SPECIAL_OFFER_TITLE]
 Plant Package Thanksgiving Pack
@@ -45295,29 +45273,29 @@ Buy Endless Pack
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
 Endless Pack
 
-[PRODUCT_LION_DANCE_01]  
-Purchase Small Firecracker Pack  
+[PRODUCT_LION_DANCE_01]
+Purchase Small Firecracker Pack
 
-[PRODUCT_LION_DANCE_01_SHORTDESC]  
-Small Firecracker Pack  
+[PRODUCT_LION_DANCE_01_SHORTDESC]
+Small Firecracker Pack
 
-[PRODUCT_LION_DANCE_02]  
-Purchase Discounted Firecracker Pack  
+[PRODUCT_LION_DANCE_02]
+Purchase Discounted Firecracker Pack
 
-[PRODUCT_LION_DANCE_02_SHORTDESC]  
-Discounted Firecracker Pack  
+[PRODUCT_LION_DANCE_02_SHORTDESC]
+Discounted Firecracker Pack
 
-[PRODUCT_LION_DANCE_03]  
-Purchase Medium Firecracker Pack  
+[PRODUCT_LION_DANCE_03]
+Purchase Medium Firecracker Pack
 
-[PRODUCT_LION_DANCE_03_SHORTDESC]  
-Medium Firecracker Pack  
+[PRODUCT_LION_DANCE_03_SHORTDESC]
+Medium Firecracker Pack
 
-[PRODUCT_LION_DANCE_04]  
-Purchase Large Firecracker Pack  
+[PRODUCT_LION_DANCE_04]
+Purchase Large Firecracker Pack
 
-[PRODUCT_LION_DANCE_04_SHORTDESC]  
-Large Firecracker Pack  
+[PRODUCT_LION_DANCE_04_SHORTDESC]
+Large Firecracker Pack
 
 [PRODUCT_LION_DANCE_04_SHORTDESC]
 Large Christmas Stocking Pack
@@ -45445,12 +45423,12 @@ Ice Hockey Match
 
 [PVZ_WORLDCUP_DES]
 Gameplay Overview:
-� A large number of zombies will appear in the game, among which zombies with a ball possession mark on their heads will score a goal when they reach our baseline.
-� Players play as the plant side, set up formations, and after setting up the formation, plants that kill zombies with ball possession marks will gain ball possession plants food. Dragging the ice hockey plants food onto plants with ball possession marks will shoot the soccer ball.
-� Dragging plants food onto plants without ball possession marks will pass the ball to the plant before shooting.
-� The ice hockey continues to advance without zombie obstruction or killing zombies. If it advances to the baseline, the player scores one point.
-� After the time is up, the side with more goals wins. In case of a draw, players can challenge again.
-� Completing levels will earn rich rewards!
+? A large number of zombies will appear in the game, among which zombies with a ball possession mark on their heads will score a goal when they reach our baseline.
+? Players play as the plant side, set up formations, and after setting up the formation, plants that kill zombies with ball possession marks will gain ball possession plants food. Dragging the ice hockey plants food onto plants with ball possession marks will shoot the soccer ball.
+? Dragging plants food onto plants without ball possession marks will pass the ball to the plant before shooting.
+? The ice hockey continues to advance without zombie obstruction or killing zombies. If it advances to the baseline, the player scores one point.
+? After the time is up, the side with more goals wins. In case of a draw, players can challenge again.
+? Completing levels will earn rich rewards!
 
 [PVZ_WORLDCUP_LEFT_TICKET]
 Remaining Tickets: {NUM}
@@ -46125,10 +46103,10 @@ Obtained ^FF0000 10 ^oldclr times
 Challenge Opportunities
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
-1 �
+1 ?
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
-6 �
+6 ?
 
 [MAT_ZMATCH_TICKET]
 Z-League Medal
@@ -46186,13 +46164,13 @@ Purchase ^FFFF00 6000 ^oldclr coins to receive ^FFFF00 60 ^oldclr purple coins.
 Purple coins can be used for the limited-time treasure draw event to win ^ef7600 orange plants ^oldclr and trophies.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-Purchase ^ffff00 1 ^oldclr times for 6 �
+Purchase ^ffff00 1 ^oldclr times for 6 ?
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-Purchase for 25 �^ffff00 5^oldclr times
+Purchase for 25 ?^ffff00 5^oldclr times
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-Purchased for 328 �^ffff00 66^oldclr times
+Purchased for 328 ?^ffff00 66^oldclr times
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD1_DESC]
 Buy a small purple gold coin Pack
@@ -46316,7 +46294,7 @@ Group buying instructions
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
 1. The group buy event starts at 9 AM on the day it begins and settles at 9 AM the next day. On the last day, the group buy settles at midnight.
 2. During the event, players purchase items at full price using diamonds to join the group buy. After the group buy countdown ends, diamonds will be refunded based on the discount!
-3. During the group buy period (when there is a group buy event entry), players will receive 10 Dave Coupons for every 1 � recharged. These coupons can be used to exchange for certain group buy plants. The group buy coupons are valid for the current event period and will be cleared after expiration.
+3. During the group buy period (when there is a group buy event entry), players will receive 10 Dave Coupons for every 1 ? recharged. These coupons can be used to exchange for certain group buy plants. The group buy coupons are valid for the current event period and will be cleared after expiration.
 4. Plants purchased in the group buy will be 3-star or 2-star plants. If the player already owns the same plant, it will be converted into plant pieces of the same level. Outfits will be converted into outfit pieces.
 
 [VOTE]
@@ -46361,22 +46339,22 @@ Is it confirmed that this plant casts your valuable vote?
 [NO_CONDITIONS]
 Conditions not fulfilled
 
-[LUCKBAG_ANNOUNCEMENT_TITLE]  
-Spring Festival Lucky Bag  
+[LUCKBAG_ANNOUNCEMENT_TITLE]
+Spring Festival Lucky Bag
 
-[LUCKBAG_ANNOUNCEMENT_CONTENT]  
-Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.  
+[LUCKBAG_ANNOUNCEMENT_CONTENT]
+Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.
 
-[LUCKBAG_TITLE]  
-Spring Festival Lucky Bag  
+[LUCKBAG_TITLE]
+Spring Festival Lucky Bag
 
-[LUCKBAG_SELECT_PLANT]  
-Select Plants  
+[LUCKBAG_SELECT_PLANT]
+Select Plants
 
-[LUCKBAG_RESELECT_PLANT]  
-Reselect  
+[LUCKBAG_RESELECT_PLANT]
+Reselect
 
-[LUCKBAG_SELECT_TITLE]  
+[LUCKBAG_SELECT_TITLE]
 Spring Festival Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
@@ -46386,7 +46364,7 @@ Fukuro Confirmation
 The lucky bag plants you selected are:
 
 [LUCKBAG_BUY]
-45 � to activate
+45 ? to activate
 
 [LUCKBAG_DESCRIPTION]
 Lucky bag instructions
@@ -46590,7 +46568,7 @@ Entering the top 3 of your leaderboard, you will be promoted to a more competiti
 Each edition of the Super Z-League starts at 15:00 pm on Friday, with all fixtures for 5 weeks and the 6th week as the settlement week. Ends at 09:00 am on Friday of Week 6. After the current event, the next event will all undergo a level reset.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-The player has a free key every day, and the countdown is turned on for 8 hours only after the number of free keys have been used, instead of giving you a free key every 8 hours. The free countdown stops if the player has spent diamonds or � on keys during this period. The free key countdown is only entered when the player's key count is 0.
+The player has a free key every day, and the countdown is turned on for 8 hours only after the number of free keys have been used, instead of giving you a free key every 8 hours. The free countdown stops if the player has spent diamonds or ? on keys during this period. The free key countdown is only entered when the player's key count is 0.
 
 [JOUST_LEAGUE_NAME_BRICK]
 Brick League
@@ -46829,7 +46807,7 @@ Electric Energy Pea Commemorative Coin
 [MAT_COLLECT_COIN_E]
 Sunflower commemorative coin
 
-[MAT_FIREWORKS]  
+[MAT_FIREWORKS]
 Firecrackers
 
 [LOAD_AD_ERROR_TITLE]
@@ -47026,7 +47004,7 @@ plants food releases an additional ghost ball.
 Payment Tips
 
 [PAY_CHECK_DIALOG_CONTENT]
-Your accumulated recharge has reached 1,000 � and requires real-name authentication !
+Your accumulated recharge has reached 1,000 ? and requires real-name authentication !
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hi, the basic guidance level has been skipped for you. The guidance rewards will be distributed to you later. Pay attention to check!
@@ -47092,7 +47070,7 @@ costume Pieces
 Diamonds
 
 [LOTTERY_GOLD]
-Gold coins
+Coins
 
 [LOTTERY_PENDANTPIECE]
 Pendant pieces
@@ -47215,7 +47193,7 @@ Casual Summer Probability Announcement
 Midsummer Gathering Probability Announcement
 
 [WEEKLY_RECHARGEREWARD_DES]
-Recharge during the event to receive rare plant fragments. Recharge amount resets after the event.
+Recharge during the event to receive plant fragments. Recharge amount resets after the event.
 
 [CONSUME_RECIVE_DES]
 Consume diamonds during the event to receive up to 40 fragments of {NAME} for free!
@@ -47227,7 +47205,7 @@ Consume diamonds during the event to receive fragments for free!
 Spend Diamonds
 
 [ACTIVITY_TIME_DOWN]
-Countdown to Events
+end
 
 [PLANT_TREE_EVENT_GREENPIECE]
 Green plant pieces
@@ -47440,7 +47418,7 @@ Extinguish the torch in the zombie's hand 15 times at any level
 10 fusions of transgenic
 
 [ACCUMULATE_RECHARGE_REWARD]
-Cumulative {NUM} days, recharge 30 � daily to receive
+Cumulative {NUM} days, recharge 30 ? daily to receive
 
 [DAVE_TREASURE]
 Dave's Treasure
@@ -47473,7 +47451,7 @@ Get 1 level of the exclusive plant X1
 Get 160 treasure to claim the exclusive plant costume X1
 
 [DAVE_TREASURE_DESCRIPTION]
-For every ^FFFF00 1 ^oldclr �, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium does not count)
+For every ^FFFF00 1 ^oldclr ?, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium does not count)
 
 [DAVE_NORMAL_CHALLENGE]
 Free challenges
@@ -47527,7 +47505,7 @@ Total logins: ^3AAD14 ^oldclr
 Please check if there are privileges or refresh the active interface
 
 [DAVE_TREASURE_BUY_1]
-^FFFF00 60 ^oldclr � Purchase
+^FFFF00 60 ^oldclr ? Purchase
 
 [DAVE_TREASURE_BUY_2]
 Activate to claim
@@ -47724,7 +47702,7 @@ Penny's Pursuit Guide
 During the event, complete the mission to claim points, and accumulate enough points to receive a rich Penny pursuit reward.
 
 [PENNY_ADVANCED_GUIDE_BUY]
-^FFFF00 30 ^oldclr � Purchase
+^FFFF00 30 ^oldclr ? Purchase
 
 [PENNY_INTGETRAL]
 Number of stars:
@@ -47933,11 +47911,11 @@ If you want to prove your strength, then go and challenge Doctor Zombie in the M
 [TASK_WORLDTASK_DESCRIPTION_STEAM3]
 If you want to prove your strength, then go and challenge Dr. Zombie in the Steam world!
 
-[TASK_WORLDTASK_EGYPT1]  
-Complete the easy level on Day 8 of the Ancient Egypt  
+[TASK_WORLDTASK_EGYPT1]
+Complete the easy level on Day 8 of the Ancient Egypt
 
 [TASK_WORLDTASK_EGYPT2]
-Complete the hard level on Day 8 of the Ancient Egypt  
+Complete the hard level on Day 8 of the Ancient Egypt
 
 [TASK_WORLDTASK_EGYPT3]
 Complete the boss battle to finish Ancient Egypt
@@ -48919,7 +48897,7 @@ Super Option Super Big Pack
 Super-optional
 
 [NEWYEAR_GOODS_BUNDLE]
-{NUM} � optional Pack
+{NUM} ? optional Pack
 
 [NEWYEAR_GOODS_SELECTED]
 Selected Pack Content
@@ -48969,37 +48947,37 @@ Plant classification
 Remote
 
 [PROFESSION_SHOOTER_DESCRIPTION]
-A profession specializing in long-range attacks.  
+A profession specializing in long-range attacks.
 
 [PROFESSION_WARRIOR]
-Vanguard  
+Vanguard
 
 [PROFESSION_WARRIOR_DESCRIPTION]
-A profession specializing in close-range attacks.  
+A profession specializing in close-range attacks.
 
 [PROFESSION_SUPPORTER]
-Support  
+Support
 
 [PROFESSION_SUPPORTER_DESCRIPTION]
-A profession capable of providing buffs or removing negative effects from plants.  
+A profession capable of providing buffs or removing negative effects from plants.
 
 [PROFESSION_PROTECTOR]
-Defender  
+Defender
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
-A profession specializing in blocking zombies.  
+A profession specializing in blocking zombies.
 
 [PROFESSION_SUNMAKER]
 Sun
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
-A profession capable of producing sunlight.  
+A profession capable of producing sunlight.
 
 [PROFESSION_SPECIALIST]
-Specialist  
+Specialist
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-A profession with unique attack methods or specialized in countering zombies.  
+A profession with unique attack methods or specialized in countering zombies.
 
 [PLANT_DETAILS]
 Detail
@@ -49432,13 +49410,13 @@ Garden Party
 Autumn Adventure
 
 [BATTLE_ORDER_TAB1]
-Treasure Levels
+Levels
 
 [BATTLE_ORDER_TAB2]
-Open Treasures
+Spin
 
 [BATTLE_ORDER_TAB3]
-Challenge Tasks
+Tasks
 
 [BATTLE_ORDER_TAB4]
 Flash Sale
@@ -49528,10 +49506,9 @@ Level {NUM} Reward
 Level {NUM} Reward
 
 [DRAW_ONCE]
-Draw once
-
+x1
 [DRAW_ONCECOSTNUW]
-^FF0000 {NUM} ^oldclr Draw once
+^FF0000 {NUM} ^oldclr x1
 
 [DRAW_TEN]
 Draw ten times
@@ -49711,7 +49688,7 @@ Autumn Lucky Star Rules:
   - 2nd Prize: 2 Each gets 10% (20% total).
   - 3rd Prize: 4 Each gets 5% (20% total).
   - 4th Prize: 100 Each gets 0.4% (40% total).
-  
+
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRING]
 Flash Sale Rewards Rules:
 - Top 500 Premium Pass buyers participate.
@@ -49764,7 +49741,7 @@ Flash Sale Rewards Rules:
   - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
-- Premium Pass buyers participate.  
+- Premium Pass buyers participate.
 - Initial pool: 14000 Diamonds, each Premium Pass purchased, the pool increases by 14 Diamonds.
 - Rewards:
   - 1st Prize: 1 winner gets 20%.
@@ -49786,7 +49763,7 @@ Flash Sale Rewards Rules:
   - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
-- Premium Pass buyers participate.  
+- Premium Pass buyers participate.
 - Initial pool: 14000 Diamonds, each Premium Pass purchased, the pool increases by 14 Diamonds.
 - Rewards:
   - 1st Prize: 1 winner gets 20%.
@@ -49808,7 +49785,7 @@ Flash Sale Rewards Rules:
   - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
-- Premium Pass buyers participate.  
+- Premium Pass buyers participate.
 - Initial pool: 14000 Diamonds, each Premium Pass purchased, the pool increases by 14 Diamonds.
 - Rewards:
   - 1st Prize: 1 winner gets 20%.
@@ -49830,7 +49807,7 @@ Flash Sale Rewards Rules:
   - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
-- Premium Pass buyers participate.  
+- Premium Pass buyers participate.
 - Initial pool: 14000 Diamonds, each Premium Pass purchased, the pool increases by 14 Diamonds.
 - Rewards:
   - 1st Prize: 1 winner gets 20%.
@@ -49852,7 +49829,7 @@ Flash Sale Rewards Rules:
   - Ranks 301-500: Each gets 0.1% (20% total).
 
 Golden Autumn Lucky Star:
-- Premium Pass buyers participate.  
+- Premium Pass buyers participate.
 - Initial pool: 14000 Diamonds, each Premium Pass purchased, the pool increases by 14 Diamonds.
 - Rewards:
   - 1st Prize: 1 winner gets 20%.
@@ -50137,43 +50114,46 @@ Other orange plant pieces
 Lucky Wishing Pool
 
 [WISHING_POOL_GEM500]
-Diamond*500
+Diamond 500
 
 [WISHING_POOL_GEM200]
-Diamond*200
+Diamond 200
 
 [WISHING_POOL_GEM100]
-Diamond*100
+Diamond 100
 
 [WISHING_POOL_GEM50]
-Diamond*50
+Diamond 50
 
 [WISHING_POOL_GEM30]
-Diamond*30
+Diamond 30
 
 [WISHING_POOL_GOLD1]
-Gold Coins*99999
+Coins 99999
 
 [WISHING_POOL_GOLD2]
-Gold Coins*50000
+Coins 50000
 
 [WISHING_POOL_GOLD3]
-Gold Coins*10000
+Coins 10000
 
 [WISHING_POOL_MYSTERY1]
-Crystal of Mystery*1000
+Ruby 1000
 
 [WISHING_POOL_MYSTERY2]
-Crystal of Mystery*5000
+Ruby 5000
 
 [WISHING_POOL_GREENPLANT1]
-Sweet potato chips*10
+Sweet Potato pieces 10
 
 [WISHING_POOL_GREENPLANT2]
-Daylily pieces*10
+Rafflesia pieces 10
 
 [WISHING_POOL_BLUEPLANT]
-Chomper pieces*10
+Chomper pieces 10
+
+[WISHING_POOL_PURPLEPLANT]
+Beanstalk Commando Shard *10
 
 [WISHING_POOL_GOLDENPLANT_VERSION1]
 Gluttonous Snapdragon *10
@@ -50185,10 +50165,10 @@ Gluttonous Snapdragon *10
 Wishing pool
 
 [WISHING_POOL_TAB2]
-Special Pack
+Pack
 
 [WISHING_POOL_TAB3]
-Cumulative Rewards
+Rewards
 
 [PLEASE_SET_WISH_FIRST]
 The conditions for making a wish have not been fulfilled
@@ -50292,8 +50272,7 @@ Cumulative wishing {NUMBER} times
 Select Wish Rewards
 
 [WISHING_POOL_SHORT_DESCRIPTION]
-The ten companies will receive a reward for making a wish, and multiple gifts are waiting for you
- 
+Guaranteed reward in 10 draws, with multiple great prizes waiting for you!
 
 [THE_N_DAY]
 {NUM}day
@@ -50324,52 +50303,52 @@ Meat
 Dave Kitchen
 
 [DAVE_KITCHEN_TAB1]
-Corn rolls
+Kitchen
 
 [DAVE_KITCHEN_TAB2]
-Ingredient Tasks
+Tasks
 
 [DAVE_KITCHEN_TAB3]
-Ingredients Pack
+Pack
 
 [DAVEKITCHEN_EXCHANGE_1]
-Big Mac Corn Rolls: You can get Monoceros pieces, orienteering pieces or advanced books
+Three-meat tacos: Mangosteen pieces, oriental pieces, level 4 books
 
 [DAVEKITCHEN_EXCHANGE_2]
-Grilled Meat Corn Wrap: Can obtain Artifact Blessing Voucher, Targeted Fragments, or Water Chestnut Brothers Fragment.
+Two-meat tacos: Artifact Voucher, Targeted pieces, Water Chestnut Brothers Fragment.
 
 [DAVEKITCHEN_EXCHANGE_3]
-Smoked Bacon Corn Wrap: Can obtain Artifact Ticket, Dracaena Fragments, or legendary potion
+One-meat tacos: Artifact Voucher, Dracaena pieces, legendary potion
 
 [DAVEKITCHEN_EXCHANGE_4]
-Vegetable tacos: Diamonds, thorn fruit meteor hammer pieces or purple culture solution are available
+Vegetable tacos: Diamonds, Byttneria Meteor Hammer, purple potion
 
 [DAVEKITCHEN_EXCHANGE_5]
-Corn rolls: diamonds, holographic nut pieces or blue culture broth can be obtained
+salads: diamonds, Infi-nut pieces, blue potion
 
 [DAVEKITCHEN_EXCHANGE_6]
-1000 gold coins
+1000 coins
 
 [DAVEKITCHEN_EXCHANGE_7]
 10 diamonds
 
 [DAVEKITCHEN_EXCHANGE_8]
-50,000 gold coins
+50,000 coins
 
 [DAVEKITCHEN_EXCHANGE_9]
 60 diamonds
 
 [DAVE_KITCHEN_TASK_NAME_1]
-Clear the Penny Pursuit Level or Memory Journey Level 2 times
+Clear the Penny Pursuit Level or Memory Level 2 times
 
 [DAVE_KITCHEN_TASK_NAME_2]
-Clear 6 times Penny Pursuit Level or Memory Journey Level
+Clear 6 times Penny Pursuit Level or Memory Level
 
 [DAVE_KITCHEN_TASK_NAME_3]
-Clear 2 Endless Mode levels or Double Mode
+Clear 2 Endless levels or Double Mode
 
 [DAVE_KITCHEN_TASK_NAME_4]
-Clear 6 Endless Mode levels or Double Mode
+Clear 6 Endless levels or Double Mode
 
 [DAVE_KITCHEN_TASK_NAME_5]
 Clear Creative Courtyard 2 times
@@ -50599,7 +50578,7 @@ Countdown to end of mission
 available: {NAME} piecex{NUM}
 
 [PLANT_CULTIVATE_BUNDLE_PRICE]
-Purchase for 20 �
+Purchase for 20 ?
 
 [PLANT_CULTIVATE_BUNDLE_LIMIT]
 Remaining purchases: ^FF0000^{NUM}^oldclr^
@@ -50651,29 +50630,29 @@ Description of the activities of the plant cultivation programme
 6. Obtained Plant Experience Card, go to Backpack - Other Props, view and use.
 7. Players must first enter the Plant Cultivation Plan to view the task list each time they enter the game. Rewards for the corresponding tasks can only be claimed after completing the relevant levels. Players cannot exit the game while completing the tasks.
 
-[FIGHT_ZODIAC_TITLE]  
-New Year Gift  
+[FIGHT_ZODIAC_TITLE]
+New Year Gift
 
-[FIGHT_ZODIAC_TAB_1]  
-New Year Gift  
+[FIGHT_ZODIAC_TAB_1]
+New Year Gift
 
-[FIGHT_ZODIAC_TAB_2]  
-New Year Pack  
+[FIGHT_ZODIAC_TAB_2]
+New Year Pack
 
-[FIGHT_ZODIAC_INDEX]  
-The {NUM}th New Year Pack  
+[FIGHT_ZODIAC_INDEX]
+The {NUM}th New Year Pack
 
-[FIGHT_ZODIAC_OBTAIN]  
-Free Firecracker Pickup  
+[FIGHT_ZODIAC_OBTAIN]
+Free Firecracker Pickup
 
-[FIGHT_ZODIAC_ONE]  
-Give 1 Firecracker  
+[FIGHT_ZODIAC_ONE]
+Give 1 Firecracker
 
-[FIGHT_ZODIAC_TEN]  
-Give 10 Firecrackers  
+[FIGHT_ZODIAC_TEN]
+Give 10 Firecrackers
 
-[FIGHT_ZODIAC_NOT_ENOUGH]  
-Not Enough Firecrackers  
+[FIGHT_ZODIAC_NOT_ENOUGH]
+Not Enough Firecrackers
 
 [FIGHT_ZODIAC_BEAT]
 Break Rewards
@@ -50681,41 +50660,41 @@ Break Rewards
 [FIGHT_ZODIAC_LIMIT]
 Have reached the purchase cap today
 
-[FIGHT_ZODIAC_BEAT_DES]  
-Each firecracker grants 1-2 gift points at Dave's and provides a fragment of an item from the reward pool.  
+[FIGHT_ZODIAC_BEAT_DES]
+Each firecracker grants 1-2 gift points at Dave's and provides a fragment of an item from the reward pool.
 
-[FIGHT_ZODIAC_REWARD]  
-Free Firecracker Pickup  
+[FIGHT_ZODIAC_REWARD]
+Free Firecracker Pickup
 
-[FIGHT_ZODIAC_REWARD_PENNY]  
-Play {TYPE} once to earn a firecracker  
+[FIGHT_ZODIAC_REWARD_PENNY]
+Play {TYPE} once to earn a firecracker
 
-[FIGHT_ZODIAC_REWARD_MONTHLY_CARD]  
-Super Monthly Card rewards firecrackers daily  
+[FIGHT_ZODIAC_REWARD_MONTHLY_CARD]
+Super Monthly Card rewards firecrackers daily
 
-[FIGHT_ZODIAC_REWARD_FREE]  
-Free firecracker pickup every day  
+[FIGHT_ZODIAC_REWARD_FREE]
+Free firecracker pickup every day
 
 [GACHA_TIME_COUNT_DOWN]
 Pack Refresh Countdown
 
-[PENNY_CHASE]  
-Penny's Pursuit  
+[PENNY_CHASE]
+Penny's Pursuit
 
-[BUY_MONTHLY_CARD]  
-Purchase Monthly Card  
+[BUY_MONTHLY_CARD]
+Purchase Monthly Card
 
-[FIGHT_ZODIAC_DESCRIPTION_TITLE]  
-New Year Gift Event Description  
+[FIGHT_ZODIAC_DESCRIPTION_TITLE]
+New Year Gift Event Description
 
-[FIGHT_ZODIAC_DESCRIPTION]  
+[FIGHT_ZODIAC_DESCRIPTION]
 Event Details:  
 1. Players consume firecrackers to earn gift points from Dave. Each firecracker consumed grants one reward.  
 2. Consuming firecrackers has a chance to double the points.  
 3. When the points reach a certain amount, the Pack displayed in the top right is unlocked.  
 4. The remaining points required for the next Pack will be shown above Dave's head.  
 5. After receiving a gift, the pack will automatically reset.  
-6. Plant fragment probability distribution: Orange Plant Fragments: 10%; Purple Plant Fragments: 35%; Blue Plant Fragments: 45%; Mysterious Crystal: 10%  
+6. Plant fragment probability distribution: Orange Plant Fragments: 10%; Purple Plant Fragments: 35%; Blue Plant Fragments: 45%; Mysterious Crystal: 10%
 
 [LIMITED_SUMMON_TITLE]
 Time-limited Summons
@@ -50981,7 +50960,7 @@ Design table configuration error
 Exceeded purchase limit
 
 [PVP_ERROR_75024]
-You did not purchase a Pack at the event and cannot receive the cumulative Pack rewards for the entire server!
+Buy a pack before get the reward !
 
 [PVP_ERROR_75025]
 The Pack has expired, please refresh the interface
@@ -50994,7 +50973,7 @@ Carnival Event Description
 
 [CARNIVAL_DESCRIPTION_1]
 Activity rules:
-1. A variety of Packages will be refreshed every day, and you can purchase redemption coupons to redeem them;
+1. Gift packs will be refreshed every day, and you can buy vouchers to redeem them
 2. Every time you purchase a Pack, in addition to the fixed product content, you will receive additional probability output and receive more prizes and diamonds. Click in the upper right corner of the Pack? Button to see details;
 3. During the event, the flash sale Pack rush event will be launched from 20:00 to 22:00 every day:
 A. Special Package: Get the special Package at a great discount, limited to 1,000 copies, and each person is limited to purchasing 1 copy;
@@ -51003,7 +50982,7 @@ B. Lucky bag Pack: After purchasing the Pack, you can randomly get a Pack that i
 5. If you purchase multiple Packages in total, you can unlock personal progress rewards. The more times you purchase Packages, the richer the rewards will be;
 6. Purchase Packs to accumulate server-side progress and unlock server-side progress rewards. You need to purchase the Pack at least once to receive the full server progress reward;
 7. When you purchase a Package and obtain a large amount of additional output, you will have the opportunity to use the marquee display function of the entire server to share your good luck with everyone;
-8. Click the + button on the right side of the redemption coupon to go to the recharge page. Unconsumed redemption coupons in the current period can be retained for subsequent carnival activities;
+8. Click the + button on the right of the coupon to go to the recharge page. Unconsumed coupons in the current period can be retained for subsequent carnival activities;
 
 [CARNIVAL_DESCRIPTION_2]
 9. The contents of each Package are as follows:
@@ -51026,10 +51005,10 @@ Carnival
 Participate in the carnival, buy redemption coupons, redeem value Packs, and get surprise rewards!
 
 [LIMIT_GIFT]
-Limited-time courtesy
+Limited-time
 
 [ACCUMU_GIFT]
-Accumulate good gifts
+Server reward
 
 [DAILY_GIFT_REFRESH]
 Daily Pack refresh
@@ -51044,7 +51023,7 @@ Flash-kill trailer
 Instant Kill Remaining
 
 [ACTIVITY_LEFT]
-Events only left
+End in:
 
 [SERVER_LIMIT]
 Full server Left: {NUM} copies
@@ -51657,7 +51636,7 @@ Explode-O-Nut Zombies
 {KEYWORD}Special: {STAT} will cause a lot of damage to the surrounding plants after death!
 {KEYWORD}Weakness: {STAT} will not cause an explosion after being swallowed by plants.
  
-{FLAVOR} No one knows where he came from, just like he appeared out of thin air. The mysterious plant head attracted the attention of many zombies. The latest � Zombie Evening News � reported the place where he appeared, headgear club , oh ~ Okay, do you know how to be stiff, know how to face, and don't know how to know, right?
+{FLAVOR} No one knows where he came from, just like he appeared out of thin air. The mysterious plant head attracted the attention of many zombies. The latest ? Zombie Evening News ? reported the place where he appeared, headgear club , oh ~ Okay, do you know how to be stiff, know how to face, and don't know how to know, right?
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
 Plant-headed zombies from mysterious time and space, don't let him die too close to your plant!
@@ -51777,25 +51756,25 @@ Currently used by {PLANT}
 Costume Effect
 
 [NEW_AVATAR_WEAR]
-Equip  
+Equip
 
 [NEW_AVATAR_TAKE_OFF]
-Unequip  
+Unequip
 
 [NEW_AVATAR_EXCHANGE]
-Craft  
+Craft
 
 [NEW_AVATAR_EQUIPED]
 Set
 
 [NEW_AVATAR_NOT_ACQUIRED]
-Not Acquired  
+Not Acquired
 
 [NEW_AVATAR_BUFF]
-Buff:  
+Buff:
 
 [NEW_AVATAR_GET]
-Obtained From:  
+Obtained From:
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_2]
 Gatling Peas Limited Costume
@@ -52662,13 +52641,13 @@ Partial permissions are necessary permissions to implement the core functions of
 Single recharge cap
 
 [AUTH_PAYMENT_PER_LIMIT_DESC]
-According to relevant laws and regulations, your single recharge amount shall not exceed {PRICE} �, please consume it moderately
+According to relevant laws and regulations, your single recharge amount shall not exceed {PRICE} ?, please consume it moderately
 
 [AUTH_PAYMENT_TOTAL_LIMIT_TITLE]
 Cumulative top-up cap
 
 [AUTH_PAYMENT_TOTAL_LIMIT_DESC]
-You can recharge up to {PRICE} � per month.
+You can recharge up to {PRICE} ? per month.
 After this recharge, your accumulated recharge amount will exceed the upper limit, and according to the relevant laws and regulations, this recharge cannot be carried out.
 Please consume moderately.
 
@@ -52782,10 +52761,10 @@ Buy Theatre Luxury Pack
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_248]
 Theatre Luxury Gifts Pack
 
-[STORE_CATEGORY_NAME_LUCKBAG_45]  
-Purchase New Year Lucky Bag  
+[STORE_CATEGORY_NAME_LUCKBAG_45]
+Purchase New Year Lucky Bag
 
-[STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]  
+[STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
 New Year Lucky Bag 
 
 [MAT_RICHMAN_COIN]
@@ -52867,7 +52846,7 @@ costume Pieces
 Pendant pieces
 
 [SECRET_GACHA_EVENT_WHITEPIECE]
-Gold coins
+Coins
 
 [SECRET_GACHA_LOTTERY_PENDANT]
 Diamonds
@@ -52974,7 +52953,7 @@ MORE FUEL:
 {DURATION}
 
 [RIFT_FUEL_STORE_TIME_TO_NEXT_DAYS]
-{DAYS} days
+{DAYS}D
 
 [RIFT_LEADERBOARD_OVERVIEW_TITLE]
 Leaderboard Description
@@ -54262,9 +54241,9 @@ Rewards
 Complete recharge goals and log in for 3 days to earn generous rewards, including upgrade books, rare plants & costumes, useful accessories, and exclusive avatars. Note: Only recharges after 11:00 on January 31, 2024, will count towards the current recharge rewards.
 
 There are 3 reward level for recharge:
-- Recharge �2: Choose one orange plant (Ice-shroom, Tangle Kelp, Cob Cannon), First Recharge Avatar Frame, 10 Orange Plant Nutrients, and one orange plant costume (Ice-shroom, Tangle Kelp, Cob Cannon).
-- Cumulative �60: Choose one dragon plant (Ice Dragon, Lightning Reed, Fire Peashooter), 10 Gene Primers, 10 Directed Pieces.
-- Cumulative �198: Metal Slingshot accessory, 300 Diamonds, and Plant Upgrade Book.
+- Recharge ?2: Choose one orange plant (Ice-shroom, Tangle Kelp, Cob Cannon), First Recharge Avatar Frame, 10 Orange Plant Nutrients, and one orange plant costume (Ice-shroom, Tangle Kelp, Cob Cannon).
+- Cumulative ?60: Choose one dragon plant (Ice Dragon, Lightning Reed, Fire Peashooter), 10 Gene Primers, 10 Directed Pieces.
+- Cumulative ?198: Metal Slingshot accessory, 300 Diamonds, and Plant Upgrade Book.
 
 [FIRST_RECHARGE_EXTRA_HAVE_GOT_PRIZE]
 You've already received today's reward, come and take a look tomorrow!
@@ -55561,187 +55540,187 @@ Chapter 3 Acquisition, Use, and Custody of Game Accounts
 
 [PRIVACY_RULE_TXT_6]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
-  
- 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the � privacy policy � and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
-  
+
+ 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the ? privacy policy ? and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
+
  4.2 Tuowei Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as name, personal valid ID number, contact information, home address, etc. in user registration information to any third party without your permission, except in the following circumstances:
  (1) You or your guardian authorizes Tuowei Company to disclose;
  (2) Relevant laws require Tuowei Information Systems Co., Ltd. to disclose;
  (3) Judicial or administrative agencies require Tuowei Information Systems Co., Ltd. to provide it based on legal procedures;
  (4) When Tuowei Information Systems Co., Ltd. files a lawsuit or arbitration against you in order to safeguard its legitimate rights and interests;
  (5) When providing your personally identifiable information at the legal request of your guardian.
-  
+
  4.3 You fully understand and agree: If you disclose important information and information such as your various property accounts, bank cards, credit cards and corresponding passwords to others in the game services of Tuowei Information Systems Co., Ltd., any losses incurred will be borne by you.
 
 [PRIVACY_RULE_TXT_7]
 Chapter 5 Games of Tuowei Information Systems Co, Ltd and Game Services of Tuowei Information Systems Co, Ltd
-  
+
  5.1 You may use Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services only for non-commercial purposes in the following ways:
-  
+
  (1) Receive, download, install, start, upgrade, log in, display, run and/or take screenshots of Tuowei Information Systems Co., Ltd. games;
-  
+
  (2) Create game characters, set online names, view game rules, user personal information, game results, purchase and use virtual items through legitimate channels in the game, etc.
-  
+
  (3) Use one or more other functions supported and allowed by Tuowei Information Systems Co., Ltd. games.
   
 Any other form of unlicensed installation, use, access, display, operation, and transfer you make, will be considered a breach of the Agreement.
 
 [PRIVACY_RULE_TXT_8]
 5.2 In the process of using Tuowei Information System Co., Ltd.'s game services, you shall not record and disseminate Tuowei Information System Co., Ltd.'s game content to others in any way without Tuowei Information System Co., Ltd.'s permission, including not using any third-party software for online dissemination, etc.
-  
+
  5.3 When provided in the form of software by Tuowei Information Systems Co., Ltd., you should also comply with the provisions of this Agreement on software download and installation when using Tuowei Information Systems Co., Ltd. games and services.
-  
+
  5.4 If Tuowei Information Systems Co., Ltd. discovers or receives reports or complaints from others that you have violated the provisions of this agreement, Tuowei Information Systems Co., Ltd. has the right to delete relevant content at any time without notice, and will punish illegal game accounts depending on the circumstances of the behavior. Punishments include but are not limited to warnings, restrictions or prohibitions on the use of all or part of functions? Penalties for banning game accounts until they are cancelled, and announcement of the results.
-  
+
  5.5 You fully understand and agree that Tuowei Information Systems Co., Ltd. has the right to reasonably judge and punish violations of relevant laws, regulations or the provisions of this agreement, take appropriate legal actions against any user who violates laws and regulations, and save relevant information in accordance with laws and regulations. Report to relevant departments, etc., users should bear all legal responsibilities arising therefrom alone.
-  
+
  5.6 You fully understand and agree that you shall be independently responsible for any claims, demands or losses caused or caused by third parties due to your violation of this Agreement or relevant terms of service; Tuowei Information Systems Co., Ltd. has suffered losses as a result, you shall also compensate together.
-  
+
  5.7 You fully understand and agree that virtual items, etc. are part of the game services of Tuowei Information Systems Co., Ltd. Tuowei Information Systems Co., Ltd. hereby allows you to obtain the right to use them in accordance with this agreement. Your purchase and use of virtual items, etc. shall follow the requirements of this Agreement and the specific rules of the game; at the same time, virtual items, etc. may be subject to a certain validity period. If you do not use it within the specified validity period, except for force majeure or attributable to Tuowei Information Systems Co., Ltd., once the validity period expires, it will automatically expire.
-  
+
  5.8 You fully understand and agree: In order to create a fair and healthy gaming environment, in the process of your use of Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. has the right to understand your relevant terminal equipment information through technical means. Once any unauthorized procedure has been found that would endanger the normal operation of the game services of Tuowei Information Systems Co, Ltd, Tuowei Information Systems Co, Ltd will collect all information related to this and take reasonable measures to combat it.
-  
+
  5.9 You fully understand and agree that when you use the charging function of Tuowei Information System Co., Ltd.'s games, you should pay the corresponding fees in accordance with the requirements of Tuowei Information System Co., Ltd. Moreover, this right belongs to the operating autonomy of Tuowei Information System Co., Ltd. Tuowei Information System Co., Ltd. reserves the right to change the business model at any time, that is, it reserves the right to change the rate standard of the charge, the software functions of the charge, the charging objects and the charging time. At the same time, Tuowei Information Systems Co., Ltd. also reserves the right to upgrade, revise, add, delete, modify, change the functions of the application or change the rules of the game. If you do not accept such changes, you should immediately stop using the application; if you continue to use the application, it will be deemed that you accept the changed business model.
-  
+
  5.10 You fully understand and agree: In order to ensure the game speed of you and other users, Tuowei Information System Co., Ltd. has the right to regularly transfer or clear some past game data stored on the game server of Tuowei Information System Co., Ltd.
-  
+
  5.11 You fully understand and agree that the game services you are using involve Internet services and may be affected by unstable factors in various aspects of the Internet. There is therefore a risk that this game service will be disrupted or will not meet user requirements due to force majeure, viral or hacking attacks, system instability, location of the user, user shutdown, and any other technology, Internet, communication line causes, etc.
   
 In view of this, to the maximum extent permitted by applicable law, Tuowei Information Systems Co., Ltd. does not guarantee that the game services provided will definitely meet your requirements, nor that the game services provided will not be interrupted, and does not guarantee that the game services will not be interrupted. There is no guarantee for the timeliness, security, occurrence of errors, and whether the information can be transmitted accurately, timely, and smoothly.
-  
+
  5.12 You fully understand and agree that when using the game services of Tuowei Information Systems Co., Ltd., there is threatening, defamatory, objectionable or illegal content or behavior or infringement of the rights of others from any other person. (including intellectual property rights), you must bear the above risks, Tuowei Information Systems Co., Ltd. does not make any type of guarantee for game services, whether explicit or implicit, including all implied guarantees regarding the authenticity, merchantability, fitness for a specific purpose, ownership and non-infringement of the information. and conditions, resulting in any direct, indirect, incidental, special and subsequent damage arising from your improper or illegal use of the service, No liability.
 
 [PRIVACY_RULE_TXT_9]
 5.13 You fully understand and pay attention to the following:
-  
+
  (1) Tuowei Information Systems Co., Ltd. may update applications from time to time by publishing software upgrade packages or software patches, online upgrades, etc. During the update process, Tuowei Information Systems Co., Ltd. may retrieve and collect your personal client software version information about the game, and automatically replace, modify, delete, add, modify, supplement, etc. This behavior is a necessary operation or step for software update. If you do not agree to Tuowei Information Systems Co., Ltd. to perform such operation, please do not update it; the behavior you use is deemed to be your consent. Tuowei Information Systems Co., Ltd. performs such operation.
-  
+
  (2) For games, some updates may be updates to the software version, and if you do not make such updates, you will not be able to log in to the app. Moreover, such an update will cause the original software version on the terminal you are using to be completely replaced by the new software version.
-  
+
  (3) Obtaining game coins, game props, game equipment and other virtual items from third parties may pose various risks. You may not obtain the above-mentioned game virtual items from a third party. If you insist on obtaining the above-mentioned game virtual items from a third party, you shall bear the corresponding risks. Tuowei Information Systems Co., Ltd. has the right to directly retrieve or delete such game virtual items. Delete and other processing.
-  
+
  (4) The measures taken by Tuowei Information Systems Co., Ltd. due to users engaging in violations of this Agreement or regulations may cause virtual items with a service period under your current game account to expire during the period of taking the above measures and be unable to continue to be used, the losses caused to you will be borne by you. That is, the time it takes for Tuowei Information Systems Co., Ltd. to take the above measures is calculated in the use period of virtual items with a use period; after the execution of such measures is terminated, the use period of virtual items will not be extended as a result.
-  
+
  5.14 Tuowei Information Systems Co., Ltd. may provide you with game rule descriptions, bugs (also known as vulnerabilities, defects, etc.) or plug-in complaints, and game item retrieval through the official website, customer service phone number, game administrator, or other channels, game item lock or unlock, account complaint and other customer services, the provision of the above services should be based on the following prerequisites:
-  
+
  (1) Understand the content, requirements and tariffs of these customer services through the official customer service website of Tuowei Information Systems Co., Ltd. or other channels provided by Tuowei Information Systems Co., Ltd., carefully choose whether you need to enjoy corresponding customer services, and provide Tuowei Information Systems Co., Ltd. to truly and accurately express your needs.
-  
+
  (2) Agree and accept Tuowei Information Systems Co., Ltd.'s special agreement or terms on these customer services.
-  
+
  (3) truthfully provide your relevant personal information and game status in accordance with the requirements of Tuowei Information Systems Co., Ltd., as well as other users you know or the online game itself, such as: your account and the personal information under it, Online game login status and game items status, bugs (also known as vulnerabilities, defects, etc.) in the application? Plug-ins and other players you know about using bugs (also known as vulnerabilities, defects, etc.) or plug-ins.
 
 [PRIVACY_RULE_TXT_10]
 5.15 When one of the following circumstances occurs, Tuowei Information Systems Co., Ltd. has the right to stop or interrupt the services provided by the game server. For inconvenience or damage caused thereby, Tuowei Information Systems Co., Ltd. will not be liable to users or third parties. No liability:
-  
+
  (1) For regular inspections or construction, updating software and hardware, etc., Tuowei Information Systems Co., Ltd. has the right to suspend services, but will complete maintenance and update work as soon as possible;
-  
+
  (2) The server is damaged and cannot operate normally;
-  
+
  (3) Sudden failure of software, hardware and electronic communication equipment;
-  
+
  (4) Network provider lines or other faults;
-  
+
  (5) In order to maintain national security or the personal safety of other users and third parties in emergencies;
-  
+
  (6) Force majeure and other third-party reasons.
-  
+
  5.16 Tuowei Information System Co., Ltd. will take effective measures to protect the legitimate rights and interests of minors in the process of using Tuowei Information System Co., Ltd.'s game services in accordance with relevant laws, regulations and the provisions of this agreement, including possible technical measures, prohibit minors from being exposed to inappropriate games or game functions, limit minors' game time, and prevent minors from being addicted to the Internet. All users of minors should carefully read and follow these guidelines and instructions under the guidance of their legal guardian; other players should avoid publishing and producing any content that is harmful to the physical and mental health of minors in the process of using the game services of Tuowei Information System Co., Ltd., and jointly create a healthy gaming environment.
 
 [PRIVACY_RULE_TXT_11]
 CHAPTER VI USER CANDARD OF CONDUCT
-  
+
  6.1 You fully understand and agree that you must be responsible for all actions under your game account, including any content you publish and any consequences arising therefrom. You shall make your own judgment on the content in the game of Tuowei Information Systems Co., Ltd. and bear all risks arising from the use of Tuowei Information Systems Co., Ltd. game services, including due to the correctness of Tuowei Information Systems Co., Ltd. game content. risks arising from reliance on the accuracy, completeness or practicality. Tuowei Information Systems GmbH Games cannot and will not be liable for any loss or damage resulting from the aforementioned risks.
-  
+
  6.2 In addition to using the game services of Tuowei Information System Co., Ltd. as stipulated in this agreement, you shall not engage in any infringement of the intellectual property rights related to the game of Tuowei Information System Co., Ltd. and the game components of Tuowei Information System Co., Ltd., or conduct other acts that harm the legitimate rights and interests of Tuowei Information System Co., Ltd. or other third parties.
-  
+
  6.3 Unless permitted by law or with the written permission of Tuowei Information Systems Co., Ltd., you may not commit the following acts while using Tuowei Information Systems Co., Ltd.'s game services:
-  
+
  (1) Delete all copyright information and content on the game and other copies;
-  
+
  (2) Reverse engineering, reverse assembly, reverse compilation of the game or otherwise attempt to discover the source code of the software, etc., and use or disclose such source code to any third party;
-  
+
  (3) Scan, explore, and test game software to detect, discover, and find possible bugs (also known as vulnerabilities, defects, etc.) or weaknesses;
-  
+
  (4) Copy, modify, add, delete, and hang up the data released into any terminal memory during the operation of the game software or software, the interaction data between the client and the server during the operation of the software, and the system data necessary for the operation of the software. Run or create any derivative works, including but not limited to using plug-ins, plug-ins or non-legally authorized third-party tools/ Service access software and related systems;
-  
+
  (5) Modify or forge instructions and data in the operation of the software, add, delete, or change the functions or operating effects of the software, or operate or disseminate the software and methods used for the above purposes to the public, regardless of whether the above behavior is for commercial purposes;
-  
+
  (6) Use third-party software, plug-ins, plug-ins, and systems developed and authorized by Tuowei Information System Co., Ltd., use Tuowei Information System Co., Ltd. games and Tuowei Information System Co., Ltd. game services, or produce, Publish and disseminate third-party software, plug-ins, plug-ins, and systems developed and authorized by Feituowei Information System Co., Ltd;
-  
+
  (7) Use, rent, lend, copy, modify, link, reprint, compile, publish, publish, and establish mirror sites for content in the game that Tuowei Information System Co., Ltd. owns intellectual property rights, and establish relevant Tuowei Information System Co., Ltd. Mirror sites for games, or take web (network) snapshots, or use server setup and other methods, Provide others with exactly the same or similar services as the game services of Tuowei Information Systems Co., Ltd;
-  
+
  (8) Separate any part of the game of Tuowei Information Systems Co., Ltd. for separate use, or perform other uses that do not comply with this Agreement;
-  
+
  (9) Use the name, trademark or other intellectual property rights of Tuowei Information Systems Co., Ltd.'s games in a manner inconsistent with the provisions of this Agreement;
-  
+
  (10) Other acts that have not been expressly authorized by Tuowei Information Systems Co., Ltd.
 
 [PRIVACY_RULE_TXT_12]
 6.4 If you engage in the following behaviors while using Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. will temporarily or permanently ban you based on the severity of the case and in accordance with the provisions of this Agreement and relevant game rules. Prohibit login, delete game account and game data, delete relevant information and other processing measures, In serious cases, the administrative authorities concerned will be handed over for administrative penalties, or you will be held criminally responsible:
-  
+
  (1) Use games and services to publish, transmit, disseminate, and store content that endangers national security, the reunification of the motherland, and social stability, or insult, slander, pornography, violence, cause uneasiness to others, or violate social ethics and any content that violates national laws, regulations, and policies. Or set up online names and character names containing the above content.
-  
+
  (2) Use games and services to publish, transmit, disseminate, and store content that infringes upon the legal rights of others such as intellectual property rights, commercial confidentiality rights, portrait rights, and privacy.
-  
+
  (3) Carry out any behavior that endangers network security, including but not limited to: using unauthorized data or entering unauthorized servers/accounts; entering the public network or other people's terminal systems without permission and deleting, modifying, and adding stored information; Attempt to explore, scan, and test the weaknesses of this software or network or other behaviors that undermine network security without permission; attempt to interfere? Undermining the normal operation of this  software system or website, deliberately spreading malicious programs or viruses and other acts that undermine and interfere with normal network information services; forging packet names or partial names.
-  
+
  (4) Carry out any behavior that undermines the fairness of the game services of Tuowei Information System Co., Ltd. or other behaviors that affect the normal order of the game, such as actively or passively brushing points, cheating in partnership, using plug-ins or other cheating software, and using BUG (also called  Vulnerability or  defect, etc.) to obtain improper and illegal benefits, Or use the Internet or other means to make plug-ins, cheating software, and bugs public.
-  
+
  (5) Use Tuowei Information System Co., Ltd.'s games to engage in any commercial activities such as publishing advertisements and selling goods, or engage in any illegal behavior that infringes on the interests of Tuowei Information System Co., Ltd., such as selling game accounts and selling in-game virtual items or information, illegal recharge, hiring others to provide in-game services and paying remuneration outside the game, For example, for profit-making purposes, make money, power leveling services, trade virtual vouchers for profit-making purposes, or provide intermediary services, spread advertising, etc. Once discovered, Tuowei Information Systems Co., Ltd. has the right to suspend the user account and has the right to determine the suspension period based on the degree of impact you have caused, and Tuowei Information Systems Co., Ltd. has the right to recover and delete all your abnormal income. data.
-  
+
  (6) Pretend to be Tuowei Information Systems Co., Ltd., game service administrator or game forum administrator, and moderator to publish any fraudulent or false information.
-  
+
  (7) Various illegal cheating behaviors.
-  
+
  (8) Stealing other people's game accounts and game items.
-  
+
  (9) Conduct game account transactions privately, and conduct transactions of game props, game equipment, game coins, etc. privately.
-  
+
  (10) Exploit possible technical flaws or loopholes in the online game system to make profits for yourself and others in various forms.
-  
+
  (11) Use all or part of the data information generated and stored in the game during the use of various paid or free games provided by Tuowei Information Systems Co., Ltd. to make profits for yourself and others in various forms.
-  
+
  (12) Promote plug-ins, private servers, power leveling, coin brushing, Trojans and other content or publicly conduct negative publicity for Tuowei Information Systems Co., Ltd.
-  
+
  (13) Unauthorized use of the products and services provided by Tuowei Information Systems Co., Ltd. to make profits in reality, as well as other misconduct that is widely recognized in the industry, whether or not it has been expressly enumerated in this Agreement.
-  
+
  6.5 Except for the usage methods stipulated in this agreement, you may not perform any of the following acts without the permission of Tuowei Information Systems Co., Ltd.; if you want to perform any of the following acts, please contact Tuowei Information Systems Co., Ltd. Contact us and obtain the consent of Tuowei Information Systems Co., Ltd, And at the request of Tuowei Information Systems Co., Ltd., sign an electronic or paper written contract with it:
-  
+
  (1) Modify, copy, distribute, rent, publish, translate, compile, adapt and/or reproduce the game or its various derivative works, or make it public on the Internet or other means.
-  
+
  (2) Produce, produce, wholesale, sell, publish and/or publish derivatives adapted from the game.
-  
+
  (3) Provide testing, bugs (also called  vulnerabilities,  defects, etc.) and plug-in tracking reports, soft article writing and promotion, competitive intelligence collection and other services for the game.
-  
+
  (4) Use the name, trademark, etc. of the game.
-  
+
  (5) Conduct other relevant game services that require developer consent other than the above behaviors.
 
 [PRIVACY_RULE_TXT_13]
 6.6 If a user violates this Agreement or relevant regulations, Tuowei Information Systems Co., Ltd. has the right to take one or more of the following measures:
-  
+
  (1) Immediately disconnect the network connection between the terminal you are currently using and the application server, and you must log in again to continue using the application.
-  
+
  (2) You are temporarily prohibited from logging into online games with your currently used account.
-  
+
  (3) You are temporarily prohibited from using a paid function in the application until the date when you pay off the fees owed and pay the corresponding fees in advance to continue using the above paid function.
-  
+
  (4) Reduce or clear the points, levels and/or honors in the application of the account you are currently using.
-  
+
  (5) You are temporarily prohibited from making any comments in online games with your currently used account.
-  
+
  (6) Permanently and irrevocably delete the advertisements, false information or illegal remarks you publish, or take other measures to prevent their dissemination.
-  
+
  (7) Permanently and irrevocably delete game items such as virtual currencies, game props and/or game equipment that you illegally obtained, or return them to other users who originally obtained their rights to use them through legal channels.
-  
+
  (8) Permanently and irrevocably cancel or clear the points, levels and/or honors you illegally obtained.
-  
+
  (9) Permanently and irrevocably prohibit you from making any comments in the app by virtue of your currently used account.
-  
+
  (10) Permanently and irrevocably delete all game props, game equipment, game coins, points, levels, honors and other information under the account you are currently using, as well as corresponding game data.
-  
+
  (11) Permanently and irrevocably prohibit you from logging into the application with the account you are currently using, and delete or clear all data, game coins, props, equipment and other information generated by the account in the application.
-  
+
  (12) Take measures other than those listed above.
   
 Tuowei Information Systems Co., Ltd. may take one or more of the aforementioned measures continuously, intermittently or alternately.
@@ -55765,41 +55744,41 @@ CHAPTER VII DOWNLOAD AND INSTALLATION OF SOFTWARE
 
 [PRIVACY_RULE_TXT_15]
 Chapter V3 Disclaimer
-  
+
  8.1 Tuowei Information System Co., Ltd. Games and Tuowei Information System Co., Ltd. game services are subject to the actual situation and version provided to you. Tuowei Information Systems Co., Ltd. does not guarantee that: Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services are error-free and will not be interrupted, all defects have been corrected, or Tuowei Information Systems Co., Ltd. Game Services will not be compromised by viruses or any other factors. Unless expressly provided by law, Tuowei Information Systems Co., Ltd. hereby expressly disclaims any liability for warranty, express or implied, including, but not limited to, the performance, suitability or non-infringement of Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services. guarantee.
-  
+
  8.2 Under any circumstances, Tuowei Information Systems Co., Ltd. shall not be liable for the losses you suffer during the use of Tuowei Information Systems Co., Ltd. games and Tuowei Information Systems Co., Ltd. game services due to force majeure. Such force majeure events include, but are not limited to, national laws, regulations, policies, that is, orders of state organs or other unpredictable, inevitable and insurmountable events such as earthquakes, fires, snow disasters, fires, tsunamis, typhoons, strikes, wars, etc.
-  
+
  8.3 Tuowei Information Systems Co., Ltd. may independently decide to change, terminate, or suspend your use of any Tuowei Information Systems Co., Ltd. games and Tuowei Information Systems Co., Ltd. game services at any time based on the information or information it knows or has. No advance notice is required from you, but in accordance with laws and regulations? Except as agreed in this Agreement or your agreement with Tuowei Information Systems Co., Ltd. requires advance notice. If your actions violate the provisions of laws and regulations or the provisions of this Agreement, Tuowei Information System Co., Ltd. terminates or suspends your use of any Tuowei Information System Co., Ltd. games and Tuowei Information System Co., Ltd. games in accordance with relevant regulations. If the company's game services are provided, Tuowei Information System Co., Ltd. does not need to bear any liability to you and has the right to require you to bear corresponding liability.
-  
+
  8.4 Tuowei Information System Co., Ltd. Games and Tuowei Information System Co., Ltd. game services may cause bugs in game software (also known as vulnerabilities, defects, etc.), version update defects, third-party virus attacks, Internet connections or any other factors. Abnormal account data such as game characters, game props, game equipment, and game coins. Before the cause of the data abnormality is found out, Tuowei Information Systems Co., Ltd. has the right to temporarily freeze the game account; if it is found that the data abnormality is abnormal game behavior, Tuowei Information Systems Co., Ltd. has the right to restore the game account data to the original state before the abnormality occurs (including recovering transferred data from third parties), And Tuowei Information Systems Co., Ltd. does not assume any responsibility to you.
-  
+
  8.5 Tuowei Information Systems Co., Ltd. does not authorize you to obtain game accounts, game props, game equipment, game coins, etc. from any third party by purchasing, accepting gifts or other means. Tuowei Information Systems Co., Ltd. is not responsible for third-party transactions, and will not accept complaints caused by disputes over any third-party transactions.
-  
+
  8.6 You fully understand that the advertisements, links or other forms of promotional content placed by third parties in the games of Tuowei Information Systems Co., Ltd. are provided by them themselves. You should judge their authenticity by yourself. Tuowei Information Systems Co., Ltd. does not make any express or implied guarantee for its promotional content. The transaction of the services or goods you purchase through Tuowei Information Systems Co., Ltd. or the websites it links to exists only between you and the provider of the goods or services, and has nothing to do with Tuowei Information Systems Co., Ltd., Tuowei Information Systems Co., Ltd. does not assume any legal liability arising between you and the provider of the goods or services.
-  
+
  8.7 You fully understand that there is an objective situation of non-interoperability between different operating systems. This objective situation is not caused by Tuowei Information Systems Co., Ltd., which may cause your recharge and game data in one operating system to not be smoothly transferred to another operating system. operating system. The risk of loss of recharge and loss of game data due to your switching on different systems shall be your own responsibility and Tovi Information Systems Ltd shall not be required to assume any liability.
-  
+
  8.8 You fully understand that: Tuowei Information Systems Co., Ltd. may set up a forced battle area or gameplay in the game. If you do not agree to the forced battle, please do not enter the game or game area; your entry will be deemed to agree to the gameplay. and accept the corresponding consequences.
 
 [PRIVACY_RULE_TXT_17]
 CHAPTER IX Privacy policy
-  
- 9.1 Tuowei Information Systems Co., Ltd. will take reasonable measures to protect users' personal privacy information. Unless otherwise agreed in this agreement, Tuowei Information Systems Co., Ltd.'s game services will follow the unified announcement of Tuowei Information Systems Co., Ltd. � privacy policy�.
+
+ 9.1 Tuowei Information Systems Co., Ltd. will take reasonable measures to protect users' personal privacy information. Unless otherwise agreed in this agreement, Tuowei Information Systems Co., Ltd.'s game services will follow the unified announcement of Tuowei Information Systems Co., Ltd. ? privacy policy?.
 
 [PRIVACY_RULE_TXT_18]
 Chapter 10 Interruption, suspension and termination of services
-  
+
  10.1 Suspension and termination of your services
  (1) If you publish illegal information, seriously violate social ethics, or other behaviors that violate legal prohibitions, Tuowei Information Systems Co., Ltd. shall immediately terminate the provision of services to you.
  (2) If you commit improper acts when accepting services from Tuowei Information Systems Co., Ltd., Tuowei Information Systems Co., Ltd. has the right to terminate the provision of services to you. The specific circumstances of the improper conduct shall be clearly stipulated in this agreement or shall be prohibited sexual conduct that shall be terminated as expressly notified in advance by Tuowei Information System Co., Ltd. Otherwise, Tuowei Information System Co., Ltd. shall not terminate the service to you. provide services.
  (3) If you provide false registered identity information or commit any violation of this Agreement, Tuowei Information System Co., Ltd. has the right to suspend all or part of its services to you; Tuowei Information System Co., Ltd. shall notify you of the suspension measures and inform you During the suspension period, the suspension period should be reasonable, and Tuowei Information System Co., Ltd. shall resume its services to you in a timely manner upon expiration of the suspension period.
  (4) If Tuowei Information Systems Co., Ltd. suspends or terminates the provision of some or all services to you in accordance with the provisions of items (1), (2), and (3) of this paragraph, Tuowei Information Systems Co., Ltd. shall bear the burden of proof.
-  
+
  10.2 Interruption, suspension and termination of game server operations
  (1) For the normal operation of the game server, Tuowei Information System Co., Ltd. needs to regularly shut down and maintain the game server or perform emergency shutdown maintenance for emergencies; normal service interruption and suspension caused by the above circumstances, please understand, Tuowei Information System Co., Ltd. is obliged to try its best to limit the interruption time to the shortest time.
 When any of the following circumstances occurs, Tuowei Information Systems Co., Ltd. has the right to terminate or interrupt all or part of the services provided by the game server. Tuowei will not be liable to you or a third party for any inconvenience or damage caused thereby. Any liability: ? regular inspection or construction, update of software and hardware, etc., Tuowei Information Systems Co., Ltd. has the right to suspend services, However, Tuowei Information Systems Co., Ltd. will complete the maintenance and update work as soon as possible; the ? game server is damaged and cannot operate normally; ? sudden software and hardware equipment and electronic communication equipment failures; ? network provider lines or other failures; ? Under emergencies, in accordance with legal provisions or for the personal safety of you and third parties; ? third-party reasons or other force majeure situations.
-  
+
  (2) Tuowei Information Systems Co., Ltd. reserves the right to terminate or partially terminate the provision of Tuowei game services if it deems it necessary, and will announce it 60 days in advance before termination.
 Regardless of the reason for terminating the game service of Tuowei Information Systems Co., Ltd., you should take corresponding measures to handle the game virtual items yourself, including but not limited to canceling or stopping the use of your account, game virtual items and other related matters. You may not require Tuowei Information Systems Co., Ltd. to assume any form of liability for compensation or compensation other than the game virtual currency you have purchased but have not yet used due to the complete termination of Tuowei Information Systems Co., Ltd.'s game services, including but not limited to compensation required for no longer being able to continue using user accounts, game virtual items, etc.
 
@@ -55813,7 +55792,7 @@ Chapter 12 Rules for the use of game graphics
 [PRIVACY_RULE_TXT_20]
 Chapter 13 Special Conventions on Custom Levels
  13.1 Custom level refers to the new function of Tuowei Game in its game. You can customize the content of the game level, that is, you can use Tuowei game materials in Tuowei Game to create levels for other players to entertain. Tuowei Information Systems Co., Ltd. owns the relevant rights of any character, world view, dialogue, art work, animation, music, video, game scene, design concept, etc. in Tuowei game software and services, or has obtained authorization from the legal rights holder (Tuowei game material)
- 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, � privacy policy � and various policies and agreements published from time to time while creating.
+ 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, ? privacy policy ? and various policies and agreements published from time to time while creating.
  13.3 You agree to transfer ownership, copyright and other related rights and interests in custom level content globally to Tuowei Information Systems Co., Ltd. Where the foregoing is not enforceable, to the maximum extent permitted by law, you agree to grant Tovi Information Systems GmbH exclusive, irrevocable, royalty-free, transferable, sublicensable, permanent, worldwide rights to use custom level content for any purpose and manner. If Tuowei Information Systems Co., Ltd. needs to register custom level content or obtain relevant certificates, you should cooperate with Tuowei Information Systems Co., Ltd. in a timely manner.
  13.4 You guarantee that the customized level content created will not derogate or damage the image of Tuowei Information Systems Co., Ltd. and the world view of related games, and will not violate any applicable laws and regulations. The use of custom level content will not infringe the intellectual property rights and other legitimate interests of Tuowei Information Systems Co., Ltd. and any third party. If you violate the aforementioned regulations, Tuowei Games has the right to suspend or terminate your use of custom level functions and offline the content of the set custom level. At the same time, it will be processed in accordance with Chapter 14 of this Agreement
 
@@ -55825,17 +55804,17 @@ CHAPTER XV STORAGE AND SECURITY OF INFORMATION AND LIMITATIONS OF SERVICES
  15.1 Tuowei Information Systems Co., Ltd. will try its best to maintain the security and convenience of the services provided under this agreement, but will not be responsible for the deletion or failure to store information that appears in the service (including but not limited to information posted by users). Tuowei Information Systems Co., Ltd. reserves the right to determine whether your behavior complies with the provisions of this Agreement. If you violate the provisions of this Agreement, Tuowei Information Systems Co., Ltd. has the right to interrupt the services provided to you in accordance with this Agreement.
   
 CHAPTER XVI Legal regulation
-  
+
  16.1 When using the game services of Tuowei Information Systems Co., Ltd., you should abide by relevant local laws and regulations and respect local customs and habits. If your actions violate local laws and regulations or moral customs, you should be independently responsible for them.
-  
+
  16.2 You should avoid involving Tuowei Information Systems Co., Ltd. in political and public events due to the use of Tuowei Information Systems Co., Ltd. game services, otherwise Tuowei Information Systems Co., Ltd. has the right to suspend or terminate its services to you.
 
 [PRIVACY_RULE_TXT_22]
 Chapter 17 Game Software Licensing and Restrictions of Tuowei Information Systems Co., Ltd
  17.1 Subject to your agreement to accept all terms of this Agreement, Tuowei Information Systems Co., Ltd. agrees to grant you non-commercial, revocable, changeable, non-proprietary, non-transferable and non-sublicensable use of this Agreement. The rights of Tuowei Information Systems Co., Ltd. to use game software and Tuowei game services. You can install Bentuowei Information Systems Co., Ltd. game software on a mobile smart device or computer terminal for personal use within the scope of authorization and run a copy of Bentuowei Information Systems Co., Ltd. game software in a manner specified by Bentuowei Information Systems Co., Ltd. and enjoy the services provided by Bentuowei Information Systems Co., Ltd.
-  
+
  17.2 The license granted to you by Tuowei Information Systems Co., Ltd. based on this agreement is for personal use. If you need to use Tuowei Information System Co., Ltd. game software and Tuowei Information System Co., Ltd. game services outside the scope of personal use, or use Tuowei Information System Co., Ltd. game software and Tuowei Information System Co., Ltd. game services for any commercial use, Then you should contact Tuowei Information Systems Co., Ltd. and obtain separate authorization from Tuowei Information Systems Co., Ltd. Any installation, use, access, display, operation, commercial use, etc. without the permission of Tuowei Information Systems Co., Ltd. is an infringement of Tuowei Information Systems Co., Ltd.
-  
+
  17.3 Unless otherwise agreed in this Agreement, you may not commit the following acts (whether for profit or non-profit) without the prior written consent of Tuowei Information Systems Co., Ltd:
  (1) Copy, rip, decompile, disassemble, disseminate and display all or part of the programs, user manuals and other graphic, text and audio-visual materials of Tuowei Information Systems Co., Ltd. game software, or to Tuowei Information Systems Co., Ltd. Any functions or programs of the company's game software are reverse engineered.
  (2) Publicly display and play all or part of the game software of Tuowei Information System Co., Ltd./Tuowei Information System Co., Ltd. game services in various forms and on various platforms (including but not limited to online live broadcast platforms, websites, APPs, etc.) part of the content.
@@ -55845,13 +55824,13 @@ Chapter 17 Game Software Licensing and Restrictions of Tuowei Information System
 
 [PRIVACY_RULE_TXT_23]
 Chapter 18 Jurisdiction and application of the law
-  
+
  18.1 This Agreement applies to the laws and regulations of the People's Republic of China (excluding conflict laws).
-  
+
  18.2 This agreement was concluded in Hongkou District, Shanghai. If any dispute arises between the two parties regarding the content of this agreement or its execution (including but not limited to contract or other property rights disputes), the two parties shall resolve it through friendly negotiation; if the negotiation fails, both parties agree to submit it to the jurisdiction of the Shanghai Hongkou District People's Court and handle it.
-  
+
  18.3 The titles of all provisions of this Agreement are for ease of reading only and have no actual meaning themselves. They cannot be used as the basis for the interpretation of the meaning of this Agreement.
-  
+
  18.4 Regardless of the reasons for which the provisions of this Agreement are partially invalid, the remaining provisions remain valid and binding on all parties.
   
 CHAPTER 19 CHANGES TO TERMS
@@ -55866,11 +55845,11 @@ Any data information generated during your participation in the game and stored 
 
 [PRIVACY_RULE_TXT_25]
 Chapter XXII Other
-  
+
  22.1 In order to avoid disputes, the user agrees to use the data stored in Tuowei's server as the judgment standard for relevant data and technical issues involved in this agreement. Tovi guarantees the authenticity of this data.
-  
+
  22.2 According to the advice of the State Administration of Press and Publication on healthy games, Tuowei Information Systems Co., Ltd. reminds you: boycott bad games and refuse pirated games; pay attention to self-protection and beware of being deceived; moderate games benefit the brain and addiction to games hurts the body.
-  
+
  22.3 If you have any comments or suggestions on this agreement or Tuowei Information Systems Co., Ltd. game services, you can contact the customer service department of Tuowei Information Systems Co., Ltd. and we will provide you with necessary help.
 Contact details are as follows:
 Contact Email: csonline@139.com
@@ -55883,7 +55862,7 @@ User Use License Service Agreement
 
 [EULA_TXT_1]
 Welcome to apply to use the services provided by Tuowei Information Systems Co., Ltd. (hereinafter also referred to as  Tuowei Company )!
- �Tuowei Information Systems Co., Ltd. User License Service Agreement� (hereinafter referred to as this Agreement) is jointly concluded between you and the game service provider of Tuowei Information Systems Co., Ltd. This agreement has contractual effect. In order to protect your legitimate rights and interests, please be sure to read and fully understand the content of each clause carefully before agreeing to and accepting all terms of this agreement, especially the terms that exempt or limit liability, as well as separate agreements to activate or use a certain service. Restrictions, disclaimer clauses may prompt you in bold to note.
+ ?Tuowei Information Systems Co., Ltd. User License Service Agreement? (hereinafter referred to as this Agreement) is jointly concluded between you and the game service provider of Tuowei Information Systems Co., Ltd. This agreement has contractual effect. In order to protect your legitimate rights and interests, please be sure to read and fully understand the content of each clause carefully before agreeing to and accepting all terms of this agreement, especially the terms that exempt or limit liability, as well as separate agreements to activate or use a certain service. Restrictions, disclaimer clauses may prompt you in bold to note.
  
 When you click  agree  or  accept  key online, it is deemed that you have read and understood the entire content of this Agreement in detail and agree to abide by the provisions of this Agreement. Unless you have read and accept all the terms of this Agreement, you do not have the right to use Tovi Information Systems GmbH Game Services. Your use of Tovi Information Systems GmbH Game Services is deemed to have been read and you agree to sign this Agreement. Thereafter you may not raise any form of defence for non-reading/non-agreement to the content of this Agreement or similar reasons.
  
@@ -55907,7 +55886,7 @@ Without particular explanation, the following terms mean in this Agreement:
  1.5 Game services of Tuowei Information System Co., Ltd.: refers to various online operation services related to games provided to you by Tuowei Information System Co., Ltd.
  
  1.6 Game components of Tuowei Information System Co., Ltd.: refers to the text, pictures, audio, video, icons, interface design, layout framework, relevant data or electronic documents contained in and related to the game of Tuowei Information System Co., Ltd. and other content and information.
-  
+
  1.7 You: also known as  player or  user, refers to a natural person authorized to use the products and services of Tuowei Information Systems Co., Ltd.
  
  1.8 Game data: refers to various data recorded by the server generated by you during the game using Tuowei Information Systems Co., Ltd., including but not limited to game logs, security logs and other data.
@@ -55940,7 +55919,7 @@ Chapter 3 Acquisition, use and safekeeping of game accounts
  
  3.1 Obtaining game accounts
  
- (1) If you need to use and enjoy the games of Tuowei Information System Co., Ltd. and the game services of Tuowei Information System Co., Ltd., you must fully agree to the terms of this agreement, in accordance with the � online game management interim regulations � and the Ministry of Culture � The requirements of the necessary terms of the online game service formatting agreement �, and complete the registration process in accordance with the requirements of the registration page, Including, but not limited to, inputting correct basic information and information. The user undertakes to register in his or her true identity, including but not limited to real-name authentication in accordance with the requirements of Tuowei Information Systems Co., Ltd. Games and agrees to hand over the filled-in information to a third-party organization for verification, and ensures that the information provided by him or her The information is true, complete and valid, and the user shall bear corresponding legal liability for the information provided in accordance with legal provisions and this agreement.
+ (1) If you need to use and enjoy the games of Tuowei Information System Co., Ltd. and the game services of Tuowei Information System Co., Ltd., you must fully agree to the terms of this agreement, in accordance with the ? online game management interim regulations ? and the Ministry of Culture ? The requirements of the necessary terms of the online game service formatting agreement ?, and complete the registration process in accordance with the requirements of the registration page, Including, but not limited to, inputting correct basic information and information. The user undertakes to register in his or her true identity, including but not limited to real-name authentication in accordance with the requirements of Tuowei Information Systems Co., Ltd. Games and agrees to hand over the filled-in information to a third-party organization for verification, and ensures that the information provided by him or her The information is true, complete and valid, and the user shall bear corresponding legal liability for the information provided in accordance with legal provisions and this agreement.
  
  (2) If you register successfully, you will get the corresponding account, and you can log in to the game and/or use related services.
  
@@ -55975,7 +55954,7 @@ Chapter 3 Acquisition, use and safekeeping of game accounts
 [EULA_TXT_7]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
  
- 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the � privacy policy � and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
+ 4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the ? privacy policy ? and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
  
  4.2 Tuowei Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as names, personal valid ID numbers, contact information, home addresses, etc. in user registration information to any third party without your permission, except in the following circumstances:
  
@@ -56130,11 +56109,11 @@ CHAPTER VI USER CANDARD OF CONDUCT
  (1) Modify, copy, distribute, rent, publish, translate, compile, adapt and/or reproduce the game or its various derivative works, or make it public on the Internet or other means.
  
  (2) Produce, produce, wholesale, sell, publish and/or publish derivatives adapted from the game.
-  
+
  (3) Provide testing, bugs (also called  vulnerabilities,  defects, etc.) and plug-in tracking reports, soft article writing and promotion, competitive intelligence collection and other services for the game.
  
  (4) Use the name, trademark, etc. of the game.
-  
+
  (5) Conduct other relevant game services that require developer consent other than the above behaviors.
 
 [EULA_TXT_18]
@@ -56242,7 +56221,7 @@ Chapter 13 Special Conventions on Custom Levels
  
  13.1 Custom level refers to the new function of Tuowei Game in its game. You can customize the content of the game level, that is, you can use Tuowei game materials in Tuowei Game to create levels for other players to entertain. Tuowei Information Systems Co., Ltd. owns the relevant rights of any character, world view, dialogue, art work, animation, music, video, game scene, design concept, etc. in Tuowei game software and services, or has obtained authorization from the legal rights holder (Tuowei game material)
  
- 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, � privacy policy � and various policies and agreements published from time to time while creating.
+ 13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, ? privacy policy ? and various policies and agreements published from time to time while creating.
  
  13.3 You agree to transfer ownership, copyright and other related rights and interests in custom level content globally to Tuowei Information Systems Co., Ltd. Where the foregoing is not enforceable, to the maximum extent permitted by law, you agree to grant Tovi Information Systems GmbH exclusive, irrevocable, royalty-free, transferable, sublicensable, permanent, worldwide rights to use custom level content for any purpose and manner. If Tuowei Information Systems Co., Ltd. needs to register custom level content or obtain relevant certificates, you should cooperate with Tuowei Information Systems Co., Ltd. in a timely manner.
  
@@ -56366,19 +56345,19 @@ Purchase Limit: ^FF0000^{NUM}^oldclr^ times
 Free
 
 [MONTHLY_CARD_PRICE]
-{NUM} �
+{NUM} ?
 
 [MONTHLY_CARD_ORIGINAL_PRICE0]
-^FF0000^0 �^oldclr^
+^FF0000^0 ?^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE1]
-^FF0000^12.5 �^oldclr^
+^FF0000^12.5 ?^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE2]
-^FF0000^50 �^oldclr^
+^FF0000^50 ?^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE3]
-^FF0000^150 �^oldclr^
+^FF0000^150 ?^oldclr^
 
 [MONTHLY_CARD_LINE]
 ^FF0000^ -^oldclr^
@@ -56670,35 +56649,35 @@ System Prompt
 [UI_BAG_ITEM_COUNT]
 Quantity Owned: {NUMS}
 
-[MAT_NUTRIENT_4_USE]  
-Material for upgrading Level 4 plants to Level 5  
+[MAT_NUTRIENT_4_USE]
+Material for upgrading Level 4 plants to Level 5
 
-[MAT_NUTRIENT_4_GOT_WAY]  
-Endless Store, Limited-Time Packs  
+[MAT_NUTRIENT_4_GOT_WAY]
+Endless Store, Limited-Time Packs
 
-[MAT_NUTRIENT_3_USE]  
-Material for upgrading Level 4 plants to Level 55  
+[MAT_NUTRIENT_3_USE]
+Material for upgrading Level 4 plants to Level 55
 
-[MAT_NUTRIENT_3_GOT_WAY]  
-Endless Store, Limited-Time Packs  
+[MAT_NUTRIENT_3_GOT_WAY]
+Endless Store, Limited-Time Packs
 
-[MAT_NUTRIENT_2_USE]  
-Material for upgrading Level 4 plants to Level 5  
+[MAT_NUTRIENT_2_USE]
+Material for upgrading Level 4 plants to Level 5
 
-[MAT_NUTRIENT_2_GOT_WAY]  
-Endless Store, Limited-Time Packs  
+[MAT_NUTRIENT_2_GOT_WAY]
+Endless Store, Limited-Time Packs
 
-[MAT_NUTRIENT_1_USE]  
-Material for upgrading Level 4 plants to Level 5  
+[MAT_NUTRIENT_1_USE]
+Material for upgrading Level 4 plants to Level 5
 
-[MAT_NUTRIENT_1_GOT_WAY]  
-Endless Store, Limited-Time Packs  
+[MAT_NUTRIENT_1_GOT_WAY]
+Endless Store, Limited-Time Packs
 
-[MAT_NUTRIENT_0_USE]  
-Material for upgrading Level 4 plants to Level 5  
+[MAT_NUTRIENT_0_USE]
+Material for upgrading Level 4 plants to Level 5
 
-[MAT_NUTRIENT_0_GOT_WAY]  
-Endless Store, Limited-Time Packs  
+[MAT_NUTRIENT_0_GOT_WAY]
+Endless Store, Limited-Time Packs
 
 [MAT_PLANT_LEVELUP_BOOK_USE]
 Used during the advancement of plants from 2nd to 4th Level. Using it during this process, without consuming coins or plant pieces, advances the plant by one tier. Note: Cannot be used when advancing from 4th to 5th tier.
@@ -61200,10 +61179,10 @@ A calm day
 {PLAYER}'s old house
 
 [MEMORY_TUTORIAL_LEVEL_NAME]
-Heian Era  
+Heian Era
 
 [MEMORY2_TUTORIAL_LEVEL_NAME]
-Old Times  
+Old Times
 
 [MEMORY_LEVEL_NAME_001_H]
 Jet War
@@ -62846,7 +62825,7 @@ Please read and agree to the agreement
 I have read and agree
 
 [LINKED_USE_PROTOCOL_2]
-�user license service agreement�
+?user license service agreement?
 
 [CUSTOM_LEVEL_LINKED_SUCCESS]
 Mobile number association was successful
@@ -64079,16 +64058,16 @@ View Tasks
 Current Level Tasks
 
 [PVZ2_UNCHARTED_MODE_KEY_NOT_ENOUGH]
-Not enough keys. Keys refresh daily, please come back tomorrow.  
+Not enough keys. Keys refresh daily, please come back tomorrow.
 
 [PVZ2_UNCHARTED_MODE_UNLOCK_HARD_LEVEL]
-Use keys to unlock hard levels?  
+Use keys to unlock hard levels?
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_TITLE]
 Activate Premium Access
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
-Activate for 45 �
+Activate for 45 ?
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_STAR_DESC]
 {NUMS}/{NUMS_MAX}
@@ -64099,7 +64078,7 @@ Tip
 [PVZ2_UNCHARTED_MODE_TALE_2_HARD_TIPS_DESC]
 The Boss level unlock condition of difficult mode is to unlock the front 7 knots using key
 
-[PVZ2_UNCHARTED_MODE_TALE_2_NORMAL_TIPS_DESC]  
+[PVZ2_UNCHARTED_MODE_TALE_2_NORMAL_TIPS_DESC]
 Complete the previous levels first.
 
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
@@ -64188,10 +64167,10 @@ Normal Coin
 [MAT_NO42_UNIVERSE_HARD_COIN]
 Hard Coin
 
-[MAT_NO42_UNIVERSE_BASIC_SUN1]  
+[MAT_NO42_UNIVERSE_BASIC_SUN1]
 Enhanced Sun 
 
-[MAT_NO42_UNIVERSE_BASIC_SUN2]  
+[MAT_NO42_UNIVERSE_BASIC_SUN2]
 Enhanced Sun
 
 [PVZ2_UNCHARTED_SPECIAL_LEVEL_MAIN_GOAL_DESC]
@@ -64587,7 +64566,7 @@ Millennia
 [NO42_LEVEL_NAME_07_H]
 Dreaming
 
-[NO42_LEVEL_NAME_MUGEN]  
+[NO42_LEVEL_NAME_MUGEN]
 the beginning of the end
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
@@ -65336,28 +65315,28 @@ This evil mist can give the zombies a powerful shield, and perhaps only the bree
 Remaining {NUMBER} times
 
 [NEWPVP_HOWTOPLAY_1_DESCRIPTION]
-This is a 1v1 duel mode where both players compete in real-time on the same lawn.  
+This is a 1v1 duel mode where both players compete in real-time on the same lawn.
 
 [NEWPVP_HOWTOPLAY_2_DESCRIPTION]
-In this mode, plant level are marked in the top-left corner of their slots. No external bonuses (artifacts, family buffs, ornaments, costumes, or genes) apply.  
+In this mode, plant level are marked in the top-left corner of their slots. No external bonuses (artifacts, family buffs, ornaments, costumes, or genes) apply.
 
 [NEWPVP_HOWTOPLAY_3_DESCRIPTION]
-The top lawn is your area, and the bottom lawn is your opponent. Defend your lawn by planting plants and attack the opponent's lawn by deploying zombies. Zombies crossing the opponent's baseline reduce their HP. The game ends when one player's HP reaches zero.  
+The top lawn is your area, and the bottom lawn is your opponent. Defend your lawn by planting plants and attack the opponent's lawn by deploying zombies. Zombies crossing the opponent's baseline reduce their HP. The game ends when one player's HP reaches zero.
 
 [NEWPVP_HOWTOPLAY_4_DESCRIPTION]
-The sunflower icon in the top-left corner generates sun. Spend sun to increase its production and raise your plant limit.  
+The sunflower icon in the top-left corner generates sun. Spend sun to increase its production and raise your plant limit.
 
 [NEWPVP_HOWTOPLAY_5_DESCRIPTION]
-As rounds progress, more powerful zombies and skills unlock. Strategically combine them for an easier path to victory.  
+As rounds progress, more powerful zombies and skills unlock. Strategically combine them for an easier path to victory.
 
 [NEWPVP_ARMY_HOWTOPLAY_1_DESCRIPTION]
-Here, you can freely train your zombie army.  
+Here, you can freely train your zombie army.
 
 [NEWPVP_ARMY_HOWTOPLAY_2_DESCRIPTION]
-Zombie cards obtained from chests help you unlock and upgrade zombies.  
+Zombie cards obtained from chests help you unlock and upgrade zombies.
 
 [NEWPVP_ARMY_HOWTOPLAY_3_DESCRIPTION]
-Cards with matching round limits can be swapped with each other.  
+Cards with matching round limits can be swapped with each other.
 
 [NEW_PVP_TRAINING_PACKET_LEVEL_STR]
 Level {NUMBER}
@@ -65948,10 +65927,10 @@ Task
 Activate
 
 [NEW_PVP_TASK_TAB1]
-Challenge
+Task
 
 [NEW_PVP_TASK_TAB2]
-Task Levels
+Levels
 
 [NEW_PVP_TASK_TAB3]
 Lucky Wheel
@@ -66294,7 +66273,7 @@ Cancel Matchmaking
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM]
 Create Room
 
-[NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM_TITLE]  
+[NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM_TITLE]
 Create and Join
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_JOIN_ROOM]
@@ -66303,8 +66282,8 @@ Join Room
 [NEW_PVP_FREE_TO_PLAY_AREA_CONFIRM]
 Confirm
 
-[NEW_PVP_FREE_TO_PLAY_AREA_TITLE]  
-Background Selection  
+[NEW_PVP_FREE_TO_PLAY_AREA_TITLE]
+Background Selection
 
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_HOST]
@@ -66319,8 +66298,8 @@ Your lineup^oldclr ^00FF00 is preparing ^oldclr
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
 Your lineup^oldclr ^00FF00 is ready ^oldclr
 
-[NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]  
-^oldclr ^00FF00 Waiting to Enter ^oldclr  
+[NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
+^oldclr ^00FF00 Waiting to Enter ^oldclr
 
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
@@ -66353,7 +66332,7 @@ Ready
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
 Save plants
 
-[NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]  
+[NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
 Join Room
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
@@ -66465,8 +66444,8 @@ The battle has started!
 [NEW_PVP_FREE_PLAY_ERROR_CODE_4]
 Room is full!
 
-[NEW_PVP_FREE_PLAY_ERROR_CODE_5]  
-^FF0000 The room has been dissolved!  
+[NEW_PVP_FREE_PLAY_ERROR_CODE_5]
+^FF0000 The room has been dissolved!
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
 ^FF0000 Your current game frame rate is too low! Can't play online! ^oldclr^
@@ -66787,13 +66766,13 @@ Gift Preview
 Confirm purchase Pack
 
 [WORLD_LEVEL_PACKAGE_PRICE_0]
-6 �
+6 ?
 
 [WORLD_LEVEL_PACKAGE_PRICE_1]
-30 �
+30 ?
 
 [WORLD_LEVEL_PACKAGE_PRICE_2]
-60 �
+60 ?
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_0_SHORTDESC]
 Small Grade Pack
@@ -66805,48 +66784,48 @@ Medium Grade Pack
 Large Grade Pack
 
 [CORNUCOPIA_TITLE]
-Cornucopia  
+Cornucopia
 
 [EXP_CORNUCOPIA]
-Cornucopia EXP  
+Cornucopia EXP
 
 [CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
-Event Countdown  
+Event Countdown
 
 [CORNUCOPIA_SHOP_COUNTDOWN_TITLE]
-Exchange Countdown  
+Exchange Countdown
 
 [CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
-Leaderboard Countdown  
+Leaderboard Countdown
 
 [CORNUCOPIA_MAX_LEVEL]
-Max Level Reached  
+Max Level Reached
 
 [CORNUCOPIA_ACTIVITY_TIME_OVER]
-Event Over  
+Event Over
 
 [CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]
-Cornucopia Prize Pool Total  
+Cornucopia Prize Pool Total
 
 [CORNUCOPIA_TOTAL_GACHA_TITLE]
-Total Draws: {NUMS}  
+Total Draws: {NUMS}
 
 [CORNUCOPIA_CURRENT_TITLE]
-Current  
+Current
 
 [CORNUCOPIA_NEXT_TITLE]
-Next Level  
+Next Level
 
 [CORNUCOPIA_NEXT_LEVEL_DESC]
-{NUMS} Growth Points needed for the next level. Earn Growth Points by recharging or completing tasks.  
+{NUMS} Growth Points needed for the next level. Earn Growth Points by recharging or completing tasks.
 
 [CORNUCOPIA_GACHA_TIPS_DESC]
-You can win a grand prize of up to 5000 Diamonds in a single draw!  
+You can win a grand prize of up to 5000 Diamonds in a single draw!
 
 [CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
 
 [CORNUCOPIA_LOCK_TITLE]
-Level  
+Level
 
 [CORNUCOPIA_GACHA_ONE_TITLE]
 x1
@@ -66855,22 +66834,22 @@ x1
 x10
 
 [CORNUCOPIA_TAB_NAME1]
-Cornucopia  
+Cornucopia
 
 [CORNUCOPIA_TAB_NAME2]
-Tasks  
+Tasks
 
 [CORNUCOPIA_TAB_NAME3]
-Bundles  
+Bundles
 
 [CORNUCOPIA_TAB_NAME4]
-Shop  
+Shop
 
 [CORNUCOPIA_TAB_NAME5]
-Prize Pool  
+Prize Pool
 
 [CORNUCOPIA_GOTO_LEVEL]
-Upgrade  
+Upgrade
 
 [CORNUCOPIA_LEVEL_DESC]
 {NUM1} / {NUM2}
@@ -66894,7 +66873,7 @@ Orange Piece 1: 8.33%, Purple 2: 12.49%, Blue 2: 16.66%, Green 5: 24.99%.
 Ranks 1-50: 0.5% each (200+ draws), 51-150: 0.25% (160+), 151-300: 0.2% (120+), 301-500: 0.1% (80+).
 
 [CORNUCOPIA_PROGRESS_TIPS_INFO]
-After 10 Cornucopia draws, the diamond count in the pool increases by 1.
+After 10 draws, diamond count is increased by 1.
 
 [CORNUCOPIA_MARQUEE_TEMPLATE]
 Congratulations to player {NAME} for winning the lucky prize in "Cornucopia," receiving {INFO}.
@@ -66942,34 +66921,34 @@ Do you want to spend {NUMS} Lucky Coins for the draw?
 Do you want to Obtain Cornucopia bubbles?
 
 [CORNUCOPIA_HARVEST_TITLE]
-Obtainable  
+Obtainable
 
 [CORNUCOPIA_SHOP_BUY_TIME]
-Purchase Limit: {NUM1} / {NUM2}  
+Purchase Limit: {NUM1} / {NUM2}
 
 [MAT_CORNUCOPIA_TICKET_NOT_ENOUGH]
-Insufficient Lucky Coins  
+Insufficient Lucky Coins
 
 [MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]
-Insufficient Exchange Badges  
+Insufficient Exchange Badges
 
 [MAT_CORNUCOPIA_TICKET]
-Lucky Coin  
+Lucky Coin
 
 [MAT_CORNUCOPIA_EMBLEM]
-Exchange Badge  
+Exchange Badge
 
 [MAT_CORNUCOPIA_TICKET_USE]
-Used for Cornucopia Draws  
+Used for Cornucopia Draws
 
 [MAT_CORNUCOPIA_TICKET_GOT_WAY]
-Obtained from Special Bundles and Cornucopia Bubbles  
+Obtained from Special Bundles and Cornucopia Bubbles
 
 [MAT_CORNUCOPIA_EMBLEM_USE]
-Used to Redeem Rewards in the Exchange Store  
+Used to Redeem Rewards in the Exchange Store
 
 [MAT_CORNUCOPIA_EMBLEM_GOT_WAY]
-Obtained from Cornucopia Draws  
+Obtained from Cornucopia Draws
 
 [CORNUCOPIA_BONUS_DETAIL_PLANT]
 Plant
@@ -68468,7 +68447,7 @@ When planting, there is a probability of directly releasing plants food!
 [SUNSHROOM_PLANTFOOD_DESCRIPTION]
 When given Plant Food, Sun-shroom grows to full size (if he hasn't already) and produces 225 sun
 
-[SUNSHROOM_SKILL1_LEVEL5_DES]  
+[SUNSHROOM_SKILL1_LEVEL5_DES]
 Spreads sun spores around, increasing the attack of plants within a 3x3 area by 50%, and mushroom attack power by 100%.
 
 [SUNSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
@@ -68628,7 +68607,7 @@ Generate a lotus leaf on each of your own up, down, left and right.
 Generate a lotus leaf in a ^ff0000^3x3 area centered on itself^oldclr^.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the bowling bubble, the bowling bubble fires three bowling balls out in turn. Bowling bounces at a declination of 45� after hitting a zombie, and deflects 90� each time thereafter. The bowling bubble itself restores a bowling ball every ~4 seconds. Bowling bubbles prioritize firing and restoring bowling balls with minimal attack power
+When a zombie appears on the right side of the bowling bubble, the bowling bubble fires three bowling balls out in turn. Bowling bounces at a declination of 45? after hitting a zombie, and deflects 90? each time thereafter. The bowling bubble itself restores a bowling ball every ~4 seconds. Bowling bubbles prioritize firing and restoring bowling balls with minimal attack power
 
 [BOWLINGBULB_NEW_SKILL_LEVEL2_DES]
 There is a 25% probability of recovering two bowls at a time each time the bowling is resumed.
@@ -69386,7 +69365,7 @@ The golden cudgel became larger and was smashed 4 squares to the right, causing 
 The golden cudgel became larger, and ^ff0000^ hit the 5-square ^oldclr^ on the right, causing damage to all zombies and causing the zombies to fall to the ground^ff0000^ unable to move for 12 seconds. One additional ground smash, causing 2 injuries to zombies that have not been smashed to the ground. ^oldclr^
 
 [WINTERSWEET_NEW_SKILL_LEVEL1_DES]
-When a zombie appears to Mei Xiaomei's right, Mei Xiaomei throws a plum blossom at the zombie. The plum blossom scatters five petals after touching the zombie, one of which flies out to the right, and the remaining four petals fly out at an oblique angle of 72� or 144� to it
+When a zombie appears to Mei Xiaomei's right, Mei Xiaomei throws a plum blossom at the zombie. The plum blossom scatters five petals after touching the zombie, one of which flies out to the right, and the remaining four petals fly out at an oblique angle of 72? or 144? to it
 
 [WINTERSWEET_NEW_SKILL_LEVEL2_DES]
 Mei Xiaomei has a 20% chance of launching another plum blossom when attacking.
@@ -71183,11 +71162,11 @@ Participate in the survey, answer questions, and receive diamonds and voucher.
 [ACTIVITY_NEW_PLAYER_SURVEY_REWARD_TITLE]
 Possible rewards
 
-[ACTIVITY_NEW_PIGGY_BANK_DESC]  
-Purchase the Little Snake Piggy Bank to enjoy ^ff0000^9.9^oldclr^x diamond rebate, with a maximum return of ^ff0000^2970^oldclr^ diamonds.  
+[ACTIVITY_NEW_PIGGY_BANK_DESC]
+Purchase the Little Snake Piggy Bank to enjoy ^ff0000^9.9^oldclr^x diamond rebate, with a maximum return of ^ff0000^2970^oldclr^ diamonds.
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
-Purchase for 30 �
+Purchase for 30 ?
 
 [ACTIVITY_NEW_PIGGY_BANK_TITLE]
 Sign-in seven days
@@ -71392,10 +71371,10 @@ Dave Kitchen Events
 
 
 [DAVEKITCHEN_SHORT_DESCRIPTION]
-Help Dave make delicious corn rolls with the probability of getting diamonds, artifact blessing coupons, advanced books and other thanks.
+Help Dave make delicious Tacos with the probability of getting diamonds, artifact voucher, books and other reward.
 
-[PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]  
-Exchange the obtained firecrackers for rewards from Dave, with various plant piece!  
+[PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]
+Exchange the obtained firecrackers for rewards from Dave, with various plant piece!
 
 [PARTY_ASSIST_TITLE]
 Party Help
@@ -72168,33 +72147,33 @@ Obtained through the Lucky Treasure event or weekly special offer package purcha
 New Year Sign-In
 
 [NFS_LINKAGE_TAB2]
-�bao Tasks
+?bao Tasks
 
 [NFS_LINKAGE_TAB3]
 Exchange Shop
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-�bao Battle Description
+?bao Battle Description
 
 [NFSLINKAGE_DESCRIPTION]
 Event Rules:
 1. Players can log in daily during the event period to receive valuable rewards. The sign-in rewards last for 14 days.
-2. �bao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
+2. ?bao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
 3. Event tasks have multiple stages. Only after completing one stage will the next stage be unlocked.
-4. Completing �bao tasks will reward �bao, which can be used to exchange items in the exchange shop.
-5. �bao can be exchanged in the shop only during the event period, so be sure to exchange in time!
+4. Completing ?bao tasks will reward ?bao, which can be used to exchange items in the exchange shop.
+5. ?bao can be exchanged in the shop only during the event period, so be sure to exchange in time!
 
 [MAT_NFSLINKAGE_INTEGRAL]
-�bao
+?bao
 
 [NFSLINKAGE_TITLE]
-�bao Battle
+?bao Battle
 
 [MAT_NFSLINKAGE_TICKET]
-�bao
+?bao
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to receive 14 days of rewards. Complete tasks to earn �bao and exchange them for rewards in the shop!
+During the event, players can log in to receive 14 days of rewards. Complete tasks to earn ?bao and exchange them for rewards in the shop!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -72784,10 +72763,10 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION]
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
-[NIGHTTHETOY_TIP]  
+[NIGHTTHETOY_TIP]
 Black Hole Shop
 
-[NIGHTTHETOY_SHOP]  
+[NIGHTTHETOY_SHOP]
 Black Hole Shop
 
 [NIGHTTHETOY_TASK]
@@ -72808,26 +72787,26 @@ Guaranteed Grand Prize after {NUMS} more draws
 [NIGHT_THE_TOY_REWARD_PLAYER_DESC]
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
-[PRODUCT_NIGHTTHETOY_SHORTDESC]  
+[PRODUCT_NIGHTTHETOY_SHORTDESC]
 Black Hole event
 
-[TOYNIGHT_TITLE]  
+[TOYNIGHT_TITLE]
 Black Hole event
 
-[PRODUCT_TOY_NIGHT_6_SHORTDESC]  
-Beginner Star Coin Pack  
+[PRODUCT_TOY_NIGHT_6_SHORTDESC]
+Beginner Star Coin Pack
 
-[PRODUCT_TOY_NIGHT_30_SHORTDESC]  
-Intermediate Star Coin Pack  
+[PRODUCT_TOY_NIGHT_30_SHORTDESC]
+Intermediate Star Coin Pack
 
-[PRODUCT_TOY_NIGHT_98_SHORTDESC]  
-Advanced Star Coin Pack  
+[PRODUCT_TOY_NIGHT_98_SHORTDESC]
+Advanced Star Coin Pack
 
-[PRODUCT_TOY_NIGHT_45_SHORTDESC]  
-Beginner Limited Purchase Pack  
+[PRODUCT_TOY_NIGHT_45_SHORTDESC]
+Beginner Limited Purchase Pack
 
-[PRODUCT_TOY_NIGHT_198_SHORTDESC]  
-Advanced Limited Purchase Pack  
+[PRODUCT_TOY_NIGHT_198_SHORTDESC]
+Advanced Limited Purchase Pack
 
 [TOYNIGHT_TASK_1]
 First time entering the event
@@ -72835,29 +72814,29 @@ First time entering the event
 [TOYNIGHT_TASK_2]
 Obtain the Super Costume of Turnip
 
-[TOYNIGHT_TASK_3]  
+[TOYNIGHT_TASK_3]
 Obtain all outfits
 
-[MAT_TOY_PARTS]  
-Small Black Hole  
+[MAT_TOY_PARTS]
+Small Black Hole
 
-[MAT_TOY_PARTS_USE]  
-Redeem rewards in the Black Hole Fantasy Journey event's Black Hole Shop  
+[MAT_TOY_PARTS_USE]
+Redeem rewards in the Black Hole Fantasy Journey event's Black Hole Shop
 
-[MAT_TOY_PARTS_GOT_WAY]  
-Obtained through draws in the Black Hole Fantasy Journey event  
+[MAT_TOY_PARTS_GOT_WAY]
+Obtained through draws in the Black Hole Fantasy Journey event
 
-[MAT_TOY_CLOCKWORK]  
-Star Coin  
+[MAT_TOY_CLOCKWORK]
+Star Coin
 
-[MAT_TOY_CLOCKWORK_USE]  
-Item used for draws in the Black Hole Fantasy Journey event  
+[MAT_TOY_CLOCKWORK_USE]
+Item used for draws in the Black Hole Fantasy Journey event
 
-[MAT_TOY_CLOCKWORK_GOT_WAY]  
-Purchased in the Black Hole Fantasy Journey event's Gift Shop  
+[MAT_TOY_CLOCKWORK_GOT_WAY]
+Purchased in the Black Hole Fantasy Journey event's Gift Shop
 
-[TOY_NIGHT_EXPIRED]  
-Expired rewards for the Black Hole Fantasy Journey  
+[TOY_NIGHT_EXPIRED]
+Expired rewards for the Black Hole Fantasy Journey
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Event Rules:
@@ -72991,11 +72970,11 @@ Event Rules:
     6. Players with abnormal scores will have their scores excluded from the leaderboard.
 
 
-[GINGLEBELL_RANK]  
-Your Rank: {NUMBER}  
+[GINGLEBELL_RANK]
+Your Rank: {NUMBER}
 
-[GINGLEBELL_PARTIC_NUM]  
-Total Participants: {NUMBER}  
+[GINGLEBELL_PARTIC_NUM]
+Total Participants: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
 Jingle Bells Leaderboard Rewards
@@ -73549,19 +73528,19 @@ New Year Instructions:
 During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
 
 Daily free Welcome Gift: Diamonds*15
-2 � Gift: Diamonds 30, 10% chance to get a normal costume
-3 � Gift: Diamonds 90, 10% chance to get a rare costume
-6 � Gift: Diamonds 180, 10% chance to get a Advanced costume
+2 ? Gift: Diamonds 30, 10% chance to get a normal costume
+3 ? Gift: Diamonds 90, 10% chance to get a rare costume
+6 ? Gift: Diamonds 180, 10% chance to get a Advanced costume
 
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
-2 � Gift Box
+2 ? Gift Box
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
-�3 Value Gift Box
+?3 Value Gift Box
 
 [PRODUCT_NEW_YEAR_PACK_6_SHORTDESC]
-�6 Value Gift Box
+?6 Value Gift Box
 
 [MAT_NEW_YEAR_CHESTS_SMALL]
 Basic New Year Box
@@ -73593,7 +73572,7 @@ Obtained by purchasing value gift boxes in the New Year Pack with a probability.
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. The event red note at fixed times daily: 12:00-14:00 and 18:00-21:00 (UTC+8). You can claim one red packet between the hour, with a max of 2 red packets per day.
 2. From January 27th to February 9th, a lucky player will be selected from all servers (one iOS and one Android) at 21:00 daily, to win a amazing reward.
-3. On special dates (New Year's Eve, New Year's Day, Fifth Day), an additional prize lottery is available once per day. From 00:00 to 21:59 on New Year's Eve, New Year's Day, and Fifth Day, you can use lottery tickets to sign up for the prize draw on the event page.
+3. On special dates (New Year's Eve, New Year's Day, Fifth Day), an additional prize lottery is available once per day. From 00:00 to 21:59 on New Year's Eve, New Year's Day, and Fifth Day, you can use lottery tickets to sign up for the prize x1 the event page.
 4. Each time a player consumes a lottery ticket, their information is recorded. The prizes will be drawn from all registered participants at 22:00 on New Year's Eve, New Year's Day, and Fifth Day.
 5. If the daily lucky prize is not claimed before the next day's drawing, it will be considered forfeited.
 6. The physical prize is a ^CDBE70 5g *Plants vs. Zombies 2* custom gold banknote ^oldclr. The reward will be based on the actual physical item.
