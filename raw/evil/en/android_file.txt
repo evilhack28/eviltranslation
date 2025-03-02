@@ -1,4 +1,4 @@
-This translation, as being created by evilhack28 this version is based on the 3.6.0
+This translation, as being created by evilhack28 this version is based on the 3.6.3
 You can't change the file without saying it was based on my translation first 
 
 Discord: https://discord.com/invite/ngTHrgMVuw
@@ -20,7 +20,7 @@ Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from  January 27 (beta) V1.6.1
+translate by evilhack28 version from march 3 (beta) V1.6.2
 
 [AGE_TIP]
 Change Log by randomgirl3196
@@ -43,6 +43,10 @@ fixed batlle pass text
 fixed weekly gacha textfixed plants adventure text
 fixed travel log text
 fixed artifact text + piece machine + backpack +nfs text
+
+--1.6.2--
+
+fixed all pedant enjoy !
 
 [SPRING_TIPS_1]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
@@ -67,6 +71,1233 @@ want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
 
 [SPRING_TIPS_8]
 want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
+
+
+
+
+[NORMAL_REGENERATION]
+Damaged medical box
+
+[NORMAL_REGENERATION_DES]
+Expired pills must not be taken, not only can they not treat you, they are also damaging!
+
+[NORMAL_REGENERATION_BOOST_DES]
+Effect: Heals a tiny amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
+
+[MAGIC_REGENERATION]
+Basic medical box 
+
+[MAGIC_REGENERATION_DES]
+Plants can feel the great pain when they are hurt, they must be treated as soon as possible to not have any sequelae.
+
+[MAGIC_REGENERATION_BOOST_DES]
+Effect: Heals a small amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
+
+[EPIC_REGENERATION]
+Advanced medical box
+
+[EPIC_REGENERATION_DES]
+Wall-nut, Tall-nut and Infi-nut often fight over this box instead of sharing it.
+
+[EPIC_REGENERATION_BOOST_DES]
+Effect: Heals an average amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
+
+[UNIQUE_REGENERATION]
+Universal medical box
+
+[UNIQUE_REGENERATION_DES]
+Wounds on the surface can be treated easily, but those deep in the heart can only be left to time.
+
+[UNIQUE_REGENERATION_BOOST_DES]
+Effect: Heals a great amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
+
+[NORMAL_DRUM]
+Damaged bucket
+
+[NORMAL_DRUM_DES]
+Dave found this bucket when cleaning the lawn, seems to be leaking water......
+
+[NORMAL_DRUM_BOOST_DES]
+Effect: Increases plant's defense by 5%. ^FF0000 Does not work on instant-use plants.
+
+[MAGIC_DRUM]
+Basic bucket
+
+[MAGIC_DRUM_DES]
+Magnet-shroom collected them with hard work, now they will have great uses!
+
+[MAGIC_DRUM_BOOST_DES]
+Effect: Increases plant's defense by 10%. ^FF0000 Does not work on instant-use plants.
+
+[EPIC_DRUM]
+Refined bucket
+
+[EPIC_DRUM_DES]
+Magnet-shroom collected the iron buckets and modified them, making the surface smoother and tougher!
+
+[EPIC_DRUM_BOOST_DES]
+Effect: Increases plant's defense by 15%. ^FF0000 Does not work on instant-use plants.
+
+[UNIQUE_DRUM]
+Spacetime Bucket
+
+[UNIQUE_DRUM_DES]
+Not even zombies have such a bucket, it is said that wearing it allows you to travel through spacetime.
+
+[UNIQUE_DRUM_BOOST_DES]
+Effect: Increases plant's defense by 20%. ^FF0000 Does not work on instant-use plants.
+
+[NORMAL_FERTILIZER]
+Expired fertilizers
+
+[NORMAL_FERTILIZER_DES]
+The nutrients in the fertilizer has mostly been lost, you can still squeeze out a tiny bit if you try.
+
+[NORMAL_FERTILIZER_BOOST_DES]
+Effect: Increases plant's damage by 5%.
+
+[MAGIC_FERTILIZER]
+Basic fertilizer
+
+[MAGIC_FERTILIZER_DES]
+Plants can only grow strong if they are regularly fertilized, but the smell is just...... unbearable!
+
+[MAGIC_FERTILIZER_BOOST_DES]
+Effect: Increases plant's damage by 10%.
+
+[EPIC_FERTILIZER]
+Advanced Fertilizer
+
+[EPIC_FERTILIZER_DES]
+From this smell, it has to be the true all-natural non-toxic organic fertilizer!
+
+[EPIC_FERTILIZER_BOOST_DES]
+Effect: Increases plant's damage by 15%.
+
+[UNIQUE_FERTILIZER]
+Rare Fertilizer
+
+[UNIQUE_FERTILIZER_DES]
+One bag is the equivalent of five, my back legs no longer hurt, I can beat up five zombies at once!
+
+[UNIQUE_FERTILIZER_BOOST_DES]
+Effect: Increases plant's damage by 20%. ^FF0000 For attack plants only
+
+[MAGIC_TORCH]
+Basic torch
+
+[MAGIC_TORCH_DES]
+The plants hate the zombies' torches, so they made one themselves, but it has a different effect.
+
+[MAGIC_TORCH_BOOST_DES]
+Effect: Increases plant's fire damage by 12%.
+
+[EPIC_TORCH]
+Refined torch
+
+[EPIC_TORCH_DES]
+You are like the fire in winter, the heating flames warmed my heart
+
+[EPIC_TORCH_BOOST_DES]
+Effect: Increases plant's fire damage by 18%.
+
+[UNIQUE_TORCH]
+Burning Torch
+
+[UNIQUE_TORCH_DES]
+Squeeze dry the barks and rip them into long stripes, tie them up with a rattan cane, that's how you make a torch!
+
+[UNIQUE_TORCH_BOOST_DES]
+Effect: Increases plant's fire damage by 24%
+
+[MAGIC_SNOWFLAKE]
+Basic Snowflake
+
+[MAGIC_SNOWFLAKE_DES]
+reserving a snowflake is not an easy task, this is only a replica......
+
+[MAGIC_SNOWFLAKE_BOOST_DES]
+Effect: Increases plant's ice damage by 12%.
+
+[EPIC_SNOWFLAKE]
+Refined Snowflake
+
+[EPIC_SNOWFLAKE_DES]
+A pure silver pendant, Dave's mother's mother's mother gave it to him.
+
+[EPIC_SNOWFLAKE_BOOST_DES]
+Effect: Increases plant's ice damage by 18%.
+
+[UNIQUE_SNOWFLAKE]
+Sparkling Snowflake
+
+[UNIQUE_SNOWFLAKE_DES]
+This is a real snowflake, see that sparkle? There is a spirit in every snowflake.
+
+[UNIQUE_SNOWFLAKE_BOOST_DES]
+Effect: Increases plant's ice damage by 24%.
+
+[MAGIC_POLE]
+Basic Pole
+
+[MAGIC_POLE_DES]
+Every power pole has its own code, which can be used to locate them.
+
+[MAGIC_POLE_BOOST_DES]
+Effect: Increases plant's lightning damage by 12%.
+
+[EPIC_POLE]
+Sturdy Pole
+
+[EPIC_POLE_DES]
+There is always a line of sparrows on the pole, squeaking and tweeting the latest gossips.
+
+[EPIC_POLE_BOOST_DES]
+Effect: Increases plant's lightning damage by 18%.
+
+[UNIQUE_POLE]
+Gargantuar's Pole
+
+[UNIQUE_POLE_DES]
+The earliest power poles were wooden, only some time later where they constructed with reinforced concrete.
+
+[UNIQUE_POLE_BOOST_DES]
+Effect: Increases plant's lightning damage by 24%.
+
+[EPIC_EXPLODE]
+Advanced Powder keg
+
+[EPIC_EXPLODE_DES]
+Snapdragon has always wanted to have a peek into the powder keg, but other plants never let him get close to it.
+
+[EPIC_EXPLODE_BOOST_DES]
+Effect: Increases plant's explosive damage by 18%.
+
+[UNIQUE_EXPLODE]
+Super Powder keg
+
+[UNIQUE_EXPLODE_DES]
+It says "No Fire", but there's no time to listen to that when zombies are attacking!
+
+[UNIQUE_EXPLODE_BOOST_DES]
+Effect: Increases plant's explosive damage by 24%.
+
+[EPIC_CLOCK]
+Delicate Alarm Clock
+
+[EPIC_CLOCK_DES]
+Early birds catch the worms, so worms are waking up late.
+
+[EPIC_CLOCK_BOOST_DES]
+Effect: Decreases plant's recharge time by 10%. ^FFFF00 not seed packet (i.e. Spring Bean's sleeping time)
+
+[UNIQUE_CLOCK]
+Dave's Alarm Clock
+
+[UNIQUE_CLOCK_DES]
+Dave thinks traditional alarm clocks are more reliable, that's why he's still keeping this out-of-battery alarm clock.
+
+[UNIQUE_CLOCK_BOOST_DES]
+Effect: Decreases plant's recharge time by 20%. ^FFFF00 not seed packet (i.e. Spring Bean's sleeping time)
+
+[EPIC_COST]
+Energy-Saving Pot
+
+[EPIC_COST_DES]
+Both kids and plants need to stay under the sun more to grow healthily.
+
+[EPIC_COST_BOOST_DES]
+Effect: Decreases plant's sun cost by 10.
+
+[UNIQUE_COST]
+Solar Power Flower Pot
+
+[UNIQUE_COST_DES]
+A solar powered heater, um, I mean flower pot, having mystical powers.
+
+[UNIQUE_COST_BOOST_DES]
+Effect: Reduces sun cost by 25 and gives slightly more defense.^FF0000 Level 4 plants with sun cost higher than 100 only.
+
+[UNIQUE_DUCK]
+Yellow Ducky Tube
+
+[UNIQUE_DUCK_DES]
+It's safer to have a swimming tube when swimming by the sea, but Tangle Kelp can't fathom why.
+
+[UNIQUE_DUCK_BOOST_DES]
+Effect: Non-aquatic plants can be planted on water and have slightly more defense.^FF0000 Non-aquatic Level 4 plants only.
+
+[UNIQUE_SUNMONEY]
+Sun-Concentrating Flower Pot
+
+[UNIQUE_SUNMONEY_DES]
+This flower pot can save a lot of sun in case it's needed.
+
+[UNIQUE_SUNMONEY_BOOST_DES]
+Effect: Produces 25 more sun and gives slightly more defense. ^FF0000 Level 4 plants only
+
+[UNIQUE_ACCELERATE]
+Speed-Up Flower Pot
+
+[UNIQUE_ACCELERATE_DES]
+There is a sign on the side. "Less work, more gain."
+
+[UNIQUE_ACCELERATE_BOOST_DES]
+Effect: Reduces plant's recharge time by 30% and gives them slightly more defense. ^FF0000 Level 4 plants only.
+
+[SUPER_CLOCK]
+Purple Gloves
+
+[SUPER_CLOCK_DES]
+Dave's new gloves, the fashion aura on them makes his dance even more charming!
+
+[SUPER_CLOCK_BOOST_DES]
+Effect 1: Increase attack power by 12%
+Effect 2: Attack speed increased by 5%
+Effect 3: Locked
+
+[SUPER_CLOCK_BOOST_DES_1]
+Effect 1: Increase attack power by 15%
+Effect 2: Attack speed increased by 7%
+Effect 3: Locked
+
+[SUPER_CLOCK_BOOST_DES_2]
+Effect 1: Increase attack power by 18%
+Effect 2: Attack speed increased by 9%
+Effect 3: Locked
+
+[SUPER_CLOCK_BOOST_DES_3]
+Effect 1: Increase attack power by 20%
+Effect 2: Attack speed increased by 12%
+Effect 3: Killing zombies have a 10% chance of generating plant food
+
+[SUPER_CLOCK_BOOST_DES_4]
+Effect 1: Increase attack power by 25%
+Effect 2: Attack speed increased by 15%
+Effect 3: Killing zombies have a 15% chance of generating plant food
+
+[SUPER_CLOCK_BOOST_DES_5]
+Effect 1: Increase attack power by 30%
+Effect 2: Attack speed increased by 20%
+Effect 3: Killing zombies have a 18% chance of generating plant food
+
+[SUPER_CLOCK_1]
+Red Candle
+
+[SUPER_CLOCK_1_DES]
+Light up this candle and celebrate the victory of plants!
+
+[SUPER_CLOCK_1_BOOST_DES]
+Effect 1: Fire damage increased by 10%
+Effect 2: Reduce planting cooling time by 15%
+Effect 3: Locked
+
+[SUPER_CLOCK_1_BOOST_DES_1]
+Effect 1: Fire damage increased by 12%
+Effect 2: Reduce planting cooling time by 18%
+Effect 3: Locked
+
+[SUPER_CLOCK_1_BOOST_DES_2]
+Effect 1: Fire damage increased by 16%
+Effect 2: Reduce planting cooling time by 20%
+Effect 3: Locked
+
+[SUPER_CLOCK_1_BOOST_DES_3]
+Effect 1: Fire damage increased by 20%
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: Killing zombies have a 15% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_1_BOOST_DES_4]
+Effect 1: Fire damage increased by 24%
+Effect 2: Reduce planting cooling time by 30%
+Effect 3: Killing zombies have a 18% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_1_BOOST_DES_5]
+Effect 1: Fire damage increased by 27%
+Effect 2: Reduce planting cooling time by 35%
+Effect 3: Killing zombies have a 22% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_2]
+White Candle
+
+[SUPER_CLOCK_2_DES]
+Prepared long ago, used to mourn defeated Zomboss.
+
+[SUPER_CLOCK_2_BOOST_DES]
+Effect 1: Fire damage increased by 8%
+Effect 2: Reduce planting cooling time by 15%
+Effect 3: Locked
+
+[SUPER_CLOCK_2_BOOST_DES_1]
+Effect 1: Fire damage increased by 10%
+Effect 2: Reduce planting cooling time by 18%
+Effect 3: Locked
+
+[SUPER_CLOCK_2_BOOST_DES_2]
+Effect 1: Fire damage increased by 12%
+Effect 2: Reduce planting cooling time by 20%
+Effect 3: Locked
+
+[SUPER_CLOCK_2_BOOST_DES_3]
+Effect 1: Fire damage increased by 16%
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: Reduce sun consumption by 25 points
+
+[SUPER_CLOCK_2_BOOST_DES_4]
+Effect 1: Fire damage increased by 20%
+Effect 2: Reduce planting cooling time by 30%
+Effect 3: Reduce sun consumption by 30 points
+
+[SUPER_CLOCK_2_BOOST_DES_5]
+Effect 1: Fire damage increased by 22%
+Effect 2: Reduce planting cooling time by 35%
+Effect 3: Reduce sun consumption by 35 points
+
+[SUPER_CLOCK_3]
+Sun Pot
+
+[SUPER_CLOCK_3_DES]
+As it has concentrated the power of sunlight, the pot looks golden and shiny.
+
+[SUPER_CLOCK_3_BOOST_DES]
+Effect 1: Restore 90 points of health every 3 seconds
+Effect 2: Stun the zombies when the plant is bitten (trigger interval 12 seconds)
+Effect 3: Locked
+
+[SUPER_CLOCK_3_BOOST_DES_1]
+Effect 1: Restore 140 points of health every 3 seconds
+Effect 2: Stun the zombies when the plant is bitten (trigger interval 11 seconds)
+Effect 3: Locked
+
+[SUPER_CLOCK_3_BOOST_DES_2]
+Effect 1: Restore 180 points of health every 3 seconds
+Effect 2: Stun the zombies when the plant is bitten (trigger interval 10 seconds)
+Effect 3: Locked
+
+[SUPER_CLOCK_3_BOOST_DES_3]
+Effect 1: Restore 200 points of health every 3 seconds
+Effect 2: Stun the zombies when the plant is bitten (trigger interval 8 seconds)
+Effect 3: Increase health by 15%
+
+[SUPER_CLOCK_3_BOOST_DES_4]
+Effect 1: Restore 220 points of health every 3 seconds
+Effect 2: Stun the zombies when the plant is bitten (trigger interval 6 seconds)
+Effect 3: Increase health by 20%
+
+[SUPER_CLOCK_3_BOOST_DES_5]
+Effect 1: Restore 240 points of health every 3 seconds
+Effect 2: Stun the zombies when the plant is bitten (trigger interval 4 seconds)
+Effect 3: Increase health by 25%
+
+[SUPER_CLOCK_4]
+Moon Pot
+
+[SUPER_CLOCK_4_DES]
+Though the moonlight is soft, it still provides a powerful support to plants.
+
+[SUPER_CLOCK_4_BOOST_DES]
+Effect 1: Restore 90 points of health every 3 seconds
+Effect 2: Reduce planting cooling time by 12%
+Effect 3: Locked
+
+[SUPER_CLOCK_4_BOOST_DES_1]
+Effect 1: Restore 130 point of health every 3 seconds
+Effect 2: Reduce planting cooling time by 15%
+Effect 3: Locked
+
+[SUPER_CLOCK_4_BOOST_DES_2]
+Effect 1: Restore 150 points of health every 3 seconds
+Effect 2: Reduce planting cooling time by 18%
+Effect 3: Locked
+
+[SUPER_CLOCK_4_BOOST_DES_3]
+Effect 1: Restore 180 points of health every 3 seconds
+Effect 2: Reduce planting cooling time by 20%
+Effect 3: Increase life by 15%
+
+[SUPER_CLOCK_4_BOOST_DES_4]
+Effect 1: Restore 200 points of health every 3 seconds
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: Increase life by 20%
+
+[SUPER_CLOCK_4_BOOST_DES_5]
+Effect 1: Restore 220 points of health every 3 seconds
+Effect 2: Reduce planting cooling time by 30%
+Effect 3: Increase life by 25%
+
+[SUPER_CLOCK_5]
+Princess Ice Crown
+
+[SUPER_CLOCK_5_DES]
+Delicately crafted by Snow Pea, hoping to give it to the most beautiful princess.
+
+[SUPER_CLOCK_5_BOOST_DES]
+Effect 1: Freeze damage increased by 10%
+Effect 2: Killing zombies have a 5% chance of generating sun (up to 500)
+Effect 3: Locked
+
+[SUPER_CLOCK_5_BOOST_DES_1]
+Effect 1: Freeze damage increased by 12%
+Effect 2: Killing zombies have a 7% chance of generating sun (up to 500)
+Effect 3: Locked
+
+[SUPER_CLOCK_5_BOOST_DES_2]
+Effect 1: Freeze damage increased by 15%
+Effect 2: Killing zombies have a 9% chance of generating sun (up to 500)
+Effect 3: Locked
+
+[SUPER_CLOCK_5_BOOST_DES_3]
+Effect 1: Freeze damage increased by 18%
+Effect 2: Killing zombies have a 12% chance of generating sun (up to 500)
+Effect 3: Reduce sun consumption by 20 points
+
+[SUPER_CLOCK_5_BOOST_DES_4]
+Effect # 1. Freeze damage increased by 20%
+Effect 2: Killing zombies have a 15% chance of generating sun (up to 500)
+Effect 3: Reduce sun consumption by 25 points
+
+[SUPER_CLOCK_5_BOOST_DES_5]
+Effect 1: Freeze damage increased by 22%
+Effect 2: Killing zombies have a 18% chance of generating sun (up to 500)
+Effect 3: Reduce sun consumption by 30 points
+
+[SUPER_CLOCK_6]
+Queen Ice Crown
+
+[SUPER_CLOCK_6_DES]
+Wearing it, even if you are staying in a desert during summer, you will feel cool.
+
+[SUPER_CLOCK_6_BOOST_DES]
+Effect 1: Freeze damage increased by 10%
+Effect 2: Killing zombies have a 5% chance of generating sun (up to 500)
+Effect 3: Locked
+
+[SUPER_CLOCK_6_BOOST_DES_1]
+Effect 1: Freeze damage increased by 12%
+Effect 2: Killing zombies have a 8% chance of generating sun (up to 500)
+Effect 3: Locked
+
+[SUPER_CLOCK_6_BOOST_DES_2]
+Effect # 1. Freeze damage increased by 16%
+Effect 2: Killing zombies have a 12% chance of generating sun (up to 500)
+Effect 3: Locked
+
+[SUPER_CLOCK_6_BOOST_DES_3]
+Effect # 1. Freeze damage increased by 20%
+Effect 2: Killing zombies have a 15% chance of generating sun (up to 500)
+Effect 3: Reduce sun consumption by 25 points
+
+[SUPER_CLOCK_6_BOOST_DES_4]
+Effect 1: Freeze damage increased by 24%
+Effect 2: Killing zombies have a 18% chance of generating sun (up to 500)
+Effect 3: Reduce sun consumption by 30 points
+
+[SUPER_CLOCK_6_BOOST_DES_5]
+Effect 1: Freeze damage increased by 27%
+Effect 2: Killing zombies have a 22% chance of generating sun (up to 500)
+Effect 3: Reduce sun consumption by 35 points
+
+[SUPER_CLOCK_7]
+Cowboy Gloves
+
+[SUPER_CLOCK_7_DES]
+The western culture is so charming that Dave has worn his cowboy gloves, ready to eat his taco with the gloves on.
+
+[SUPER_CLOCK_7_BOOST_DES]
+Effect 1: Increase attack power by 10%
+Effect 2: Produce coins by defeating a zombie by 3% (up to 100 per attack)
+Effect 3: Locked
+
+[SUPER_CLOCK_7_BOOST_DES_1]
+Effect 1: Increase attack power by 12%
+Effect 2: Produce coins by defeating a zombie by 5% (up to 100 per attack)
+Effect 3: Locked
+
+[SUPER_CLOCK_7_BOOST_DES_2]
+Effect 1: Increase attack power by 15%
+Effect 2: Produce coins by defeating a zombie by 7% (up to 100 per attack)
+Effect 3: Locked
+
+[SUPER_CLOCK_7_BOOST_DES_3]
+Effect 1: Increase attack power by 18%
+Effect 2: Produce coins by defeating a zombie by 9% (up to 100 per attack)
+Effect 3: Reduces rest time by 15%
+
+[SUPER_CLOCK_7_BOOST_DES_4]
+Effect 1: Increase attack power by 21%
+Effect 2: Produce coins by defeating a zombie by 11% (up to 100 per attack)
+Effect 3: Reduces rest time by 18%
+
+[SUPER_CLOCK_7_BOOST_DES_5]
+Effect 1: Increase attack power by 24%
+Effect 2: Produce coins by defeating a zombie by 15% (up to 100 per attack)
+Effect 3: Reduces rest time by 25%
+
+[SUPER_CLOCK_8]
+Energy-Concentrating Battery
+
+[SUPER_CLOCK_8_DES]
+Strong and efficient battery, provides abundant electricity. Must-have item for defeating zombies and travelling outdoors.
+
+[SUPER_CLOCK_8_BOOST_DES]
+Effect 1: Lightning damage increased by 10%
+Effect 2: Reduce planting cooling time by 15%
+Effect 3: Locked
+
+[SUPER_CLOCK_8_BOOST_DES_1]
+Effect 1: Lightning damage increased by 12%
+Effect 2: Reduce planting cooling time by 18%
+Effect 3: Locked
+
+[SUPER_CLOCK_8_BOOST_DES_2]
+Effect 1: Lightning damage increased by 16%
+Effect 2: Reduce planting cooling time by 20%
+Effect 3: Locked
+
+[SUPER_CLOCK_8_BOOST_DES_3]
+Effect 1: Lightning damage increased by 20%
+Effect 2: Killing zombies has a 25% probability of producing coins (100 coins each time)
+Effect 3: Rduce sun consumption by 25 points
+
+[SUPER_CLOCK_8_BOOST_DES_4]
+Effect 1: Lightning damage increased by 24%
+Effect 2: Killing zombies has a 30% probability of producing coins (100 coins each time)
+Effect 3: Rduce sun consumption by 30 points
+
+[SUPER_CLOCK_8_BOOST_DES_5]
+Effect 1: Lightning damage increased by 27%
+Effect 2: Killing zombies has a 35% probability of producing coins (100 coins each time)
+Effect 3: Rduce sun consumption by 35 points
+
+[SUPER_CLOCK_9]
+Energy-Saving Battery
+
+[SUPER_CLOCK_9_DES]
+Locks in electricity efficiently, using one is as if using two batteries. I heard that after taking Penny's fuel cells apart, you will find this inside.
+
+[SUPER_CLOCK_9_BOOST_DES]
+Effect 1: Lightning damage increased by 10%
+Effect 2: Killing zombies has a 3% probability of producing coins (100 coins each time)
+Effect 3: Locked
+[SUPER_CLOCK_9_BOOST_DES_1]
+Effect 1: Lightning damage increased by 12%
+Effect 2: Killing zombies has a 5% probability of producing coins (100 coins each time)
+Effect 3: Locked
+
+[SUPER_CLOCK_9_BOOST_DES_2]
+Effect 1: Lightning damage increased by 15%
+Effect 2: Killing zombies has a 7% probability of producing coins (100 coins each time)
+Effect 3: Locked
+
+[SUPER_CLOCK_9_BOOST_DES_3]
+Effect 1: Lightning damage increased by 18%
+Effect 2: Killing zombies has a 9% probability of producing coins (100 coins each time)
+Effect 3: Reduce sun consumption by 20 points
+
+[SUPER_CLOCK_9_BOOST_DES_4]
+Effect 1: Lightning damage increased by 20%
+Effect 2: Killing zombies has a 11% probability of producing coins (100 coins each time)
+Effect 3: Reduce sun consumption by 25 points
+
+[SUPER_CLOCK_9_BOOST_DES_5]
+Effect 1: Lightning damage increased by 22%
+Effect 2: Killing zombies has a 15% probability of producing coins (100 coins each time)
+Effect 3: Reduce sun consumption by 30 points
+
+[SUPER_CLOCK_10]
+Powerful Insecticide
+
+[SUPER_CLOCK_10_DES]
+Shadow-shroom recently often complains that his poison isn't that convenient to use, now we've got this "thing", Dave no longer needs to worry about Shadow-shroom.
+
+[SUPER_CLOCK_10_BOOST_DES]
+Effect 1: Poison damage increased by 10%
+Effect 2: Reduce planting cooling time by 15%
+Effect 3: Locked
+
+[SUPER_CLOCK_10_BOOST_DES_1]
+Effect 1: Poison damage increased by 12%
+Effect 2: Reduce planting cooling time by 18%
+Effect 3: Locked
+
+[SUPER_CLOCK_10_BOOST_DES_2]
+Effect 1: Poison damage increased by 16%
+Effect 2: Reduce planting cooling time by 20%
+Effect 3: Locked
+
+[SUPER_CLOCK_10_BOOST_DES_3]
+Effect 1: Poison damage increased by 20%
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: Killing zombies have a 15% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_10_BOOST_DES_4]
+Effect 1: Poison damage increased by 24%
+Effect 2: Reduce planting cooling time by 30%
+Effect 3: Killing zombies have a 18% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_10_BOOST_DES_5]
+Effect 1: Poison damage increased by 27%
+Effect 2: Reduce planting cooling time by 35%
+Effect 3: Killing zombies have a 22% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_11]
+Insecticide
+
+[SUPER_CLOCK_11_DES]
+Shadow-shroom recently often complains that his poison isn't that convenient to use, now we've got this "thing", Dave no longer needs to worry about Shadow-shroom.
+
+[SUPER_CLOCK_11_BOOST_DES]
+Effect 1: Poison damage increased by 10%
+Effect 2: Reduce planting cooling time by 15%
+Effect 3: Locked
+
+[SUPER_CLOCK_11_BOOST_DES_1]
+Effect 1: Poison damage increased by 12%
+Effect 2: Reduce planting cooling time by 18%
+Effect 3: Locked
+
+[SUPER_CLOCK_11_BOOST_DES_2]
+Effect 1: Poison damage increased by 16%
+Effect 2: Reduce planting cooling time by 20%
+Effect 3: Locked
+
+[SUPER_CLOCK_11_BOOST_DES_3]
+Effect 1: Poison damage increased by 20%
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: Killing zombies have a 15% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_11_BOOST_DES_4]
+Effect 1: Poison damage increased by 24%
+Effect 2: Reduce planting cooling time by 30%
+Effect 3: Killing zombies have a 18% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_11_BOOST_DES_5]
+Effect 1: Poison damage increased by 27%
+Effect 2: Reduce planting cooling time by 35%
+Effect 3: Killing zombies have a 22% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_12]
+Big Firecracker
+
+[SUPER_CLOCK_12_DES]
+Look at this big guy, such size is enough to blow up anything.
+
+[SUPER_CLOCK_12_BOOST_DES]
+Effect 1: Explosion damage increased by 10%
+Effect 2: Rest time reduced by 8%
+Effect 3: Locked
+
+[SUPER_CLOCK_12_BOOST_DES_1]
+Effect 1: Explosion damage increased by 12%
+Effect 2: Rest time reduced by 10%
+Effect 3: Locked
+
+[SUPER_CLOCK_12_BOOST_DES_2]
+Effect 1: Explosion damage increased by 16%
+Effect 2: Rest time reduced by 12%
+Effect 3: Locked
+
+[SUPER_CLOCK_12_BOOST_DES_3]
+Effect 1: Explosion damage increased by 20%
+Effect 2: Rest time reduced by 15%
+Effect 3: Killing zombies have a 15% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_12_BOOST_DES_4]
+Effect 1: Explosion damage increased by 24%
+Effect 2: Rest time reduced by 18%
+Effect 3: Killing zombies have a 18% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_12_BOOST_DES_5]
+Effect 1: Explosion damage increased by 27%
+Effect 2: Rest time reduced by 25%
+Effect 3: Killing zombies have a 22% chance of generating sun (up to 500)
+
+[SUPER_CLOCK_13]
+Firecracker
+
+[SUPER_CLOCK_13_DES]
+Small, simple and delicate firecracker that can be easily carried around. Don't judge it by its small size, proper usage will bring you miraculous effects.
+
+[SUPER_CLOCK_13_BOOST_DES]
+Effect 1: Explosion damage increased by 10%
+Effect 2: Rest time reduced by 8%
+Effect 3: Locked
+
+[SUPER_CLOCK_13_BOOST_DES_1]
+Effect 1: Explosion damage increased by 12%
+Effect 2: Rest time reduced by 10%
+Effect 3: Locked
+
+[SUPER_CLOCK_13_BOOST_DES_2]
+Effect 1: Explosion damage increased by 15%
+Effect 2: Rest time reduced by 12%
+Effect 3: Locked
+
+[SUPER_CLOCK_13_BOOST_DES_3]
+Effect 1: Explosion damage increased by 18%
+Effect 2: Rest time reduced by 15%
+Effect 3: Reduce sun consumption by 20 points
+
+[SUPER_CLOCK_13_BOOST_DES_4]
+Effect 1: Explosion damage increased by 20%
+Effect 2: Rest time reduced by 18%
+Effect 3: Reduce sun consumption by 25 points
+
+[SUPER_CLOCK_13_BOOST_DES_5]
+Effect 1: Explosion damage increased by 22%
+Effect 2: Rest time reduced by 20%
+Effect 3: Reduce sun consumption by 30 points
+
+[SUPER_CLOCK_14]
+Small Clock
+
+[SUPER_CLOCK_14_DES]
+A small clock, containing the same power which Penny uses to travel in spacetime.
+
+[SUPER_CLOCK_14_BOOST_DES]
+Effect 1: There is a 10% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 10%
+Effect 3: Locked
+
+[SUPER_CLOCK_14_BOOST_DES_1]
+ffect # 1: There is a 13% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 13%
+Effect 3: Locked
+
+[SUPER_CLOCK_14_BOOST_DES_2]
+Effect 1: There is a 16% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 16%
+Effect 3: Locked
+
+[SUPER_CLOCK_14_BOOST_DES_3]
+Effect 1: There is a 19% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 19%
+Effect 3: When planted, return 10% of consumed sun
+
+[SUPER_CLOCK_14_BOOST_DES_4]
+Effect 1: There is a 19% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 19%
+Effect 3: When planted, return 13% of consumed sun
+
+[SUPER_CLOCK_14_BOOST_DES_5]
+Effect 1: There is a 25% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: When planted, return 16% of consumed sun
+
+[SUPER_CLOCK_15]
+Speed-Up Clock
+
+[SUPER_CLOCK_15_DES]
+A small clock, parts are in fine condition, containing the same power which Penny uses to travel in spacetime.
+
+[SUPER_CLOCK_15_BOOST_DES]
+Effect 1: There is a 10% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 10%
+Effect 3: Locked
+
+[SUPER_CLOCK_15_BOOST_DES_1]
+Effect 1: There is a 16% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 16%
+Effect 3: Locked
+
+[SUPER_CLOCK_15_BOOST_DES_2]
+Effect 1: There is a 19% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 19%
+Effect 3: Locked
+
+[SUPER_CLOCK_15_BOOST_DES_3]
+Effect 1: There is a 25% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 25%
+Effect 3: When planted, return 10% of consumed sun
+
+[SUPER_CLOCK_15_BOOST_DES_4]
+Effect 1: There is a 31% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 31%
+Effect 3: When planted, return 15% of consumed sun
+
+[SUPER_CLOCK_15_BOOST_DES_5]
+Effect 1: There is a 37% probability of resetting the planting cooling time of plants
+Effect 2: Reduce planting cooling time by 37%
+Effect 3: When planted, return 20% of consumed sun
+
+[SUPER_CLOCK_16]
+Police Stun Gun
+
+[SUPER_CLOCK_16_DES]
+Weapons that contain powerful electricity are essential for the prevention of zombies but suits only professionals.
+
+[SUPER_CLOCK_16_BOOST_DES]
+Effect 1: Electric damage increased by 12%
+Effect 2: Attack speed increased by 5%
+Effect 3: Locked
+
+[SUPER_CLOCK_16_BOOST_DES_1]
+Effect 1: Electric damage increased by 15%
+Effect 2: Attack speed increased by 7%
+Effect 3: Locked
+
+[SUPER_CLOCK_16_BOOST_DES_2]
+Effect 1: Electric damage increased by 18%
+Effect 2: Attack speed increased by 9%
+Effect 3: Locked
+
+[SUPER_CLOCK_16_BOOST_DES_3]
+Effect 1: Electric damage increased by 20%
+Effect 2: Attack speed increased by 12%
+Effect 3: Planting cooldown time shortened by 10%
+
+[SUPER_CLOCK_16_BOOST_DES_4]
+Effect 1: Electric damage increased by 25%
+Effect 2: Attack speed increased by 15%
+Effect 3: Planting cooldown shortened by 20%
+
+[SUPER_CLOCK_16_BOOST_DES_5]
+ffect # 1: Electric damage increased by 30%
+Effect 2: Attack speed increased by 20%
+Effect 3: Planting cooldown shortened by 30%
+
+[SUPER_CLOCK_17]
+Stun Gun
+
+[SUPER_CLOCK_17_DES]
+Weapons that contain powerful electricity are essential for the prevention of zombies and suits everybody.
+
+[SUPER_CLOCK_17_BOOST_DES]
+Effect 1: Electric damage increased by 10%
+Effect 2: Attack speed increased by 4%
+Effect 3: Locked
+
+[SUPER_CLOCK_17_BOOST_DES_1]
+Effect 1: Electric damage increased by 12%
+Effect 2: Attack speed increased by 6%
+Effect 3: Locked
+
+[SUPER_CLOCK_17_BOOST_DES_2]
+Effect 1: Electric damage increased by 15%
+Effect 2: Attack speed increased by 8%
+Effect 3: Locked
+
+[SUPER_CLOCK_17_BOOST_DES_3]
+Effect 1: Electric damage increased by 18%
+Effect 2: Attack speed increased by 10%
+Effect 3: Killing of a zombie has a 15% chance to generate gold coins (100 gold coins each time)
+
+[SUPER_CLOCK_17_BOOST_DES_4]
+Effect 1: Electric damage increased by 20%
+Effect 2: Attack speed increased by 13%
+Effect 3: Killing of a zombie has a 20% chance to generate gold coins (100 gold coins each time)
+
+[SUPER_CLOCK_17_BOOST_DES_5]
+Effect 1: Electric damage increased by 25%
+Effect 2: Attack speed increased by 15%
+Effect 3: Killing of a zombie has a 25% chance to generate gold coins (100 gold coins each time)
+
+[PAINKILLER_1]
+Analgesic Painkiller
+
+[PAINKILLER_1_DES]
+When you are in pain, nothing is more reassuring than analgesics. Currently, please us it under the guidance of a doctor!
+
+[PAINKILLER_1_BOOST_DES]
+Effect 1: Recovers 150 HP every 3 seconds
+Effect 2: Health increased by 15%
+Effect 3: Locked
+
+[PAINKILLER_1_BOOST_DES_1]
+Effect 1: Recovers 170 HP every 3 seconds
+Effect 2: Health increased by 18%
+Effect 3: Locked
+
+[PAINKILLER_1_BOOST_DES_2]
+Effect 1: Recovers 190 HP every 3 seconds
+Effect 2: Health increased by 21%
+Effect 3: Locked
+
+[PAINKILLER_1_BOOST_DES_3]
+Effect 1: Recovers 210 HP every 3 seconds
+Effect 2: Health increased by 24%
+Effect 3: When the damage received exceeds 500 HP per second, the damage received in the next second is reduced by 30%
+
+[PAINKILLER_1_BOOST_DES_4]
+Effect 1: Recovers 230 HP every 3 seconds
+Effect 2: Health increased by 27%
+Effect 3: When the damage received exceeds 500 HP per second, the damage received in the next second is reduced by 40%
+
+[PAINKILLER_1_BOOST_DES_5]
+Effect 1: Recovers 250 HP every 3 seconds
+Effect 2: Health increased by 30%
+Effect 3: When the damage received exceeds 500 HP per second, the damage received in the next second is reduced by 50%
+
+[PAINKILLER_2]
+Painkiller
+
+[PAINKILLER_2_DES]
+When you are in pain, you can take two painkillers to relieve the pain. Although the effect may not be very obvious, it is powerful enouh that anyone can take it.
+
+[PAINKILLER_2_BOOST_DES]
+Effect 1: Recovers 120 HP every 3 seconds
+Effect 2: Planting cooldown shortened by 10%
+Effect 3: Locked
+
+[PAINKILLER_2_BOOST_DES_1]
+Effect 1: Recovers 140 HP every 3 seconds
+Effect 2: Planting cooldown shortened by 12%
+Effect 3: Locked
+
+[PAINKILLER_2_BOOST_DES_2]
+Effect 1: Recovers 160 HP every 3 seconds
+Effect 2: Planting cooldown shortened by 14%
+Effect 3: Locked
+
+[PAINKILLER_2_BOOST_DES_3]
+Effect 1: Recovers 180 HP every 3 seconds
+Effect 2: Planting cooldown shortened by 16%
+Effect 3: When the damage received exceeds 500 HP per second, the damage received in the next second is reduced by 10%
+
+[PAINKILLER_2_BOOST_DES_4]
+Effect 1: Recovers 200 HP every 3 seconds
+Effect 2: Planting cooldown shortened by 18%
+Effect 3: When the damage received exceeds 500 HP per second, the damage received in the next second is reduced by 20%
+
+[PAINKILLER_2_BOOST_DES_5]
+Effect 1: Recovers 220 HP every 3 seconds
+Effect 2: Planting cooldown shortened by 20%
+Effect 3: When the damage received exceeds 500 HP per second, the damage received in the next second is reduced by 30%
+
+[SLINGSHOT_1]
+Metal Slingshot
+
+[SLINGSHOT_1_DES]
+Fully made of metal, more powerful impact! However, it is quite dangerous to use, so be careful not to accidentally injure yourself.
+
+[SLINGSHOT_1_BOOST_DES]
+Effect 1: Attack power increased by 18%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 5% every 1 second (up to 50% increase)
+Effect 3: Locked
+
+[SLINGSHOT_1_BOOST_DES_1]
+Effect 1: Attack power increased by 21%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 6% every 1 second (up to 60% increase)
+Effect 3: Locked
+
+[SLINGSHOT_1_BOOST_DES_2]
+Effect 1: Attack power increased by 24%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 7% every 1 second (up to 70% increase)
+Effect 3: Locked
+
+[SLINGSHOT_1_BOOST_DES_3]
+Effect 1: Attack power increased by 27%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 8% every 1 second (up to 80% increase)
+Effect 3: Planting cooldown shortened by 10%
+
+[SLINGSHOT_1_BOOST_DES_4]
+Effect 1: Attack power increased by 30%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 9% every 1 second (up to 90% increase)
+Effect 3: Planting cooldown shortened by 20%
+
+[SLINGSHOT_1_BOOST_DES_5]
+Effect 1: Attack power increased by 33%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 10% every 1 second (up to 100% increase)
+Effect 3: Planting cooldown shortened by 30%
+
+[SLINGSHOT_2]
+Wooden Slingshot
+
+[SLINGSHOT_2_DES]
+Wooden handle, comfortable to hold, able to shoot effectively! However, it is quite dangerous to use, so be careful not to accidentally injure yourself.
+
+[SLINGSHOT_2_BOOST_DES]
+Effect 1: Attack power increased by 10%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 1% every 1 second (up to 10% increase)
+Effect 3: Locked
+
+[SLINGSHOT_2_BOOST_DES_1]
+Effect 1: Attack power increased by 13%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 2% every 1 second (up to 20% increase)
+Effect 3: Locked
+
+[SLINGSHOT_2_BOOST_DES_2]
+Effect 1: Attack power increased by 16%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 3% every 1 second (up to 30% increase)
+Effect 3: Locked
+
+[SLINGSHOT_2_BOOST_DES_3]
+Effect 1: Attack power increased by 19%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 4% every 1 second (up to 40% increase)
+Effect 3: When planted, 10% of the consumed sun will be returned
+
+[SLINGSHOT_2_BOOST_DES_4]
+Effect 1: Attack power increased by 22%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 5% every 1 second (up to 50% increase)
+Effect 3: When planted, 15% of the consumed sun will be returned
+
+[SLINGSHOT_2_BOOST_DES_5]
+Effect 1: Attack power increased by 25%
+Effect 2: Once there has been no attack for 5 seconds, the next attack's damage will be increased by 6% every 1 second (up to 60% increase)
+Effect 3: When planted, 20% of the consumed sun will be returned
+
+[MAGIC_BOOK_1]
+Advanced Grimoire
+
+[MAGIC_BOOK_1_DES]
+This book was taken out from an old books box, but after lightly dusting off the collected dust, it suddenly looked like a new book I just bought. Is it then worthy of being called a magic book?
+
+[MAGIC_BOOK_1_BOOST_DES]
+Effect 1: Magic damage increased by 10%
+Effect 2: Immobilization control duration increased by 1%
+Effect 3: Locked
+
+[MAGIC_BOOK_1_BOOST_DES_1]
+Effect 1: Magic damage increased by 12%
+Effect 2: Immobilization control duration increased by 2%
+Effect 3: Locked
+
+[MAGIC_BOOK_1_BOOST_DES_2]
+Effect 1: Magic damage increased by 16%
+Effect 2: Immobilization control duration increased by 4%
+Effect 3: Locked
+
+[MAGIC_BOOK_1_BOOST_DES_3]
+Effect 1: Magic damage increased by 20%
+Effect 2: Immobilization control duration increased by 6%
+Effect 3: When planted, 10% of the consumed sun will be returned
+
+[MAGIC_BOOK_1_BOOST_DES_4]
+Effect 1: Magic damage increased by 24%
+Effect 2: Immobilization control duration increased by 8%
+Effect 3: When planted, 15% of the consumed sun will be returned
+
+[MAGIC_BOOK_1_BOOST_DES_5]
+Effect 1: Magic damage increased by 27%
+Effect 2: Immobilization control duration increased by 10%
+Effect 3: When planted, 20% of the consumed sun will be returned
+
+[MAGIC_BOOK_2]
+Apprentice's Grimoire
+
+[MAGIC_BOOK_2_DES]
+The book that I pulled out from the old books box suddenly shook and a page fell off. Oops! No one should know how to break it.
+
+[MAGIC_BOOK_2_BOOST_DES]
+Effect 1: Magic damage increased by 10%
+Effect 2: Immobilization control duration increased by 1%
+Effect 3: Locked
+
+[MAGIC_BOOK_2_BOOST_DES_1]
+Effect 1: Magic damage increased by 12%
+Effect 2: Immobilization control duration increased by 2%
+Effect 3: Locked
+
+[MAGIC_BOOK_2_BOOST_DES_2]
+Effect 1: Magic damage increased by 15%
+Effect 2: Immobilization control duration increased by 3%
+Effect 3: Locked
+
+[MAGIC_BOOK_2_BOOST_DES_3]
+Effect 1: Magic damage increased by 18%
+Effect 2: Immobilization control duration increased by 4%
+Effect 3: Planting cooldown shortened by 10%
+
+[MAGIC_BOOK_2_BOOST_DES_4]
+Effect 1: Magic damage increased by 20%
+Effect 2: Immobilization control duration increased by 6%
+Effect 3: Planting cooldown shortened by 15%
+
+[MAGIC_BOOK_2_BOOST_DES_5]
+Effect 1: Magic damage increased by 22%
+Effect 2: Immobilization control duration increased by 8%
+Effect 3: Planting cooldown shortened by 20%
+
+[SUN_GEAR_1]
+Sun Gear
+
+[SUN_GEAR_1_DES]
+The gear that fell off an unknown car actually had the pattern of a sun on it.
+
+[SUN_GEAR_1_BOOST_DES]
+Effect 1: Sun output is increased by 20 points and protection ability is slightly improved - FF0000 only for level 4 sun plants
+Effect 2: Planting cooldown shortened by 10%
+Effect 3: Locked
+
+[SUN_GEAR_1_BOOST_DES_1]
+Effect 1: Sun output is increased by 20 points and protection ability is slightly improved - FF0000 only for level 4 sun plants
+Effect 2: Planting cooldown shortened by 15%
+Effect 3: Locked
+
+[SUN_GEAR_1_BOOST_DES_2]
+Effect 1: Sun output is increased by 20 points and protection ability is slightly improved - FF0000 only for level 4 sun plants
+Effect 2: Planting cooldown shortened by 18%
+Effect 3: Locked
+
+[SUN_GEAR_1_BOOST_DES_3]
+Effect 1: Sun output is increased by 20 points and protection ability is slightly improved - ^FF0000 only for level 4 sun plants
+Effect 2: Planting cooldown shortened by 21%
+Effect 3: When planted, 15% of the consumed sun will be returned
+
+[SUN_GEAR_1_BOOST_DES_4]
+Effect 1: Sun output is increased by 25 points and protection ability is slightly improved - ^FF0000 only for level 4 sun plants
+Effect 2: Planting cooldown shortened by 24%
+Effect 3: When planted, 20% of the consumed sun will be returned
+
+[SUN_GEAR_1_BOOST_DES_5]
+Effect 1: Sun output is increased by 25 points and protection ability is slightly improved - ^FF0000 only for level 4 sun plants
+Effect 2: Planting cooldown shortened by 27%
+Effect 3: When planted, 25% of the consumed sun will be returned
+
+[TRAVEL_TOGETHER_1]
+Time Capsule
+
+[TRAVEL_TOGETHER_1_DES]
+I see the world in 3D... OH it was just a nightmare!
+
+[TRAVEL_TOGETHER_1_BOOST_DES]
+Effect 1: Planting cooldown reduced by 15%
+Effect 2: Rest time reduced by 10%
+Effect 3: Locked
+
+[TRAVEL_TOGETHER_1_BOOST_DES_1]
+Effect 1: Planting cooldown reduced by 20%
+Effect 2: Rest time reduced by 15%
+Effect 3: Locked
+
+[TRAVEL_TOGETHER_1_BOOST_DES_2]
+Effect 1: Planting cooldown reduced by 25%
+Effect 2: Rest time reduced by 20%
+Effect 3: Locked
+
+[TRAVEL_TOGETHER_1_BOOST_DES_3]
+Effect 1: Planting cooldown reduced by 30%
+Effect 2: Rest time reduced by 25%
+Effect 3: Refunds 15% of the sun when planting
+
+[TRAVEL_TOGETHER_1_BOOST_DES_4]
+Effect 1: Planting cooldown reduced by 35%
+Effect 2: Rest time reduced by 30%
+Effect 3: Refunds 20% of the sun when planting
+
+[TRAVEL_TOGETHER_1_BOOST_DES_5]
+Effect 1: Planting cooldown reduced by 40%
+Effect 2: Rest time reduced by 35%
+Effect 3: Refunds 25% of the sun when planting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [BOSS_CHALLENGE_HEAD_ID_25003]
 Anniversary Champion Avatar
@@ -24871,609 +26102,6 @@ Third Anniversary Limited Pillow
 
 [GEILIVABLE_LOTTERY_BONUS_TITLE]
 Congratulations!
-
-[SUPER_CLOCK_1]
-Red candle
-
-[SUPER_CLOCK_1_DES]
-Light this candle and celebrate the victory of the plants!
-
-[SUPER_CLOCK_1_BOOST_DES]
-Effect: 1. Fire damage increased by 10% 2. 15% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_1_BOOST_DES_1]
-Effect: 1. Flame damage increased by 12% 2. 18% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_1_BOOST_DES_2]
-Effect: 1. Flame damage increased by 16% 2. 20% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_1_BOOST_DES_3]
-Effect: 1. Fire damage increased by 20% 2. 25% reduction in planting cooling time 3. Killing zombies has a 15% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_1_BOOST_DES_4]
-Effect: 1. Flame damage increased by 24% 2. 30% reduction in planting cooling time 3. Killing zombies has an 18% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_1_BOOST_DES_5]
-Effect: 1. Flame damage increased by 27% 2. 35% reduction in planting cooling time 3. Killing zombies has a 22% probability of producing sun (up to 500 per game) 
-
-[SUPER_CLOCK_2]
-White candle
-
-[SUPER_CLOCK_2_DES]
-Prepared early to pay homage to the defeated Doctor Zombie
-
-[SUPER_CLOCK_2_BOOST_DES]
-Effect: 1. Flame damage increased by 8% 2. 15% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_2_BOOST_DES_1]
-Effect: 1. Fire damage increased by 10% 2. 18% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_2_BOOST_DES_2]
-Effect: 1. Flame damage increased by 12% 2. 20% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_2_BOOST_DES_3]
-Effect: 1. Flame damage increased by 16% 2. 25% reduction in planting cooling time 3. Reduce sun cost by 25
-
-[SUPER_CLOCK_2_BOOST_DES_4]
-Effect: 1. Fire damage increased by 20% 2. 30% reduction in planting cooling time 3. Reduce sun cost by 30
-
-[SUPER_CLOCK_2_BOOST_DES_5]
-Effect: 1. Flame damage increased by 22% 2. 35% reduction in planting cooling time 3. Reduce sun cost by 35
-
-[SUPER_CLOCK_4]
-Moon Pot Helmet
-
-[SUPER_CLOCK_4_DES]
-The light of the moon, though soft, still provides strong support to the plants
-
-[SUPER_CLOCK_4_BOOST_DES]
-Effect: 1. Reply to 90 lives every 3 seconds 2. 12% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_4_BOOST_DES_1]
-Effect: 1. Reply 130 lives every 3 seconds 2. 15% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_4_BOOST_DES_2]
-Effect: 1. Reply 150 lives every 3 seconds 2. 18% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_4_BOOST_DES_3]
-Effect: 1. Reply 180 lives every 3 seconds 2. 20% reduction in planting cooling time 3. Life boosted by 15%
-
-[SUPER_CLOCK_4_BOOST_DES_4]
-Effect: 1. Reply 200 lives every 3 seconds 2. 25% reduction in planting cooling time 3. Life boosts by 20%
-
-[SUPER_CLOCK_4_BOOST_DES_5]
-Effect: 1. Reply 220 life points every 3 seconds 2. 30% reduction in planting cooling time 3. Life boosted by 25%
-
-[SUPER_CLOCK_3]
-Helmet of the Sun
-
-[SUPER_CLOCK_3_DES]
-Because it brings together the power of the sun, the pot helmet looks golden
-
-[SUPER_CLOCK_3_BOOST_DES]
-Effect: 1. Reply to 90 lives every 3 seconds 2. Vertigo to zombies when plants are gnawed (12 seconds between triggering) 3. Locked
-
-[SUPER_CLOCK_3_BOOST_DES_1]
-Effect: 1. Reply 140 lives every 3 seconds 2. Vertigo to zombies when plants are gnawed (11 seconds between trigger) 3. Locked
-
-[SUPER_CLOCK_3_BOOST_DES_2]
-Effect: 1. Reply 180 lives every 3 seconds 2. Vertigo to zombies when plants are gnawed (10 seconds between triggers) 3. Locked
-
-[SUPER_CLOCK_3_BOOST_DES_3]
-Effect: 1. Reply 200 lives every 3 seconds 2. Vertigo to zombies when plants are gnawed (8 seconds between triggers) 3. Life boosted by 15%
-
-[SUPER_CLOCK_3_BOOST_DES_4]
-Effect: 1. Reply 220 life points every 3 seconds 2. Vertigo to zombies when plants are gnawed (6 seconds between triggers) 3. Life boosts by 20% 
-
-[SUPER_CLOCK_3_BOOST_DES_5]
-Effect: 1. Reply 240 life points every 3 seconds 2. Vertigo to zombies when plants are gnawed (4 seconds between triggers) 3. Life boosted by 25%
-
-[SUPER_CLOCK_5]
-Princess ice crown
-
-[SUPER_CLOCK_5_DES]
-Delicately crafted by Snow Pea, hoping to give it to the most beautiful princess.
-
-[SUPER_CLOCK_5_BOOST_DES]
-Effect: 1. Freeze damage increased by 10% 2. Killing zombies have a 5% chance of generating sun (up to 500) 3. Locked
-
-[SUPER_CLOCK_5_BOOST_DES_1]
-Effect: 1. Freeze damage increased by 12% 2. Killing zombies have a 7% chance of generating sun (up to 500) 3. Locked
-
-[SUPER_CLOCK_5_BOOST_DES_2]
-Effect: 1. Freeze damage increased by 15% 2. Killing zombies have a 9% chance of generating sun (up to 500) 3. Locked
-
-[SUPER_CLOCK_5_BOOST_DES_3]
-Effect: 1. Freeze damage increased by 18% 2. Killing Killing zombies have a 12% chance of generating sun (up to 500) 3. Reduce sun cost by 20
-
-[SUPER_CLOCK_5_BOOST_DES_4]
-Effect: 1. Freeze damage increased by 20% 2. Killing zombies has a 15% probability of producing sun (up to 500 per game) 3. Reduce sun cost by 25
-
-[SUPER_CLOCK_5_BOOST_DES_5]
-Effect: 1. Freeze damage increased by 22% 2. Killing zombies have a 18% chance of generating sun (up to 500) 3. Reduce sun cost by 30
-
-[SUPER_CLOCK_6]
-Queen ice crown
-
-[SUPER_CLOCK_6_DES]
-Wearing it, even if you are staying in a desert during summer, you will feel cool.
-
-[SUPER_CLOCK_6_BOOST_DES]
-Effect: 1. 10% increase in freezing damage 2. Killing zombies has a 5% probability of producing sun (up to 500 per game) 3. Locked
-
-[SUPER_CLOCK_6_BOOST_DES_1]
-Effect: 1. 12% increase in ice damage 2. Killing zombies has an 8% probability of producing sun (up to 500 per game) 3. Locked
-
-[SUPER_CLOCK_6_BOOST_DES_2]
-Effect: 1. 16% increase in ice damage 2. Killing zombies has a 12% probability of producing sun (up to 500 per game) 3. Locked
-
-[SUPER_CLOCK_6_BOOST_DES_3]
-Effect: 1. 20% increase in freezing damage 2. Killing zombies has a 15% probability of producing sun (up to 500 per game) 3. Reduce sun cost by 25
-
-[SUPER_CLOCK_6_BOOST_DES_4]
-Effect: 1. 24% increase in ice damage 2. Killing zombies has an 18% probability of producing sun (up to 500 per game) 3. Reduce sun cost by 30
-
-[SUPER_CLOCK_6_BOOST_DES_5]
-Effect: 1. 27% increase in ice damage 2. Killing zombies has a 22% probability of producing sun (up to 500 per game) 3. Reduce sun cost by 35
-
-[SUPER_CLOCK_7]
-Cowboy gloves
-
-[SUPER_CLOCK_7_DES]
-The western culture is so charming that Dave has worn his cowboy gloves, ready to eat his taco with the gloves on.
-
-[SUPER_CLOCK_7_BOOST_DES]
-Effect: 1. Increase attack power by 10% 2. Produce coins by defeating a zombie by 3% (100 coins each time, up to 5000) 3. Locked
-
-[SUPER_CLOCK_7_BOOST_DES_1]
-Effect: 1. Increase attack power by 12% 2. Produce coins by defeating a zombie by 5% (100 coins each time, up to 5000) 3. Locked
-
-[SUPER_CLOCK_7_BOOST_DES_2]
-Effect: 1. Increase attack power by 15% 2. Produce coins by defeating a zombie by 7% (100 coins each time, up to 5000) 3. Locked
-
-[SUPER_CLOCK_7_BOOST_DES_3]
-Effect: 1. Increase attack power by 18% 2. Produce coins by defeating a zombie by 9% (100 coins each time, up to 5000) 3. Reduces rest time by 15%
-
-[SUPER_CLOCK_7_BOOST_DES_4]
-Effect: 1. Increase attack power by 21% 2. Produce coins by defeating a zombie by 11% (100 coins each time, up to 5000) 3. Reduces rest time by 18%
-
-[SUPER_CLOCK_7_BOOST_DES_5]
-Effect: 1. Increase attack power by 24% 2. Produce coins by defeating a zombie by 15% (100 coins each time, up to 5000) 3. Reduces rest time by 25%
-
-[SUPER_CLOCK_8]
-Polyenergy Battery
-
-[SUPER_CLOCK_8_DES]
-Powerful energy-converging battery, providing sufficient power, is a must for killing deadlocks and fending off enemies, a must for home travel
-
-[SUPER_CLOCK_8_BOOST_DES]
-Effect: 1. Lightning damage increased by 10% 2. 15% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_8_BOOST_DES_1]
-Effect: 1. Lightning damage increased by 12% 2. 18% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_8_BOOST_DES_2]
-Effect: 1. Lightning damage increased by 16% 2. 20% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_8_BOOST_DES_3]
-Effect: 1. Lightning damage increased by 20% 2. 25% reduction in planting cooling time 3. Reduce sun cost by 25
-
-[SUPER_CLOCK_8_BOOST_DES_4]
-Effect: 1. Lightning damage increased by 24% 2. 30% reduction in planting cooling time 3. Reduce sun cost by 30
-
-[SUPER_CLOCK_8_BOOST_DES_5]
-Effect: 1. Lightning damage increased by 27% 2. 35% reduction in planting cooling time 3. Reduce sun cost by 35
-
-[SUPER_CLOCK_9]
-Energy-efficient batteries
-
-[SUPER_CLOCK_9_DES]
-Powerfully locked in power, one section is stronger than two, I heard that Penny's fuel cell is disassembled and it's inside
-
-[SUPER_CLOCK_9_BOOST_DES]
-Effect: 1. Lightning damage increased by 10% 2. There is a 3% probability of producing gold coins by killing zombies (100 gold coins each time, up to 5,000 gold coins) 3. Locked
-
-[SUPER_CLOCK_9_BOOST_DES_1]
-Effect: 1. Lightning damage increased by 12% 2. There is a 5% probability of producing gold coins by killing zombies (100 gold coins each time, up to 5,000 gold coins) 3. Locked
-
-[SUPER_CLOCK_9_BOOST_DES_2]
-Effect: 1. Lightning damage increased by 15% 2. There is a 7% probability of producing gold coins by killing zombies (100 gold coins each time, up to 5,000 gold coins) 3. Locked
-
-[SUPER_CLOCK_9_BOOST_DES_3]
-Effect: 1. Lightning damage increased by 18% 2. Killing zombies has a 9% probability of producing gold coins (100 gold coins each time, up to 5,000 gold coins) 3. Reduce sun cost by 20
-
-[SUPER_CLOCK_9_BOOST_DES_4]
-Effect: 1. Lightning damage increased by 20% 2. Killing zombies has an 11% probability of producing gold coins (100 gold coins each time, up to 5,000 gold coins) 3. Reduce sun cost by 25
-
-[SUPER_CLOCK_9_BOOST_DES_5]
-Effect: 1. Lightning damage increased by 22% 2. Killing zombies has a 15% probability of producing gold coins (100 gold coins each time, up to 5,000 gold coins) 3. Reduce sun cost by 30
-
-[SUPER_CLOCK_10]
-Potent insecticides
-
-[SUPER_CLOCK_10_DES]
-Poison Shadow Mushroom has been complaining lately that his poison is not very useful, and now that it is coming, Dave no longer has to worry about Poison Shadow Mushroom.
-
-[SUPER_CLOCK_10_BOOST_DES]
-Effect: 1. 10% increase in toxic injury 2. 15% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_10_BOOST_DES_1]
-Effect: 1. Increase of 12% in toxic injuries 2. 18% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_10_BOOST_DES_2]
-Effect: 1. Poison line injuries increased by 16% 2. 20% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_10_BOOST_DES_3]
-Effect: 1. 20% increase in toxic injury 2. 25% reduction in planting cooling time 3. Killing zombies has a 15% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_10_BOOST_DES_4]
-Effect: 1. Toxic line injuries increased by 24% 2. 30% reduction in planting cooling time 3. Killing zombies has an 18% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_10_BOOST_DES_5]
-Effect: 1. Poison line injuries increased by 27% 2. 35% reduction in planting cooling time 3. Killing zombies has a 22% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_11]
-Insecticides
-
-[SUPER_CLOCK_11_DES]
-The effect is still the same as before, it still tastes the same, the original feeling, but it is a bit troublesome to use
-
-[SUPER_CLOCK_11_BOOST_DES]
-Effect: 1. 10% increase in toxic injury 2. 12% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_11_BOOST_DES_1]
-Effect: 1. Increase in toxic injury by 12% 2. 15% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_11_BOOST_DES_2]
-Effect: 1. Increase in toxic injury by 15% 2. 18% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_11_BOOST_DES_3]
-Effect: 1. Toxic line injuries increased by 18% 2. 20% reduction in planting cooling time 3. 15% reduction in rest periods%
-
-[SUPER_CLOCK_11_BOOST_DES_4]
-Effect: 1. 20% increase in toxic injury 2. 25% reduction in planting cooling time 3. 18% reduction in rest periods%
-
-[SUPER_CLOCK_11_BOOST_DES_5]
-Effect: 1. Increase of 22% in toxic injuries 2. 30% reduction in planting cooling time 3. 25% reduction in rest periods%
-
-[SUPER_CLOCK_12]
-Big firecrackers
-
-[SUPER_CLOCK_12_DES]
-Look, this big guy, the weight is very good, no matter who comes, it can blow up
-
-[SUPER_CLOCK_12_BOOST_DES]
-Effect: 1. Explosion damage increased by 10% 2. 8% reduction in rest periods 3. Locked
-
-[SUPER_CLOCK_12_BOOST_DES_1]
-Effect: 1. Explosion damage increased by 12% 2. 10% reduction in rest periods 3. Locked
-
-[SUPER_CLOCK_12_BOOST_DES_2]
-Effect: 1. Explosion damage increased by 16% 2. 12% reduction in rest periods 3. Locked
-
-[SUPER_CLOCK_12_BOOST_DES_3]
-Effect: 1. Explosion damage increased by 20% 2. 15% reduction in rest periods 3. Killing zombies has a 15% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_12_BOOST_DES_4]
-Effect: 1. Explosion damage increased by 24% 2. 18% reduction in rest periods 3. Killing zombies has an 18% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_12_BOOST_DES_5]
-Effect: 1. Explosion damage increased by 27% 2. 25% reduction in rest periods 3. Killing zombies has a 22% probability of producing sun (up to 500 per game)
-
-[SUPER_CLOCK_13]
-Firecrackers
-
-[SUPER_CLOCK_13_DES]
-Simplified and compact, easy to carry firecrackers, even though it is only a little bit big, it will have miraculous effects if used properly
-
-[SUPER_CLOCK_13_BOOST_DES]
-Effect: 1. Explosion damage increased by 10% 2. 8% reduction in rest periods 3. Locked
-
-[SUPER_CLOCK_13_BOOST_DES_1]
-Effect: 1. Explosion damage increased by 12% 2. 10% reduction in rest periods 3. Locked
-
-[SUPER_CLOCK_13_BOOST_DES_2]
-Effect: 1. Explosion damage increased by 15% 2. 12% reduction in rest periods 3. Locked
-
-[SUPER_CLOCK_13_BOOST_DES_3]
-Effect: 1. Explosion damage increased by 18% 2. 15% reduction in rest periods 3. Reduce sun cost by 20
-
-[SUPER_CLOCK_13_BOOST_DES_4]
-Effect: 1. Explosion damage increased by 20% 2. 18% reduction in rest periods 3. Reduce sun cost by 25
-
-[SUPER_CLOCK_13_BOOST_DES_5]
-Effect: 1. Explosion damage increased by 22% 2. 20% reduction in rest periods 3. Reduce sun cost by 30
- 
-
-[SUPER_CLOCK_14]
-Hours
-
-[SUPER_CLOCK_14_DES]
-A small clock with the same power that Penny has travelled through time
-
-[SUPER_CLOCK_14_BOOST_DES]
-Effect: 1. There is a 10% probability of resetting the planting cooling time of the plant 2. 10% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_14_BOOST_DES_1]
-Effect: 1. There is a 13% probability of resetting the planting cooling time of the plant 2. 13% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_14_BOOST_DES_2]
-Effect: 1. There is a 16% probability of resetting the planting cooling time of the plant 2. 16% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_14_BOOST_DES_3]
-Effect: 1. There is a 19% probability of resetting the planting cooling time of the plant 2. 19% reduction in planting cooling time 3. Return 10% sun price when planting
-
-[SUPER_CLOCK_14_BOOST_DES_4]
-Effect: 1. There is a 19% probability of resetting the planting cooling time of the plant 2. 19% reduction in planting cooling time 3. Returns 13% of sun cost when planting
-
-[SUPER_CLOCK_14_BOOST_DES_5]
-Effect: 1. There is a 25% probability of resetting the planting cooling time of the plant 2. 25% reduction in planting cooling time 3. Returns 16% sun consumption when planting
-
-[SUPER_CLOCK_15]
-Accelerate Clock
-
-[SUPER_CLOCK_15_DES]
-A small clock with well-preserved parts that contain the same power that Penny had through time and space
-
-[SUPER_CLOCK_15_BOOST_DES]
-Effect: 1. There is a 10% probability of resetting the planting cooling time of the plant 2. 10% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_15_BOOST_DES_1]
-Effect: 1. There is a 16% probability of resetting the planting cooling time of the plant 2. 16% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_15_BOOST_DES_2]
-Effect: 1. There is a 19% probability of resetting the planting cooling time of the plant 2. 19% reduction in planting cooling time 3. Locked
-
-[SUPER_CLOCK_15_BOOST_DES_3]
-Effect: 1. There is a 25% probability of resetting the planting cooling time of the plant 2. 25% reduction in planting cooling time 3. Return 10% sun price when planting
-
-[SUPER_CLOCK_15_BOOST_DES_4]
-Effect: 1. There is a 31% probability of resetting the planting cooling time of the plant 2. 31% reduction in planting cooling time 3. Return 15% sun price when planting
-
-[SUPER_CLOCK_15_BOOST_DES_5]
-Effect: 1. There is a 37% probability of resetting the planting cooling time of the plant 2. 37% reduction in planting cooling time 3. Return 20% sun consumption when planting
-
-[SUPER_CLOCK_16]
-Police electric shock stick
-
-[SUPER_CLOCK_16_DES]
-Weapons containing powerful power, essential to prevent zombies, but only for professionals
-
-[SUPER_CLOCK_16_BOOST_DES]
-Effect: 1. Lightning damage increased by 12% 2. Increase attack speed by 5% 3. Locked
-
-[SUPER_CLOCK_16_BOOST_DES_1]
-Effect: 1. Lightning damage increased by 15% 2. Increase attack speed by 7% 3. Locked
-
-[SUPER_CLOCK_16_BOOST_DES_2]
-Effect: 1. Lightning damage increased by 18% 2. Increase attack speed by 9% 3. Locked
-
-[SUPER_CLOCK_16_BOOST_DES_3]
-Effect: 1. Lightning damage increased by 20% 2. Increase attack speed by 12% 3. 10% reduction in planting cooling time%
-
-[SUPER_CLOCK_16_BOOST_DES_4]
-Effect: 1. Lightning damage increased by 25% 2. Increase attack speed by 15% 3. 20% reduction in planting cooling time%
-
-[SUPER_CLOCK_16_BOOST_DES_5]
-Effect: 1. Lightning damage increased by 30% 2. Increase attack speed by 20% 3. 30% reduction in planting cooling time%
-
-[SUPER_CLOCK_17]
-Electric baton
-
-[SUPER_CLOCK_17_DES]
-Weapons with powerful power, essential for anti-zombie, suitable for all personnel
-
-[SUPER_CLOCK_17_BOOST_DES]
-Effect: 1. Lightning damage increased by 10% 2. Increase attack speed by 4% 3. Locked
-
-[SUPER_CLOCK_17_BOOST_DES_1]
-Effect: 1. Lightning damage increased by 12% 2. Increase attack speed by 6% 3. Locked
-
-[SUPER_CLOCK_17_BOOST_DES_2]
-Effect: 1. Lightning damage increased by 15% 2. Increase attack speed by 8% 3. Locked
-
-[SUPER_CLOCK_17_BOOST_DES_3]
-Effect: 1. Lightning damage increased by 18% 2. Increase attack speed by 10% 3. Killing zombies has a 15% probability of producing gold coins (100 gold coins each time)
-
-[SUPER_CLOCK_17_BOOST_DES_4]
-Effect: 1. Lightning damage increased by 20% 2. Increase attack speed by 13% 3. There is a 20% probability of producing gold coins (100 gold coins each time) when killing zombies
-
-[SUPER_CLOCK_17_BOOST_DES_5]
-Effect: 1. Lightning damage increased by 25% 2. Increase attack speed by 15% 3. Killing zombies has a 25% probability of producing gold coins (100 gold coins each time)
-
-[PAINKILLER_1]
-Painkillers
-
-[PAINKILLER_1_DES]
-When you're in pain, there's nothing more reassuring than painkillers. Currently, use it under the guidance of your doctor Oh!
-
-[PAINKILLER_1_BOOST_DES]
-Effect: 1. Reply 150 lives every 3 seconds 2. Life boost 15% 3. Locked
-
-[PAINKILLER_1_BOOST_DES_1]
-Effect: 1. Reply 170 lives every 3 seconds 2. Life boosted by 18% 3. Locked
-
-[PAINKILLER_1_BOOST_DES_2]
-Effect: 1. Reply 190 lives every 3 seconds 2. Life boosted by 21% 3. Locked
-
-[PAINKILLER_1_BOOST_DES_3]
-Effect: 1. Reply 210 life points every 3 seconds 2. Life boosted by 24% 3. When the damage received per second exceeds 500 points, the damage received in the next second is reduced by 30%
-
-[PAINKILLER_1_BOOST_DES_4]
-Effect: 1. Reply 230 lives every 3 seconds 2. Life boosted by 27% 3. When the damage received per second exceeds 500 points, the damage received in the next second is reduced by 40%
-
-[PAINKILLER_1_BOOST_DES_5]
-Effect: 1. Reply 250 life points every 3 seconds 2. Life boost 30% 3. When the damage received per second exceeds 500 points, the damage received in the next second is reduced by 50%
-
-[PAINKILLER_2]
-Painkillers
-
-[PAINKILLER_2_DES]
-When you are in pain, you can have two painkillers to relieve the pain. Although the effect may not be very good, it is strong that anyone can use it.
-
-[PAINKILLER_2_BOOST_DES]
-Effect: 1. Reply 120 lives every 3 seconds 2. 10% reduction in planting cooling time 3. Locked
-
-[PAINKILLER_2_BOOST_DES_1]
-Effect: 1. Reply 140 lives every 3 seconds 2. 12% reduction in planting cooling time 3. Locked
-
-[PAINKILLER_2_BOOST_DES_2]
-Effect: 1. Reply 160 lives every 3 seconds 2. 14% reduction in planting cooling time 3. Locked
-
-[PAINKILLER_2_BOOST_DES_3]
-Effect: 1. Reply 180 lives every 3 seconds 2. 16% reduction in planting cooling 3. When the damage per second exceeds 500 points, the damage received in the next second is reduced by 10%
-
-[PAINKILLER_2_BOOST_DES_4]
-Effect: 1. Reply 200 lives every 3 seconds 2. 18% reduction in planting cooling 3. When the damage per second exceeds 500 points, the damage received in the next second is reduced by 20%
-
-[PAINKILLER_2_BOOST_DES_5]
-Effect: 1. Reply 220 life points every 3 seconds 2. 20% reduction in planting cooling 3. When the damage per second exceeds 500 points, the damage received in the next second is reduced by 30%
-
-[SLINGSHOT_1]
-Metal slingshot
-
-[SLINGSHOT_1_DES]
-Made of all metal, more powerful impact! However, it is dangerous to use, be careful not to accidentally injure it.
-
-[SLINGSHOT_1_BOOST_DES]
-Effect: 1. 18% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 5% (up to 50%) every 1 second thereafter 3. Locked
-
-[SLINGSHOT_1_BOOST_DES_1]
-Effect: 1. 21% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 6% (up to 60%) every 1 second thereafter 3. Locked
-
-[SLINGSHOT_1_BOOST_DES_2]
-Effect: 1. Increase in attack power by 24% 2. When there is no attack for 5 seconds, increase the damage of the next attack by 7% (up to 70%) every 1 second thereafter 3. Locked
-
-[SLINGSHOT_1_BOOST_DES_3]
-Effect: 1. Increase in attack power by 27% 2. When there is no attack for 5 seconds, increase the damage of the next attack by 8% (up to 80% increase) every 1 second thereafter 3. 20% reduction in planting cooling time%
-
-[SLINGSHOT_1_BOOST_DES_4]
-Effect: 1. 30% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 9% (up to 90%) every 1 second thereafter 3. 25% reduction in planting cooling time%
-
-[SLINGSHOT_1_BOOST_DES_5]
-Effect: 1. Increase in attack power by 33% 2. When there is no attack for 5 seconds, increase the damage of the next attack by 10% (up to 100%) every 1 second thereafter 3. 30% reduction in planting cooling time%
-
-[SLINGSHOT_2]
-Wooden Slingshot
-
-[SLINGSHOT_2_DES]
-Wooden handle, comfortable grip, able to shoot effectively! However, it is dangerous to use, be careful not to accidentally injure it.
-
-[SLINGSHOT_2_BOOST_DES]
-Effect: 1. 10% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 1% (up to 10%) every 1 second thereafter 3. Locked
-
-[SLINGSHOT_2_BOOST_DES_1]
-Effect: 1. Increase in attack power by 13% 2. When there is no attack for 5 seconds, increase the damage of the next attack by 2% (up to 20%) every 1 second thereafter 3. Locked
-
-[SLINGSHOT_2_BOOST_DES_2]
-Effect: 1. 16% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 3% (up to 30%) every 1 second thereafter 3. Locked
-
-[SLINGSHOT_2_BOOST_DES_3]
-Effect: 1. Increase in attack power by 19% 2. When there is no attack for 5 seconds, increase the damage of the next attack by 4% (up to 40%) every 1 second thereafter 3. Return 10% sun price when planting
-
-[SLINGSHOT_2_BOOST_DES_4]
-Effect: 1. 22% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 5% (up to 50%) every 1 second thereafter 3. Return 15% sun price when planting
-
-[SLINGSHOT_2_BOOST_DES_5]
-Effect: 1. 25% increase in attack power 2. When there is no attack for 5 seconds, increase the damage of the next attack by 6% (up to 60%) every 1 second thereafter 3. Return 20% sun consumption when planting
-
-[MAGIC_BOOK_1]
-The Higher Order Magic Book
-
-[MAGIC_BOOK_1_DES]
-A book turned out from an old book box, but after gently dusting off the accumulated ashes, it looks like a new book I just bought. Should it be said that it is worthy of being a magic book.
-
-[MAGIC_BOOK_1_BOOST_DES]
-Effect: 1. Magic damage increased by 10% 2. 1% increase in the duration of immobilised control 3. Locked
-
-[MAGIC_BOOK_1_BOOST_DES_1]
-Effect: 1. Magic damage increased by 12% 2. 2% increase in the duration of immobilised control 3. Locked
-
-[MAGIC_BOOK_1_BOOST_DES_2]
-Effect: 1. Magic damage increased by 16% 2. 4% increase in fixed control duration 3. Locked
-
-[MAGIC_BOOK_1_BOOST_DES_3]
-Effect: 1. Magic damage increased by 20% 2. 6% increase in fixed control duration 3. Planting returns 10% of sun costs
-
-[MAGIC_BOOK_1_BOOST_DES_4]
-Effect: 1. Magic damage increased by 24% 2. 8% increase in the duration of immobilised control 3. Planting returns 15% of sun costs
-
-[MAGIC_BOOK_1_BOOST_DES_5]
-Effect: 1. Magic damage increased by 27% 2. 10% increase in the duration of immobilised control 3. Planting returns 20% of sun costs
-
-[MAGIC_BOOK_2]
-Apprentice Magic Book
-
-[MAGIC_BOOK_2_DES]
-The book turned out from the bottom of the old book box shook and dropped a page, hey! There shouldn't be anyone who knows how to break it.
-
-[MAGIC_BOOK_2_BOOST_DES]
-Effect: 1. Magic damage increased by 10% 2. Immobilization control duration increased by 1% 3. Not unlocked
-Use
-
-[MAGIC_BOOK_2_BOOST_DES_1]
-Effect: 1. Magic damage increased by 12% 2. 2% increase in the duration of immobilised control 3. Locked
-
-[MAGIC_BOOK_2_BOOST_DES_2]
-Effect: 1. Magic damage increased by 15% 2. 3% increase in the duration of immobilised control 3. Locked
-
-[MAGIC_BOOK_2_BOOST_DES_3]
-Effect: 1. Magic damage increased by 18% 2. 4% increase in fixed control duration 3. 10% reduction in planting cooling time%
-
-[MAGIC_BOOK_2_BOOST_DES_4]
-Effect: 1. Magic damage increased by 20% 2. 6% increase in fixed control duration 3. 15% reduction in planting cooling time%
-
-[MAGIC_BOOK_2_BOOST_DES_5]
-Effect: 1. Magic damage increased by 22% 2. Immobilization control duration increased by 8% 3. Planting cooldown time reduced by 20%
-
-[SUN_GEAR_1]
-Sun Gear
-
-[SUN_GEAR_1_DES]
-A gear that fell off a car, surprisingly with a sun pattern on it.
-
-[SUN_GEAR_1_BOOST_DES]
-Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 15% 3. Not unlocked
-
-[SUN_GEAR_1_BOOST_DES_1]
-Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 18% 3. Not unlocked
-
-[SUN_GEAR_1_BOOST_DES_2]
-Effect: 1. Sun production increased by 20 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 21% 3. Not unlocked
-
-[SUN_GEAR_1_BOOST_DES_3]
-Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 24% 3. Returns 15% of sun cost when planting
-
-[SUN_GEAR_1_BOOST_DES_4]
-Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 27% 3. Returns 20% of sun cost when planting
-
-[SUN_GEAR_1_BOOST_DES_5]
-Effect: 1. Sun production increased by 25 points and slightly enhances defense. ^FF0000 Only for fourth-Level sun plants ^oldclr 2. Planting cooldown time reduced by 30% 3. Returns 25% of sun cost when planting
-
-[TRAVEL_TOGETHER_1]
-Time Capsule
-
-[TRAVEL_TOGETHER_1_DES]
-A time capsule buried underground, filled with joyful memories with your playmates. Open it when you grow up!
-
-[TRAVEL_TOGETHER_1_BOOST_DES]
-Effect: 1. Plant cooldown reduced by 15%  2. Rest time reduced by 10%  3. Not unlocked
-
-[TRAVEL_TOGETHER_1_BOOST_DES_1]
-Effect: 1. Plant cooldown reduced by 20%  2. Rest time reduced by 15%  3. Not unlocked
-
-[TRAVEL_TOGETHER_1_BOOST_DES_2]
-Effect: 1. Plant cooldown reduced by 25%  2. Rest time reduced by 20%  3. Not unlocked
-
-[TRAVEL_TOGETHER_1_BOOST_DES_3]
-Effect: 1. Plant cooldown reduced by 30%  2. Rest time reduced by 25%  3. Returns 15% of sun consumed during planting
-
-[TRAVEL_TOGETHER_1_BOOST_DES_4]
-Effect: 1. Plant cooldown reduced by 35%  2. Rest time reduced by 30%  3. Returns 20% of sun consumed during planting
-
-[TRAVEL_TOGETHER_1_BOOST_DES_5]
-Effect: 1. Plant cooldown reduced by 40%  2. Rest time reduced by 35%  3. Returns 25% of sun consumed during planting
-
 
 [ADVICE_TAP_BUTTER_POWERUP]
 Tap the Butter Skill button!
@@ -72882,348 +73510,5 @@ Open the New Year Pack to get tons of diamonds and rare outfits
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Congratulations, you've been selected as today's luckiest player
-
-
-
-
-
-
-
-
-
-[NORMAL_REGENERATION]
-Damaged medical box
-
-[NORMAL_REGENERATION_DES]
-Expired pills must not be taken, not only can they not treat you, they are also damaging!
-
-[NORMAL_REGENERATION_BOOST_DES]
-Effect: Heals a tiny amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
-
-[MAGIC_REGENERATION]
-Basic medical box 
-
-[MAGIC_REGENERATION_DES]
-Plants can feel the great pain when they are hurt, they must be treated as soon as possible to not have any sequelae.
-
-[MAGIC_REGENERATION_BOOST_DES]
-Effect: Heals a small amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
-
-[EPIC_REGENERATION]
-Advanced medical box
-
-[EPIC_REGENERATION_DES]
-Wall-nut, Tall-nut and Infi-nut often fight over this box instead of sharing it.
-
-[EPIC_REGENERATION_BOOST_DES]
-Effect: Heals an average amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
-
-[UNIQUE_REGENERATION]
-Universal medical box
-
-[UNIQUE_REGENERATION_DES]
-Wounds on the surface can be treated easily, but those deep in the heart can only be left to time.
-
-[UNIQUE_REGENERATION_BOOST_DES]
-Effect: Heals a great amount of plant's health every 3 seconds. ^FF0000 Does not work on instant-use plants.
-
-[NORMAL_DRUM]
-Damaged bucket
-
-[NORMAL_DRUM_DES]
-Dave found this bucket when cleaning the lawn, seems to be leaking water......
-
-[NORMAL_DRUM_BOOST_DES]
-Effect: Increases plant's defense by 5%. ^FF0000 Does not work on instant-use plants.
-
-[MAGIC_DRUM]
-Basic bucket
-
-[MAGIC_DRUM_DES]
-Magnet-shroom collected them with hard work, now they will have great uses!
-
-[MAGIC_DRUM_BOOST_DES]
-Effect: Increases plant's defense by 10%. ^FF0000 Does not work on instant-use plants.
-
-[EPIC_DRUM]
-Refined bucket
-
-[EPIC_DRUM_DES]
-Magnet-shroom collected the iron buckets and modified them, making the surface smoother and tougher!
-
-[EPIC_DRUM_BOOST_DES]
-Effect: Increases plant's defense by 15%. ^FF0000 Does not work on instant-use plants.
-
-[UNIQUE_DRUM]
-Spacetime Bucket
-
-[UNIQUE_DRUM_DES]
-Not even zombies have such a bucket, it is said that wearing it allows you to travel through spacetime.
-
-[UNIQUE_DRUM_BOOST_DES]
-Effect: Increases plant's defense by 20%. ^FF0000 Does not work on instant-use plants.
-
-[NORMAL_FERTILIZER]
-Expired fertilizers
-
-[NORMAL_FERTILIZER_DES]
-The nutrients in the fertilizer has mostly been lost, you can still squeeze out a tiny bit if you try.
-
-[NORMAL_FERTILIZER_BOOST_DES]
-Effect: Increases plant's damage by 5%.
-
-[MAGIC_FERTILIZER]
-Basic fertilizer
-
-[MAGIC_FERTILIZER_DES]
-Plants can only grow strong if they are regularly fertilized, but the smell is just...... unbearable!
-
-[MAGIC_FERTILIZER_BOOST_DES]
-Effect: Increases plant's damage by 10%.
-
-[EPIC_FERTILIZER]
-Advanced Fertilizer
-
-[EPIC_FERTILIZER_DES]
-From this smell, it has to be the true all-natural non-toxic organic fertilizer!
-
-[EPIC_FERTILIZER_BOOST_DES]
-Effect: Increases plant's damage by 15%.
-
-[UNIQUE_FERTILIZER]
-Rare Fertilizer
-
-[UNIQUE_FERTILIZER_DES]
-One bag is the equivalent of five, my back legs no longer hurt, I can beat up five zombies at once!
-
-[UNIQUE_FERTILIZER_BOOST_DES]
-Effect: Increases plant's damage by 20%. ^FF0000 For attack plants only
-
-[MAGIC_TORCH]
-Basic torch
-
-[MAGIC_TORCH_DES]
-The plants hate the zombies' torches, so they made one themselves, but it has a different effect.
-
-[MAGIC_TORCH_BOOST_DES]
-Effect: Increases plant's fire damage by 12%.
-
-[EPIC_TORCH]
-Refined torch
-
-[EPIC_TORCH_DES]
-You are like the fire in winter, the heating flames warmed my heart
-
-[EPIC_TORCH_BOOST_DES]
-Effect: Increases plant's fire damage by 18%.
-
-[UNIQUE_TORCH]
-Burning Torch
-
-[UNIQUE_TORCH_DES]
-Squeeze dry the barks and rip them into long stripes, tie them up with a rattan cane, that's how you make a torch!
-
-[UNIQUE_TORCH_BOOST_DES]
-Effect: Increases plant's fire damage by 24%
-
-[MAGIC_SNOWFLAKE]
-Basic Snowflake
-
-[MAGIC_SNOWFLAKE_DES]
-reserving a snowflake is not an easy task, this is only a replica......
-
-[MAGIC_SNOWFLAKE_BOOST_DES]
-Effect: Increases plant's ice damage by 12%.
-
-[EPIC_SNOWFLAKE]
-Refined Snowflake
-
-[EPIC_SNOWFLAKE_DES]
-A pure silver pendant, Dave's mother's mother's mother gave it to him.
-
-[EPIC_SNOWFLAKE_BOOST_DES]
-Effect: Increases plant's ice damage by 18%.
-
-[UNIQUE_SNOWFLAKE]
-Sparkling Snowflake
-
-[UNIQUE_SNOWFLAKE_DES]
-This is a real snowflake, see that sparkle? There is a spirit in every snowflake.
-
-[UNIQUE_SNOWFLAKE_BOOST_DES]
-Effect: Increases plant's ice damage by 24%.
-
-[MAGIC_POLE]
-Basic Pole
-
-[MAGIC_POLE_DES]
-Every power pole has its own code, which can be used to locate them.
-
-[MAGIC_POLE_BOOST_DES]
-Effect: Increases plant's lightning damage by 12%.
-
-[EPIC_POLE]
-Sturdy Pole
-
-[EPIC_POLE_DES]
-There is always a line of sparrows on the pole, squeaking and tweeting the latest gossips.
-
-[EPIC_POLE_BOOST_DES]
-Effect: Increases plant's lightning damage by 18%.
-
-[UNIQUE_POLE]
-Gargantuar's Pole
-
-[UNIQUE_POLE_DES]
-The earliest power poles were wooden, only some time later where they constructed with reinforced concrete.
-
-[UNIQUE_POLE_BOOST_DES]
-Effect: Increases plant's lightning damage by 24%.
-
-[EPIC_EXPLODE]
-Advanced Powder keg
-
-[EPIC_EXPLODE_DES]
-Snapdragon has always wanted to have a peek into the powder keg, but other plants never let him get close to it.
-
-[EPIC_EXPLODE_BOOST_DES]
-Effect: Increases plant's explosive damage by 18%.
-
-[UNIQUE_EXPLODE]
-Super Powder keg
-
-[UNIQUE_EXPLODE_DES]
-It says "No Fire", but there's no time to listen to that when zombies are attacking!
-
-[UNIQUE_EXPLODE_BOOST_DES]
-Effect: Increases plant's explosive damage by 24%.
-
-[EPIC_CLOCK]
-Delicate Alarm Clock
-
-[EPIC_CLOCK_DES]
-Early birds catch the worms, so worms are waking up late.
-
-[EPIC_CLOCK_BOOST_DES]
-Effect: Decreases plant's recharge time by 10%. ^FFFF00 not seed packet (i.e. Spring Bean's sleeping time)
-
-[UNIQUE_CLOCK]
-Dave's Alarm Clock
-
-[UNIQUE_CLOCK_DES]
-Dave thinks traditional alarm clocks are more reliable, that's why he's still keeping this out-of-battery alarm clock.
-
-[UNIQUE_CLOCK_BOOST_DES]
-Effect: Decreases plant's recharge time by 20%. ^FFFF00 not seed packet (i.e. Spring Bean's sleeping time)
-
-[EPIC_COST]
-Energy-Saving Pot
-
-[EPIC_COST_DES]
-Both kids and plants need to stay under the sun more to grow healthily.
-
-[EPIC_COST_BOOST_DES]
-Effect: Decreases plant's sun cost by 10.
-
-[UNIQUE_COST]
-Solar Power Flower Pot
-
-[UNIQUE_COST_DES]
-A solar powered heater, um, I mean flower pot, having mystical powers.
-
-[UNIQUE_COST_BOOST_DES]
-Effect: Reduces sun cost by 25 and gives slightly more defense.^FF0000 Level 4 plants with sun cost higher than 100 only.
-
-[UNIQUE_DUCK]
-Yellow Ducky Tube
-
-[UNIQUE_DUCK_DES]
-It's safer to have a swimming tube when swimming by the sea, but Tangle Kelp can't fathom why.
-
-[UNIQUE_DUCK_BOOST_DES]
-Effect: Non-aquatic plants can be planted on water and have slightly more defense.^FF0000 Non-aquatic Level 4 plants only.
-
-[UNIQUE_SUNMONEY]
-Sun-Concentrating Flower Pot
-
-[UNIQUE_SUNMONEY_DES]
-This flower pot can save a lot of sun in case it's needed.
-
-[UNIQUE_SUNMONEY_BOOST_DES]
-Effect: Produces 25 more sun and gives slightly more defense. ^FF0000 Level 4 plants only
-
-[UNIQUE_ACCELERATE]
-Speed-Up Flower Pot
-
-[UNIQUE_ACCELERATE_DES]
-There is a sign on the side. "Less work, more gain."
-
-[UNIQUE_ACCELERATE_BOOST_DES]
-Effect: Reduces plant's recharge time by 30% and gives them slightly more defense. ^FF0000 Level 4 plants only.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[SUPER_CLOCK]
-Purple Gloves
-
-[SUPER_CLOCK_DES]
-Dave's new gloves, the fashion aura on them makes his dance even more charming!
-
-[SUPER_CLOCK_BOOST_DES]
-Effect # 1: Increase attack power by 12%
-Effect # 2: Attack speed increased by 5%
-Effect # 3: Locked
-
-[SUPER_CLOCK_BOOST_DES_1]
-Effect: 1. Increase attack power by 15% 2. Attack speed increased by 7% 3. Locked
-
-[SUPER_CLOCK_BOOST_DES_2]
-Effect: 1. Increase attack power by 18% 2. Attack speed increased by 9% 3. Locked
-
-[SUPER_CLOCK_BOOST_DES_3]
-Effect: 1. Increase attack power by 20% 2. Attack speed increased by 12% 3. Killing zombies have a 10% chance of generating plant food
-
-[SUPER_CLOCK_BOOST_DES_4]
-Effect: 1. Increase attack power by 25% 2. Attack speed increased by 15% 3. Killing zombies have a 15% chance of generating plant food
-
-[SUPER_CLOCK_BOOST_DES_5]
-Effect: 1. Increase attack power by 30% 2. Attack speed increased by 20% 3. Killing zombies have a 18% chance of generating plant food
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [PVZ2_CHINESE_END]
