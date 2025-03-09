@@ -20,57 +20,38 @@ Plants: 128/271 (30 broken because of wiki)
 Zombie: no
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from march 3 (beta) V1.6.2
+translate by evilhack28 version from march 10 (beta) V1.7.0
 
 [AGE_TIP]
-Change Log by randomgirl3196
+Change Log by evilhack28
 
 [AGE_TIP_CONTENT]
---1.6.0--
-Added 3.6.0 text
+--1.7.0--
+Added all 3.6.4 text
 
---1.6.1--
-Fixed aborday day text + daily pack plants
-Fixed treasure text
-fixed penny store text 
-fixed diamond + coin + gene + dave treasure + all other pack text
-fixed dave treasure text 
-fixed new year red note text 
-fixed tile tunrip costume event text
-fixed inviation text
-fixed vase breaker text
-fixed batlle pass text
-fixed weekly gacha textfixed plants adventure text
-fixed travel log text
-fixed artifact text + piece machine + backpack +nfs text
+[EVIL_1]
+^340202 Made by evilhack28 Report any MISSING text 
 
---1.6.2--
+[EVIL_2]
+thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
 
-fixed all pedant enjoy !
+[EVIL_3]
+idk what i can see...
 
-[SPRING_TIPS_1]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
+[EVIL_4]
+all peak feature that everyone else use i made by me incredible no ? 
 
-[SPRING_TIPS_2]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
+[EVIL_5]
+Imagine steal my file
 
-[SPRING_TIPS_3]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
+[EVIL_6]
+Long loading right ? 
 
-[SPRING_TIPS_4]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
+[EVIL_7]
+Remeber everything you see is made by me :)
 
-[SPRING_TIPS_5]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
-
-[SPRING_TIPS_6]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
-
-[SPRING_TIPS_7]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
-
-[SPRING_TIPS_8]
-want do a boss rush hack ? https://youtu.be/s1fvkYJWUwE?si=HpD1CPOJzwptnqDv
+[EVIL_8]
+Have a nice days
 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_2]  
@@ -11912,7 +11893,7 @@ Executive Producer
 [CREDTIS_CHINA_GOUDAN]
 Development Director
 
-[CREDTIS_CHINA_MANAGER]
+[CREDTIS_CHINA_BICTH]
 Senior Product Manager
 
 [CREDTIS_CHINA_PM]
@@ -12436,23 +12417,17 @@ Ephemeral Fireworks
 [RANK_AVATAR_CONTENT_CONTENT_61034]  
 Reward for players who participated in the March 2025 Co-Op Event.  
 
-[RANK_AVATAR_CONTENT_TITLE_61038]  
-Merry Christmas  
+[RANK_AVATAR_CONTENT_TITLE_61035]
+New year snake
 
-[RANK_AVATAR_CONTENT_CONTENT_61038]  
-A warm fireplace, a cozy gathering  
+[RANK_AVATAR_CONTENT_CONTENT_61035]
+Reward for the Master Rank in the 27th season of Two-player Duel
 
-[RANK_AVATAR_CONTENT_TITLE_61037]  
-Don't Forget the Gentleman  
+[RANK_AVATAR_CONTENT_TITLE_61036]
+Vision of Wisdom
 
-[RANK_AVATAR_CONTENT_CONTENT_61037]  
-Elegance in heart, gentleman in action  
-
-[RANK_AVATAR_CONTENT_TITLE_61500]  
-Spooky Halloween Night  
-
-[RANK_AVATAR_CONTENT_CONTENT_61500]  
-Trick or treat!  
+[RANK_AVATAR_CONTENT_CONTENT_61036]
+Reward for the Master Rank in the 28th season of Two-player Duel
 
 
 [RANK_AVATAR_BTN_CHANGE]
@@ -12571,18 +12546,6 @@ New year snake
 
 [RANK_AVATAR_DIY_37]
 Vision of Wisdom
-
-[rank_avatar_diy_38]  
-Spooky Halloween Night  
-
-[rank_avatar_diy_39]  
-Don't Forget the Gentleman  
-
-[rank_avatar_diy_40]  
-Merry Christmas  
-
-[rank_avatar_diy_41]  
-All Things Revive  
 
 [DOWNLOAD_FAILED_BODY]
 Unable to retrieve update information.
@@ -24945,7 +24908,7 @@ Automatic refresh requires networking
 Has been reinforced to the highest level
 
 [BUTTON_STEADY]
-Enhance
+Reinforcement
 
 [BUTTON_RESET]
 Reset
@@ -24957,19 +24920,17 @@ Current EFFECTS
 Subordinate Preview
 
 [CONFIRM_STEADY_TITLE]
-Pendant Enhance
+Pendant reinforcement
 
 [CONFIRM_STEADY]
-Enhance with these materials ?
-{MAT1}: {NUM1}
-{MAT2}: {NUM2}
-{MAT3}: {NUM3}
+Do you want to spend the following materials to enhance?
+{MAT1}: {NUM1}, {MAT2}: {NUM2}, {MAT3}: {NUM3}
 
 [ACCESSORY_STEADY_SUCCESS_INFO]
 Congratulations! You have obtained a ^FF0000 Level {LEVEL} {NAME} ^oldclr
 
 [ACCESSORY_STEADY_SUCCESS_TITLE]
-Enhance success
+Reinforcement success
 
 [MAT_SPACE_TIME_CRYSTAL]
 Space-Time Crystal
@@ -25567,7 +25528,7 @@ Dodge obstacles!
 Big Wave Beach
 
 [BEACH_LEVEL_NAME]
-Big Wave Beach - level{LEVEL_NUMBER}
+Big Wave Beach {LEVEL_NUMBER}天
 
 [BANANA]
 Banana Rocket Cannon
@@ -27806,24 +27767,6 @@ Can blow cold winds to freeze plants ahead.
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION]
 {FLAVOR} The Icewind Chieftain Zombie defeated other zombies in a leaf-blowing competition and was elected chief of the entire tribe. As the saying goes, when a new zombie takes office, there will be three fires. So he decided to hold a sports meeting in the entire tribe. Famous runners like Dodo Knight Zombie and Skiing Zombie, famous weightlifters like Cave Ice Zombie, and famous discus throwers like Sloth Gargantuar Zombie all came to participate... This sports meeting had only one event: blowing balloons...
 
-[ZOMBIE_SLIMES]
-史莱姆僵尸
-
-[ZOMBIE_SLIMES_DESCRIPTION]
-千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
-
-[ZOMBIE_SLIMES_DESCRIPTION_HEADER]
-被击杀后会分裂
-
-[ZOMBIE_SLIMES_GARGANTUAR]
-史莱姆僵尸
-
-[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]
-千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
-
-[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
-被击杀后会分裂
-
 [ELIMINATE_TIP1]
 Well done!
 
@@ -29307,12 +29250,6 @@ Stirring the atmosphere
 [BIRTHSUNFLOWER_SKILL_LEVEL2_DES]
 Increase the effect of passionate singing by 100%.
 
-[BIRTHSUNFLOWER_SKILL_LEVEL5]
-沉醉音符
-
-[BIRTHSUNFLOWER_SKILL_LEVEL5_DES]
-向日葵歌手在生产阳光后，会发出可以眩晕僵尸的音
-
 [STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER]
 The plants food causes the sunflower singer to start performing when the other sunflower singers on the field will produce sun.
 
@@ -30718,12 +30655,18 @@ Made by evil :)
 Fun Race Challenge Instructions
 
 [MINIGAME_RULE_TXT]
-1. The fun competition will be open from March 12, 2025, to March 25, 2025. A new mini-game will be available each day.
+1. The fun competition will be open from January 21, 2025, to February 3, 2025. A new mini-game will be available each day.
+
 2. During the event, players have no limit on the number of daily challenges. Players will earn points and enhancement energy upon successfully completing mini-game levels.
+
 3. Points earned from completing levels include base points and time-based points. For normal levels, base points are 1000, with a time-based point cap of 500. For hard levels, base points are 2000, with a time-based point cap of 500.
+
 4. Time-based points are awarded based on the time taken to complete the level.
+
 5. After completing a mini-game, players can redeem rewards based on the points earned.
+
 6. Points earned in mini-games can be converted into enhancement energy at a certain ratio.
+
 7. Enhancement energy can be used to strengthen mini-games, granting corresponding enhancement effects.
 
 [DANGERROOM_RULE_TITLE]
@@ -33714,12 +33657,6 @@ Fairy Tale endless - Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_TALE_TITLE_WELCOME]
 Welcome to Fairy Tale endless !
-
-[DANGER_ROOM_RENAI_LEVEL_NAME]
-Renaissance Age - level {LEVEL_NUMBER}
-
-[DANGER_ROOM_RENAI_TITLE_WELCOME]
-Welcome to Renaissance Age endless !
 
 [DANGER_ROOM_REWARD_FLAME_THROWER]
 Adds a free Flame Finger.
@@ -43300,450 +43237,104 @@ plants food can release 2 more purple electric balls
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
 Electric energy pea Costume
 
-[BUBBLECORAL_FAMILY]
-仙人掌科
-[BUBBLECORAL_GENUS]
-仙人掌属
-[BUBBLECORAL_PEDIA]
-姬珊瑚：多肉界的“招财手”
-    多年生肉质小灌木。
-    株高约15厘米，茎细圆柱形茎肉质，呈珊瑚状分枝。茎表面密布白色刺座，着生细小白刺；花顶生，粉红色或白色；浆果椭球型。花期为夏季，果期为秋季。
-    株形小巧的植物常用“姬”来命名，丛生形态似珊瑚而得名，又因茎干细长条状名“仙人条”，多分枝似手掌而名“招财手”。原产墨西哥和美国西南部，现各地多栽培用作多肉观赏盆栽。
-
-
-[WINTERRAMBUTAN_FAMILY]
-无患子科
-[WINTERRAMBUTAN_GENUS]
-韶子属
-[WINTERRAMBUTAN_PEDIA]
-红毛丹——热带果林的毛荔枝
-    常绿乔木。
-    高10余米；羽状复叶互生，小叶2-3对，薄革质椭圆形。聚伞圆锥花序顶生或腋生，花小，单性，无花瓣，雌雄异株。果实椭圆形，红色，长约5厘米，果皮密被柔软刺，假种皮肉质白色（食用部分）与种皮粘连，包裹种子。花期夏初，果期秋初。
-    原产亚洲热带，马来群岛一带种植较多，通称“Rambutan”（意为“毛茸茸的果子”），因果实形态和口味与荔枝相似也常被称为“毛荔枝”，是东南亚地区备受喜爱的水果。此外，其果壳可煎茶或作染料，树皮和根也可做茶饮，有降火消炎之效。
-
-
-[BURDOCKBATTER_FAMILY]
-菊科
-[BURDOCKBATTER_GENUS]
-牛蒡属
-[BURDOCKBATTER_PEDIA]
-牛蒡——药食两用的“牛尾”根
-    二年生草本植物。
-    植株高可达2米，肉质直根，圆柱形，长可达1米；茎直立，粗壮，带紫色；叶宽卵形，长可达30厘米；头状花序在茎顶排成疏松的或圆锥状伞房花序，总苞卵球形，苞片顶端有倒钩刺，果实成熟期可帮助果实挂附在动物皮毛上帮其传播至远方；小花紫红色；瘦果倒长卵形，浅褐色。花果期6-9月。
-    因其植株粗壮似“牛”，野外丛生为“蒡”而得名，另一说因其根似牛尾得名。广布欧亚大陆，因其肉质根味道清香，且有清热解毒、疏风利咽之效，为东亚地区广受欢迎的保健食材，各国各地也普遍栽培。其果实也可入药，具疏散风热等功效。
-
-
-
-[JEWELRABBIT_FAMILY]
-番杏科
-[JEWELRABBIT_GENUS]
-碧光环属
-[JEWELRABBIT_PEDIA]
-碧光环——多肉界的“小兔子”
-    多年生草本植物。
-    株高可达15厘米；茎褐色肉质，顶端生对生的肉质叶组成，呈半球形；新叶从中长出，细长对生，形似兔耳；花白色，果实呈元宝形。花果期因地域和养护条件而异，一般在秋季至春季间。
-    因叶片形态常被多肉植物爱好者称为“小兔子”，原产南非。因其可爱的形态而常作为盆栽观赏，喜温暖和散射光充足的环境，耐旱忌涝，忌强光暴晒。
-
-
-[HEATHSEEKER_FAMILY]
-杜鹃花科
-[HEATHSEEKER_GENUS]
-欧石南属
-[HEATHSEEKER_PEDIA]
-欧石南——欧洲荒野坚韧之花
-    常绿灌木。
-    植株矮小（20-150厘米）；叶片细条状，多枚轮生于枝上；花紫红、粉红或白色等，球状到管状，顶端4裂，花小（花径约5毫米），多几十朵生于枝端形成一串可爱的小铃铛；果为蒴果，包含在宿存花萼和花冠内。花期为冬季及早春，果期为春季。
-    原产欧洲和非洲的荒原和山地，其属学名“Erica”源自希腊语“ereikō”，意为“打破”，指其生命力顽强，能打破贫瘠土壤而生长。是欧洲冬季最常见的观赏花卉，为挪威国花，欧洲文学作品中常出现其身影。此外，其植株可用于提取精油，具有镇静、抗菌等功效。
-    花语：孤独、勇敢、坚韧
-
-
-[GARDENERGRASS_FAMILY]
-山龙眼科
-[GARDENERGRASS_GENUS]
-帝王花属
-[GARDENERGRASS_PEDIA]
-帝王花：南非的国花
-    常绿灌木。
-    植株高约1米；叶片互生，革质长椭圆形；头状花序，形如睡莲，直径可达30厘米；由众多小花组成，外围苞片花瓣状，红色或粉红色；果实椭圆形，种子棕色扁平卵形。花期春至夏初，果期为夏季。
-    因花序形似皇冠而得名，原产南非各地，深受民众喜爱而普遍种植，为南非国花。作为外来花卉，常音译其名“Protea”而被称为“卜若地”、“普蒂亚”等，因其富贵华丽的外表常用作鲜切花。
-
-
-[INFERNO_FAMILY]
-碗蕨科
-[INFERNO_GENUS]
-蕨属
-[INFERNO_PEDIA]
-蕨——美味又危险的古老野菜
-    多年生草本植物。
-    株高可达1米；根状茎长而横走；幼叶呈紧密的“拳头状”卷曲，成熟后展开为大型羽状复叶，长可达1-3米，叶背边缘生有呈褐色线状排列的孢子囊群。蕨类植物非常古老，其演化历史可追溯到志留纪末期（约4.2亿年前），它们没有真正的花和果，依靠孢子繁殖。
-    蕨的适应力极强，全球热带及温带地区均有分布，我国主要产长江流域及以北地区，生山坡、林缘等湿润半阴环境。其嫩叶可食，爽脆清香，俗称“蕨菜”或“拳菜”；根状茎可提取“蕨根粉”做粉条或蕨饼食用，因此川南地区称其为“米蕨”。但应注意其含原蕨苷，长期大量食用可能增加胃癌、食道癌风险。
-    花语：野蛮生长、危险的诱惑
-
-
-
-[BROMELBLADE_FAMILY]
-凤梨科
-[BROMELBLADE_GENUS]
-丽穗凤梨属
-[BROMELBLADE_PEDIA]
-鹦哥丽穗凤梨——热带雨林的绚丽精灵
-    附生多年生常绿草本植物。
-    植株高30-60厘米；叶片革质带状，呈莲座状排列；花序顶生；穗状花序，苞片鲜艳，基部红色，上部黄色；花黄色，花瓣3枚；蒴果，成熟时会自动裂开，种子具毛，可随风飘荡将种子传播至远方。花期多为春季，果期为春夏之交。
-    因其花序上具层层叠叠的红色或黄色的苞片，如鹦鹉羽毛或火剑而得名鹦哥丽穗凤梨或火剑（箭）凤梨，观赏期长达数月。原产巴西，为当地热带雨林中常见的附生植物，其叶片具有吸收水分的鳞片，基部呈鞘状，雨水沿叶面流入由叶鞘形成的“贮水器”，不仅能帮助其渡过旱季，还为其它小型生物提供了水源和栖息地。
-
-
-[ELEOCURLING_FAMILY]
-莎草科
-[ELEOCURLING_GENUS]
-荸荠属
-[ELEOCURLING_PEDIA]
-荸荠——地下雪梨
-    多年生水生草本植物。
-    具细长匍匐根状茎，顶端生扁球形块茎，表皮栗红色；茎秆丛生，圆柱状，高15-60厘米；叶退化，只在杆基部有2-3个膜质叶鞘；多朵花形成圆柱状小穗顶生，淡绿色；小坚果宽倒卵形，棕黄色，双凸状。花果期5-10月。
-    因其球茎颜色形态又名“马蹄”，富含淀粉，生食脆甜，被誉为“地下雪梨”，亦可炒菜、炖汤或制成马蹄糕、糖水等甜点，是我国江南水乡特色美食之一。此外，也可供药用，可健胃消食。现我国各地均有栽培，朝鲜、日本、越南、印度也有分布。
-
-
-[MONOTROPA_FAMILY]
-杜鹃花科
-[MONOTROPA_GENUS]
-水晶兰属
-[MONOTROPA_PEDIA]
-水晶兰：幽林中的水晶之花
-    多年生草本植物。
-    茎直立不分枝，高10-30厘米，全株无叶绿素，白色，肉质；根细而分枝密，交结成鸟巢状；叶片鳞片状，互生；花单生茎顶，筒状钟形，花瓣5-6片，半透明白色；雄蕊10-12枚，雌蕊单生，花柱头膨大成漏斗状；果实椭圆球形，直立，向上，长1.3-1.4厘米。花期为6-9月；果期9-11月。
-    为腐生植物，因无叶绿素而不能产生光合作用，而是依赖分解有机物质来获取营养生长，因此要生长在腐殖质丰富的土壤中。集中分布于我国西南和西北地区海拔800-3850米的山地林下，苏联、日本、印度、东南亚、北美也有分布。
-
-
-[HOLLYKNIGHT_FAMILY]
-冬青科
-[HOLLYKNIGHT_GENUS]
-冬青属
-[HOLLYKNIGHT_PEDIA]
-欧洲冬青——圣诞冬青
-    常绿灌木或小乔木。
-    植株高10-25米；叶片革质，深绿色，椭圆形，边缘波状具尖刺；雌雄异株；花小簇生叶腋，花瓣白色，4枚；核果球形，直径6-10毫米，成熟时鲜红色。花期4-5月，果期10-翌年2月。
-    因叶片冬季叶片常青而得名，原产欧洲西南部及北非、西亚。其树干宜作尺、美术工艺品等，染色后可以代替乌木使用。欧洲冬青也叫“圣诞冬青”，欧洲家庭用它制作圣诞花环来迎接圣诞节，他们相信其红色浆果是太阳的化身，能驱散冬夜的黑暗和魔鬼。
-
-
-[PARSNIP_FAMILY]
-伞形科
-[PARSNIP_GENUS]
-欧防风属
-[PARSNIP_PEDIA]
-欧防风——欧洲的白色胡萝卜
-    二年生草本植物。
-    高可达1.6米；根肉质，圆锥形，淡棕黄色，长达30厘米；叶片羽状分裂，深绿色；复伞形花序，花小，花瓣5枚，黄色；果实成熟时常分裂成2个分生果，果卵圆形至倒卵形，具棱。花果期6-8月。
-    因其原产欧洲且与我国中药植物防风形似而得名，又因其叶片似芹菜，根形似胡萝卜，民间俗称“芹菜萝卜”。其肉质根质地细腻，味道甘甜，是欧洲传统根茎类蔬菜，此外还可做饲料或酿酒。现主要在欧美国家大量栽培，我国偶有栽培。
-
-
-[WASABIWHIP_FAMILY]
-十字花科
-[WASABIWHIP_GENUS]
-山艹俞菜属
-[WASABIWHIP_PEDIA]
-山葵——山间的辛辣珍宝
-    多年生草本植物。
-    植株高20-50厘米；根状茎肉质，长10-30厘米；基生呈莲座状，叶片心形或肾形，边缘具波状齿，茎生叶宽卵形，掌状叶脉；总状花序，花白色，花瓣4枚排成“十字形”，雄蕊6枚，雌蕊1枚；果实线形圆柱状，种子长圆形。花期3-5月，果期5-6月。
-    山葵根茎富含辛辣成分，研磨后可作为调味品即“山葵酱”，在日式料理中广泛应用。原产日本和韩国等，台湾有归化，现多地有栽培。
-
-
-[DRAGONROAR_FAMILY]
-猪笼草科
-[DRAGONROAR_GENUS]
-猪笼草属
-[DRAGONROAR_PEDIA]
-猪笼草——食虫植物界的“陷阱大师”
-    直立或攀援草本。
-    株高0.5-2米；叶由叶柄（短近无）、叶片、卷须和捕虫笼构成，因捕虫笼形似猪笼而得名。捕虫笼由瓶状体和笼盖两部分构成，其上密布能分泌蜜露的紫红色斑点，瓶口尤其密集，因此能吸引昆虫来到瓶口，一不小心就滑落瓶内，被瓶底分泌的消化液淹死并分解成营养物质，逐渐消化吸收。笼盖可以防止雨水进入笼中，避免稀释笼中消化液的浓度。其花序总状，雌雄异花，花红至紫红色。花期4-11月，果期8-12月。
-    猪笼草主要分布于热带地区的沼泽、路边、山中林下等，因其独特的形态和食虫习性，常被作为观赏植物栽培。此外，在东南亚地区，会将米、肉等食材塞入苹果猪笼草的捕虫笼蒸熟做成“猪笼草饭”；干燥的茎叶入药有清热止咳、利尿降压之效。
-
-
-[NEKOTAIL_FAMILY]
-香蒲科
-[NEKOTAIL_GENUS]
-香蒲属
-[NEKOTAIL_PEDIA]
-香蒲——水中优雅的“猫尾草”
-    多年生水生或沼生草本。
-    地上茎粗壮，高1-2米；叶片长条形，长可达1米；圆柱状穗状花序顶生，雌雄花序紧密相连，上方为雄花序，下方为雌花序，下部具白色丝状毛，果期可随风帮助种子传播远方；小坚果椭圆形，种子褐色。花果期5-8月。
-    因植株具清香而得名，又因其花序颜色形态，国外称其为“cattail”（猫尾草），原产于中国东北、华北、西北、华东和西南等地湿地和水域中，在菲律宾、日本、俄罗斯及大洋洲也有分布。其叶片用于编织、造纸等，雌花序可作枕芯等填充物，花粉可入药（蒲黄），嫩芽（蒲菜）可食，而其优雅的姿态使其常被用作水生观赏花卉。
-
-
-[WINTERSWEET_FAMILY]
-蔷薇科
-[WINTERSWEET_GENUS]
-李属
-[WINTERSWEET_PEDIA]
-梅——中华传统名花
-    落叶小乔木。
-    株高4-10米，小枝绿色；叶片卵形至椭圆形，先端尾尖；花多单生，先叶开放，花瓣五片，颜色白色或粉色，香气清幽；球形核果，味酸可食。花期冬春季，果期为夏季。
-    原产于中国、朝鲜和日本，在我国已有三千多年的栽培历史，如今已遍布全国各地，尤以长江流域以南地区最为常见。因其花“凌寒绽放”，与松、竹并称为“岁寒三友”。其果实即“梅子”，可食、盐渍或干制，三国时期“青梅煮酒”故事流传至今；其花、叶、根均可入药，具有疏肝解郁、化痰止咳等功效。
-
-
-[JACKFRUIT_FAMILY]
-桑科
-[JACKFRUIT_GENUS]
-波罗蜜属
-[JACKFRUIT_PEDIA]
-波罗蜜——“热带果王”
-    常绿乔木。
-    高可达20米，老树常有板根来稳固生长；叶片革质，螺旋状排列，椭圆形；花雌雄同株，花序生老茎或短枝上，以便不被茂密的叶片遮挡而能更易被传粉和帮助传播种子的动物发现；雄花序圆柱形，雌花序球形；聚花果椭圆球形，表面有坚硬六角形瘤状凸体和粗毛。花期2-3月，果期6-8月。
-    名字源于梵文“Pāramitā”，意为“到彼岸”即“圆满”（佛教文化），因其果实圆而丰硕与“圆满”理念相契合而得名。原产印度南部，现热带和亚热带多地均有栽培。其单果长可达1米，重可达50公斤，为界上最大和最重的水果之一，享有“热带果王”的美誉。此外，其核果富含淀粉可煮食，木材可提取桑色素。
-
-
-[AKEE_FAMILY]
-无患子科
-[AKEE_GENUS]
-咸鱼果属
-[AKEE_PEDIA]
-西非荔枝果——美味又危险的“阿开木”
-    常绿乔木。
-    高可达25米；羽状复叶对生，小叶3-5对，椭圆形；聚伞圆锥花序顶生，白或淡黄色，花瓣5枚；果实椭圆形，果皮橙红色，成熟时裂开，露出黑色种子，外包被的奶黄色假种皮为可食部分，未成熟时有剧毒。花期3-5月，果期6-8月。
-    因原产西非，果实红色又与荔枝同属一个家族而得名。又因开花时能吸引群蜂来，当地人称其为“Ackee”（意为“蜜果”），音译“阿基”或“阿开木”果，当地常煮熟与咸鱼搭配食用，故又名“咸鱼果”。除食用外，叶片可提取抗菌药物，果皮和种子提取油可制肥皂。此外，在西非常被用于传统仪式和庆典活动，象征着丰收、健康和幸福，还常被用作礼物来表达对他人的尊重和祝福。
-
-
-[XSHOT_FAMILY]
-十字花科
-[XSHOT_GENUS]
-芸苔属
-[XSHOT_PEDIA]
-芜菁——古老的根茎作物
-    二年生草本植物。
-    高可达1米，块根肉质，近球形，外皮白色、黄色或红色；基生叶大头羽状分裂，茎生叶长圆形；总状花序顶生，花黄色4瓣，排成“十字”形，雄蕊6枚，雌蕊1枚；果实线形，长3-8厘米，种子球形，浅黄棕色。花期3-4月，果期5-6月。
-    又名蔓菁，其块根可熟食或腌制酸菜，或作饲料。原产于地中海或中亚地区，现各地均有栽培。约在汉代传入中国，作为根茎蔬菜在中国古代是重要的食用和救荒作物。
-
-
-[GUACODILE_FAMILY]
-樟科
-[GUACODILE_GENUS]
-鳄梨属
-[GUACODILE_PEDIA]
-鳄梨——富含营养的“超级食物”
-    常绿乔木。
-    高约10米；叶互生，革质，长椭圆形；聚伞状圆锥花序，花小（长约5毫米），淡黄绿色，花被筒倒锥形，花被裂片6；果实梨形，种子卵球形，单生。花期2-3月，果期8-9月。
-    形状如梨,果皮粗糙似鳄鱼皮而得名，因其质地和口感似黄（牛）油又称牛油果，因富含健康脂肪而被誉为“超级食物”。原产热带美洲，现世界热带及亚热带地区多有栽培。其果仁含脂肪油，可用于食用、医药和化妆工业。
-
-
-[PEANUT_FAMILY]
-豆科
-[PEANUT_GENUS]
-落花生属
-[PEANUT_PEDIA]
-落花生——入地结果的“长生果”
-    一年生草本。
-    茎直立或匍匐生长，根部有根瘤；羽状复叶（小叶2对），黄色蝶形小花簇生于叶腋；花朵授粉、胚珠完成受精后，雌蕊的子房柄向下延伸生长，将子房插入土下，并于地下发育成熟形成果实；果实长椭圆形，内含1-4粒种仁，外覆红色种皮。花果期6-8月。
-    因其“落花入地结果”的独特生殖方式而得名，俗称“花生”。原产南美洲，现世界广泛种植，其根瘤菌能固氮，可改良土壤肥力。其茎可供造纸，种子可食用也可榨油，为全球主要食用油之一。在中医里花生用于延年益寿的食疗方中，故又名“长生果”。果实有多粒种子而被寓意“多子多福”，常用于婚庆仪式中。
-
-
-[STARFRUIT_FAMILY]
-酢浆草科
-[STARFRUIT_GENUS]
-阳桃属
-[STARFRUIT_PEDIA]
-阳桃——“星星果”
-    常绿乔木。
-    高可达12米；叶互生，奇数羽状复叶，小叶5-13枚，卵形或椭圆形。花小（花径约1厘米），萼片、花瓣均5枚，紫红色，聚伞或圆锥花序腋生。果实为浆果，椭圆形，具5棱，成熟时黄色；种子扁平，黑褐色。花期4-12月，果期7-12月。
-    别名杨桃、五敛子，因其果实横切面呈五角星形，又名“星星果”。原产于东南亚热带地，现广植于热带各地。除了果实可做水果，其根、皮、叶入药用于止痛止血。
-
-
-[MELONPULT_FAMILY]
-葫芦科
-[MELONPULT_GENUS]
-西瓜属
-[MELONPULT_PEDIA]
-西瓜——夏日降暑佳果
-    一年生蔓生草本植物。
-    茎匍匐，被柔毛；叶互生，三角状卵形，3-5深裂，裂片羽状深裂，叶片基部心形。雌雄同株，雌、雄花均单生于叶腋，淡黄色，宽钟状，深5裂。果实球形或椭圆形，肉质多汁；种子卵形，黑色、褐色等。花果期夏季。
-    原产于非洲，现广泛栽培于世界热带到温。金、元时始传入我国，现品种甚多，外果皮、果肉及种子形态多样。除了果肉可食用于降温去暑，西瓜子可做零食，果皮入药有降血压之效。
-
-
-[COCONUTCANNON_FAMILY]
-棕榈科
-[COCONUTCANNON_GENUS]
-椰子属
-[COCONUTCANNON_PEDIA]
-椰子——热带海岸的标志
-    常绿乔木。
-    高可达30米；叶片羽状全裂，长4-6米，簇生茎顶；花单性，雌雄同株；果实近球形，外果皮薄，中果皮厚纤维质，内果皮木质坚硬，果腔含有胚乳（即椰肉和椰汁）和胚，这样空腔的构造帮助其果实成熟坠入海中时，可以像皮球一样漂流传播到更远的海岸。花果期主要在秋季。
-    椰子原产于亚洲热带地区，如今广泛分布于全球热带沿海地区，是热带海岸标志性植物。除了食用，椰壳可制作器皿和工艺品，椰纤维可编织绳索、地毯等，树干可用于建筑，叶片可编织草帽、席子等。
-    花语：希望、收获
-
-
-[LIGHTNINGREED_FAMILY]
-禾本科
-[LIGHTNINGREED_GENUS]
-芦苇属
-[LIGHTNINGREED_PEDIA]
-芦苇——湿地的守护者
-    多年生草本植物。
-    高1-3米，具发达的地下根状茎，茎秆中空；叶片狭长，呈披针状线形，排列两行；圆锥花序顶生，长20-40厘米，由多个小穗组成，小穗含3-7朵小花，基部具丝状长柔毛；果实为颖果，细小被长柔毛包裹，可随风传播。花期在7月；果期在8-11月。
-    广泛分布于全球的淡水湿地、河岸、湖泊等水域,它适应性强，能有效净化水质，防止水土流失，为鱼类、鸟类等提供栖息地,为固堤造陆先锋环保植物。其茎秆可用于造纸、编织、建棚材料等，嫩茎叶可作饲料，根状茎可入药，具有清热解毒等功效。
-
-
-[PUMPKINWITCH_FAMILY]
-葫芦科
-[PUMPKINWITCH_GENUS]
-南瓜属
-[PUMPKINWITCH_PEDIA]
-南瓜——田园里的金黄宝藏
-    一年生蔓生草本植物。
-    茎匍匐生长，长达数米，具卷须；叶片卵圆形，5浅裂，密被黄白色毛；花冠黄色，钟状，5中裂；雌雄同株异花，雄花（提供花粉）具雄蕊3枚，雌花（未来形成果实）的花柱短，柱头3个，顶端2裂；果实形状和颜色多样，因品种而异；种子长卵形，灰白色。
-    原产墨西哥到中美洲一带，明代传入我国。华北地区常称其“倭(窝)瓜”，可能源于历史上南瓜传入该地区的路径（通过日本）。除了食用，全株还可药用，如南瓜子有清热除湿、驱虫的功效。而在欧洲，将南瓜雕刻成杰克灯，是万圣节不可或缺的元素。
-
-
-[HURRIKALE_FAMILY]
-十字花科
-[HURRIKALE_GENUS]
-芸薹属
-[HURRIKALE_PEDIA]
-甘蓝——来自地中海的卷心菜
-    二年生草本。
-    基生叶多数，层层包裹成球状体，直径10-30厘米；总状花序顶生及腋生；花淡黄色，花瓣4片，十字形排列；果实为圆柱形长角果，长6-9厘米；种子球形，棕色。花期4月，果期5月。
-    因其味道和颜色而得名“甘蓝”，在我国也常被称为卷心菜、洋白菜等，是秋冬季节的主要蔬菜之一。原产地中海沿岸，现世界各地广泛栽培。除了食用，其园艺变种羽衣甘蓝也培育出了丰富的观赏品种常应用于花坛花境。
-    花语：利益、祝福
-
-
-[MAPLEBLADE_FAMILY]
-槭树科
-[MAPLEBLADE_GENUS]
-槭属
-[MAPLEBLADE_PEDIA]
-鸡爪槭（枫）——“霜叶红于二月”
-    落叶小乔木。
-    株高2-5米；叶对生，掌状5-9裂，边缘有锯齿；花紫色，杂性，雄花与两性花同株；花萼片和花瓣均为5枚；雄蕊8枚，花柱单生，顶端2裂；果实为翅果，形如蜻蜓翅膀。当果实成熟时，风吹来，其“翅膀”会带着它的种子如直升机一样螺旋飞翔，通过增加其在空中的滞留时间帮助种子传播到更远的地方。花期5月，果期为深秋。
-    古时称该科植物为“槭”，后因其叶秋季变红又常被大众称为“枫”。原产中国、朝鲜和日本，现世界各地广泛栽培，园艺品种繁多，叶片形态和色彩多样，为园林的主要的秋季观叶树种之一。
-
-
-[BUDUHBOOM_FAMILY]
-阿福花科
-[BUDUHBOOM_GENUS]
-十二卷属
-[BUDUHBOOM_PEDIA]
-玉露——多肉界晶莹剔透的绿宝石
-    多年生肉质草本植物。
-    植株矮小，叶片呈莲座状排列，肉质肥厚，顶端透明或半透明，形成“窗”，如翡翠上的露珠而得名。而此“窗”不仅可爱，还是其渡过旱期的法宝。当旱季来临，植株大部分会缩回土中来减少水分蒸发，阳光就透过“窗”照射到内部组织来保证其进行光合作用。花序总状，花小（径约5毫米），6瓣，白色或淡粉色；果实椭圆形，内含黑色细小种子。花期3-5月，果期6-8月。
-    玉露原产于南非，现作为盆栽多肉植物世界广泛栽培，品种众多。喜凉爽的半阴环境，耐旱怕涝，多通过叶插和分株繁殖。
-
-
-[PAPHIOPEDILUM_FAMILY]
-兰科
-[PAPHIOPEDILUM_GENUS]
-兜兰属
-[PAPHIOPEDILUM_PEDIA]
-兜兰——植物界的“拖鞋公主”
-    多年生草本植物。株高15-60厘米；叶长圆形排成2列，茎短而包藏于叶基内；多单花顶生，花色丰富；果实为蒴果，种子细小。花期多为春季，果期多为春夏之间。
-    兜兰属的植物的统称，因其下部花瓣特化成兜状而得名，又因形似包头拖鞋而名“拖鞋兰”。其可爱的“兜”其实是个巧妙的陷阱。当花盛开时，昆虫受吸引而来，一不小心就会掉入“兜”中，而其内壁光滑，只有一条通往花蕊的路可以攀爬，就这样昆虫在逃生过程中不知不觉地帮助兜兰完成了传粉。
-    主要分布在亚洲的热带地区至太平洋岛屿，约110种，多附生于树干或岩石上；我国分布有39个，均为国家重点保护植物。其花秀雅深受人们喜爱，培育的园艺品种已超过2万个。
-    花语：美人、勤俭
-
-
 [WIREGELSEMIUM_FAMILY]
-钩吻科
+Gelsemiaceae
+
 [WIREGELSEMIUM_GENUS]
-钩吻属
+Gelsemium
+
 [WIREGELSEMIUM_PEDIA]
-钩吻（Gelsemium elegans (Gardn. et Champ. ) Benth.）
-    多年生常绿木质藤本植物，长3-12米。小枝圆柱形，幼时具纵棱；除苞片边缘和花梗幼时被毛外，全株均无毛。叶片膜质，卵形、卵状长圆形或卵状披针形，长5-12厘米，宽2-6厘米，顶端渐尖，基部阔楔形至近圆形；叶片的侧脉每边5-7条，上面扁平，下面凸起；叶柄长6-12毫米。花朵密集，组成顶生和腋生的三歧聚伞花序，每分枝基部有苞片2枚；苞片三角形，长2-4毫米；小苞片三角形，生于花梗的基部和中部；花梗纤细，长3-8毫米；花萼裂片卵状披针形，长3-4毫米；花冠黄色，漏斗状，长12-19毫米，内面有淡红色斑点，花冠管长7-10毫米，花冠裂片卵形，长5-9毫米；雄蕊着生于花冠管中部，花丝细长，长3.5-4毫米，花药卵状长圆形，长1.5-2毫米，伸出花冠管喉部之外；子房卵状长圆形，长2-2.5毫米，花柱长8-12毫米，柱头上部2裂，裂片顶端再2裂。果实为蒴果，卵形或椭圆形，长10-15毫米，直径6-10毫米，未开裂时明显地具有2条纵槽，成熟时通常黑色，干后室间开裂为2个2裂果瓣，基部有宿存的花萼，果皮薄革质，内有种子20-40颗；种子扁压状椭圆形或肾形，边缘具有不规则齿裂状膜质翅。开花期为5-11月，结果期为7月至翌年3月。
-    钩吻分布于印度、缅甸、泰国、老挝、越南、马来西亚和印度尼西亚以及中国的江西、福建、台湾、湖南、广东、海南、广西、贵州、云南等省区
-    钩吻有剧毒性，主要药用功效为破积拔毒、祛瘀止痛、杀虫止痒、镇痛镇静、抗炎、散瞳、抗肿瘤；由于其毒性，可用于治疗疥癞、湿疹、瘰疬、痈肿、疔疮、跌打损伤、风湿痹痛等。
-
-
+(Gelsemium elegans (Gardn. et Champ. ) Benth.)
 [LILYPAD_FAMILY]
-莲科
+Nelumbonaceae
+
 [LILYPAD_GENUS]
-莲属
+Nelumbo
+
 [LILYPAD_PEDIA]
-莲（Nelumbo nucifera Gaertn.）
-    莲是多年生水生草本植物；莲的根状茎横生，肥厚，节间膨大，内有多数纵行通气孔道，节部缢缩，上生黑色鳞叶，下生须状不定根。叶为圆形，盾状，直径25-90厘米，叶边缘稍呈波状，叶上面光滑，具白粉，下面叶脉从中央射出，有1-2次叉状分枝；叶柄粗壮，圆柱形，长1-2米，中空，外面散生小刺。花梗和叶柄等长或稍长，也散生小刺；花直径10-20厘米，美丽，芳香；花瓣红色、粉红色或白色，矩圆状椭圆形至倒卵形，长5-10厘米，宽3-5厘米，由外向内渐小，有时变成雄蕊，先端圆钝或微尖；花药呈条形，花丝细长，着生在花托之下；花柱极短，柱头顶生；花托（莲蓬）直径5-10厘米。坚果椭圆形或卵形，长1.8-2.5厘米，果皮革质坚硬，熟时黑褐色；种子（莲子）卵形或椭圆形，长1.2-1.7厘米，种皮红色或白色。开花期为6-8月，结果期为8-10月。
-    莲是一种重要的观赏植物，因此莲在全世界很多国家都有广泛的分布和种植，莲在欧洲、大洋洲和亚洲，特别是南部均有分布。在俄罗斯、朝鲜、日本、印度、越南等国的池塘或水田内都有发现。在中国，莲的分布地非常广泛，特别是观赏品种，中国南北各地都有种植。
-    莲的浑身都是宝贝，有许多的用途。莲的根状茎（莲藕）作蔬菜或提制淀粉（藕粉），种子（莲子）可供食用，因此，莲藕及莲子都是非常重要的营养品。此外，莲还有重要的药用价值，莲花、莲子、莲房、莲须、莲子心、荷叶、荷梗、藕节等均可药用，其中莲花味甘、苦、性温，归心经、肝经，能够起到清心、凉血止血、清热解毒的功效，可以帮助缓解疮疥、暑热烦渴等。
+EVILHACK28（Nelumbo nucifera Gaertn.）
 
 
 [POTATOMINE_FAMILY]
-茄科
+Solanaceae
+
 [POTATOMINE_GENUS]
-茄属
+Solanum
+
 [POTATOMINE_PEDIA]
-马铃薯（Solanum tuberosum L.）
-    野生马铃薯是多年生草本植物，栽培马铃薯为一年生或一年两季栽培草本植物。株高20-100厘米；马铃薯的茎分为地上茎和地下茎（块茎）两种类型：地上茎呈菱形，茎上有毛；地下茎（块茎）呈圆形、球形、卵形、椭圆形等形状，地下茎上面有芽眼；地下茎的皮呈红色、黄色、白色或紫色；块茎内（薯肉）呈白色、淡黄色、黄色等颜色。马铃薯的叶为奇数羽状复叶；叶片初生时为单叶，逐渐生长成奇数不相等羽状复叶，大小相间，呈卵形至长圆形；花序为聚伞花序，着生于植株的顶部；花为白色、红色、紫色或蓝紫色；果实为浆果，球形，果实绿色或紫褐色；种子肾形，黄色。开花期通常为夏季。 
-    马铃薯起源于南美洲安第斯高原，最初由印第安人种植，16世纪西班牙探险队将马铃薯带回欧洲，之后逐渐传播到全世界各国，现广泛种植于全球温带地区，在世界多个国家都有重要的地位。因为种子繁殖会导致性状分离，所以马铃薯最常用的繁殖方式是无性块茎繁殖。中国是世界马铃薯总产量最高的国家，全国各地都有种植，种植面积和总产量长期占据全球总量的四分之一以上。
-    马铃薯是一种重要的粮食和蔬菜兼用的作物，富含碳水化合物、植物蛋白、B族维生素、维生素C、类胡萝卜素和膳食纤维，易被人体消化吸收，具有补充营养、健脾利湿、宽肠通便、保护血管等功效。此外，马铃薯性平、和中养胃、健脾利湿，能促进脾胃的消化功能，还有解毒消肿等功效。同时还可以缓解心血管系统的脂肪沉积、保持血管的弹性、缓解动脉粥样硬化。
+EVILHACK28（Solanum tuberosum L.）
+
 
 [CARROTLAUNCHER_FAMILY]
-伞形科
+Apiaceae
+
 [CARROTLAUNCHER_GENUS]
-胡萝卜属
+Daucus
+
 [CARROTLAUNCHER_PEDIA]
-胡萝卜（Daucus carota var. sativus Hoffm.）
-    胡萝卜是二年生草本植物，野生胡萝卜高15-120厘米。茎单生，全体有白色粗硬毛。基生叶薄膜质，长圆形。栽培胡萝卜的为根肉质状，长圆锥形，粗肥，呈红色或黄色。叶为2-3回羽状全裂，末回裂片线形或披针形，长2-15毫米，宽0.5-4毫米，顶端尖锐，有小尖头，光滑或有粗糙硬毛；叶柄长3-12厘米；茎生叶近无柄，有叶鞘，末回裂片小或细长。复伞形花序，花序梗长10-55厘米，有粗糙硬毛；总苞有多数苞片，呈叶状，羽状分裂，少有不裂的，裂片线形，长3-30毫米；伞辐多数，长2-7.5厘米，结果时外缘的伞辐向内弯曲；小总苞片5-7，线形，不分裂或2-3裂，边缘膜质，具纤毛；花通常白色，有时带淡红色；花柄不等长，长3-10毫米。果实圆卵形，长3-4毫米，宽2毫米，棱上有白色刺毛。野生胡萝卜的开花期为5-7月。
-    胡萝卜起源与野生胡萝卜，野生种的全球分布范围主要包括欧洲、西亚、中国、和东南亚地区；在中国，野生胡萝卜分布于四川、贵州、湖北、江西、安徽、江苏、浙江等省份。栽培胡萝卜起源于公元前3000年的中亚地区，后来传播到欧洲、地中海地区和亚洲其他地区，现在在全球很多国家都有种植。
-    胡萝卜脆嫩多汁，芳香甘甜，富含大量胡萝卜素及维生素a，被称为小人参。对眼部都有较强的保健作用，可有效消除眼部疲劳，缓解眼睛干涩，预防和治疗夜盲症；胡萝卜中含有丰富的膳食纤维，吸水性较强。食用后在肠道内的体积会膨胀，加快肠道蠕动速度，起到润肠通便的作用；胡萝卜素可在体内转变成维生素a，从而增强机体免疫功能提高抗病能力；胡萝卜素能在体内转化成抗氧化剂，能有效清除体内自由基，减缓细胞的老化速度，消除皱纹。
+EVILHACK28（Daucus carota var. sativus Hoffm.）
+
 
 [CITRON_FAMILY]
-芸香科
+Rutaceae
+
 [CITRON_GENUS]
-柑橘属
+Citrus
+
 [CITRON_PEDIA]
-柚子（Citrus maxima (Burm.) Merr.）
-    柚子为多年生乔木植物。柚子的嫩枝、叶背、花梗、花萼及子房均被柔毛，嫩枝扁而且有棱，嫩叶通常为暗紫红色。叶质颇厚，色浓绿，阔卵形或椭圆形，连冀叶片长9-16厘米，宽4-8厘米，或更大，顶端钝或圆，有时短尖，基部圆，翼叶长2-4厘米，宽0.5-3厘米，个别品种的翼叶甚狭窄。总状花序，有时兼有腋生单花；花蕾淡紫红色，稀乳白色；花萼不规则5-3浅裂；花瓣长1.5-2厘米；雄蕊25-35枚，有时部分雄蕊不育；花柱粗长，柱头比子房略大。果实为圆球形，扁圆形或阔圆锥状，横径通常10厘米以上，淡黄或黄绿色，杂交种有朱红色的，果皮甚厚或薄，海绵质，油胞大，凸起，果心实但松软，瓢囊10-15或多至19瓣，汁胞白色、粉红或鲜红色，少有带乳黄色；种子多达200余粒，亦有无子的，形状不规则，通常近似长方形，上部质薄且常截平，下部饱满。开花期为4-5月，结果期为9-12月。
-    柚子的原产地为中国、印度和马来西亚等地，在东南亚有较多的国家进行栽培种植。柚子在中国主要分布于长江以南地区，最北限见于河南省信阳及南阳一带。柚子常栽培于丘陵或低山地带，喜温暖湿润气候，喜肥，不耐旱，也不耐积水，要求土层深厚肥沃。
-    柚子是一种营养丰富、用途广泛的水果，具有多种健康益处。柚子不仅美味可口，还具有多种保健功能，从增强免疫力到促进消化，柚子全身都是宝。柚子的主要营养成分包括丰富的维生素C、维生素B群、矿物质如钾和镁等，因此柚子具有提高免疫力、促进消化、降血糖、‌美容保健等多种健康益处。柚子中的维生素C可以帮助增强免疫力，预防感冒，膳食纤维则有助于促进肠胃蠕动，改善消化问题的功能。
+EVILHACK28（Citrus maxima (Burm.) Merr.）
+
+
 [CITRON_PEDIA_EXTRA]
-    特别说明：充能柚子的原版英文名为 Citron，按名称翻译应该对应的原型为香橼。这两个物种属于很近的亲戚（柑橘属 Citrus），但是不同的物种。香橼和柚子果实很像，但有一些差异。香橼的果实表面粗糙、果皮多为金黄色；柚子果实表面光滑、果皮多为黄色。从我们游戏中的美术设计来看，形象更接近柚子，也与实际中文名保持了一致，为确保科普严谨性，特此说明。
-    1. 香橼 Citrus medica L. 属于：被子植物，木兰亚纲，无患子目，芸香科，柑橘属 （Citrus）
-    2. 柚子 Citrus maxima (Burm.) Merr. 属于：被子植物，木兰亚纲，无患子目，芸香科，柑橘属（Citrus）
+
 [BONKCHOY_FAMILY]
-十字花科
+Brassicaceae
+
 [BONKCHOY_GENUS]
-芸薹属
+Brassica
+
 [BONKCHOY_PEDIA]
-白菜（Brassica rapa L. var. glabra Regel）
-    白菜为二年生或越年生草本植物，高40-60厘米，常全株无毛，有时叶下面中脉上有少数刺毛。白菜基生叶多数而大形，倒卵状长圆形至宽倒卵形，长30-60厘米，宽不及长的一半，顶端圆钝，边缘皱缩，波状，有时具不显明牙齿，中脉白色而很宽，有多数粗壮侧脉；叶柄白色，扁平，长5-9厘米，宽2-8厘米，边缘有具缺刻的宽薄翅；白菜的上部茎生叶长圆状卵形、长圆披针形至长披针形，长2.5-7厘米，顶端圆钝至短急尖，全缘或有裂齿，有柄或抱茎，有粉霜。白菜的花鲜黄色，直径1.2-1.5厘米；花梗长4-6毫米；萼片长圆形或卵状披针形，长4-5毫米，直立，淡绿色至黄色；花瓣倒卵形，长7-8毫米，基部渐窄成爪。长角果较粗短，长3-6厘米，宽约3毫米，两侧压扁，直立，喙长4-10毫米，宽约1毫米，顶端圆；果梗开展或上升，长2.5-3厘米，较粗。种子球形，直径1-1.5毫米，棕色。开花期为5月，结果期尾6月。
-    白菜原产地为中国的华北，是亚洲地区，特别是中国、韩国、日本广泛栽培的一种蔬菜作物。在中国是东北及华北冬、春季的主要蔬菜。白菜较耐寒，喜好冷凉气候，适合在冷凉季节生长，适于栽植在保肥、保水并富含有机质的壤土与砂壤土及黑黄土。
-    白菜中含有多种营养元素，具有美肤养颜、生津养胃、消脂减肥等功效。白菜含有丰富的水分和维生素，常吃白菜不但可以补充身体流失的水分，所含的维生素C、维生素E还能预防皮肤色素沉着，起到护肤养颜等效果。白菜有养胃生津、清热除烦的作用，将白菜捣烂取汁，与百合、麦冬加水煎服，对胃阴亏虚引起的胃隐痛有疗效。白菜性寒、味甘，适合口渴烦热、痰热咳嗽、风热感冒等患者食用；另外白菜水分含量大约为95％，还含有丰富的膳食纤维，可以刺激肠胃蠕动，帮助消化，促进肠道中废弃物的排泄。
+EVILHACK28（Brassica rapa L. var. glabra Regel）
+
 
 [KERNELPULT_FAMILY]
-禾本科
+Poaceae
+
 [KERNELPULT_GENUS]
-玉蜀黍属
+Zea
+
 [KERNELPULT_PEDIA]
-玉米（Zea mays L.）
-    一年生高大草本植物。茎秆直立，通常不分枝，高1-4米，玉米基部的各个节具有气生支柱根。玉米叶鞘具横脉；叶舌膜质，长约2毫米；叶片扁平宽大，线状披针形，基部圆形呈耳状，无毛或具疵柔毛，中脉粗壮，边缘微粗糙。顶生大型的雄性圆锥花序，主轴与花序轴及其腋间均被细柔毛；雄性小穗孪生，长达1厘米，小穗柄一长一短，分别长1-2毫米及2-4毫米，被细柔毛；两颖片近等长，膜质，约具10脉，被纤毛；外稃及内稃透明膜质，稍短于颖；花药橙黄色；长约5毫米。雌花序被多数宽大的鞘状苞片所包藏；雌小穗孪生，成16-30纵行排列于粗壮之序轴上，两颖片等长，宽大，无脉，具纤毛；外稃及内稃透明膜质，雌蕊具极长而细弱的线形花柱。颖果球形或扁球形，成熟后露出颖片和稃片之外，其大小随生长条件不同产生差异，一般长5-10毫米，宽略过于其长，胚长为颖果的1/2-2/3。开花和结果期为秋季。
-    玉米原产于南美洲的墨西哥一带，之后作为重要的粮食作物被传播至世界各地，如今已在全世界各国种植，由于产量高、容易栽培，玉米被全世界人民公认为“黄金作物”。
-    玉米是粮食作物中的保健佳品，特别是作为粗粮的玉米，多食对人体健康颇为有利，具有各种功效，例如，1）缓解便秘作用：玉米中的维生素B6、烟酸等成分具有刺激胃肠蠕动，有助于促进胃肠道疾病患者症状的好转；2）降低胆固醇：玉米中亚油酸含量高达60％以上，和玉米胚芽中的维生素E起协同作用，有助于降低血液中的胆固醇浓度，防止其沉积于血管壁；3）促进新陈代谢：玉米胚芽所含的蛋白质、纤维素和烟酸可增强人体新陈代谢、调整神经系统功能，使皮肤细嫩光滑，延缓皱纹的产生。此外，玉米含有的黄体素、玉米黄质，可以有效预防眼睛老化。
+EVILHACK28（Zea mays L.）
+
 
 [SUGARCANE_FAMILY]
-禾本科
+Poaceae
+
 [SUGARCANE_GENUS]
-刚竹属
+Saccharum
+
 [SUGARCANE_PEDIA]
-毛竹（Phyllostachys edulis (Carrière) J. Houzeau）
-    多年生大型木质化草本植物，茎秆高达20余米，茎粗可达20余厘米，幼嫩茎秆密被细柔毛及厚白粉，箨环有毛，老茎秆无毛，并由绿色渐变为绿黄色；基部节间甚短而向上则逐节较长，中部节间长达40厘米或更长，壁厚约1厘米（但有变异）；竿环不明显，低于箨环或在细竿中隆起。箨鞘背面黄褐色或紫褐色，具黑褐色斑点及密生棕色刺毛；箨耳微小，繸毛发达；箨舌宽短，强隆起乃至为尖拱形，边缘具粗长纤毛；箨片较短，长三角形至披针形，有波状弯曲，绿色，初时直立，以后外翻。末级小枝具2-4叶；叶耳不明显，鞘口繸毛存在而为脱落性；叶舌隆起；叶片较小较薄，披针形，长4-11厘米，宽0.5-1.2厘米，下表面在沿中脉基部具柔毛，次脉3-6对，再次脉9条。花枝穗状，长5-7厘米，基部托以4-6片逐渐稍较大的微小鳞片状苞片，有时花枝下方尚有1-3片近于正常发达的叶，当此时则花枝呈顶生状；佛焰苞通常在10片以上，常偏于一侧，呈整齐的复瓦状排列，下部数片不孕而早落，致使花枝下部露出而类似花枝之柄，上部的边缘生纤毛及微毛，无叶耳，具易落的鞘口繸毛，缩小叶小，披针形至锥状，每片孕性佛焰苞内具1-3枚假小穗。小穗仅有1朵小花；小穗轴延伸于最上方小花的内稃之背部，呈针状，节间具短柔毛；颖1片，长15-28毫米，顶端常具锥状缩小叶有如佛焰苞，下部、上部以及边缘常生毛茸；外稃长22-24毫米，上部及边缘被毛；内稃稍短于其外稃，中部以上生有毛茸；鳞被披针形，长约5毫米，宽约1毫米；花丝长4厘米，花药长约12毫米；柱头3，羽毛状。颖果长椭圆形，长4.5-6毫米，直径1.5-1.8毫米，顶端有宿存的花柱基部。笋期4月，开花期为5-8月。
 
 [SUGARCANE_PEDIA_EXTRA]
-    毛竹的故乡在中国，世界上约85%的毛竹都生长在中国，世界其他国家也有种植。毛竹在中国主要分布在东部地区的浙江、福建、广东，中部地区的江西、安徽、湖南、湖北以及西部地区的广西、贵州、重庆、四川、云南等地区，其中以福建、浙江、江西、湖南四省最多。
-    毛竹是一种重要的经济植物，广泛应用于多个领域，具有多种用途。包括用于建筑业：作为建筑材料，如制作家具、地板等；‌用于造纸业：毛竹的纤维长而坚韧，适合用于造纸，生产高质量纸张和纸浆；‌用于农业及其他方面：毛竹还用于编织、制作工艺品等方面；用于‌生态环境保护：大面积栽培毛竹可以防止水土流失，调节气候，净化空气，改善生态环境质量。此外，毛竹的各个部位都有一定的药用价值，毛竹的叶、根状茎（竹鞭）、笋等部分可以入药，具有清热、利尿、活血、祛风等功效。
 
 [SUNFLOWER_FAMILY]
-菊科
+Asteraceae
+
 [SUNFLOWER_GENUS]
-向日葵属
+Helianthus
+
 [SUNFLOWER_PEDIA]
-向日葵（Helianthus annuus L.）
-    一年生高大草本植物。茎秆直立，高1-3米，粗壮，茎秆上被白色粗硬毛，不分枝或有时上部分枝。叶互生，叶片心状卵圆形或卵圆形，顶端急尖或渐尖，叶片中有三基出脉，叶片边缘有粗锯齿，叶片两面被短糙毛，有长柄。花序为头状花序、极大，径约10-30厘米，花序单生于茎的顶端或枝的顶端，花序常常下倾。花序的总苞片多层，叶质，覆瓦状排列，总苞片为卵形至卵状披针形，顶端尾状渐尖，被长硬毛或纤毛。花托平或稍凸起、有半膜质的托片。花有两类，一类舌状花多数为黄色、舌片开展，长圆状卵形或长圆形，不结实。另一类管状花、数目极多，棕色或紫色，有披针形裂片，能够结果实。果实为瘦果，倒卵形或卵状长圆形，稍扁压，果实长10-15毫米，有细肋条，常被白色短柔毛，上端具有2个膜片状、早落的冠毛。开花期为7-9月，结果期为8-9月。
-    向日葵原产地为北美洲，目前在全球很多国家都有栽培种植。
-    向日葵的用途很广泛，它的种子可用于食物，能加工成供人类食用的油类，是脂肪的来源，也可用作动物饲料和可能用作替代燃料的能源植物。另外，向日葵还可用作观赏植物，也是一种吸引授粉蜜蜂采集花蜜和花粉的重要蜜源植物。
+EVILHACK28（Helianthus annuus L.）
+
 
 [PEASHOOTER_FAMILY]
-豆科
-[PEASHOOTER_GENUS]
-豌豆属
-[PEASHOOTER_PEDIA]
-豌豆（Pisum sativum L.）
-    一年生攀援草本植物，高0.5-2米。全株绿色，光滑无毛，外表具有白粉霜。叶具小叶4-6片，托叶比小叶大，叶状，心形，下缘具细牙齿。小叶为卵圆形，长2-5厘米，宽1-2.5厘米；花序生于叶腋，单生或数朵排列为总状花序；花萼为钟状，深5裂，裂片披针形；花冠颜色多样，随不同品种而异，但多为白色和紫色，雄蕊为两个部分。雌蕊的子房无毛，花柱扁平，内面有髯毛。豌豆的荚果肿胀，长椭圆形，长2.5-10厘米，宽0.7-14厘米，顶端斜急尖，背部近于伸直，内侧有坚硬纸质的内皮；种子2-10颗，为圆形，青绿色，成熟干燥后变为黄色。开花期为6-7月，结果期为7-9月。（基于《中国植物志》）
-    豌豆原产地为亚洲西部和地中海地区，后传入印度北部，经中亚细亚传至中国。因为是栽培物种，目前在全球很多国家都有种植。
-    豌豆主要作为食物，它的种子和嫩豆荚可以食用，有丰富的营养价值，种子富含蛋白质、碳水化合物、维生素和矿物质，是一种重要的粮食和蔬菜作物，豌豆苗和豌豆花也可以食用，独具特风味和营养价值。此外，豌豆还有一定的药用价值，如具有利尿、止泻、清凉、解暑的功效。
+Fabaceae
 
+[PEASHOOTER_GENUS]
+Pisum
+
+[PEASHOOTER_PEDIA]
+EVILHACK28（Pisum sativum L.）
 
 [PLANT_PEDIA]
 Plant Encyclopedia
@@ -43972,12 +43563,6 @@ Blasting Specialization
 
 [IMPPEAR_SKILL_LEVEL2_DES]
 Improve the blasting expert effect by 100%.
-
-[IMPPEAR_SKILL_LEVEL5]
-虚弱气体
-
-[IMPPEAR_SKILL_LEVEL5_DES]
-僵尸放出的气体范围扩大，且会让僵尸受到的伤害增加
 
 [IMPPEAR_SKILL_LEVEL5]
 Fun Blasting
@@ -48287,7 +47872,7 @@ Insufficient gold bars. Would you like to go to the Gold Bar Shop for purchase?
 
 [TREASURE_PAVILION_DESCRIPTION]
 Event Rules:
-1. The Exquisite Treasure Chest event will be available from March th at 00:00 to March 31th at 24:00.
+1. The Exquisite Treasure Chest event will be available from October 15th at 00:00 to October 28th at 24:00.
 2. The event requires gold bars to open treasure chests. A single draw costs 1 gold bar, and a 10-draw costs 9 gold bars. Gold bars can be obtained through the event shop.
 3. Each time a treasure chest is opened, there is a chance to receive a grand prize from the prize pool. After 30 draws, you are guaranteed a superior or higher prize; after 60 draws, you are guaranteed an epic or higher prize; after 90 draws, you are guaranteed a Legendary Reward 2 or higher; and after 180 draws, you are guaranteed a Legendary Reward 1 (only one item is awarded per draw).
 4. When a grand prize is won, one of the prizes from all prize level will be awarded based on the probability.
@@ -49325,13 +48910,13 @@ Clear a DIY level once a day.
 Daily collection and release of an expedition
 
 [ARBORDAY]
-Happy Tree Planting
+Arborday
 
 [GROWING_TASK]
-Watering Tasks
+Charging Tasks
 
 [ARBORDAY_BUNDDLE]
-Water package
+Battery package
 
 [ARBORDAY_PROGRESS_REWARD]
 Progress Rewards
@@ -49505,19 +49090,19 @@ Tip: To claim server-side progress, you need to charge at least 10 times~
 Need ^FFFF00 {NUM} ^oldclr more charges until the next harvest
 
 [ARBOARDAY_SURE_WATER]
-Are you sure you want to spend {NUM} watering cans to water? 
+Are you sure you want to spend {NUM} batteries to charge?
 
 [ARBOARDAY_SURE_WATER_GET]
 Are you sure you want to claim all rewards?
 
 [ARBOARDAY_KETTLE_NOT_ENOUGH]
-Insufficient watering cans
+Insufficient batteries
 
 [ARBOARDAY_REWARD_NOT_ENOUGH]
 Not enough rewards to claim
 
 [WATER]
-One-Tap Watering
+One-click Charge
 
 [WATER_GET]
 One-click Harvest
@@ -49532,19 +49117,19 @@ X{NUM}refresh
 Congratulations on getting {NUM} {NAME}
 
 [MAT_ARBORDAY_KETTLE]
-Watering Can
+Battery
 
 [ARBORDAY_FULL]
 Award is full, please receive the reward first
 
 [ARBORDAY_DESCRIPTION_TITLE]
-Happy Tree Planting
+Secret Realm Treasure Search
 
 [ARBORDAY_DESCRIPTION]
 Event Details:
-1. Every three bwatering cans consumed will open a treasure chest once, rewarding a large amount of plant fragments, diamonds, coins, and other prizes. The available rewards are: ^FF8000^Artifact Voucher, Zombie Pod, Crazy Hat Mushroom^oldclr^ ^8600FF^Nightshade, Missile Toe^oldclr^ ^2828FF^Primal Wall-nut, Asparagus, Caulipower^oldclr^ ^82D900^Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclr^
-2. watering cans can be obtained through cwatering tasks or by purchasing diamond packs.
-3. Every watering consumed will accumulate both personal and server-side charging progress. Rewards can be claimed based on individual and server-side progress!
+1. Every three batteries consumed will open a treasure chest once, rewarding a large amount of plant fragments, diamonds, coins, and other prizes. The available rewards are: ^FF8000^Artifact Voucher, Zombie Pod, Crazy Hat Mushroom^oldclr^ ^8600FF^Nightshade, Missile Toe^oldclr^ ^2828FF^Primal Wall-nut, Asparagus, Caulipower^oldclr^ ^82D900^Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclr^
+2. Batteries can be obtained through charging tasks or by purchasing diamond packs.
+3. Every battery consumed will accumulate both personal and server-side charging progress. Rewards can be claimed based on individual and server-side progress!
 
 [NEWYEAR_GOODS_SHORT_DESCRIPTION]
 Participate in the super optional event and buy a great value optional Pack
@@ -54302,9 +53887,6 @@ Refresh all cards' cooldowns; magic hats spawn only plants for 10s ({NUMBER} use
 [MINIGAME_PERK_TIME_BACK]
 Rewind 5 steps and refund consumed moves ({NUMBER} uses).
 
-[MINIGAME_PERK_TEAM_SKY]  
-Unlocks a new Aerial Warfare Plant Squad
-
 [MINI_GAME_PERK_NAME_ZOMBIE_SPEED_REDUCED]
 Zombie speed reduced.
 
@@ -54321,7 +53903,7 @@ Extend game time.
 Increase token rewards after completion.
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
-Kill all normal zombie
+Eliminate all zombies instantly.
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_X_RAY]
 X-Ray Vision.
@@ -54334,10 +53916,6 @@ Refresh Cards.
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TIME_BACK]
 Time Rewind.
-
-[MINI_GAME_PERK_NAME_SPECIAL_ITEM_TEAM_SKY]  
-Aerial Squad  
-
 
 [TRAFFIC_JAM_DESCRIPTION]
 Freeze zombies for {NUMBER} seconds!
@@ -61352,48 +60930,6 @@ Ice & Snow 3
 [S15_MEMORY_LEVEL_NAME_064]
 Elite Zombies Attack
 
-[S23_MEMORY_LEVEL_NAME_01]
-复仇者联盟
-
-[S23_MEMORY_LEVEL_NAME_02]
-后院豪劫
-
-[S23_MEMORY_LEVEL_NAME_03]
-植物大战动物
-
-[S23_MEMORY_LEVEL_NAME_05]
-小鬼当家
-
-[S23_MEMORY_LEVEL_NAME_06]
-火力优势学
-
-[S23_MEMORY_LEVEL_NAME_07]
-1号宇宙
-
-[S23_MEMORY_LEVEL_NAME_08]
-起飞！但是逆风
-
-[S23_MEMORY_LEVEL_NAME_09]
-不讲武德
-
-[S23_MEMORY_LEVEL_NAME_10]
-车轮滚滚
-
-[S23_MEMORY_LEVEL_NAME_11]
-闪电战
-
-[S23_MEMORY_LEVEL_NAME_13]
-PVZ：英雄无归
-
-[S23_MEMORY_LEVEL_NAME_14]
-劳动僵尸最光荣
-
-[S23_MEMORY_LEVEL_NAME_15]
-不止骆驼牌可以拼手速
-
-[S23_MEMORY_LEVEL_NAME_16]
-碰瓷夫妇
-
 [MEMORY_LEVEL_NAME_01]
 Day 1 of the Memories Tour
 
@@ -66639,9 +66175,9 @@ PvP Shop Rules
 
 [NEW_PVP_SHOP_INFO_DETAIL]
 1. Shop items refresh daily at 00:00 (UTC+8) , resetting item purchase limits.  
-2. Pvp coin can be obtained through daily and weekly chests and used to exchange for various items in the shop, the regular legendary chest will include all zombies. 
+2. Pvp coin can be obtained through daily and weekly chests and used to exchange for various items in the shop.  
 3. Seasonal Legendary Chests and Seasonal Normal Chests usually contain newly introduced zombies for the season.  
-4. Both legendary chest and the regular legendary chest include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Pvp coin from the pool.  
+4. The Seasonal Legendary Chest rewards include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Pvp coin from the pool.  
 5. The Seasonal Normal Chest rewards include 50 cards of a random common zombie, 15 cards of a rare zombie, 3 Pvp coin, and 60 diamonds.
 
 [NEW_PVP_SHOP_RESET_TIMER]
@@ -66700,12 +66236,6 @@ Legend Treasure Box
 
 [PRODUCT_NEW_PVP_CHEST_4_SHORTDESC]
 Legend Treasure Box
-
-[PRODUCT_NEW_PVP_CHEST_5]
-Regular Legendary Chest
-
-[PRODUCT_NEW_PVP_CHEST_5_SHORTDESC] 
-Regular Legendary Chest
 
 [NEW_PVP_ZOMBIE_CARD]
 Card
@@ -69622,10 +69152,6 @@ The bonus effect of the sunflower singer generating the halo after singing is in
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
 
-[BIRTHSUNFLOWER_NEW_SKILL_LEVEL5_DES]
-After producing sun, Sunflower Singer will send notes to the current lane. The zombies that the notes pass through will be ^848484^stunned^oldclr^ for 2 seconds.
-
-
 [BIRTHSUNFLOWER_PLANTFOOD_DESCRIPTION]
 The Sunflower Singer begins his singing performance with lights that immediately terminate the movements of all plants and zombies in the venue for 5 seconds and produce 280 points of sun.
 
@@ -70985,9 +70511,6 @@ The triggering probability of enhanced variation is increased to 80%, so that th
 
 [IMPPEAR_NEW_SKILL_LEVEL4_DES]
 There is a low probability of be boosted
-
-[IMPPEAR_NEW_SKILL_LEVEL5_DES]
-When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
 
 [IMPPEAR_PLANTFOOD_DESCRIPTION]
 Xiao Huangli immediately released Xiao Huangli's magic once against 5 zombies on the field, turning small and medium-sized zombies into little ghost zombies, or causing damage.
@@ -73228,10 +72751,10 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
 [NIGHTTHETOY_TIP]  
-Shard Shop
+Black Hole Shop
 
 [NIGHTTHETOY_SHOP]  
-Shard Shop
+Black Hole Shop
 
 [NIGHTTHETOY_TASK]
 Event Tasks
@@ -73252,19 +72775,19 @@ Guaranteed Grand Prize after {NUMS} more draws
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]  
-Ancient chinese trip
+Black Hole event
 
 [TOYNIGHT_TITLE]  
-Ancient chinese trip
+Black Hole event
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]  
-Basic Jade Bundle
+Beginner Star Coin Pack  
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]  
-Intermediate Jade Bundle
+Intermediate Star Coin Pack  
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]  
-Advanced Jade Bundle
+Advanced Star Coin Pack  
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]  
 Beginner Limited Purchase Pack  
@@ -73276,61 +72799,62 @@ Advanced Limited Purchase Pack
 First time entering the event
 
 [TOYNIGHT_TASK_2]
-Obtain the Lily Pharmacist Super Outfit
+Obtain the Super Costume of Turnip
 
 [TOYNIGHT_TASK_3]  
-Obtain all outfit
+Obtain all outfits
 
 [MAT_TOY_PARTS]  
-Jade Shards  
+Small Black Hole  
 
-[MAT_TOY_PARTS_USE]
-Exchange rewards in the Ancient chinese trip event Shard Shop
+[MAT_TOY_PARTS_USE]  
+Redeem rewards in the Black Hole Fantasy Journey event's Black Hole Shop  
 
-[MAT_TOY_PARTS_GOT_WAY]
-Obtain through draws in the Ancient chinese trip event 
+[MAT_TOY_PARTS_GOT_WAY]  
+Obtained through draws in the Black Hole Fantasy Journey event  
 
-[MAT_TOY_CLOCKWORK]
-Jade
+[MAT_TOY_CLOCKWORK]  
+Star Coin  
 
-[MAT_TOY_CLOCKWORK_USE]
-Item consumed for draws in the Ancient chinese trip event
+[MAT_TOY_CLOCKWORK_USE]  
+Item used for draws in the Black Hole Fantasy Journey event  
 
-[MAT_TOY_CLOCKWORK_GOT_WAY]
-Obtain through purchasing in the Ancient chinese trip Gift Shop
+[MAT_TOY_CLOCKWORK_GOT_WAY]  
+Purchased in the Black Hole Fantasy Journey event's Gift Shop  
 
-[TOY_NIGHT_EXPIRED]
-Expired rewards for the  Ancient chinese trip
+[TOY_NIGHT_EXPIRED]  
+Expired rewards for the Black Hole Fantasy Journey  
 
-[TOY_NIGHT_MAIN_TIPS_INFO]   
-1. Jade are obtained via gift packs and used for draws. Jade and jade shards won't carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
-2. Each draw offers a chance for a ade shards or other rewards. Lucky players may directly win the Lily Pharmacist Super Outfit.
-3. If no grand prize is won within 20 consecutive draws, the next draw guarantees a reward from the prize pool.
-4. Repeated Super Outfits are converted into 200 jade shards.
+[TOY_NIGHT_MAIN_TIPS_INFO]
+Event Rules:
+1. Obtain Star by purchasing packs, and use them to draw rewards in the event. Star and Black Holes cannot be carried over to the next event. After the event ends, they will be converted into diamonds at a 1:1 ratio.
+2. Each draw has a chance to obtain Black Holes or other rewards. Lucky players may directly receive the Super Costume of Turnip.
+3. If no grand prize is drawn in 20 consecutive draws, the next draw will be from the guaranteed prize pool.
+4. Repeatedly drawn of super costumes will be converted into 200 black hole rewards.
 
-Guaranteed Prize Pool Chances:
-Tile Carrot Super Outfit: 3.72%
-jade shards*1300: 5.28%
-jade shards*700: 12.55%
-jade SH*500: 11.10%
-Gems*1888: 32.17%
-Penny's Secret Treasure Coupon*10: 35.18%
+Guaranteed Pool:
+Turnip super Costume: 3.72%
+Black Hole 1300: 5.28%
+Black Hole 700: 12.55%
+Black Hole 500: 11.10%
+Diamonds 1888: 32.17%
+Penny's Voucher 10: 35.18%
 
-Reward Probability:
-Lily Pharmacist super Outfit: 0.17%
-jade shards*1300: 0.21%
-jade shards*700: 0.43%
-jade SH*500: 0.85%
-jade SH*100: 6.09%
-jade SH*50: 16.00%
-jade SH*20: 12.00%
-jade SH*10: 35.00%
-Outfit Coupon*500: 2.50%
-Outfit Coupon*100: 9.75%
-Penny's Secret Treasure Coupon*1: 17.00%
+Reward Probabilities:
+Turnip super Costume: 0.17%
+Black Hole 1300: 0.21%
+Black Hole 700: 0.43%
+Black Hole 500: 0.85%
+Black Hole 100: 6.09%
+Black Hole 50: 16.00%
+Black Hole 20: 12.00%
+Black Hole 10: 35.00%
+Costume Voucher 500: 2.50%
+Costume Voucher 100: 9.75%
+Penny's Ticket 1: 17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, automatically converted to jade shard reward
+Already owned, automatically converted to points reward
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -73380,10 +72904,6 @@ Guess Who I Am
 [ACTIVITY_NEW_MINIGAME_KLOTSKI]
 Car Hua Rong Dao
 
-[ACTIVITY_NEW_MINIGAME_SKYWAR]  
-Aerial Warfare  
-
-
 [PLAYERS_TRIP_TO_MINIGAME]
 {PLAYER}'s Fun Competition
 
@@ -73409,10 +72929,7 @@ Eggplant Ninja "Zero" Outfit
 Attack Power Increased by 30%
 
 [GINGLEBELL_TITLE]
-Springs's Jingle Bells
-
-[GINGLEBELL_TIPS]  
-Challenges are unavailable during the ranking freeze period.  
+Jingle Bell
 
 [GINGLEBELL_RANK_DAMAGE_TEXT]
 All damages
@@ -73469,37 +72986,37 @@ Best Damage: {NUMBER}
 [STARCHALLENGE_TRAINING]
 Deal as much damage as possible in 30 seconds
 
-[TRAINING_CHALLENGE_ZERO_NAME]  
+[TRAINING_CHALLENGE_ZERO_NAME]
 Spring Jingle Bells  
 
-[GINGLEBELL_TASKDESCRIPTION]  
+[GINGLEBELL_TASKDESCRIPTION]
 Deal {NUMBER} damage in the latest level.
 
-[A_PILE_SNOWMEN1_TITLE]  
+[A_PILE_SNOWMEN1_TITLE]
 Balance of Motion and Stillness - Level 1  
 
-[A_PILE_SNOWMEN2_TITLE]  
+[A_PILE_SNOWMEN2_TITLE]
 Balance of Motion and Stillness - Level 2  
 
-[A_PILE_SNOWMEN3_TITLE]  
+[A_PILE_SNOWMEN3_TITLE]
 Balance of Motion and Stillness - Level 3  
 
-[CONVEYER_BELT1_TITLE]  
+[CONVEYER_BELT1_TITLE]
 Freedom in Movement - Level 1  
 
-[CONVEYER_BELT2_TITLE]  
+[CONVEYER_BELT2_TITLE]
 Freedom in Movement - Level 2  
 
-[CONVEYER_BELT3_TITLE]  
+[CONVEYER_BELT3_TITLE]
 Freedom in Movement - Level 3  
 
-[RANDOM_SNOWMEN1_TITLE]  
+[RANDOM_SNOWMEN1_TITLE]
 Traveling in Groups - Level 1  
 
-[RANDOM_SNOWMEN2_TITLE]  
+[RANDOM_SNOWMEN2_TITLE]
 Traveling in Groups - Level 2  
 
-[RANDOM_SNOWMEN3_TITLE]  
+[RANDOM_SNOWMEN3_TITLE]
 Traveling in Groups - Level 3  
 
 [GINGLEBELL_S1_1_TITLE]  
@@ -73529,19 +73046,19 @@ Traveling in Groups - Level 2
 [GINGLEBELL_S3_3_TITLE]  
 Traveling in Groups - Level 3  
 
-[GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]  
+[GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge: Deal the highest damage in 30s!  
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]  
 Freedom in Movement - Level {LEVEL_NUMBER}  
 
-[SNOWMODERNSTAGE1_LEVEL_NAME]  
+[SNOWMODERNSTAGE1_LEVEL_NAME]
 Balance of Motion and Stillness - Level {LEVEL_NUMBER}  
 
-[SNOWNIGHTSTAGE3_LEVEL_NAME]  
+[SNOWNIGHTSTAGE3_LEVEL_NAME]
 Traveling in Groups - Level {LEVEL_NUMBER}  
 
-[PLAYERS_TRIP_TO_SNOWNIGHT]  
+[PLAYERS_TRIP_TO_SNOWNIGHT]
 {PLAYER}'s is a Fat Weasel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
@@ -74287,7 +73804,7 @@ Not Owned
 [PLANTING_NOT_ON_SNOWMAN]  
 Cannot be planted on a snowman  
 
-[PVZ2_CHINESE_END]  
+[PVZ2_CHINESE_END]
 
 [HARVEST_BATTLE_HEAD_ID_25647]  
 Winds Howl and Cranes Cry  
