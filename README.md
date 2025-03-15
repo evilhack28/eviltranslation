@@ -1,4 +1,4 @@
-# Translate by evilhack28 lastest version 1.5.0 
+# Translate by evilhack28 lastest version 1.7.2
 
 currently support english
 probably french one day 
