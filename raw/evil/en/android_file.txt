@@ -26,23 +26,9 @@ translate by evilhack28 version from march 16 (beta) V1.7.2
 Change Log by evilhack28
 
 [AGE_TIP_CONTENT]
---1.7.0--
-Added all 3.6.4 text
-
---1.7.1--
-fixed
-Hammer Flower, Turkey-pult, Impatiens Shooter, Flower Pot, Claw Gloriosa, Soda Coconut, Boom Balloon Flower
-Dazey Chain, Headbutter Lettuce, Earthstar Nuclear Silo, Boophone Geigi, Tupistra Stalker
-
---1.7.2--
-fix
-toy event 
-Squash      Chili Bean      Split Pea       Jalapeno
-Peach       Fire Gourd      Infi-nut        Laser Bean
-Empea       Bamboo Shoot    citron          Blover
-Inferno     Gardener        Fishhook        Mango
-Tiger       Draftodil       Tile Turnip     Resistant Radish
-                Magnifying Grass
+--1.8.0--
+fixed some missing 3.6.5 text 
+add 3.6.7 text
 
 
 
@@ -57,31 +43,31 @@ Tiger       Draftodil       Tile Turnip     Resistant Radish
 ^2e006c ~~Last update March 13~~ ^oldclrr
 
 [EVIL_2]
-thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
+^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
 ^FFC0CB ~~Last update March 13~~ ^oldclrr
 
 [EVIL_3]
-01101100 01101111 01110110 01100101
+^ff5e4d 01101100 01101111 01110110 01100101
 ^f4fefe ~~Last update March 13~~ ^oldclrr
 
 [EVIL_4]
-Have a gooooooooooooood day
+^ff5e4d Have a gooooooooooooood day
 ^0f056b ~~Last update March 13~~ ^oldclrr
 
 [EVIL_5]
-My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
+^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
 ^6c0277 ~~Last update March 13~~ ^oldclrr
 
 [EVIL_6]
-Long loading right ?
+^ff5e4d Long loading right ?
 ^000000 ~~Last update March 13~~ ^oldclrr
 
 [EVIL_7]
-68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
+^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
 ^000000 ~~Last update March 13~~ ^oldclrr
 
 [EVIL_8]
-Have a nice days
+^ff5e4d Have a nice days
 ^000000 ~~Last update March 13~~ ^oldclrr
 
 
@@ -95,7 +81,7 @@ Increases the trigger probability of Tier 2, 3, and 5 skills by 10%
 Jinyiwei Pea 
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_4]
-Reduces sun cost by 20  
+Reduces sun cost by 20 point
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_1]
 Kongming Pocket Paph
@@ -113,13 +99,7 @@ Reduces cooldown by 1s
 Gauze Pretty Plum
 
 [NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
-Increases attack power by 10%  
-
-[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
-Exorcist Imp Pear
-
-[NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
-Increases stun duration by 1s
+Increases attack power by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_1]
 Tang Monk Sun-shroom
@@ -132,6 +112,60 @@ Eletric heartbreak Growth Outfit
 
 [NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_2]
 Reduces attack interval by 20%
+
+
+
+
+
+
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
+Frost Rambutan Growth Costume
+
+[NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
+Attack interval reduced by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_2]
+CattailCake
+
+[NEW_AVATAR_DESCRIPTION_NEKOTAIL_2]
+Attack power increased by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_2]
+Primal Walnut Cosplay Costume
+
+[NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_2]
+Sunlight consumption reduced by 10
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
+Dracaena §§§§§§§§
+
+[NEW_AVATAR_DESCRIPTION_DRACAENA_3]
+Sunlight consumption reduced by 25
+
+[NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
+Agave Top Hat
+
+[NEW_AVATAR_DESCRIPTION_AGAVE_2]
+Attack interval reduced by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUMPKIN_1]
+Pumpkin Egyptian
+
+[NEW_AVATAR_DESCRIPTION_PUMPKIN_1]
+Health increased by 30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_2]
+Angel Starfruit Master
+
+[NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
+Attack power increased by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_2]
+Ignis Equeste
+
+
+
 
 
 
@@ -2117,11 +2151,24 @@ Tease You
 [HARVEST_BATTLE_HEAD_DES_ID_25631]
 Redeem through Super Corn in the Autumn Harvest Battle event.
 
+[HARVEST_BATTLE_HEAD_ID_25677]
+Pharaoh's Rebirth
+
+[HARVEST_BATTLE_HEAD_DES_ID_25677]
+Redeem through Super Corn in the Autumn Harvest Battle event.
+
 [NEWYEAR_GIFT_HEAD_ID_25632]
 Gold and Silver New Year's Greetings
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25632]
 During the New Year's Gift Package event, reach the cumulative recharge progress in the event to receive.
+
+[NEWYEAR_GIFT_HEAD_ID_25675]
+Surprise Gift
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25675]
+During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
+
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev ! 
@@ -2138,20 +2185,25 @@ Limited Avatar for Party Assistance Event
 [UNCHARTED_TALE_HEAD_DES_ID_10000]
 Party Assistance event limited avatar.
 
+[PARTYEPSACTIVITY_HEAD_ID_25676]
+Party Angel Starfruit
+
+[PARTYEPSACTIVITY_HEAD_DES_ID_25676]
+Limited Avatar for Party Assistance Event
+
+
+
 [UNCHARTED_NO42_HEAD_ID_10000]
 Conqueror of the Parallel Universe
 
 [UNCHARTED_NO42_HEAD_DES_ID_10000]
 Even on other universes you are still 42 time better  ;)
 
+[UNCHARTED_NO42_HEAD_ID_10001]
+Abba Abba
 
-
-
-
-
-
-
-
+[UNCHARTED_NO42_HEAD_DES_ID_10001]
+Proof of Perfectly Completing Parallel Universe No. 41
 
 
 [PVZ_ERROR_20001]
@@ -6819,7 +6871,7 @@ The fragments of the leaves become sharper, and there are 2 fragments that can c
 Perfect Fragmentation
 
 [STEPHANIA_SKILL_LEVEL2_DES]
-All 5 shards can now deal damage to single zombies.
+All 5 pieces can now deal damage to single zombies.
 
 [STEPHANIA_SKILL_LEVEL5]
 Further Fragmentation
@@ -6834,7 +6886,7 @@ When a zombie appears on the right side of Chijinfuji, it fires a flying shield 
 The fragments of the leaves become sharper, and there are 2 fragments that can cause damage to a single zombie.
 
 [STEPHANIA_NEW_SKILL_LEVEL3_DES]
-All 5 shards can now deal damage to single zombies.
+All 5 pieces can now deal damage to single zombies.
 
 [STEPHANIA_NEW_SKILL_LEVEL4_DES]
 There is a high probability of be boosted
@@ -14571,7 +14623,7 @@ Executive Producer
 [CREDTIS_CHINA_GOUDAN]
 Development Director
 
-[CREDTIS_CHINA_BICTH]
+[CREDTIS_CHINA_MANAGER]
 Senior Product Manager
 
 [CREDTIS_CHINA_PM]
@@ -14882,77 +14934,77 @@ Season 1
 Spring Arrival
 
 [RANK_AVATAR_CONTENT_CONTENT_61003]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 2
 
 [RANK_AVATAR_CONTENT_TITLE_61004]
 Rainbow Rabbit
 
 [RANK_AVATAR_CONTENT_CONTENT_61004]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 3
 
 [RANK_AVATAR_CONTENT_TITLE_61005]
 Shining Debut
 
 [RANK_AVATAR_CONTENT_CONTENT_61005]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 4
 
 [RANK_AVATAR_CONTENT_TITLE_61006]
 Start of Summer
 
 [RANK_AVATAR_CONTENT_CONTENT_61006]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 5
 
 [RANK_AVATAR_CONTENT_TITLE_61007]
 Beach
 
 [RANK_AVATAR_CONTENT_CONTENT_61007]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 6
 
 [RANK_AVATAR_CONTENT_TITLE_61008]
 Graffiti Street
 
 [RANK_AVATAR_CONTENT_CONTENT_61008]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 7
 
 [RANK_AVATAR_CONTENT_TITLE_61009]
 Summer Forest
 
 [RANK_AVATAR_CONTENT_CONTENT_61009]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 8
 
 [RANK_AVATAR_CONTENT_TITLE_61011]
 Anniversary Celebration
 
 [RANK_AVATAR_CONTENT_CONTENT_61011]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 9
 
 [RANK_AVATAR_CONTENT_TITLE_61010]
 Moon Viewing
 
 [RANK_AVATAR_CONTENT_CONTENT_61010]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 10
 
 [RANK_AVATAR_CONTENT_TITLE_61012]
 Debate
 
 [RANK_AVATAR_CONTENT_CONTENT_61012]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 11
 
 [RANK_AVATAR_CONTENT_TITLE_61013]
 Group Photo
 
 [RANK_AVATAR_CONTENT_CONTENT_61013]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 12
 
 [RANK_AVATAR_CONTENT_TITLE_61014]
@@ -14965,49 +15017,49 @@ Link reward card
 Christmas Snow Scene
 
 [RANK_AVATAR_CONTENT_CONTENT_61015]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 13
 
 [RANK_AVATAR_CONTENT_TITLE_61016]
 Spring Festival Celebration
 
 [RANK_AVATAR_CONTENT_CONTENT_61016]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 14
 
 [RANK_AVATAR_CONTENT_TITLE_61017]
 Decisive Battle
 
 [RANK_AVATAR_CONTENT_CONTENT_61017]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 15
 
 [RANK_AVATAR_CONTENT_TITLE_61018]
 Spring Willow
 
 [RANK_AVATAR_CONTENT_CONTENT_61018]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 16
 
 [RANK_AVATAR_CONTENT_TITLE_61019]
 Grain Rain
 
 [RANK_AVATAR_CONTENT_CONTENT_61019]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 17
 
 [RANK_AVATAR_CONTENT_TITLE_61020]
 Xiao Man
 
 [RANK_AVATAR_CONTENT_CONTENT_61020]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 18
 
 [RANK_AVATAR_CONTENT_TITLE_61021]
 Cicada Chirp
 
 [RANK_AVATAR_CONTENT_CONTENT_61021]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 19
 
 [RANK_AVATAR_CONTENT_TITLE_61022]
@@ -15020,14 +15072,14 @@ Eternal Interstice Linkage Card
 Summer Ascent
 
 [RANK_AVATAR_CONTENT_CONTENT_61023]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 20
 
 [RANK_AVATAR_CONTENT_TITLE_61024]
 Hot Summer Day
 
 [RANK_AVATAR_CONTENT_CONTENT_61024]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 21
 
 [RANK_AVATAR_CONTENT_TITLE_61025]
@@ -15046,14 +15098,14 @@ Experience the fun of Need for Speed with Sunflower.
 Memories of the Anniversary
 
 [RANK_AVATAR_CONTENT_CONTENT_61027]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 22
 
 [RANK_AVATAR_CONTENT_TITLE_61028]
 Set Sail
 
 [RANK_AVATAR_CONTENT_CONTENT_61028]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 23
 
 [RANK_AVATAR_CONTENT_TITLE_61029]
@@ -15072,41 +15124,80 @@ Autumn Fishing
 Leisurely Afternoon
 
 [RANK_AVATAR_CONTENT_CONTENT_61031]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 24
 
 [RANK_AVATAR_CONTENT_TITLE_61032]
 Death Stare
 
 [RANK_AVATAR_CONTENT_CONTENT_61032]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 25
 
 [RANK_AVATAR_CONTENT_TITLE_61033]
 Skiing Adventure
 
 [RANK_AVATAR_CONTENT_CONTENT_61033]
-Congratulations! you win the banner for be a Grandmaster !!!!
+Congratulations! For being a Grandmaster!!!!
 Season 26
 
 [RANK_AVATAR_CONTENT_TITLE_61034]
-Ephemeral Fireworks  
+Ephemeral Fireworks
 
 [RANK_AVATAR_CONTENT_CONTENT_61034]
-Reward for players who participated in the March 2025 Co-Op Event.  
+Reward for players who participated in the March 2025 Co-Op Event.
 
 [RANK_AVATAR_CONTENT_TITLE_61035]
 New year snake
 
 [RANK_AVATAR_CONTENT_CONTENT_61035]
-Reward for the Master Rank in the 27th season of Two-player Duel
+Congratulations! For being a Grandmaster!!!!
+Season 27
 
 [RANK_AVATAR_CONTENT_TITLE_61036]
 Vision of Wisdom
 
 [RANK_AVATAR_CONTENT_CONTENT_61036]
-Reward for the Master Rank in the 28th season of Two-player Duel
+Congratulations! For being a Grandmaster!!!!
+Season 28
 
+[RANK_AVATAR_CONTENT_TITLE_61037]
+Don't Forget to Be a Gentleman
+
+[RANK_AVATAR_CONTENT_CONTENT_61037]
+Because a true gentleman never steals… unless you are Arsène Lupin
+
+[RANK_AVATAR_CONTENT_TITLE_61038]
+Merry Christmas
+
+[RANK_AVATAR_CONTENT_CONTENT_61038]
+Even zombie can have Christmas
+
+[RANK_AVATAR_CONTENT_TITLE_61039]
+万物复苏
+
+[RANK_AVATAR_CONTENT_CONTENT_61039]
+Congratulations! For being a Grandmaster!!!!
+Season 29
+
+[RANK_AVATAR_CONTENT_TITLE_61040]
+Surprise Party
+
+[RANK_AVATAR_CONTENT_CONTENT_61040]
+Congratulations! For being a Grandmaster!!!!
+Season 30
+
+[RANK_AVATAR_CONTENT_TITLE_61500]
+Hallowen night
+
+[RANK_AVATAR_CONTENT_CONTENT_61500]
+The only days where people don't get scared of zombie
+
+[RANK_AVATAR_CONTENT_TITLE_61501]
+武侠国风
+
+[RANK_AVATAR_CONTENT_CONTENT_61501]
+千秋万载，一统江湖！
 
 [RANK_AVATAR_BTN_CHANGE]
 Replace
@@ -15224,6 +15315,24 @@ New year snake
 
 [RANK_AVATAR_DIY_37]
 Vision of Wisdom
+
+[rank_avatar_diy_38]
+Halloween Night
+
+[rank_avatar_diy_39]
+Don't Forget to Be a Gentleman
+
+[rank_avatar_diy_40]
+Merry Christmas
+
+[rank_avatar_diy_41]
+万物复苏
+
+[rank_avatar_diy_42]
+Surprise Party
+
+[rank_avatar_diy_43]
+武侠国风
 
 [DOWNLOAD_FAILED_BODY]
 Unable to retrieve update information.
@@ -19636,29 +19745,10 @@ Avatar Ticket Instructions
 [STORE_CATEGORY_NAME_COINS]
 Coins
 
-[LUCKYCHEST_DES_DESCRIPTION_OLD]
-
-666. sorry i need to remove a lot of text again
-Why are you looking here ? this text is unused 
-
-what a W english >-<
-
-
-1. During the event period from August 26, 2024, to September 22, 2024, players can accumulate daily progress by completing main storyline levels (Normal and Hard), Secret Realm, Endless Mode, Penny's Pursuit, Memory, Co-op.
-2. Upon completing 1, 5, and 10 levels each day, players can claim a Lucky Chest. The completion progress resets daily and cannot carry over to the next day.
-3.  Each Lucky Chest can be upgraded three times. After all three upgrade attempts are used, the chest will be opened to receive the current reward.
-4.. The probability of receiving each Chest is: 
-Common Chest         43%, 
-Intermediate Chest      29%, 
-Advanced Chest         17%, 
-Epic Chest               7%, 
-Legendary Chest         4%.
-
 [LUCKYCHEST_DES_DESCRIPTION]
+666. sorry i really need to remove text :(
 
-666. sorry i really need to remove :(
-
-1. Event: January 1-February 25, 2025. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event: April 1 to May 26. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -21918,7 +22008,7 @@ Plant Pack
 Open now
 
 [PLANT_BAG_REWARD]
-You can get it by recharging more than 1,000 ¥ in total.
+After recharge 1 000 ¥
 
 [PLANT_BAG_REWARD_TIPS]
 If you recharge more than 10 ¥ in total, you will receive a plant Package
@@ -29963,6 +30053,24 @@ Can blow cold winds to freeze plants ahead.
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION]
 {FLAVOR} The Icewind Chieftain Zombie defeated other zombies in a leaf-blowing competition and was elected chief of the entire tribe. As the saying goes, when a new zombie takes office, there will be three fires. So he decided to hold a sports meeting in the entire tribe. Famous runners like Dodo Knight Zombie and Skiing Zombie, famous weightlifters like Cave Ice Zombie, and famous discus throwers like Sloth Gargantuar Zombie all came to participate... This sports meeting had only one event: blowing balloons...
 
+[ZOMBIE_SLIMES]
+Slime Zombie
+
+[ZOMBIE_SLIMES_DESCRIPTION]
+Do NOT shampoo your hair in front of Slime Zombie. Will washing your head make it easier for him to bite it, or will it produce more Slime Zombies, or will it perhaps cause Slime Zombie's fragile sympathy to overflow? Honestly, probably all of them.
+
+[ZOMBIE_SLIMES_DESCRIPTION_HEADER]
+Splits when killed
+
+[ZOMBIE_SLIMES_GARGANTUAR]
+Slime Gargantuar
+
+[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]
+Do NOT shampoo your hair in front of Slime Zombie. Will washing your head make it easier for him to bite it, or will it produce more Slime Zombies, or will it perhaps cause Slime Zombie's fragile sympathy to overflow? Honestly, probably all of them.
+
+[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
+Splits when killed
+
 [ELIMINATE_TIP1]
 Well done!
 
@@ -31425,46 +31533,6 @@ Durian can block the zombie's advance and cause damage to the zombie attacking h
 [ENDURIAN_PLANTFOOD]
 Obtained iron armor.
 
-[BIRTHSUNFLOWER_PRODUCT_SHORT_DESC]
-Sunflower Singers
-
-[BIRTHSUNFLOWER_AVATAR_NAME]
-Singer Costume
-
-[STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER_TITLE]
-Singer Costume
-
-[BIRTHSUNFLOWER_SKILL_LEVEL1]
-Passionate singing
-
-[BIRTHSUNFLOWER_SKILL_LEVEL1_DES]
-Increase the enhancement effect of each sunflower singer's singing by an additional 50%
-
-[BIRTHSUNFLOWER_SKILL_LEVEL2]
-Stirring the atmosphere
-
-[BIRTHSUNFLOWER_SKILL_LEVEL2_DES]
-Increase the effect of passionate singing by 100%.
-
-[STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER]
-The plants food causes the sunflower singer to start performing when the other sunflower singers on the field will produce sun.
-
-[BIRTHSUNFLOWER]
-Sunflower Singers
-
-[BIRTHSUNFLOWER_DESCRIPTION_HEADER]
-Sunflower singers can produce sun and inspire the plants around them by singing, boosting their attack power and shortening their breaks.
-
-[BIRTHSUNFLOWER_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} yellow plant, endless sun
-{FLAVOR} In order to prepare for the second anniversary celebration, the organizers specially invited Sunflower, the most famous singer in the plant industry, as a special guest. In addition to a large amount of sun's appearance fees, the organizers also spent days convincing the leader, retrieving the missing agent, Little Pea, and promising to invite the famous hairstylist Shamrock to make a new hairstyle for Sunflower to succeed. At that time, you will be able to listen to her singing the famous song 《Zombies On Your Lawn》 at the celebration venue, if you can buy a ticket or kill the tall bodyguard chasing the second grass......
-
-[BIRTHSUNFLOWER_TOOLTIP]
-Sunflower singers can produce sun and inspire the surrounding plants by singing.
-
-[BIRTHSUNFLOWER_PLANTFOOD]
-Hold a concert that generates a lot of sun.
-
 [PUMPKINWITCH_PRODUCT_SHORT_DESC]
 Pumpkin Wizard
 
@@ -31504,47 +31572,6 @@ Pumpkin wizards can throw pumpkins to control ordinary humanoid zombies to fight
 
 [PUMPKINWITCH_PLANTFOOD]
 Throw up to 5 solid pumpkins and control the zombies to fight for you.
-
-[AGAVE_PRODUCT_SHORT_DESC]
-The agave can attack zombies within two tiles in front and deals extra damage to zombies wearing headgear.
-
-[AGAVE_AVATAR_NAME]
-Agave Costume
-
-[STORE_PRODUCT_AVATAR_AGAVE]
-plants food can emit three shock waves, increasing the attack range.
-
-[STORE_PRODUCT_AVATAR_AGAVE_TITLE]
-Agave Costume
-
-[AGAVE_SKILL_LEVEL1]
-Double Dragon Dash
-
-[AGAVE_SKILL_LEVEL1_DES]
-Agave's superb swordsmanship can slash twice at a time after charging for 3s.
-
-[AGAVE_SKILL_LEVEL2]
-Speed Charge
-
-[AGAVE_SKILL_LEVEL2_DES]
-Reduces 50% charge time for Double Dragon Dash
-
-[AGAVE]
-Agave
-
-[AGAVE_DESCRIPTION_HEADER]
-Agave attacks zombies within two tiles in front of it, and deals additional damage to zombies with headgear.
-
-[AGAVE_DESCRIPTION]
-{KEYWORD}Special: {STAT}Deals more damage to zombies with headgear.
-{KEYWORD}Plant features: {STAT}green plant, master of martial arts
-{FLAVOR}"When two masters fight, victories or defeats are determined instantly. Those flowery swordplays are not worth mentioning." Agave would say this with scorn every time when that "Epic" duel was mentioned. However, everyone knew that it was just a game of Rock-Paper-Scissors with Rose Swordfighter.
-
-[AGAVE_TOOLTIP]
-Agave attacks zombies within two tiles in front of it, and deals additional damage to zombies with headgear.
-
-[AGAVE_PLANTFOOD]
-Agave throws its sword up, sends a shockwave that spews dirt along its path dealing
 
 [JACKFRUIT_PRODUCT_SHORT_DESC]
 Jackfruit scrolls against the zombies in the line ahead and can block the tunnel opening opened by the guide zombies.
@@ -35853,6 +35880,12 @@ Fairy Tale endless - Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_TALE_TITLE_WELCOME]
 Welcome to Fairy Tale endless !
+
+[DANGER_ROOM_RENAI_LEVEL_NAME]
+Renaissance age endless -  Level {LEVEL_NUMBER}
+
+[DANGER_ROOM_RENAI_TITLE_WELCOME]
+Welcome to Renaissance age endless !
 
 [DANGER_ROOM_REWARD_FLAME_THROWER]
 Adds a free Flame Finger.
@@ -45498,7 +45531,7 @@ Electric energy pea Costume
 帝王花：南非的国花
     常绿灌木。
     植株高约1米；叶片互生，革质长椭圆形；头状花序，形如睡莲，直径可达30厘米；由众多小花组成，外围苞片花瓣状，红色或粉红色；果实椭圆形，种子棕色扁平卵形。花期春至夏初，果期为夏季。
-    因花序形似皇冠而得名，原产南非各地，深受民众喜爱而普遍种植，为南非国花。作为外来花卉，常音译其名“Protea”而被称为“卜若地”、“普蒂亚”等，因其富贵华丽的外表常用作鲜切花。
+    因花序形似皇冠而得名，原产南非各地，深受民众喜爱而普遍种植，为南非国花。其名为“Protea”，作为外来花卉，常被音译为“卜若地”、“普蒂亚”等，因其富贵华丽的外表常用作鲜切花。
 
 
 [INFERNO_FAMILY]
@@ -45544,8 +45577,7 @@ Electric energy pea Costume
 水晶兰：幽林中的水晶之花
     多年生草本植物。
     茎直立不分枝，高10-30厘米，全株无叶绿素，白色，肉质；根细而分枝密，交结成鸟巢状；叶片鳞片状，互生；花单生茎顶，筒状钟形，花瓣5-6片，半透明白色；雄蕊10-12枚，雌蕊单生，花柱头膨大成漏斗状；果实椭圆球形，直立，向上，长1.3-1.4厘米。花期为6-9月；果期9-11月。
-    为腐生植物，因无叶绿素而不能产生光合作用，而是依赖分解有机物质来获取营养生长，因此要生长在腐殖质丰富的土壤中。集中分布于我国西南和西北地区海拔800-3850米的山地林下，苏联、日本、印度、东南亚、北美也有分布。
-
+    为腐生植物，因无叶绿素而不能产生光合作用，而是依赖分解有机物质来获取营养生长，因此要生长在腐殖质丰富的土壤中。集中分布于我国西南和西北地区海拔800-3850米的山地林下，俄罗斯、日本、印度、东南亚、北美也有分布。
 
 [HOLLYKNIGHT_FAMILY]
 冬青科
@@ -45825,6 +45857,7 @@ Carrotillery(Daucus carota var. sativus Hoffm.)
     特别说明：充能柚子的原版英文名为 Citron，按名称翻译应该对应的原型为香橼。这两个物种属于很近的亲戚（柑橘属 Citrus），但是不同的物种。香橼和柚子果实很像，但有一些差异。香橼的果实表面粗糙、果皮多为金黄色；柚子果实表面光滑、果皮多为黄色。从我们游戏中的美术设计来看，形象更接近柚子，也与实际中文名保持了一致，为确保科普严谨性，特此说明。
     1. 香橼 Citrus medica L. 属于：被子植物，木兰亚纲，无患子目，芸香科，柑橘属 （Citrus）
     2. 柚子 Citrus maxima (Burm.) Merr. 属于：被子植物，木兰亚纲，无患子目，芸香科，柑橘属（Citrus）
+
 [BONKCHOY_FAMILY]
 十字花科
 [BONKCHOY_GENUS]
@@ -45834,6 +45867,9 @@ Carrotillery(Daucus carota var. sativus Hoffm.)
     白菜为二年生或越年生草本植物, 高40-60厘米, 常全株无毛, 有时叶下面中脉上有少数刺毛. 白菜基生叶多数而大形, 倒卵状长圆形至宽倒卵形, 长30-60厘米, 宽不及长的一半, 顶端圆钝, 边缘皱缩, 波状, 有时具不显明牙齿, 中脉白色而很宽, 有多数粗壮侧脉；叶柄白色, 扁平, 长5-9厘米, 宽2-8厘米, 边缘有具缺刻的宽薄翅；白菜的上部茎生叶长圆状卵形、长圆披针形至长披针形, 长2.5-7厘米, 顶端圆钝至短急尖, 全缘或有裂齿, 有柄或抱茎, 有粉霜. 白菜的花鲜黄色, 直径1.2-1.5厘米；花梗长4-6毫米；萼片长圆形或卵状披针形, 长4-5毫米, 直立, 淡绿色至黄色；花瓣倒卵形, 长7-8毫米, 基部渐窄成爪. 长角果较粗短, 长3-6厘米, 宽约3毫米, 两侧压扁, 直立, 喙长4-10毫米, 宽约1毫米, 顶端圆；果梗开展或上升, 长2.5-3厘米, 较粗. 种子球形, 直径1-1.5毫米, 棕色. 开花期为5月, 结果期尾6月. 
     白菜原产地为中国的华北, 是亚洲地区, 特别是中国、韩国、日本广泛栽培的一种蔬菜作物. 在中国是东北及华北冬、春季的主要蔬菜. 白菜较耐寒, 喜好冷凉气候, 适合在冷凉季节生长, 适于栽植在保肥、保水并富含有机质的壤土与砂壤土及黑黄土. 
     白菜中含有多种营养 CNY素, 具有美肤养颜、生津养胃、消脂减肥等功效. 白菜含有丰富的水分和维生素, 常吃白菜不但可以补充身体流失的水分, 所含的维生素C、维生素E还能预防皮肤色素沉着, 起到护肤养颜等效果. 白菜有养胃生津、清热除烦的作用, 将白菜捣烂取汁, 与百合、麦冬加水煎服, 对胃阴亏虚引起的胃隐痛有疗效. 白菜性寒、味甘, 适合口渴烦热、痰热咳嗽、风热感冒等患者食用；另外白菜水分含量大约为95％, 还含有丰富的膳食纤维, 可以刺激肠胃蠕动, 帮助消化, 促进肠道中废弃物的排泄. 
+[BONKCHOY_PEDIA_EXTRA]
+    补充说明：菜问（BonkChoy）根据名字对应原型应为“白菜”（BokChoy）在粤语中的发音，在中国分为很多种类，如小白菜和大白菜。小白菜在北方多被成为“油菜”，在南方则通常被称为“青菜”或“上海青”。菜问的美术设计本身更像是白菜和青菜的结合体，特此说明。
+
 
 [KERNELPULT_FAMILY]
 禾本科
@@ -46086,40 +46122,6 @@ There is a probability of throwing a huge grenade and causing huge damage in the
 [HEIAN_HEADER]
 Throwing a grenade causes damage to a zombie within a square
 
-[IMPPEAR_DESCRIPTION]
-{KEYWORD}Special: {STAT} Throwing a grenade will cause damage to zombies within one square
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} He is a military fan and loves to collect various military materials. One day he costume himself as a gunner and scared many plants on the street
-
-[IMPPEAR_TOOLTIP]
-Throwing a grenade causes damage to a zombie within a square
-
-[IMPPEAR_SKILL_LEVEL1]
-Blasting Specialists
-
-[IMPPEAR_SKILL_LEVEL1_DES]
-There is a 10% probability that the pieceation grenade will cause sputtering damage to surrounding zombies when it explodes.
-
-[IMPPEAR_SKILL_LEVEL2]
-Blasting Specialization
-
-[IMPPEAR_SKILL_LEVEL2_DES]
-Improve the blasting expert effect by 100%.
-
-[IMPPEAR_SKILL_LEVEL5]
-Fun Blasting
-
-[IMPPEAR_SKILL_LEVEL5_DES]
-There is a probability of releasing random grenade bombs, blasting bombs cause high damage to the enemy and have a probability of blowing up zombies. Flash bombs can cause a immersive effect on enemy units within the 3X3 range, and poison gas bombs can cause a 10-second poisoning effect on enemy units within the 3X3 range.
-
-[IMPPEAR_AVATAR_NAME]
-Mulberry blast Costume
-
-[STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
-Mulberry blast Costume
-
-[STORE_PRODUCT_AVATAR_IMPPEAR]
-There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
 
 [THUNDERSNAPDRAGON]
 Brontosaurus
@@ -46528,42 +46530,6 @@ Electric energy stirs
 
 [ELECTRICITEA_SKILL_LEVEL5_DES]
 There is a probability of turning the attack into a red high-energy lightning that paralyzes all zombies within the attack range for 3 seconds.
-
-[IMPPEAR]
-Little yellow pear
-
-[IMPPEAR_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}Short plant
-{FLAVOR} Little yellow pear can weaken zombies. Of course, Xiao Huangli doesn't like this characteristic, others always say that I look the same as jackfruit!!.
-[IMPPEAR_DESCRIPTION_HEADER]
-Make zombies eat and then become imp zombies
-
-[IMPPEAR_TOOLTIP]
-Make zombies eat and then become imp zombies
-
-[IMPPEAR_PRODUCT_SHORT_DESC]
-Make zombies eat and then become imp zombies
-
-[IMPPEAR_AVATAR_NAME]
-Make zombies eat and then become imp zombies
-
-[STORE_PRODUCT_AVATAR_IMPPEAR]
-The number of ultimate moves is increased by two additional
-
-[STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
-Little Huangli Costume
-
-[IMPPEAR_SKILL_LEVEL1]
-Intensified variation
-
-[IMPPEAR_SKILL_LEVEL1_DES]
-There is a 40% probability that when a zombie turns into a little ghost zombie after eating a small yellow pear, it will directly receive the poisoning effect and release gas to stun the zombies behind it
-
-[IMPPEAR_SKILL_LEVEL2]
-Variation improvement
-
-[IMPPEAR_SKILL_LEVEL2_DES]
-Boost the probability of reinforcing variation
 
 [OLIVE]
 Olives
@@ -49518,9 +49484,9 @@ Activity rules:
 2. After obtaining all the rewards in the Dragon Treasure House, the current prize pool will be automatically reset; after players obtain 5 rewards from the treasure house of the current round, they can spend 10 Dragon Crystals to manually reset the lottery.
 3. The progress, dragon crystal and points of this event are not inherited to the next period, after the event the remaining dragon crystal will be converted into diamonds in a ratio of 1:1, and the remaining points will be converted into gold coins in a ratio of 1:100.
 4. Players can obtain rewards from the Dragon Clan Treasure House by spending Dragon Crystals, with a specific probability of:
-Custom Reward 1 (Eggplant Ninja "Zero" Outfit, Hydraulic Artifact, Burdock Slugger Fragment *20)  1.00%
-Custom Reward 2 (Targeted Fragments *10, Artifact Blessing Voucher *30, Burdock Slugger Fragment *10)  2.21%
-Custom Reward 3 (Bearberry Mortar Fragment *10, Artifact Blessing Voucher *25, Eggplant Ninja Fragment *10)  1.89%
+Optional Reward 1 (Dragon Lamp Artifact, Cactus Party Assist Event Costume, Mulberry Blaster pieces x20)  1.00%
+Optional Reward 2 (Directional pieces x10, Artifact Blessing Coupons x30, Mulberry Blaster pieces x10)  2.21%
+Optional Reward 3 (Mulberry Blaster pieces x10, Artifact Blessing Coupons x30, Tigerstool piece x10)  1.89%
 Genetic Primacy*4 11.50% Universal Genetic Coin*60 11.50%
 Space-time energy tank*10 5.00% Space-time cubic*2 3.70%
 Spacetime dust*10 13.00% Spacetime dust*20 5.00%
@@ -50648,7 +50614,7 @@ Diamonds are insufficient
 Daily Login
 
 [ARBORDAY_TASK_NAME_2]
-Pass the Memories Journey level once a day
+Daily login
 
 [ARBORDAY_TASK_NAME_3]
 1 DIY level per day
@@ -50666,61 +50632,61 @@ Pass the Memories Journey level 3 times a day
 Complete 3 botanical expeditions daily
 
 [BATTLEORDER_TASK_NAME_1_1]
-Log in to the game
+Daily login
 
 [BATTLEORDER_TASK_NAME_1_2]
-Obtain 20 Plant pieces
+Collect 20 puzzle pieces
 
 [BATTLEORDER_TASK_NAME_1_3]
-Obtain 10 Trinket/Super Trinket pieces
+Collect 10 pendant pieces
 
 [BATTLEORDER_TASK_NAME_1_4]
-Kill 25 Mummy Zombies
+Kill 25 mummy zombies
 
 [BATTLEORDER_TASK_NAME_1_5]
-Complete 2 "Plant Expedition" tasks
+Complete 2 plant adventures
 
 [BATTLEORDER_TASK_NAME_1_6]
-Rate any 1 "Creative Garden" level (Like/Dislike)
+Rate 1 creative courtyard level
 
 [BATTLEORDER_TASK_NAME_1_7]
-Spend 150 Diamonds
+Consume 150 gems
 
 [BATTLEORDER_TASK_NAME_2_1]
-Log in for 5 days this week
+5 logins this week
 
 [BATTLEORDER_TASK_NAME_2_2]
-Obtain 100 Plant pieces this week
+Obtain 100 puzzle pieces
 
 [BATTLEORDER_TASK_NAME_2_3]
-Obtain 50 Trinket/Super Trinket pieces this week
+Obtain 50 pendant pieces
 
 [BATTLEORDER_TASK_NAME_2_4]
-Clear 5 "Memory Journey" levels
+Beat 5 memory lane levels
 
 [BATTLEORDER_TASK_NAME_2_5]
-Challenge "Penny's Pursuit" 3 times
+Play 3 penny pursuit levels
 
 [BATTLEORDER_TASK_NAME_2_6]
-Challenge "Super Z League" 2 times
+Play 2 time Arena
 
 [BATTLEORDER_TASK_NAME_2_7]
-Reach Level 35 in any "Endless Challenge" stage
+Reach level 35 of endless
 
 [BATTLEORDER_TASK_NAME_2_8]
-Publish 2 levels in "Creative Garden"
+Post 2 creative courtyard levels
 
 [BATTLEORDER_TASK_NAME_2_9]
-Play 6 levels in "Creative Garden"
+Play 6 creative courtyard levels
 
 [BATTLEORDER_TASK_NAME_2_10]
-Challenge 15 levels in any mode (Main Story/Secret Realm Mystery)
+Play 15 regular levels
 
 [BATTLEORDER_TASK_NAME_2_11]
-Draw treasures 5 times (Permanent Treasures/Mystery Treasures/Limited-Time Treasures)
+Open 5 chests
 
 [BATTLEORDER_TASK_NAME_2_12]
-Win 5 matches in "Duel Mode"
+Win 5 time in PvP
 
 [BATTLEORDER_TASK_NAME_2_13]
 Obtain 3 Gene Sequences/Gene Essences this week
@@ -50729,7 +50695,7 @@ Obtain 3 Gene Sequences/Gene Essences this week
 Perform 5 "Plant Gene Modifications" this week
 
 [BATTLEORDER_TASK_NAME_3_1]
-Smash vase 10 times in the [Vase breaker] event ([Vase breaker] Phase 1 will be held from February 14th to February 20th, and Phase 2 will be available from March 7th to March 13th).
+Smash 10 vase (event open between April 18 to April 24)
 
 [BATTLEORDER_TASK_NAME_3_2]
 Get rewards 7 times in the "Mystery Store" (including free rewards) (The "Mystery Store" event will be open from October 6 to November 12)
@@ -50750,37 +50716,37 @@ Obtain 10 replacement coins in the "Plant Challenge"
 Roll dice (draw steps) 8 times in the "Grand Theater of Literature and Art" event (The "Grand Theater of Literature and Art" event will be open from September 30 to October 13)
 
 [BATTLEORDER_TASK_NAME_3_8]
-Complete 5 "Zombie Boss Challenges" (The "Zombie Boss Challenge" event will be open from February 10 to February 23)
+Complete 5 time Boss rush
 
 [BATTLEORDER_TASK_NAME_3_9]
-Obtain a total of 300 plant pieces
+Obtain 300 puzzle pieces
 
 [BATTLEORDER_TASK_NAME_3_10]
-Obtain a total of 150 trinket/super trinket pieces
+Obtain 150 pendant pieces
 
 [BATTLEORDER_TASK_NAME_3_11]
-Reach level 120 of the "Endless Challenge"
+Reach level 120 of endless
 
 [BATTLEORDER_TASK_NAME_3_12]
-Publish any 10 levels in the "Creative Courtyard"
+Post 10 creative courtyard levels
 
 [BATTLEORDER_TASK_NAME_3_13]
-Rate any 50 levels in the "Creative Courtyard" (Like/Dislike)
+Rate 50 creative courtyard levels
 
 [BATTLEORDER_TASK_NAME_3_14]
-Complete the "Memory Journey" in difficult mode once
+Complete Memory lane hard mode
 
 [BATTLEORDER_TASK_NAME_3_15]
-Reach the "Gold League" or higher in "Penny's Pursuit"
+Reach Gold League in Arena
 
 [BATTLEORDER_TASK_NAME_3_16]
-Reach the "Silver League" or higher in "Super Z League"
+Reach Silver League in Arena
 
 [BATTLEORDER_TASK_NAME_3_17]
-Spend 3000 Diamonds
+Spend 3000 gems
 
 [BATTLEORDER_TASK_NAME_3_18]
-Draw treasures 50 times (Permanent Treasures/Mystery Treasures/Limited-Time Treasures)
+Open 50 chests
 
 [BATTLEORDER_TASK_NAME_3_19]
 Roll dice (draw steps) 8 times in the "Grand Theater of Literature and Art" event (The "Grand Theater of Literature and Art" event will be open from May 20 to June 2)
@@ -51244,9 +51210,6 @@ Electric blueberry attack speed increased {Param_1}%
 [GENE_DESCRIPTION_SLINGPEA]
 Pea mortar ejection pea damage increased {Param_1}%, bomb pea damage increased{Param_2}%
 
-[GENE_DESCRIPTION_BIRTHSUNFLOWER]
-Sunflower singer attack power bonus effect increases {Param_1}%
-
 [GENE_DESCRIPTION_ELAEOCARPUS]
 The health of the zombies that Du Ying can kill when a pitcher smashes increases by {Param_1}%
 
@@ -51295,9 +51258,6 @@ Plantern health increase {Param_1}%
 [GENE_DESCRIPTION_LAVAGUAVA]
 Magma guava attack power increased {Param_1}%
 
-[GENE_DESCRIPTION_IMPPEAR]
-The probability of Xiao Huangli landing and releasing plants food at the fourth level increases {Param_1}%
-
 [GENE_DESCRIPTION_CACTUS]
 The cactus' ultimate move strengthens the needle prick with additional current, and there is a {Param_1}% probability of zombie paralysis in the mission
 
@@ -51328,9 +51288,6 @@ The damage of the ionized anthurium large electric ball increases by {Param_1}%
 [GENE_DESCRIPTION_HOMINGTHISTLE]
 The probability of the guided thistle firing two bullets in succession increases {Param_1}% (effective after order 2)
 
-[GENE_DESCRIPTION_AGAVE]
-When attacking Agave, there is a {Param_1}% probability of exerting an additional sword energy consistent with the slash attack power, causing damage to the zombies in the 3rd to 5th squares on the right
-
 [GENE_DESCRIPTION_HYDROCOTYLEDRUMMER]
 The attack power and attack speed increase effect provided by the copper coin grass drummer for the orchestra's plants has increased {Param_1}%
 
@@ -51344,7 +51301,7 @@ Winter Celebration
 Winter Party
 
 [BATTLE_ORDER_SPRING]
-Garden Party
+Spring Journey
 
 [BATTLE_ORDER_SUMMER]
 Autumn Adventure
@@ -51371,7 +51328,7 @@ Lucky Winter
 Winter Party
 
 [BATTLE_ORDER_TAB5_SPRING]
-Garden Party
+Spring Journey
 
 [BATTLE_ORDER_TAB5_SUMMER]
 Cool Summer
@@ -51500,7 +51457,7 @@ Winter Celebration Event Description
 Winter Party Event Description
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_SPRING]
-Garden Flower Festival Event Description
+Spring Journey Event Description
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_SUMMER]
 Cool Summer Event Description
@@ -51516,7 +51473,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Fire cracker^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -51529,7 +51486,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Fire cracker^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -51542,7 +51499,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Fire cracker^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -51555,7 +51512,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Fire cracker^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -51568,7 +51525,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Twin Year of the Rabbits^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Fire cracker^oldclrr.
  
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
@@ -52257,7 +52214,7 @@ Three-meat tacos: Mangosteen pieces, oriental pieces, level 4 books
 Two-meat tacos: Artifact Voucher, Targeted pieces, Water Chestnut Brothers Fragment.
 
 [DAVEKITCHEN_EXCHANGE_3]
-One-meat tacos: Artifact Voucher, Dracaena pieces, legendary potion
+One-meat tacos: Artifact Voucher, Abyss Anemone pieces, legendary potion
 
 [DAVEKITCHEN_EXCHANGE_4]
 Vegetable tacos: Diamonds, Byttneria Meteor Hammer, purple potion
@@ -52576,10 +52533,10 @@ New Year Gift
 New Year Gift  
 
 [FIGHT_ZODIAC_TAB_2]
-New Year Pack  
+Celebration Bundle  
 
 [FIGHT_ZODIAC_INDEX]
-The {NUM}th New Year Pack  
+The {NUM}th Celebration Bundle  
 
 [FIGHT_ZODIAC_OBTAIN]
 Free Firecracker Pickup  
@@ -53975,12 +53932,6 @@ Roasted potato Costume
 [STORE_PRODUCT_AVATAR_HOTPOTATO]
 Reduce planting CD20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_1]
-Agave Spring Festival Costume
-
-[NEW_AVATAR_DESCRIPTION_AGAVE]
-Attack power increased by 15%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_ENDURIAN_1]
 Durian jerseys
 
@@ -54047,12 +53998,6 @@ Eggplant Ninja Christmas Costume
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_1]
 The probability of an exploding dart on basic attack increases by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_1]
-Sunflower Singer Year of the Tiger Costume
-
-[NEW_AVATAR_DESCRIPTION_BIRTHSUNFLOWER_1]
-Reduction of 10% in the time interval for sun output%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_1]
 Water Chestnut Brothers Costume for the Year of the Tiger
@@ -54157,6 +54102,12 @@ Olive Pit Grow Up Costume
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_1]
 Cultivation cooling is reduced by 20%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
+Olive Pit Glasses
+
+[NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
+Rest time reduced by 5s
+
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_2]
 Apple Mortar Grow Costume
 
@@ -54180,12 +54131,6 @@ Costume for the Year of the Brontosaurus Grass Rabbit
 
 [NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
 Plant attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
-Little Yellow Pear Year of the Rabbit Costume
-
-[NEW_AVATAR_DESCRIPTION_IMPPEAR_1]
-Cultivation cooling is reduced by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINECONE_1]
 Double Gun Pinecone Year of the Rabbit Costume
@@ -55411,13 +55356,13 @@ Earn {NUMBER}% more points in Arena mode!
 Reduce zombie speed by {NUMBER}%!
 
 [MINIGAME_PERK_STUCK_ALL_ZOMBIE_DESCRIPTION]
-Every 20 seconds, freeze zombies for {NUMBER} seconds.
+Every 20 seconds, freeze zombies for {NUMBER} seconds.(Does not affect aerial warfare)
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
-Instantly kill all zombies in the field {NUMBER} times.
+Instantly kill normal all zombies in the field {NUMBER} times.
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
-Increase plant stats by {NUMBER3}% (e.g., reduced cooldowns, faster appearances).
+Increase plant stats by {NUMBER3}% (e.g., reduced cooldowns, faster appearances). (Does not affect aerial warfare)
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
 Increase game duration by {NUMBER} seconds.
@@ -55437,6 +55382,10 @@ Refresh all cards' cooldowns; magic hats spawn only plants for 10s ({NUMBER} use
 [MINIGAME_PERK_TIME_BACK]
 Rewind 5 steps and refund consumed moves ({NUMBER} uses).
 
+[MINIGAME_PERK_TEAM_SKY]
+Unlock a new Aerial Warfare Plant Squad
+
+
 [MINI_GAME_PERK_NAME_ZOMBIE_SPEED_REDUCED]
 Zombie speed reduced.
 
@@ -55453,7 +55402,7 @@ Extend game time.
 Increase token rewards after completion.
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
-Eliminate all zombies instantly.
+Eliminate all normal zombies instantly.
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_X_RAY]
 X-Ray Vision.
@@ -55466,6 +55415,9 @@ Refresh Cards.
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TIME_BACK]
 Time Rewind.
+
+[MINI_GAME_PERK_NAME_SPECIAL_ITEM_TEAM_SKY]
+Aerial Squadron
 
 [TRAFFIC_JAM_DESCRIPTION]
 Freeze zombies for {NUMBER} seconds!
@@ -58105,7 +58057,7 @@ Your account has been banned. If you have any questions, please contact customer
 Your account has been banned. If you have any questions, please contact customer service at QQ: 4008932088.
 
 [UI_BAG_TITLE]
-Backpack
+Items
 
 [UI_BAG_PLANT_PIECE]
 Plant
@@ -62480,6 +62432,49 @@ Ice & Snow 3
 [S15_MEMORY_LEVEL_NAME_064]
 Elite Zombies Attack
 
+[S23_MEMORY_LEVEL_NAME_01]
+Avengers
+
+[S23_MEMORY_LEVEL_NAME_02]
+Backyard Heist
+
+[S23_MEMORY_LEVEL_NAME_03]
+Plants vs Animals
+
+[S23_MEMORY_LEVEL_NAME_05]
+Home Alone
+
+[S23_MEMORY_LEVEL_NAME_06]
+Firepower Advantage
+
+[S23_MEMORY_LEVEL_NAME_07]
+Universe No. 1
+
+[S23_MEMORY_LEVEL_NAME_08]
+Take Off! But Into the Wind
+
+[S23_MEMORY_LEVEL_NAME_09]
+No Martial Ethics
+
+[S23_MEMORY_LEVEL_NAME_10]
+Rolling Wheels
+
+[S23_MEMORY_LEVEL_NAME_11]
+Blitzkrieg
+
+[S23_MEMORY_LEVEL_NAME_13]
+PVZ: Heroes' Return
+
+[S23_MEMORY_LEVEL_NAME_14]
+Labor Zombies Are the Most Glorious
+
+[S23_MEMORY_LEVEL_NAME_15]
+It's Not Just Camel Brand that Requires Fast Hands
+
+[S23_MEMORY_LEVEL_NAME_16]
+The Staged Couple
+
+
 [MEMORY_LEVEL_NAME_01]
 Day 1 of the Memories Tour
 
@@ -63743,25 +63738,25 @@ Each hard level has 3 challenge. Complete them to collect badges and exchange fo
 1. Event Time
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_NO42_UNIVERSE]
-The event will be open from January 27th to February 25th.
+The event will be open from April 1th to May 10th.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_NO42_UNIVERSE]
 2. Plant Rules
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_NO42_UNIVERSE]
-Parallel Universe plants are used in this event. Player's plant upgrades, including family, do not apply, and artifacts cannot be used in this event.
+In the uncharted realm, only parallel universe plants can be used. Player plant upgrades do not take effect in this realm.
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_NO42_UNIVERSE]
 3. Level Rules
 
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_NO42_UNIVERSE]
-The initial sun in the event is 50, with 8 plant slots. The initial sun can be upgraded through the event shop.
+Initial sun in the uncharted realm is 50 and can be upgraded through the realm shop.
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_NO42_UNIVERSE]
-4. Event Rewards
+4. Realm Rewards
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_NO42_UNIVERSE]
-Completing the event will reward players with two types of currency: Regular and Advanced. Advanced currency is only awarded on the first completion, while Regular currency can be obtained repeatedly, with a daily limit of 500. The currency can be exchanged for rewards in the shop.
+Clearing the realm grants two types of currency: regular and advanced. Advanced currency is only awarded on the first clear, while regular currency can be earned repeatedly but is capped at 600 per day. Currency can be exchanged for rewards in the shop.
 
 [SPACETIME_KEY_INFO_TITLE]
 Spacetime Key Description
@@ -63770,7 +63765,7 @@ Spacetime Key Description
 Speed Racing Event Spacetime Key Description
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NO42_UNIVERSE]
-NO42 Parallel Universe Spacetime Key Description
+NO41 Parallel Universe Spacetime Key Description
 
 
 [SPACETIME_KEY_INFO_TEXT_1]
@@ -66074,46 +66069,46 @@ Need for Speed Racing (Hard) - Day 7
 {PLAYER}'s Trip to the Parallel Universe No.42
 
 [NO42_LEVEL_NAME_01]
-the beginning of the end
+Let the zombies enter the house and you will win
 
 [NO42_LEVEL_NAME_02]
-Opening
+Sunflowers should be planted farmost to the right to block zombie attacks
 
 [NO42_LEVEL_NAME_03]
-Analysis
+Priorities for first-day purchase of 42nd Primal Sunflower
 
 [NO42_LEVEL_NAME_04]
-Science
+Priorities for first-day purchase of 42nd Primal Peashooter
 
 [NO42_LEVEL_NAME_05]
-Dialetheism
+Removing a plant returns 999% sun
 
 [NO42_LEVEL_NAME_06]
-Antinomy
+Typing "mustache" brings surprising changes
 
 [NO42_LEVEL_NAME_07]
-Cataclysm
+The Elite Zombies have Fire Resilience
 
 [NO42_LEVEL_NAME_01_H]
-Four-Two
+Attacking the Imp Cannon from the right wont help
 
 [NO42_LEVEL_NAME_02_H]
-Closed-Loop
+If you let a zombie eat 30 wall-nuts, it will choke to death
 
 [NO42_LEVEL_NAME_03_H]
-Schemes
+Today, the zombies are here to apologize, please don't attack
 
 [NO42_LEVEL_NAME_04_H]
-Traps
+Players who pass the level agree to cancel the Plant Adventures feature
 
 [NO42_LEVEL_NAME_05_H]
-Mirror
+Let me whisper to you something: Cattail is an undercover...
 
 [NO42_LEVEL_NAME_06_H]
-Millennia
+the new world will be based on Atlantis
 
 [NO42_LEVEL_NAME_07_H]
-Dreaming
+Don't beat the last level and you get infinite diamonds
 
 [NO42_LEVEL_NAME_MUGEN]
 the beginning of the end
@@ -67724,10 +67719,10 @@ PvP Shop
 PvP Shop Rules
 
 [NEW_PVP_SHOP_INFO_DETAIL]
-1. Shop items refresh daily at 00:00 (UTC+8) , resetting item purchase limits.  
-2. Pvp coin can be obtained through daily and weekly chests and used to exchange for various items in the shop.  
-3. Seasonal Legendary Chests and Seasonal Normal Chests usually contain newly introduced zombies for the season.  
-4. The Seasonal Legendary Chest rewards include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Pvp coin from the pool.  
+1. Shop items refresh daily at 00:00 (UTC+8) , resetting item purchase limits.
+2. Pvp coin can be obtained through daily and weekly chests and used to exchange for various items in the shop.
+3. Seasonal Legendary Chests and Seasonal Normal Chests usually contain newly introduced zombies for the season,Regular Legendary Chest includes all released zombies.
+4. The Seasonal Legendary Chest and the Regular Legendary Chest's rewards include 310 cards of a random common zombie, 100 cards of a rare zombie, 5 cards of a legendary zombie, and 10 Pvp coin from the pool.  
 5. The Seasonal Normal Chest rewards include 50 cards of a random common zombie, 15 cards of a rare zombie, 3 Pvp coin, and 60 diamonds.
 
 [NEW_PVP_SHOP_RESET_TIMER]
@@ -67786,6 +67781,12 @@ Legend Treasure Box
 
 [PRODUCT_NEW_PVP_CHEST_4_SHORTDESC]
 Legend Treasure Box
+
+[PRODUCT_NEW_PVP_CHEST_5]
+Regular Legendary Chest
+
+[PRODUCT_NEW_PVP_CHEST_5_SHORTDESC]
+Regular Legendary Chest
 
 [NEW_PVP_ZOMBIE_CARD]
 Card
@@ -70435,24 +70436,6 @@ Trick or Treat launches a giant missile that causes damage to the zombies in fro
 [GREENTURNIP_AVATAR_PLANTFOOD_DESCRIPTION]
 Tricky Carrot launches a giant missile that causes damage to zombies in front of it^ff0000 and explodes after reaching the bottom on the right, causing damage to zombies within 3x3 range. ^oldclrr
 
-[BIRTHSUNFLOWER_NEW_SKILL_LEVEL1_DES]
-The sunflower singer likes to sing. Singing to produce sun and generate a halo will inspire plants in the 3x3 range, providing 10% attack power and attack speed bonus to plants in the range within a duration of 12 seconds.
-
-[BIRTHSUNFLOWER_NEW_SKILL_LEVEL2_DES]
-The bonus effect of the sunflower singer generating the halo after singing is increased to 15%.
-
-[BIRTHSUNFLOWER_NEW_SKILL_LEVEL3_DES]
-The bonus effect of the sunflower singer generating the halo after singing is increased to 20%.
-
-[BIRTHSUNFLOWER_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[BIRTHSUNFLOWER_PLANTFOOD_DESCRIPTION]
-The Sunflower Singer begins his singing performance with lights that immediately terminate the movements of all plants and zombies in the venue for 5 seconds and produce 280 points of sun.
-
-[BIRTHSUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-The Sunflower Singer begins his singing performance with lights that immediately terminate the movements of all plants and zombies in the venue for 5 seconds and produce 280 points of sun. ^ff0000The other Sunflower Singers in the venue will produce sun once. ^oldclrr
-
 [ENDURIAN_NEW_SKILL_LEVEL1_DES]
 Blocking the zombies to protect the plants behind them, the hard shell is covered with spikes, which can cause damage to zombies by stabbing them when attacked by them.
 
@@ -70590,26 +70573,6 @@ The golden toad mushroom immediately launched four swallows or licks to all rows
 
 [TOADSTOOL_AVATAR_PLANTFOOD_DESCRIPTION]
 The golden toad mushroom opens its mouth and immediately launches four swallows or licks to all rows in the right attack range. After 5 seconds of digestion, it produces the corresponding amount of sun and spits out a ball with a damage of 30, which can cause the zombies to be affected by ice. Slow down the poison gas. ^oldclrr
-
-[AGAVE_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the 2-square right side of the agave, the agave impounds its sword and launches a slash on the zombies within range. Agave attacks double the damage to armor-wearing zombies.
-
-[AGAVE_NEW_SKILL_LEVEL2_DES]
-Agave's superb swordsmanship can slash twice at a time after charging for 3s.
-
-[AGAVE_NEW_SKILL_LEVEL3_DES]
-Agave's superb swordsmanship can slash twice at a time after charging for 2s.
-
-[AGAVE_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[AGAVE_NEW_SKILL_LEVEL5
-
-[AGAVE_PLANTFOOD_DESCRIPTION]
-Agave throws its sword up, sends a shockwave that spews dirt along its path dealing
-
-[AGAVE_AVATAR_PLANTFOOD_DESCRIPTION]
-Agave throws its sword up, sends a shockwave ^FFFF00 in three directions.^oldclrr  that spews dirt along its path dealing
 
 [JACKFRUIT_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side, it scrolls to the zombie to the right, causing damage, and Jackfruit drops seeds that cannot move to absorb 200 points of damage each time it is hit, and can block a channel created by a lost guide zombie.
@@ -71795,24 +71758,6 @@ Electric Green Tea is fully charged with electric energy and randomly emits 5 co
 [ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
 Electric Green Tea is fully charged with electric energy, randomly emits 5 consecutive currents from zombies on the field, causing lightning damage to zombies^ff0000 and comes with arc diffusion damage in the 3x3 range. ^oldclrr
 
-[IMPPEAR_NEW_SKILL_LEVEL1_DES]
-When a zombie eats the little yellow pear, it will turn the zombie into a little ghost zombie. If it is already a little ghost zombie, it will be damaged and release poison gas, causing the zombie behind it to stun Ⅰ^oldclrr7 seconds. The highest is effective for level 2 zombies.
-
-[IMPPEAR_NEW_SKILL_LEVEL2_DES]
-There is a 40% probability that when a zombie turns into a little ghost zombie after eating a small yellow pear, it will directly receive the poisonous effect and release gas^848484^dizzyⅠ^oldclrrzombie behind it. The highest is effective for level 3 zombies.
-
-[IMPPEAR_NEW_SKILL_LEVEL3_DES]
-The triggering probability of enhanced variation is increased to 80%, so that the zombies are directly affected by the poison and release gas^848484^dizzyⅠ^oldclrrzombies behind. Effective up to level 5 zombies.
-
-[IMPPEAR_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[IMPPEAR_PLANTFOOD_DESCRIPTION]
-Xiao Huangli immediately released Xiao Huangli's magic once against 5 zombies on the field, turning small and medium-sized zombies into little ghost zombies, or causing damage.
-
-[IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
-Xiao Huangli immediately faced off against 7 zombies on ^ff0000oldclr^ and released Xiao Huangli's magic once, turning small and medium-sized zombies into little ghost zombies, or causing damage.
-
 [OLIVE_NEW_SKILL_LEVEL1_DES]
 After planting, olive oil is left on the plot within the attack range for 5 seconds, and a flame-like attack can ignite the olive oil, causing the zombies on it to suffer 100 points of damage per second for 6 seconds. ^ff0000It has miraculous effects on ballet zombies! ^oldclrr
 
@@ -72272,7 +72217,7 @@ Dave Kitchen Events
     (3) Chestnut Brothers 30%
     - Smoked Meat Corn Roll:
     (1) Artifact Ticket 40%
-    (2) Dracaena 30%
+    (2) Abyss Anemone 30%
     (3) Legendary potion 30%
     - Vegetable Corn Roll:
     (1) 100 Diamonds 40%
@@ -72329,7 +72274,7 @@ Participate in party assistance, help climb levels, win various rare rewards, an
 [PARTY_ASSIST_TIPS_DESC]
 Activity Rules:
 1. Select 3 custom rewards before starting. Rewards are given at corresponding levels.
-2. After 3 rounds reaching level 10, you'll get the Nyuwa Ophiuros outfit.
+2. After 3 rounds reaching level 10, you'll get the Angel Starfruit outfit.
 3. Each assistance increases progress by one level. There's a 10% chance for a Super Reward per level. After 3 rounds at level 10, the Super Reward is guaranteed.
 4. After reaching level 10, reset custom rewards. Players at level 5+ can manually reset.
 5. Complete tasks to get rewards; required outfits can be earned in custom rewards.
@@ -72374,13 +72319,13 @@ Help go to layer ^FA9A1C {NUMS}^oldclr
 No boost self-selected reward has been selected, please click the boost button to select the reward
 
 [PARTY_ASSIST_TASK_DES_0]
-Obtain the full outfit of Nyuwa Ophiuros.
+Obtain the Angel Starfruit party costume
 
 [PARTY_ASSIST_TASK_DES_1]
-Obtain the full outfit of Nyuwa Ophiuros, Snapdragon costume, the Mulberry Blaster Anniversary costume, and the Hearthshock costume.
+Obtain the costume of Angel Starfruit, Kiwifruit costume, the Fire Peashooter Anniversary costume, and the Dracaena costume.
 
 [PARTY_ASSIST_TASK_DES_2]
-Obtain the full outfit of Nyuwa Ophiuros and all other non-full outfit rewards from this event.
+obtain all the costume
 
 [FUTURE_GIFT_TOKEN_NUM]
 Current remaining tokens: {NUMBER}
@@ -72417,6 +72362,7 @@ Event Rules:
 1. The gift box contains various preset items. Players can choose several rewards to place in the slots. After purchasing the selected content Pack, corresponding items can be obtained.
 2. Each Pack can only be purchased once per day.
 3. There are 6 level of Packs, each containing different contents.
+4. When all items of the gift box are purchased, rewards will automatically be refreshes (without consuming refresh times).
 
 [FUTURE_GIFT_TICKETS_NOT_ENOUGH]
 Insufficient gold coins for the current gift box. Would you like to go to the shop interface to purchase?
@@ -72573,6 +72519,13 @@ Cannot apply repeatedly to join
 
 [PVP_ERROR_75535]
 The member has already joined another team, please refresh the page
+
+[PVP_ERROR_76000]
+Unlocks for exchange after clearing Stage 4 on Normal difficulty.
+
+[PVP_ERROR_76001]
+Unlocks for exchange after clearing Stage 7 on Hard difficulty.
+
 
 [ALL_ARTIFACT]
 (only)all artifacts
@@ -72901,6 +72854,10 @@ Squash Racing costume
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_1]
 Electric Peel Party Assist costume
 
+[NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_1]
+Electric damage increased by 20%
+
+
 [NARRATIVE_RESILIENCE1_1]
 {NPC_ENTER:crazydave}wow, it seems like an unbearable zombie has emerged.
 
@@ -72957,9 +72914,6 @@ After placing a magic cap, any plants or any zombies may appear, please cultivat
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_1]
 Electric Peas Six costume
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_2]
-Sunflower singer Six costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_1]
 Pineapple Six costume
@@ -73040,10 +72994,10 @@ Used to purchase items in Penny's Future Gift Box
 Obtained in the Penny's Future Gift Box by purchasing gold coin packs
 
 [MAT_LUCKYCHEST]
-Lucky Chest Phase II
+Lucky Chest Phase III
 
 [MAT_LUCKYCHEST_USE]
-Opening the Lucky Chest grants random generous rewards, available only from January 1 to February 25, 2025.
+Open the Lucky Chest to receive random rewards. Usable only from April 1, 2025, to May 26, 2025.
 
 [MAT_LUCKYCHEST_GOT_WAY]
 Obtained through the Lucky Treasure event or weekly special offer package purchases.
@@ -73091,9 +73045,6 @@ During the event, players can log in to receive 14 days of rewards. Complete tas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIZARDTHORNS_1]
 Thorny Wizard Growth Pack costume
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Sunflower Singer Olympic costume
 
 [PLANTWARS_WORLD_THEME_TITLE]
 Deadlock Escape
@@ -73240,9 +73191,6 @@ Walking speed increased by 50%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_3]
 Kiwi full-body costume
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Sunflower Singer Olympic Outfit
 
 [ACCUMULATED_LOGIN_TITLE]
 Courtyard Record
@@ -73630,12 +73578,15 @@ Daily tasks refresh every day, with a maximum of 3069 tokens available!
 Monthly tasks last until October 31.
 
 [TOURISMOCTOBER_MAIN_TIPS_INFO]
-1. Players can obtain activity tokens by completing daily and monthly tasks.
-2. Activity tokens can be exchanged for generous rewards in the exchange store, and tokens will not carry over to the next period.
-3. Daily tasks refresh every day, while monthly tasks do not refresh and can only be completed once.
-4. A team can have a maximum of three members; the first player to agree to let others join becomes the captain!
-5. After joining a team, only the captain decides whether other players can join; those already in the team cannot fill in the invitation code again.
-6. After team members complete tasks, other members can also receive the same amount of rewards!
+1. Players can earn event coin by completing daily tasks, monthly tasks, and personal tasks.
+2. Event coin can be exchanged for rewards in the exchange shop. Coin will not carry over to the next phase.
+3. Daily tasks refresh daily, while monthly and personal tasks do not refresh and can only be completed once.
+4. Each squad can have up to three members. The first player to accept another player into the squad becomes the captain!
+5. Once in a squad, only the captain can decide whether to accept new members. Joined members cannot enter an invitation code again.
+6. When a squad member completes a task, other squad members can also claim the same amount of rewards.
+7. This phase introduces new personal challenge tasks, upgraded point rewards, and more exchangeable rewards! (Personal task coin can only be claimed by the individual and are not shared with teammates.)  
+
+
 
 [ZOMBIE_DARK_KING_ELITE]
 Elite Dark King Zombie
@@ -73663,10 +73614,10 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
 [NIGHTTHETOY_TIP]
-Shard Shop
+Crystal Shop
 
 [NIGHTTHETOY_SHOP]
-Shard Shop
+Crystal Shop
 
 [NIGHTTHETOY_TASK]
 Event Tasks
@@ -73687,19 +73638,19 @@ Guaranteed Grand Prize after {NUMS} more draws
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Ancient chinese trip
+Fiery Carnival
 
 [TOYNIGHT_TITLE]
-Ancient chinese trip
+Fiery Carnival
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Basic Jade Bundle
+Basic Fiery Bundle
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Jade Bundle
+Intermediate Fiery Bundle
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Advanced Jade Bundle
+Advanced Fiery Bundle
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Beginner Limited Edition Gift Pack
@@ -73711,61 +73662,61 @@ Royal Luxury Limited Edition Gift Pack
 Enter the event for the first time
 
 [TOYNIGHT_TASK_2]
-Obtain the Lily Pharmacist Super Outfit
+Obtain the Electric Eel Banana Super Costume
 
 [TOYNIGHT_TASK_3]
 Obtain all outfit
 
 [MAT_TOY_PARTS]
-Jade Shards
+Cold Flame Crystal
 
 [MAT_TOY_PARTS_USE]
-Exchange rewards in the Ancient chinese trip event Shard Shop
+Exchange rewards in the Fiery Carnival Event Crystal Shop
 
 [MAT_TOY_PARTS_GOT_WAY]
-Obtain through draws in the Ancient chinese trip event
+Obtain through draws in the Fiery Carnival Event
 
 [MAT_TOY_CLOCKWORK]
-Jade
+Fiery Coin
 
 [MAT_TOY_CLOCKWORK_USE]
-Item consumed for draws in the Ancient chinese trip event
+Item used for drawing rewards in the Fiery Carnival Event
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-Obtain through purchasing in the Ancient chinese trip Gift Shop
+Obtain through purchasing in the Fiery Carnival trip Gift Shop
 
 [TOY_NIGHT_EXPIRED]
-Expired rewards for the Ancient chinese trip
+Fiery Carnival Expired Rewards
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-1. Jade are obtained via gift packs and used for draws. Jade and jade shards won't carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
-2. Each draw offers a chance for a ade shards or other rewards. Lucky players may directly win the Lily Pharmacist Super Outfit.
+1. Fiery Coins are obtained via gift packs and used for draws. Fiery Coins and Cold Fiery pieces won't carry over to the next event and will be converted to Gems at a 1:10 and 1:1 ratio.
+2. Each draw offers a chance for a ade pieces or other rewards. Lucky players may directly win the Lily Pharmacist Super Outfit.
 3. If no grand prize is won within 20 consecutive draws, the next draw guarantees a reward from the prize pool.
-4. Repeated Super Outfits are converted into 200 jade shards.
+4. Repeated Super Outfits are converted into 200 Cold Flame Crystals.
 
 Guaranteed Prize Pool Chances:
-Tile Carrot Super Outfit: 3.72%
-jade shards*1300: 5.28%
-jade shards*700: 12.55%
-jade SH*500: 11.10%
+Electric Eel Banana Super Costume: 3.72%
+Cold Flame Crystals*1300: 5.28%
+Cold FM*700: 12.55%
+Cold FM*500: 11.10%
 Gems*1888: 32.17%
 Penny's Secret Treasure Coupon*10: 35.18%
 
 Reward Probability:
 Lily Pharmacist super Outfit: 0.17%
-jade shards*1300: 0.21%
-jade shards*700: 0.43%
-jade SH*500: 0.85%
-jade SH*100: 6.09%
-jade SH*50: 16.00%
-jade SH*20: 12.00%
-jade SH*10: 35.00%
+Cold Flame Crystals*1300: 0.21%
+Cold FM*700: 0.43%
+Cold FM*500: 0.85%
+Cold FM*100: 6.09%
+Cold FM*50: 16.00%
+Cold FM*20: 12.00%
+Cold FM*10: 35.00%
 Outfit Coupon*500: 2.50%
 Outfit Coupon*100: 9.75%
 Penny's Secret Treasure Coupon*1: 17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, automatically converted to jade shard reward
+If already owned, automatically converted to Cold Flame Crystal reward
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -73815,6 +73766,9 @@ Guess Who I Am
 [ACTIVITY_NEW_MINIGAME_KLOTSKI]
 Car Hua Rong Dao
 
+[ACTIVITY_NEW_MINIGAME_SKYWAR]
+Sky War
+
 [PLAYERS_TRIP_TO_MINIGAME]
 {PLAYER}'s Fun Competition
 
@@ -73835,6 +73789,9 @@ Attack Power Increased by 30%
 
 [GINGLEBELL_TITLE]
 Jingle Bell
+
+[GINGLEBELL_TIPS]
+Event closed
 
 [GINGLEBELL_RANK_DAMAGE_TEXT]
 All damages
@@ -74417,7 +74374,7 @@ Shop Countdown
 Players can earn coin by completing levels in the Uncharted mode and exchange them for various items in the shop.
 
 [NEWYEAR_PACK_TITLE]
-New Year Pack
+Celebration Bundle
 
 [NEWYEAR_PACK_TEN]
 10x Guaranteed:
@@ -74426,7 +74383,7 @@ New Year Pack
 Event Description
 
 [NEWYEARPACK_DESCRIPTION]
-New Year Pack Purchase Instructions:
+Celebration Bundle Instructions:
 1. Upon purchasing the pack, players will receive diamond rewards and have a chance to obtain a customizable costume box (New Year Box).
 2. Packs have a guaranteed reward. If a player does not receive a New Year Box after purchasing the same pack nine times, they are guaranteed to receive it on the next purchase.
 3. The purchase limit for packs refreshes daily, but the guaranteed reward counter does not reset and can be carried over.
@@ -74434,7 +74391,7 @@ New Year Pack Purchase Instructions:
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
 New Year Instructions:
-During the event, any recharge made in the game will contribute to the cumulative recharge progress bar.
+Any recharge within the event period counts towards the accumulated recharge progress bar.
 
 Daily free Welcome Gift: Diamonds*15
 2 ¥ Gift: Diamonds 30, 10% chance to get a normal costume
@@ -74458,7 +74415,7 @@ Basic New Year Box
 After use, you can select one plant costume from the items to obtain.
 
 [MAT_NEW_YEAR_CHESTS_SMALL_GOT_WAY]
-Obtained by purchasing value gift boxes in the New Year Pack with a probability.
+Obtained by purchasing value gift boxes in the Celebration Bundle with a probability.
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE]
 Rare New Year Box
@@ -74467,7 +74424,7 @@ Rare New Year Box
 After use, you can select one plant costume from the items to obtain.
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE_GOT_WAY]
-Obtained by purchasing value gift boxes in the New Year Pack with a probability.
+Obtained by purchasing value gift boxes in the Celebration Bundle with a probability.
 
 [MAT_NEW_YEAR_CHESTS_BIG]
 legendary New Year Box
@@ -74476,7 +74433,7 @@ legendary New Year Box
 After use, you can select one plant costume from the items to obtain.
 
 [MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]
-Obtained by purchasing value gift boxes in the New Year Pack with a probability.
+Obtained by purchasing value gift boxes in the Celebration Bundle with a probability.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. The event red note at fixed times daily: 12:00-14:00 and 18:00-21:00 (UTC+8). You can claim one red packet between the hour, with a max of 2 red packets per day.
@@ -74553,7 +74510,7 @@ Congratulations ^FFFF00 {NAME} ^oldclr on winning the Grand Prize on Lunar Janua
 ^0775F7 {ITEM} ^oldclr x {NUMS}
 
 [REDPACKETWIDGET_DES_TITLE]
-New year packet
+Celebration Bundleet
 
 [REDPACKETWIDGET_SELECT_TITLE]
 Costume Selection
@@ -74613,7 +74570,7 @@ Sign Up for Lottery
 Get Free Lottery Tickets
 
 [PRODUCT_NEWYEARREDPACKETE_TITLE]
-New year packet
+Celebration Bundleet
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
 Reward Preview:
@@ -74636,7 +74593,7 @@ Reward Preview:
 Top Lucky Player Award
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-Open the New Year Pack to get tons of diamonds and rare outfits
+Open the Celebration Bundle to get tons of diamonds and rare outfits
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Congratulations, you've been selected as today's luckiest player
@@ -74649,13 +74606,18 @@ Feature Description
 
 [AVATARCOLLECTION_DESCRIPTION]
 1. The collection album contains different themed content, each theme has several items that need to be collected. Players can view detailed information on the required collectibles.  
-2. Current themes include:  
-   -Christmas  
-   -New Year  
-   -Children's Day 
-   -Halloween  
-   -Modern Technology  
-   -Don't Forget the Gentleman  
+2. Current themes include:
+   -Merry Christmas!
+   -New Year
+   -Children's Day
+   -Halloween
+   -Modern Technology
+   -Don't Forget the Gentleman
+   -Childhood fun party
+   -P2W
+   -Martial arts national style
+   -Great wisdom disguised as foolishness
+
 3. When a player collects all the costume under a specific theme, they will receive a super reward matching the theme.  
 
 [AVATARCOLLECTIONS_PROGRESS]
@@ -74697,34 +74659,118 @@ Gentleman's
 [AVATARCOLLECTIONS_THEME_DES5]
 "A gentle peashooter say "Я хочу сделать солнце"
 
+[AVATARCOLLECTIONS_THEME_TITLE6]
+童趣派对
+
+[AVATARCOLLECTIONS_THEME_DES6]
+童年的玩具最好玩！
+
+[AVATARCOLLECTIONS_HEAD_ID_25679]
+童趣派对
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25679]
+童年的玩具最好玩！
+
+[AVATARCOLLECTIONS_THEME_TITLE7]
+就是这么豪
+
+[AVATARCOLLECTIONS_THEME_DES7]
+金钱在手，天下我有！
+
+[AVATARCOLLECTIONS_HEAD_ID_25680]
+就是这么豪
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25680]
+金钱在手，天下我有！
+
+[AVATARCOLLECTIONS_THEME_TITLE8]
+武侠国风
+
+[AVATARCOLLECTIONS_THEME_DES8]
+千秋万载，一统江湖！
+
+[AVATARCOLLECTIONS_THEME_TITLE9]
+大智若愚
+
+[AVATARCOLLECTIONS_THEME_DES9]
+一加一等于二吗？
+
+[AVATARCOLLECTIONS_HEAD_ID_25682]
+大智若愚
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25682]
+一加一等于二吗？
+
 [AVATARCOLLECTIONS_NOT_EXIST]
-Not Owned  
+Not Owned
 
 [PLANTING_NOT_ON_SNOWMAN]
-Cannot be planted on a snowman  
+Cannot be planted on a snowman
 
 [PVZ2_CHINESE_END]
 
 [HARVEST_BATTLE_HEAD_ID_25647]
-Winds Howl and Cranes Cry  
+Winds Howl and Cranes Cry
 
 [HARVEST_BATTLE_HEAD_DES_ID_25647]
-Obtained through Super Corn exchange in the Farm Battle event.  
+Obtained through Super Corn exchange in the Farm Battle event.
 
 [TOYS_HEAD_ID_25648]
 Nine Colors Descend  
 
 [TOYS_HEAD_DES_ID_25648]
-Obtained by participating in the "Ancient Style Nostalgia" event.  
+Obtained by participating in the "Ancient Style Nostalgia" event.
 
 [AVATARCOLLECTIONS_HEAD_ID_25657]
-Childlike Innocence  
+Childlike Innocence
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25657]
-Pure as ever, dreams remain!  
+Pure as ever, dreams remain!
 
 [AVATARCOLLECTIONS_HEAD_ID_25658]
-Modern Technology  
+Modern Technology
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25658]
-Technology empowers, firepower unlimited!  
+Technology empowers, firepower unlimited!
+
+[TOYS_HEAD_ID_25678]
+Flame Carnival
+
+[TOYS_HEAD_DES_ID_25678]
+Obtain through the Flame Carnival event
+
+[PARALLEL_SPIKEWEED]
+41号地刺
+
+[PARALLEL_SPIKEWEED_TOOLTIP]
+她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+
+[PARALLEL_SPIKEWEED_DESCRIPTION_HEADER]
+眼神多了一丝忧郁
+
+[PARALLEL_SPIKEWEED_DESCRIPTION]
+她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+
+[PARALLEL_SPLITPEA]
+41号双向射手
+
+[PARALLEL_SPLITPEA_TOOLTIP]
+41号的双向射手是罕见的白羊座
+
+[PARALLEL_SPLITPEA_DESCRIPTION_HEADER]
+左侧的豌豆比右侧的豌豆长一毫米
+
+[PARALLEL_SPLITPEA_DESCRIPTION]
+41号的双向射手是罕见的白羊座
+
+[PARALLEL_WINTERMELON]
+41号冰西瓜投手
+
+[PARALLEL_WINTERMELON_TOOLTIP]
+火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
+
+[PARALLEL_WINTERMELON_DESCRIPTION_HEADER]
+投掷西瓜的温度比一号宇宙高1摄氏度
+
+[PARALLEL_WINTERMELON_DESCRIPTION]
+火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
