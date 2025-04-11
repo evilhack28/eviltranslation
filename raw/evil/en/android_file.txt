@@ -1,4 +1,4 @@
-﻿This translation, as being created by evilhack28 this version is based on the 3.6.5
+﻿This translation, as being created by evilhack28 this version is based on the 3.6.8
 You can't change the file without saying it was based on my translation first 
 
 Discord: https://discord.com/invite/ngTHrgMVuw
@@ -30,10 +30,26 @@ Change Log by evilhack28
 fixed some missing 3.6.5 text 
 add 3.6.7 text
 
+--1.8.1--
+fix 
 
-
-
-
+[EGRETFLOWER] F
+[STRAWBURST] (missing costume effect)
+[POISONPEASHOOTER] F
+[ELAEOCARPUS] (pf don't seem to be good)
+[ELEOCURLING] F
+[POKRA] F
+[HYDROCOTYLEDRUMMER] (costume effect good but not correct costume is missmatch with ori)
+[ULTOMATO]    (OLD SKILL)
+[SHADOWVANILLA] F
+[BROMELBLADE] F
+[ICELOTUS] F
+[STEPHANIA] F
+[TUPISTRASTALKER] F
+[DENDROBIUMGUARD] F
+[CYPRIPEDIUM] F
+[GUMNUT] F
+[OLIVEPIT] F
 
 
 
@@ -2449,7 +2465,7 @@ Sunflowers leave an explosive sunflower seed when they are destroyed, which does
 Sunflower immediately produces 300 sun 
 
 [SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Sunflower immediately produces 300 sun, ^ff0000with a chance produce between 0 and 3 gold coins^oldclrr
+Sunflower immediately produces 300 sun, ^ff0000with a chance produce between 0 and 3 gold coins ^oldclrr
 
 [GENE_DESCRIPTION_SUNFLOWER]
 Reduces sun cost by {Param_1} sun
@@ -2648,7 +2664,7 @@ Christmas Costume
 Planting cooldown reduced by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_2]
-Christmas Costume
+Halloween Costume
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_2]
 Planting cooldown reduced by 10%
@@ -3628,7 +3644,7 @@ There is a 25% chance to throw 3 melon slices that does damage to zombies in its
 Melon-pult will turn into a mortar cannon, before unleashing a barrage of giant melons each giant melon deals 200 damage to the initial target, but only 20 splash damage in a 3x3 area.
 
 [MELONPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Melon-pult will turn into a mortar cannon, before unleashing a barrage of ^FFFF00fire melons each fire melons quadruple the damage of normal melons^oldclrr 200 damage to the initial target, but only 20 splash damage in a 3x3 area.
+Melon-pult will turn into a mortar cannon, before unleashing a barrage of ^FFFF00fire melons each fire melons quadruple the damage of normal melons ^oldclrr 200 damage to the initial target, but only 20 splash damage in a 3x3 area.
 
 [GENE_DESCRIPTION_MELONPULT]
 Direct hit damage increases by {Param_1}%, splash damage increases by {Param_2}%.
@@ -4221,7 +4237,7 @@ Spikeweed may be boosted when planted.
 covers the entire lane he is placed in with spikes, dealing 720 damage over 4.5 seconds
 
 [SPIKEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-covers the entire lane he is placed in with spikes, dealing 720 damage over 4.5s ^FFFF00 stun zombie for 3s^oldclrr 
+covers the entire lane he is placed in with spikes, dealing 720 damage over 4.5s ^FFFF00 stun zombie for 3s ^oldclrr 
 
 [GENE_DESCRIPTION_SPIKEWEED]
 attack increases by {Param_1}%.
@@ -4408,7 +4424,7 @@ Squash may be boosted when planted.
 Squash smashes two random zombies before returning to his original position
 
 [SQUASH_AVATAR_PLANTFOOD_DESCRIPTION]
-Squash smashes ^FFFF00 three random^ oldclr^ zombies before returning to his original position
+Squash smashes ^FFFF00 three random oldclr^ zombies before returning to his original position
 
 
 
@@ -5688,31 +5704,84 @@ He causes splash damage along with direct damage.
 
 
 
+[BIRTHSUNFLOWER]
+Sunflower Singer
 
+[BIRTHSUNFLOWER_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}yellow plant, infinite sun
+{FLAVOR}To prepare for the anniversary celebrations, the organizers specially invited the Plant Kingdom's most famous singer, Sunflower attend as a special guest. In addition to the large amount of sun needed to pay for it, the organizers also spent a few days to convince the leadership and bring broker Small Pea Pea back, and promised to invite famous hairstylist Blover to make a new hairstyle for the Sunflower before she finally agreed. Then you will be able to listen to the celebration song "Zombies On Your Lawn" in the festival hall, if you can get a ticket or get rid of the tough Zhuimiao Grass bodyguard...
 
+[BIRTHSUNFLOWER_DESCRIPTION_HEADER]
+Sunflower Singer sings to produce sun and inspires surrounding plants to increase their attack power as well as shorten the cooldown period.
 
+[BIRTHSUNFLOWER_TOOLTIP]
+Sunflower Singer sings to produce sun and inspires surrounding plants to increase their attack power as well as shorten the cooldown period.
 
+[BIRTHSUNFLOWER_PRODUCT_SHORT_DESC]
+Sunflower Singer sings to produce sun and inspires surrounding plants to increase their attack power as well as shorten the cooldown period.
 
+[BIRTHSUNFLOWER_SKILL_LEVEL1]
+Passionate Singing
 
+[BIRTHSUNFLOWER_SKILL_LEVEL1_DES]
+The bonus effect of the Sunflower Singer's aura after singing has been increased to 15%.
 
+[BIRTHSUNFLOWER_SKILL_LEVEL2]
+Provoking Atmosphere
 
+[BIRTHSUNFLOWER_SKILL_LEVEL2_DES]
+The bonus effect of the Sunflower Singer to generate aura after singing has been increased to 20%.
 
+[BIRTHSUNFLOWER_SKILL_LEVEL5]
+Intoxicated Notes
 
+[BIRTHSUNFLOWER_SKILL_LEVEL5_DES]
+After producing sun, Sunflower Singer will send notes to the current lane. The zombies that the notes pass through will be stunned for 2 seconds.
 
+[BIRTHSUNFLOWER_NEW_SKILL_LEVEL1_DES]
+The sunflower singer likes to sing. Singing to produce sun and generate a halo will inspire plants in the 3x3 range, providing 10% attack power and attack speed bonus to plants in the range within a duration of 12 seconds.
 
+[BIRTHSUNFLOWER_NEW_SKILL_LEVEL2_DES]
+The bonus effect of the Sunflower Singer's aura after singing has been increased to 15%.
 
+[BIRTHSUNFLOWER_NEW_SKILL_LEVEL3_DES]
+The bonus effect of the Sunflower Singer to generate aura after singing has been increased to 20%.
 
+[BIRTHSUNFLOWER_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
 
+[BIRTHSUNFLOWER_NEW_SKILL_LEVEL5_DES]
+After producing sun, Sunflower Singer will send notes to the current lane. The zombies that the notes pass through will be ^848484^ stunned ^oldclr for 2 seconds.
 
+[BIRTHSUNFLOWER_PLANTFOOD_DESCRIPTION]
+She begins to sing and makes every plant dance she gives 280 sun and stuns all zombies on the lawn for 5s
 
+[BIRTHSUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
+She begins to sing and makes every plant dance she gives 280 sun and stuns all zombies on the lawn for 5s ^ff0000 all other Sunflower Singers will instantly produce sun when she stop singing.
 
+[GENE_DESCRIPTION_BIRTHSUNFLOWER]
+Attack power bonus effect increased by {Param_1}%
 
+[BIRTHSUNFLOWER_AVATAR_NAME]
+Sunflower Singer
 
+[STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER_TITLE]
+Sunflower Singer
 
+[STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER]
+All other Sunflower Singers on the lawn will instantly produce sun as soon as the Plant Food effect ends.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_1]
+Sunflower Singer earring
 
+[NEW_AVATAR_DESCRIPTION_BIRTHSUNFLOWER_1]
+Sun production cooldown reduced by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_2]
+Sunflower singer scarf
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
+Sunflower Singer Olympic
 
 
 
@@ -5723,31 +5792,84 @@ He causes splash damage along with direct damage.
 
 
 
+[IMPPEAR]
+Imp Pear
 
+[IMPPEAR_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}short
+{FLAVOR}Imp Pear impairs zombies. Of course, it isn't what he's looking for, "Why am I Jackfruit's face?
 
+[IMPPEAR_DESCRIPTION_HEADER]
+Transforms the zombie that eats it into an imp
 
+[IMPPEAR_TOOLTIP]
+Transforms the zombie that eats it into an imp
 
+[IMPPEAR_PRODUCT_SHORT_DESC]
+Transforms the zombie that eats it into an imp
 
+[IMPPEAR_SKILL_LEVEL1]
+Intensified variation
 
+[IMPPEAR_SKILL_LEVEL1_DES]
+40% chance to also destroy the transformed imp. Can now affect up to level 3 zombies.
 
+[IMPPEAR_SKILL_LEVEL2]
+Mutation Improvement
 
+[IMPPEAR_SKILL_LEVEL2_DES]
+Boost the probability of Intensified variation
 
+[IMPPEAR_SKILL_LEVEL5]
+Fun Explosion
 
+[IMPPEAR_SKILL_LEVEL5_DES]
+When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
 
+[IMPPEAR_NEW_SKILL_LEVEL1_DES]
+When a zombie eats the little yellow pear, it will turn the zombie into a little ghost zombie. If it is already a little ghost zombie, it will be damaged and release poison gas, causing the zombie behind it to stun Ⅰ^oldclrr7 seconds. The highest is effective for level 2 zombies.
 
+[IMPPEAR_NEW_SKILL_LEVEL2_DES]
+40% chance to also destroy the transformed imp. Can now affect up to level 3 zombies.
 
+[IMPPEAR_NEW_SKILL_LEVEL3_DES]
+80% chance to also destroy the transformed imp. Can now affect up to level 5 zombies.
 
+[IMPPEAR_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[IMPPEAR_NEW_SKILL_LEVEL5_DES]
+When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
 
+[IMPPEAR_PLANTFOOD_DESCRIPTION]
+Randomly target up to five zombies on the screen, turning them into Imps if possible. If an Imp is targeted, Imp Pear instead destroys them or causing 500 damage
 
+[IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
+Randomly target up to seventh zombies on the screen, turning them into Imps if possible. If an Imp is targeted, Imp Pear instead destroys them or causing 500 damage
 
+[GENE_DESCRIPTION_IMPPEAR]
+The probability of Imp Pear's Level 4 chances to be boosted is increased by
 
+[IMPPEAR_AVATAR_NAME]
+Make zombies eat and then become imp zombies
 
+[STORE_PRODUCT_AVATAR_IMPPEAR]
+Plant food effect is increased to 2 
 
+[STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
+Imp Pear's mustache
 
+[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
+Imp Pear's scroll
 
+[NEW_AVATAR_DESCRIPTION_IMPPEAR_1]
+Cooldown reduced by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
+Exorcist Imp Pear's
 
+[NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
+Increases stun duration by 1s
 
 
 
@@ -5809,29 +5931,79 @@ He causes splash damage along with direct damage.
 
 
 
+[AGAVE]
+Agave
 
+[AGAVE_DESCRIPTION]
+{KEYWORD}Special: {STAT}Deals more damage to zombies with headgear.
+{KEYWORD}Plant features: {STAT}green plant, master of martial arts
+{FLAVOR}"When two masters fight, victories or defeats are determined instantly. Those flowery swordplays are not worth mentioning." Agave would say this with scorn every time when that "Epic" duel was mentioned. However, everyone knew that it was just a game of Rock-Paper-Scissors with Rose Swordfighter.
 
+[AGAVE_DESCRIPTION_HEADER]
+Agave attacks zombies within two tiles in front of it, and deals additional damage to zombies with headgear.
 
+[AGAVE_TOOLTIP]
+Agave attacks zombies within two tiles in front of it, and deals additional damage to zombies with headgear.
 
+[AGAVE_PRODUCT_SHORT_DESC]
+The agave can attack zombies within two tiles in front and deals extra damage to zombies wearing headgear.
 
+[AGAVE_SKILL_LEVEL1]
+Double Dragon Dash
 
+[AGAVE_SKILL_LEVEL1_DES]
+Agave's superb swordsmanship can slash twice at a time after charging for 3s.
 
+[AGAVE_SKILL_LEVEL2]
+Speed Charge
 
+[AGAVE_SKILL_LEVEL2_DES]
+Reduces 50% charge time for Double Dragon Dash
 
+[AGAVE_SKILL_LEVEL5]
+Breaking the Sky
 
+[AGAVE_SKILL_LEVEL5_DES]
+After charging for 2 seconds, Agave will release the Sky Breaking Slash, targeting the first zombie in the lane and slashing the zombies in a 1×2 range multiple times, causing 2700 damage each.
 
+[AGAVE_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the 2-square right side of the agave, the agave impounds its sword and launches a slash on the zombies within range. Agave attacks double the damage to armor-wearing zombies.
 
+[AGAVE_NEW_SKILL_LEVEL2_DES]
+Agave's superb swordsmanship can slash twice at a time after charging for 3s.
 
+[AGAVE_NEW_SKILL_LEVEL3_DES]
+Agave's superb swordsmanship can slash twice at a time after charging for 2s.
 
+[AGAVE_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[AGAVE_NEW_SKILL_LEVEL5_DES]
+After charging for 2 seconds, Agave will release the Sky Breaking Slash, targeting the first zombie in the lane and slashing the zombies in a 1×2 range multiple times, causing 2700 damage each.
 
+[AGAVE_PLANTFOOD_DESCRIPTION]
+Throws its sword up, grabs it, and slams it onto the ground which sends a shockwave that spews dirt along its path dealing huge damage to every zombie within its lane.
 
+[AGAVE_AVATAR_PLANTFOOD_DESCRIPTION]
+Throws its sword up, grabs it, and slams it onto the ground which sends a shockwave ^FFFF00 in three directions ^oldclrr that spews dirt along its path dealing huge damage to every zombie within its lane.
 
+[GENE_DESCRIPTION_AGAVE]
+Has {Param_1}% chance of firing weapon aura (剑气) as a projectile
 
+[AGAVE_AVATAR_NAME]
+Agave Costume
 
+[STORE_PRODUCT_AVATAR_AGAVE]
+The attack now goes in three directions.
 
+[STORE_PRODUCT_AVATAR_AGAVE_TITLE]
+Agave Costume
 
+[NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_1]
+Agave Spring Festival Costume
 
+[NEW_AVATAR_DESCRIPTION_AGAVE]
+Attack power increased by 15%
 
 
 
@@ -6293,76 +6465,6 @@ Now lob purple venom balls, which do more damage.
 
 
 
-
-[EGRETFLOWER]
-Egret Flower Plane
-
-[EGRETFLOWER_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}white plant
-{FLAVOR}Egret Flower Plane is a stern and firm individual, you won't ever see him smile. Of course you may think that he’s acting cool, because he is in fact acting cool.
-
-[EGRETFLOWER_DESCRIPTION_HEADER]
-Missile attack, stuns a zombie when hit.
-
-[EGRETFLOWER_TOOLTIP]
-Missile attack, stuns a zombie when hit.
-
-[EGRETFLOWER_PRODUCT_SHORT_DESC]
-Missile attack, stuns a zombie when hit.
-
-[EGRETFLOWER_SKILL_LEVEL1]
-Flying Wing
-
-[EGRETFLOWER_SKILL_LEVEL1_DES]
-Every additional Egret Flower Plane on the field will increase the attack power of all Egret Flower Planes by 10%, up to 30%.
-
-[EGRETFLOWER_SKILL_LEVEL2]
-Fast Reloading
-
-[EGRETFLOWER_SKILL_LEVEL2_DES]
-Reduces a missile loading time
-
-[EGRETFLOWER_SKILL_LEVEL5]
-Equipment Transformation
-
-[EGRETFLOWER_SKILL_LEVEL5_DES]
-The attack range is increased to a single row on the right, and the attacks of bullets and missiles become single-cell group damage.
-
-[EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in the 4-square right side of the Egret Flower fighter, it fires 6 rounds in a row. Fill in a missile with a range of on the right side every 8 seconds, and hit the zombie for 2 seconds^848484^ dizziness ^oldclrr.At the time of death, one missile will be dropped off the field in each of the original square and the right square.
-
-[EGRETFLOWER_NEW_SKILL_LEVEL2_DES]
-Every additional Egret Flower Plane on the field will increase the attack power of all Egret Flower Planes by 10%, up to 30%.
-
-[EGRETFLOWER_NEW_SKILL_LEVEL3_DES]
-The missile reloading speed is accelerated, reloading a missile every 6 seconds.
-
-[EGRETFLOWER_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[EGRETFLOWER_NEW_SKILL_LEVEL5_DES]
-The attack range is increased to a single row on the right, and the attacks of bullets and missiles become single-cell group damage.
-
-[EGRETFLOWER_PLANTFOOD_DESCRIPTION]
-Summons three explosive rockets that target the three nearest zombies and leaves a four-tile fire trail on both targeted and adjacent lanes.
-
-[EGRETFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Summons three explosive rockets that target the three nearest zombies and leaves a four-tile fire trail on both targeted and adjacent lanes. It caused explosion damage in the 3x3 range  and cause ^FF0000 stun ^oldclr , and cause continuous damage 5 seconds of flames.
-
-[EGRETFLOWER_AVATAR_NAME]
-Missile attack, stuns a zombie when hit.
-
-[STORE_PRODUCT_AVATAR_EGRETFLOWER]
-Any Zombies that survive will be stunned for 3 seconds
-
-[STORE_PRODUCT_AVATAR_EGRETFLOWER_TITLE]
-Egret Flower Plane Costume
-
-
-
-
-
-
 [SAPFLING]
 Sap-fling
 
@@ -6771,148 +6873,6 @@ Pomegranate Costume
 
 
 
-[DARTICHOKE]
-Dartichoke
-
-[DARTICHOKE_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}green plant
-{FLAVOR}"Why waste shots on foot soldiers when you can win the battle with one well-chosen dart to the dome?" wonders Dartichoke. "Why would you do it? Why would ANYONE do it?"
-
-[DARTICHOKE_DESCRIPTION_HEADER]
-Darts Artichoke's darts give priority to attacking the most dangerous zombies
-
-[DARTICHOKE_TOOLTIP]
-Darts Artichoke's darts give priority to attacking the most dangerous zombies
-
-[DARTICHOKE_PRODUCT_SHORT_DESC]
-Darts Artichoke's darts give priority to attacking the most dangerous zombies
-
-[DARTICHOKE_SKILL_LEVEL1]
-Quick Recuperation
-
-[DARTICHOKE_SKILL_LEVEL1_DES]
-Reduces recharge time to 6 seconds.
-
-[DARTICHOKE_SKILL_LEVEL2]
-Rapid Recuperation
-
-[DARTICHOKE_SKILL_LEVEL2_DES]
-Reduces recharge time to 4 seconds.
-
-[DARTICHOKE_SKILL_LEVEL5]
-Thunderstorm
-
-[DARTICHOKE_SKILL_LEVEL5_DES]
-Fires a penetrating thunderstorm dart once every 20 seconds which prioritizes the most dangerous zombie, damages whatever it passes through and immediately destroys small zombies on the targeted tile.
-
-[DARTICHOKE_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right, darts are fired to inflict damage on the zombie, giving priority to the most dangerous zombies. Every 6 darts fired goes into an 8-second break. There is a 30% probability of firing a critical dart with 3 times the damage.
-
-[DARTICHOKE_NEW_SKILL_LEVEL2_DES]
-Reduces recharge time to 6 seconds.
-
-[DARTICHOKE_NEW_SKILL_LEVEL3_DES]
-Reduces recharge time to 4 seconds.
-
-[DARTICHOKE_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[DARTICHOKE_NEW_SKILL_LEVEL5_DES]
-Fires a penetrating thunderstorm dart once every 20 seconds which prioritizes the most dangerous zombie, damages whatever it passes through and immediately destroys small zombies on the targeted tile.
-
-[DARTICHOKE_PLANTFOOD_DESCRIPTION]
-Spin and shoot 10 critical darts, targeting random zombies in front of her on the lawn.
-
-[DARTICHOKE_AVATAR_PLANTFOOD_DESCRIPTION]
-Spin and shoot ^FF0000 15 ^oldclr critical darts, targeting random zombies in front of her on the lawn.
-
-[DARTICHOKE_AVATAR_NAME]
-Darts Artichoke's darts give priority to attacking the most dangerous zombies
-
-[STORE_PRODUCT_AVATAR_DARTICHOKE]
-An additional 5  darts are fired
-
-[STORE_PRODUCT_AVATAR_DARTICHOKE_TITLE]
-Dartichoke Costume
-
-
-
-
-
-
-
-
-
-
-
-[STEPHANIA]
-Stephania
-
-[STEPHANIA_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}Green plant
-{FLAVOR}Stephania idolizes the captain of the National Shield Throwing Team. As he admires his heroic posture of blocking and shield throwing, Stephania has also worked hard and developed proper shield throwing and blocking skills. Don't ask why the shield shatters so easily, it's definitely the problem with the shield as it's just an average consumer's good.
-
-[STEPHANIA_DESCRIPTION_HEADER]
-Stephania can shield against Ninjimp's pufferfish attack, thrown shields will fragment.
-
-[STEPHANIA_TOOLTIP]
-Stephania can shield against Ninjimp's pufferfish attack, thrown shields will fragment.
-
-[STEPHANIA_PRODUCT_SHORT_DESC]
-Stephania can shield against Ninjimp's pufferfish attack, thrown shields will fragment.
-
-[STEPHANIA_SKILL_LEVEL1]
-Sharp Fragments
-
-[STEPHANIA_SKILL_LEVEL1_DES]
-The fragments of the leaves become sharper, and there are 2 fragments that can cause damage to a single zombie.
-
-[STEPHANIA_SKILL_LEVEL2]
-Perfect Fragmentation
-
-[STEPHANIA_SKILL_LEVEL2_DES]
-All 5 pieces can now deal damage to single zombies.
-
-[STEPHANIA_SKILL_LEVEL5]
-Further Fragmentation
-
-[STEPHANIA_SKILL_LEVEL5_DES]
-ome fragments of the leaf become round and can be broken again after hitting a zombie.
-
-[STEPHANIA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of Chijinfuji, it fires a flying shield to cause damage to the zombie, and after hitting, it breaks into 5 pieces, each piece causing 63% damage to the zombie it comes into contact with. ^ff0000It has a miraculous effect on ninja kid zombies! ^oldclrr
-
-[STEPHANIA_NEW_SKILL_LEVEL2_DES]
-The fragments of the leaves become sharper, and there are 2 fragments that can cause damage to a single zombie.
-
-[STEPHANIA_NEW_SKILL_LEVEL3_DES]
-All 5 pieces can now deal damage to single zombies.
-
-[STEPHANIA_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[STEPHANIA_NEW_SKILL_LEVEL5_DES]
-ome fragments of the leaf become round and can be broken again after hitting a zombie.
-
-[STEPHANIA_PLANTFOOD_DESCRIPTION]
-Firre 6 leaves ahead of it. These leaves will knock back any zombie hit by them one tile as well as split to damage additional zombies
-
-[STEPHANIA_AVATAR_PLANTFOOD_DESCRIPTION]
-Fire 6  ^FF0000 fire ^oldclr leaves ahead of it. These leaves will knock back any zombie hit by them one tile as well as split to damage additional zombies
-
-[STEPHANIA_AVATAR_NAME]
-Stephania Costume
-
-[STORE_PRODUCT_AVATAR_STEPHANIA]
-Lights these 6 leaves on fire, dealing additional damage.
-
-[STORE_PRODUCT_AVATAR_STEPHANIA_TITLE]
-Stephania Costume
-
-
-
-
-
 
 [WITCHHAZEL]
 Witch Hazel
@@ -7202,157 +7162,6 @@ Increases the chance of triggering Qigong Cannon with Skill 2 by 10% (only at le
 
 
 
-
-
-
-[SHADOWVANILLA]
-Shadow Vanilla
-
-[SHADOWVANILLA_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}yellow plant
-{FLAVOR}"Freak!" "Monster!" "Desperate hodgepodge!" Shadow Vanilla is always full of these voices of self doubt, but never pays them any mind, because it knows the value of its existence in the world, and doesn't need to prove anything, "Every plant has its own purpose" Shadow Vanilla says under its breath.
-First place in the plant design competition: Ricky Kim
-
-[SHADOWVANILLA_DESCRIPTION_HEADER]
-Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
-
-[SHADOWVANILLA_TOOLTIP]
-Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
-
-[SHADOWVANILLA_PRODUCT_SHORT_DESC]
-Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
-
-[SHADOWVANILLA_SKILL_LEVEL1]
-Mist Vortex
-
-[SHADOWVANILLA_SKILL_LEVEL1_DES]
-When a zombie with shadow mist dies, there is a 15% chance that a single shadow vortex will be left behind, which lasts for 5 seconds. Zombies in the vortex will be slowed down and take an additional 30% damage.
-
-[SHADOWVANILLA_SKILL_LEVEL2]
-Suspended Fog
-
-[SHADOWVANILLA_SKILL_LEVEL2_DES]
-Improve the effect of Mist Vortex by 50%
-
-[SHADOWVANILLA_SKILL_LEVEL5]
-Shadow Mastery
-
-[SHADOWVANILLA_SKILL_LEVEL5_DES]
-Normal Mist of Shadow Viburnum increases Vulnerability of Mist Vortex to 40% and refreshes the duration. If the shadow mist hits the same zombie repeatedly, a small whirlwind will be generated for 4 seconds, causing 1800 points of damage to the zombie per second. The probability of leaving a shadow vortex is increased to 30%, the duration is increased to 9 seconds, and the vulnerability is changed to 55%.
-
-[SHADOWVANILLA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right, it fires mist to cause damage to the zombie. If it is in the shadow state, each attack will charge the blades. After completing the 3-layer charge, the next attack will change to a shadow mist that penetrates the entire line and causes 2 times the damage, which will cause the zombies to suffer 20% damage for 7 seconds. Effect.
-
-[SHADOWVANILLA_NEW_SKILL_LEVEL2_DES]
-When a zombie with shadow mist dies, there is a 15% chance that a single shadow vortex will be left behind, which lasts for 5 seconds. Zombies in the vortex will be slowed down and take an additional 30% damage.
-
-[SHADOWVANILLA_NEW_SKILL_LEVEL3_DES]
-The trigger probability of Mist Vortex is increased, and there is a 20% chance to leave a single shadow vortex. The duration is increased to 7 seconds, and the vulnerability is changed to 45%.
-
-[SHADOWVANILLA_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food! The probability of leaving a shadow vortex is increased to 25%, the duration is increased to 8 seconds, and the vulnerability becomes 50%.
-
-[SHADOWVANILLA_NEW_SKILL_LEVEL5_DES]
-Normal Mist of Shadow Viburnum increases Vulnerability of Mist Vortex to 40% and refreshes the duration. If the shadow mist hits the same zombie repeatedly, a small whirlwind will be generated for 4 seconds, causing 1800 points of damage to the zombie per second. The probability of leaving a shadow vortex is increased to 30%, the duration is increased to 9 seconds, and the vulnerability is changed to 55%.
-
-[SHADOWVANILLA_PLANTFOOD_DESCRIPTION]
-Shoot 3 tornadoes down the lanes that gives the debuff to all zombies that are hit. When not powered it only shooting one tornado that creates eight others on contact.
-
-[SHADOWVANILLA_AVATAR_PLANTFOOD_DESCRIPTION]
-Shoot another tornado after the main three that splits in a "+" pattern if it hits a zombie. When not powered at the end of the nine tornadoes, a small explosion will spawn in the middle.
-
-[SHADOWVANILLA_AVATAR_NAME]
-Shadow Vanilla costume
-
-[STORE_PRODUCT_AVATAR_SHADOWVANILLA]
-shoot another tornado after the main three that splits in a "+" pattern if it hits a zombie. When not powered at the end of the nine tornadoes, a small explosion will spawn in the middle.
-
-[STORE_PRODUCT_AVATAR_SHADOWVANILLA_TITLE]
-Shadow Vanilla Costume
-
-
-
-
-
-
-
-
-
-[ULTOMATO]
-Ultomato
-
-[ULTOMATO_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}red plant
-{FLAVOR}When Ultomato was performing aerospace missions, particles of light from outer space were infused into his body. The particles of light contained the will of justice, guiding Ultomato to use the power of light to protect his homeland and defeat the evil zombies.
-
-[ULTOMATO_DESCRIPTION_HEADER]
-Ultomatoes can make themselves stronger through repeated planting.
-
-[ULTOMATO_TOOLTIP]
-Ultomatoes can make themselves stronger through repeated planting.
-
-[ULTOMATO_PRODUCT_SHORT_DESC]
-Ultomatoes can make themselves stronger through repeated planting.
-
-[ULTOMATO_SKILL_LEVEL1]
-Fast Recharge
-
-[ULTOMATO_SKILL_LEVEL1_DES]
-Reduces attack cooldown by 1 second.
-
-[ULTOMATO_SKILL_LEVEL2]
-Extremely Fast Recharge
-
-[ULTOMATO_SKILL_LEVEL2_DES]
-Reduces attack cooldown by 2 seconds.
-
-[ULTOMATO_SKILL_LEVEL4]
-Hyper Leap
-
-[ULTOMATO_SKILL_LEVEL4_DES]
-Ultomato may upgrade automatically once when planted.
-
-[ULTOMATO_SKILL_LEVEL5]
-Energy Waves
-
-[ULTOMATO_SKILL_LEVEL5_DES]
-On hit, laser deals splash damage near its impact point.
-
-[ULTOMATO_NEW_SKILL_LEVEL1_DES]
-When a zombie appears, it causes damage to the zombie by firing a laser with its eyes that lasts for 2 seconds. Repeated stacking can change morphology and increase attack power. The sun cost of planting will increase with the number on the site, with 50 points for every 1 seed (stacking is counted as multiple).
-
-[ULTOMATO_NEW_SKILL_LEVEL2_DES]
-The Ultimate Tomato's charging speed is accelerated, and the required charging time becomes 3.5 seconds after the attack.
-
-[ULTOMATO_NEW_SKILL_LEVEL3_DES]
-The skill effect of fast charging is increased by 100%, and the charging time required after attack becomes 2.5 seconds.
-
-[ULTOMATO_NEW_SKILL_LEVEL4_DES]
-There is a 50% probability that the ultimate tomato will be directly promoted to the first level when planting.
-
-[ULTOMATO_NEW_SKILL_LEVEL5_DES]
-The laser fired contains more energy, and the energies filled after hitting the target are sputtered to single-frame zombies, causing them 33% damage to their attack power.
-
-[ULTOMATO_PLANTFOOD_DESCRIPTION]
-Ultimate Tomato immediately self-destructs, causing damage to all zombies in the surrounding 9x9 range.
-
-[ULTOMATO_AVATAR_PLANTFOOD_DESCRIPTION]
-Ultimate Tomato immediately self-destructs, causing damage to all zombies in the surrounding 9x9 range. ^ff0000If it is originally the second form or the third form, it will degenerate into the first form instead of disappearing directly. ^oldclrr
-
-[ULTOMATO_AVATAR_NAME]
-Ultimate tomatoes can make themselves stronger by repeated planting.
-
-[STORE_PRODUCT_AVATAR_ULTOMATO]
-Level 2 and Level 3 tomatoes retain Level 1 tomatoes after releasing their ultimate moves
-
-[STORE_PRODUCT_AVATAR_ULTOMATO_TITLE]
-Ultimate Tomato Costume
-
-
-
-
-
-
 [PLANTAIN]
 Banana Dancer
 
@@ -7496,58 +7305,156 @@ His shock wave is now three lanes wide instead of one.
 
 
 
+[MULBERRY]
+Mulberry Blaster
 
+[MULBERRY_DESCRIPTION]
+{KEYWORD}Special: {STAT}It launches berries to damage zombies in a tile.
+{KEYWORD}Plant features: {STAT}red plant
+{FLAVOR}He is a military fan, and loves to collect all kinds of military materials, one day he dressed himself up as a gunner, and scared many plants on the street~
 
+[MULBERRY_DESCRIPTION_HEADER]
+Mulberry Blaster launches berries to zombies.
 
+[MULBERRY_TOOLTIP]
+Mulberry Blaster launches berries to zombies.
 
+[MULBERRY_SKILL_LEVEL1]
+Blast Expert
 
+[MULBERRY_SKILL_LEVEL1_DES]
+Mulberry Blaster has a 10% chance of launching a fragment grenade when attacking, causing 750 explosive damage to surrounding 3×3 zombies.
 
+[MULBERRY_SKILL_LEVEL2]
+Blast Specialization
 
+[MULBERRY_SKILL_LEVEL2_DES]
+The trigger probability of Blast Expert is increased by 100%, and there is a 10% probability of launching a fragment grenade when attacking, and the explosion damage is increased to 1000 points.
 
+[MULBERRY_SKILL_LEVEL5]
+Funny Blasting
 
+[MULBERRY_SKILL_LEVEL5_DES]
+There is a 4% probability of throwing a gas bomb, causing the surrounding 3×3 zombies to enter a poisoning state that lasts for 10 seconds and inflicts damage equal to 20% of the zombie's HP per second. There is a 12% chance to throw a flash bomb, which will stun the surrounding 3×3 zombies for 2 seconds. There is a 4% probability of throwing an explosive bomb, causing high damage to zombies and a probability of blowing up small and medium-sized zombies in a small range.
 
+[MULBERRY_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of the Mulberry Blaster, it fires a grenade that hits the zombie and causes 500 blast damage to the zombie in a small range.
 
+[MULBERRY_NEW_SKILL_LEVEL2_DES]
+Mulberry Blaster has a 10% chance of launching a fragment grenade when attacking, causing 750 explosive damage to surrounding 3×3 zombies.
 
+[MULBERRY_NEW_SKILL_LEVEL3_DES]
+The trigger probability of Blast Expert is increased by 100%, and there is a 10% probability of launching a fragment grenade when attacking, and the explosion damage is increased to 1000 points.
 
+[MULBERRY_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[MULBERRY_NEW_SKILL_LEVEL5_DES]
+There is a 4% probability of throwing a gas bomb, causing the surrounding 3×3 zombies to enter a poisoning state that lasts for 10 seconds and inflicts damage equal to 20% of the zombie's HP per second. There is a 12% chance to throw a flash bomb, which will stun the surrounding 3×3 zombies for 2 seconds. There is a 4% probability of throwing an explosive bomb, causing high damage to zombies and a probability of blowing up small and medium-sized zombies in a small range.
 
+[MULBERRY_PLANTFOOD_DESCRIPTION]
+Fires 6 mulberries at any random zombies, not necessarily the closest zombies near him or the lawn.
 
+[MULBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
+Fires 7 mulberries at any random zombies and then afterwards, a large mulberry. not necessarily the closest zombies near him or the lawn.
 
+[GENE_DESCRIPTION_MULBERRY]
+The probability of a mulberry blaster throwing a gas bomb increases {Param_1}% (effective after level 5)
 
+[MULBERRY_AVATAR_NAME]
+Mulberry blast Costume
 
+[STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
+Mulberry blast Costume
 
+[STORE_PRODUCT_AVATAR_MULBERRY]
+There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_1]
+Mulberry Blaster Anniversary Costume
 
+[NEW_AVATAR_DESCRIPTION_MULBERRY_1]
+Attack increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_2]
+Mulberry growth Packaging
 
+[NEW_AVATAR_DESCRIPTION_MULBERRY_2]
+Cooldown reduced by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
+Mulberry Blaster Pirate Costume
 
+[NEW_AVATAR_DESCRIPTION_MULBERRY_3]
+Increases attack speed by 20%
 
 
 
 
 
 
+[ELECTRICITEA]
+Electrici-tea
 
+[ELECTRICITEA_DESCRIPTION]
+{KEYWORD}Usage: {STAT} can cause damage to all zombies within the 3X3 range. After being eaten by the zombies, it will also release high-damage lightning.
+{KEYWORD}Plant features: {STAT} 100,000 volts, green plants
+{FLAVOR}I want to be eaten. I NEED to be eaten," says Electrici-tea. "However, I am perfectly content to fry zombies in the meantime.
 
+[ELECTRICITEA_DESCRIPTION_HEADER]
+Can cause damage to all zombies in the range of 3X3.
 
+[ELECTRICITEA_TOOLTIP]
+After being eaten by the zombies, high-energy lightning is released to eliminate nearby zombies.
 
+[ELECTRICITEA_SKILL_LEVEL1]
+Continuous Electricity
 
+[ELECTRICITEA_SKILL_LEVEL1_DES]
+45% probability of inflicting electric shock on the zombie, randomly affect to other zombies within a 3x3 area around the zombie. Up to 2 zombies can be affected.
 
+[ELECTRICITEA_SKILL_LEVEL2]
+Current Enhancement
 
+[ELECTRICITEA_SKILL_LEVEL2_DES]
+Increases the effect of Continuous Electricity, which is 60% probability of inflicting electric shock on the zombie when attacking.
 
+[ELECTRICITEA_SKILL_LEVEL5]
+Electric Surge
 
+[ELECTRICITEA_SKILL_LEVEL5_DES]
+20% probability to create red high-energy lightning that deals 150 damage when attacking, paralyzing all zombies within the attack range for 3 seconds.
 
+[ELECTRICITEA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears in 3x3 around Electric Green Tea, lightning is released to cause damage to all zombies in the 3x3 range. After being gnawed by a zombie, lightning will also be released to instantly kill the zombie, and thunderclouds will be generated to release chain lightning.
 
+[ELECTRICITEA_NEW_SKILL_LEVEL2_DES]
+45% probability of inflicting electric shock on the zombie, randomly affect to other zombies within a 3x3 area around the zombie. Up to 2 zombies can be affected.
 
+[ELECTRICITEA_NEW_SKILL_LEVEL3_DES]
+Increases the effect of Continuous Electricity, which is 60% probability of inflicting electric shock on the zombie when attacking.
 
+[ELECTRICITEA_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
 
+[ELECTRICITEA_NEW_SKILL_LEVEL5_DES]
+20% probability to create red high-energy lightning that deals 150 damage when attacking, paralyzing all zombies within the attack range for 3 seconds.
 
+[ELECTRICITEA_PLANTFOOD_DESCRIPTION]
+Electric Green Tea is fully charged with electric energy and randomly emits 5 consecutive currents to the zombies on the field, causing lightning damage to the zombies.
 
+[ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
+Electric Green Tea is fully charged with electric energy, randomly emits 5 consecutive currents from zombies on the field, causing lightning damage to zombies^ff0000 and comes with arc diffusion damage in the 3x3 range. ^oldclrr
 
 
+[ELECTRICITEA_AVATAR_NAME]
+Mulberry blast Costume
 
+[STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
+Mulberry blast Costume
 
+[STORE_PRODUCT_AVATAR_ELECTRICITEA]
+There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
 
 
 
@@ -7556,7 +7463,11 @@ His shock wave is now three lanes wide instead of one.
 
 
 
+[STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
+Electric Green Tea Costume
 
+[STORE_PRODUCT_AVATAR_ELECTRICITEA]
+plants food also sputters out an arc in the 3X3 range when hitting the zombies, causing additional damage
 
 
 
@@ -7657,6 +7568,1248 @@ His shock wave is now three lanes wide instead of one.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[EGRETFLOWER]
+Egret Flower Plane
+
+[EGRETFLOWER_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}white plant
+{FLAVOR}Egret Flower Plane is a stern and firm individual, you won't ever see him smile. Of course you may think that he’s acting cool, because he is in fact acting cool.
+
+[EGRETFLOWER_DESCRIPTION_HEADER]
+Missile attack, stuns a zombie when hit.
+
+[EGRETFLOWER_TOOLTIP]
+Missile attack, stuns a zombie when hit.
+
+[EGRETFLOWER_PRODUCT_SHORT_DESC]
+Missile attack, stuns a zombie when hit.
+
+[EGRETFLOWER_SKILL_LEVEL1]
+Flying Wing
+
+[EGRETFLOWER_SKILL_LEVEL1_DES]
+Every additional Egret Flower Plane on the field will increase the attack power of all Egret Flower Planes by 10%, up to 30%.
+
+[EGRETFLOWER_SKILL_LEVEL2]
+Fast Reloading
+
+[EGRETFLOWER_SKILL_LEVEL2_DES]
+Reduces a missile loading time
+
+[EGRETFLOWER_SKILL_LEVEL5]
+Equipment Transformation
+
+[EGRETFLOWER_SKILL_LEVEL5_DES]
+The attack range is increased to a single row on the right, and the attacks of bullets and missiles become single-cell group damage.
+
+[EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
+When a zombie appears in the 4-square right side of the Egret Flower fighter, it fires 6 rounds in a row. Fill in a missile with a range of on the right side every 8 seconds, and hit the zombie for 2 seconds^848484^ dizziness ^oldclrr.At the time of death, one missile will be dropped off the field in each of the original square and the right square.
+
+[EGRETFLOWER_NEW_SKILL_LEVEL2_DES]
+Every additional Egret Flower Plane on the field will increase the attack power of all Egret Flower Planes by 10%, up to 30%.
+
+[EGRETFLOWER_NEW_SKILL_LEVEL3_DES]
+The missile reloading speed is accelerated, reloading a missile every 6 seconds.
+
+[EGRETFLOWER_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[EGRETFLOWER_NEW_SKILL_LEVEL5_DES]
+The attack range is increased to a single row on the right, and the attacks of bullets and missiles become single-cell group damage.
+
+[EGRETFLOWER_PLANTFOOD_DESCRIPTION]
+Summons three explosive rockets that target the three nearest zombies and leaves a four-tile fire trail on both targeted and adjacent lanes.
+
+[EGRETFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
+Summons three explosive rockets that target the three nearest zombies and leaves a four-tile fire trail on both targeted and adjacent lanes. It caused explosion damage in the 3x3 range  and cause ^FF0000 stun ^oldclr , and cause continuous damage 5 seconds of flames.
+
+[EGRETFLOWER_AVATAR_NAME]
+Missile attack, stuns a zombie when hit.
+
+[STORE_PRODUCT_AVATAR_EGRETFLOWER]
+Any Zombies that survive will be stunned for 3 seconds
+
+[STORE_PRODUCT_AVATAR_EGRETFLOWER_TITLE]
+Egret Flower Plane Costume
+
+
+
+
+
+
+[STRAWBURST]
+Strawburst
+
+[STRAWBURST_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}red plant
+{FLAVOR}The big one? The small one? Don't worry, I'll throw them all in your face! I love my enemies as much as my bombs, because they're about to explode!
+
+[STRAWBURST_DESCRIPTION_HEADER]
+Strawburst can deal three different levels of damage
+
+[STRAWBURST_TOOLTIP]
+Strawburst can deal three different levels of damage
+
+[STRAWBURST_PRODUCT_SHORT_DESC]
+Strawburst can deal three different levels of damage
+
+[STRAWBURST_SKILL_LEVEL1]
+Rapid Growth 1
+
+[STRAWBURST_SKILL_LEVEL1_DES]
+25% chance to regenerate a medium projectile immediately after launch.
+
+[STRAWBURST_SKILL_LEVEL2]
+Rapid Growth 2
+
+[STRAWBURST_SKILL_LEVEL2_DES]
+20% chance to renegerate a large projectile after launch.
+
+[STRAWBURST_SKILL_LEVEL5]
+Blasting Feast
+
+[STRAWBURST_SKILL_LEVEL5_DES]
+Projectiles leave puddles that slow zombies. Small and medium puddles persist for 2 seconds, while large puddles last 4 seconds.
+
+[STRAWBURST_NEW_SKILL_LEVEL1_DES]
+Tap on the plant to launch strawberries at the zombies and cause damage, which increases with the growth stage and the target of the attack. Small strawberries take 5 seconds to grow, medium strawberries another 10 seconds, and large strawberries another 15 seconds. The zombies explode immediately when they touch their bodies.
+
+[STRAWBURST_NEW_SKILL_LEVEL2_DES]
+25% chance to regenerate a medium projectile immediately after launch.
+
+[STRAWBURST_NEW_SKILL_LEVEL3_DES]
+20% chance to renegerate a large projectile after launch.
+
+[STRAWBURST_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[STRAWBURST_NEW_SKILL_LEVEL5_DES]
+Projectiles leave puddles that slow zombies. Small and medium puddles persist for 2 seconds, while large puddles last 4 seconds.
+
+[STRAWBURST_PLANTFOOD_DESCRIPTION]
+Instantly grow to full size and laugh while a huge strawberry drops from the sky, which explodes after 5 seconds and deals 900 damage to all zombies on the lawn.
+
+[STRAWBURST_AVATAR_PLANTFOOD_DESCRIPTION]
+Explosive Strawberry summons a giant strawberry, and the explosion causes damage to the full-screen zombies. ^ff0000 After exploding, three small strawberries will pop up and explode again. ^oldclrrI immediately grew into a big strawberry.
+
+[STRAWBURST_AVATAR_NAME]
+Exploding strawberries can cause three different degrees of high damage
+
+[STORE_PRODUCT_AVATAR_STRAWBURST]
+Exploding strawberries, summoned extra-large strawberries, when blasted, three small strawberries pop up, exploding again
+
+[STORE_PRODUCT_AVATAR_STRAWBURST_TITLE]
+Exploding Strawberry Costume
+
+[PRODUCT_STRAWBURST_SHORT_DESCRIPTION]
+Exploding Strawberry
+
+
+
+[POISONPEASHOOTER]
+Goo Peashooter
+
+[POISONPEASHOOTER_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}None could figure what's bitten Goo Peashooter, including himself. He's totally insane to other plants, but he believes it's cool. You're asking? He does it for the laughs.
+
+[POISONPEASHOOTER_DESCRIPTION_HEADER]
+Goo Peashooter slows down zombies, and deals poison damage zombies.
+
+[POISONPEASHOOTER_TOOLTIP]
+Goo Peashooter slows down zombies, and deals poison damage zombies.
+
+[POISONPEASHOOTER_PRODUCT_SHORT_DESC]
+Goo Peashooter slows down zombies, and deals poison damage zombies.
+
+[POISONPEASHOOTER_SKILL_LEVEL1]
+Poison Master
+
+[POISONPEASHOOTER_SKILL_LEVEL1_DES]
+Causes a toxic explosion per five hits on a single target, dealing 300 damage.
+
+[POISONPEASHOOTER_SKILL_LEVEL2]
+Poison Grand Master
+
+[POISONPEASHOOTER_SKILL_LEVEL2_DES]
+Causes a toxic explosion per three hits on a single target, dealing 450 damage.
+
+[POISONPEASHOOTER_SKILL_LEVEL5]
+Poison Combo
+
+[POISONPEASHOOTER_SKILL_LEVEL5_DES]
+10% chance to burst-fire 5 rounds, which cause 36 splash damage each on a single tile.
+
+[POISONPEASHOOTER_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of the Venom Pea shooter, Venom Pea is emitted to cause damage to the zombie, with an additional deceleration with 1 layer of toxin for 5 seconds. Each layer of toxin causes 5 times the attack power per second^701edf^poisoningⅠ^oldclrr damage, with an upper limit of 5 layers.
+
+[POISONPEASHOOTER_NEW_SKILL_LEVEL2_DES]
+Causes a toxic explosion per five hits on a single target, dealing 300 damage.
+
+[POISONPEASHOOTER_NEW_SKILL_LEVEL3_DES]
+Causes a toxic explosion per three hits on a single target, dealing 450 damage.
+
+[POISONPEASHOOTER_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[POISONPEASHOOTER_NEW_SKILL_LEVEL5_DES]
+10% chance to burst-fire 5 rounds, which cause 36 splash damage each on a single tile.
+
+[POISONPEASHOOTER_PLANTFOOD_DESCRIPTION]
+Launch a giant ball of poison that poisons and knocks back and dealing 955 damage to all zombies in its lane as well heavily reducing their speed (by 10%) for 12s.
+
+[POISONPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
+Launch a giant ball of poison and boils that poisons and knocks back and dealing extra damage to all zombies in its lane as well heavily reducing their speed (by 10%) for 12s.
+
+[POISONPEASHOOTER_AVATAR_NAME]
+Goo Peashooter slows down zombies, and deals poison damage zombies.
+
+[STORE_PRODUCT_AVATAR_POISONPEASHOOTER]
+Poison trail now boils, dealing extra damage
+
+[STORE_PRODUCT_AVATAR_POISONPEASHOOTER_TITLE]
+Goo Peashooter Hazmat Helmet
+
+
+
+
+
+[ELAEOCARPUS]
+Elaeocarpus
+
+[ELAEOCARPUS_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}white plant
+{FLAVOR}Elaeocarpus is a national first-class athlete and every new plant gets the same question from it, "sporting is the essence of life, fancy some badminton?"
+
+[ELAEOCARPUS_DESCRIPTION_HEADER]
+Will bounce shuttlecocks off of zombies when they're far away, and will kill lower-health zombies when they're at close range.
+
+[ELAEOCARPUS_TOOLTIP]
+Will bounce shuttlecocks off of zombies when they're far away, and will kill lower-health zombies when they're at close range.
+
+[ELAEOCARPUS_PRODUCT_SHORT_DESC]
+Will bounce shuttlecocks off of zombies when they're far away, and will kill lower-health zombies when they're at close range.
+
+[ELAEOCARPUS_SKILL1_LEVEL1]
+Distance Training
+
+[ELAEOCARPUS_SKILL1_LEVEL1_DES]
+Serve attack range increased to 4 tiles.
+
+[ELAEOCARPUS_SKILL1_LEVEL2]
+Strength Training
+
+[ELAEOCARPUS_SKILL1_LEVEL2_DES]
+Serve attack now targets all zombies on its tile.
+
+[ELAEOCARPUS_SUPERSKILL_NAME]
+Spike Specialization
+
+[ELAEOCARPUS_SUPERSKILL_DES]
+Serve attack destroys zombies with less than 50% health instantly.
+
+[ELAEOCARPUS_NEW_SKILL_LEVEL1_DES]
+When the zombie appears on the right side 3 squares, a high ball is played, which catapults once after hitting the zombie. When a zombie appears within 3 squares on the right side, it plays a smash serve that can kill less than 40% of the health in an instant, increasing the damage to 120 and the attack interval to 2.9 seconds.
+
+[ELAEOCARPUS_NEW_SKILL_LEVEL2_DES]
+Serve attack range increased to 4 tiles.
+
+[ELAEOCARPUS_NEW_SKILL_LEVEL3_DES]
+Serve attack now targets all zombies on its tile.
+
+[ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[ELAEOCARPUS_NEW_SKILL_LEVEL5_DES]
+Serve attack destroys zombies with less than 50% health instantly.
+
+[ELAEOCARPUS_PLANTFOOD_DESCRIPTION]
+Unleash a tornado similar to Fanilla that will destroy the first zombie in its path when the Elaeocarpus next serves.
+
+[ELAEOCARPUS_AVATAR_PLANTFOOD_DESCRIPTION]
+Unleash a tornado similar to Fanilla that will destroy the zombie in all the lane when the Elaeocarpus next serves.
+
+[GENE_DESCRIPTION_ELAEOCARPUS]
+Increased the health of zombies that can be killed by {Param_1}% when smashing its racket
+
+[STORE_PRODUCT_AVATAR_ELAEOCARPUS]
+The little whirlwind of plants food can move a whole line
+
+[STORE_PRODUCT_AVATAR_ELAEOCARPUS_TITLE]
+Elaeocarpus visor
+
+[ELAEOCARPUS_AVATAR_NAME]
+The tornado will cover a much greater distance.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_1]
+Elaeocarpus crown
+
+[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_1]
+Pu attack badminton catapulted 1 more time
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_2]
+Elaeocarpus lei
+
+[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
+Cultivation cooling is reduced by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ElAEOCARPUS_3]
+Elaeocarpus Naraka: Bladepoint
+
+
+
+[DARTICHOKE]
+Dartichoke
+
+[DARTICHOKE_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}"Why waste shots on foot soldiers when you can win the battle with one well-chosen dart to the dome?" wonders Dartichoke. "Why would you do it? Why would ANYONE do it?"
+
+[DARTICHOKE_DESCRIPTION_HEADER]
+Darts Artichoke's darts give priority to attacking the most dangerous zombies
+
+[DARTICHOKE_TOOLTIP]
+Darts Artichoke's darts give priority to attacking the most dangerous zombies
+
+[DARTICHOKE_PRODUCT_SHORT_DESC]
+Darts Artichoke's darts give priority to attacking the most dangerous zombies
+
+[DARTICHOKE_SKILL_LEVEL1]
+Quick Recuperation
+
+[DARTICHOKE_SKILL_LEVEL1_DES]
+Reduces recharge time to 6 seconds.
+
+[DARTICHOKE_SKILL_LEVEL2]
+Rapid Recuperation
+
+[DARTICHOKE_SKILL_LEVEL2_DES]
+Reduces recharge time to 4 seconds.
+
+[DARTICHOKE_SKILL_LEVEL5]
+Thunderstorm
+
+[DARTICHOKE_SKILL_LEVEL5_DES]
+Fires a penetrating thunderstorm dart once every 20 seconds which prioritizes the most dangerous zombie, damages whatever it passes through and immediately destroys small zombies on the targeted tile.
+
+[DARTICHOKE_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right, darts are fired to inflict damage on the zombie, giving priority to the most dangerous zombies. Every 6 darts fired goes into an 8-second break. There is a 30% probability of firing a critical dart with 3 times the damage.
+
+[DARTICHOKE_NEW_SKILL_LEVEL2_DES]
+Reduces recharge time to 6 seconds.
+
+[DARTICHOKE_NEW_SKILL_LEVEL3_DES]
+Reduces recharge time to 4 seconds.
+
+[DARTICHOKE_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[DARTICHOKE_NEW_SKILL_LEVEL5_DES]
+Fires a penetrating thunderstorm dart once every 20 seconds which prioritizes the most dangerous zombie, damages whatever it passes through and immediately destroys small zombies on the targeted tile.
+
+[DARTICHOKE_PLANTFOOD_DESCRIPTION]
+Spin and shoot 10 critical darts, targeting random zombies in front of her on the lawn.
+
+[DARTICHOKE_AVATAR_PLANTFOOD_DESCRIPTION]
+Spin and shoot ^FF0000 15 ^oldclr critical darts, targeting random zombies in front of her on the lawn.
+
+[DARTICHOKE_AVATAR_NAME]
+Darts Artichoke's darts give priority to attacking the most dangerous zombies
+
+[STORE_PRODUCT_AVATAR_DARTICHOKE]
+An additional 5  darts are fired
+
+[STORE_PRODUCT_AVATAR_DARTICHOKE_TITLE]
+Dartichoke Bandana
+
+
+
+
+[ELEOCURLING]
+Chestnut Brothers
+
+[ELEOCURLING_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}red plant
+{FLAVOR}The Chestnut Brothers are still the most popular curling champions in this year's Winter Games. Their unique strategy is to knock away the other player's stones at the last minute, leaving only their own, changing the field, and leaving others nowhere to go.
+
+[ELEOCURLING_DESCRIPTION_HEADER]
+Deals damage to zombies by striking them with curling stones and generates an ice trail to slow them down.
+
+[ELEOCURLING_TOOLTIP]
+Deals damage to zombies by striking them with curling stones and generates an ice trail to slow them down.
+
+[ELEOCURLING_PRODUCT_SHORT_DESC]
+Deals damage to zombies by striking them with curling stones and generates an ice trail to slow them down.
+
+[ELEOCURLING_SKILL_LEVEL1]
+Ice Track Speed Skating
+
+[ELEOCURLING_SKILL_LEVEL1_DES]
+Chestnut Brothers' ability to control ice passages has been improved, and the probability of generating ice passages has increased to 75%.
+
+[ELEOCURLING_SKILL_LEVEL2]
+Fast Generation
+
+[ELEOCURLING_SKILL_LEVEL2_DES]
+Chestnut Brothers respawn faster, with a reduced rest time of 3 seconds.
+
+[ELEOCURLING_SKILL_LEVEL5]
+Curling Epsilon
+
+[ELEOCURLING_SKILL_LEVEL5_DES]
+here is a 50% chance to launch a curling stone wrapped in ice mist, which will cause damage to zombies within a single cell. The curling brother will not disappear after hitting a unit, but can be hit by the next curling brother and penetrate to cause 600 points of damage.
+
+[ELEOCURLING_NEW_SKILL_LEVEL1_DES]
+When a zombie appears, it will knock out the curling brother. After hitting the zombie, it will cause damage and repel. There is a 50% probability of leaving the ice path. Then the curling brother will turn right to cause 1.25 times the damage or knock out the curling brother. Damage to the entire row of zombies and extend the ice path. A 5-second break was then entered.
+
+[ELEOCURLING_NEW_SKILL_LEVEL2_DES]
+Chestnut Brothers' ability to control ice passages has been improved, and the probability of generating ice passages has increased to 75%.
+
+[ELEOCURLING_NEW_SKILL_LEVEL3_DES]
+Chestnut Brothers respawn faster, with a reduced rest time of 3 seconds.
+
+[ELEOCURLING_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[ELEOCURLING_NEW_SKILL_LEVEL5_DES]
+here is a 50% chance to launch a curling stone wrapped in ice mist, which will cause damage to zombies within a single cell. The curling brother will not disappear after hitting a unit, but can be hit by the next curling brother and penetrate to cause 600 points of damage.
+
+[ELEOCURLING_PLANTFOOD_DESCRIPTION]
+Release a giant chestnut, instantly killing all small- and medium-sized zombies and leaving an ice trail in its way. Which can be deflected by Hammer or Nunchaku Zombie.
+
+[ELEOCURLING_AVATAR_PLANTFOOD_DESCRIPTION]
+Release a giant chestnut, instantly killing all small- and medium-sized zombies and leaving an ice trail ^FF0000 for 10s ^oldclrr in its way. Which can be deflected by Hammer or Nunchaku Zombie.
+
+[ELEOCURLING_AVATAR_NAME]
+Deals damage to zombies by striking them with curling stones and generates an ice trail to slow them down.
+
+[STORE_PRODUCT_AVATAR_ELEOCURLING]
+The ice trail will last twice as long.
+
+[STORE_PRODUCT_AVATAR_ELEOCURLING_TITLE]
+Chestnut Brothers ice cream cones
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_1]
+Chestnut Brothers orange brimless kid cap
+
+[NEW_AVATAR_DESCRIPTION_ELEOCURLING_1]
+Attack power increased by 8%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_2]
+Chestnut Brothers fluorescent headband
+
+[NEW_AVATAR_DESCRIPTION_ELEOCURLING_2]
+Attack power increased by 10%
+
+
+
+
+[POKRA]
+Pokra
+
+[POKRA_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}It is important to know that Pokra has a bit of a violent temper. And although Match Flower may disapprove of her, she has won the approval of Bonk Choy, one of the "Three Vegetable Masters", by virtue of her "Dual Directional Duel" technique. But she also has a few other tricks up her sleeves.
+
+[POKRA_DESCRIPTION_HEADER]
+Pokra gets stronger and stronger, and uses spikes to slow down and damage zombies.
+
+[POKRA_TOOLTIP]
+Pokra gets stronger and stronger, and uses spikes to slow down and damage zombies.
+
+[POKRA_PRODUCT_SHORT_DESC]
+Pokra gets stronger and stronger, and uses spikes to slow down and damage zombies.
+
+[POKRA_SKILL_LEVEL1]
+Spike Combo
+
+[POKRA_SKILL_LEVEL1_DES]
+There is a 20% probability of swinging the double prick for a high-speed puncture combo when attacking
+
+[POKRA_SKILL_LEVEL2]
+Double Threat
+
+[POKRA_SKILL_LEVEL2_DES]
+Increase the probability of spike combo by 100%
+
+[POKRA_SKILL_LEVEL5]
+Wombo Combo
+
+[POKRA_SKILL_LEVEL5_DES]
+Has 15% chance that the spike will glow after each round of complete attack, firing 2 consecutive spike bullets, and starting from the initial attack speed.
+
+[POKRA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears, a puncture attack is performed, causing damage to all zombies and slowing down. On continuous attack, an additional puncture attack is added to the next attack, and when an additional 3 puncture attacks are added, an additional 4-fold damage, a stinger bullet penetrating the entire row, and a 3-second break is entered.
+
+[POKRA_NEW_SKILL_LEVEL2_DES]
+20% chance to produce a spike combo that does 5x damage twice.
+
+[POKRA_NEW_SKILL_LEVEL3_DES]
+40% chance to produce a spike combo that does 5x damage twice.
+
+[POKRA_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[POKRA_NEW_SKILL_LEVEL5_DES]
+Has 15% chance that the spike will glow after each round of complete attack, firing 2 consecutive spike bullets, and starting from the initial attack speed.
+
+[POKRA_PLANTFOOD_DESCRIPTION]
+launch three projectiles (5 level 3 and 6 level 5). Each of them will inflict 500 damage with also poisons and slow zombies down for ten seconds
+
+[POKRA_AVATAR_PLANTFOOD_DESCRIPTION]
+launch three projectiles (5 level 3 and 6 level 5). Each of them will inflict 500 damage with also poisons and slow zombies down for ten seconds
+
+[POKRA_AVATAR_NAME]
+Now additonally poison zombies.
+
+[STORE_PRODUCT_AVATAR_POKRA]
+Now additonally poison zombies.
+
+[STORE_PRODUCT_AVATAR_POKRA_TITLE]
+Pokra Bow
+
+[NEW_AVATAR_SHORT_DESCRIPTION_POKRA_1]
+Pokra doll wig
+
+[NEW_AVATAR_DESCRIPTION_POKRA_1]
+The probability of high-speed puncture combo is increased by 10% during attack (only effective for plants above order 2)
+
+
+
+
+
+[HYDROCOTYLEDRUMMER]
+Dollarweed Drummer
+
+[HYDROCOTYLEDRUMMER_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}After returning backstage, ridiculed, he cried himself to sleep that night. And when he woke up the next morning, you know what he did? Practiced, practiced and practiced. With one goal in his heart to never be laughed at by anyone ever again. Seven years later, he returned to the anniversary and performed the most beautiful drum solo anyone had ever heard.
+
+[HYDROCOTYLEDRUMMER_DESCRIPTION_HEADER]
+Dollarweed Drummers can provide a variety of buffs to plants, which max buffs given to Orchestra Plants.
+
+[HYDROCOTYLEDRUMMER_TOOLTIP]
+Dollarweed Drummers can provide a variety of buffs to plants, which max buffs given to Orchestra Plants.
+
+[HYDROCOTYLEDRUMMER_PRODUCT_SHORT_DESC]
+Dollarweed Drummers can provide a variety of buffs to plants, which max buffs given to Orchestra Plants.
+
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL1]
+Big Orchestra
+
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
+Increased attack and attack speed bonuses to 15%, health regen to 15%, and orchestra plant bonus to 10%.
+
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
+Orchestral Party
+
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL2_DES]
+The attack and attack speed bonuses are increased to 20%, the health recovery is increased to 20%, and the orchestra plants additionally increase the attack power bonus by 15% and the attack speed bonus by 10%.
+
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL5]
+Healing Music
+
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL5_DES]
+Recover 10% of HP for all plants within range when drumming
+
+[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL1_DES]
+Beat the drum every 15 seconds to bring 10% attack and attack speed bonus to plants in the surrounding 3x3 range, and defense plants recover 10% health. The orchestra plants (trumpet flower, tulip trumpeter, magic beet, banana dancer, ghost pepper) increase the attack and attack speed bonus by an additional 5.
+
+[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL2_DES]
+Increased attack and attack speed bonuses to 15%, health regen to 15%, and orchestra plant bonus to 10%.
+
+[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL3_DES]
+The attack and attack speed bonuses are increased to 20%, the health recovery is increased to 20%, and the orchestra plants additionally increase the attack power bonus by 15% and the attack speed bonus by 10%.
+
+[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL5_DES]
+Recover 10% of HP for all plants within range when drumming
+
+[HYDROCOTYLEDRUMMER_PLANTFOOD_DESCRIPTION]
+Make all plants dance and stun all zombies for about 2 seconds, like Sunflower Singer, and all plant gain his boosts for about 10 seconds.
+
+[HYDROCOTYLEDRUMMER_AVATAR_PLANTFOOD_DESCRIPTION]
+Make zombies stun for 2 seconds, bring ^ff000025% attack and attack speed bonus to all plants, restore 25% health points to defensive plants, and increase the band's plant growth to 40% attack bonus^oldclrr and 35% attack speed bonus, lasting 14 seconds.
+
+[GENE_DESCRIPTION_HYDROCOTYLEDRUMMER]
+Dollarweed Drummer increases damage and speed buffs to Orchestra plants by {Param_1}%
+
+[HYDROCOTYLEDRUMMER_AVATAR_NAME]
+Dollarweed Drummers can provide a variety of buffs to plants, which max buffs given to Orchestra Plants.
+
+[STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
+He will now boost Orchestra plants' attack by 40% and speed by 35% for 10 seconds. Regular plants will gain 25% more attack and speed instead.
+
+[STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
+Dollarweed Drummer glasses
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_1]
+Dollarweed Drummer scarf
+
+[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_1]
+Cooldown reduced by 10%
+
+
+
+[ULTOMATO]
+Ultomato
+
+[ULTOMATO_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}red plant
+{FLAVOR}When Ultomato was performing aerospace missions, particles of light from outer space were infused into his body. The particles of light contained the will of justice, guiding Ultomato to use the power of light to protect his homeland and defeat the evil zombies.
+
+[ULTOMATO_DESCRIPTION_HEADER]
+Ultomatoes can make themselves stronger through repeated planting.
+
+[ULTOMATO_TOOLTIP]
+Ultomatoes can make themselves stronger through repeated planting.
+
+[ULTOMATO_PRODUCT_SHORT_DESC]
+Ultomatoes can make themselves stronger through repeated planting.
+
+[ULTOMATO_SKILL_LEVEL1]
+Fast Recharge
+
+[ULTOMATO_SKILL_LEVEL1_DES]
+Reduces attack cooldown by 1 second.
+
+[ULTOMATO_SKILL_LEVEL2]
+Extremely Fast Recharge
+
+[ULTOMATO_SKILL_LEVEL2_DES]
+Reduces attack cooldown by 2 seconds.
+
+[ULTOMATO_SKILL_LEVEL4]
+Hyper Leap
+
+[ULTOMATO_SKILL_LEVEL4_DES]
+Ultomato may upgrade automatically once when planted.
+
+[ULTOMATO_SKILL_LEVEL5]
+Energy Waves
+
+[ULTOMATO_SKILL_LEVEL5_DES]
+On hit, laser deals splash damage near its impact point.
+
+[ULTOMATO_NEW_SKILL_LEVEL1_DES]
+When a zombie appears, it causes damage to the zombie by firing a laser with its eyes that lasts for 2 seconds. Repeated stacking can change morphology and increase attack power. The sun cost of planting will increase with the number on the site, with 50 points for every 1 seed (stacking is counted as multiple).
+
+[ULTOMATO_NEW_SKILL_LEVEL2_DES]
+The Ultimate Tomato's charging speed is accelerated, and the required charging time becomes 3.5 seconds after the attack.
+
+[ULTOMATO_NEW_SKILL_LEVEL3_DES]
+The skill effect of fast charging is increased by 100%, and the charging time required after attack becomes 2.5 seconds.
+
+[ULTOMATO_NEW_SKILL_LEVEL4_DES]
+There is a 50% probability that the ultimate tomato will be directly promoted to the first level when planting.
+
+[ULTOMATO_NEW_SKILL_LEVEL5_DES]
+The laser fired contains more energy, and the energies filled after hitting the target are sputtered to single-frame zombies, causing them 33% damage to their attack power.
+
+[ULTOMATO_PLANTFOOD_DESCRIPTION]
+Ultimate Tomato immediately self-destructs, causing damage to all zombies in the surrounding 9x9 range.
+
+[ULTOMATO_AVATAR_PLANTFOOD_DESCRIPTION]
+Ultimate Tomato immediately self-destructs, causing damage to all zombies in the surrounding 9x9 range. ^ff0000If it is originally the second form or the third form, it will degenerate into the first form instead of disappearing directly. ^oldclrr
+
+[ULTOMATO_AVATAR_NAME]
+Ultimate tomatoes can make themselves stronger by repeated planting.
+
+[STORE_PRODUCT_AVATAR_ULTOMATO]
+Level 2 and Level 3 tomatoes retain Level 1 tomatoes after releasing their ultimate moves
+
+[STORE_PRODUCT_AVATAR_ULTOMATO_TITLE]
+Ultimate Tomato Costume
+
+
+
+
+[SHADOWVANILLA]
+Shadow Vanilla
+
+[SHADOWVANILLA_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}yellow plant
+{FLAVOR}"Freak!" "Monster!" "Desperate hodgepodge!" Shadow Fanilla is always full of these voices of self doubt, but never pays them any mind, because it knows the value of its existence in the world, and doesn't need to prove anything, "Every plant has its own purpose" Shadow Fanilla says under its breath.
+First place in the plant design competition: Ricky Kim
+
+[SHADOWVANILLA_DESCRIPTION_HEADER]
+Shadow Fanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+
+[SHADOWVANILLA_TOOLTIP]
+Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+
+[SHADOWVANILLA_PRODUCT_SHORT_DESC]
+Shadow Vanilla can put zombies in a "vulnerable" state by charging its leaves while in its shadow form.
+
+[SHADOWVANILLA_SKILL_LEVEL1]
+Mist Vortex
+
+[SHADOWVANILLA_SKILL_LEVEL1_DES]
+When a zombie with shadow mist dies, there is a 15% chance that a single shadow vortex will be left behind, which lasts for 5 seconds. Zombies in the vortex will be slowed down and take an additional 30% damage.
+
+[SHADOWVANILLA_SKILL_LEVEL2]
+Suspended Fog
+
+[SHADOWVANILLA_SKILL_LEVEL2_DES]
+Improve the effect of Mist Vortex by 50%
+
+[SHADOWVANILLA_SKILL_LEVEL5]
+Shadow Mastery
+
+[SHADOWVANILLA_SKILL_LEVEL5_DES]
+Normal Mist of Shadow Viburnum increases Vulnerability of Mist Vortex to 40% and refreshes the duration. If the shadow mist hits the same zombie repeatedly, a small whirlwind will be generated for 4 seconds, causing 1800 points of damage to the zombie per second. The probability of leaving a shadow vortex is increased to 30%, the duration is increased to 9 seconds, and the vulnerability is changed to 55%.
+
+[SHADOWVANILLA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right, it fires mist to cause damage to the zombie. If it is in the shadow state, each attack will charge the blades. After completing the 3-layer charge, the next attack will change to a shadow mist that penetrates the entire line and causes 2 times the damage, which will cause the zombies to suffer 20% damage for 7 seconds. Effect.
+
+[SHADOWVANILLA_NEW_SKILL_LEVEL2_DES]
+When a zombie with shadow mist dies, there is a 15% chance that a single shadow vortex will be left behind, which lasts for 5 seconds. Zombies in the vortex will be slowed down and take an additional 30% damage.
+
+[SHADOWVANILLA_NEW_SKILL_LEVEL3_DES]
+The trigger probability of Mist Vortex is increased, and there is a 20% chance to leave a single shadow vortex. The duration is increased to 7 seconds, and the vulnerability is changed to 45%.
+
+[SHADOWVANILLA_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food! The probability of leaving a shadow vortex is increased to 25%, the duration is increased to 8 seconds, and the vulnerability becomes 50%.
+
+[SHADOWVANILLA_NEW_SKILL_LEVEL5_DES]
+Normal Mist of Shadow Viburnum increases Vulnerability of Mist Vortex to 40% and refreshes the duration. If the shadow mist hits the same zombie repeatedly, a small whirlwind will be generated for 4 seconds, causing 1800 points of damage to the zombie per second. The probability of leaving a shadow vortex is increased to 30%, the duration is increased to 9 seconds, and the vulnerability is changed to 55%.
+
+[SHADOWVANILLA_PLANTFOOD_DESCRIPTION]
+Shoot 3 tornadoes down the lanes that gives the debuff to all zombies that are hit. When not powered it only shooting one tornado that creates eight others on contact.
+
+[SHADOWVANILLA_AVATAR_PLANTFOOD_DESCRIPTION]
+Shoot another tornado after the main three that splits in a "+" pattern if it hits a zombie. When not powered at the end of the nine tornadoes, a small explosion will spawn in the middle.
+
+[SHADOWVANILLA_AVATAR_NAME]
+Shadow Vanilla costume
+
+[STORE_PRODUCT_AVATAR_SHADOWVANILLA]
+shoot another tornado after the main three that splits in a "+" pattern if it hits a zombie. When not powered at the end of the nine tornadoes, a small explosion will spawn in the middle.
+
+[STORE_PRODUCT_AVATAR_SHADOWVANILLA_TITLE]
+Shadow Vanilla Costume
+
+
+
+
+
+[BROMELBLADE]
+Splendens Blade
+
+[BROMELBLADE_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}yellow plant
+{FLAVOR}"Rock, Paper Scissors? Is that a new combat method?" Splendens Blade finds everything around him to be so boring. Singing, dancing, fighting zombies? Those are all tacky plant business. What he's looking for is an honest, heartfelt duel. "Hey you! Yes, the punching bok choy! Let's have a duel! But what he didn't know was that the plant he challenged was not just the bok choy, but also his cohorts. If they took to surrounding him, he would've surely lost. In the end however, the duel ended in a tie. After all, the garden is more focused on maintaining peace, and doesn't want to promote in-fighting.
+
+[BROMELBLADE_DESCRIPTION_HEADER]
+Splendens Blade wields his chain blade to deal lots of damage to zombies.
+
+[BROMELBLADE_TOOLTIP]
+Splendens Blade wields his chain blade to deal lots of damage to zombies.
+
+[BROMELBLADE_PRODUCT_SHORT_DESC]
+Splendens Blade wields his chain blade to deal lots of damage to zombies.
+
+[BROMELBLADE_SKILL_LEVEL1]
+Rapid Light Strike
+
+[BROMELBLADE_SKILL_LEVEL1_DES]
+Splendens Blade's normal attack has a 20% chance to be changed to charge and slash to the right, causing the zombie to pause briefly and causing 10 times the damage.
+
+[BROMELBLADE_SKILL_LEVEL2]
+Quick-out Blade
+
+[BROMELBLADE_SKILL_LEVEL2_DES]
+The chance of activating Rapid Light Strike is doubled.
+
+[BROMELBLADE_SKILL_LEVEL5]
+Cracking Slam
+
+[BROMELBLADE_SKILL_LEVEL5_DES]
+After triggering the Smashing Attack, there is a 50% chance of being followed by an Earthshatter Slam. The pineapple will plunge the chain blade into the ground, then deal 5400 points of damage to the zombies 4 squares to the right and knock back 1.5 squares.
+
+[BROMELBLADE_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side, it causes 2 damage to all zombies in the range by wielding the chain blade continuously. After 3 attacks, the next attack will be changed to stab the chain blade to cause 6 times the damage. If it is a small zombie, it will be lifted and then hit to cause 6 times the damage.
+
+[BROMELBLADE_NEW_SKILL_LEVEL2_DES]
+Splendens Blade's normal attack has a 20% chance to be changed to charge and slash to the right, causing the zombie to pause briefly and causing 10 times the damage.
+
+[BROMELBLADE_NEW_SKILL_LEVEL3_DES]
+The chance of activating Rapid Light Strike is doubled.
+
+[BROMELBLADE_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[BROMELBLADE_NEW_SKILL_LEVEL5_DES]
+After triggering the Smashing Attack, there is a 50% chance of being followed by an Earthshatter Slam. The pineapple will plunge the chain blade into the ground, then deal 5400 points of damage to the zombies 4 squares to the right and knock back 1.5 squares.
+
+[BROMELBLADE_PLANTFOOD_DESCRIPTION]
+Deals a large amount of damage in a 3x3 area.
+
+[BROMELBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
+Deals a large amount of damage in a 3x4 area.
+
+[BROMELBLADE_AVATAR_NAME]
+Splendens Blade wields his chain blade to deal lots of damage to zombies.
+
+[STORE_PRODUCT_AVATAR_BROMELBLADE]
+Deals a large amount of damage in a 3x4 area.
+
+[STORE_PRODUCT_AVATAR_BROMELBLADE_TITLE]
+Splendens Blade
+
+
+[ICELOTUS]
+Dripping Diphylleia
+
+[ICELOTUS_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}White plant
+{FLAVOR}As a member of the fire brigade, Dripping Diphylleia has extreme enthusiasm for extinguishing fire, down to the smallest flame, and always carries ice water for cooling down very hot objects.
+
+[ICELOTUS_DESCRIPTION_HEADER]
+Can extinguish plants lit by Fireworks Zombies and slow down surrounding zombies.
+
+[ICELOTUS_TOOLTIP]
+Can extinguish plants lit by Fireworks Zombies and slow down surrounding zombies.
+
+[ICELOTUS_PRODUCT_SHORT_DESC]
+Can extinguish plants lit by Fireworks Zombies and slow down surrounding zombies.
+
+[ICELOTUS_SKILL_LEVEL1]
+Increased Water Storage
+
+[ICELOTUS_SKILL_LEVEL1_DES]
+Dripping Diphylleia strengthens the capacity of a single water storage, and each planting can sprinkle 5 rounds of water pools.
+
+[ICELOTUS_SKILL_LEVEL2]
+Pure Water with Ice
+
+[ICELOTUS_SKILL_LEVEL2_DES]
+Dripping Diphylleia becomes icy cold, and the zombies who eat it have a 5% chance of being frozen for 3 seconds.
+
+[ICELOTUS_NEW_SKILL_LEVEL1_DES]
+When a zombie appears 3x3 around a dripping ice lotus, it sprinkles out of the pool, causing the passing zombie to enter a deceleration state. The pool lasts for 4 seconds. It disappears after spilling 3 rounds of pool. ^ff0000It has a miraculous effect on spark zombies! ^oldclrr
+
+[ICELOTUS_NEW_SKILL_LEVEL2_DES]
+Dripping Diphylleia strengthens the capacity of a single water storage, and each planting can sprinkle 5 rounds of water pools.
+
+[ICELOTUS_NEW_SKILL_LEVEL3_DES]
+Dripping Diphylleia becomes icy cold, and the zombies who eat it have a 5% chance of being frozen for 3 seconds.
+
+[ICELOTUS_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
+
+[ICELOTUS_PLANTFOOD_DESCRIPTION]
+Splashes water in a 5x5 area, as well as restoring her petals and allowing her to splash more water before disappearing.
+
+[ICELOTUS_AVATAR_PLANTFOOD_DESCRIPTION]
+Splashes water in a 5x5 area, as well as restoring her petals and allowing her to splash more water before disappearing. ^ff0000 water now freezes any zombie that steps on it temporarily.
+
+[GENE_DESCRIPTION_ICELOTUS]
+Ponds last longer by {Param_1}%
+
+[STORE_PRODUCT_AVATAR_ICELOTUS]
+Can extinguish plants lit by Fireworks Zombies and slow down surrounding zombies.
+
+[STORE_PRODUCT_AVATAR_ICELOTUS_TITLE]
+Dripping Diphylleia Costume
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ICELOTUS_1]
+Dripping Diphylleia Jake's shoes
+
+[NEW_AVATAR_DESCRIPTION_ICELOTUS_1]
+Cooldown reduced by 10%
+
+
+
+[STEPHANIA]
+Stephania
+
+[STEPHANIA_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}Green plant
+{FLAVOR}Stephania idolizes the captain of the National Shield Throwing Team. As he admires his heroic posture of blocking and shield throwing, Stephania has also worked hard and developed proper shield throwing and blocking skills. Don't ask why the shield shatters so easily, it's definitely the problem with the shield as it's just an average consumer's good.
+
+[STEPHANIA_DESCRIPTION_HEADER]
+Stephania can shield against Ninjimp's pufferfish attack, thrown shields will fragment.
+
+[STEPHANIA_TOOLTIP]
+Stephania can shield against Ninjimp's pufferfish attack, thrown shields will fragment.
+
+[STEPHANIA_PRODUCT_SHORT_DESC]
+Stephania can shield against Ninjimp's pufferfish attack, thrown shields will fragment.
+
+[STEPHANIA_SKILL_LEVEL1]
+Sharp Fragments
+
+[STEPHANIA_SKILL_LEVEL1_DES]
+The fragments of the leaves become sharper, and there are 2 fragments that can cause damage to a single zombie.
+
+[STEPHANIA_SKILL_LEVEL2]
+Perfect Fragmentation
+
+[STEPHANIA_SKILL_LEVEL2_DES]
+All 5 shards can now deal damage to single zombies.
+
+[STEPHANIA_SKILL_LEVEL5]
+Further Fragmentation
+
+[STEPHANIA_SKILL_LEVEL5_DES]
+ome fragments of the leaf become round and can be broken again after hitting a zombie.
+
+[STEPHANIA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of Chijinfuji, it fires a flying shield to cause damage to the zombie, and after hitting, it breaks into 5 pieces, each piece causing 63% damage to the zombie it comes into contact with. ^ff0000It has a miraculous effect on ninja kid zombies! ^oldclrr
+
+[STEPHANIA_NEW_SKILL_LEVEL2_DES]
+The fragments of the leaves become sharper, and there are 2 fragments that can cause damage to a single zombie.
+
+[STEPHANIA_NEW_SKILL_LEVEL3_DES]
+All 5 shards can now deal damage to single zombies.
+
+[STEPHANIA_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
+
+[STEPHANIA_NEW_SKILL_LEVEL5_DES]
+ome fragments of the leaf become round and can be broken again after hitting a zombie.
+
+[STEPHANIA_PLANTFOOD_DESCRIPTION]
+Firre 6 leaves ahead of it. These leaves will knock back any zombie hit by them one tile as well as split to damage additional zombies
+
+[STEPHANIA_AVATAR_PLANTFOOD_DESCRIPTION]
+Fire 6  ^FF0000 fire ^oldclr leaves ahead of it. These leaves will knock back any zombie hit by them one tile as well as split to damage additional zombies
+
+[STEPHANIA_AVATAR_NAME]
+Stephania Costume
+
+[STORE_PRODUCT_AVATAR_STEPHANIA]
+Lights these 6 leaves on fire, dealing additional damage.
+
+[STORE_PRODUCT_AVATAR_STEPHANIA_TITLE]
+Stephania Costume
 
 
 [TUPISTRASTALKER]
@@ -7728,6 +8881,294 @@ Tupistra Stalker New Year
 
 [NEW_AVATAR_DESCRIPTION_TUPISTRASTALKER_1]
 Reduces planting cooldown by 10%
+
+
+
+
+[DENDROBIUMGUARD]
+Dendrobium Windbreak
+
+[DENDROBIUMGUARD_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}Green plant
+{FLAVOR}Dendrobium Windbreak always insists on being in the front line of wind resistance, providing a safe atmosphere for the plants behind them and protecting them from wind damage.
+
+[DENDROBIUMGUARD_DESCRIPTION_HEADER]
+Can link up to protect against strong winds.
+
+[DENDROBIUMGUARD_TOOLTIP]
+Can link up to protect against strong winds.
+
+[DENDROBIUMGUARD_PRODUCT_SHORT_DESC]
+Can link up to protect against strong winds.
+
+[DENDROBIUMGUARD_SKILL_LEVEL1]
+High-speed Recovery
+
+[DENDROBIUMGUARD_SKILL_LEVEL1_DES]
+Dendrobium Windbreak unlocks the recovery ability, and now it can restore 1 leaf on the body every 60 seconds.
+
+[DENDROBIUMGUARD_SKILL_LEVEL2]
+Rapid-speed Recovery
+
+[DENDROBIUMGUARD_SKILL_LEVEL2_DES]
+Dendrobium Windbreak recovery speed is accelerated, now every 50 seconds can restore 1 leaf on the body.
+
+[DENDROBIUMGUARD_SKILL_LEVEL5]
+Retaliation
+
+[DENDROBIUMGUARD_SKILL_LEVEL5_DES]
+When being eaten, there is a 50% chance to spin rapidly, knocking back all zombies in the right square by 1 square, triggering at most once every 20 seconds.
+
+[DENDROBIUMGUARD_NEW_SKILL_LEVEL1_DES]
+When there is a dendrobium parsnip net in the adjacent grid under the dendrobium parsnip net, one leaf will be added to the 2 pieces and the health value will be increased by 25%, and at most 4 pieces can be owned at the same time. ^ff0000It has a miraculous effect on strong wind attacks!
+
+[DENDROBIUMGUARD_NEW_SKILL_LEVEL2_DES]
+Dendrobium Windbreak unlocks the recovery ability, and now it can restore 1 leaf on the body every 60 seconds.
+
+[DENDROBIUMGUARD_NEW_SKILL_LEVEL3_DES]
+Dendrobium Windbreak recovery speed is accelerated, now every 50 seconds can restore 1 leaf on the body.
+
+[DENDROBIUMGUARD_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
+
+[DENDROBIUMGUARD_NEW_SKILL_LEVEL5_DES]
+When being eaten, there is a 50% chance to spin rapidly, knocking back all zombies in the right square by 1 square, triggering at most once every 20 seconds.
+
+[DENDROBIUMGUARD_PLANTFOOD_DESCRIPTION]
+Restore its health along with all lost leaves and will begin using its top leaves as a propeller to attack and knock back all zombies in the tile ahead of it. If there are any adjacent Dendrobium Windbreaks, they will also activate their Plant Food abilities.
+
+[DENDROBIUMGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
+Restore its health along with all lost leaves and will begin using its top leaves as a propeller to attack and knock back all zombies in the tile ahead of it. If there are any adjacent Dendrobium Windbreaks, they will also activate their Plant Food abilities. ^ff0000 heals Dendrobium Windbreak to full health, as well as all adjacent Dendrobium Windbreak.
+
+[STORE_PRODUCT_AVATAR_DENDROBIUMGUARD]
+Hals Dendrobium Windbreak to full health, as well as all adjacent Dendrobium Windbreak.
+
+[STORE_PRODUCT_AVATAR_DENDROBIUMGUARD_TITLE]
+Dendrobium Windbreak glasses
+
+[CYPRIPEDIUM]
+Chef Cypripedium
+
+[CYPRIPEDIUM_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}Red plant
+{FLAVOR}Chef Cypripedium was once the number one plant in the kitchen, whose soup was extremely delicious, until he stumbled upon a new cookbook "The Essence of Offal Cooking", which he now treats as gospel. And recently his cuisine began to produce some unexpected results.
+
+[CYPRIPEDIUM_DESCRIPTION_HEADER]
+Chef Cypripedium's soup will make zombies change routes.
+
+[CYPRIPEDIUM_TOOLTIP]
+Chef Cypripedium's soup will make zombies change routes.
+
+[CYPRIPEDIUM_PRODUCT_SHORT_DESC]
+Chef Cypripedium's soup will make zombies change routes.
+
+[CYPRIPEDIUM_SKILL_LEVEL1]
+Concentrated Cuisines
+
+[CYPRIPEDIUM_SKILL_LEVEL1_DES]
+Chef Cypripedium has a 50% chance to throw concentrated soup, causing damage to zombies within a single cell and entering a stench state.
+
+[CYPRIPEDIUM_SKILL_LEVEL2]
+Steady Progress
+
+[CYPRIPEDIUM_SKILL_LEVEL2_DES]
+The skill trigger probability of Concentrated Cuisines is increased by 100%, and there is a 100% probability of throwing Concentrated Soup.
+
+[CYPRIPEDIUM_SKILL_LEVEL5]
+Novel Cuisine
+
+[CYPRIPEDIUM_SKILL_LEVEL5_DES]
+Chef Cypripedium changed the style of the soup, the soup turns purple and can make the zombies in the stench state suffer 200 points of damage per second.
+
+[CYPRIPEDIUM_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side, stinky soup is thrown, causing damage to the hit zombie and entering a stinky state for 3 seconds. The stench state will cause the zombies on the right side to wrap lines, ^ff0000 and has a miraculous effect on the sushi thrown by the sushi zombies! ^oldclrr
+
+[CYPRIPEDIUM_NEW_SKILL_LEVEL2_DES]
+Chef Cypripedium has a 50% chance to throw concentrated soup, causing damage to zombies within a single cell and entering a stench state.
+
+[CYPRIPEDIUM_NEW_SKILL_LEVEL3_DES]
+The skill trigger probability of Concentrated Cuisines is increased by 100%, and there is a 100% probability of throwing Concentrated Soup.
+
+[CYPRIPEDIUM_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
+
+[CYPRIPEDIUM_NEW_SKILL_LEVEL5_DES]
+Chef Cypripedium changed the style of the soup, the soup turns purple and can make the zombies in the stench state suffer 200 points of damage per second.
+
+[CYPRIPEDIUM_PLANTFOOD_DESCRIPTION]
+Throw a large glob of soup at the closest target in his lane, doing 1800 damage and odorizing zombies in a 5x5 area for 3s.
+
+[CYPRIPEDIUM_AVATAR_PLANTFOOD_DESCRIPTION]
+Throw a large glob of soup at the closest target in his lane, doing 1800 damage and odorizing zombies in a 5x5 area for 3s with stun.
+
+[CYPRIPEDIUM_AVATAR_NAME]
+Chef Cypripedium's soup will make zombies change routes.
+
+[STORE_PRODUCT_AVATAR_CYPRIPEDIUM]
+The large glob of soup deals more damage and stuns zombies.
+
+[STORE_PRODUCT_AVATAR_CYPRIPEDIUM_TITLE]
+Chef Cypripedium chef's hat
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_1]
+Chef Cypripedium cap and bells
+
+[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_1]
+Attack speed increased by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
+Chef Cypripedium mochi maker headband
+
+[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
+Attack increased by 10%
+
+
+
+[GUMNUT]
+Gumnut
+
+[GUMNUT_DESCRIPTION]
+{KEYWORD}Special: {STAT}immobilizes all zombies in the tile in front of it with chewing gum
+{KEYWORD}Plant features: {STAT}ellow plant
+{FLAVOR}"I only chew zombie-flavored gum" says Gumnut.
+
+[GUMNUT_DESCRIPTION_HEADER]
+Immobilizes zombies in front of it as well as blocks them off.
+
+[GUMNUT_TOOLTIP]
+Immobilizes zombies in front of it as well as blocks them off.
+
+[GUMNUT_SKILL_LEVEL1]
+Hypnotizing Chewing Gum
+
+[GUMNUT_SKILL_LEVEL1_DES]
+Increases gum health to 12000, and has 20% chance to ^ff4284 hypnotize ^oldclr the zombie that ate it.
+
+[GUMNUT_SKILL_LEVEL2]
+Hypnotize Enhancement
+
+[GUMNUT_SKILL_LEVEL2_DES]
+Increases gum health to 16000, and has 40% chance to ^ff4284 hypnotize ^oldclr the zombie that ate it.
+
+[GUMNUT_SKILL_LEVEL5]
+Poisonous Bubble
+
+[GUMNUT_SKILL_LEVEL5_DES]
+Increases gum health to 24000, and causes zombies that ate it to release gasses, stunning those behind for 5 seconds.
+
+[GUMNUT_NEW_SKILL_LEVEL1_DES]
+When a zombie appears in the right 1-square, bubbles are blown out and the zombie sticks, subsequently disappearing itself. The chewing gum is gnawed by the zombies that are currently stuck and behind them, and the chewing gum has 8000 health points and an additional increase based on the zombie's health.
+
+[GUMNUT_NEW_SKILL_LEVEL2_DES]
+Increases gum health to 12000, and has 20% chance to ^ff4284 hypnotize ^oldclr the zombie that ate it.
+
+[GUMNUT_NEW_SKILL_LEVEL3_DES]
+Increases gum health to 16000, and has 40% chance to ^ff4284 hypnotize ^oldclr the zombie that ate it.
+
+[GUMNUT_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food! Chewing gum health increased to 20000.
+
+[GUMNUT_NEW_SKILL_LEVEL5_DES]
+Increases gum health to 24000, and causes zombies that ate it to release gasses, stunning those behind for 5 seconds.
+
+[GUMNUT_PLANTFOOD_DESCRIPTION]
+Blows a large bubble gum that immobilizes 5 zombies, with a targeting priority over zombies that are closer to the house.
+
+[GUMNUT_AVATAR_PLANTFOOD_DESCRIPTION]
+Blows a large bubble gum that immobilizes 8 zombies, with a targeting priority over zombies that are closer to the house.
+
+[GUMNUT_AVATAR_NAME]
+Gumnut Clown Wigs
+
+[STORE_PRODUCT_AVATAR_GUMNUT_TITLE]
+Gumnut Clown Wigs
+
+[STORE_PRODUCT_AVATAR_GUMNUT]
+Plant food will be bigger and gums 8 zombies.
+
+
+
+
+
+[OLIVEPIT]
+Olive Pit
+
+[OLIVEPIT_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}short plant
+{FLAVOR}Olive Pit lies buried deep underground, always having one single dream, to one day board the aircraft from Sky City.
+
+[OLIVEPIT_DESCRIPTION_HEADER]
+Olive Pit can slow down zombies ahead of it, as well as having passing zombies falling into it
+
+[OLIVEPIT_TOOLTIP]
+Olive Pit can slow down zombies ahead of it, as well as having passing zombies falling into it
+
+[OLIVEPIT_PRODUCT_SHORT_DESC]
+Olive Pit can slow down zombies ahead of it, as well as having passing zombies falling into it
+
+[OLIVEPIT_SKILL_LEVEL1]
+Digestion Enhancement
+
+[OLIVEPIT_SKILL_LEVEL1_DES]
+Can now swallow up to 3 zombies of equal and lower levels, or one level 3+ zombie. Reduces chewing time to 50 seconds.
+
+[OLIVEPIT_SKILL_LEVEL2]
+Tunnel Enhancement
+
+[OLIVEPIT_SKILL_LEVEL2_DES]
+Can now swallow up to 4 zombies of equal and lower levels, or one level 5+ zombie. Reduces chewing time to 40 seconds.
+
+[OLIVEPIT_SKILL_LEVEL5]
+Entangled
+
+[OLIVEPIT_SKILL_LEVEL5_DES]
+While chewing, traps zombies for five seconds within one tile to the right if approached. Can digest four zombies of any level.
+
+[OLIVEPIT_NEW_SKILL_LEVEL1_DES]
+After planting, it goes underground, and then sprays 1 cell of oil to the right every 2.2 seconds, slowing down the passing zombies. When a zombie goes to the pit, the zombie falls into the pit and is instantly killed. It is blocked when 2 zombies or 1 zombie above level 2 are dropped, and it takes 60 seconds to unblock. ^ff0000It has a miraculous effect on zombie chickens or zombie ice weasels! ^oldclrr
+
+[OLIVEPIT_NEW_SKILL_LEVEL2_DES]
+Can now swallow up to 3 zombies of equal and lower levels, or one level 3+ zombie. Reduces chewing time to 50 seconds.
+
+[OLIVEPIT_NEW_SKILL_LEVEL3_DES]
+Can now swallow up to 4 zombies of equal and lower levels, or one level 5+ zombie. Reduces chewing time to 40 seconds.
+
+[OLIVEPIT_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted The order of zombies normally digested in the olive pit is raised to order 7.
+
+[OLIVEPIT_NEW_SKILL_LEVEL5_DES]
+While chewing, traps zombies for five seconds within one tile to the right if approached. Can digest four zombies of any level.
+
+[OLIVEPIT_PLANTFOOD_DESCRIPTION]
+Swallow 6 zombies in a 3x3 range and spit out 8 puddles of olive oil in a 3x3 area, lasting 6 seconds.
+
+[OLIVEPIT_AVATAR_PLANTFOOD_DESCRIPTION]
+Swallow 9 zombies in a 3x3 range and spit out 8 puddles of olive oil in a 3x3 area, lasting 6 seconds. ^ff0000 now able to swallow the flying zombies.
+
+[GENE_DESCRIPTION_OLIVEPIT]
+blockage time reduced by {Param_1}s
+
+[OLIVEPIT_AVATAR_NAME]
+Olive Pit can slow down zombies ahead of it, as well as having passing zombies falling into it
+
+[STORE_PRODUCT_AVATAR_OLIVEPIT]
+Able to swallow the flying zombies in 3x3 range.
+
+[STORE_PRODUCT_AVATAR_OLIVEPIT_TITLE]
+Olive Pit Arrow
+
+[NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_1]
+Olive Pit feather headband
+
+[NEW_AVATAR_DESCRIPTION_OLIVEPIT_1]
+Cooldown reduced by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
+Olive Pit Glasses
+
+[NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
+Rest time reduced by 5s
+
 
 
 [BOOPHONEGEISHA]
@@ -7971,10 +9412,9 @@ Butter Fountain
 Headbutter Lettuce quickly attacks three times on both sides, each tossing three sticks of butter that stun zombies for 9 seconds.
 
 [HEADBUTTERLETTUCE_NEW_SKILL_LEVEL1_DES]
-Increases butter chance to 20% and stun duration to 9 seconds.
 
 [HEADBUTTERLETTUCE_NEW_SKILL_LEVEL2_DES]
-Increases butter chance to 30% and projectile count by 2.
+Increases butter chance to 20% and stun duration to 9 seconds.
 
 [HEADBUTTERLETTUCE_NEW_SKILL_LEVEL3_DES]
 Increases butter chance to 30% and projectile count by 2.
@@ -8871,16 +10311,16 @@ Create a stronger fire tornado which can also attract 6 zombies in the adjacent 
 Create a stronger fire tornado which can also attract 6 zombies in the adjacent lanes.
 
 [STORE_PRODUCT_AVATAR_INFERNO_TITLE]
-Inferno carnival mask
+Inferno gaz mask
 
 [INFERNO__AVATAR_NAME]
-Inferno carnival mask
+Inferno gaz mask
 
 [STORE_PRODUCT_AVATAR_INFERNO]
 When a stronger fire tornado was created, zombies from adjacent roads were attracted to the main bank, and the tornado ended with a column of soaring fire that dissipated after causing explosive damage.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
-Inferno gaz mask
+Inferno carnival mask
 
 [NEW_AVATAR_DESCRIPTION_INFERNO_1]
 Reduces sun cost by 30
@@ -9439,7 +10879,7 @@ hrow an additional 3 Butter projectiles, prioritizing the leftmost zombie within
 Buttercup will throw butter immediately in front of her, dealing 150 damage to zombies, stunning them with butter for 12 seconds, and leaving butter puddles that last for 150 seconds.
 
 [BUTTERCUP_AVATAR_PLANTFOOD_DESCRIPTION]
-Butter Buttercup throws out multiple pieces of butter, and the butter falls to the ground^ff0000 causing 3 rows of butter pits mixed with cakes and candles^oldclrr. The smashed zombies cause damage and will also be immobilized by butter when the zombies walk into the butter pit. The butter pit will cause damage to the two zombies who stepped on it once and paste the butter once before disappearing. ^oldclrr
+Butter Buttercup throws out multiple pieces of butter, and the butter falls to the ground^ff0000 causing 3 rows of butter pits mixed with cakes and candles ^oldclrr. The smashed zombies cause damage and will also be immobilized by butter when the zombies walk into the butter pit. The butter pit will cause damage to the two zombies who stepped on it once and paste the butter once before disappearing. ^oldclrr
 
 [GENE_DESCRIPTION_BUTTERCUP]
 Attack speed increased by {Param_1}%
@@ -10205,7 +11645,7 @@ After the pea potion hits, it will leave a pool of poisonous mist, which lasts f
 Pea Pharmacist will throw three potions near the three closest zombies, transforming them or otherwise damaging them.
 
 [BEANCHEMIST_AVATAR_PLANTFOOD_DESCRIPTION]
-Pea Pharmacist will throw three potions near the three closest zombies, transforming them ^FF0000 into specifically Shadow Peashooters^oldclr or otherwise damaging them.
+Pea Pharmacist will throw three potions near the three closest zombies, transforming them ^FF0000 into specifically Shadow Peashooters ^oldclr or otherwise damaging them.
 
 [GENE_DESCRIPTION_BEANCHEMIST]
 When he transforms a zombie into an Ice or Shadow Pea, there is {Param_1}% chance to relase plants food ability.
@@ -11799,7 +13239,7 @@ he purple flower on Bun Chi's head can turn into a yellow flower. When in the ye
 Bun Chi' deals two consecutive hits to zombies in a 3x3 area in front, with the final hit pushing zombies back by 1.5 tiles.
 
 [WATERRABBIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Bun Chi' deals two consecutive hits to zombies in a 3x3 area, then ^ff0000jumps again, damaging zombies in the 3x3 area and reducing their damage by 80% for 18 seconds^oldclrr. The final hit pushes zombies back by 1.5 tiles.
+Bun Chi' deals two consecutive hits to zombies in a 3x3 area, then ^ff0000jumps again, damaging zombies in the 3x3 area and reducing their damage by 80% for 18 seconds ^oldclrr. The final hit pushes zombies back by 1.5 tiles.
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT_TITLE]
 Bun Chi' costume
@@ -11808,7 +13248,7 @@ Bun Chi' costume
 Bun Chi' costume
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT]
-Bun Chi' deals two consecutive hits to zombies in a 3x3 area, then ^ff0000jumps again, damaging zombies in the 3x3 area and reducing their damage by 80% for 18 seconds^oldclrr. The final hit pushes zombies back by 1.5 tiles.
+Bun Chi' deals two consecutive hits to zombies in a 3x3 area, then ^ff0000jumps again, damaging zombies in the 3x3 area and reducing their damage by 80% for 18 seconds ^oldclrr. The final hit pushes zombies back by 1.5 tiles.
 
 
 
@@ -12523,7 +13963,7 @@ When attacking, a box of fireworks will be launched, which can stun zombies on t
 Crazy Flamevine will lob firecrackers at every zombie on screen, which will stun them and deal heavy damage in a single tile.
 
 [FIRECRACKERFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Crazy Flamevine will lob firecrackers at every zombie on screen, which will stun them and deal ^FF0000 continuous^oldclr heavy damage ^FF0000 for 6 seconds ^oldclr in a single tile.
+Crazy Flamevine will lob firecrackers at every zombie on screen, which will stun them and deal ^FF0000 continuous ^oldclr heavy damage ^FF0000 for 6 seconds ^oldclr in a single tile.
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER_TITLE]
 Crazy Flamevine Costume
@@ -13163,7 +14603,7 @@ Maple Swordsman
 {KEYWORD}Range: {STAT}2 tiles ahead
 {KEYWORD}Special: {STAT}Attacks with clones.
 {KEYWORD}Plant features: {STAT}Red plant
-{FLAVOR}he leaves of Maple Swordsman are always waiting for the autumn wind - but don't get me wrong, they are not meant to fall, he just wants to show off his flowing long hair.
+{FLAVOR}The leaves of Maple Swordsman are always waiting for the autumn wind - but don't get me wrong, they are not meant to fall, he just wants to show off his flowing long hair.
 
 [MAPLEBLADE_DESCRIPTION_HEADER]
 Uses a sword to kill zombies.
@@ -13175,14 +14615,14 @@ Uses a sword to kill zombies.
 Uses a sword to kill zombies.
 
 [MAPLEBLADE_SKILL_LEVEL1]
-枫影·双生溯斩
+Maple Shadow · Twin Slashes
 
 [MAPLEBLADE_SKILL_LEVEL1_DES]
 分身冷却时间减少。收回分身后的下次攻击将变为^ff0000枫影・碎影^oldclrr
 ^ff0000枫影・碎影^oldclrr：下次普通攻击变为强化攻击造成额外伤害。
 
 [MAPLEBLADE_SKILL_LEVEL2]
-枫影·千刃叠潮
+Maple Shadow · Thousand Blades
 
 [MAPLEBLADE_SKILL_LEVEL2_DES]
 分身冷却时间继续减少，^ff0000枫影・碎影^oldclrr造成的伤害提升。
@@ -13267,16 +14707,84 @@ The number of butter tiles thrown after the explosion ends is increased by +1.
 The number of butter tiles thrown after the explosion ends is increased by +2.
 
 [BUDUHBOOM_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Do not have a plant food effect
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Do not have a plant food effect
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
 Bud'uh Boom costume
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM]
 cooldown is decreased by 20%.
+
+
+
+
+[GUARDSHROOM]
+Guard-shroom
+
+[GUARDSHROOM_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}Purple plant, tall
+{FLAVOR}What does 363.154e+13 have in common with Guard-shroom? When Dave asks, it takes Penny more than 4 hours to complete the Guard-shroom census and emerge from the basement. Penny strongly states that the number is accurate and has forbidden anyone else from going downstairs.
+
+[GUARDSHROOM_DESCRIPTION_HEADER]
+Guard-shrooms can block enemies and spawn Mini-shrooms that can eat zombies.
+
+[GUARDSHROOM_TOOLTIP]
+Guard-shrooms can block enemies and spawn Mini-shrooms that can eat zombies.
+
+[GUARDSHROOM_PRODUCT_SHORT_DESC]
+Guard-shrooms can block enemies and spawn Mini-shrooms that can eat zombies.
+
+[GUARDSHROOM_SKILL_LEVEL1]
+Mushroom Enhancement
+
+[GUARDSHROOM_SKILL_LEVEL1_DES]
+Digestion time of Mini-shroom is reduced; the sun consumption increase multiplier of Guard-shroom is reduced to 1.5 times.
+
+[GUARDSHROOM_SKILL_LEVEL2]
+Mushroom Evolution
+
+[GUARDSHROOM_SKILL_LEVEL2_DES]
+Digestion time of Mini-shroom is further reduced; the sun consumption of Guard-shroom is no longer increased.
+
+[GUARDSHROOM_SKILL_LEVEL5]
+Abyssal Madness
+
+[GUARDSHROOM_SKILL_LEVEL5_DES]
+Guard-shroom will now spawn a more powerful Abyss Mini-shroom, which can devour medium-sized zombies; when Guard-shroom is eaten to death by a zombie, it will fall into the abyss and use its tentacles to drag the zombie into the ground.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
+守卫菇能够阻挡部分会飞跃的僵尸,并且可以直接种植在水里和陆地；每隔一段时间守卫菇身边会降下小守卫菇，小守卫菇能够吃掉普通僵尸和小鬼僵尸；植物可以种植在小守卫菇上，当为蘑菇类植物时，可为其提供额外增益效果。当其上方本体植物释放大招时，小守卫菇会吸收能量，大招完成后可使其释放二次大招。
+
+[GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
+Digestion time of Mini-shroom is reduced; the sun consumption increase multiplier of Guard-shroom is reduced to 1.5 times.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL3_DES]
+Digestion time of Mini-shroom is further reduced; the sun consumption of Guard-shroom is no longer increased.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
+Guard-shroom may be boosted when planted.
+
+[GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
+Guard-shroom will now spawn a more powerful Abyss Mini-shroom, which can devour medium-sized zombies; when Guard-shroom is eaten to death by a zombie, it will fall into the abyss and use its tentacles to drag the zombie into the ground.
+
+[GUARDSHROOM_PLANTFOOD_DESCRIPTION]
+Eat up to 5 zombies and spawn Mini-shrooms in a 3x3 area around it (at level 5, it can eat medium-sized zombies). It also fills the 3x3 area with 8 small Guard Mushrooms.
+
+[GUARDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Eat up to 7 zombies and spawn Mini-shrooms in a 4x3 area around it (at level 5, it can eat medium-sized zombies). It also fills the 3x3 area with 8 small Guard Mushrooms.
+
+[GUARDSHROOM_AVATAR_NAME]
+Guard-shrooms can block enemies and spawn Mini-shrooms that can eat zombies.
+
+[STORE_PRODUCT_AVATAR_GUARDSHROOM_TITLE]
+Guard-shroom
+
+[STORE_PRODUCT_AVATAR_GUARDSHROOM]
+Range is increased from 3x3 to 4x3 and can now eat up to 7 zombies.
+
 
 
 
@@ -17598,7 +19106,7 @@ Complete {LevelName} to unlock the use of {PlantName} in this level.
 All information about the game is visible here. What you are seeing now is it.
 
 [SETTINGS_ABOUT_TITLE]
-Evil credit 
+About
 
 [SETTINGS_UUID_BIND_TITLE]
 Device Binding
@@ -28924,7 +30432,7 @@ Day 6
 Day 7
 
 [PLANT_OBTAINED]
-Received
+Claimed
 
 [REDPACK_TITLE]
 Everyone opens red envelopes, and good gifts come and go!
@@ -30836,7 +32344,7 @@ Achievements that can be accomplished
 Receivable
 
 [DAILY_ACHIEVEMENT_GOT]
-Received
+Claimed
 
 [BUY_MOWER_DESC]
 Zombies are going to eat your brains...
@@ -34569,7 +36077,7 @@ x1
 x10
 
 [LIMITED_GACHA_INFO]
-^ff0000Only^oldclrr the listed plants and their fragments can be drawn^349901^(First single draw and first 10-draw guarantee a plant)^oldclrr.
+^FF0000 Only ^oldclr^ the above plants and their puzzle will appear ^349901^(First single and first 10-draw guarantee a plant)^oldclr^.
 
 [GACHA_POOL_SHOW]
 Prize Pool
@@ -41054,15 +42562,6 @@ Wow, so many seedlings!
 [PRODUCT_SPROUTS5_SHORT_DESCRIPTION]
 Seedling pack 50
 
-[PRODUCT_STRAWBURST_DESCRIPTION]
-Growing strawberries can cause different kinds of damage from small to large!
-
-[PRODUCT_STRAWBURST_NAME]
-Plant-exploding strawberry
-
-[PRODUCT_STRAWBURST_SHORT_DESCRIPTION]
-Exploding Strawberry
-
 [PRODUCT_SUMMER_BUNDLE_DESCRIPTION]
 Create double the firepower with an imitator! And 50 gems and 10,000 gold coins!
 
@@ -41575,22 +43074,6 @@ Upgrades purchased in the mall take effect for all files.
 
 [STORE_WWF_LINK]
 About our WWF relationship
-
-[STRAWBURST]
-Exploding Strawberry
-
-[STRAWBURST_DESCRIPTION]
-{KEYWORD}Usage: {STAT} click to launch
- 
-{FLAVOR} the bigger the better explosion strawberry said but small also has small benefits. And you must not underestimate medium-sized power. I just like all kinds of different sizes, really.
-
-[STRAWBURST_DESCRIPTION_HEADER]
-Exploding strawberries grow into strawberries that do different damage from small to large!
-
-[STRAWBURST_TOOLTIP]
-Grow strawberries that hurt from small to large.
-[SUGGEST_TUTORIAL_DESCRIPTION]
-Need help picking plants? Reinforcement Choice allows you to gain powerful attackers, defenders or sun producers to help you win.
 
 [SUGGEST_TUTORIAL_TITLE]
 Intensify selection
@@ -44222,7 +45705,8 @@ Great value
 Purchase limit ^FF0000 {NUMBER} ^oldclr times
 
 [RECHARGEBUNDLE_ORIGINAL_PRICE]
-Original PRICE
+Old
+Price
 
 [RECHARGEBUNDLE_CAN_OBTAIN]
 Available at:
@@ -45918,81 +47402,6 @@ Plant Encyclopedia
 
 [PLANT_PEDIA_REWARD]
 Plant Encyclopedia Reward
-
-
-[ICELOTUS]
-Drip ice lotus
-
-[ICELOTUS_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} white plant
-{FLAVOR} Drip Ice Lotus As a member of the fire brigade, he has extreme enthusiasm for extinguishing fires. He cannot even tolerate a small amount of flames. He even has ice water on hand to cool down high-heat items.
-
-[ICELOTUS_DESCRIPTION_HEADER]
-Can extinguish plants lit by fireworks zombies, slowing zombies passing by.
-
-[ICELOTUS_TOOLTIP]
-Can extinguish plants lit by fireworks zombies, slowing zombies passing by.
-
-[ICELOTUS_PRODUCT_SHORT_DESC]
-Can extinguish plants lit by fireworks zombies, slowing zombies passing by.
-
-[STORE_PRODUCT_AVATAR_ICELOTUS]
-Can extinguish plants lit by fireworks zombies, slowing zombies passing by.
-
-[STORE_PRODUCT_AVATAR_ICELOTUS_TITLE]
-Dropwater Ice Lotus Costume
-
-[ICELOTUS_SKILL_LEVEL1]
-Increase the amount of water storage
-
-[ICELOTUS_SKILL_LEVEL1_DES]
-The number of sprinklers can be increased by 2
-
-[ICELOTUS_SKILL_LEVEL2]
-Pure water with ice
-
-[ICELOTUS_SKILL_LEVEL2_DES]
-Will freeze the zombies that gnaw at her
-
-[DENDROBIUMGUARD]
-Dendrobium parsnip
-
-[DENDROBIUMGUARD_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} Dendrobium Windproof Networks have always adhered to the front line of wind resistance to provide safe space for plant families behind them to avoid wind disasters.
-
-[DENDROBIUMGUARD_DESCRIPTION_HEADER]
-Can join forces to withstand strong winds.
-
-[DENDROBIUMGUARD_TOOLTIP]
-Can join forces to withstand strong winds.
-
-[DENDROBIUMGUARD_PRODUCT_SHORT_DESC]
-Can join forces to withstand strong winds.
-
-[STORE_PRODUCT_AVATAR_DENDROBIUMGUARD]
-Now the dendrobium of the joint defense will also be restored to life.
-
-[STORE_PRODUCT_AVATAR_DENDROBIUMGUARD_TITLE]
-Dendrobium Windproof Net Costume
-
-[DENDROBIUMGUARD_SKILL_LEVEL1]
-High-speed recovery
-
-[DENDROBIUMGUARD_SKILL_LEVEL1_DES]
-It is now possible to recover the blades on its own over time
-
-[DENDROBIUMGUARD_SKILL_LEVEL2]
-Speed Recovery
-
-[DENDROBIUMGUARD_SKILL_LEVEL2_DES]
-Recovery time shortened by 10 seconds
-
-[DENDROBIUMGUARD_SKILL_LEVEL5]
-Hand-off
-
-[DENDROBIUMGUARD_SKILL_LEVEL5_DES]
-When there are also blades, there is a probability of repelling the zombies when attacked
  
 
 [POMEGRANATE]
@@ -46081,44 +47490,6 @@ Gluttony
 [SNAPPEA_SKILL_LEVEL5_DES]
 There is a 50% probability that a normal attack will eat up to two zombies in one square before and after the target
 
-[ELECTRICITEA_DESCRIPTION_HEADER]
-Throwing a grenade causes damage to a zombie within a square
-
-[ELECTRICITEA_DESCRIPTION]
-{KEYWORD}Special: {STAT} Throwing a grenade will cause damage to zombies within one square
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} He is a military fan and loves to collect various military materials. One day he costume himself as a gunner and scared many plants on the street
-
-[ELECTRICITEA_TOOLTIP]
-Throwing a grenade causes damage to a zombie within a square
-
-[ELECTRICITEA_SKILL_LEVEL1]
-Blasting Specialists
-
-[ELECTRICITEA_SKILL_LEVEL1_DES]
-There is a 10% probability that the pieceation grenade will cause sputtering damage to surrounding zombies when it explodes.
-
-[ELECTRICITEA_SKILL_LEVEL2]
-Blasting Specialization
-
-[ELECTRICITEA_SKILL_LEVEL2_DES]
-Improve the blasting expert effect by 100%.
-
-[ELECTRICITEA_SKILL_LEVEL5]
-Fun Blasting
-
-[ELECTRICITEA_SKILL_LEVEL5_DES]
-There is a probability of releasing random grenade bombs, blasting bombs cause high damage to the enemy and have a probability of blowing up zombies. Flash bombs can cause a immersive effect on enemy units within the 3X3 range, and poison gas bombs can cause a 10-second poisoning effect on enemy units within the 3X3 range.
-
-[ELECTRICITEA_AVATAR_NAME]
-Mulberry blast Costume
-
-[STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
-Mulberry blast Costume
-
-[STORE_PRODUCT_AVATAR_ELECTRICITEA]
-There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
-
 [HEIAN_HEADER]
 Throwing a grenade causes damage to a zombie within a square
 
@@ -46164,49 +47535,6 @@ Phantom of the Thunder Dragon
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL5_DES]
 There is a probability that the thunder dragon phantom will fly out of the thunder dragon head. The thunder dragon phantom will emit lightning from the straight zombies, causing damage to the route and paralyzing it for 1 second.
-
-[CYPRIPEDIUM]
-Chef Pyo Lan
-
-[CYPRIPEDIUM_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} Chef Piaolan was once the premier top chef, and the soup he made was extremely delicious. Until one day he came into contact with a new recipe 《Moo City Cooking Essence》, and enshrined it in the holy scriptures, and his cooking began to produce surprising results.
-
-[CYPRIPEDIUM_DESCRIPTION_HEADER]
-Chef ladle orchid's soup will make the zombies take a detour.
-
-[CYPRIPEDIUM_TOOLTIP]
-Chef ladle orchid's soup will make the zombies take a detour.
-
-[CYPRIPEDIUM_PRODUCT_SHORT_DESC]
-Chef ladle orchid's soup will make the zombies take a detour.
-
-[CYPRIPEDIUM_AVATAR_NAME]
-Chef ladle orchid's soup will make the zombies take a detour.
-
-[STORE_PRODUCT_AVATAR_CYPRIPEDIUM]
-Zombies in the range are paralyzed for a while after plants food is launched.
-
-[STORE_PRODUCT_AVATAR_CYPRIPEDIUM_TITLE]
-Chef Pyo Ran Costume
-
-[CYPRIPEDIUM_SKILL_LEVEL1]
-Concentrated Cuisine
-
-[CYPRIPEDIUM_SKILL_LEVEL1_DES]
-There is a probability of firing a concentrated dish, so that the impact effect of the bullet becomes 1 grid range.
-
-[CYPRIPEDIUM_SKILL_LEVEL2]
-Stabilized process
-
-[CYPRIPEDIUM_SKILL_LEVEL2_DES]
-The probability of a concentrated dish is increased to 100%
-
-[CYPRIPEDIUM_SKILL_LEVEL5]
-New-style cuisine
-
-[CYPRIPEDIUM_SKILL_LEVEL5_DES]
-Newly created cuisine now brings poisoning effects to the bullet.
 
 [SLINGPEA]
 Pea mortar
@@ -46493,44 +47821,6 @@ Gold Cannonball
 [BEARBERRY_SKILL_LEVEL5_DES]
 There is a probability of shooting huge golden bear fruit shells, which attack all zombies along the way and repel small and medium-sized zombies
 
-[ELECTRICITEA]
-Electric Green Tea
-
-[ELECTRICITEA_DESCRIPTION]
-{KEYWORD}Usage: {STAT} can cause damage to all zombies within the 3X3 range. After being eaten by the zombies, it will also release high-damage lightning.
-{KEYWORD}Plant features: {STAT} 100,000 volts, green plants
-{FLAVOR} I want to be eaten, I need to be eaten! Electric green tea says. However, I am very happy that at that time I could shock nearby zombies!
-
-[ELECTRICITEA_DESCRIPTION_HEADER]
-Can cause damage to all zombies in the range of 3X3.
-
-[ELECTRICITEA_TOOLTIP]
-After being eaten by the zombies, high-energy lightning is released to eliminate nearby zombies.
-
-[ELECTRICITEA_SKILL_LEVEL1]
-Chain current
-
-[ELECTRICITEA_SKILL_LEVEL1_DES]
-There is a probability that the zombie will be charged with electric current when attacking, and will randomly eject to other zombies within the 3X3 range of the zombie, and can eject up to two zombies.
-
-[ELECTRICITEA_SKILL_LEVEL2]
-Current strengthening
-
-[ELECTRICITEA_SKILL_LEVEL2_DES]
-Increase the probability of 2 skill chain currents
-
-[STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
-Electric Green Tea Costume
-
-[STORE_PRODUCT_AVATAR_ELECTRICITEA]
-plants food also sputters out an arc in the 3X3 range when hitting the zombies, causing additional damage
-
-[ELECTRICITEA_SKILL_LEVEL5]
-Electric energy stirs
-
-[ELECTRICITEA_SKILL_LEVEL5_DES]
-There is a probability of turning the attack into a red high-energy lightning that paralyzes all zombies within the attack range for 3 seconds.
-
 [OLIVE]
 Olives
 
@@ -46549,393 +47839,11 @@ It can slip ballet zombies, and the oil produced can also be spotted by fire pla
 [OLIVE_AVATAR_NAME]
 It can slip ballet zombies, and the oil produced can also be spotted by fire plants.
 
-[GUMNUT]
-Eucalyptus mucus
-
-[GUMNUT_DESCRIPTION_HEADER]
-Stick the zombies in front of you and hinder them
-
-[GUMNUT_DESCRIPTION]
-{KEYWORD}Special: {STAT} glue all the zombies in the front square with chewing gum
-{KEYWORD}Plant features: {STAT} yellow plant
-{FLAVOR} I chew only zombie-flavored chewing gum mucus eucalyptus said.
-
-[GUMNUT_TOOLTIP]
-Glued all the zombies in the front square with chewing gum
-
-[GUMNUT_SKILL_LEVEL1]
-Charming Gum
-
-[GUMNUT_SKILL_LEVEL1_DES]
-There is a 20% chance that the zombies will be charmed (invalid for giant zombies) after the zombies have eaten the gum
-
-[GUMNUT_SKILL_LEVEL2]
-Charm-strengthening
-
-[GUMNUT_SKILL_LEVEL2_DES]
-The probability of upgrading 2 skills is 40%
-
-[GUMNUT_SKILL_LEVEL5]
-Poisonous Bubbles
-
-[GUMNUT_SKILL_LEVEL5_DES]
-Bubblegum's health increases. At the same time, bubblegum will turn into highly toxic bubblegum. After the zombies eat it, they will release highly toxic smoke after a 2-second standup, causing all the zombies behind them to be stunned for 5 seconds
-
-[GUMNUT_AVATAR_NAME]
-Mucinocarp Costume
-
-[STORE_PRODUCT_AVATAR_GUMNUT_TITLE]
-Mucinocarp Costume
-
-[STORE_PRODUCT_AVATAR_GUMNUT]
-The plants food will spit out 8 chewing gums
-
-[STRAWBURST_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR}big this? Little this? Rest assured, I'll throw them all in your face! I love my enemies just like I love bombs, because they are all about to explode!
-
-[STRAWBURST_DESCRIPTION_HEADER]
-Exploding strawberries can cause three different degrees of high damage
-
-[STRAWBURST_TOOLTIP]
-Exploding strawberries can cause three different degrees of high damage
-
-[STRAWBURST_PRODUCT_SHORT_DESC]
-Exploding strawberries can cause three different degrees of high damage
-
-[STRAWBURST_AVATAR_NAME]
-Exploding strawberries can cause three different degrees of high damage
-
-[STORE_PRODUCT_AVATAR_STRAWBURST]
-Exploding strawberries, summoned extra-large strawberries, when blasted, three small strawberries pop up, exploding again
-
-[STORE_PRODUCT_AVATAR_STRAWBURST_TITLE]
-Exploding Strawberry Costume
-
-[STRAWBURST_SKILL_LEVEL1]
-Rapid growth 1
-
-[STRAWBURST_SKILL_LEVEL1_DES]
-After firing the strawberry bomb, there is a probability that it will grow directly into a two-stage strawberry
-
-[STRAWBURST_SKILL_LEVEL2]
-Rapid growth 2
-
-[STRAWBURST_SKILL_LEVEL2_DES]
-After firing the strawberry bomb, there is a probability that it will grow directly into a three-stage strawberry
-
-[STRAWBURST_SKILL_LEVEL5]
-Puffing feast
-
-[STRAWBURST_SKILL_LEVEL5_DES]
-After the three-stage strawberry bomb fired by Exploding Strawberry explodes, strawberry jam will be left behind, which has a deceleration effect
-
-[POISONPEASHOOTER]
-Venom Pea Shooter
-
-[POISONPEASHOOTER_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} No one could have imagined that Venom Pea would make such a crazy move, not even he knew it. He's a madman in the eyes of plants, but in his own eyes, this is fashion. You know what he did? It's just doing exaggerated moves to make others laugh.
-
-[POISONPEASHOOTER_DESCRIPTION_HEADER]
-Venom Pea Shooter slows zombies and has poison-based damage
-
-[POISONPEASHOOTER_TOOLTIP]
-Venom Pea Shooter slows zombies and has poison-based damage
-
-[POISONPEASHOOTER_PRODUCT_SHORT_DESC]
-Venom Pea Shooter slows zombies and has poison-based damage
-
-[POISONPEASHOOTER_AVATAR_NAME]
-Venom Pea Shooter slows zombies and has poison-based damage
-
-[STORE_PRODUCT_AVATAR_POISONPEASHOOTER]
-Venomous pea shooter's poison balls form a poison channel that boils, causing higher damage
-
-[STORE_PRODUCT_AVATAR_POISONPEASHOOTER_TITLE]
-Venom Pea Costume
-
-[POISONPEASHOOTER_SKILL_LEVEL1]
-Use poison master
-
-[POISONPEASHOOTER_SKILL_LEVEL1_DES]
-The zombies are hit five times by Venom Pea, and the poison damage is superimposed and exploded once, causing higher damage, after which they are re-superimposed
-
-[POISONPEASHOOTER_SKILL_LEVEL2]
-Grandmaster Poison
-
-[POISONPEASHOOTER_SKILL_LEVEL2_DES]
-With only three hits, the poison damage can explode once
-
-[POISONPEASHOOTER_SKILL_LEVEL5]
-Venom bomb 
-
-[POISONPEASHOOTER_SKILL_LEVEL5_DES]
-There is a probability to fire pea bombs and cause damage to enemies in a straight line
-
 [PLANTING_VINE_MUST_BE_ON_A_PLANT]
 Vine plants must be planted with other plants!
 
 [PLANTING_VINE_CAN_NOT_PLANT_ON_COBCANNON]
 Vines cannot be planted on Cob Cannon.
-
-[OLIVEPIT]
-Olive Pit
-
-[OLIVEPIT_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}Short plant
-{FLAVOR} olive pit is buried deep underground. He has always had a wish to go to the spacecraft in Sky City once a day.
-
-[OLIVEPIT_DESCRIPTION_HEADER]
-The olive pit slows down a grid of zombies ahead and allows passing zombies to fall
-
-[OLIVEPIT_TOOLTIP]
-The olive pit slows down a grid of zombies ahead and allows passing zombies to fall
-
-[OLIVEPIT_PRODUCT_SHORT_DESC]
-The olive pit slows down a grid of zombies ahead and allows passing zombies to fall
-
-[OLIVEPIT_AVATAR_NAME]
-The olive pit slows down a grid of zombies ahead and allows passing zombies to fall
-
-[STORE_PRODUCT_AVATAR_OLIVEPIT]
-Can shoot down flying zombies within the 3X3 range and attract them into the tunnel
-
-[STORE_PRODUCT_AVATAR_OLIVEPIT_TITLE]
-Olive Pit Costume
-
-[OLIVEPIT_SKILL_LEVEL1]
-Digestive strengthening
-
-[OLIVEPIT_SKILL_LEVEL1_DES]
-The number of zombies that can be digested at one time in the olive pit changes from 2 to 3, and the digestion time is reduced by 10 seconds
-
-[OLIVEPIT_SKILL_LEVEL2]
-Tunnel strengthening
-
-[OLIVEPIT_SKILL_LEVEL2_DES]
-The number of zombies that can be digested at one time in the olive pit changes from 3 to 4, and the digestion time is reduced by another 10 seconds
-
-[OLIVEPIT_SKILL_LEVEL5]
-Wrapping 
-
-[OLIVEPIT_SKILL_LEVEL5_DES]
-When the olive pit enters the digestive state, it will wrap its feet around a passing giant zombie, flying zombie and vehicle zombie for 5 seconds
-
-[POKRA]
-Spiky okra
-
-[POKRA_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} You need to know that spiked okra is a bad temper. Although the matchflower boxer may not be convinced, she relies on the skills of left and right fighting each other, but she has been recognized by the three masters of vegetables, caiwen, but she relies on some small methods.
-
-[POKRA_DESCRIPTION_HEADER]
-The spiked okra becomes stronger as it fights, slowing down with stingers and injuring zombies
-
-[POKRA_TOOLTIP]
-The spiked okra becomes stronger as it fights, slowing down with stingers and injuring zombies
-
-[POKRA_PRODUCT_SHORT_DESC]
-The spiked okra becomes stronger as it fights, slowing down with stingers and injuring zombies
-
-[POKRA_AVATAR_NAME]
-The spiked okra becomes stronger as it fights, slowing down with stingers and injuring zombies
-
-[STORE_PRODUCT_AVATAR_POKRA]
-Stinger bullets generate poison mist paths to harm zombies
-
-[STORE_PRODUCT_AVATAR_POKRA_TITLE]
-Spiky okra Costume
-
-[POKRA_SKILL_LEVEL1]
-Spike combo
-
-[POKRA_SKILL_LEVEL1_DES]
-There is a 20% probability of swinging the double prick for a high-speed puncture combo when attacking
-
-[POKRA_SKILL_LEVEL2]
-Double threat
-
-[POKRA_SKILL_LEVEL2_DES]
-Increase the probability of spike combo by 100%
-
-[POKRA_SKILL_LEVEL5]
-Two-fingered gun throat
-
-[POKRA_SKILL_LEVEL5_DES]
-There is a 15% probability after the attack that Okra's next attack will quickly launch a stab forward, followed by a direct release of the penetrating bullet, and return to the initial attack speed.
-
-[HYDROCOTYLEDRUMMER]
-Copper-money grass drummer
-
-[HYDROCOTYLEDRUMMER_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} was ridiculed when he returned to the background. He cried and fell asleep that night, but when he got up the next morning, what did he do? Practice, practice, or practice, he has only one goal in his heart and can no longer be laughed at by anyone. He returned to the anniversary stage seven years later, knocking out the most beautiful solo ever.
-
-[HYDROCOTYLEDRUMMER_DESCRIPTION_HEADER]
-Copper-money grass drummers bring a lot of attribute enhancements to plants, especially the orchestra
-
-[HYDROCOTYLEDRUMMER_TOOLTIP]
-Copper-money grass drummers bring a lot of attribute enhancements to plants, especially the orchestra
-
-[HYDROCOTYLEDRUMMER_PRODUCT_SHORT_DESC]
-Copper-money grass drummers bring a lot of attribute enhancements to plants, especially the orchestra
-
-[HYDROCOTYLEDRUMMER_AVATAR_NAME]
-Copper-money grass drummers bring a lot of attribute enhancements to plants, especially the orchestra
-
-[STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
-It can bring 40% attack power and 35% attack speed to the on-site band plants (trumpet flower, tulip trumpeter, magic beet, banana dancer, ghost pepper), and the remaining plants can increase attack and attack speed by 25
-
-[STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
-Copper-money grass drummer costume
-
-[HYDROCOTYLEDRUMMER_SKILL_LEVEL1]
-Big Band
-
-[HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
-It brings a 25% increase in attack power and attack speed to the orchestra plants planted nearby (trumpet flower, tulip trumpeter, magic beet, banana dancer, ghost pepper)
-
-[HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
-Orchestra Rave
-
-[HYDROCOTYLEDRUMMER_SKILL_LEVEL2_DES]
-Bringing higher attribute improvements to band plants, increasing attack power by 35% and attack speed by 30
-
-[HYDROCOTYLEDRUMMER_SKILL_LEVEL5]
-Healing Voice
-
-[HYDROCOTYLEDRUMMER_SKILL_LEVEL5_DES]
-10% of the plant's health is restored every 15 seconds, disposable plants do not take effect
-
-[BROMELBLADE]
-Pineapple Chain Blade
-
-[BROMELBLADE_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} yellow plant
-{FLAVOR} rock paper scissors? What's the new way to duel? For Pineapple Chain Blade, everything around you is so boring, singing, dancing, fighting zombies? Those are vulgar plant-dried things. What he was after was a hearty fight. Hey! You! Right, just that two fist cabbage! Let's fight! But what he didn't know was that the plants he provoked were not just the cabbage in front of him, but the apprentices under him. If they besieged it, they thought he would be defeated. However, in the end, the battle ended in a tie, after all, the garden pays attention to peace and does not advocate nest fighting.
-
-[BROMELBLADE_DESCRIPTION_HEADER]
-Pineapple chain blades use the chain blades on their hands, causing a lot of damage to zombies.
-
-[BROMELBLADE_TOOLTIP]
-Pineapple chain blades use the chain blades on their hands, causing a lot of damage to zombies.
-
-[BROMELBLADE_PRODUCT_SHORT_DESC]
-Pineapple chain blades use the chain blades on their hands, causing a lot of damage to zombies.
-
-[BROMELBLADE_AVATAR_NAME]
-Pineapple chain blades use the chain blades on their hands, causing a lot of damage to zombies.
-
-[STORE_PRODUCT_AVATAR_BROMELBLADE]
-The plants food of the pineapple chain blade will be extended to the range of 3X4.
-
-[STORE_PRODUCT_AVATAR_BROMELBLADE_TITLE]
-Pineapple Chainblade Costume
-
-[BROMELBLADE_SKILL_LEVEL1]
-Xun Light Chain Attack
-
-[BROMELBLADE_SKILL_LEVEL1_DES]
-There is a certain probability (20%) that the ordinary attack of the pineapple chain blade will charge its strength and slash forward to cause the zombies to have a short pause
-
-[BROMELBLADE_SKILL_LEVEL2]
-Quick Blade
-
-[BROMELBLADE_SKILL_LEVEL2_DES]
-100% effect of upgrading 2 skills%
-
-[BROMELBLADE_SKILL_LEVEL5]
-Slash
-
-[BROMELBLADE_SKILL_LEVEL5_DES]
-There is a probability (50%) that the pineapple chain blade will be hit under trigger, and then another move will be taken later. Pineapple will plunge the chain blade into the ground, then inflict damage on zombies in the 1x3 range and knock them away for some distance
-
-[ELEOCURLING]
-Water Chestnut Brothers
-
-[ELEOCURLING_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} The water chestnut brothers are still the favorites to win the curling event in this year's Winter Games. Their unique skill is to knock out all the curling of other players at the end, leaving only their own, and walk all the roads to leave others with no way out.
-
-[ELEOCURLING_DESCRIPTION_HEADER]
-Damage is done to the zombies by the impact between curls, and an ice channel is generated to slow it down
-
-[ELEOCURLING_TOOLTIP]
-Damage is done to the zombies by the impact between curls, and an ice channel is generated to slow it down
-
-[ELEOCURLING_PRODUCT_SHORT_DESC]
-Damage is done to the zombies by the impact between curls, and an ice channel is generated to slow it down
-
-[ELEOCURLING_AVATAR_NAME]
-Damage is done to the zombies by the impact between curls, and an ice channel is generated to slow it down
-
-[STORE_PRODUCT_AVATAR_ELEOCURLING]
-Extend the ice passage
-
-[STORE_PRODUCT_AVATAR_ELEOCURLING_TITLE]
-Water Chestnut Brothers Costume
-
-[ELEOCURLING_SKILL_LEVEL1]
-Ice track speed skating
-
-[ELEOCURLING_SKILL_LEVEL1_DES]
-Increases the probability that a normal attack will produce an ice channel
-
-[ELEOCURLING_SKILL_LEVEL2]
-Quick generation
-
-[ELEOCURLING_SKILL_LEVEL2_DES]
-Reduce the time of rebirth in curling
-
-[ELEOCURLING_SKILL_LEVEL5]
-Curling Yuheng
-
-[ELEOCURLING_SKILL_LEVEL5_DES]
-There is a probability of generating a curling wrapped in ice fog, which will cause damage to zombies in a one-square range, the second curling will not disappear after hitting a unit, and can be hit by the next curling.
-
-[ELAEOCARPUS]
-Elaeocarpus
-
-[ELAEOCARPUS_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} white plant
-{FLAVOR} Pitcher Du Ying is a national level 1 athlete. Every time he encounters a new plant, Du Ying will ask them: Life lies in sports. Do you want to play badminton with me?
-
-[ELAEOCARPUS_DESCRIPTION_HEADER]
-When zombies are in the distance, they fire ejection bullets, killing low-blood zombies instantly at close range
-
-[ELAEOCARPUS_TOOLTIP]
-When zombies are in the distance, they fire ejection bullets, killing low-blood zombies instantly at close range
-
-[ELAEOCARPUS_PRODUCT_SHORT_DESC]
-When zombies are in the distance, they fire ejection bullets, killing low-blood zombies instantly at close range
-
-[ELAEOCARPUS_AVATAR_NAME]
-When zombies are in the distance, they fire ejection bullets, killing low-blood zombies instantly at close range
-
-[STORE_PRODUCT_AVATAR_ELAEOCARPUS]
-The little whirlwind of plants food can move a whole line
-
-[STORE_PRODUCT_AVATAR_ELAEOCARPUS_TITLE]
-Elaeocarpus Costume
-
-[ELAEOCARPUS_SKILL1_LEVEL1]
-Distance training
-
-[ELAEOCARPUS_SKILL1_LEVEL1_DES]
-The distance of the smash was changed from 3 to 4 squares
-
-[ELAEOCARPUS_SKILL1_LEVEL2]
-Strength training
-
-[ELAEOCARPUS_SKILL1_LEVEL2_DES]
-The smash ball's range of hits changes from one zombie to one square
-
-[ELAEOCARPUS_SUPERSKILL_NAME]
-Smashing Specialization 
-
-[ELAEOCARPUS_SUPERSKILL_DES]
-The flash HP limit for smash kills was increased from 40% to 50%
 
 [PROTECT_DUMPLING_CHALLENGE_FAILED_TEXT]
 The hot dumplings were eaten by the zombies!
@@ -47669,47 +48577,6 @@ Flat-roofed mushrooms can block sewer holes in the ground.
 
 [FLATTENEDSHROOM_TOOLTIP]
 Planting him in a well hole can block steam
-
-[MULBERRY]
-Mulberry Blaster
-
-[MULBERRY_DESCRIPTION_HEADER]
-Throwing a grenade causes damage to a zombie within a square
-
-[MULBERRY_DESCRIPTION]
-{KEYWORD}Special: {STAT} Throwing a grenade will cause damage to zombies within one square
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} He is a military fan and loves to collect various military materials. One day he costume himself as a gunner and scared many plants on the street
-
-[MULBERRY_TOOLTIP]
-Throwing a grenade causes damage to a zombie within a square
-
-[MULBERRY_SKILL_LEVEL1]
-Blasting Specialists
-
-[MULBERRY_SKILL_LEVEL1_DES]
-There is a 10% probability that the pieceation grenade will cause sputtering damage to surrounding zombies when it explodes.
-
-[MULBERRY_SKILL_LEVEL2]
-Blasting Specialization
-
-[MULBERRY_SKILL_LEVEL2_DES]
-Improve the blasting expert effect by 100%.
-
-[MULBERRY_SKILL_LEVEL5]
-Fun Blasting
-
-[MULBERRY_SKILL_LEVEL5_DES]
-There is a probability of releasing random grenade bombs, blasting bombs cause high damage to the enemy and have a probability of blowing up zombies. Flash bombs can cause a immersive effect on enemy units within the 3X3 range, and poison gas bombs can cause a 10-second poisoning effect on enemy units within the 3X3 range.
-
-[MULBERRY_AVATAR_NAME]
-Mulberry blast Costume
-
-[STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
-Mulberry blast Costume
-
-[STORE_PRODUCT_AVATAR_MULBERRY]
-There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
 
 [CONVALLARIACHEMIST]
 Lily of Pharmacy
@@ -50118,7 +50985,7 @@ Event Content:
 4. When there are no remaining gold cans, the rewards will automatically reset, with a limit on the number of resets.
 
 [ANNIVERSART_TREASURE_SHORT_DESCRIPTION]
-Come treasure hunt and hide the grand prize there! Get ^00FF00^Rare Plants^oldclrrOh!
+CJoin the treasure hunt! Get ^00FF00^ Rare Plants ^oldclr Oh!
 
 [NOVICESEVENDAYS]
 Seven-day Guide
@@ -51210,9 +52077,6 @@ Electric blueberry attack speed increased {Param_1}%
 [GENE_DESCRIPTION_SLINGPEA]
 Pea mortar ejection pea damage increased {Param_1}%, bomb pea damage increased{Param_2}%
 
-[GENE_DESCRIPTION_ELAEOCARPUS]
-The health of the zombies that Du Ying can kill when a pitcher smashes increases by {Param_1}%
-
 [GENE_DESCRIPTION_HOTDATE]
 Hot spicy date planting cooling time shortened {Param_1}%
 
@@ -51243,12 +52107,6 @@ Supercapable cauliflower planting cooling time shortened {Param_1}%
 [GENE_DESCRIPTION_MAGICSHROOM]
 There is a {Param_1}% probability of summoning an additional zombie when summoning a zombie in Magic Mushroom Ultimate
 
-[GENE_DESCRIPTION_MULBERRY]
-The probability of a mulberry blaster throwing a gas bomb increases {Param_1}% (effective after level 5)
-
-[GENE_DESCRIPTION_OLIVEPIT]
-Olive pit closure time reduced {Param_1} seconds
-
 [GENE_DESCRIPTION_BEARBERRY]
 The bear fruit mortar's ultimate move has a {Param_1}% probability of getting stuck and firing an extra shell in one random direction to the right
 
@@ -51276,9 +52134,6 @@ The probability of not disappearing after the Squash attack and returning to the
 [GENE_DESCRIPTION_GATLINGPEA]
 The Gatling Peas retains the auxiliary machine gun after plants food and fires 6 additional rounds of ammunition into each of the 3 rows on the right at each attack, which ends after {Param_1} attacks
 
-[GENE_DESCRIPTION_ICELOTUS]
-Dripping ice lotus pool duration extended {Param_1}%
-
 [GENE_DESCRIPTION_GOLDLEAF]
 Golden leaf planting cooling time shortened {Param_1}%
 
@@ -51287,9 +52142,6 @@ The damage of the ionized anthurium large electric ball increases by {Param_1}%
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
 The probability of the guided thistle firing two bullets in succession increases {Param_1}% (effective after order 2)
-
-[GENE_DESCRIPTION_HYDROCOTYLEDRUMMER]
-The attack power and attack speed increase effect provided by the copper coin grass drummer for the orchestra's plants has increased {Param_1}%
 
 [BATTLE_ORDER_AUTUMN]
 Autumn Adventure
@@ -51385,9 +52237,6 @@ Activate Premium Privileges
 4. 150 diamonds.
 
 [BATTLE_ORDER_SELECT_TITLE]
-Pieces Choose One of Five
-
-[BATTLE_ORDER_SELECT_TITLE_]
 Pieces Choose One of Five
 
 [BATTLE_ORDER_SELECT_DESCRIPTION]
@@ -53689,12 +54538,6 @@ Formerly Aoi Ha Mudu Costume
 [NEW_AVATAR_DESCRIPTION_PRIMALSUNFLOWER_2]
 Cultivation cooling is reduced by 15%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ICELOTUS_1]
-Dripping ice lotus linkage costume
-
-[NEW_AVATAR_DESCRIPTION_ICELOTUS_1]
-10% reduction in planting cooling time%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAGONROAR_1]
 Dragon Roar Grass Linked Costume
 
@@ -53753,12 +54596,6 @@ Flame damage increased by 20%
 Mistletoe Ice Fairy Anniversary Costume
 
 [NEW_AVATAR_DESCRIPTION_MISSILETOE_2]
-Cultivation cooling is reduced by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_2]
-Elaeocarpus Anniversary Costume
-
-[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
 Cultivation cooling is reduced by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CELERYSTALKER_1]
@@ -53975,12 +54812,6 @@ Cattail Small Express Carton
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_1]
 The probability of occurrence of electro-shock needle prick is increased by 10% (effective only for plants above order 2)
 
-[NEW_AVATAR_SHORT_DESCRIPTION_POKRA_1]
-Spiked okra doll wig
-
-[NEW_AVATAR_DESCRIPTION_POKRA_1]
-The probability of high-speed puncture combo is increased by 10% during attack (only effective for plants above order 2)
-
 [NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_1]
 Angel Star Fruit Glasses
 
@@ -53999,12 +54830,6 @@ Eggplant Ninja Christmas Costume
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_1]
 The probability of an exploding dart on basic attack increases by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_1]
-Water Chestnut Brothers Costume for the Year of the Tiger
-
-[NEW_AVATAR_DESCRIPTION_ELEOCURLING_1]
-Attack power increased by 8%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_1]
 Apple Mortar Year of the Tiger Costume
 
@@ -54016,18 +54841,6 @@ Cactus Party Support Outfit
 
 [NEW_AVATAR_DESCRIPTION_CACTUS_1]
 Level 2r skill probability boost
-
-[NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_1]
-Chef Pyo Lan Liu Yi Costume
-
-[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_1]
-Attack speed increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_1]
-Du Ying pitcher June 1st Costume
-
-[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_1]
-Pu attack badminton catapulted 1 more time
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_1]
 Guide thistle June 1st Costume
@@ -54046,20 +54859,7 @@ Cannibal Flower Growth Costume
 
 [NEW_AVATAR_DESCRIPTION_SNAPPEA_1]
 Cultivation cooling is reduced by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_1]
-Mulberry Blaster Anniversary Costume
-
-[NEW_AVATAR_DESCRIPTION_MULBERRY_1]
-Attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_2]
-Mulberry growth Packaging
-
-[NEW_AVATAR_DESCRIPTION_MULBERRY_2]
-10% reduction in planting cooling%
  
-
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
 Bear Fruit Mortar Anniversary Costume
 
@@ -54083,30 +54883,6 @@ Little Spray Mushroom Anniversary costume
 
 [NEW_AVATAR_DESCRIPTION_PUFFSHROOM_1]
 Attack power increased by 15%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_2]
-Water Chestnut Brothers Grow Up Costume
-
-[NEW_AVATAR_DESCRIPTION_ELEOCURLING_2]
-Attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
-Chef Pyo Ran grows up dressing up
-
-[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
-Attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_1]
-Olive Pit Grow Up Costume
-
-[NEW_AVATAR_DESCRIPTION_OLIVEPIT_1]
-Cultivation cooling is reduced by 20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
-Olive Pit Glasses
-
-[NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
-Rest time reduced by 5s
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_2]
 Apple Mortar Grow Costume
@@ -54137,12 +54913,6 @@ Double Gun Pinecone Year of the Rabbit Costume
 
 [NEW_AVATAR_DESCRIPTION_PINECONE_1]
 Attack speed increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_1]
-Copper Money Grass Drummer Year of the Rabbit Costume
-
-[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_1]
-Cultivation cooling is reduced by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_1]
 Lily of Pharmacy Growth costume
@@ -54632,7 +55402,7 @@ Normal sign-in
 Luxury sign-in
 
 [RECHARGE_DAILYSIGN_ACTIVITY_GOT]
-Received
+Claimed
 
 [DISCOUNT_SHOP_ACTIVITY_DESC]
 During the event period, June 1 - June 10, recharge any amount of diamonds daily to unlock discounted items from the daily prize pool.
@@ -68357,7 +69127,7 @@ Current
 Next Level  
 
 [CORNUCOPIA_NEXT_LEVEL_DESC]
-{NUMS} Growth Points needed for the next level. Earn Growth Points by recharging or completing tasks.  
+{NUMS} to next level, earn by recharge or complete tasks.
 
 [CORNUCOPIA_GACHA_TIPS_DESC]
 You can win a grand prize of up to 5000 Diamonds in a single draw!  
@@ -68541,10 +69311,10 @@ No. 301-500: Diamondx{NUM}
 Each person in the ranking range will receive ^08FF20^0.1%^oldclrr of the total prize pool (at least 80 draws)
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_ANDROID]
-Ranked according to the number of individual draws, the higher the ranking, the more prizes will be divided
+Ranked by draws, higher rank = bigger rewards.
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_IOS]
-Ranked according to the number of individual draws, the higher the ranking, the more prizes will be divided
+Ranked by draws, higher rank = bigger rewards.
 
 [CORNUCOPIA_GIFT_GACHA_COUNT_TITLE]
 Draw Attempts: {NUMS}
@@ -68556,7 +69326,7 @@ Diamonds available: {NUMS}
 Draw {NUMS} times
 
 [CORNUCOPIA_GIFT_RANK_DUMMY_TITLE]
-Void
+Position Pending
 
 [SHOP_NO_LIMIT_BUYTIME_TITLE]
 Purchase Limit: no limit
@@ -71402,27 +72172,6 @@ When fed Plant Food, Lily of Pharmacy lobs five powerful flowers at random zombi
 [CONVALLARIACHEMIST_AVATAR_PLANTFOOD_DESCRIPTION]
 When fed Plant Food, Lily of Pharmacy ^FFFF00throwing more powerful flowers that gives the zombies 3 layers of poison.^oldclrr
 
-[MULBERRY_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the Mulberry Blaster, it fires a grenade that hits the zombie and causes 500 blast damage to the zombie in a small range.
-
-[MULBERRY_NEW_SKILL_LEVEL2_DES]
-There is a 10% probability that Mulberry Blaster will fire pieceation grenades when attacking, causing 750 explosion damage to the surrounding 3x3 zombies.
-
-[MULBERRY_NEW_SKILL_LEVEL3_DES]
-The triggering probability of the blasting expert's skill is increased by 100%, and there is a 10% probability of firing a pieceation grenade when attacking, and the explosion damage is increased to 1000 points.
-
-[MULBERRY_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[MULBERRY_NEW_SKILL_LEVEL5_DES]
-There is a 4% probability of throwing gas bombs, causing the surrounding 3x3 zombies to enter a ^701edf^poisoning Ⅰ^oldclrr state that lasts for 10 seconds and causes 20% damage to the zombie's health per second. There is a 12% probability of throwing a flash bomb, causing the surrounding 3x3 zombies to stun for 2 seconds. There is a 4% probability of throwing explosive bombs, causing high damage to zombies and a probability of blowing up small and medium-sized zombies in a small area.
-
-[MULBERRY_PLANTFOOD_DESCRIPTION]
-The Mulberry Blaster summons multiple grenade bombs at a time and continuously throws 6 grenade bombs at the full-screen zombie, causing blast damage to the zombie.
-
-[MULBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
-The Mulberry Blaster summons multiple grenade bombs at a time, continuously throws 7 grenade bombs at the full-screen zombie and adds 1 large grenade ^oldclrr, causing explosion damage to the zombie.
-
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side of the electric pea, it fires a straight-line electric pea that penetrates all zombies to cause damage and sputter damage that doubles the hit damage to up to 2 zombies around it.
 
@@ -71737,27 +72486,6 @@ The winter melon guard will take off three times in a row. The first time will s
 [WAXGOURD_AVATAR_PLANTFOOD_DESCRIPTION]
 The winter melon guard will take off three times in a row. The first time will shock a zombie on the right side, the second time will shock 3x3 zombies around it, and the third time will shock 3x3 zombies around it. ^ff0000Cause additional range damage each time. ^oldclrr
 
-[ELECTRICITEA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in 3x3 around Electric Green Tea, lightning is released to cause damage to all zombies in the 3x3 range. After being gnawed by a zombie, lightning will also be released to instantly kill the zombie, and thunderclouds will be generated to release chain lightning.
-
-[ELECTRICITEA_NEW_SKILL_LEVEL2_DES]
-There is a 45% probability that the zombie will be charged with electricity when attacking, and will randomly eject other zombies within 3x3 range around the zombie, and can eject up to two zombies.
-
-[ELECTRICITEA_NEW_SKILL_LEVEL3_DES]
-Increase the trigger probability of chain current, and there is a 60% probability of bringing current to the zombies when attacking.
-
-[ELECTRICITEA_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[ELECTRICITEA_NEW_SKILL_LEVEL5_DES]
-There is a 20% probability of releasing a red high-energy lightning with 150 points of damage when attacking, paralyzing all zombies within the attack range^ff9600^Ⅰ^oldclrr3 seconds.
-
-[ELECTRICITEA_PLANTFOOD_DESCRIPTION]
-Electric Green Tea is fully charged with electric energy and randomly emits 5 consecutive currents to the zombies on the field, causing lightning damage to the zombies.
-
-[ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Electric Green Tea is fully charged with electric energy, randomly emits 5 consecutive currents from zombies on the field, causing lightning damage to zombies^ff0000 and comes with arc diffusion damage in the 3x3 range. ^oldclrr
-
 [OLIVE_NEW_SKILL_LEVEL1_DES]
 After planting, olive oil is left on the plot within the attack range for 5 seconds, and a flame-like attack can ignite the olive oil, causing the zombies on it to suffer 100 points of damage per second for 6 seconds. ^ff0000It has miraculous effects on ballet zombies! ^oldclrr
 
@@ -71766,255 +72494,6 @@ This plant does not have an plants food effect
 
 [OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
 This plant does not have an plants food effect 
-
-[STRAWBURST_NEW_SKILL_LEVEL1_DES]
-Tap on the plant to launch strawberries at the zombies and cause damage, which increases with the growth stage and the target of the attack. Small strawberries take 5 seconds to grow, medium strawberries another 10 seconds, and large strawberries another 15 seconds. The zombies explode immediately when they touch their bodies.
-
-[STRAWBURST_NEW_SKILL_LEVEL2_DES]
-After firing a strawberry bomb, there is a 25% probability of growing directly into a medium strawberry.
-
-[STRAWBURST_NEW_SKILL_LEVEL3_DES]
-After firing a strawberry bomb, there is a 20% probability of growing directly into a large strawberry.
-
-[STRAWBURST_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[STRAWBURST_NEW_SKILL_LEVEL5_DES]
-After a strawberry bomb explodes, strawberry jam corresponding to the attack range will be left, slowing down the passing zombies. The strawberry jam for small and medium strawberries lasts for 2 seconds, and the strawberry jam for large strawberries lasts for 4 seconds.
-
-[STRAWBURST_PLANTFOOD_DESCRIPTION]
-Exploding Strawberry summons 1 giant strawberry, and the explosion causes damage to the full-screen zombies. Grow into a big strawberry instantly on your own.
-
-[STRAWBURST_AVATAR_PLANTFOOD_DESCRIPTION]
-Explosive Strawberry summons a giant strawberry, and the explosion causes damage to the full-screen zombies. ^ff0000 After exploding, three small strawberries will pop up and explode again. ^oldclrrI immediately grew into a big strawberry.
-
-[POISONPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the Venom Pea shooter, Venom Pea is emitted to cause damage to the zombie, with an additional deceleration with 1 layer of toxin for 5 seconds. Each layer of toxin causes 5 times the attack power per second^701edf^poisoningⅠ^oldclrr damage, with an upper limit of 5 layers.
-
-[POISONPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-For every 5 hits by Venom Pea, a zombie will explode with toxins superimposed once, causing 300 damage points.
-
-[POISONPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Venom Pea Shooter's poison technique is improved. Each time he hits 3 times, he can superimpose toxins and explode once, causing 450 points of damage.
-
-[POISONPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[POISONPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-There is a 10% probability of firing 5 rounds of Venom Pea in a row at the time of attack, causing 36 points of damage and sputtering a single grid.
-
-[POISONPEASHOOTER_PLANTFOOD_DESCRIPTION]
-The Venom Pea Shooter accumulates a large amount of venom, firing a giant Venom Pea to cause damage and repel the entire row of zombies, and leaving a poison path to slow down all zombies.
-
-[POISONPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-The Venom Pea shooter accumulates a large amount of venom, fires a huge Venom Pea, causes higher damage and repulses to the entire row of zombies, and leaves a boiling poison path to slow down all zombies.
-
-[ELAEOCARPUS_NEW_SKILL_LEVEL1_DES]
-When the zombie appears on the right side 3 squares, a high ball is played, which catapults once after hitting the zombie. When a zombie appears within 3 squares on the right side, it plays a smash serve that can kill less than 40% of the health in an instant, increasing the damage to 120 and the attack interval to 2.9 seconds.
-
-[ELAEOCARPUS_NEW_SKILL_LEVEL2_DES]
-The Elaeocarpus changed the range of attack for smash serve from 3 to 4 squares through distance training.
-
-[ELAEOCARPUS_NEW_SKILL_LEVEL3_DES]
-The Elaeocarpus changed the target of the attacking fan that smashed the serve from a single body to a single grid through strength training.
-
-[ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[ELAEOCARPUS_NEW_SKILL_LEVEL5_DES]
-The smashing technique of Du Ying pitchers has been further improved, and smashing serves can instantly kill zombies with less than 50% health.
-
-[ELAEOCARPUS_PLANTFOOD_DESCRIPTION]
-The Elaeocarpus temporarily changes the attack mode and will hit a laterally spinning ball, generating a cyclone that causes multiple injuries in a row after hitting the zombie, and the cyclone moves 1 square.
-
-[ELAEOCARPUS_AVATAR_PLANTFOOD_DESCRIPTION]
-Pitcher Du Ying temporarily changes his attack mode and will hit a laterally spinning ball, generating a cyclone that causes multiple injuries in a row after hitting the zombie. The cyclone moves ^ff00001 for the entire line. ^oldclrr
-
-[ELEOCURLING_NEW_SKILL_LEVEL1_DES]
-When a zombie appears, it will knock out the curling brother. After hitting the zombie, it will cause damage and repel. There is a 50% probability of leaving the ice path. Then the curling brother will turn right to cause 1.25 times the damage or knock out the curling brother. Damage to the entire row of zombies and extend the ice path. A 5-second break was then entered.
-
-[ELEOCURLING_NEW_SKILL_LEVEL2_DES]
-The skill of the water chestnut brothers in controlling the ice channel has been improved, and the probability of producing the ice channel has been increased to 75%.
-
-[ELEOCURLING_NEW_SKILL_LEVEL3_DES]
-The Water Chestnut Brothers were able to regain generation faster, with the rest time reduced to 3 seconds.
-
-[ELEOCURLING_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[ELEOCURLING_NEW_SKILL_LEVEL5_DES]
-There is a 50% probability of launching a curling wrapped in ice mist, which will cause damage to zombies in a single grid range. The curling brother does not disappear after hitting the unit, and can be hit by the next curling brother and penetrate to cause 600 damage.
-
-[ELEOCURLING_PLANTFOOD_DESCRIPTION]
-The Water Chestnut Brothers merge into a large curling, and turn right to inflict penetrating damage on the entire row of zombies, knocking off small and medium-sized zombies. It will leave an ice path that lasts for 5 seconds, slowing down passing zombies
-
-[ELEOCURLING_AVATAR_PLANTFOOD_DESCRIPTION]
-The Water Chestnut Brothers merge into a large curling, and turn right to inflict penetrating damage on the entire row of zombies, knocking off small and medium-sized zombies. It will leave ^ff0000 an ice path that lasts for 10 seconds^oldclrr, slowing down the passing zombies.
-
-[POKRA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears, a puncture attack is performed, causing damage to all zombies and slowing down. On continuous attack, an additional puncture attack is added to the next attack, and when an additional 3 puncture attacks are added, an additional 4-fold damage, a stinger bullet penetrating the entire row, and a 3-second break is entered.
-
-[POKRA_NEW_SKILL_LEVEL2_DES]
-There is a 20% probability of swinging the double prick for a high-speed puncture combo during the attack, causing 2 damage 5 times the attack power.
-
-[POKRA_NEW_SKILL_LEVEL3_DES]
-Increase the probability of spike combo by 100%.
-
-[POKRA_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[POKRA_NEW_SKILL_LEVEL5_DES]
-Spiked okra has a 15% probability of spikes glowing after each complete round of attack, firing 2 Stinger bullets in a row, and attacking from the initial initial attack speed.
-
-[POKRA_PLANTFOOD_DESCRIPTION]
-Spiky Okra immediately fires 3 large stinger bullets that penetrate the entire row, causing damage to all zombies and attaching the ^701edf^poisoningⅠ^oldclrr effect. The number of Stinger bullets increases with order: 4 are fired in order 2, 5 in order 3 and 4, and 6 in order 5.
-
-[POKRA_AVATAR_PLANTFOOD_DESCRIPTION]
-Spiky Okra immediately fires three large stinger bullets that penetrate the entire row, causing damage to all zombies and attaching the ^701edf^poisoningⅠ^oldclrr effect, ^ff0000 and leaving a poisonous mist on the path that continues to cause damage. ^oldclrrThe number of Stinger bullets increases with the order: 4 bullets are fired in the 2nd order, 5 bullets are fired in the 3rd and Level 4, and 6 bullets are fired in the 5th order.
-
-[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL1_DES]
-Beat the drum every 15 seconds to bring 10% attack and attack speed bonus to plants in the surrounding 3x3 range, and defense plants recover 10% health. The orchestra plants (trumpet flower, tulip trumpeter, magic beet, banana dancer, ghost pepper) increase the attack and attack speed bonus by an additional 5.
-
-[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL2_DES]
-The attack and attack speed bonus is increased to 15%, the health recovery is increased to 15%, and the additional increase of the orchestra plant is increased to 10%.
-
-[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL3_DES]
-The attack and attack speed bonus is increased to 20%, the health recovery is increased to 20%, and the orchestra plant is increased by an additional 15% attack power bonus and 10% attack speed bonus.
-
-[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL5_DES]
-An additional 10% of health is restored to all plants in the range when the drum is played
-
-[HYDROCOTYLEDRUMMER_PLANTFOOD_DESCRIPTION]
-Make zombies stun for 2 seconds, bring 20% attack and attack speed bonus to all plants, restore 20% health of defensive plants, increase the band's plant growth to 35% attack and attack speed bonus, and last for 14 seconds.
-
-[HYDROCOTYLEDRUMMER_AVATAR_PLANTFOOD_DESCRIPTION]
-Make zombies stun for 2 seconds, bring ^ff000025% attack and attack speed bonus to all plants, restore 25% health points to defensive plants, and increase the band's plant growth to 40% attack bonus^oldclrr and 35% attack speed bonus, lasting 14 seconds.
-
-[BROMELBLADE_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side, it causes 2 damage to all zombies in the range by wielding the chain blade continuously. After 3 attacks, the next attack will be changed to stab the chain blade to cause 6 times the damage. If it is a small zombie, it will be lifted and then hit to cause 6 times the damage.
-
-[BROMELBLADE_NEW_SKILL_LEVEL2_DES]
-There is a 20% chance that the ordinary attack of the pineapple chain blade will be changed to charging force and swinging to the right, causing the zombie to pause briefly and cause 10 times the damage.
-
-[BROMELBLADE_NEW_SKILL_LEVEL3_DES]
-The skill effect of Xun optical chain attack is improved by 100%.
-
-[BROMELBLADE_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[BROMELBLADE_NEW_SKILL_LEVEL5_DES]
-After triggering the attack, there is a 50% probability of receiving a ground-breaking slam. Pineapple will plunge the chain blade into the ground, and then inflict 5400 damage on the zombies in the 4 squares on the right and repel 1.5 squares.
-
-[BROMELBLADE_PLANTFOOD_DESCRIPTION]
-The pineapple chain blade swings out quickly, causing damage to all zombies in the 3x3 range on the right.
-
-[BROMELBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
-The pineapple chain blade quickly swings out the chain blade, causing higher damage to all zombies in the 4x3 range on the right. ^oldclrr
-
-[ICELOTUS_NEW_SKILL_LEVEL1_DES]
-When a zombie appears 3x3 around a dripping ice lotus, it sprinkles out of the pool, causing the passing zombie to enter a deceleration state. The pool lasts for 4 seconds. It disappears after spilling 3 rounds of pool. ^ff0000It has a miraculous effect on spark zombies! ^oldclrr
-
-[ICELOTUS_NEW_SKILL_LEVEL2_DES]
-Dripping ice lotus strengthens the capacity of a single water storage, allowing 5 rounds of pools to be sprinkled per planting.
-
-[ICELOTUS_NEW_SKILL_LEVEL3_DES]
-The dripping ice lotus becomes cold, giving zombies that eat it a 5% chance^0072ff^freezeⅠ^oldclrr3 seconds.
-
-[ICELOTUS_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[ICELOTUS_PLANTFOOD_DESCRIPTION]
-Drip ice lotus spins quickly to accumulate a large amount of water and sprinkles it out at one time, so that the surrounding area of 5x5 covers the upper pool.
-
-[ICELOTUS_AVATAR_PLANTFOOD_DESCRIPTION]
-Drip ice lotus spins quickly and accumulates a large amount of water and sprinkles it out at one time, covering the surrounding 5x5 area with an ice pool. ^ff0000 Let the passing zombies enter the ^oldclrr^0072ff^freezeⅠ^oldclrr^ff0000 state. ^oldclrr
-
-[DENDROBIUMGUARD_NEW_SKILL_LEVEL1_DES]
-When there is a dendrobium parsnip net in the adjacent grid under the dendrobium parsnip net, one leaf will be added to the 2 pieces and the health value will be increased by 25%, and at most 4 pieces can be owned at the same time. ^ff0000It has a miraculous effect on strong wind attacks! ^oldclrr
-
-[DENDROBIUMGUARD_NEW_SKILL_LEVEL2_DES]
-The Dendrobium Windproof Net unlocks the recovery ability and can now restore 1 blade on the body every 60 seconds.
-
-[DENDROBIUMGUARD_NEW_SKILL_LEVEL3_DES]
-Dendrobium parsnip recovers faster and can now recover 1 leaf on the body every 50 seconds.
-
-[DENDROBIUMGUARD_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[DENDROBIUMGUARD_NEW_SKILL_LEVEL5_DES]
-When gnawed, there is a 50% probability of rotating quickly, repelling all zombies in the right square 1 square, and triggering it at most once every 20 seconds.
-
-[DENDROBIUMGUARD_PLANTFOOD_DESCRIPTION]
-Dendrobium parsnip spins quickly, immediately repelling all zombies 1 square on the right and restoring all blades and health. Dendrobium parsnips with adjacent grids up and down also rotate quickly together and fight off zombies.
-
-[DENDROBIUMGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
-Dendrobium parsnip spins quickly, immediately repelling all zombies 1 square on the right and restoring all blades and health. Dendrobium parsnips with adjacent squares up and down will also rotate quickly together and fight off zombies, ^ff0000 and restore all blades and health. ^oldclrr
-
-[CYPRIPEDIUM_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side, stinky soup is thrown, causing damage to the hit zombie and entering a stinky state for 3 seconds. The stench state will cause the zombies on the right side to wrap lines, ^ff0000 and has a miraculous effect on the sushi thrown by the sushi zombies! ^oldclrr
-
-[CYPRIPEDIUM_NEW_SKILL_LEVEL2_DES]
-There is a 50% probability that Chef Pyramidium throws a concentrated soup, causing damage to zombies in the single-frame range and entering a foul-smelling state.
-
-[CYPRIPEDIUM_NEW_SKILL_LEVEL3_DES]
-The skill trigger probability of concentrated cooking is increased by 100%, and there is a 100% probability of throwing concentrated soup.
-
-[CYPRIPEDIUM_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[CYPRIPEDIUM_NEW_SKILL_LEVEL5_DES]
-Chef Pyo Lan has changed the style of the soup. The soup turns purple and can cause zombies in a stinky state to be damaged by 200 points per second^701edf^poisoningⅠ^oldclrr.
-
-[CYPRIPEDIUM_PLANTFOOD_DESCRIPTION]
-Chef Pyo Lan squeezes the pot, aims at the zombie on the far left side of the right row and throws a large ball of soup. After hitting, it causes damage to all the zombies around 5x5 and enters a stench state for 3 seconds.
-
-[CYPRIPEDIUM_AVATAR_PLANTFOOD_DESCRIPTION]
-Chef Pianlan squeezes the pot, aims at the zombies on the far left side of the right row and throws a large ball of soup. After hitting, it causes damage to all the zombies around 5x5 and enters a 3-second stench state^ff0000 and a 5-second ^oldclrr^848484^ VertigoⅠ^oldclrr^ff0000. ^oldclrr
-
-[GUMNUT_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in the right 1-square, bubbles are blown out and the zombie sticks, subsequently disappearing itself. The chewing gum is gnawed by the zombies that are currently stuck and behind them, and the chewing gum has 8000 health points and an additional increase based on the zombie's health.
-
-[GUMNUT_NEW_SKILL_LEVEL2_DES]
-Chewing gum has a charming effect, with a 20% probability^ff4284^charmⅠ^oldclrrthe zombies that have been eaten. Chewing gum health increased to 12000.
-
-[GUMNUT_NEW_SKILL_LEVEL3_DES]
-The skill trigger probability of Charming Chewing Gum is increased by 100%, and there are 40% ^ff4284^CharmingⅠ^oldclrrCharming eating the finished zombies. Chewing gum health increased to 16000.
-
-[GUMNUT_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food! Chewing gum health increased to 20000.
-
-[GUMNUT_NEW_SKILL_LEVEL5_DES]
-Bubble gum will turn into highly toxic bubble gum, and zombies will release highly toxic smoke after eating it, causing all the zombies behind them to fall into a dizziness for 5 seconds^848484^Ⅰ^oldclrr. Chewing gum health increased to 24000.
-
-[GUMNUT_PLANTFOOD_DESCRIPTION]
-The mucus eucalyptus blows huge bubbles and sticks to the 5 zombies on the far left after the explosion.
-
-[GUMNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-The mucus eucalyptus blows out huge bubbles and sticks to the ^ff00008 zombies on the far left after the explosion. ^oldclrr
-
-[OLIVEPIT_NEW_SKILL_LEVEL1_DES]
-After planting, it goes underground, and then sprays 1 cell of oil to the right every 2.2 seconds, slowing down the passing zombies. When a zombie goes to the pit, the zombie falls into the pit and is instantly killed. It is blocked when 2 zombies or 1 zombie above level 2 are dropped, and it takes 60 seconds to unblock. ^ff0000It has a miraculous effect on zombie chickens or zombie ice weasels! ^oldclrr
-
-[OLIVEPIT_NEW_SKILL_LEVEL2_DES]
-The number of zombies that can be digested at one time in the olive pit becomes 3 or 1 zombie of order 3 or above. The digestion time was reduced to 50 seconds.
-
-[OLIVEPIT_NEW_SKILL_LEVEL3_DES]
-The number of zombies that can be digested at one time in the olive pit becomes 4 or 1 zombie of order 5 or above. The digestion time was reduced to 40 seconds.
-
-[OLIVEPIT_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted The order of zombies normally digested in the olive pit is raised to order 7.
-
-[OLIVEPIT_NEW_SKILL_LEVEL5_DES]
-When the olive pit enters the digestive state, when the zombie appears in the right 1-square, a grass leaf is protruded to wrap its foot around for 5 seconds. Zombies of all orders can digest 4 at the same time normally.
-
-[OLIVEPIT_PLANTFOOD_DESCRIPTION]
-The olive pit attracts zombies in the surrounding 3x3 range and devours up to 6 zombies, covered with oil that lasts for a period of time.
-
-[OLIVEPIT_AVATAR_PLANTFOOD_DESCRIPTION]
-The olive pit attracts zombies in the surrounding 3x3 range and swallows up to 9 zombies ^ff0000 and is covered with oil that lasts for a period of time.
 
 [ACTIVITY_NEW_PLAYER_SURVEY_DESC]
 Participate in the survey, answer questions, and receive diamonds and voucher.
@@ -72839,9 +73318,6 @@ Please update to the latest version.
 [EXCHANGEAVATAR_TUTORIAL_SLOT]
 Use Avatar Tickets to purchase plant avatars.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ElAEOCARPUS_3]
-Du Yong Unclothed
-
 [NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_1]
 Electric Eagle Claw Floral Racing costume
 
@@ -73194,12 +73670,6 @@ Kiwi full-body costume
 
 [ACCUMULATED_LOGIN_TITLE]
 Courtyard Record
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
-Mulberry Blaster Pirate Costume
-
-[NEW_AVATAR_DESCRIPTION_MULBERRY_3]
-Increases attack speed by 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_2]
 Autumn Pea Mortar Costume
