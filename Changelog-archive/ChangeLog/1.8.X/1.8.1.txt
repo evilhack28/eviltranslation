@@ -1,0 +1,20 @@
+--1.8.1--
+fix 
+
+[EGRETFLOWER] F
+[STRAWBURST] (missing costume effect)
+[POISONPEASHOOTER] F
+[ELAEOCARPUS] (pf don't seem to be good)
+[ELEOCURLING] F
+[POKRA] F
+[HYDROCOTYLEDRUMMER] (costume effect good but not correct costume is missmatch with ori)
+[ULTOMATO]    (OLD SKILL)
+[SHADOWVANILLA] F
+[BROMELBLADE] F
+[ICELOTUS] F
+[STEPHANIA] F
+[TUPISTRASTALKER] F
+[DENDROBIUMGUARD] F
+[CYPRIPEDIUM] F
+[GUMNUT] F
+[OLIVEPIT] F
