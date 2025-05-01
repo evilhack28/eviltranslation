@@ -66,6 +66,31 @@ fixed some Info text
 Fixed new familly name
 Added NO.41 plants almanch
 fixed tips missing
+fixed 3,000 line of text
+plants fix:
+
+GUARDSHROOM
+BUDUHBOOM
+MAPLEBLADE
+MULBERRY
+ELECTRICITEA
+IMPPEAR
+PLANTAIN
+PINECONE
+NARCISSUSSHOOTER
+ALARMSAGITTIFOLIA
+HOLLYKNIGHT
+SHADOWPEASHOOTER
+SNAPPEA
+THUNDERSNAPDRAGON
+MONOTROPA
+ALOES]
+SLINGPEA
+BEARBERRY
+WAXGOURD
+OLIVE
+POMEGRANATEJEWELER
+
 
 
 
@@ -132,12 +157,6 @@ Spear Wax Plant Red Boy Skin
 [NEW_AVATAR_DESCRIPTION_LANCERHOYA_2]
 Sun Cost -25
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_2]
-Ghost Flower Guanyin Skin
-
-[NEW_AVATAR_DESCRIPTION_MONOTROPA_2]
-Attack Interval -15%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
 Water Chestnut Bros Gold & Silver Kings Skin
 
@@ -155,12 +174,6 @@ Flame Queen Palm-Leaf Fan Skin
 
 [NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
 Sun Cost -25
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_3]
-Bearberry Mortar Sha Wujing Skin
-
-[NEW_AVATAR_DESCRIPTION_BEARBERRY_3]
-Attack +20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
 Bubble Coral Growth Skin
@@ -2630,10 +2643,10 @@ Sunflower
 {FLAVOR}Ever since becoming a star, her first song "Zombies On Your Lawn" has become a hit on social media. Therefore she is rushing on filming the video "Sunflower Dance Show", please stay tuned for that!
 
 [SUNFLOWER_DESCRIPTION_HEADER]
-Sunflowers are essential for you to produce extra sun. Try planting as many as you can!
+Sunflower is a primary plant which produces more sun for you. Plant as many of them as possible!
 
 [SUNFLOWER_TOOLTIP]
-Gives you additional sun
+Produces sun
 
 [SUNFLOWER_PRODUCT_SHORT_DESC]
 Basic sources of sun.
@@ -2727,10 +2740,10 @@ Peashooter
 {FLAVOR}"How does success taste you ask me?" Peashooter slowly sips his hot tea, "I can't tell you about it now, I'm sorting my business contracts. Here's my coat, hold it well!"
 
 [PEASHOOTER_DESCRIPTION_HEADER]
-Peashooters are your first line of defense. They shoot peas at attacking zombies.
+Peashooters are your first line of defense, which shoot peas to attack zombies.
 
 [PEASHOOTER_TOOLTIP]
-Shoots peas at the enemy
+Shoots peas at enemies.
 
 [PEASHOOTER_PRODUCT_SHORT_DESC]
 Launch peas, causing damage.
@@ -2808,10 +2821,10 @@ Wall-nut
 {FLAVOR}Wall-nut the champion bowler of the Pro Leagues has recently retired. The fans believe this is a huge loss to bowling community as a whole, though Wall-nut seems to be using his talent of bowling on the front lines of the battlefield. Keep it up!
 
 [WALLNUT_DESCRIPTION_HEADER]
-Wall-nuts have hard shells which you can use to protect your other plants.
+Wall-nut has a shell hard enough to protect other plants.
 
 [WALLNUT_TOOLTIP]
-Blocks off zombies and protects your other plants
+Wall-nut has a shell hard enough to protect other plants.
 
 [WALLNUT_PRODUCT_SHORT_DESC]
 Small and strong protector.
@@ -2891,10 +2904,10 @@ Potato Mine
 {FLAVOR}Potato Mine is a good hard-working comrade, as he would still enjoy it even when working in a hot environment. What? He's just a shorty? You haven't seen his body, have you? Wanna see it?
 
 [POTATOMINE_DESCRIPTION_HEADER]
-Potato Mines explode on contact, but they take time to arm. Plant them ahead of zombies.
+The Potato Mine explodes upon contact but takes some time to arm.
 
 [POTATOMINE_TOOLTIP]
-Explodes on contact, but takes time to arm itself
+The Potato Mine explodes upon contact but takes some time to arm.
 
 [POTATOMINE_PRODUCT_SHORT_DESC]
 Mines of great power.
@@ -2954,7 +2967,7 @@ Cabbage-pult
 {FLAVOR}Obtaining the doctorate degree in pulting from Harvest University, Cabbage-pult never seems to run out of topics on how to be a winner in life. He also often brags about how good the soup he makes tastes, though the ones who have tried it never wish to bring it up.
 
 [CABBAGEPULT_DESCRIPTION_HEADER]
-Cabbage-pults hurl cabbages at the enemy.
+Lobs cabbages which can fly over obstacles and hit enemies behind them.
 
 [CABBAGEPULT_TOOLTIP]
 Lobs cabbages which can fly over obstacles and hit enemies behind them.
@@ -3414,10 +3427,10 @@ Grave Buster
 {FLAVOR}Though having a scary look and a bad temper, Grave Buster just wants to give you a calming hug, unless you are a puppy. Yes, he is scared of dogs.
 
 [GRAVEBUSTER_DESCRIPTION_HEADER]
-Grave Busters consume graves they're planted on.
+Grave Buster consumes graves.
 
 [GRAVEBUSTER_TOOLTIP]
-Plant it on a grave to remove the grave
+Grave Buster consumes graves.
 
 [GRAVEBUSTER_PRODUCT_SHORT_DESC]
 Grave Buster will eat the tombstone.
@@ -3451,7 +3464,7 @@ Snow Pea
 Snow Pea fires frozen peas which slows down zombie speed.
 
 [SNOWPEA_TOOLTIP]
-Shoots frozen peas that damage and slow zombies
+Fires frozen peas to slow down zombies.
 
 [SNOWPEA_PRODUCT_SHORT_DESC]
 Launching ice peas slows zombies down.
@@ -5558,83 +5571,6 @@ Counter-timesgrass costume
 
 
 
-
-[ALOES]
-Aloe
-
-[ALOES_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}green plant
-{FLAVOR}You can find Aloe pushing her brand of fluids in the beauty sector. The current trend's all about skin cleansing, and she's good at it.
-
-[ALOES_DESCRIPTION_HEADER]
-Dispels Perfume Zombies' toxic mist, boosts damage of nearby plants.
-
-[ALOES_TOOLTIP]
-Dispels Perfume Zombies' toxic mist, boosts damage of nearby plants.
-
-[ALOES_PRODUCT_SHORT_DESC]
-Dispels Perfume Zombies' toxic mist, boosts damage of nearby plants.
-
-[ALOES_SKILL_LEVEL1]
-Crystal Clear
-
-[ALOES_SKILL_LEVEL1_DES]
-50% chance to additionally boost attack speed by 100%
-
-[ALOES_SKILL_LEVEL2]
-Moist and Smooth
-
-[ALOES_SKILL_LEVEL2_DES]
-100% chance to additionally boost attack speed by 100%
-
-[ALOES_SKILL_LEVEL5]
-Icy Water Droplets
-
-[ALOES_SKILL_LEVEL5_DES]
-Further increases damage bonus by 20% and now slows zombies in her AOE.
-
-[ALOES_NEW_SKILL_LEVEL1_DES]
-The aloe vera doctor throws out 1 water droplet every 10 seconds to create water mist for the surrounding 3x3 grid, so that plants in this range can regain 10% of their health per second and increase their attack power by 20% for 7 seconds. ^ff0000It has a miraculous effect on the perfumer's poisonous mist! ^oldclrr
-
-[ALOES_NEW_SKILL_LEVEL2_DES]
-50% chance to additionally boost attack speed by 100%
-
-[ALOES_NEW_SKILL_LEVEL3_DES]
-100% chance to additionally boost attack speed by 100%
-
-[ALOES_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[ALOES_NEW_SKILL_LEVEL5_DES]
-Further increases damage bonus by 20% and now slows zombies in her AOE.
-
-[ALOES_PLANTFOOD_DESCRIPTION]
-Launches 5 water droplets randomly. Each affects a 3x3 area, with healing and damage boosts for 7s.
-
-[ALOES_AVATAR_PLANTFOOD_DESCRIPTION]
-Launches 5 water droplets randomly. Each affects a 3x3 area, with healing and damage boosts for 8s and also freeze zombies on contact as well for 2s.
-
-[GENE_DESCRIPTION_ALOES]
-Normal Droplet attack damage bonus effect increased by {Param_1}%
-
-[STORE_PRODUCT_AVATAR_ALOES_TITLE]
-Aloe Leaf Pennant
-
-[STORE_PRODUCT_AVATAR_ALOES]
-Plant Food puddles now freeze zombies on contact as well.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_1]
-Aloe Flower Pennant
-
-[NEW_AVATAR_DESCRIPTION_ALOES_1]
-Reduce sun cost by 20
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_2]
-Aloe bow tie
-
-
-
-
 [GRAPESHOT]
 Grapeshot
 
@@ -5773,77 +5709,6 @@ Planting colddown is reduced by 20%
 
 
 
-
-
-[MONOTROPA]
-Crystal Orchid
-
-[MONOTROPA_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}blue plant
-{FLAVOR}The Snow Queen, likes to have snowmen in her garden, of course, if the snowmen are not very obedient, she doesn't mind administering a little punishment.
-
-[MONOTROPA_DESCRIPTION_HEADER]
-The controller of ice and snow, likes to turn enemies into snowmen
-
-[MONOTROPA_TOOLTIP]
-The controller of ice and snow, likes to turn enemies into snowmen
-
-[MONOTROPA_PRODUCT_SHORT_DESC]
-The controller of ice and snow, likes to turn enemies into snowmen
-
-[MONOTROPA_PRODUCT_SHORT_DESC]
-The controller of ice and snow, likes to turn enemies into snowmen
-
-[MONOTROPA_SKILL_LEVEL1]
-Ice and Snow Enhancement
-
-[MONOTROPA_SKILL_LEVEL1_DES]
-Crystal Orchid has strengthened its ice and snow abilities, increasing the attack range of ice wind by 2 squares.
-
-[MONOTROPA_SKILL_LEVEL2]
-Ice and Snow Control
-
-[MONOTROPA_SKILL_LEVEL2_DES]
-Crystal Orchid has further improved its control over ice and snow, increasing the duration of snowman by 50%.
-
-[MONOTROPA_SKILL_LEVEL5]
-Frozen Residue
-
-[MONOTROPA_SKILL_LEVEL5_DES]
-When the zombies recover from the snowman state, they will be left with a freezing effect on their bodies, entering a 2-second slow state.
-
-[MONOTROPA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in the 3-square on the right side of Crystal Orchid, it releases the ice wind, causing damage to zombies within range, and turning the first small zombie into an immobile snowman for 5 seconds.
-
-[MONOTROPA_NEW_SKILL_LEVEL2_DES]
-Crystal Orchid has strengthened its ice and snow abilities, increasing the attack range of ice wind by 2 squares.
-
-[MONOTROPA_NEW_SKILL_LEVEL3_DES]
-Crystal Orchid has further improved its control over ice and snow, increasing the duration of snowman by 50%.
-
-[MONOTROPA_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[MONOTROPA_NEW_SKILL_LEVEL5_DES]
-When the zombies recover from the snowman state, they will be left with a freezing effect on their bodies, entering a 2-second slow state.
-
-[MONOTROPA_PLANTFOOD_DESCRIPTION]
-Fire a massive gust of freezing wind into the sky causing a massive snowstorm that turns all zombies on the screen into snowmen.
-
-[MONOTROPA_AVATAR_PLANTFOOD_DESCRIPTION]
-fire a massive gust of freezing wind into the sky causing a massive snowstorm that turns all zombies on the screen into snowmen. ^FF0000 There is a probability of freezing zombie for 2 seconds. ^oldclrr
-
-[STORE_PRODUCT_AVATAR_MONOTROPA]
-The snowstorm she creates will now drop large icicles dealing damage to zombies it hits.
-
-[STORE_PRODUCT_AVATAR_MONOTROPA_TITLE]
-Crystal Orchid Costume
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_1]
-Crystal Orchid Christmas Costume
-
-[NEW_AVATAR_DESCRIPTION_MONOTROPA_1]
-Plant attack increased by 10%
 
 
 
@@ -6002,84 +5867,7 @@ Sunflower Singer Olympic
 
 
 
-[IMPPEAR]
-Imp Pear
 
-[IMPPEAR_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}short
-{FLAVOR}Imp Pear impairs zombies. Of course, it isn't what he's looking for, "Why am I Jackfruit's face?
-
-[IMPPEAR_DESCRIPTION_HEADER]
-Transforms the zombie that eats it into an imp
-
-[IMPPEAR_TOOLTIP]
-Transforms the zombie that eats it into an imp
-
-[IMPPEAR_PRODUCT_SHORT_DESC]
-Transforms the zombie that eats it into an imp
-
-[IMPPEAR_SKILL_LEVEL1]
-Intensified variation
-
-[IMPPEAR_SKILL_LEVEL1_DES]
-40% chance to also destroy the transformed imp. Can now affect up to level 3 zombies.
-
-[IMPPEAR_SKILL_LEVEL2]
-Mutation Improvement
-
-[IMPPEAR_SKILL_LEVEL2_DES]
-Boost the probability of Intensified variation
-
-[IMPPEAR_SKILL_LEVEL5]
-Fun Explosion
-
-[IMPPEAR_SKILL_LEVEL5_DES]
-When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
-
-[IMPPEAR_NEW_SKILL_LEVEL1_DES]
-When a zombie eats the little yellow pear, it will turn the zombie into a little ghost zombie. If it is already a little ghost zombie, it will be damaged and release poison gas, causing the zombie behind it to stun Ⅰ^oldclrr7 seconds. The highest is effective for level 2 zombies.
-
-[IMPPEAR_NEW_SKILL_LEVEL2_DES]
-40% chance to also destroy the transformed imp. Can now affect up to level 3 zombies.
-
-[IMPPEAR_NEW_SKILL_LEVEL3_DES]
-80% chance to also destroy the transformed imp. Can now affect up to level 5 zombies.
-
-[IMPPEAR_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[IMPPEAR_NEW_SKILL_LEVEL5_DES]
-When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
-
-[IMPPEAR_PLANTFOOD_DESCRIPTION]
-Randomly target up to five zombies on the screen, turning them into Imps if possible. If an Imp is targeted, Imp Pear instead destroys them or causing 500 damage
-
-[IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
-Randomly target up to seventh zombies on the screen, turning them into Imps if possible. If an Imp is targeted, Imp Pear instead destroys them or causing 500 damage
-
-[GENE_DESCRIPTION_IMPPEAR]
-The probability of Imp Pear's Level 4 chances to be boosted is increased by
-
-[IMPPEAR_AVATAR_NAME]
-Make zombies eat and then become imp zombies
-
-[STORE_PRODUCT_AVATAR_IMPPEAR]
-Plant food effect is increased to 2 
-
-[STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
-Imp Pear's mustache
-
-[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
-Imp Pear's scroll
-
-[NEW_AVATAR_DESCRIPTION_IMPPEAR_1]
-Cooldown reduced by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
-Exorcist Imp Pear's
-
-[NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
-Increases stun duration by 1s
 
 
 
@@ -7015,71 +6803,6 @@ Phat Beet Rabbit Year costume
 Plant attack increased by 10%
 
 
-[POMEGRANATEJEWELER]
-Pomegranate
-
-[POMEGRANATEJEWELER_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR}Pomegranate is the most powerful plant around. Many of the local big name zombies are willing to paint for him. Pomegranate is more than happy to pay them compensation. The payment method used doesn't involve QR codes or whatever, instead they're "paid" rather directly with gems.
-
-[POMEGRANATEJEWELER_DESCRIPTION_HEADER]
-Rubies can bounce randomly after hitting a zombie.
-
-[POMEGRANATEJEWELER_TOOLTIP]
-Rubies can bounce randomly after hitting a zombie.
-
-[POMEGRANATEJEWELER_PRODUCT_SHORT_DESC]
-Rubies can bounce randomly after hitting a zombie.
-
-[POMEGRANATEJEWELER_SKILL_LEVEL1]
-Rich Merchant
-
-[POMEGRANATEJEWELER_SKILL_LEVEL1_DES]
-There is a 20% chance to eject twin gems with 1.5 times damage. After the twin gems hit a zombie, they can cause ejection damage to zombies from two angles.
-
-[POMEGRANATEJEWELER_SKILL_LEVEL2]
-Kind and Charitable
-
-[POMEGRANATEJEWELER_SKILL_LEVEL2_DES]
-There is a probability of spraying the Sansheng gem, which can cause damage to the zombies at three angles after hitting them
-
-[POMEGRANATEJEWELER_SKILL_LEVEL5]
-Good Fortune
-
-[POMEGRANATEJEWELER_SKILL_LEVEL5_DES]
-There is a probability to spray a strengthening gem. The strengthening gem is twice the damage of ordinary gems. After the strengthening gem is sprayed, the next two attacks will have special effects: it will definitely trigger level 3
-
-[POMEGRANATEJEWELER_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the gem dealer pomegranate, it will eject the gem to cause damage to the zombie, and after the gem hits, it will eject diagonally to the right to cause 50% damage.
-
-[POMEGRANATEJEWELER_NEW_SKILL_LEVEL2_DES]
-There is a 20% chance to eject twin gems with 1.5 times damage. After the twin gems hit a zombie, they can cause ejection damage to zombies from two angles.
-
-[POMEGRANATEJEWELER_NEW_SKILL_LEVEL3_DES]
-The effect of the skill of Rich Merchant is improved, and it becomes a three-life gem with a 50% probability of spraying double damage. After the three-life gem hits a zombie, it can cause ejection damage to zombies from three angles.
-
-[POMEGRANATEJEWELER_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[POMEGRANATEJEWELER_NEW_SKILL_LEVEL5_DES]
-There is a 30% chance to spray an enhanced gem, and the damage of the enhanced gem is 2.5 times that of ordinary gems. After ejecting the enhanced gem, the next 2 attacks must be the triple gem.
-
-[POMEGRANATEJEWELER_PLANTFOOD_DESCRIPTION]
-launches a 4 and 1 big volley of rubies at various different zombies. The big gem causes higher damage and a stun effect, which can instantly kill up to 2 small and medium-sized zombies.
-
-[POMEGRANATEJEWELER_AVATAR_PLANTFOOD_DESCRIPTION]
-launches a 4 and 1 big volley of rubies at various different zombies. The big gem causes higher damage ^FF0000 make zombies switch lanes ^oldclr  and a stun effect, which can instantly kill up to 2 small and medium-sized zombies.
-
-[POMEGRANATEJEWELER_AVATAR_NAME]
-Pomegranate Costume
-
-[STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER]
-One of his rubies will make zombies switch lanes.
-
-[STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER_TITLE]
-Pomegranate Costume
-
-
 
 
 
@@ -7372,69 +7095,6 @@ Increases the chance of triggering Qigong Cannon with Skill 2 by 10% (only at le
 
 
 
-[PLANTAIN]
-Banana Dancer
-
-[PLANTAIN_DESCRIPTION]
-{KEYWORD}Special: {STAT}push zombies back to the last tile.
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR}In preparation for the 5th Anniversary celebration. The organizers specially invited the most popular dancer in all of the plant kingdom, Banana Dancer, as a special guest to attend. Although Banana Dancer is a superstar in the plant world, she’s very fond of charity work. She decided to donate all the money made from her appearance to charities. This received unanimous praise from the outside world. And this plantain will bring her new traditional fan dance. The traffic of this topic instantly reached the number one spot on social media. If you want to see her dance at the scene, please be sure to grab a ticket on time!
-
-[PLANTAIN_DESCRIPTION_HEADER]
-Can push zombies back to the last tile.
-
-[PLANTAIN_TOOLTIP]
-Can push zombies back to the last tile.
-
-[PLANTAIN_SKILL_LEVEL1]
-Dance Recovery
-
-[PLANTAIN_SKILL_LEVEL1_DES]
-Banana Dancer learns Dance Recovery. Attack cooldown reduced by 1 second.
-
-[PLANTAIN_SKILL_LEVEL2]
-Dance Enhancement
-
-[PLANTAIN_SKILL_LEVEL2_DES]
-The skill effect of Dance Recovery is increased by 100%. Attack cooldown is reduced by 1 second again.
-
-[PLANTAIN_SKILL_LEVEL5]
-Dance of The Universe
-
-[PLANTAIN_SKILL_LEVEL5_DES]
-There's 40% probability of fanning out a whirlwind of chaos, charming small zombies whose level is not higher than itself.
-
-[PLANTAIN_NEW_SKILL_LEVEL1_DES]
-When the zombies appear on the right side of the Basho dancer, a whirlwind is fanned out, causing damage to the zombies. There is a 30% probability of fanning out a powerful whirlwind, repelling all zombies no higher than their own level 2 to the bottom line and causing a small amount of damage.
-
-[PLANTAIN_NEW_SKILL_LEVEL2_DES]
-Banana Dancer learns Dance Recovery. Attack cooldown reduced by 1 second.
-
-[PLANTAIN_NEW_SKILL_LEVEL3_DES]
-The skill effect of Dance Recovery is increased by 100%. Attack cooldown is reduced by 1 second again.
-
-[PLANTAIN_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[PLANTAIN_NEW_SKILL_LEVEL5_DES]
-There's 40% probability of fanning out a whirlwind of chaos, charming small zombies whose level is not higher than itself.
-
-[PLANTAIN_PLANTFOOD_DESCRIPTION]
-Shoot a large tornado that when after hitting a zombie, will attract nearby zombies in its lane, dealing damage.
-
-[PLANTAIN_AVATAR_PLANTFOOD_DESCRIPTION]
-It is similar to its normal effect, but the tornado will have two smaller tornadoes circling it. Up to two zombies will be stuck in those small tornadoes, being stunned, dealt damage to and the large tornado will not stop if the smaller ones catch zombies.
-
-[PLANTAIN_AVATAR_NAME]
-Banana Dancer Costume
-
-[STORE_PRODUCT_AVATAR_PLANTAIN_TITLE]
-Banana Dancer Costume
-
-[STORE_PRODUCT_AVATAR_PLANTAIN]
-There is a probability to release the lantern tornado to fight off medium-sized zombies.
-
-
 [MORNINGGLORY]
 Morning Glory
 
@@ -7656,7 +7316,6 @@ Electric Green Tea is fully charged with electric energy and randomly emits 5 co
 [ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
 Electric Green Tea is fully charged with electric energy, randomly emits 5 consecutive currents from zombies on the field, causing lightning damage to zombies^ff0000 and comes with arc diffusion damage in the 3x3 range. ^oldclrr
 
-
 [ELECTRICITEA_AVATAR_NAME]
 Mulberry blast Costume
 
@@ -7665,13 +7324,6 @@ Mulberry blast Costume
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA]
 There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
-
-
-
-
-
-
-
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
 Electric Green Tea Costume
@@ -7684,123 +7336,347 @@ plants food also sputters out an arc in the 3X3 range when hitting the zombies, 
 
 
 
+[IMPPEAR]
+Imp Pear
 
+[IMPPEAR_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}short
+{FLAVOR}Imp Pear impairs zombies. Of course, it isn't what he's looking for, "Why am I Jackfruit's face?
 
+[IMPPEAR_DESCRIPTION_HEADER]
+Transforms the zombie that eats it into an imp
 
+[IMPPEAR_TOOLTIP]
+Transforms the zombie that eats it into an imp
 
+[IMPPEAR_PRODUCT_SHORT_DESC]
+Transforms the zombie that eats it into an imp
 
+[IMPPEAR_SKILL_LEVEL1]
+Intensified variation
 
+[IMPPEAR_SKILL_LEVEL1_DES]
+40% chance to also destroy the transformed imp. Can now affect up to level 3 zombies.
 
+[IMPPEAR_SKILL_LEVEL2]
+Mutation Improvement
 
+[IMPPEAR_SKILL_LEVEL2_DES]
+Boost the probability of Intensified variation
 
+[IMPPEAR_SKILL_LEVEL5]
+Fun Explosion
 
+[IMPPEAR_SKILL_LEVEL5_DES]
+When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
 
+[IMPPEAR_NEW_SKILL_LEVEL1_DES]
+When a zombie eats the little yellow pear, it will turn the zombie into a little ghost zombie. If it is already a little ghost zombie, it will be damaged and release poison gas, causing the zombie behind it to stun Ⅰ^oldclrr7 seconds. The highest is effective for level 2 zombies.
 
+[IMPPEAR_NEW_SKILL_LEVEL2_DES]
+40% chance to also destroy the transformed imp. Can now affect up to level 3 zombies.
 
+[IMPPEAR_NEW_SKILL_LEVEL3_DES]
+80% chance to also destroy the transformed imp. Can now affect up to level 5 zombies.
 
+[IMPPEAR_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[IMPPEAR_NEW_SKILL_LEVEL5_DES]
+When a zombie eats an Imp Pear and releases toxic gas, the range of the toxic gas will increase. The zombie that inhales the toxic gas will enter a vulnerable state, and the damage it receives will increase by 30% for 7 seconds.
 
+[IMPPEAR_PLANTFOOD_DESCRIPTION]
+Randomly target up to five zombies on the screen, turning them into Imps if possible. If an Imp is targeted, Imp Pear instead destroys them or causing 500 damage
 
+[IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
+Randomly target up to seventh zombies on the screen, turning them into Imps if possible. If an Imp is targeted, Imp Pear instead destroys them or causing 500 damage
 
+[GENE_DESCRIPTION_IMPPEAR]
+The probability of Imp Pear's Level 4 chances to be boosted is increased by
 
+[IMPPEAR_AVATAR_NAME]
+Make zombies eat and then become imp zombies
 
+[STORE_PRODUCT_AVATAR_IMPPEAR]
+Plant food effect is increased to 2 
 
+[STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
+Imp Pear's mustache
 
+[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
+Imp Pear's scroll
 
+[NEW_AVATAR_DESCRIPTION_IMPPEAR_1]
+Cooldown reduced by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
+Exorcist Imp Pear's
 
+[NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
+Increases stun duration by 1s
 
 
 
 
+[PLANTAIN]
+Banana Dancer
 
+[PLANTAIN_DESCRIPTION]
+{KEYWORD}Special: {STAT}push zombies back to the last tile.
+{KEYWORD}Plant features: {STAT} green plant
+{FLAVOR}In preparation for the 5th Anniversary celebration. The organizers specially invited the most popular dancer in all of the plant kingdom, Banana Dancer, as a special guest to attend. Although Banana Dancer is a superstar in the plant world, she’s very fond of charity work. She decided to donate all the money made from her appearance to charities. This received unanimous praise from the outside world. And this plantain will bring her new traditional fan dance. The traffic of this topic instantly reached the number one spot on social media. If you want to see her dance at the scene, please be sure to grab a ticket on time!
 
+[PLANTAIN_DESCRIPTION_HEADER]
+Can push zombies back to the last tile.
 
+[PLANTAIN_TOOLTIP]
+Can push zombies back to the last tile.
 
+[PLANTAIN_SKILL_LEVEL1]
+Dance Recovery
 
+[PLANTAIN_SKILL_LEVEL1_DES]
+Banana Dancer learns Dance Recovery. Attack cooldown reduced by 1 second.
 
+[PLANTAIN_SKILL_LEVEL2]
+Dance Enhancement
 
+[PLANTAIN_SKILL_LEVEL2_DES]
+The skill effect of Dance Recovery is increased by 100%. Attack cooldown is reduced by 1 second again.
 
+[PLANTAIN_SKILL_LEVEL5]
+Dance of The Universe
 
+[PLANTAIN_SKILL_LEVEL5_DES]
+There's 40% probability of fanning out a whirlwind of chaos, charming small zombies whose level is not higher than itself.
 
+[PLANTAIN_NEW_SKILL_LEVEL1_DES]
+When the zombies appear on the right side of the Basho dancer, a whirlwind is fanned out, causing damage to the zombies. There is a 30% probability of fanning out a powerful whirlwind, repelling all zombies no higher than their own level 2 to the bottom line and causing a small amount of damage.
 
+[PLANTAIN_NEW_SKILL_LEVEL2_DES]
+Banana Dancer learns Dance Recovery. Attack cooldown reduced by 1 second.
 
+[PLANTAIN_NEW_SKILL_LEVEL3_DES]
+The skill effect of Dance Recovery is increased by 100%. Attack cooldown is reduced by 1 second again.
 
+[PLANTAIN_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
 
+[PLANTAIN_NEW_SKILL_LEVEL5_DES]
+There's 40% probability of fanning out a whirlwind of chaos, charming small zombies whose level is not higher than itself.
 
+[PLANTAIN_PLANTFOOD_DESCRIPTION]
+Shoot a large tornado that when after hitting a zombie, will attract nearby zombies in its lane, dealing damage.
 
+[PLANTAIN_AVATAR_PLANTFOOD_DESCRIPTION]
+It is similar to its normal effect, but the tornado will have two smaller tornadoes circling it. Up to two zombies will be stuck in those small tornadoes, being stunned, dealt damage to and the large tornado will not stop if the smaller ones catch zombies.
 
+[PLANTAIN_AVATAR_NAME]
+Banana Dancer Costume
 
+[STORE_PRODUCT_AVATAR_PLANTAIN_TITLE]
+Banana Dancer Costume
 
+[STORE_PRODUCT_AVATAR_PLANTAIN]
+There is a probability to release the lantern tornado to fight off medium-sized zombies.
 
 
 
 
+[PINECONE]
+Pinecone
 
+[PINECONE_DESCRIPTION]
+{KEYWORD}Special: {STAT}After defeating a zombie, releases a special attack.
+{KEYWORD}Plant features: {STAT}yellow plant
+{FLAVOR}In a mysterious western town, Pinecone is a sharpshooter cowboy, fighting all sorts of zombie bullies that invade his town, zombies tremble as soon as his name is mentioned. He almost became the town sheriff, but he turned it down, because he feels that sheriffs think that they're too good to go to the bar and drink.
 
+[PINECONE_DESCRIPTION_HEADER]
+After defeating a zombie, releases a special attack.
 
+[PINECONE_TOOLTIP]
+After defeating a zombie, releases a special attack.
 
+[PINECONE_SKILL_LEVEL1]
+Dual Shooting Pistols
 
+[PINECONE_SKILL_LEVEL1_DES]
+There's 10% probability that the two guns will fire a pinecone bullet in turn.
 
+[PINECONE_SKILL_LEVEL2]
+Incredible Sharpshooter
 
+[PINECONE_SKILL_LEVEL2_DES]
+The effects of Dual Shooting Pistols is increased by 100%. There's 20% probability that the two guns will fire a pinecone bullet in turn.
 
+[PINECONE_SKILL_LEVEL5]
+Blasting Grenade
 
+[PINECONE_SKILL_LEVEL5_DES]
+There's 20% probability to launch an exploding pine nut, causing 1110 damage to the zombies and splash damage to the zombies in a small area, and can knock away small zombies hit.
 
+[PINECONE_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of a double-gun pine cone, it fires a pine bullet to cause damage to the zombie. If a zombie dies within the attack range, a bullet of 100 damage is fired immediately.
 
+[PINECONE_NEW_SKILL_LEVEL2_DES]
+There's 10% probability that the two guns will fire a pinecone bullet in turn.
 
+[PINECONE_NEW_SKILL_LEVEL3_DES]
+The effects of Dual Shooting Pistols is increased by 100%. There's 20% probability that the two guns will fire a pinecone bullet in turn.
 
+[PINECONE_NEW_SKILL_LEVEL4_DES]
+When planting, there is a probability of directly releasing plants food!
 
+[PINECONE_NEW_SKILL_LEVEL5_DES]
+There's 20% probability to launch an exploding pine nut, causing 1110 damage to the zombies and splash damage to the zombies in a small area, and can knock away small zombies hit.
 
+[PINECONE_PLANTFOOD_DESCRIPTION]
+Fires 6 fireballs at the closest zombie in the lawn. If they kill the zombie, they will then home to the next zombie.
 
+[PINECONE_AVATAR_PLANTFOOD_DESCRIPTION]
+Fires ^ff0000 7 purple fireballs ^oldclrr at the closest zombie in the lawn. If they kill the zombie, they will then home to the next zombie.
 
+[PINECONE_AVATAR_NAME]
+Pinecone Cowboy
 
+[STORE_PRODUCT_AVATAR_PINECONE_TITLE]
+Pinecone Cowboy
 
+[STORE_PRODUCT_AVATAR_PINECONE]
+Shoots purple fireballs that do more damage.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_PINECONE_1]
+Pinecone Caishen ha
 
+[NEW_AVATAR_DESCRIPTION_PINECONE_1]
+Attack speed increased by 10%
 
 
 
+[NARCISSUSSHOOTER]
+Narcissus Shooter
 
+[NARCISSUSSHOOTER_DESCRIPTION]
+{KEYWORD}Special: {STAT}Big bubbles can carry away zombies armor and Imp zombies
+{KEYWORD}Plant features: {STAT}white plant
+{FLAVOR}Narcissus Shooter is an aristocrat, who from childhood has received the highest education, but she is adorably clever and a naughty little spirit. The contrast between her aristocratic temperament and naughty personality makes what little friends she has very fond of her.
 
+[NARCISSUSSHOOTER_DESCRIPTION_HEADER]
+Big bubbles can carry away zombie armor and Imp zombies.
 
+[NARCISSUSSHOOTER_TOOLTIP]
+Big bubbles can carry away zombie armor and Imp zombies.
 
+[NARCISSUSSHOOTER_SKILL_LEVEL1]
+Bubble Barrage
 
+[NARCISSUSSHOOTER_SKILL_LEVEL1_DES]
+When Narcissus Shooter attacks, there is a 10% chance to spray bubbles twice in a row.
 
+[NARCISSUSSHOOTER_SKILL_LEVEL2]
+Bubble Burst
 
+[NARCISSUSSHOOTER_SKILL_LEVEL2_DES]
+The skill trigger probability of Bubble Barrage is increased by 100%, and there is a 20% probability of spraying bubbles twice in a row when attacking.
 
+[NARCISSUSSHOOTER_SKILL_LEVEL5]
+Bubble Beam
 
+[NARCISSUSSHOOTER_SKILL_LEVEL5_DES]
+When attacking, there is a 40% chance to spray a water column that penetrates the entire row for 5 seconds, causing a total of 4500 points of damage to all zombies and stunning them.
 
+[NARCISSUSSHOOTER_NEW_SKILL_LEVEL1_DES]
+When zombies appear within 4 tiles to Narcissus Shooter's right, it spits bubbles that damage all zombies. ^ff0000^Especially effective against armor!^oldclr^
 
+[NARCISSUSSHOOTER_NEW_SKILL_LEVEL2_DES]
+When Narcissus Shooter attacks, there is a 10% chance to spray bubbles twice in a row.
 
+[NARCISSUSSHOOTER_NEW_SKILL_LEVEL3_DES]
+The skill trigger probability of Bubble Barrage is increased by 100%, and there is a 20% probability of spraying bubbles twice in a row when attacking.
 
+[NARCISSUSSHOOTER_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[NARCISSUSSHOOTER_NEW_SKILL_LEVEL5_DES]
+When attacking, there is a 40% chance to spray a water column that penetrates the entire row for 5 seconds, causing a total of 4500 points of damage to all zombies and stunning them.
 
+[NARCISSUSSHOOTER_PLANTFOOD_DESCRIPTION]
+Spits a large numbers of bubbles in front of her in a spread, These bubbles also have a chance to spawn bubbles on zombies' headwear.
 
+[NARCISSUSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
+Spits a large numbers of bubbles in front of her in a spread, These bubbles also knock back and have a chance to spawn bubbles on zombies' headwear.
 
+[NARCISSUSSHOOTER_AVATAR_NAME]
+Narcissus Shooter Queen
 
+[STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER_TITLE]
+Narcissus Shooter Queen
 
+[STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER]
+Her bubbles push back zombies of 2 tiles.
 
 
 
 
+[ALARMSAGITTIFOLIA]
+Alarm Explosive Arrowhead
 
+[ALARMSAGITTIFOLIA_DESCRIPTION]
+{KEYWORD}Usage: {STAT} Magnetic mushrooms in the same column can be connected to form a warning line. When a zombie touches the warning line, it will jump up and self-destruct.
+{KEYWORD}Range: {STAT} close
+{KEYWORD}Plant features: {STAT} green plant, weapon family,Short plant.
+{FLAVOR}Alarm Explosive Arrowhead is an uncompromising activist. Every time a friend calls his name, he’ll emphasize: "I’m Alarm Explosive Arrowhead, not Warning Sagittaria. I’m different from those windbags!"
 
+[ALARMSAGITTIFOLIA_TOOLTIP]
+Alarm Explosive Arrowhead deals heavy damage to zombies while at the same time disabling machines.
 
+[ALARMSAGITTIFOLIA_DESCRIPTION_HEADER]
+Alarm Explosive Arrowhead deals heavy damage to zombies while at the same time disabling machines.
 
+[ALARMSAGITTIFOLIA_SKILL_LEVEL1]
+Interference Enhancement
 
+[ALARMSAGITTIFOLIA_SKILL_LEVEL1_DES]
+Strengthen the interference effect on mechanical units, which can paralyze mechanical units in a 3×3 range for 8 seconds.
 
+[ALARMSAGITTIFOLIA_SKILL_LEVEL2]
+Energy Overload
 
+[ALARMSAGITTIFOLIA_SKILL_LEVEL2_DES]
+Alarm Explosive Arrowhead learns Energy Overload, and the explosion damage is greatly increased.
 
+[ALARMSAGITTIFOLIA_SKILL_LEVEL5]
+Super Radium Burst
 
+[ALARMSAGITTIFOLIA_SKILL_LEVEL5_DES]
+fter the explosion, an additional electric arc will be generated, which will spread among the zombies, causing damage and immobilizing them for 1 second
 
+[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL1_DES]
+A cordon will be open between the two police explosive magnetic mushrooms in the same row. It takes 2 seconds to wake up after planting, and after awakening, when the zombies appear within one square on the left and right or touch the cordon, they will fly out and explode to cause damage to the small range of zombies. ^ff0000The mechanical unit has miraculous effects! ^oldclrr
 
+[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL2_DES]
+Strengthen the interference effect on mechanical units, which can paralyze mechanical units in a 3×3 range for 8 seconds.
 
+[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL3_DES]
+Alarm Explosive Arrowhead learns Energy Overload, and the explosion damage is greatly increased.
 
+[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL5_DES]
+fter the explosion, an additional electric arc will be generated, which will spread among the zombies, causing damage and immobilizing them for 1 second
 
+[ALARMSAGITTIFOLIA_PLANTFOOD_DESCRIPTION]
+Fires a blast of energy in the third row and third column from the right spanning 5x5 tiles, dealing high damage to zombies.
 
+[ALARMSAGITTIFOLIA_AVATAR_PLANTFOOD_DESCRIPTION]
+Fires a blast of energy in the third row and third column from the right spanning 5x5 tiles, dealing high damage to zombies leaves a node of energy that deals damage to zombies in a 3x3 radius for 5 seconds.
 
+[STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA]
+Now leaves a node of energy that deals damage to zombies in a 3x3 radius for 5 seconds.
 
+[STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA_TITLE]
+Alarm Explosive Arrowhead Bandana
 
 
 
@@ -7809,295 +7685,806 @@ plants food also sputters out an arc in the 3X3 range when hitting the zombies, 
 
 
 
+[HOLLYKNIGHT]
+Holly Barrier
 
+[HOLLYKNIGHT_DESCRIPTION]
+{KEYWORD}Usage: {STAT} Click to stay with the Wintergreen Knight and drag to the target position
+{KEYWORD}Range: {STAT} lawn grid full range
+{KEYWORD}Special: {STAT} repels zombies and leaves little holly behind
+{KEYWORD}Plant features: {STAT} red plant
+{FLAVOR} Holly Barrier advises not to eat their fruits casually. He said: It is very impolite to eat his fruits without being allowed. As a knight, he hates impolite behavior. As a knight, I would like to remind children not to eat randomly, they may have diarrhea
 
+[HOLLYKNIGHT_DESCRIPTION_HEADER]
+Holly can launch small holly to any lattice position on the lawn
 
+[HOLLYKNIGHT_TOOLTIP]
+Click on the holly, click on the lattice to launch the little holly
 
+[HOLLYKNIGHT_SKILL_LEVEL1]
+Knight Vicinity
 
+[HOLLYKNIGHT_SKILL_LEVEL1_DES]
+Increases attack range, which is attack all zombies within one square to the left, right, up, and down simultaneously.
 
+[HOLLYKNIGHT_SKILL_LEVEL2]
+Knight Faith
 
+[HOLLYKNIGHT_SKILL_LEVEL2_DES]
+The knockback effect of small holly is enhanced. It can knock back small zombies by 3 squares.
 
+[HOLLYKNIGHT_SKILL_LEVEL5]
+Knight Guard
 
+[HOLLYKNIGHT_SKILL_LEVEL5_DES]
+The size of the small holly thrown by Holly Barrier is increased. Its health is increased to 3200, and its attack power is increased to be consistent with Holly Barrier.
 
+[HOLLYKNIGHT_NEW_SKILL_LEVEL1_DES]
+Holly Knight can launch 3 small hollies to targeted locations. On impact, they deal AoE damage and knock back small zombies. Both Holly Knight and small hollies damage zombies within 1 tile on either side.
 
+[HOLLYKNIGHT_NEW_SKILL_LEVEL2_DES]
+Increases attack range, which is attack all zombies within one square to the left, right, up, and down simultaneously.
 
+[HOLLYKNIGHT_NEW_SKILL_LEVEL3_DES]
+The knockback effect of small holly is enhanced. It can knock back small zombies by 3 squares.
 
+[HOLLYKNIGHT_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
+The size of the small holly thrown by Holly Barrier is increased. Its health is increased to 3200, and its attack power is increased to be consistent with Holly Barrier.
 
+[HOLLYKNIGHT_PLANTFOOD_DESCRIPTION]
+Regain all lost berries, and will launch three berries on random tiles.
 
+[HOLLYKNIGHT_AVATAR_PLANTFOOD_DESCRIPTION]
+Regain all lost berries, and will launch three berries on random tiles (one of the berries do electric damage).
 
+[HOLLYKNIGHT_AVATAR_NAME]
+Holly Barrier ribbon
 
+[STORE_PRODUCT_AVATAR_HOLLYKNIGHT_TITLE]
+Holly Barrier ribbon
 
+[STORE_PRODUCT_AVATAR_HOLLYKNIGHT]
+One of the berries deal electric damage, dealing more damage.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
+Holly Barrier emblem
 
+[NEW_AVATAR_DESCRIPTION_HOLLYKNIGHT_1]
+Reduces planting cooldown by 20%
 
+[SHADOWPEASHOOTER]
+Shadow Peashooter
 
+[SHADOWPEASHOOTER_DESCRIPTION]
+{KEYWORD}Special: {STAT}Shadow form, can attack an entire lane of zombies and cause a poison effect
+{KEYWORD}Plant features: {STAT}green plant, Shadow family
+{FLAVOR}Shadow Peashooter has always felt that light is how shadows can exist is an extremely unscientific thing. Because he himself is a shadow, and he doesn't need light to exist.
 
+[SHADOWPEASHOOTER_DESCRIPTION_HEADER]
+Shadow Peashooter can drag nearby zombies into the ground
 
+[SHADOWPEASHOOTER_TOOLTIP]
+Shadow Peashooter can drag nearby zombies into the ground
 
+[SHADOWPEASHOOTER_SKILL_LEVEL1]
+Shadow Bullet
 
+[SHADOWPEASHOOTER_SKILL_LEVEL1_DES]
+10% chance to fire a bolt/beam that does 180/315 damage.
 
+[SHADOWPEASHOOTER_SKILL_LEVEL2]
+Shadow Bomb
 
+[SHADOWPEASHOOTER_SKILL_LEVEL2_DES]
+20% chance to fire a bolt/beam that does 240/420 damage.
 
+[SHADOWPEASHOOTER_SKILL_LEVEL5]
+Shadow Stream
 
+[SHADOWPEASHOOTER_SKILL_LEVEL5_DES]
+80% chance to fire a beam when unpowered. When powered, 30% chance to generate a black hole for 4 seconds upon killing the first zombie in the current lane, which either does damage or devours small and medium zombies.
 
+[SHADOWPEASHOOTER_NEW_SKILL_LEVEL1_DES]
+Shadow bullets are fired in the normal state, causing damage to a single zombie, and in the Shadow state, a beam of shadow can be fired, causing damage to the entire row of zombies and applying deceleration. When a zombie approaches, this zombie is dragged underground and then disappears, and up to 3 zombies can be dragged away in the Shadow state.
 
+[SHADOWPEASHOOTER_NEW_SKILL_LEVEL2_DES]
+10% chance to fire a bolt/beam that does 180/315 damage.
 
+[SHADOWPEASHOOTER_NEW_SKILL_LEVEL3_DES]
+20% chance to fire a bolt/beam that does 240/420 damage.
 
+[SHADOWPEASHOOTER_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[SHADOWPEASHOOTER_NEW_SKILL_LEVEL5_DES]
+80% chance to fire a beam when unpowered. When powered, 30% chance to generate a black hole for 4 seconds upon killing the first zombie in the current lane, which either does damage or devours small and medium zombies.
 
+[SHADOWPEASHOOTER_PLANTFOOD_DESCRIPTION]
+Shadow Pea condenses 3 ghost balls, causing damage to zombies in the 3x3 range. As the number of moonlight flowers increases on the field, the attack range will also be expanded, maximizing to full screen.
 
+[SHADOWPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
+Shadow Pea condenses ^ff00004 ghost balls^oldclrr, causing damage to zombies in the 3x3 range. As the number of moonlight flowers increases on the field, the attack range will also be expanded, maximizing to full screen.
 
+[GENE_DESCRIPTION_SHADOWPEASHOOTER]
+Increases attack power with the number of Moonflowers on the field by {Param_1}%
 
+[SHADOWPEASHOOTER_AVATAR_NAME]
+Shadow Peashooter yellow hat
 
+[STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
+Shadow Peashooter yellow hat
 
+[STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
+Throws 4 projectiles.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_1]
+Shadow Peashooter Witch Hat
 
+[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_1]
+Increases attack speed by 10% and drags zombies once more in shadow state
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
+Shadow Peashooter Straw Hat
 
+[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_2]
+Increases plant attack by 20%
 
 
 
 
+[SNAPPEA]
+Snap Pea
 
+[SNAPPEA_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant, pea family
+{FLAVOR}"I'm a picky eater, I'll admit it," admits Snap Pea casually. "I'll eat a zombie, no problem, but there's just something about heads. I feel like they're looking at me."
 
+[SNAPPEA_DESCRIPTION_HEADER]
+Drill out of the ground to eat zombies in a straight line
 
+[SNAPPEA_TOOLTIP]
+Drill out of the ground to eat zombies in a straight line
 
+[SNAPPEA_PRODUCT_SHORT_DESC]
+Drill out of the ground to eat zombies in a straight line
 
+[SNAPPEA_SKILL_LEVEL1]
+Rapid digestion
 
+[SNAPPEA_SKILL_LEVEL1_DES]
+Snap Pea speeds up the digestion time. Recharge reduced to 9 seconds.
 
+[SNAPPEA_SKILL_LEVEL2]
+Speed digestion
 
+[SNAPPEA_SKILL_LEVEL2_DES]
+Digestion time reduced by 2 seconds
 
+[SNAPPEA_SKILL_LEVEL5]
+Gluttony
 
+[SNAPPEA_SKILL_LEVEL5_DES]
+There is a 50% chance of devouring or firing bullets at up to two zombies within one square in front or behind the target when attacking.
 
+[SNAPPEA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of the cannibal flower pea, it dives to the ground to appear on the soles of this zombie's feet and devour this zombie, which then enters a digestive state. If it is a non-devourable zombie, 3 pea bullets will be fired after it appears.
 
+[SNAPPEA_NEW_SKILL_LEVEL2_DES]
+Snap Pea speeds up the digestion time. Recharge reduced to 9 seconds.
 
+[SNAPPEA_NEW_SKILL_LEVEL3_DES]
+The skill effect of High-Speed Digestion is increased by 100%. Recharge reduced to 8 seconds.
 
+[SNAPPEA_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[SNAPPEA_NEW_SKILL_LEVEL5_DES]
+There is a 50% chance of devouring or firing bullets at up to two zombies within one square in front or behind the target when attacking.
 
+[SNAPPEA_PLANTFOOD_DESCRIPTION]
+Burrow underground and snap up five random zombies, and then return to shoot one heads in its lane.
 
+[SNAPPEA_AVATAR_PLANTFOOD_DESCRIPTION]
+Burrow underground and snap up five random zombies, and then return to shoot all heads in its lane.
 
+[SNAPPEA_AVATAR_NAME]
+Chompet Pea Costume
 
+[STORE_PRODUCT_AVATAR_SNAPPEA]
+Plants food can spray multiple zombie heads
 
+[STORE_PRODUCT_AVATAR_SNAPPEA_TITLE]
+Snap PeaBonnet
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SNAPPEA_1]
+Snap Pea Flower growt
 
+[NEW_AVATAR_DESCRIPTION_SNAPPEA_1]
+Reduce cooldown by 10%
 
 
 
 
 
 
+[THUNDERSNAPDRAGON]
+Zapdragon
 
+[THUNDERSNAPDRAGON_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}blue plant, 100,000 volts
+{FLAVOR}As a member of the Lightning Family, Thunder Snapdragon is a known menace proclaiming to hail from Asgard, his spiteful catchphrases being "I am dragon of thunder." "They all say I'm Snapdragon by my looks. Please, that ain't me, I'm miles better!"
 
+[THUNDERSNAPDRAGON_DESCRIPTION_HEADER]
+Spits out a lightning ball, that discharges an electrical current, causing ranged damage to approaching zombies.
 
+[THUNDERSNAPDRAGON_TOOLTIP]
+Spits out a lightning ball, that discharges an electrical current, causing ranged damage to approaching zombies.
 
+[THUNDERSNAPDRAGON_PRODUCT_SHORT_DESC]
+Spits out a lightning ball, that discharges an electrical current, causing ranged damage to approaching zombies.
 
+[THUNDERSNAPDRAGON_SKILL_LEVEL1]
+Electric Ball Enhancement
 
+[THUNDERSNAPDRAGON_SKILL_LEVEL1_DES]
+20% chance to fire an electric sphere that does 705 (direct)/300 (splash) damage and stuns for 1 second.
 
+[THUNDERSNAPDRAGON_SKILL_LEVEL2]
+Super Electric Ball
 
+[THUNDERSNAPDRAGON_SKILL_LEVEL2_DES]
+40% chance to fire an electric sphere that does 940 (direct)/300 (splash) damage and stuns for 1 second.
 
+[THUNDERSNAPDRAGON_SKILL_LEVEL5]
+Thunder Dragon Phantom
 
+[THUNDERSNAPDRAGON_SKILL_LEVEL5_DES]
+20% chance to fire a lane-wide attack that does 2500 damage and stuns all surviving targets for 1 second.
 
+[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
+When a zombie appears in the 2x3 range on the right side of Brontosaurus, it will spit out a thunderball, causing a 100-point spread to the zombie in the 2x3 range after hitting the zombie. There is a 50% probability of zombies in the mission^ff9600^paralysisⅠ^oldclrr1 second.
 
+[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
+When zombies are 2×3 tiles in front of him, he shoots out an electric ball that deals 100 splash damage to zombies in a 2×3 area upon hit. 50% chance to inflict ^ff9600^Paralysis I^oldclr^ on hit zombies for 1 second.
 
+[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL2_DES]
+20% chance to fire an electric sphere that does 705 (direct)/300 (splash) damage and stuns for 1 second.
 
+[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL3_DES]
+40% chance to fire an electric sphere that does 940 (direct)/300 (splash) damage and stuns for 1 second.
 
+[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
+20% chance to fire a lane-wide attack that does 2500 damage and stuns all surviving targets for 1 second.
 
+[THUNDERSNAPDRAGON_PLANTFOOD_DESCRIPTION]
+Spits an electric ball at the ground in front of him which will stun and deal continuous damage for a few seconds.
 
+[THUNDERSNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
+Spits 2 electric ball at the ground in front of him which will stun and deal continuous damage for a few seconds.
 
+[THUNDERSNAPDRAGON_AVATAR_NAME]
+He will spit two electric balls instead of one.
 
+[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON]
+He will spit two electric balls instead of one.
 
+[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE]
+Zapdragon lightning
 
+[NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
+Zapdragon Cupcake
 
+[NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
+Attack power increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
+Zapdragon New Year
 
 
 
+[MONOTROPA]
+Crystal Orchid
 
+[MONOTROPA_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}blue plant
+{FLAVOR}The Snow Queen, likes to have snowmen in her garden, of course, if the snowmen are not very obedient, she doesn't mind administering a little punishment.
 
+[MONOTROPA_DESCRIPTION_HEADER]
+The controller of ice and snow, likes to turn enemies into snowmen
 
+[MONOTROPA_TOOLTIP]
+The controller of ice and snow, likes to turn enemies into snowmen
 
+[MONOTROPA_PRODUCT_SHORT_DESC]
+The controller of ice and snow, likes to turn enemies into snowmen
 
+[MONOTROPA_PRODUCT_SHORT_DESC]
+The controller of ice and snow, likes to turn enemies into snowmen
 
+[MONOTROPA_SKILL_LEVEL1]
+Ice and Snow Enhancement
 
+[MONOTROPA_SKILL_LEVEL1_DES]
+Crystal Orchid has strengthened its ice and snow abilities, increasing the attack range of ice wind by 2 squares.
 
+[MONOTROPA_SKILL_LEVEL2]
+Ice and Snow Control
 
+[MONOTROPA_SKILL_LEVEL2_DES]
+Crystal Orchid has further improved its control over ice and snow, increasing the duration of snowman by 50%.
 
+[MONOTROPA_SKILL_LEVEL5]
+Frozen Residue
 
+[MONOTROPA_SKILL_LEVEL5_DES]
+When the zombies recover from the snowman state, they will be left with a freezing effect on their bodies, entering a 2-second slow state.
 
+[MONOTROPA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears in the 3-square on the right side of Crystal Orchid, it releases the ice wind, causing damage to zombies within range, and turning the first small zombie into an immobile snowman for 5 seconds.
 
+[MONOTROPA_NEW_SKILL_LEVEL2_DES]
+Crystal Orchid has strengthened its ice and snow abilities, increasing the attack range of ice wind by 2 squares.
 
+[MONOTROPA_NEW_SKILL_LEVEL3_DES]
+Crystal Orchid has further improved its control over ice and snow, increasing the duration of snowman by 50%.
 
+[MONOTROPA_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[MONOTROPA_NEW_SKILL_LEVEL5_DES]
+When the zombies recover from the snowman state, they will be left with a freezing effect on their bodies, entering a 2-second slow state.
 
+[MONOTROPA_PLANTFOOD_DESCRIPTION]
+Fire a massive gust of freezing wind into the sky causing a massive snowstorm that turns all zombies on the screen into snowmen.
 
+[MONOTROPA_AVATAR_PLANTFOOD_DESCRIPTION]
+fire a massive gust of freezing wind into the sky causing a massive snowstorm that turns all zombies on the screen into snowmen. ^FF0000 There is a probability of freezing zombie for 2 seconds. ^oldclrr
 
+[STORE_PRODUCT_AVATAR_MONOTROPA]
+The snowstorm she creates will now drop large icicles dealing damage to zombies it hits.
 
+[STORE_PRODUCT_AVATAR_MONOTROPA_TITLE]
+Crystal Orchid Costume
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_1]
+Crystal Orchid Christmas Costume
 
+[NEW_AVATAR_DESCRIPTION_MONOTROPA_1]
+Plant attack increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_2]
+Crystal Orchid Veil
 
+[NEW_AVATAR_DESCRIPTION_MONOTROPA_2]
+Attack Interval -15%
 
 
 
+[ALOES]
+Aloe
 
+[ALOES_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}You can find Aloe pushing her brand of fluids in the beauty sector. The current trend's all about skin cleansing, and she's good at it.
 
+[ALOES_DESCRIPTION_HEADER]
+Dispels Perfume Zombies' toxic mist, boosts damage of nearby plants.
 
+[ALOES_TOOLTIP]
+Dispels Perfume Zombies' toxic mist, boosts damage of nearby plants.
 
+[ALOES_PRODUCT_SHORT_DESC]
+Dispels Perfume Zombies' toxic mist, boosts damage of nearby plants.
 
+[ALOES_SKILL_LEVEL1]
+Crystal Clear
 
+[ALOES_SKILL_LEVEL1_DES]
+50% chance to additionally boost attack speed by 100%
 
+[ALOES_SKILL_LEVEL2]
+Moist and Smooth
 
+[ALOES_SKILL_LEVEL2_DES]
+100% chance to additionally boost attack speed by 100%
 
+[ALOES_SKILL_LEVEL5]
+Icy Water Droplets
 
+[ALOES_SKILL_LEVEL5_DES]
+Further increases damage bonus by 20% and now slows zombies in her AOE.
 
+[ALOES_NEW_SKILL_LEVEL1_DES]
+The aloe vera doctor throws out 1 water droplet every 10 seconds to create water mist for the surrounding 3x3 grid, so that plants in this range can regain 10% of their health per second and increase their attack power by 20% for 7 seconds. ^ff0000It has a miraculous effect on the perfumer's poisonous mist! ^oldclrr
 
+[ALOES_NEW_SKILL_LEVEL2_DES]
+50% chance to additionally boost attack speed by 100%
 
+[ALOES_NEW_SKILL_LEVEL3_DES]
+100% chance to additionally boost attack speed by 100%
 
+[ALOES_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[ALOES_NEW_SKILL_LEVEL5_DES]
+Further increases damage bonus by 20% and now slows zombies in her AOE.
 
+[ALOES_PLANTFOOD_DESCRIPTION]
+Launches 5 water droplets randomly. Each affects a 3x3 area, with healing and damage boosts for 7s.
 
+[ALOES_AVATAR_PLANTFOOD_DESCRIPTION]
+Launches 5 water droplets randomly. Each affects a 3x3 area, with healing and damage boosts for 8s and also freeze zombies on contact as well for 2s.
 
+[GENE_DESCRIPTION_ALOES]
+Normal Droplet attack damage bonus effect increased by {Param_1}%
 
+[STORE_PRODUCT_AVATAR_ALOES_TITLE]
+Aloe Leaf Pennant
 
+[STORE_PRODUCT_AVATAR_ALOES]
+Plant Food puddles now freeze zombies on contact as well.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_1]
+Aloe Flower Pennant
 
+[NEW_AVATAR_DESCRIPTION_ALOES_1]
+Reduce sun cost by 20
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_2]
+Aloe bow tie
 
 
 
 
 
+[SLINGPEA]
+Sling Pea
 
+[SLINGPEA_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant, pea family
+{FLAVOR} Pea mortar closely follows the entire battle scene, if something slips in, he says thoughtfully, that's my fault, if this happens, I won't forgive myself.
 
+[SLINGPEA_DESCRIPTION_HEADER]
+Spit bullets to cause damage to the zombies
 
+[SLINGPEA_TOOLTIP]
+Spit bullets to cause damage to the zombies
 
+[SLINGPEA_PRODUCT_SHORT_DESC]
+Spit bullets to cause damage to the zombies
 
+[SLINGPEA_SKILL_LEVEL1]
+Bouncy Peas
 
+[SLINGPEA_SKILL_LEVEL1_DES]
+There's a 50% probability of firing elastic peas with 150 damage. After hitting zombies, it will have an ejection effect. Up to 2 zombies can be ejected. After each ejection, the damage of elastic peas will be weakened.
 
+[SLINGPEA_SKILL_LEVEL2]
+trong Peas
 
+[SLINGPEA_SKILL_LEVEL2_DES]
+The effect of Bouncy Peas is increased to 100%. Damage increased to 200 points.
 
+[SLINGPEA_SKILL_LEVEL5]
+Exploding Peas
 
+[SLINGPEA_SKILL_LEVEL5_DES]
+There's a 50% probability of firing a bomb pea that deals 1500 damage to a single square zombie when attacking.
 
+[SLINGPEA_NEW_SKILL_LEVEL1_DES]
+When a zombie appears within the attack range, it fires 5 pea shells at the same time, causing 25% sputtering damage to a small range of zombies after causing damage to the zombies.
 
+[SLINGPEA_NEW_SKILL_LEVEL2_DES]
+There's a 50% probability of firing elastic peas with 150 damage. After hitting zombies, it will have an ejection effect. Up to 2 zombies can be ejected. After each ejection, the damage of elastic peas will be weakened.
 
+[SLINGPEA_NEW_SKILL_LEVEL3_DES]
+he effect of Bouncy Peas is increased to 100%. Damage increased to 200 points.
 
+[SLINGPEA_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[SLINGPEA_NEW_SKILL_LEVEL5_DES]
+There's a 50% probability of firing a bomb pea that deals 1500 damage to a single square zombie when attacking.
 
+[SLINGPEA_PLANTFOOD_DESCRIPTION]
+Fire 3 massive flaming peas at the each closest zombie to the house three times on each lane.
 
+[SLINGPEA_AVATAR_PLANTFOOD_DESCRIPTION]
+Fire 3 massive flaming peas ^ff0000 (50% chance of turning into a blue-fire pea in each round, doubling the damage) ^oldclrr at the each closest zombie to the house three times on each lane.
 
+[GENE_DESCRIPTION_SLINGPEA]
+Projectile pea damage increased by {Param_1}% and bomb pea damage increased by {Param_2}%
 
+[SLINGPEA_AVATAR_NAME]
+Sling Pea Racing Trim
 
+[STORE_PRODUCT_AVATAR_SLINGPEA]
+Sling have 50% chance of shooting fire or napalm peas.
 
+[STORE_PRODUCT_AVATAR_SLINGPEA_TITLE]
+Sling Pea Racing Trim
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
+Sling Pea Anniversary Costume
 
+[NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
+Attack power increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_2]
+Sling Pea price tag
 
+[NEW_AVATAR_DESCRIPTION_SLINGPEA_2]
+Reduces planting cooldown by 15%
 
 
 
 
 
 
+[BEARBERRY]
+Bearberry
 
+[BEARBERRY_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}red plant
+{FLAVOR}Bearberry has never been on the front line. In fact, during a recent inspection his jammed cannon labeled him unqualified.
 
+[BEARBERRY_DESCRIPTION_HEADER]
+Launches a rolling Bearberry shell to attack a row of zombies.
 
+[BEARBERRY_TOOLTIP]
+Launches a rolling Bearberry shell to attack a row of zombies.
 
+[BEARBERRY_PRODUCT_SHORT_DESC]
+Launches a rolling Bearberry shell to attack a row of zombies.
 
+[BEARBERRY_SKILL_LEVEL1]
+Jammed Twin Shot
 
+[BEARBERRY_SKILL_LEVEL1_DES]
+When attacking, there is a 10% chance to fire 2 shells at a time due to the jamming. One rolls underfoot, one flies two squares and falls, then rolls again.
 
+[BEARBERRY_SKILL_LEVEL2]
+Jammed Once Again
 
+[BEARBERRY_SKILL_LEVEL2_DES]
+Jammed Twin Shot is increased by 100%.
 
+[BEARBERRY_SKILL_LEVEL5]
+Golden Cannonball
 
+[BEARBERRY_SKILL_LEVEL5_DES]
+Bearberry Mortar fires 3 bearberry shells continuously, rolling to the right, upper right and lower right in turn, knocking up small and medium-sized zombies passing by or causing damage.
 
+[BEARBERRY_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of a bear fruit mortar, it fires a shell that rolls to the right and penetrates the entire row causing damage.
 
+[BEARBERRY_NEW_SKILL_LEVEL2_DES]
+When attacking, there is a 10% chance to fire 2 shells at a time due to the jamming. One rolls underfoot, one flies two squares and falls, then rolls again.
 
+[BEARBERRY_NEW_SKILL_LEVEL3_DES]
+Jammed Twin Shot is increased by 100%.
 
+[BEARBERRY_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[BEARBERRY_NEW_SKILL_LEVEL5_DES]
+Bearberry Mortar fires 3 bearberry shells continuously, rolling to the right, upper right and lower right in turn, knocking up small and medium-sized zombies passing by or causing damage.
 
+[BEARBERRY_PLANTFOOD_DESCRIPTION]
+Launches three larger bearberries: one on its lane, one diagonally upward and one diagonally downward.
 
+[BEARBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
+Launches three larger bearberries on fire: one on its lane, one diagonally upward and one diagonally downward.
 
+[GENE_DESCRIPTION_BEARBERRY]
+There is a chance {Param_1}% to jam and fire one more shell in a random direction to the right
 
+[BEARBERRY_AVATAR_NAME]
+The larger bearberries are now on fire, dealing more damage to machines and Gargantuars.
 
+[STORE_PRODUCT_AVATAR_BEARBERRY]
+The larger bearberries are now on fire, dealing more damage to machines and Gargantuars.
 
+[STORE_PRODUCT_AVATAR_BEARBERRY_TITLE]
+Bearberry Costume 
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
+Bearberry animal glasses
 
+[NEW_AVATAR_DESCRIPTION_BEARBERRY_1]
+Attack power increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_2]
+Bearberry overalls
 
+[NEW_AVATAR_DESCRIPTION_BEARBERRY_2]
+Attack speed increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_3]
+Bearberry Sand Monk
 
+[NEW_AVATAR_DESCRIPTION_BEARBERRY_3]
+Attack +20%
 
 
 
 
 
+[WAXGOURD]
+Wax Gourd
 
+[WAXGOURD_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}Wax Gourd has been in that crucial position for an awfully long time. Countless Zombies are eager to try and move him one tile, to advance down the lane, Ah~! The sound of their voices get quieter as they approach the horizon.
 
+[WAXGOURD_DESCRIPTION_HEADER]
+Presses the Vitruvian Wheel's Floor-de-Lis tiles, bounces zombies when angry.
 
+[WAXGOURD_TOOLTIP]
+Presses the Vitruvian Wheel's Floor-de-Lis tiles, bounces zombies when angry.
 
+[WAXGOURD_PRODUCT_SHORT_DESC]
+Presses the Vitruvian Wheel's Floor-de-Lis tiles, bounces zombies when angry.
 
+[WAXGOURD_SKILL_LEVEL1]
+Anger Instinct
 
+[WAXGOURD_SKILL_LEVEL1_DES]
+When Wax Gourd is attacked, it triggers a jump, and when it lands, it shakes up its own grid and all the zombies in the grid in front of it. Triggers once every 20 seconds.
 
+[WAXGOURD_SKILL_LEVEL2]
+Spitting Anger
 
+[WAXGOURD_SKILL_LEVEL2_DES]
+The trigger interval of Anger Instinct is shortened, triggering once every 10 seconds.
 
+[WAXGOURD_SKILL_LEVEL5]
+Burning in Anger
 
+[WAXGOURD_SKILL_LEVEL5_DES]
+Wax Gourd will actively charge up, and will jump immediately when the zombie is one square ahead. After landing, it shakes up all zombies and deals 210 damage.
 
+[WAXGOURD_NEW_SKILL_LEVEL1_DES]
+When Wax Gourd is attacked, it triggers a jump, and when it lands, it shakes up its own grid and all the zombies in the grid in front of it. Triggers once every 20 seconds.
 
+[WAXGOURD_NEW_SKILL_LEVEL2_DES]
+Donggua triggers a jump when attacked, and after landing, it shakes up all the zombies in its own grid and one grid in front. Triggered every 20 seconds.
 
+[WAXGOURD_NEW_SKILL_LEVEL3_DES]
+The trigger interval of Anger Instinct is shortened, triggering once every 10 seconds.
 
+[WAXGOURD_NEW_SKILL_LEVEL4_DES]
+There is a low probability of be boosted
 
+[WAXGOURD_NEW_SKILL_LEVEL5_DES]
+Wax Gourd will actively charge up, and will jump immediately when the zombie is one square ahead. After landing, it shakes up all zombies and deals 210 damage.
 
+[WAXGOURD_PLANTFOOD_DESCRIPTION]
+Bounce 3 times. First, is 1x2, then 3x3 and the last one pushes them back.
 
+[WAXGOURD_AVATAR_PLANTFOOD_DESCRIPTION]
+Bounce 3 times and deal damages. First, is 1x2, then 3x3 and the last one pushes them back.
 
+[GENE_DESCRIPTION_WAXGOURD]
+health increased by {Param_1}%
 
+[WAXGOURD_AVATAR_NAME]
+Presses the Vitruvian Wheel's Floor-de-Lis tiles, bounces zombies when angry.
 
+[STORE_PRODUCT_AVATAR_WAXGOURD]
+Jumps now deal damage.
 
+[STORE_PRODUCT_AVATAR_WAXGOURD_TITLE]
+Wax Gourd Boxer
 
 
 
 
 
 
+[OLIVE]
+Oily Olive
 
+[OLIVE_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}green plant
+{FLAVOR}Oily Olive originates from far within the Mediterranean and has come to this mysterious land to study culinary techniques. But he only just recently got the handle of a spoon: Pour a little oil in the pan, lift it twice, set the the pan ablaze, looks pretty cool.
 
+[OLIVE_DESCRIPTION_HEADER]
+Can slip up Ballet Zombies, oil can be lit on fire when attacks by fire plants touch it.
 
+[OLIVE_TOOLTIP]
+Can slip up Ballet Zombies, oil can be lit on fire when attacks by fire plants touch it.
 
+[OLIVE_PRODUCT_SHORT_DESC]
+Can slip up Ballet Zombies, oil can be lit on fire when attacks by fire plants touch it.
 
+[OLIVE_AVATAR_NAME]
+Can slip up Ballet Zombies, oil can be lit on fire when attacks by fire plants touch it.
 
+[OLIVE_NEW_SKILL_LEVEL1_DES]
+After planting, olive oil is left on the plot within the attack range for 5 seconds, and a flame-like attack can ignite the olive oil, causing the zombies on it to suffer 100 points of damage per second for 6 seconds. ^ff0000It has miraculous effects on ballet zombies! ^oldclrr
 
+He creates a slippery, yet flammable oil slick in a small area when planted. dealing 100 points of dmg/s for 6 seconds. ^ff0000 It has special effects on Ballerina zombies! ^oldclrr
 
+[OLIVE_PLANTFOOD_DESCRIPTION]
+This plant does not have an plants food effect 
 
+[OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
+This plant does not have an plants food effect 
 
+[STORE_PRODUCT_AVATAR_OLIVE]
+Cooldown reduced
 
 
+[POMEGRANATEJEWELER]
+Pomegranate
 
+[POMEGRANATEJEWELER_DESCRIPTION]
+{KEYWORD}Plant features: {STAT}Red plant
+{FLAVOR}Pomegranate is the most powerful plant around. Many of the local big name zombies are willing to paint for him. Pomegranate is more than happy to pay them compensation. The payment method used doesn't involve QR codes or whatever, instead they're "paid" rather directly with gems.
 
+[POMEGRANATEJEWELER_DESCRIPTION_HEADER]
+Rubies can bounce randomly after hitting a zombie.
 
+[POMEGRANATEJEWELER_TOOLTIP]
+Rubies can bounce randomly after hitting a zombie.
 
+[POMEGRANATEJEWELER_PRODUCT_SHORT_DESC]
+Rubies can bounce randomly after hitting a zombie.
 
+[POMEGRANATEJEWELER_SKILL_LEVEL1]
+Rich Merchant
 
+[POMEGRANATEJEWELER_SKILL_LEVEL1_DES]
+There is a 20% chance to eject twin gems with 1.5 times damage. After the twin gems hit a zombie, they can cause ejection damage to zombies from two angles.
 
+[POMEGRANATEJEWELER_SKILL_LEVEL2]
+Kind and Charitable
 
+[POMEGRANATEJEWELER_SKILL_LEVEL2_DES]
+There is a probability of spraying the Sansheng gem, which can cause damage to the zombies at three angles after hitting them
 
+[POMEGRANATEJEWELER_SKILL_LEVEL5]
+Good Fortune
 
+[POMEGRANATEJEWELER_SKILL_LEVEL5_DES]
+There is a probability to spray a strengthening gem. The strengthening gem is twice the damage of ordinary gems. After the strengthening gem is sprayed, the next two attacks will have special effects: it will definitely trigger level 3
 
+[POMEGRANATEJEWELER_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of the gem dealer pomegranate, it will eject the gem to cause damage to the zombie, and after the gem hits, it will eject diagonally to the right to cause 50% damage.
 
+[POMEGRANATEJEWELER_NEW_SKILL_LEVEL2_DES]
+There is a 20% chance to eject twin gems with 1.5 times damage. After the twin gems hit a zombie, they can cause ejection damage to zombies from two angles.
 
+[POMEGRANATEJEWELER_NEW_SKILL_LEVEL3_DES]
+The effect of the skill of Rich Merchant is improved, and it becomes a three-life gem with a 50% probability of spraying double damage. After the three-life gem hits a zombie, it can cause ejection damage to zombies from three angles.
 
+[POMEGRANATEJEWELER_NEW_SKILL_LEVEL4_DES]
+There is a high probability of be boosted
 
+[POMEGRANATEJEWELER_NEW_SKILL_LEVEL5_DES]
+There is a 30% chance to spray an enhanced gem, and the damage of the enhanced gem is 2.5 times that of ordinary gems. After ejecting the enhanced gem, the next 2 attacks must be the triple gem.
 
+[POMEGRANATEJEWELER_PLANTFOOD_DESCRIPTION]
+launches a 4 and 1 big volley of rubies at various different zombies. The big gem causes higher damage and a stun effect, which can instantly kill up to 2 small and medium-sized zombies.
 
+[POMEGRANATEJEWELER_AVATAR_PLANTFOOD_DESCRIPTION]
+launches a 4 and 1 big volley of rubies at various different zombies. The big gem causes higher damage ^FF0000 make zombies switch lanes ^oldclr  and a stun effect, which can instantly kill up to 2 small and medium-sized zombies.
 
+[POMEGRANATEJEWELER_AVATAR_NAME]
+Pomegranate bandana
 
+[STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER]
+One of his rubies will make zombies switch lanes.
 
-
-
-
-
-
-
-
+[STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER_TITLE]
+Pomegranate bandana
 
 
 
@@ -11783,16 +12170,16 @@ The ghost flame of plants food will splash small sparks that continue to cause d
 Jack O' Lantern Costume
 
 [JACKOLANTERN_BACK_FOR_LIMITED_TIME]
-Jack o' Lantern is back for a limited time!
+Jack O' Lantern Returns for a Limited Time!
 
 [PRODUCT_JACKOLANTERN_DESCRIPTION]
-Fires jets of flame over a short distance!
+Spray flames at close range
 
 [PRODUCT_JACKOLANTERN_NAME]
-Plant – Jack O’ Lantern
+Plants - Jack O' Lantern
 
 [PRODUCT_JACKOLANTERN_SHORT_DESCRIPTION]
-Jack O’ Lantern
+Jack O' Lantern
 
 [ADVICE_NO_JACKOLANTERN_ON_RAILCART]
 You can't grow Jack O' Lantern on a rail car.
@@ -14828,72 +15215,78 @@ Uses a sword to kill zombies.
 Maple Shadow · Twin Slashes
 
 [MAPLEBLADE_SKILL_LEVEL1_DES]
-分身冷却时间减少。收回分身后的下次攻击将变为^ff0000枫影・碎影^oldclrr
-^ff0000枫影・碎影^oldclrr：下次普通攻击变为强化攻击造成额外伤害。
+The clone cooldown time is reduced. The next attack after retrieving the clone will become ^ff0000 Maple Shadow · Fragmented Shadows. ^oldclr^
+^ff0000 Maple Shadow · Fragmented Shadows ^oldclr^: The next normal attack becomes a strengthened attack and deals additional damage.
 
 [MAPLEBLADE_SKILL_LEVEL2]
 Maple Shadow · Thousand Blades
 
 [MAPLEBLADE_SKILL_LEVEL2_DES]
-分身冷却时间继续减少，^ff0000枫影・碎影^oldclrr造成的伤害提升。
+The cooldown time of the clone continues to decrease, and the damage caused by ^ff0000 Maple Shadow · Fragmented Shadows ^oldclrr increases.
 
 [MAPLEBLADE_SKILL_LEVEL5]
-枫影·燕行绝杀阵
+Maple Shadow · Swallow Killing Formation
 
 [MAPLEBLADE_SKILL_LEVEL5_DES]
-枫影剑客有概率释放^ff0000枫影・燕返^oldclrr。枫影・碎影额外产生一个攻击整行的剑气。
-^ff0000枫影・燕返^oldclrr：枫影剑客冲刺折返，对途径的僵尸造成伤害，下次攻击变为^ff0000枫影・碎影^oldclrr。
+Maple Swordsman has a chance to release ^ff0000 Maple Shadow · Tsubame-Gaeshi ^oldclrr . Maple Shadow · Fragmented Shadows generates additional sword energy that attacks the entire lane.
+^ff0000 Maple Shadow · Tsubame-Gaeshi ^oldclrr : Maple Swordsman dashes back, dealing damage to zombies along the way, and the next attack becomes ^ff0000 Maple Shadow · Fragmented Shadows ^oldclrr.
 
 [MAPLEBLADE_NEW_SKILL_LEVEL1_DES]
-使用刀剑斩击前方僵尸。并可以释放技能枫影・水中月
-枫影・水中月：技能准备完毕时，直到有僵尸进入枫影剑客前方一格范围内时，生成一个分身向前冲刺至枫叶前方第三格，并击飞途径的僵尸0.5秒并造成伤害。
+Slashes zombies ahead with sword attacks. Can activate skill: ^ff0000 Maple Shadow: Clone ^oldclr^
+^ff0000 Maple Shadow: Clone ^oldclr^: When skill is ready, creates a clone that dashes to 3 tiles ahead (triggered when zombies enter front tile). Launches zombies along path for 0.5s while dealing damage.
+
 
 [MAPLEBLADE_NEW_SKILL_LEVEL2_DES]
-分身冷却时间减少。收回分身后的下次攻击将变为枫影・碎影
-枫影・碎影：下次普通攻击变为强化攻击并造成额外伤害。
+The clone cooldown time is reduced. The next attack after retrieving the clone will become ^ff0000 Maple Shadow · Fragmented Shadows. ^oldclr^
+^ff0000 Maple Shadow · Fragmented Shadows ^oldclr^: The next normal attack becomes a strengthened attack and deals additional damage.
 
 [MAPLEBLADE_NEW_SKILL_LEVEL3_DES]
-分身冷却时间继续减少，枫影・碎影造成的伤害提升。
+The cooldown time of the clone continues to decrease, and the damage caused by ^ff0000 Maple Shadow · Fragmented Shadows ^oldclrr increases.
 
 [MAPLEBLADE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招
+Maple Swordsman may be boosted when planted.
 
 [MAPLEBLADE_NEW_SKILL_LEVEL5_DES]
-枫影剑客有概率释放^ff0000枫影・燕返^oldclrr。枫影・碎影额外产生一个攻击整行的剑气，本体剑气与分身剑气同时命中的僵尸将被秒杀。
-^ff0000枫影・燕返^oldclrr：枫影剑客发起冲刺三格并折返，对途径的僵尸造成伤害并向中点击退，使下次攻击变为^ff0000枫影・碎影^oldclrr。 
+Maple Swordsman has a chance to release ^ff0000 Maple Shadow · Tsubame-Gaeshi ^oldclrr . Maple Shadow · Fragmented Shadows generates additional sword energy that attacks the entire lane.
+^ff0000 Maple Shadow · Tsubame-Gaeshi ^oldclrr : Maple Swordsman dashes back, dealing damage to zombies along the way, and the next attack becomes ^ff0000 Maple Shadow · Fragmented Shadows ^oldclrr.
 
 [MAPLEBLADE_PLANTFOOD_DESCRIPTION]
-枫影剑客蓄力后斩出圆型的剑气，剑气对接触到的僵尸造成X点伤害。
+After charging, Maple Blade unleashes circular sword energy that deals X damage to all zombies it contacts.
 
 [MAPLEBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
-大招造成伤害后，还会对命中的僵尸延后造成3段伤害。
+After the ultimate deals damage, hit zombies will take 3 additional delayed damage instances.
 
 [MAPLEBLADE_AVATAR_NAME]
 Maple Swordsman costume
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE]
-大招造成伤害后，还会对命中的僵尸延后造成3段伤害。
+After the ultimate deals damage, hit zombies will take 3 additional delayed damage instances.
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
 Maple Swordsman costume
+
+
+
+
+
 
 [BUDUHBOOM]
 Bud'uh Boom
 
 [BUDUHBOOM_DESCRIPTION]
-{KEYWORD}范围：{STAT}3×3
-{KEYWORD}特点：{STAT}黄油爆炸造成3×3范围的爆炸和控制
-{KEYWORD}植物特征：{STAT}黄色植物
+{KEYWORD}Range: {STAT}3×3
+{KEYWORD}Feature: {STAT}Butter explosion deals 3×3 AoE damage with immobilization
+{KEYWORD}Plant Type: {STAT}Yellow plant
 {FLAVOR}Bud'uh Boom's buttery obsession always had him on a hair trigger, but when Zomboss served up "You-can't-believe-it's-not-butter!" - it was poppin' pandemonium on the lawn! Now, he's ready to butter up zombies and explode with boiling, buttery, BOOM!
 
 [BUDUHBOOM_DESCRIPTION_HEADER]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Butter explosion affects 3×3 area, dealing damage and immobilizing targets. Can solidify Slime Zombies to prevent splitting.
 
 [BUDUHBOOM_TOOLTIP]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Butter explosion affects 3×3 area, dealing damage and immobilizing targets. Can solidify Slime Zombies to prevent splitting.
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Butter explosion affects 3×3 area, dealing damage and immobilizing targets. Can solidify Slime Zombies to prevent splitting.
 
 [BUDUHBOOM_SKILL_LEVEL1]
 More Butter
@@ -14908,7 +15301,7 @@ The number of butter tiles thrown after the explosion ends is increased by +1.
 The number of butter tiles thrown after the explosion ends is increased by +1.
 
 [BUDUHBOOM_NEW_SKILL_LEVEL1_DES]
-种植后直接爆炸造成3×3范围的爆炸伤害和黄油控制，可以凝住史莱姆僵尸使其不再分裂
+Explodes immediately after planting, dealing 3×3 area damage with butter immobilization. Solidifies Slime Zombies to stop their splitting.
 
 [BUDUHBOOM_NEW_SKILL_LEVEL2_DES]
 The number of butter tiles thrown after the explosion ends is increased by +1.
@@ -14966,7 +15359,7 @@ Abyssal Madness
 Guard-shroom will now spawn a more powerful Abyss Mini-shroom, which can devour medium-sized zombies; when Guard-shroom is eaten to death by a zombie, it will fall into the abyss and use its tentacles to drag the zombie into the ground.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
-守卫菇能够阻挡部分会飞跃的僵尸,并且可以直接种植在水里和陆地；每隔一段时间守卫菇身边会降下小守卫菇，小守卫菇能够吃掉普通僵尸和小鬼僵尸；植物可以种植在小守卫菇上，当为蘑菇类植物时，可为其提供额外增益效果。当其上方本体植物释放大招时，小守卫菇会吸收能量，大招完成后可使其释放二次大招。
+Blocks leaping zombies. Plantable on land/water. Spawns Mini Guardians that eat regular/Imp zombies. Mushroom plants on Mini Guardians gain buffs. Enables double Plant Food effects when host plants use theirs.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
 Digestion time of Mini-shroom is reduced; the sun consumption increase multiplier of Guard-shroom is reduced to 1.5 times.
@@ -14994,6 +15387,78 @@ Guard-shroom
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM]
 Range is increased from 3x3 to 4x3 and can now eat up to 7 zombies.
+
+
+
+
+[RHEUMNOBILE]
+伏僵塔黄
+
+[RHEUMNOBILE_DESCRIPTION]
+{KEYWORD}范围：{STAT}左右各1格
+{KEYWORD}特点：{STAT}吸收僵尸并炼化
+{KEYWORD}植物特征：{STAT}橙色植物
+{FLAVOR}把伏僵塔黄托在手心里会有种莫名的压力。但是把她放下之后，压力变得更大了……
+
+[RHEUMNOBILE_DESCRIPTION_HEADER]
+原地跳起将自身攻击范围内的僵尸吸引至身下，随后落下镇压
+
+[RHEUMNOBILE_TOOLTIP]
+原地跳起将自身攻击范围内的僵尸吸引至身下，随后落下镇压
+
+[RHEUMNOBILE_PRODUCT_SHORT_DESC]
+原地跳起将自身攻击范围内的僵尸吸引至身下，随后落下镇压
+
+[RHEUMNOBILE_SKILL_LEVEL1]
+超强吸力
+
+[RHEUMNOBILE_SKILL_LEVEL1_DES]
+血量上升至18000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至4阶
+
+[RHEUMNOBILE_SKILL_LEVEL2]
+无处可逃
+
+[RHEUMNOBILE_SKILL_LEVEL2_DES]
+血量上升至24000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至6阶
+
+[RHEUMNOBILE_SKILL_LEVEL5]
+玲珑焚天炎
+
+[RHEUMNOBILE_SKILL_LEVEL5_DES]
+可吸收僵尸的阶数上升至10阶。
+镇压时，塔黄向两侧喷出火焰，在5秒内对地面上的僵尸持续造成火焰伤害。在火焰上死亡的僵尸不论击杀来源死亡都会化灰。
+
+[RHEUMNOBILE_AVATAR_NAME]
+伏僵塔黄装扮
+
+[STORE_PRODUCT_AVATAR_RHEUMNOBILE]
+立即吸收场上八个血量最低的僵尸立即炼化。
+
+[STORE_PRODUCT_AVATAR_RHEUMNOBILE_TITLE]
+伏僵塔黄装扮
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL1_DES]
+手动点击塔黄，使塔黄左右各一格范围的僵尸吸引到中间随后镇压这些僵尸,60秒后塔中的僵尸将被炼化。塔内僵尸被炼化后，可手动点击塔黄再次释放镇压。最高吸收2阶僵尸
+塔黄可以将本行僵尸的灰烬转化为香火，炼化时可以吸收香火，每吸收一个香火增加10%炼化进度。
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL2_DES]
+血量上升至18000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至4阶
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL3_DES]
+血量上升至24000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至6阶
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL4_DES]
+种植有中概率释放大招，可吸收僵尸的阶数上升至8阶
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL5_DES]
+可吸收僵尸的阶数上升至10阶。
+镇压时，塔黄向两侧喷出火焰，在5秒内对地面上的僵尸持续造成火焰伤害。在火焰上死亡的僵尸不论击杀来源死亡都会化灰。
+
+[RHEUMNOBILE_PLANTFOOD_DESCRIPTION]
+立即吸收场上五个血量最低的僵尸立即炼化。，
+
+[RHEUMNOBILE_AVATAR_PLANTFOOD_DESCRIPTION]
+立即吸收场上八个血量最低的僵尸立即炼化。
 
 
 
@@ -26175,9 +26640,6 @@ The plants food will increase the clone by 1.
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT]
 Increase health after blocking the tunnel entrance.
-
-[STORE_PRODUCT_AVATAR_OLIVE]
-Recharge reduce.
 
 [STORE_PRODUCT_AVATAR_BRAMBLE_TITLE]
 Primitive Thorn Costume
@@ -47124,31 +47586,6 @@ Electro-energy magnetic field
 [ELECTRICPEASHOOTER_SKILL_LEVEL5_DES]
 There is a probability of forming an electric magnetic field to suck the surrounding target over and cause damage.
 
-[SHADOWPEASHOOTER]
-Electric energy peas
-
-[SHADOWPEASHOOTER_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}green plant,Shadow family
-{FLAVOR} Shadow Peashooter has always felt that light is how shadows can exist is an extremely unscientific thing. Because he himself is a shadow, and he doesn't need light to exist.
-
-[SHADOWPEASHOOTER_DESCRIPTION_HEADER]
-Shadow pea shooter can cause damage to surrounding units by firing bullets as a center
-
-[SHADOWPEASHOOTER_TOOLTIP]
-Shadow pea shooters can cause damage to surrounding units by firing bullets as a center
-
-[SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
-Shadow pea shooter can cause damage to surrounding units by firing bullets as a center
-
-[SHADOWPEASHOOTER_AVATAR_NAME]
-Shadow pea shooter Costume
-
-[STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
-plants food can release 2 more purple electric balls
-
-[STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
-Electric energy pea Costume
-
 [TWINSHONEYSUCKLE_FAMILY]
 忍冬科
 [TWINSHONEYSUCKLE_GENUS]
@@ -47995,137 +48432,8 @@ Moisturizing smooth
 [POMEGRANATE_SKILL_LEVEL5_DES]
 Increase the effect of Skill 2 by 100%
 
-[SNAPPEA]
-Cannibal peas
-
-[SNAPPEA_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}green plant, pea family
-{FLAVOR} Cannibal Flower Pea is a complete foodie and will not miss any delicacy. But due to overeating every day, indigestion caused him to vomit and not eat for a while. So warn the foodies, it's okay to like food, but in moderation!
-
-[SNAPPEA_DESCRIPTION_HEADER]
-Drill out of the ground to eat zombies in a straight line
-
-[SNAPPEA_TOOLTIP]
-Drill out of the ground to eat zombies in a straight line
-
-[SNAPPEA_PRODUCT_SHORT_DESC]
-Drill out of the ground to eat zombies in a straight line
-
-[SNAPPEA_AVATAR_NAME]
-Chompet Pea Costume
-
-[STORE_PRODUCT_AVATAR_SNAPPEA]
-Plants food can spray multiple zombie heads
-
-[STORE_PRODUCT_AVATAR_SNAPPEA_TITLE]
-Cannibal Pea Costume
-
-[SNAPPEA_SKILL_LEVEL1]
-Rapid digestion
-
-[SNAPPEA_SKILL_LEVEL1_DES]
-Digestion time reduced by 1 second
-
-[SNAPPEA_SKILL_LEVEL2]
-Speed digestion
-
-[SNAPPEA_SKILL_LEVEL2_DES]
-Digestion time reduced by 2 seconds
-
-[SNAPPEA_SKILL_LEVEL5]
-Gluttony
-
-[SNAPPEA_SKILL_LEVEL5_DES]
-There is a 50% probability that a normal attack will eat up to two zombies in one square before and after the target
-
 [HEIAN_HEADER]
 Throwing a grenade causes damage to a zombie within a square
-
-
-[THUNDERSNAPDRAGON]
-Brontosaurus
-
-[THUNDERSNAPDRAGON_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} blue plant, 100,000 volts
-{FLAVOR} Brontosaurus, as part of the Lightning family, claims to be from Ascade and is a famous bully in the family. He always mutters I am dragon of thunder. Everyone said I look like fire dragon, but I have nothing to do with it. I look much better than that guy! It said disdainfully.
-[THUNDERSNAPDRAGON_DESCRIPTION_HEADER]
-Spit out thunderballs, release electric current, and cause range damage to the zombies ahead
-
-[THUNDERSNAPDRAGON_TOOLTIP]
-Spit out thunderballs, release electric current, and cause range damage to the zombies ahead
-
-[THUNDERSNAPDRAGON_PRODUCT_SHORT_DESC]
-Spit out thunderballs, release electric current, and cause range damage to the zombies ahead
-
-[THUNDERSNAPDRAGON_AVATAR_NAME]
-Spit out thunderballs, release electric current, and cause range damage to the zombies ahead
-
-[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON]
-Spit out two big thunderballs in succession, increasing damage
-
-[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE]
-Brontosaurus Costume
-
-[THUNDERSNAPDRAGON_SKILL_LEVEL1]
-Electro-ball reinforcement
-
-[THUNDERSNAPDRAGON_SKILL_LEVEL1_DES]
-The probability is that a large thunderball will be ejected, the damage of the thunderball will increase, and it must be paralyzed for 1 second
-
-[THUNDERSNAPDRAGON_SKILL_LEVEL2]
-Superpowered Electric Ball
-
-[THUNDERSNAPDRAGON_SKILL_LEVEL2_DES]
-Increase the effect of Skill 2 by 100%
-
-[THUNDERSNAPDRAGON_SKILL_LEVEL5]
-Phantom of the Thunder Dragon
-
-[THUNDERSNAPDRAGON_SKILL_LEVEL5_DES]
-There is a probability that the thunder dragon phantom will fly out of the thunder dragon head. The thunder dragon phantom will emit lightning from the straight zombies, causing damage to the route and paralyzing it for 1 second.
-
-[SLINGPEA]
-Pea mortar
-
-[SLINGPEA_DESCRIPTION]
-{KEYWORD}Plant features: {STAT}green plant, pea family
-{FLAVOR} Pea mortar closely follows the entire battle scene, if something slips in, he says thoughtfully, that's my fault, if this happens, I won't forgive myself.
-
-[SLINGPEA_DESCRIPTION_HEADER]
-Spit bullets to cause damage to the zombies
-
-[SLINGPEA_TOOLTIP]
-Spit bullets to cause damage to the zombies
-
-[SLINGPEA_PRODUCT_SHORT_DESC]
-Spit bullets to cause damage to the zombies
-
-[SLINGPEA_AVATAR_NAME]
-Pea mortar costume
-
-[STORE_PRODUCT_AVATAR_SLINGPEA]
-Each wave of bullets has a 50% chance of turning into a blue fire bullet and a 50% chance of turning into a yellow bullet
-
-[STORE_PRODUCT_AVATAR_SLINGPEA_TITLE]
-Pea mortar costume
-
-[SLINGPEA_SKILL_LEVEL1]
-Stretch peas           
-
-[SLINGPEA_SKILL_LEVEL1_DES]
-There is a probability of firing five ejection bullets, which will have an ejection effect and eject up to 2 zombies.
-
-[SLINGPEA_SKILL_LEVEL2]
-Reinforced peas
-
-[SLINGPEA_SKILL_LEVEL2_DES]
-Increase the effect of Stretch Pea Skill by 100%
-
-[SLINGPEA_SKILL_LEVEL5]
-Exploding peas
-
-[SLINGPEA_SKILL_LEVEL5_DES]
-There is a probability to fire 5 bomb peas and randomly cause damage to zombies in a box on the map.
 
 [TULIPTRUMPETER]
 Tulip trumpeter
@@ -48284,108 +48592,6 @@ Cyclone Dart
 
 [EGGPLANTNINJA_SKILL_LEVEL5_DES]
 There is a probability to release the Tornado Shuriken and form a tornado to roll the zombies out of the field.
-
-[WAXGOURD]
-Winter melon guards
-
-[WAXGOURD_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} Winter melon has been standing in that critical position for a long time. Countless zombies are eager to try, wanting him to move and let him say, ah, the sound is getting smaller and smaller, wandering in the sky.
-[WAXGOURD_DESCRIPTION_HEADER]
-Holding down zombies and organ plots like circles, zombies that will knock away small areas when angry
-
-[WAXGOURD_TOOLTIP]
-Holding down zombies and organ plots like circles, zombies that will knock away small areas when angry
-
-[WAXGOURD_PRODUCT_SHORT_DESC]
-Holding down zombies and organ plots like circles, zombies that will knock away small areas when angry
-
-[WAXGOURD_AVATAR_NAME]
-Holding down zombies and organ plots like circles, zombies that will knock away small areas when angry
-
-[STORE_PRODUCT_AVATAR_WAXGOURD]
-Additional damage is added after plants food lands.
-
-[STORE_PRODUCT_AVATAR_WAXGOURD_TITLE]
-Winter melon Costume
-
-[WAXGOURD_SKILL_LEVEL1]
-Angry instinct
-
-[WAXGOURD_SKILL_LEVEL1_DES]
-When Donggua is attacked, it directly triggers the jump, and after landing, it will knock away all the zombies in its own grid and the grid in front (built-in CD20s)
-
-[WAXGOURD_SKILL_LEVEL2]
-Raging
-
-[WAXGOURD_SKILL_LEVEL2_DES]
-Reduction of skill CD 10S of order 2
-
-[WAXGOURD_SKILL_LEVEL5]
-Fury
-
-[WAXGOURD_SKILL_LEVEL5_DES]
-Winter melon releases active charge. When the zombies are close to the front, they will take off immediately and knock all the zombies away after landing. The zombies will receive one damage after landing
-
-[BEARBERRY]
-Ursa mortar
-
-[BEARBERRY_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} bear fruit mortar has never been on the front line. This is no, just a quality inspection, because his jamming, smoothbore and other problems were labeled as substandard quality again.
-[BEARBERRY_DESCRIPTION_HEADER]
-Firing rolling bear fruit shells attacks a line of zombies
-
-[BEARBERRY_TOOLTIP]
-Firing rolling bear fruit shells attacks a line of zombies
-
-[BEARBERRY_PRODUCT_SHORT_DESC]
-Firing rolling bear fruit shells attacks a line of zombies
-
-[BEARBERRY_AVATAR_NAME]
-Firing rolling bear fruit shells attacks a line of zombies
-
-[STORE_PRODUCT_AVATAR_BEARBERRY]
-plants food changes into a bear fruit shell with a flame, causing higher damage
-
-[STORE_PRODUCT_AVATAR_BEARBERRY_TITLE]
-Bear Fruit Mortar Costume
-
-[BEARBERRY_SKILL_LEVEL1]
-Cardboard Double Hair
-
-[BEARBERRY_SKILL_LEVEL1_DES]
-There is a 10% chance of firing two shells at a time, one rolling under the feet, one falling after flying two squares, and then rolling again
-
-[BEARBERRY_SKILL_LEVEL2]
-stuck again
-
-[BEARBERRY_SKILL_LEVEL2_DES]
-Improves the effect of double shot in the chamber by 10%
-
-[BEARBERRY_SKILL_LEVEL5]
-Gold Cannonball
-
-[BEARBERRY_SKILL_LEVEL5_DES]
-There is a probability of shooting huge golden bear fruit shells, which attack all zombies along the way and repel small and medium-sized zombies
-
-[OLIVE]
-Olives
-
-[OLIVE_DESCRIPTION]
-{KEYWORD}Plant features: {STAT} green plant
-{FLAVOR} Oil olives come from afar from the Mediterranean and enter the mysterious country to learn cooking skills. He had just mastered the upside down spoon: pour a little oil into the pan, pick up the wok and upside down twice, the pan full of flames, it looked so cool.
-[OLIVE_DESCRIPTION_HEADER]
-It can slip ballet zombies, and the oil produced can also be spotted by fire plants.
-
-[OLIVE_TOOLTIP]
-It can slip ballet zombies, and the oil produced can also be spotted by fire plants.
-
-[OLIVE_PRODUCT_SHORT_DESC]
-It can slip ballet zombies, and the oil produced can also be spotted by fire plants.
-
-[OLIVE_AVATAR_NAME]
-It can slip ballet zombies, and the oil produced can also be spotted by fire plants.
 
 [PLANTING_VINE_MUST_BE_ON_A_PLANT]
 Vine plants must be planted with other plants!
@@ -49850,46 +50056,6 @@ Come and experience the flame attack of the Flame Mushroom and also get statues 
 [RENAISSANCE_CHALLENGE_UNLOCK]
 {NUM1}month {NUM2}dayunlock
 
-[PINECONE]
-Double Gun Pinecone
-
-[PINECONE_DESCRIPTION_HEADER]
-The next basic attack after defeating a zombie can release a special attack
-
-[PINECONE_DESCRIPTION]
-{KEYWORD}Special: {STAT} After defeating the zombies, the next basic attack can release a special attack
-{KEYWORD}Plant features: {STAT} yellow plant
-{FLAVOR} In the mysterious western town, Double Gun Pinecone is a sharpshooter cowboy who fights against various bully zombies that violate his town, making the zombies tremble when they mention his name. He almost becomes the town's sheriff, but is turned down by him because he feels the sheriff is too boring to go to the bar for a drink.
-[PINECONE_TOOLTIP]
-The next basic attack after defeating a zombie can release a special attack
-
-[PINECONE_SKILL_LEVEL1]
-Double-shot
-
-[PINECONE_SKILL_LEVEL1_DES]
-There is a 10% probability that the two pine cones of the two guns will release a basic attack in sequence
-
-[PINECONE_SKILL_LEVEL2]
-Sharpshooter
-
-[PINECONE_SKILL_LEVEL2_DES]
-Improves double shot effect by 100%.
-
-[PINECONE_SKILL_LEVEL5]
-Blasting mines
-
-[PINECONE_SKILL_LEVEL5_DES]
-There is a probability that a grenade will be fired that will cause damage to the target within one square after hitting the first target.
-
-[PINECONE_AVATAR_NAME]
-Double Gun Cowboy Costume
-
-[STORE_PRODUCT_AVATAR_PINECONE_TITLE]
-Double Gun Cowboy Costume
-
-[STORE_PRODUCT_AVATAR_PINECONE]
-There is a probability of releasing an additional tracking round, and the damage is increased
-
 [ZMATCHSHOP_BUYTIMES_LIMIT]
 Purchase Restrictions ^FF0000 1 ^oldclr times
 
@@ -49915,7 +50081,7 @@ Are you sure?
 Finding an Opponent
 
 [JOUST_FREE_TICKETS]
-EARN GAUNTLETS
+SHOP
 
 [JOUST_HOW_TO_PLAY]
 HOW TO PLAY
@@ -49972,7 +50138,7 @@ Jade League
 Jade
 
 [JOUST_LEAGUE_NAME_NONPLAYER]
-New Player
+Ranks
 
 [JOUST_LEAGUE_NAME_SILVER]
 Silver League
@@ -50247,130 +50413,6 @@ Check-in error
 [DAILY_SIGN_ERROR_DESC]
 Your version number is too low, please upgrade to the latest version to sign in
 
-[NARCISSUSSHOOTER]
-Daffodil shooter
-
-[NARCISSUSSHOOTER_DESCRIPTION_HEADER]
-Big bubbles can take away zombie armor and imp zombies
-
-[NARCISSUSSHOOTER_DESCRIPTION]
-{KEYWORD}Special: {STAT} Big bubble can take away zombie armor and imp zombies
-{KEYWORD}Plant features: {STAT} white plant
-{FLAVOR} Daffodil is an aristocrat. She has received higher education since she was a child, but she is a naughty and cute clever ghost. The contrast between aristocratic temperament and naughty character makes her friends dote on her very much.
-[NARCISSUSSHOOTER_TOOLTIP]
-Big bubbles can take away zombie armor and imp zombies
-
-[NARCISSUSSHOOTER_SKILL_LEVEL1]
-Bubble burst
-
-[NARCISSUSSHOOTER_SKILL_LEVEL1_DES]
-There is a 10% probability of spraying the foam 2 times in a row.
-
-[NARCISSUSSHOOTER_SKILL_LEVEL2]
-Foam burst
-
-[NARCISSUSSHOOTER_SKILL_LEVEL2_DES]
-100% improvement of foam burst effect%
-
-[NARCISSUSSHOOTER_SKILL_LEVEL5]
-Foam spray column
-
-[NARCISSUSSHOOTER_SKILL_LEVEL5_DES]
-There is a probability that a large number of foam bullets will be ejected to make it impossible for the zombies to advance and cause damage.
-
-[NARCISSUSSHOOTER_AVATAR_NAME]
-Narcissus Queen Costume
-
-[STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER_TITLE]
-Narcissus Queen Costume
-
-[STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER]
-plants food turns into a colored bullet and repels the medium zombie 2 squares.
-
-[HOLLYKNIGHT]
-Holly Barrier
-
-[HOLLYKNIGHT_DESCRIPTION_HEADER]
-Holly can launch small holly to any lattice position on the lawn
-
-[HOLLYKNIGHT_DESCRIPTION]
-{KEYWORD}Usage: {STAT} Click to stay with the Wintergreen Knight and drag to the target position
-{KEYWORD}Range: {STAT} lawn grid full range
-{KEYWORD}Special: {STAT} repels zombies and leaves little holly behind
-{KEYWORD}Plant features: {STAT} red plant
-{FLAVOR} Holly Barrier advises not to eat their fruits casually. He said: It is very impolite to eat his fruits without being allowed. As a knight, he hates impolite behavior. As a knight, I would like to remind children not to eat randomly, they may have diarrhea
-
-[HOLLYKNIGHT_TOOLTIP]
-Click on the holly, click on the lattice to launch the little holly
-
-[HOLLYKNIGHT_SKILL_LEVEL1]
-Knightsfield
-
-[HOLLYKNIGHT_SKILL_LEVEL1_DES]
-The melee attack range is increased by up and down 2 squares
-
-[HOLLYKNIGHT_SKILL_LEVEL2]
-Knight Belief
-
-[HOLLYKNIGHT_SKILL_LEVEL2_DES]
-Long range increases one square of repulse distance
-
-[HOLLYKNIGHT_SKILL_LEVEL5]
-Knight Guardian
-
-[HOLLYKNIGHT_SKILL_LEVEL5_DES]
-The little holly thrown by Holly Barrier increases in size, the spines become longer, and the corresponding blood damage increases
-
-[HOLLYKNIGHT_AVATAR_NAME]
-Holly Barrier Costume
-
-[STORE_PRODUCT_AVATAR_HOLLYKNIGHT_TITLE]
-Holly Barrier Costume
-
-[STORE_PRODUCT_AVATAR_HOLLYKNIGHT]
-plants food has an electric shock effect that can paralyze zombies for 1 second.
-
-[SHADOWPEASHOOTER]
-Shadowpea
-
-[SHADOWPEASHOOTER_DESCRIPTION_HEADER]
-Shadow Pea Melee can drag zombies underground
-
-[SHADOWPEASHOOTER_DESCRIPTION]
-{KEYWORD}Special: {STAT} Shadow form can attack zombies in a straight line and cause poisoning effects
-{KEYWORD}Plant features: {STAT} green plant, Shadow family
-{FLAVOR} Shadow Pea always feels that having light is an extremely unscientific thing. Because he is a shadow and can exist without light ~
-
-[SHADOWPEASHOOTER_TOOLTIP]
-Shadow Peas shoot Shadow bullets remotely and melee combat can drag zombies underground
-
-[SHADOWPEASHOOTER_SKILL_LEVEL1]
-Shadowbomb
-
-[SHADOWPEASHOOTER_SKILL_LEVEL1_DES]
-There is a 10% probability of firing shadow bombs to cause damage to zombies within one square
-
-[SHADOWPEASHOOTER_SKILL_LEVEL2]
-Shadow explosion bomb
-
-[SHADOWPEASHOOTER_SKILL_LEVEL2_DES]
-Improves 100% effect of Shadow Stream Bomb
-
-[SHADOWPEASHOOTER_SKILL_LEVEL5]
-Light-chasing Flow Shadow
-
-[SHADOWPEASHOOTER_SKILL_LEVEL5_DES]
-In the normal state, a decelerating light can be emitted without the help of moonlight flowers, while in the shadow state, there is a probability that the first zombie to be killed will turn into a black hole, and the generated black hole can suck zombies in the 1x1 range into the soil.
-
-[SHADOWPEASHOOTER_AVATAR_NAME]
-Shadow Pea Costume
-
-[STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
-Shadow Pea Costume
-
-[STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
-plants food releases an additional ghost ball.
-
 [PAY_CHECK_DIALOG_TITLE]
 Payment Tips
 
@@ -50598,45 +50640,6 @@ Survive after a massive zombie attack on Winter Snowfield
 
 [STARCHALLENGE_ICEAGA_FINALE_NAME]
 Snowfield Mammoth
-
-[ALARMSAGITTIFOLIA_DESCRIPTION]
-{KEYWORD}Usage: {STAT} Magnetic mushrooms in the same column can be connected to form a warning line. When a zombie touches the warning line, it will jump up and self-destruct.
-{KEYWORD}Range: {STAT} close
-{KEYWORD}Plant features: {STAT} green plant, weapon family,Short plant.
-{FLAVOR} Police Explosion Magnetic Mushroom is an out-and-out activist. Every time a friend calls him by his name, he will emphasize: I am a Police Explosion Magnetic Mushroom, not an Alarm Ci Mushroom. I am different from those guys who only know how to talk!
-
-[ALARMSAGITTIFOLIA_SKILL_LEVEL1]
-Interference reinforcement
-
-[ALARMSAGITTIFOLIA_SKILL_LEVEL1_DES]
-The paralysis time to the mechanical unit was extended to 8 seconds
-
-[ALARMSAGITTIFOLIA_SKILL_LEVEL2]
-Energy overload
-
-[ALARMSAGITTIFOLIA_SKILL_LEVEL2_DES]
-Increase 40% explosion damage
-
-[ALARMSAGITTIFOLIA_SKILL_LEVEL5]
-Super Radium Blast
-
-[ALARMSAGITTIFOLIA_SKILL_LEVEL5_DES]
-An additional arc is created after the explosion, which flows between zombies, causing damage and immobilizing the zombies for 1 second
-
-[ALARMSAGITTIFOLIA]
-Police explosion magnetic mushroom
-
-[ALARMSAGITTIFOLIA_DESCRIPTION_HEADER]
-Police explosion magnetic mushrooms can also paralyze mechanical zombies while causing damage to zombies
-
-[STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA]
-After the energy bean's ultimate move explodes, it will leave an electric field in the 3X3 range
-
-[STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA_TITLE]
-Police explosion magnetic mushroom costume
-
-[ALARMSAGITTIFOLIA_TOOLTIP]
-The two magnetic mushrooms can pull up the cordon and rush to the target that touched it to self-destruct.
 
 [STORE_CATEGORY_NAME_PIGGY_BANK_SHORT_DESC]
 Piggy bank
@@ -52792,9 +52795,6 @@ Moonflower sun output increased {Param_1} points
 [GENE_DESCRIPTION_EXPLODEONUT]
 Explosive nut blast attack power increased {Param_1}%
 
-[GENE_DESCRIPTION_WAXGOURD]
-Winter melon's health-keeping life value increased by {Param_1}%
-
 [GENE_DESCRIPTION_ENDURIAN]
 Durian attack power increased {Param_1}%
 
@@ -52837,9 +52837,6 @@ Production sun increases {Param_1} points after golden toad mushroom swallowing
 [GENE_DESCRIPTION_ELECTRICBLUEBERRY]
 Electric blueberry attack speed increased {Param_1}%
 
-[GENE_DESCRIPTION_SLINGPEA]
-Pea mortar ejection pea damage increased {Param_1}%, bomb pea damage increased{Param_2}%
-
 [GENE_DESCRIPTION_HOTDATE]
 Hot spicy date planting cooling time shortened {Param_1}%
 
@@ -52851,9 +52848,6 @@ Broad bean commando rest time shortened {Param_1}%
 
 [GENE_DESCRIPTION_SHRINKINGVIOLET]
 Shrinking Violet increases the damage received by zombies after shrinking {Param_1}%
-
-[GENE_DESCRIPTION_SHADOWPEASHOOTER]
-The number of moonlight flowers on the Shadow Pea increases the attack power {Param_1}%
 
 [GENE_DESCRIPTION_MISSILETOE]
 Mistletoe Ice Fairy rest time shortened {Param_1}%
@@ -52869,9 +52863,6 @@ Supercapable cauliflower planting cooling time shortened {Param_1}%
 
 [GENE_DESCRIPTION_MAGICSHROOM]
 There is a {Param_1}% probability of summoning an additional zombie when summoning a zombie in Magic Mushroom Ultimate
-
-[GENE_DESCRIPTION_BEARBERRY]
-The bear fruit mortar's ultimate move has a {Param_1}% probability of getting stuck and firing an extra shell in one random direction to the right
 
 [GENE_DESCRIPTION_STREETLAMP]
 Plantern health increase {Param_1}%
@@ -55563,12 +55554,6 @@ Balloon Gold Hoop
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_1]
 Reduce sun cost by 20
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_1]
-Shadow Pea Witch Hat
-
-[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_1]
-Attack speed increased by 10% and shadow state dragged zombies one more time
-
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_1]
 Cattail Small Express Carton
 
@@ -55617,24 +55602,6 @@ Eggplant Ninja Grow Up Costume
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_2]
 Attack power increased by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SNAPPEA_1]
-Cannibal Flower Growth Costume
-
-[NEW_AVATAR_DESCRIPTION_SNAPPEA_1]
-Cultivation cooling is reduced by 10%
- 
-[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
-Bear Fruit Mortar Anniversary Costume
-
-[NEW_AVATAR_DESCRIPTION_BEARBERRY_1]
-Attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
-Pea Mortar Anniversary Costume
-
-[NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
-Attack power increased by 10%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_MOONFLOWER_1]
 Moonlight Flower Anniversary Costume
 
@@ -55653,41 +55620,11 @@ Apple Mortar Grow Costume
 [NEW_AVATAR_DESCRIPTION_APPLEMORTAR_2]
 Attack speed increased by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
-Shadow Peashooter Straw Hat
-
-[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_2]
-Increases plant attack by 20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
-Holly Knight "Fu" Character Outfit
-
-[NEW_AVATAR_DESCRIPTION_HOLLYKNIGHT_1]
-Reduces planting cooldown by 20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
-Costume for the Year of the Brontosaurus Grass Rabbit
-
-[NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
-Plant attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_PINECONE_1]
-Double Gun Pinecone Year of the Rabbit Costume
-
-[NEW_AVATAR_DESCRIPTION_PINECONE_1]
-Attack speed increased by 10%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_1]
 Lily of Pharmacy Growth costume
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_1]
 Plant attack power increased by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_2]
-Bear Fruit Mortar Grow Costume
-
-[NEW_AVATAR_DESCRIPTION_BEARBERRY_2]
-Attack speed increased by 10%
 
 [STORE_PRODUCT_AVATAR_HURRIKALE_TITLE]
 Hurricane scarf
@@ -73070,224 +73007,6 @@ The Eggplant Ninja uses a dart doppelganger and immediately fires 5 darts within
 [EGGPLANTNINJA_AVATAR_PLANTFOOD_DESCRIPTION]
 The Eggplant Ninja uses the dart clone and immediately fires 5 golden darts with lightning within the arc range on the right ^ff0000^oldclrr and returns to the Eggplant Ninja, causing damage to all zombies passing by and ^848484^ vertigoⅠ^oldclrr zombies for 1 second.
 
-[NARCISSUSSHOOTER_NEW_SKILL_LEVEL1_DES]
-When a zombie appears within 4 squares on the right side of the Daffodil Shooter, it spits out foam to cause damage to the entire zombie. ^ff0000It has a miraculous effect on the defense of zombies! ^oldclrr
-
-[NARCISSUSSHOOTER_NEW_SKILL_LEVEL2_DES]
-There is a 10% probability that the daffodil shooter will spray the foam twice in a row when attacking.
-
-[NARCISSUSSHOOTER_NEW_SKILL_LEVEL3_DES]
-The probability of triggering the skill of the bubble burst is increased by 100%, and there is a 20% probability of spraying the bubble twice in a row when attacking.
-
-[NARCISSUSSHOOTER_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[NARCISSUSSHOOTER_NEW_SKILL_LEVEL5_DES]
-There is a 40% probability of spraying water jets that penetrate the entire row during the attack, lasting 5 seconds, causing a total of 4500 damage to all zombies and ^848484^ vertigoⅠ^oldclrr.
-
-[NARCISSUSSHOOTER_PLANTFOOD_DESCRIPTION]
-The daffodil shooter accumulates a large amount of foam that spits out into the right fan-shaped area, causing damage to the zombies.
-
-[NARCISSUSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-The daffodil shooter saves a lot of money^ff0000colored foam^oldclrrsprays into the fan-shaped area on the right, causing damage to the zombies and repelling small and medium-sized zombies. ^oldclrr
-
-[PINECONE_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of a double-gun pine cone, it fires a pine bullet to cause damage to the zombie. If a zombie dies within the attack range, a bullet of 100 damage is fired immediately.
-
-[PINECONE_NEW_SKILL_LEVEL2_DES]
-There is a 10% probability that the two guns will fire one pine nut bullet each in sequence when attacking the two pine cones.
-
-[PINECONE_NEW_SKILL_LEVEL3_DES]
-The skill trigger probability of the double-shot gun is increased by 100%, and there is a 20% probability that the double-shot gun will fire one pine bullet each in sequence when attacking.
-
-[PINECONE_NEW_SKILL_LEVEL4_DES]
-When planting, there is a probability of directly releasing plants food!
-
-[PINECONE_NEW_SKILL_LEVEL5_DES]
-There is a 20% probability of firing one explosive pine nuts at the time of attack, causing 1110 damage to zombies and sputtering damage to small-range zombies, which can knock off small-sized zombies that hit.
-
-[PINECONE_PLANTFOOD_DESCRIPTION]
-The double-gun pine cone enters Marksman mode, firing 6 consecutive rounds of flame pine cones capable of tracking zombies and causing sputtering damage on a small scale.
-
-[PINECONE_AVATAR_PLANTFOOD_DESCRIPTION]
-The double-gun Pinecone enters marksman mode. ^ff0000 fires 7 consecutive rounds of purple fire Pinecone^oldclrr that can track zombies and cause higher damage, and causes sputtering damage to a small area.
-
-[HOLLYKNIGHT_NEW_SKILL_LEVEL1_DES]
-Holly Barrier can fire Little Holly at a designated location, causing damage to a small area and repelling small zombies when Little Holly lands, firing up to 3. Holly Knight and Little Holly can cause damage to zombies one square on each side.
-
-[HOLLYKNIGHT_NEW_SKILL_LEVEL2_DES]
-Holly Barrier's attack range is expanded to allow it to attack all zombies in one square, left, right, and up at the same time.
-
-[HOLLYKNIGHT_NEW_SKILL_LEVEL3_DES]
-Little Holly's repulse effect is enhanced, and it can repel 3 squares of small zombies.
-
-[HOLLYKNIGHT_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
-The little holly thrown by Holly Barrier increases in size, increases health to 3200, and increases attack power to coincide with Holly Barrier.
-
-[HOLLYKNIGHT_PLANTFOOD_DESCRIPTION]
-Holly Barrier immediately launches the little holly to a full-screen random position and reset the number of little holly that can be launched to 3.
-
-[HOLLYKNIGHT_AVATAR_PLANTFOOD_DESCRIPTION]
-Holly Barrier immediately fires ^ff0000 live little holly at a random position on the full screen. While attacking, it can paralyze zombies^oldclrr^ff9600^Ⅰ^oldclrr^ff0000,^oldclrr and reset the number of little holly that can be fired to 3.
-
-[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL1_DES]
-A cordon will be open between the two police explosive magnetic mushrooms in the same row. It takes 2 seconds to wake up after planting, and after awakening, when the zombies appear within one square on the left and right or touch the cordon, they will fly out and explode to cause damage to the small range of zombies. ^ff0000The mechanical unit has miraculous effects! ^oldclrr
-
-[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL2_DES]
-Strengthening the interference effect on mechanical units can paralyze mechanical units in the 3x3 range for 8 seconds.
-
-[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL3_DES]
-The police exploded magnetic mushrooms learned energy overload, and the explosion damage was greatly increased.
-
-[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL5_DES]
-After the explosion, an additional arc will be generated, and the arc will flow between zombies, causing damage and paralyzing the zombies^ff9600^Ⅰ^oldclrr1 second.
-
-[ALARMSAGITTIFOLIA_PLANTFOOD_DESCRIPTION]
-The police exploded the magnetic mushroom and raised the alarm, summoning the electromagnetic gun that fell from the sky, causing damage to the zombies within 2 spaces around them and paralyzing the zombies for 2 seconds.
-
-[ALARMSAGITTIFOLIA_AVATAR_PLANTFOOD_DESCRIPTION]
-The police exploded the magnetic mushroom and raised the alarm, summoning the electromagnetic gun that fell from the sky, causing damage to the zombies in the surrounding 2-frame range and paralyzing the zombies for 2 seconds, leaving an electric field in the 3Ⅰ3 range, lasting 2 seconds. ^oldclrr
-
-[SHADOWPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Shadow bullets are fired in the normal state, causing damage to a single zombie, and in the Shadow state, a beam of shadow can be fired, causing damage to the entire row of zombies and applying deceleration. When a zombie approaches, this zombie is dragged underground and then disappears, and up to 3 zombies can be dragged away in the Shadow state.
-
-[SHADOWPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-There is a 10% probability of firing a 180-point damage shadow stream bomb or a 315-point damage shadow stream beam when Shadow Pea attacks.
-
-[SHADOWPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-There is a 20% probability that Shadow Pea will fire a Shadow Stream bullet with 240 damage or a Shadow Stream beam with 420 damage when attacking.
-
-[SHADOWPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[SHADOWPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-In the normal state, 80% emits a shadow beam. In the shadow state, there is a 30% probability that the first zombie to be killed will turn into a black hole, causing damage or devouring passing small and medium-sized zombies for 4 seconds.
-
-[SHADOWPEASHOOTER_PLANTFOOD_DESCRIPTION]
-Shadow Pea condenses 3 ghost balls, causing damage to zombies in the 3x3 range. As the number of moonlight flowers increases on the field, the attack range will also be expanded, maximizing to full screen.
-
-[SHADOWPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Shadow Pea condenses ^ff00004 ghost balls^oldclrr, causing damage to zombies in the 3x3 range. As the number of moonlight flowers increases on the field, the attack range will also be expanded, maximizing to full screen.
-
-[SNAPPEA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the cannibal flower pea, it dives to the ground to appear on the soles of this zombie's feet and devour this zombie, which then enters a digestive state. If it is a non-devourable zombie, 3 pea bullets will be fired after it appears.
-
-[SNAPPEA_NEW_SKILL_LEVEL2_DES]
-The cannibalistic pea speeds up the digestion time and the rest time is reduced to 9 seconds.
-
-[SNAPPEA_NEW_SKILL_LEVEL3_DES]
-Quick digestion skills are 100% more effective and the rest time is reduced to 8 seconds.
-
-[SNAPPEA_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[SNAPPEA_NEW_SKILL_LEVEL5_DES]
-There is a 50% probability of devouring or firing bullets at most two zombies in one square in front and rear of the target when attacking.
-
-[SNAPPEA_PLANTFOOD_DESCRIPTION]
-The man-eating pea retracts into the ground, immediately devouring up to 5 zombies in the row and spitting out 1 zombie head.
-
-[SNAPPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-The man-eating pea retracts into the ground and immediately devours up to 5 zombies in the bank, ^ff0000 and spits out all the zombie heads. ^oldclrr
-
-[SLINGPEA_NEW_SKILL_LEVEL1_DES]
-When a zombie appears within the attack range, it fires 5 pea shells at the same time, causing 25% sputtering damage to a small range of zombies after causing damage to the zombies.
-
-[SLINGPEA_NEW_SKILL_LEVEL2_DES]
-There is a 50% probability of firing elastic peas with 150 points of damage. After hitting the zombie, it will have an ejection effect. Up to 2 zombies will be ejected. After each ejection, the damage of elastic peas will be weakened.
-
-[SLINGPEA_NEW_SKILL_LEVEL3_DES]
-The trigger probability of the elastic pea is increased to 100%, and the damage is increased to 200 points.
-
-[SLINGPEA_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[SLINGPEA_NEW_SKILL_LEVEL5_DES]
-There is a 50% probability of firing a bomb pea that causes 1500 points of damage to a single-frame zombie when attacking.
-
-[SLINGPEA_PLANTFOOD_DESCRIPTION]
-The pea mortar fired three consecutive salvos of flaming pea shells, causing damage to the zombies.
-
-[SLINGPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-The pea mortar fired three consecutive salvos of flaming pea shells, causing damage to the zombies. ^ff0000 There is a 50% chance of turning into a blue-fire pea shell in each round, doubling the damage. ^oldclrr
-
-[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-When a zombie appears in the 2x3 range on the right side of Brontosaurus, it will spit out a thunderball, causing a 100-point spread to the zombie in the 2x3 range after hitting the zombie. There is a 50% probability of zombies in the mission^ff9600^paralysisⅠ^oldclrr1 second.
-
-[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL2_DES]
-There is a 20% probability that a big thunderball will be ejected during the attack, causing 705 points of damage and 300 points of diffuse damage, and it will definitely paralyze the zombie^ff9600^Ⅰ^oldclrr for 1 second
-
-[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL3_DES]
-The launch probability of the big thunderball is increased to 40%, causing 940 damage points and 400 diffuse damage points.
-
-[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[THUNDERSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
-There is a 20% probability of summoning a thunder dragon phantom when attacking. The thunder dragon phantom flies out to the right and fires thunder and lightning at the zombies in the line, causing 2500 points of damage and ^ff9600^paralysisⅠ^oldclrr1 second.
-
-[THUNDERSNAPDRAGON_PLANTFOOD_DESCRIPTION]
-After the brontosaurus flew into the air, it spit out an electric ball to the ground 1 square on the right. After the electric ball landed, it spread to the surrounding 1 square, causing damage to the zombies and ^ff9600^paralysisⅠ^oldclrr, lasting 3 seconds.
-
-[THUNDERSNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-Brontosaurus flew into the air and spit out 2 electric balls ^ff0000 to the ground 1 square on the right ^ff0000oldclr^. After the electric balls landed, they spread 1 square around them, causing damage to zombies and ^ff9600^paralysisⅠ^oldclrr, lasting 3 seconds.
-[BEARBERRY_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of a bear fruit mortar, it fires a shell that rolls to the right and penetrates the entire row causing damage.
-
-[BEARBERRY_NEW_SKILL_LEVEL2_DES]
-There is a 10% probability when attacking because the jam chamber emits 2 shells at a time. One shot rolls underfoot, one shot falls after flying two squares, and then rolls again.
-
-[BEARBERRY_NEW_SKILL_LEVEL3_DES]
-The skill trigger probability of double-shot card chamber is increased by 100%.
-
-[BEARBERRY_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[BEARBERRY_NEW_SKILL_LEVEL5_DES]
-There is a 30% probability of firing a golden shell that can repel small zombies when attacking.
-
-[BEARBERRY_PLANTFOOD_DESCRIPTION]
-The bear fruit mortar fires 3 consecutive bear fruit shells, which roll to the right, upper right and lower right in turn, knocking off passing small zombies or causing damage.
-
-[BEARBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
-The bear fruit mortar fires ^ff00003 bear fruit shells with flames ^oldclrr continuously, rolling to the upper right and lower right in sequence, knocking away passing small zombies or causing ^ff0000 higher damage^oldclrr.
-
-[WAXGOURD_NEW_SKILL_LEVEL1_DES]
-Because the winter melon guards have large bodies, are able to hold down zombies and organ plots like rings, and shake up a square of zombies on the right when planting falls.
-
-[WAXGOURD_NEW_SKILL_LEVEL2_DES]
-Donggua triggers a jump when attacked, and after landing, it shakes up all the zombies in its own grid and one grid in front. Triggered every 20 seconds.
-
-[WAXGOURD_NEW_SKILL_LEVEL3_DES]
-The triggering interval of the anger instinct is shortened, triggering once every 10 seconds.
-
-[WAXGOURD_NEW_SKILL_LEVEL4_DES]
-There is a low probability of be boosted
-
-[WAXGOURD_NEW_SKILL_LEVEL5_DES]
-The winter melon guards will actively accumulate strength and take off immediately when the zombies are one square in front. After landing, it shook all zombies and caused 210 damage points.
-
-[WAXGOURD_PLANTFOOD_DESCRIPTION]
-The winter melon guard will take off three times in a row. The first time will shock a zombie on the right side, the second time will shock 3x3 zombies around it, and the third time will shock 3x3 zombies around it.
-
-[WAXGOURD_AVATAR_PLANTFOOD_DESCRIPTION]
-The winter melon guard will take off three times in a row. The first time will shock a zombie on the right side, the second time will shock 3x3 zombies around it, and the third time will shock 3x3 zombies around it. ^ff0000Cause additional range damage each time. ^oldclrr
-
-[OLIVE_NEW_SKILL_LEVEL1_DES]
-After planting, olive oil is left on the plot within the attack range for 5 seconds, and a flame-like attack can ignite the olive oil, causing the zombies on it to suffer 100 points of damage per second for 6 seconds. ^ff0000It has miraculous effects on ballet zombies! ^oldclrr
-
-[OLIVE_PLANTFOOD_DESCRIPTION]
-This plant does not have an plants food effect 
-
-[OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
-This plant does not have an plants food effect 
-
 [ACTIVITY_NEW_PLAYER_SURVEY_DESC]
 Participate in the survey, answer questions, and receive diamonds and voucher.
 
@@ -74084,9 +73803,6 @@ Attack speed increased by 10%
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_2]
 Cold Snapdragon Lunar New Year Costume
 
-[NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
-Thundersnapdragon Lunar New Year Costume
-
 [STORE_CATEGORY_NAME_AVATARTICKET]
 Avatar Tickets
 
@@ -74472,12 +74188,6 @@ Attack Speed +25%
 
 [ACCUMULATED_LOGIN_TITLE]
 Courtyard Record
-
-[NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_2]
-Autumn Pea Mortar Costume
-
-[NEW_AVATAR_DESCRIPTION_SLINGPEA_2]
-Reduces planting cooldown by 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICESHROOM_1]
 Autumn Ice Shroom Costume
@@ -75084,12 +74794,6 @@ Sky War
 
 [MAT_MINIGAME_COIN]
 Enhancement Energy
-
-[NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
-Holly Knight "Fu" Outfit
-
-[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
-Shadow Peashooter Straw Hat Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_3]
 Eggplant Ninja "Zero" Outfit
