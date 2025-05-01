@@ -11,8 +11,8 @@ Weâ€™ve included unique markers to identify misuse, so if you copy our work, weâ
  Evil Translation - Info
 ==========================
 
-File Type        : Text-based (v3.7.1)
-Current Version  : 1.9.0
+File Type        : Text-based (v3.7.2)
+Current Version  : 1.9.1
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
@@ -52,7 +52,7 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from April 30 (beta) V1.9.0
+translate by evilhack28 version from May 2 (beta) V1.9.1
 
 [AGE_TIP]
 Change Log by evilhack28
@@ -97,35 +97,35 @@ POMEGRANATEJEWELER
 
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^2e006c ~~Last update April 30~~ ^oldclrr
+^2e006c ~~Last update May 2~~ ^oldclrr
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^FFC0CB ~~Last update April 30~~ ^oldclrr
+^FFC0CB ~~Last update May 2~~ ^oldclrr
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^f4fefe ~~Last update April 30~~ ^oldclrr
+^f4fefe ~~Last update May 2~~ ^oldclrr
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^0f056b ~~Last update April 30~~ ^oldclrr
+^0f056b ~~Last update May 2^oldclrr
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^6c0277 ~~Last update April 30~~ ^oldclrr
+^6c0277 ~~Last update May 2~~ ^oldclrr
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~Last update April 30~~ ^oldclrr
+^000000 ~~Last update May 2~~ ^oldclrr
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~Last update April 30~~ ^oldclrr
+^000000 ~~Last update May 2~~ ^oldclrr
 
 [EVIL_TIPS_8]
 ^ff5e4d Have a nice days
-^000000 ~~Last update April 30~~ ^oldclrr
+^000000 ~~Last update May 2~~ ^oldclrr
 
 
 
