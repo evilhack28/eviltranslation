@@ -12,7 +12,7 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
 ==========================
 
 File Type        : Text-based (v3.7.2)
-Current Version  : 1.9.1
+Current Version  : 1.9.2 (pre-release)
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
@@ -52,16 +52,12 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from May 2 (beta) V1.9.1
+translate by evilhack28 version from May 3 (beta) V1.9.2 (pre-release)
 
 [AGE_TIP]
 Change Log by evilhack28
 
 [AGE_TIP_CONTENT]
-======1.9.0======
-Added latest  3.7.1 text
-fixed some Info text
-
 ======1.9.1======
 Fixed new familly name
 Added NO.41 plants almanch
@@ -91,47 +87,49 @@ WAXGOURD
 OLIVE
 POMEGRANATEJEWELER
 
-
-
-
+======1.9.2 (pre-release)======
+fix some event text
+Artifact text updated soon...
 
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^2e006c ~~Last update May 2~~ ^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^FFC0CB ~~Last update May 2~~ ^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^f4fefe ~~Last update May 2~~ ^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^0f056b ~~Last update May 2^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^6c0277 ~~Last update May 2~~ ^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~Last update May 2~~ ^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~Last update May 2~~ ^oldclrr
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [EVIL_TIPS_8]
-^ff5e4d Have a nice days
-^000000 ~~Last update May 2~~ ^oldclrr
-
-
-
-
-
-rtmbnrtjklhnrtjklhtihtjh 
+^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
+^000000 ~~^FF0000 L ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 s ^oldclrr ^00FF00 t ^oldclrr ^0000FF   ^oldclrr ^4B0082 u ^oldclrr ^9400D3 p ^oldclrr ^FF0000 d ^oldclrr ^FF7F00 a ^oldclrr ^FFFF00 t ^oldclrr ^00FF00 e ^oldclrr ^0000FF   ^oldclrr ^4B0082 M ^oldclrr ^9400D3 a ^oldclrr ^FF0000 y ^oldclrr ^FF7F00   ^oldclrr ^FFFF00 2 ^oldclrr
+~~ ^oldclrr
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
 Kiwifruit Great Sage Equaling Heaven Skin
@@ -146,7 +144,7 @@ Burdock Batter Bull Demon King Skin
 Sun Cost -25
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_3]
-Little White Dragon Skin
+Gluttonous Snapdragon Junior Bailong
 
 [NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_3]
 Planting Cooldown -20%
@@ -7176,7 +7174,7 @@ His shock wave is now three lanes wide instead of one.
 
 
 [MULBERRY]
-Mulberry Blaster
+Mulberry
 
 [MULBERRY_DESCRIPTION]
 {KEYWORD}Special: {STAT}It launches berries to damage zombies in a tile.
@@ -7184,16 +7182,16 @@ Mulberry Blaster
 {FLAVOR}He is a military fan, and loves to collect all kinds of military materials, one day he dressed himself up as a gunner, and scared many plants on the street~
 
 [MULBERRY_DESCRIPTION_HEADER]
-Mulberry Blaster launches berries to zombies.
+Mulberry launches berries to zombies.
 
 [MULBERRY_TOOLTIP]
-Mulberry Blaster launches berries to zombies.
+Mulberry launches berries to zombies.
 
 [MULBERRY_SKILL_LEVEL1]
 Blast Expert
 
 [MULBERRY_SKILL_LEVEL1_DES]
-Mulberry Blaster has a 10% chance of launching a fragment grenade when attacking, causing 750 explosive damage to surrounding 3×3 zombies.
+Mulberry has a 10% chance of launching a fragment grenade when attacking, causing 750 explosive damage to surrounding 3×3 zombies.
 
 [MULBERRY_SKILL_LEVEL2]
 Blast Specialization
@@ -7208,10 +7206,10 @@ Funny Blasting
 There is a 4% probability of throwing a gas bomb, causing the surrounding 3×3 zombies to enter a poisoning state that lasts for 10 seconds and inflicts damage equal to 20% of the zombie's HP per second. There is a 12% chance to throw a flash bomb, which will stun the surrounding 3×3 zombies for 2 seconds. There is a 4% probability of throwing an explosive bomb, causing high damage to zombies and a probability of blowing up small and medium-sized zombies in a small range.
 
 [MULBERRY_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the Mulberry Blaster, it fires a grenade that hits the zombie and causes 500 blast damage to the zombie in a small range.
+When a zombie appears on the right side of the Mulberry, it fires a grenade that hits the zombie and causes 500 blast damage to the zombie in a small range.
 
 [MULBERRY_NEW_SKILL_LEVEL2_DES]
-Mulberry Blaster has a 10% chance of launching a fragment grenade when attacking, causing 750 explosive damage to surrounding 3×3 zombies.
+Mulberry has a 10% chance of launching a fragment grenade when attacking, causing 750 explosive damage to surrounding 3×3 zombies.
 
 [MULBERRY_NEW_SKILL_LEVEL3_DES]
 The trigger probability of Blast Expert is increased by 100%, and there is a 10% probability of launching a fragment grenade when attacking, and the explosion damage is increased to 1000 points.
@@ -7229,7 +7227,7 @@ Fires 6 mulberries at any random zombies, not necessarily the closest zombies ne
 Fires 7 mulberries at any random zombies and then afterwards, a large mulberry. not necessarily the closest zombies near him or the lawn.
 
 [GENE_DESCRIPTION_MULBERRY]
-The probability of a mulberry blaster throwing a gas bomb increases {Param_1}% (effective after level 5)
+The probability of a Mulberry throwing a gas bomb increases {Param_1}% (effective after level 5)
 
 [MULBERRY_AVATAR_NAME]
 Mulberry blast Costume
@@ -7241,19 +7239,19 @@ Mulberry blast Costume
 There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_1]
-Mulberry Blaster Anniversary Costume
+Mulberry Groucho Marx 
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_1]
 Attack increased by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_2]
-Mulberry growth Packaging
+Mulberry eyepatch
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_2]
 Cooldown reduced by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
-Mulberry Blaster Pirate Costume
+Mulberry Pirate
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_3]
 Increases attack speed by 20%
@@ -7978,13 +7976,13 @@ He will spit two electric balls instead of one.
 Zapdragon lightning
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
-Zapdragon Cupcake
+Zapdragon headphones
 
 [NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
 Attack power increased by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
-Zapdragon New Year
+Zapdragon horn
 
 
 
@@ -8292,7 +8290,7 @@ The larger bearberries are now on fire, dealing more damage to machines and Garg
 The larger bearberries are now on fire, dealing more damage to machines and Gargantuars.
 
 [STORE_PRODUCT_AVATAR_BEARBERRY_TITLE]
-Bearberry Costume 
+Bearberry monocle
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
 Bearberry animal glasses
@@ -15235,7 +15233,6 @@ Maple Swordsman has a chance to release ^ff0000 Maple Shadow · Tsubame-Gaeshi ^
 Slashes zombies ahead with sword attacks. Can activate skill: ^ff0000 Maple Shadow: Clone ^oldclr^
 ^ff0000 Maple Shadow: Clone ^oldclr^: When skill is ready, creates a clone that dashes to 3 tiles ahead (triggered when zombies enter front tile). Launches zombies along path for 0.5s while dealing damage.
 
-
 [MAPLEBLADE_NEW_SKILL_LEVEL2_DES]
 The clone cooldown time is reduced. The next attack after retrieving the clone will become ^ff0000 Maple Shadow · Fragmented Shadows. ^oldclr^
 ^ff0000 Maple Shadow · Fragmented Shadows ^oldclr^: The next normal attack becomes a strengthened attack and deals additional damage.
@@ -15257,13 +15254,13 @@ After charging, Maple Blade unleashes circular sword energy that deals X damage 
 After the ultimate deals damage, hit zombies will take 3 additional delayed damage instances.
 
 [MAPLEBLADE_AVATAR_NAME]
-Maple Swordsman costume
+Maple Swordsman gentleman
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE]
 After the ultimate deals damage, hit zombies will take 3 additional delayed damage instances.
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
-Maple Swordsman costume
+Maple Swordsman gentleman
 
 
 
@@ -25684,7 +25681,7 @@ Please check the status of the monthly card on the map, or try again when the ne
 Cancel the expedition
 
 [PLANT_ADVENTURE_SUSPEND_TITLE_DES]
-The Plant Squad has set off and will not be able to get any reward for the abort now, confirm need to abort the expedition?
+Your plant squad has already departed. Aborting now will lose all rewards. Confirm to cancel the expedition?
 
 [PLANT_ADVENTURE_BUY_PLANT_SPIRIT]
 Buy-buy-buy
@@ -25693,10 +25690,10 @@ Buy-buy-buy
 Complete Now
 
 [PLANT_ADVENTURE_SUSPEND]
-I'm cancelling
+OK
 
 [PLANT_ADVENTURE_NOT_BUTTON]
-I think again
+CANCEL
 
 [PLANT_ADVENTURE_TEAMEDITOR_NEEDPLANTS]
 Plants Required: {PLANTS}
@@ -35078,7 +35075,7 @@ Start Training
 Continue Training
 
 [DANGERROOM_NEXT_LEVEL]
-Continue
+CONTINUE
 
 [DANGERROOM_RETURN_ENTRY]
 Return
@@ -36261,7 +36258,7 @@ Playback
 Replay
 
 [PVP_PLAYBACK_CONTINUE]
-Continue
+CONTINUE
 
 [PVP_PLAYBACK_RETURN]
 Exit playback
@@ -50898,14 +50895,14 @@ Celestial Treasure Hunt
 Event Refresh
 
 [ACTIVITY_HEAVENTREASURE_SHORT_DESCRIPTION]
-Get the Gluttonous Dragon Grass - Little White Dragon skin and other rare cosmetic rewards.
+Get the Gluttonous Snapdragon - Junior Bailong and other rare cosmetic rewards.
 
 [HEAVENTREASURE_DESCRIPTION_TITLE]
 Event Description
 
 [HEAVENTREASURE_DESCRIPTION]
 Event Rules:
-1. Purchase packs in Celestial Treasure Hunt to obtain Treasure Keys, which can be used to draw for Little White Dragon skin and other grand prizes
+1. Purchase packs in Celestial Treasure Hunt to obtain Treasure Keys, which can be used to draw for Junior Bailong costume and other grand prizes
 2. Accumulated draws, purchase limits and exchange counts reset on the 1st of each month
 3. Every 10 draws grants a random 10%-90% discount on next draw. Every 20 draws guarantees a grand prize from the guaranteed prize pool
 Special Pack Rules:
@@ -51086,9 +51083,9 @@ Activity rules:
 2. After obtaining all the rewards in the Dragon Treasure House, the current prize pool will be automatically reset; after players obtain 5 rewards from the treasure house of the current round, they can spend 10 Dragon Crystals to manually reset the lottery.
 3. The progress, dragon crystal and points of this event are not inherited to the next period, after the event the remaining dragon crystal will be converted into diamonds in a ratio of 1:1, and the remaining points will be converted into gold coins in a ratio of 1:100.
 4. Players can obtain rewards from the Dragon Clan Treasure House by spending Dragon Crystals, with a specific probability of:
-Optional Reward 1 (Hydraulic Artifact, Cactus Party Assist Event Costume, Mulberry Blaster pieces x20)  1.00%
-Optional Reward 2 (Directional pieces x10, Artifact Blessing Coupons x30, Mulberry Blaster pieces x10)  2.21%
-Optional Reward 3 (Mulberry Blaster pieces x10, Artifact Blessing Coupons x30, Tigerstool piece x10)  1.89%
+Optional Reward 1 (Hydraulic Artifact, Cactus Party Assist Event Costume, Mulberry pieces x20)  1.00%
+Optional Reward 2 (Directional pieces x10, Artifact Blessing Coupons x30, Mulberry pieces x10)  2.21%
+Optional Reward 3 (Mulberry pieces x10, Artifact Blessing Coupons x30, Tigerstool piece x10)  1.89%
 Genetic Primacy*4 11.50% Universal Genetic Coin*60 11.50%
 Space-time energy tank*10 5.00% Space-time cubic*2 3.70%
 Spacetime dust*10 13.00% Spacetime dust*20 5.00%
@@ -52021,10 +52018,10 @@ Select Zombies
 Order Settings
 
 [LEVEL_EDITOR_ZOMBIE_WAVE_NUM]
-{NUM} wave
+{NUM} wave 
 
 [LINE_NUM]
-{NUM} row
+{NUM} row 
 
 [LEVEL_EDITOR_SANDSTORM]
 Sandstorm Settings
@@ -53518,10 +53515,10 @@ Activity content:
 Wish Call
 
 [CALL_OF_WISH_ONCE]
-Summon once
+x1
 
 [CALL_OF_WISH_TENTH]
-Summon ten times
+x10
 
 [CALL_OF_WISH_BUY_TIPS_1]
 Get more discounts with your Pack!
@@ -54223,10 +54220,10 @@ Special gifts activation
 Cumulative call: {NUM} times
 
 [LIMITED_SUMMON_TIMES_ONCE]
-Summon once
+x1
 
 [LIMITED_SUMMON_TIMES_TEN_TIMES]
-Summon ten times
+x10
 
 [LIMITED_SUMMON_TIPS]
 Summon 20 times to get new plants!
@@ -57451,7 +57448,7 @@ Crystal Shop:
 3. If you already have the outfit, it will convert to 15 pieces.
 
 [GRAND_PRIZE]
-Total Awards:
+Total Awards
 
 [FIRST_RECHARGE_EXTRA_TIPS]
 Complete recharge goals and log in for 3 days to earn generous rewards, including upgrade books, rare plants & costumes, useful accessories, and exclusive avatars. Note: Only recharges after 11:00 on January 31, 2024, will count towards the current recharge rewards.
@@ -64902,10 +64899,10 @@ Entry Details
 Points {NUM}
 
 [NODE_ONE_SCORE]
-Node 1: {NUM}
+Phase 1: {NUM}
 
 [NODE_TWO_SCORE]
-Node 2: {NUM}
+Phase 2: {NUM}
 
 [GET_TARGET_SCORE]
 Obtain {NUM} Points
@@ -64962,10 +64959,10 @@ Highest this Period: {NUMS}
 Transformed Eggplant cannot be placed in the first slot of the team.
 
 [CUMULATIVE_OBTAIN]
-Cumulative Obtain
+Obtain
 
 [CUMULATIVE_SCORE_OBTAIN]
-Cumulative Score Obtained
+Total Points Earned
 
 [PVZ1_ACHIEVEMENT_TITLE]
 Achievement
@@ -65073,12 +65070,12 @@ Achievements
 Reward Details
 
 [PVZ1_ACHIEVEMENT_INFO_BTN_TITLE]
-Statement of achievements
+Achievement description
 
 [PVZ1_ACHIEVEMENT_INFO_BTN_TEXT]
-1. Each achievement coin can only be claimed once per achievement.
-2. Rewards can be claimed when achievement coins reach the specified value.
-3. Achievement tasks and progress will not reset with the season.
+1. Achievement coins can only be claimed once per achievement.
+2. Earn rewards when reaching required coin amounts
+3. Achievement progress will not reset between season.
 
 [ANNIVERSARY_KEY_INFO_TITLE]
 Secret Realm Description
@@ -65419,13 +65416,13 @@ Go to Creation Platform
 Details of the courtyard points can be found on the Creation Platform, where you can use the courtyard points to redeem rich prizes including physical rewards.
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_GUESS_LIKE]
-Recommended for You
+for You
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MOST_PLAY]
-Most Play
+Most Played
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MOST_LIKE]
-Most acclaimed
+Most Liked
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_NEWEST]
 Latest
@@ -65437,7 +65434,7 @@ Filtering conditions
 Screening
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MY_FAVOR]
-My collection
+Liked
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_SEARCH]
 Search
@@ -65545,7 +65542,7 @@ Modify the level name
 World: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_EVALUATION]
-Evaluation level : 
+Evaluation level :
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_PLAY_STYLE]
 How to play: ^356D14 {NAME} ^oldclr
@@ -65692,13 +65689,13 @@ Evil Dave
 Theater Horror
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_0]
-Overall Ranking
+Overall
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_1]
-Monthly Ranking
+Monthly
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_2]
-Weekly Ranking
+Weekly
 
 [CUSTOM_LEVEL_CREATE_LEVEL_TITLE]
 Create Levels
@@ -65801,31 +65798,31 @@ Auto-configuration
 Return Configuration
 
 [CUSTOM_LEVEL_EVALUATION_RATE_1]
-Rave reviews
+Very good Reviews
 
 [CUSTOM_LEVEL_EVALUATION_RATE_2]
-Mostly favorable
+Mostly Positive
 
 [CUSTOM_LEVEL_EVALUATION_RATE_3]
-Mixed
+Mixed Reviews
 
 [CUSTOM_LEVEL_EVALUATION_RATE_4]
-Mostly negative reviews
+Mostly Negative
 
 [CUSTOM_LEVEL_EVALUATION_RATE_5]
-Rave reviews
+Bad Reviews
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND]
-Recommends  function settings for you
+"Recommended For You" Settings
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DESCRIPTION]
-This page can configure the opening of the homepage  recommends  function for you. After disabling this function, you will lose the opportunity to discover the latest and interesting levels
+This page configures the "Recommended For You" feature on the homepage. Disabling it will prevent you from discovering new and interesting levels.
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DISABLE]
-Disable  recommend  function for you
+Disable "Recommended For You" Feature
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_ENABLE]
-Enable  to recommend  function for you
+Enable "Recommended For You" Feature
 
 [CUSTOM_LEVEL_SETTING_PHONE]
 Associated cell phone number
@@ -74748,19 +74745,19 @@ Fun Competition
 Mini Games
 
 [MINIGAME_COLLECTION_TAB2]
-Event Rewards
+Rewards
 
 [MINIGAME_COLLECTION_TAB3]
-Mini Game perks
+Pearks
 
 [MINIGAME_COLLECTION_TAB4]
-Event Info
+Info
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
-Normal Mode
+Normal
 
 [MINIGAME_COLLECTION_HARD_LEVEL]
-Hard Mode
+Hard
 
 [MINIGAME_COLLECTION_ACTIVITY_TIME_OVER]
 Event Ended
