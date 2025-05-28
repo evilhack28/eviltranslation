@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Type        : Text-based (v3.7.3)
-Current Version  : 1.10.0 (pre-release)
+File Type        : Text-based (v3.7.3 server 2)
+Current Version  : 1.10.1 (pre-release)
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
@@ -52,7 +52,7 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from May 28 V1.10.0 (pre-release)
+translate by evilhack28 version from May 28 V1.10.1 (pre-release)
 
 [AGE_TIP]
 Change Log by evilhack28
@@ -62,67 +62,46 @@ Change Log by evilhack28
 Update base text to the 3.7.3 version
 fix plants detail text
 
+======1.10.1======
+added plants special data Almanac (go check for understand)
+fixxed some costume and plants text
+
+
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
 [EVIL_TIPS_8]
 ^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
-^000000 ~~ Last update May 28~~
+^000000 ~~ Last update May 28 ~~
 
-[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-Kiwifruit Great Sage Equaling Heaven Skin
 
-[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
-Attack Speed +25%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
-Burdock Batter Bull Demon King Skin
 
-[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_3]
-Sun Cost -25
-
-[NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_3]
-Gluttonous Snapdragon Junior Bailong
-
-[NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_3]
-Planting Cooldown -20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_2]
-Spear Wax Plant Red Boy Skin
-
-[NEW_AVATAR_DESCRIPTION_LANCERHOYA_2]
-Sun Cost -25
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
-Water Chestnut Bros Gold & Silver Kings Skin
-
-[NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
-Rest Time -10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_2]
 Beast Kiwi Zhu Bajie Skin
@@ -136,29 +115,6 @@ Flame Queen Palm-Leaf Fan Skin
 [NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
 Sun Cost -25
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
-Bubble Coral Growth Skin
-
-[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_1]
-Attack +15%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_2]
 Lily Pharmacist Super Outfit  
 
@@ -170,12 +126,6 @@ Jinyiwei Pea
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_4]
 Reduces sun cost by 20 point
-
-[NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_1]
-Kongming Pocket Paph
-
-[NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
-Increases attack power by 20%  
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAGNETSHROOM_1]
 Sinan Magnet-shroom
@@ -195,23 +145,11 @@ Tang Monk Sun-shroom
 [NEW_AVATAR_DESCRIPTION_SUNSHROOM_1]
 Increases sun production by 25
 
-[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_2]
-Eletric heartbreak Growth Outfit
-
-[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_2]
-Reduces attack interval by 20%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_HYPNOSHROOM_1]
 魅惑菇花环装扮
 
 [NEW_AVATAR_DESCRIPTION_HYPNOSHROOM_1]
 种植冷却减少25%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_1]
-枫影剑客双刀装扮
-
-[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_1]
-攻击力增加20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ROSESWORDMAN_1]
 玫瑰剑客头盔装扮
@@ -219,51 +157,11 @@ Reduces attack interval by 20%
 [NEW_AVATAR_DESCRIPTION_ROSESWORDMAN_1]
 阳光消耗降低25
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_2]
-泡泡姬珊瑚促销装扮
-
-[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_2]
-攻击间隔减少20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_2]
-电击鹰爪花电池装扮
-
-[NEW_AVATAR_DESCRIPTION_EAGLECLAW_2]
-休息时间减少20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
-聚能山竹科幻机甲装扮
-
-[NEW_AVATAR_DESCRIPTION_MANGOSTEEN_4]
-闪电伤害增加25%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_3]
-芦荟医师DJ装扮
-
-[NEW_AVATAR_DESCRIPTION_ALOES_3]
-休息时间减少10%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_3]
 冰龙草探险家装扮
 
 [NEW_AVATAR_DESCRIPTION_COLDSNAPDRAGON_3]
 阳光消耗降低25
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ICEWEED_1]
-寒冰地刺恶魔角装扮
-
-[NEW_AVATAR_DESCRIPTION_ICEWEED_1]
-攻击力增加20%
-
-
-
-
-
-[NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
-Frost Rambutan Growth Costume
-
-[NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
-Attack interval reduced by 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_2]
 CattailCake
@@ -277,36 +175,17 @@ Primal Walnut Cosplay Costume
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_2]
 Sunlight consumption reduced by 10
 
-[NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
-Dracaena §§§§§§§§
-
-[NEW_AVATAR_DESCRIPTION_DRACAENA_3]
-Sunlight consumption reduced by 25
-
-[NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
-Agave Top Hat
-
-[NEW_AVATAR_DESCRIPTION_AGAVE_2]
-Attack interval reduced by 15%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_PUMPKIN_1]
-Pumpkin Egyptian
-
-[NEW_AVATAR_DESCRIPTION_PUMPKIN_1]
-Health increased by 30%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_2]
 Angel Starfruit Master
 
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
 Attack power increased by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_2]
-Ignis Equeste
+[NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
+Big Smoke Mushroom Lion Dance Outfit
 
-
-
-
+[NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]
+Increases attack speed by 10%
 
 
 
@@ -2459,7 +2338,7 @@ Richer then dev !
 Earned by spending 10 000? the richest of the richest !
 
 [PARTYEPSACTIVITY_HEAD_ID_25644]
-Party Nüwa Ophiuros
+Party Nüwa
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25644]
 Limited Avatar for Party Assistance Event
@@ -2636,47 +2515,12 @@ Your local archive has illegal data and will continue the game using the cloud a
 Upload local archive failed.
 
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]
-Burdock Batter Stand-Up Outfit
 
-[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_2]
-Increases attack speed by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]
-Nüwa Party Helper Outfit
 
-[NEW_AVATAR_DESCRIPTION_EYWA_1]
-Reduces planting cooldown by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]
-Serpent Demon Pitcher Plant Sunglasses Outfit
 
-[NEW_AVATAR_DESCRIPTION_SARRACENIA_2]
-Increases attack speed by 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
-Electric Hook Kiss Party Helper Outfit
-
-[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]
-Increases attack power by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
-Big Smoke Mushroom Lion Dance Outfit
-
-[NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]
-Increases attack speed by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]
-Barbarian Rhubarb Growth Pack Outfit
-
-[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]
-Increases attack power by 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]
-Crazy Firecracker Flower Growth Outfit
-
-[NEW_AVATAR_DESCRIPTION_FIRECRACKERFLOWER_1]
-Increases attack speed by 20%
 
 
 [PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS]
@@ -2686,6 +2530,7 @@ Increases attack speed by 20%
 Sunflower
 
 [SUNFLOWER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
 {KEYWORD}Sun production: {STAT}Medium
 {KEYWORD}Plant features: {STAT}yellow plant, infinite sun
 {FLAVOR}Ever since becoming a star, her first song "Zombies On Your Lawn" has become a hit on social media. Therefore she is rushing on filming the video "Sunflower Dance Show", please stay tuned for that!
@@ -2784,6 +2629,8 @@ Sun production reduced by 4 seconds
 Peashooter
 
 [PEASHOOTER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Plant features: {STAT}green plant, pea family
 {FLAVOR}"How does success taste you ask me?" Peashooter slowly sips his hot tea, "I can't tell you about it now, I'm sorting my business contracts. Here's my coat, hold it well!"
 
@@ -2865,6 +2712,7 @@ Racing costume
 Wall-nut
 
 [WALLNUT_DESCRIPTION]
+{KEYWORD}HP: {STAT}4000/6000/8000/10000/12000
 {KEYWORD}Plant features: {STAT}brown plant
 {FLAVOR}Wall-nut the champion bowler of the Pro Leagues has recently retired. The fans believe this is a huge loss to bowling community as a whole, though Wall-nut seems to be using his talent of bowling on the front lines of the battlefield. Keep it up!
 
@@ -2946,6 +2794,8 @@ Planting cooldown reduced by 10%
 Potato Mine
 
 [POTATOMINE_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}1800/2700/3600/4500/5400
 {KEYWORD}Usage: {STAT}Single use, requires some time to arm before activation.
 {KEYWORD}Range: {STAT}Melee
 {KEYWORD}Plant features: {STAT}brown plant, armed family, short
@@ -3011,6 +2861,8 @@ Damage increased by 10%
 Cabbage-pult
 
 [CABBAGEPULT_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}40/60/80/100/120
 {KEYWORD}Plant features: {STAT}green plant
 {FLAVOR}Obtaining the doctorate degree in pulting from Harvest University, Cabbage-pult never seems to run out of topics on how to be a winner in life. He also often brags about how good the soup he makes tastes, though the ones who have tried it never wish to bring it up.
 
@@ -3087,6 +2939,8 @@ Attack increased by 10%
 Repeater
 
 [REPEATER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Damage: {STAT}normal (for each pea)
 {KEYWORD}Firing Speed: {STAT}Double
 {KEYWORD}Plant features: {STAT}green plant, pea family
@@ -3161,6 +3015,7 @@ Increase attack speed by 15%
 Tall-nut
 
 [TALLNUT_DESCRIPTION]
+{KEYWORD}HP: {STAT}8000/12000/16000/20000/24000
 {KEYWORD}Special: {STAT}blocks Imps being thrown
 {KEYWORD}Plant features: {STAT}brown plant, tall stature
 {FLAVOR}Tall-nut has opened a chain clothing store for people with a tall stature. "We do honest business. We will return any extra materials to you, our dear customer."
@@ -3235,6 +3090,8 @@ Skill damage increased by 100
 Spikerock
 
 [SPIKEROCK_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Special: {STAT}won't be eaten by zombies
 {KEYWORD}Weakness: {STAT}withstands 3 hits from Barrel Roller Zombie
 {KEYWORD}Plant features: {STAT}short
@@ -3308,6 +3165,8 @@ Plant attack power increased by 20%.
 Threepeater
 
 [THREEPEATER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Damage: {STAT}normal (for each pea)
 {KEYWORD}Range: {STAT}three lanes
 {KEYWORD}Plant features: {STAT}green plant, pea family
@@ -3388,6 +3247,8 @@ Increases attack power by 15%
 Winter Melon
 
 [WINTERMELON_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}80/120/160/200/240 (direct hit) 40/60/80/100/120 (splash damage)
 {KEYWORD}Firing speed: {STAT}1/2x
 {KEYWORD}Range: {STAT}lobbed
 {KEYWORD}Special: {STAT}damaged zombies are also frozen
@@ -3469,6 +3330,7 @@ Increases freeze damage by 15%
 Grave Buster
 
 [GRAVEBUSTER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
 {KEYWORD}Usage: {STAT}single use, only works on graves
 {KEYWORD}Trait: {STAT} eats graves
 {KEYWORD}Plant features: {STAT}green plant, sharp teeth
@@ -3504,6 +3366,8 @@ Grave Buster produces sun after destroy the tombstone
 Snow Pea
 
 [SNOWPEA_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}20/30/40/50/60 (Pea) 90/135/180/225/270 (Ice)
 {KEYWORD}Special: {STAT}Freezes zombies
 {KEYWORD}Plant features: {STAT}blue plant, pea family
 {FLAVOR}Although he might come off as quite cold, Snow Pea really like his friends, and loves and respects people of all ages. What's his specialty at a party? Heating up the whole audience with his cold jokes, of course.
@@ -3575,6 +3439,7 @@ Eternal Warrior
 Torchwood
 
 [TORCHWOOD_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/1500/4500/9000
 {KEYWORD}Special: {STAT}Turns peas that pass through it into fire peas which deal double damage
 {KEYWORD}Plant features: {STAT}brown plant, scary look but kind within, bathed in fire
 {FLAVOR}Due to common interests, Torchwood and Snapdragon quickly became good friends. You can see them in places like Native Hawaiian-styled lounges or Renaissance-styled circuses.
@@ -3637,6 +3502,8 @@ Health increased by 20%
 Kernel-pult
 
 [KERNELPULT_DESCRIPTION]
+{KEYWORD}Plant HP: {STAT}300/450/600
+{KEYWORD}Damage: {STAT}20/30/40/50 (corn kernels) 80/120/160/200 (butter) 375/500/625 (corn missile)
 {KEYWORD}Damage: {STAT}light (kernel) normal (butter)
 {KEYWORD}Special: {STAT}butter can temporarily immobilize zombies
 {KEYWORD}Plant feature: {STAT}yellow plant
@@ -4697,7 +4564,23 @@ Squash smashes two random zombies before returning to his original position
 [SQUASH_AVATAR_PLANTFOOD_DESCRIPTION]
 Squash smashes ^FFFF00 three random oldclr^ zombies before returning to his original position
 
+[GENE_DESCRIPTION_SQUASH]
+The probability of not disappearing after the Squash attack and returning to the same place increases {Param_1}% (effective after level 2)
 
+[STORE_PRODUCT_AVATAR_SQUASH]
+plants food can be stepped on once more
+
+[STORE_PRODUCT_AVATAR_SQUASH_TITLE]
+Squash Costume
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_1]
+Squash headband
+
+[NEW_AVATAR_DESCRIPTION_SQUASH]
+Reduce sun cost by 10
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_2]
+Squash Racing costume
 
 
 [CHILIBEAN]
@@ -5942,6 +5825,131 @@ Sunflower Singer Olympic
 
 
 
+[KIWIFRUIT]
+Kiwifruit
+
+[KIWIFRUIT_DESCRIPTION]
+{KEYWORD}Special: {STAT}Causes damage to all zombies in an area.
+{KEYWORD}Plant features: {STAT}green plant, powerful martial art skills
+{FLAVOR}"Great Saint, Victor of Buddhas, Monkey King..." Kiwifruit wants to put all of his names out to represent himself. However, reality is cruel, as in the eyes of the zombies, he's just an edible fruit... That's all...
+
+[KIWIFRUIT_DESCRIPTION_HEADER]
+Kiwifruit pulls out his staff to attack the nearest zombie and also does damage to all zombies in that square.
+
+[KIWIFRUIT_TOOLTIP]
+Kiwifruit pulls out his staff to attack the nearest zombie and also does damage to all zombies in that square.
+
+[KIWIFRUIT_PRODUCT_SHORT_DESC]
+Kiwifruit pulls out his staff to attack the nearest zombie and also does damage to all zombies in that square.
+
+[KIWIFRUIT_PLANTFOOD]
+Make a huge golden cudgel and smash the zombies in the front 5 squares into the ground.
+
+[KIWIFRUIT_SKILL_LEVEL1]
+Free Control
+
+[KIWIFRUIT_SKILL_LEVEL1_DES]
+Extend the attack time of the golden cudgel to 12 seconds, and speed up the frequency of the golden cudgel's damage to zombies.
+
+[KIWIFRUIT_SKILL_LEVEL2]
+Slowing Magic
+
+[KIWIFRUIT_SKILL_LEVEL2_DES]
+Kiwifruit has learned the slowing technique, which makes the zombies hit by the golden cudgel enter a deceleration state.
+
+[KIWIFRUIT_SUPERSKILL_NAME]
+Cloning Magic
+
+[KIWIFRUIT_SUPERSKILL_DES]
+When attacking, there is a 20% chance to summon a little kiwi. The little kiwi will fly to the right and cause 300 points of damage to the zombies it touches. It will disappear after hitting 8 sticks.
+
+[KIWIFRUIT_NEW_SKILL_LEVEL1_DES]
+When a zombie appears on the right side of the kiwi fruit, a golden cudgel flying to the right is thrown, the golden cudgel stops flying after touching the zombie and continuously causes damage to the zombie within a single grid, the golden cudgel lasts 4 seconds.
+
+[KIWIFRUIT_NEW_SKILL_LEVEL2_DES]
+Extend the attack time of the golden cudgel to 12 seconds, and speed up the frequency of the golden cudgel's damage to zombies.
+
+[KIWIFRUIT_NEW_SKILL_LEVEL3_DES]
+Kiwifruit has learned the slowing technique, which makes the zombies hit by the golden cudgel enter a deceleration state.
+
+[KIWIFRUIT_NEW_SKILL_LEVEL4_DES]
+Kiwifruit may be boosted when planted.
+
+[KIWIFRUIT_NEW_SKILL_LEVEL5_DES]
+When attacking, there is a 20% chance to summon a little kiwi. The little kiwi will fly to the right and cause 300 points of damage to the zombies it touches. It will disappear after hitting 8 sticks.
+
+[KIWIFRUIT_PLANTFOOD_DESCRIPTION]
+Gets a giant Monkey King Bar and smashes zombies in a range of 4 tiles in front of him makign them dizzy for 6s.
+
+[KIWIFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+Gets a giant Monkey King Bar and smashes zombies in a range of 4 tiles in front and stalls them in the ground for 12s.
+
+[GENE_DESCRIPTION_KIWIFRUIT]
+Kiwifruit duration of the golden cudgel extend by {Param_1}s
+
+[KIWIFRUIT_AVATAR_NAME]
+Kiwifruit Sun Wukong's crown
+
+[STORE_PRODUCT_AVATAR_KIWIFRUIT]
+Now smash zombies twice and stalls them in the ground for a while.
+
+[STORE_PRODUCT_AVATAR_KIWIFRUIT_TITLE]
+Kiwifruit Sun Wukong's crown
+
+[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_1]
+Kiwifruit balloon hat
+
+[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_1]
+Reduce sun cost by 20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_2]
+Kiwifruit scarf
+
+[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_2]
+Attack speed increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_3]
+Kiwifruit Sun Wukong
+
+[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
+The Great Sage
+
+[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
+Attack Speed +25%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6037,21 +6045,25 @@ Throws its sword up, grabs it, and slams it onto the ground which sends a shockw
 Has {Param_1}% chance of firing weapon aura (剑气) as a projectile
 
 [AGAVE_AVATAR_NAME]
-Agave Costume
+Agave Maya
 
 [STORE_PRODUCT_AVATAR_AGAVE]
 The attack now goes in three directions.
 
 [STORE_PRODUCT_AVATAR_AGAVE_TITLE]
-Agave Costume
+Agave Maya
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_1]
-Agave Spring Festival Costume
+Agave Chinese hat
 
 [NEW_AVATAR_DESCRIPTION_AGAVE]
 Attack power increased by 15%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
+Agave top hat
 
+[NEW_AVATAR_DESCRIPTION_AGAVE_2]
+Attack interval reduced by 15%
 
 
 
@@ -7280,10 +7292,10 @@ Fires 7 mulberries at any random zombies and then afterwards, a large mulberry. 
 The probability of a Mulberry throwing a gas bomb increases {Param_1}% (effective after level 5)
 
 [MULBERRY_AVATAR_NAME]
-Mulberry blast Costume
+Mulberry glasses
 
 [STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
-Mulberry blast Costume
+Mulberry glasses
 
 [STORE_PRODUCT_AVATAR_MULBERRY]
 There is a probability of throwing a huge grenade and causing huge damage in the 3X3 range to the target.
@@ -8026,13 +8038,13 @@ He will spit two electric balls instead of one.
 Zapdragon lightning
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
-Zapdragon headphones
+Zapdragon Cupcake
 
 [NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
 Attack power increased by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
-Zapdragon horn
+Zapdragon New Year
 
 
 
@@ -8187,7 +8199,11 @@ Reduce sun cost by 20
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_2]
 Aloe bow tie
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_3]
+Dr. Aloe DJ
 
+[NEW_AVATAR_DESCRIPTION_ALOES_3]
+Rest time by 10%
 
 
 
@@ -8969,6 +8985,12 @@ Chestnut Brothers fluorescent headband
 
 [NEW_AVATAR_DESCRIPTION_ELEOCURLING_2]
 Attack power increased by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
+Chestnut Brothers Golden Horn & Silver Horn Kings
+
+[NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
+Rest Time -10%
 
 
 
@@ -10884,11 +10906,13 @@ Attack power increased by 10%
 Mango sign
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_3]
-Mango gentleman outfit
+Mango gentleman
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
+High voltage Mangosteen
 
-
-
+[NEW_AVATAR_DESCRIPTION_MANGOSTEEN_4]
+Lightning damage increased by 25%
 
 
 
@@ -11772,21 +11796,31 @@ Enter the thermal state and strengthen the next swing: causing damage to zombies
 Has a {Param_1}% change of maintaining the first burning effect from Plant Food ability
 
 [STORE_PRODUCT_AVATAR_BURDOCKBATTER_TITLE]
-Burdock Batter Outfit
+Burdock Batter cricket
 
 [BURDOCKBATTER_AVATAR_NAME]
-Burdock Batter Outfit
+Burdock Batter cricket
 
 [STORE_PRODUCT_AVATAR_BURDOCKBATTER]
 its straightball attack will split the pea into three, affecting zombies in three different directions. Burdock Batter's melee attack is unchanged.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_1]
-Burdock Batter Growth costume
+Burdock Batter football helmet
 
 [NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_1]
-Plant attack power increased by 10%
+Plant attack increased by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]
+Burdock Batter football helmet
 
+[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_2]
+Increases attack speed by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
+Ox-Demon King & Princess Iron-Fan's
+
+[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_3]
+Sun Cost -25
 
 
 [DEODARCEDAR]
@@ -12370,14 +12404,19 @@ Reduces rest time by {Param_1} seconds.
 The Pike Hoya throws a spear, causing damage to the zombies
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA]
-The range of the attack will be increased to a 5x5 area.e
+The range of the attack will be increased to a 5x5 area.
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA_TITLE]
-Pike Hoya costume
+Pike Hoya eye patch
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_1]
-Year of the Dragon Outfit
+Pike Hoya Menshen
 
+[NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_2]
+Pike Hoya Red Boy
+
+[NEW_AVATAR_DESCRIPTION_LANCERHOYA_2]
+Sun Cost -25
 
 
 
@@ -12449,7 +12488,7 @@ Vamporcini Costume
 its cloak will be larger and have more health.
 
 [PUMPKIN]
-pumpkin
+Pumpkin
 
 [PUMPKIN_DESCRIPTION]
 {KEYWORD}Special: {STAT}Can be planted over other plants to provide additional defense
@@ -12464,15 +12503,6 @@ Pumpkin can be planted over other plants, providing a sturdy additional layer of
 
 [PUMPKIN_PRODUCT_SHORT_DESC]
 Pumpkin can be planted over other plants, providing a sturdy additional layer of armor
-
-[PUMPKIN_AVATAR_NAME]
-Pumpkin can be planted over other plants, providing a sturdy additional layer of armor
-
-[STORE_PRODUCT_AVATAR_PUMPKIN]
-Gains crystal armor that absorbs additional damage.
-
-[STORE_PRODUCT_AVATAR_PUMPKIN_TITLE]
-pumpkin Costume
 
 [PUMPKIN_SKILL_LEVEL1]
 Life Candy
@@ -12511,10 +12541,25 @@ When destroyed, Pumpkin sets off an explosion that does 1000 damage in a 1x2 are
 The pumpkin immediately hardens its shell, restores health, and dons a layer of tough steel armor that can block zombies' bites.
 
 [PUMPKIN_AVATAR_PLANTFOOD_DESCRIPTION]
-The pumpkin immediately hardens its shell, restores health, and dons a layer of ^ff0000even tougher crystal armor, which can resist zombies' bites for a longer period.^oldclrr
+Gains crystal armor that absorbs additional damage.
 
 [GENE_DESCRIPTION_PUMPKIN]
-Gain an extra armor with {Param_1} points of health when planting pumpkin heads.
+Grants an additional {Param_1} health point when a Pumpkin is planted
+
+[PUMPKIN_AVATAR_NAME]
+Pumpkin can be planted over other plants, providing a sturdy additional layer of armor
+
+[STORE_PRODUCT_AVATAR_PUMPKIN]
+Gains crystal armor that absorbs additional damage.
+
+[STORE_PRODUCT_AVATAR_PUMPKIN_TITLE]
+Pumpkin candle
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUMPKIN_1]
+Pumpkin egyptian
+
+[NEW_AVATAR_DESCRIPTION_PUMPKIN_1]
+Health increased by 30%
 
 
 
@@ -12715,24 +12760,28 @@ Gorgon Pitcher will unleash a large fan-shaped petrifying glare ahead of it.
 Gorgon Pitcher will unleash a large fan-shaped petrifying glare ahead of it. ^FF0000 the range of the petrifying glare is made wider. ^oldclr
 
 [STORE_PRODUCT_AVATAR_SARRACENIA_TITLE]
-Gorgon Pitcher Costume
+Gorgon Pitcher necklace
 
 [SARRACENIA_AVATAR_NAME]
-Gorgon Pitcher Costume
+Gorgon Pitcher necklace
 
 [STORE_PRODUCT_AVATAR_SARRACENIA]
-the range of the petrifying glare is made wider.
+The range of the petrifying glare is made wider.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_1]
-Growth Costume
+Gorgon Pitcher earrings
 
 [NEW_AVATAR_DESCRIPTION_SARRACENIA_1]
 Plant attack increased by 20%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]
+Gorgon Pitcher pink glasses
+
+[NEW_AVATAR_DESCRIPTION_SARRACENIA_2]
+Increases attack speed by 20%
+
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
 You can't plant on Gorgon Pitcher fossils
-
-
 
 
 [METEORFLOWER]
@@ -13323,6 +13372,8 @@ The oil is ignited, dealing more damage and creating a small fire trail.
 Dracaena
 
 [DRACAENA_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}80/120/160/200/240
 {KEYWORD}Range: {STAT}1 row ahead
 {KEYWORD}Special: {STAT}Sends out sword energy to attack zombies, and flying swords can instantly kill zombies with a certain amount of health.
 {KEYWORD}Plant features: {STAT}Green plant
@@ -13377,24 +13428,28 @@ Dracaena summons a large amount of swords forwards which deals a heavy amount of
 Dracaena summons a large amount of swords forwardss and ^FFFF00 a small amount swords will be fired at 15 degree angles above and below the main barrage ^oldclrr . Which deals a heavy amount of knockback damage.
 
 [STORE_PRODUCT_AVATAR_DRACAENA_TITLE]
-dracaena Costume
+dracaena Chinese gourd
 
 [DRACAENA_AVATAR_NAME]
-dracaena Costume
+dracaena Chinese gourd
 
 [STORE_PRODUCT_AVATAR_DRACAENA]
-a small number of swords will be fired at 15 degree angles above and below the main barrage.
+A small number of swords will be fired at 15 degree angles above and below the main barrage.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_1]
-Blood Tree Growth Outfit
+Dracaena scarf
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_1]
 Increases plant attack power by 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_2]
-Naraka: Bladepoint collaboration outfit
+Dracaena Chenwu
 
+[NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
+Dracaena stripe
 
+[NEW_AVATAR_DESCRIPTION_DRACAENA_3]
+Sunlight consumption reduced by 25
 
 
 
@@ -13403,6 +13458,8 @@ Naraka: Bladepoint collaboration outfit
 Bamboo Spartan
 
 [SPARTANBAMBOO_DESCRIPTION]
+{KEYWORD}HP: {STAT}600/900/1200/1500/1800
+{KEYWORD}Damage: {STAT}35/52.5/70/87.5/105
 {KEYWORD}Range: {STAT} 2 squares in front
 {KEYWORD}Special: {STAT} Integrated attack and defense, using the spear in the hand to attack zombies, the damage will increase after the shield is broken.
 {KEYWORD}Plant features: {STAT} green plant
@@ -13545,6 +13602,7 @@ When releasing plants food, there is a 45% probability of dropping 100 gold coin
 Nightcap
 
 [NIGHTCAP_DESCRIPTION]
+{KEYWORD}Damage: {STAT}30/45/60/75/90
 {KEYWORD}Range: {STAT} 4 squares in front
 {KEYWORD}Special: {STAT} attacks zombies to slow down and poison them, and will not be harmed in the dark night form
 {KEYWORD}Plant features: {STAT} purple plant
@@ -13620,6 +13678,7 @@ Planting cooldown reduced by 20%
 Sunshine Leek
 
 [HAPPYLEEK_DESCRIPTION]
+{KEYWORD}HP: {STAT}1000/1500/2000/2500/3000
 {KEYWORD}Range: {STAT}3 tiles in his own lane
 {KEYWORD}Special: {STAT} after growing up sun, and later becomes old age for a period of time, allowing the front zombies to change line
 {KEYWORD}Plant features: {STAT}Green plant, infinite sun
@@ -13687,6 +13746,8 @@ Sunshine Leek will grow to his final form and release ^FF0000 poisonous breath s
 Pyre Vine
 
 [PYREVINE_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}30/45/60/75/90
 {KEYWORD}Range: {STAT} 2 squares in front
 {KEYWORD}Special: {STAT} spray flames to continuously attack zombies
 {KEYWORD}Plant features: {STAT} red plant
@@ -13754,6 +13815,8 @@ Plants food flames change to a cross shape
 Gluttonous Snapdragon
 
 [GLUTTONYDRAGON_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}60/90/120/150/180
 {KEYWORD}Range: {STAT}1 tile or 3x3 area ahead
 {KEYWORD}Special: {STAT}Eats snacks or nibbles zombies to build up energy, then consumes the energy to spit out flames
 {KEYWORD}Plant features: {STAT}Green plant
@@ -13809,30 +13872,36 @@ Gluttonous Snapdragon will drag three nearest zombies to and then push any survi
 Gluttonous Snapdragon will drag three nearest zombies to and then push any surviving zombies on the same lane away by releasing a burp, akin to Chomper's Plant Food ability with the difference is the burp pushes surviving zombies farther.
 
 [STORE_PRODUCT_AVATAR_GLUTTONYDRAGON_TITLE]
-Gluttonous Snapdragon Costume
+Gluttonous Snapdragon bib
 
 [GLUTTONYDRAGON_AVATAR_NAME]
-Gluttonous Snapdragon Costume
+Gluttonous Snapdragon bib
 
 [STORE_PRODUCT_AVATAR_GLUTTONYDRAGON]
 Before drag three nearest zombies, Gluttonous Snapdragon will throw various snacks and swallow them, thus restoring 40% of his energy.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_1]
-Growth Pack Outfit
+Gluttonous Snapdragon cardboard
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_2]
-Gluttonous Dragon Super Outfit
+Toy Gluttonous Dragon's
 
 [NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_2]
 All energy recovery increased by 50%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_3]
+Gluttonous Snapdragon White Dragon Horse
 
+[NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_3]
+Planting Cooldown -20%
 
 
 [WATERRABBIT]
 Bun Chi
 
 [WATERRABBIT_DESCRIPTION]
+{KEYWORD}HP: {STAT}175/262.5/350/437.5/525
+{KEYWORD}Damage: {STAT}50/75/100/125/150
 {KEYWORD}range: {STAT}1 grid in front
 {KEYWORD}Special: {STAT}Use your ears to continuously slap zombies. After each round of attacks, the purple flowers on the rabbit's head will grow
 {KEYWORD}Plant features: {STAT} green plant
@@ -13902,6 +13971,8 @@ Bun Chi' deals two consecutive hits to zombies in a 3x3 area, then ^ff0000jumps 
 Heliconia Gunner
 
 [HELICONIAGUNNER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}50/75/100/125/150
 {KEYWORD}Range: {STAT}Ownself row and diagonal directions
 {KEYWORD}Special: {STAT}Uses the machine gun to attack zombies in all directions, and will need to reload after a round of shooting.
 {KEYWORD}Plant features: {STAT}Yellow plant, Red plant
@@ -13972,6 +14043,8 @@ Every 6 bullets will be mixed with an armor-piercing bullet that pierce through 
 Electric Peel
 
 [ElECTRICPEEL_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}35/52.5/70/87.5/105
 {KEYWORD}Range: {STAT}4 squares ahead
 {KEYWORD}Feature: {STAT}Releases an electric eel that moves forward and electrocutes zombies
 {KEYWORD}Plant features: {STAT}Yellow plants
@@ -14026,19 +14099,31 @@ lectric Peel will unleash a giant "Super Peel" that will travel down the entire 
 lectric Peel will unleash a giant "Super Peel" that will travel down the entire lane and deal heavy damage to all zombies in it ^FF0000 damage is increased for zombie that can't be instant kill. ^oldclr 
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEEL_TITLE]
-Electric Peel costume
+Electric Peel glasses
 
 [ELECTRICPEEL_AVATAR_NAME]
-Electric Peel costume
+Electric Peel glasses
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEEL]
 The Super Peel's damage is increased.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_1]
+Electric Peel dragon puppets
+
+[NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_1]
+Electric damage increased by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_2]
+Ignis Equester
+
 
 
 [WIZARDTHORNS]
 Thorns Wizard
 
 [WIZARDTHORNS_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}5/7.5/10/12.5/15
 {KEYWORD}Range: {STAT}1 row ahead
 {KEYWORD}Special: {STAT}Uses thorns to wrap around or stab zombies, which can poison zombies after attacking.
 {KEYWORD}Plant features: {STAT}Green plant, mysterious mage
@@ -14108,6 +14193,7 @@ The number of large thorns is increased to 5.
 Cactus Mistletoe
 
 [TRISTERIXAPHYLLUS_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
 {KEYWORD}Range: {STAT} Full Board
 {KEYWORD}Special: {STAT}Hypnotizes the target zombie and stuns other surrounding zombies
 {KEYWORD}Plant features: {STAT}Red plant
@@ -14183,6 +14269,8 @@ Reduces sun cost by 20 sun.
 Sawblade Sundew
 
 [CHAINSAWBURMANNII_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}60/90/120/150/180
 {KEYWORD}Range: {STAT}Surrounding tiles
 {KEYWORD}Special: {STAT}Throws a sawblade that spins around itself and attacks surrounding zombies.
 {KEYWORD}Plant features: {STAT}Green plant
@@ -14257,6 +14345,8 @@ Gift Outfit
 Dragon Bruit
 
 [DRAGONBRUIT_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}100/150/200/250/300
 {KEYWORD}Range: {STAT}The three rows above, middle, and below itself
 {KEYWORD}Special: {STAT}Throws attacks at zombies when they are in front, enters shadow form when Moonflower is nearby
 {KEYWORD}Plant features: {STAT}Red plant, shadow type plant
@@ -14334,6 +14424,8 @@ Increases attack speed by 15%
 Gloom Vine
 
 [gloomvine_DESCRIPTION]
+{KEYWORD}HP: {STAT}250/375/500/625/750
+{KEYWORD}Damage: {STAT}45/67.5/90/112.5/135
 {KEYWORD}Range: {STAT}3x3 around itself
 {KEYWORD}Special: {STAT}Attacks zombies within range, causes shadow plants planted on it to enter shadow form
 {KEYWORD}Plant features: {STAT}Blue plant, shadow type plant
@@ -14405,6 +14497,7 @@ Gloom vine continuously spits bubbles, damaging zombies within its attack range
 Electric Tailgrape
 
 [EAGLECLAW_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
 {KEYWORD}Range: {STAT}full lane
 {KEYWORD}Special: {STAT}Condenses balls of lightning to continuously shock zombies
 {KEYWORD}Plant features: {STAT}Green plant
@@ -14459,18 +14552,22 @@ Electric Tailgrape will throw a large ball of lightning that continuously damage
 Electric Tailgrape will throw a large ball of lightning that continuously damages ^FFFF00 and stun ^oldclrr  zombies in a 3x3 area.
 
 [STORE_PRODUCT_AVATAR_EAGLECLAW_TITLE]
-Electric Tailgrape Costume
+Electric Tailgrape glasses
 
 [EAGLECLAW_AVATAR_NAME]
-Electric Tailgrape Costume
+Electric Tailgrape glasses
 
 [STORE_PRODUCT_AVATAR_EAGLECLAW]
 Huge lightning ball will also be able to stun zombies.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_1]
-NFS event Outfit
+Electric Tailgrape braids hat
 
+[NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_2]
+Electric Tailgrape battery
 
+[NEW_AVATAR_DESCRIPTION_EAGLECLAW_2]
+Resting time reduced by 20%
 
 
 
@@ -14479,6 +14576,8 @@ NFS event Outfit
 Gramophone Datura
 
 [HEAVENDATURA_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}200/300/400/500/600
 {KEYWORD}Range: {STAT}One tile ahead to 5×5
 {KEYWORD}Special: {STAT}Projectiles produce resonant sound waves as they pass by.
 {KEYWORD}Plant features: {STAT}Yellow plant
@@ -14560,6 +14659,8 @@ Plant attack increased by 15%
 Crazy Flamevine
 
 [FIRECRACKERFLOWER_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}15/22.5/30/37.5/45
 {KEYWORD}Range: {STAT}three adjacent lanes
 {KEYWORD}Special: {STAT}Can briefly stun zombies
 {KEYWORD}Plant features: {STAT}Red plant, Weapons family
@@ -14611,18 +14712,24 @@ Crazy Flamevine will lob firecrackers at every zombie on screen, which will stun
 Crazy Flamevine will lob firecrackers at every zombie on screen, which will stun them and deal ^FF0000 continuous ^oldclr heavy damage ^FF0000 for 6 seconds ^oldclr in a single tile.
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER_TITLE]
-Crazy Flamevine Costume
+Crazy Flamevine tie
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER]
 The firecrackers it lobs will deal continuous fire damage to affected zombies for 6 seconds.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]
+Crazy Flamevine firecracker
 
+[NEW_AVATAR_DESCRIPTION_FIRECRACKERFLOWER_1]
+Increases attack speed by 20%
 
 
 [TWINSHONEYSUCKLE]
 Lunisolar Honeysuckle
 
 [TWINSHONEYSUCKLE_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}1000/1500/2000/2500/3000
 {KEYWORD}Range: {STAT}one lane ahead for the golden flower, full screen for the silver flower
 {KEYWORD}Special: {STAT}The golden flower summons the sun to deal fire damage, and the silver flower summons the moon to deal ice damage.
 {KEYWORD}Plant features: {STAT}Yellow plant, blue plants
@@ -14693,6 +14800,8 @@ Produces the same number of red and blue stars as in basic attacks after explodi
 Rhubarbarian
 
 [RHUBARBARIAN_DESCRIPTION]
+{KEYWORD}HP: {STAT}900/1350/1800/2250/2700
+{KEYWORD}Damage: {STAT}40/60/80/100/120
 {KEYWORD}Range: {STAT}Basic attack one tile in front, jump three to five tiles in front.
 {KEYWORD}Special: {STAT}Melee plant that can jump forward, cause stun and stay at the landing point to attack.
 {KEYWORD}Plant features: {STAT}Red plant
@@ -14747,15 +14856,19 @@ Rhubarbarian will slam the ground 3 times moving forward on the lawn if there ar
 Rhubarbarian will slam the ground 4 times moving forward on the lawn if there are zombies in his tile range. Once he does all his slams, he will return to his normal position.
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
-Rhubarbarian Costume
+Rhubarbarian Hawaiian skirt
 
 [RHUBARBARIAN_AVATAR_NAME]
-Rhubarbarian Costume
+Rhubarbarian Hawaiian skirt
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN]
 A chance to create a final smaller red version of himself, which deals greater damage and has a chance to stun zombies for one second.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]
+Rhubarbarian glasses
 
+[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]
+Increases attack power by 10%
 
 
 
@@ -14764,6 +14877,8 @@ A chance to create a final smaller red version of himself, which deals greater d
 Aqua Vine
 
 [AQUAVINE_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}50/75/100/125/150
 {KEYWORD}Special: {STAT} Adapts attack mode based on the type of plant placed on it.
 {KEYWORD}Plant features: {STAT} Green Plant
 {FLAVOR}Once during its regular morning jog, Aqua Vine tied a taco to the end of a string in the hopes of getting Dave to exercise. Who knew Dave could be so fast?
@@ -14839,6 +14954,8 @@ Cannot plant Aqua Vines on Lily Pads.
 Frost Rambutan
 
 [WINTERRAMBUTAN_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}100/150/200/250/300
 {KEYWORD}Plant features: {STAT}White plant
 {FLAVOR}Frost Rambutan likes to play in the snow, so he moved to the north solely for this purpose
 
@@ -14891,15 +15008,19 @@ Frost Rambutan will inflate into a round spiky ball, after which he will roll do
 Will leave a temporary icy tile will only chill and slow down zombies that step on it.
 
 [STORE_PRODUCT_AVATAR_WINTERRAMBUTAN_TITLE]
-Frost Rambutan Outfit
+Frost Rambutan aviator hat
 
 [WINTERRAMBUTAN_AVATAR_NAME]
-Frost Rambutan Outfit
+Frost Rambutan aviator hat
 
 [STORE_PRODUCT_AVATAR_WINTERRAMBUTAN]
 Creates ice blocks after plants food impact. Zombies stepping on the ice blocks will be slowed.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
+Frost Rambutan belt
 
+[NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
+Attack interval reduced by 20%
 
 
 
@@ -14907,6 +15028,8 @@ Creates ice blocks after plants food impact. Zombies stepping on the ice blocks 
 Electric Heartbreak
 
 [WIREGELSEMIUM_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}80/120/160/200/240
 {KEYWORD}Usage: {STAT}Click or hold Heartbreak and drag to the target
 {KEYWORD}Range: {STAT}Full range of lawn
 {KEYWORD}Special: {STAT}Causes electric damage in the affected area
@@ -14962,33 +15085,45 @@ Fires an electric will launch electric wires all over the lawn, dealing 1 damage
 Damage increased by 50%.
 
 [WIREGELSEMIUM_AVATAR_NAME]
-Electric Heartbreak Outfit
+Electric Heartbreak future glasses
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM]
 Plant food damage increased by 50%.
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM_TITLE]
-Electric Heartbreak Outfit
+Electric Heartbreak future glasses
 
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
+Electric Heartbreak heart glasses
 
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]
+Increases attack power by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_2]
+Electric Heartbreakk neon arrow sign
+
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_2]
+Reduces attack interval by 20%
 
 
 [ICEWEED]
 Iceweed
 
 [ICEWEED_DESCRIPTION]
-{KEYWORD}Range: {STAT}in case
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}30/45/60/75/90
+{KEYWORD}Range: {STAT}Own tile
 {KEYWORD}Plant feature: {STAT}Blue Plant
-{FLAVOR} Iceweed is excited to get the call-up to the big leagues and can't wait to start refrigerating zombies whilst inflicting damage on them. He insisted we say "whilst."
+{FLAVOR}Being called up by the major leagues, Iceweed was very excited. He couldn't wait to freeze these zombies and hurt them. He insisted on using the word "and".
 
 [ICEWEED_DESCRIPTION_HEADER]
-Iceweeds damage and chill zombies that walk over them.
+Attacks the zombie in the tile. The zombie attacked by Iceweed will enter the frost slowdown state.
 
 [ICEWEED_TOOLTIP]
-Iceweeds damage and chill zombies that walk over them.
+Attacks the zombie in the tile. The zombie attacked by Iceweed will enter the frost slowdown state.
 
 [ICEWEED_PRODUCT_SHORT_DESC]
-Iceweeds damage and chill zombies that walk over them.
+Attacks the zombie in the tile. The zombie attacked by Iceweed will enter the frost slowdown state.
 
 [ICEWEED_SKILL_LEVEL1]
 Cold Sting
@@ -15030,19 +15165,27 @@ Summons a sawblade that drag zombies from nearby lanes in, freezing all zombies 
 Additionally launches sawblades on the lanes above and below.
 
 [STORE_PRODUCT_AVATAR_ICEWEED_TITLE]
-Iceweed avatar
+Iceweed glasses
 
 [ICEWEED_AVATAR_NAME]
-Iceweed avatar
+Iceweed glasses
 
 [STORE_PRODUCT_AVATAR_ICEWEED]
 Additionally launches sawblades on the lanes above and below.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ICEWEED_1]
+Iceweed Devil Horns
+
+[NEW_AVATAR_DESCRIPTION_ICEWEED_1]
+Increases attack by 20%
 
 
 [BUBBLECORAL]
 Bubble Coral
 
 [BUBBLECORAL_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}40/60/80/100/120
 {KEYWORD}Range: {STAT}entire lane
 {KEYWORD}Special:  {STAT}Press to switch between different forms
 {KEYWORD}Plant feature: {STAT}Pink plant
@@ -15097,24 +15240,35 @@ Blow a giant bubble in its tile, which will then explode and fire a large volley
 giant bubble will be one of this three plants (Sunflower, Ice-shroom, Mangosteen) and more bubbles will be fired.
 
 [BUBBLECORAL_AVATAR_NAME]
-Bubble Coral costume
+Bubble Coral ribbon
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL]
 Explodes to generate more bubbles.
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL_TITLE]
-Bubble Coral costume
+Bubble Coral ribbon
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
+Bubble Coral pacifier
 
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_1]
+Attack +15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_2]
+Bubble Coral Promotional
+
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_2]
+Attack interval reduced by 20%
 
 [PAPHIOPEDILUM]
 Pocket Paph
 
 [PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}Range: {STAT}single line
-{KEYWORD}Feature: {STAT}launch random items
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Range: {STAT}One lane ahead
+{KEYWORD}Feature: {STAT}Throws random props
 {KEYWORD}Plant feature: {STAT}Pink plant
-{FLAVOR}Nobody knows how many things can be stuffed into Pocket Paph's pocket. Laser Bean's bamboo-copter, Potato Mine's eye patch... everyone's looking forward to the next surprise. Maybe there would even be a pink door. Even zombies gave positive feedback, saying at least the snacks are tasty.
+{FLAVOR}Nobody knows how many things can be stuffed into Pocket Paph’s pocket. Laser Bean’s bamboo-copter, Potato Mine’s eye patch… everyone’s looking forward to the next surprise. Maybe there would even be a portal. Even zombies, as rare as it is, gave positive feedback, at least the snacks are tasty.
 
 [PAPHIOPEDILUM_DESCRIPTION_HEADER]
 Throws various items with different effects in a tossing manner
@@ -15129,59 +15283,66 @@ Throws various items with different effects in a tossing manner
 Another one!
 
 [PAPHIOPEDILUM_SKILL_LEVEL1_DES]
-10% chance to launch 2 random items consecutively
+There is a 10% chance of throwing 2 random props in a row.
 
 [PAPHIOPEDILUM_SKILL_LEVEL2]
 Two more
 
 [PAPHIOPEDILUM_SKILL_LEVEL2_DES]
-The probability of launching 2 random items consecutively increases to 20%, with a 10% chance to launch 3 random items consecutively
+The chance of throwing 2 random props in a row increases to 20%, and there is a 10% chance of throwing 3 random props in a row.
 
 [PAPHIOPEDILUM_SKILL_LEVEL5]
 Air support
 
 [PAPHIOPEDILUM_SKILL_LEVEL5_DES]
-Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5×5 area, with 5 bombs, each causing 3×3 area fire damage
+Adds a beacon to the prop pool. After the beacon falls, bombs will be randomly dropped within a 5×5 range for bombing. A total of 5 bombs will cause 3×3 area fire damage.
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL1_DES]
 launch various items (snacks, butter blocks, anvils, bombs, rubber hammers) using a tossing method
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL2_DES]
-10% chance to launch 2 random items consecutively
+There is a 10% chance of throwing 2 random props in a row.
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL3_DES]
-The probability of launching 2 random items consecutively increases to 20%, with a 10% chance to launch 3 random items consecutively
+The chance of throwing 2 random props in a row increases to 20%, and there is a 10% chance of throwing 3 random props in a row.
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL4_DES]
 High probability of releasing the plants food when planted
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]
-Adds a beacon to the item pool. When the beacon drops, it randomly releases bombs in a 5×5 area, with 5 bombs, each causing 3×3 area fire damage
+Adds a beacon to the prop pool. After the beacon falls, bombs will be randomly dropped within a 5×5 range for bombing. A total of 5 bombs will cause 3×3 area fire damage.
 
 [PAPHIOPEDILUM_PLANTFOOD_DESCRIPTION]
-Throw a random item at each zombie on the field. If there are fewer than 5 zombies, at least 5 items will still be thrown.
+Throws 1 random prop to each zombie on the lawn. When the number of zombies is less than 5, it will throw minimum 5 props.
 
 [PAPHIOPEDILUM_AVATAR_PLANTFOOD_DESCRIPTION]
 Throw more items.
 
 [PAPHIOPEDILUM_AVATAR_NAME]
-Paphiopedilum Outfit
+Pocket Paph Christmas hat
 
 [STORE_PRODUCT_AVATAR_PAPHIOPEDILUM]
 Throw more items
 
 [STORE_PRODUCT_AVATAR_PAPHIOPEDILUM_TITLE]
-Paphiopedilum Outfit
+Pocket Paph Christmas hat
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_1]
+Pocket Paph Kongming hat
+
+[NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
+Increases attack power by 20%
 
 
 [EYWA]
-Nyuwa Ophiuros
+Nüwa
 
 [EYWA_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
 {KEYWORD}Range: {STAT}Full screen
 {KEYWORD}Feature: {STAT}Creates plant minions
 {KEYWORD}{KEYWORD}Plant feature: {STAT}Green plant
-{FLAVOR}Stemming from her deep understanding and practice of botanical ontology, despite living in the era of unrest due to all the zombie fighting, Nyuwa Ophiuros still advocates for fair treatment of the botanical brethren with no eyes, and that we shouldn't use them as meat shields. She also has some special feelings towards a certain crazy, moustached inventor.
+{FLAVOR}Stemming from her deep understanding and practice of botanical ontology, despite living in the era of unrest due to all the zombie fighting, Nüwa still advocates for fair treatment of the botanical brethren with no eyes, and that we shouldn't use them as meat shields. She also has some special feelings towards a certain crazy, moustached inventor.
 
 [EYWA_DESCRIPTION_HEADER]
 Creates plant minions that will seek out and attack zombies.
@@ -15226,25 +15387,32 @@ There is a high chance to release an energy bean ultimate when planting.
 The first plant minion created will directly be a Tank Minion. The Tank Minion jumps out of the tank, and during its disappearance in the air, there is a chance that a plane will appear to catch the minion, drop a nuclear bomb, and fly away. The nuclear bomb has a 3×3 explosion range, dealing damage and causing the degeneration effect to zombies within the range.
 
 [EYWA_PLANTFOOD_DESCRIPTION]
-Nyuwa Ophiuros its vines to whip 5 clumps of mud spots. These mud spots randomly drop in the front 2 columns, turning into Bomb Minions that rush toward the nearest zombie and explode, dealing 3×3 area damage.
+Nüwa its vines to whip 5 clumps of mud spots. These mud spots randomly drop in the front 2 columns, turning into Bomb Minions that rush toward the nearest zombie and explode, dealing 3×3 area damage.
 
 [EYWA_AVATAR_PLANTFOOD_DESCRIPTION]
 An additional minion with a larger bomb will appear.
 
 [EYWA_AVATAR_NAME]
-Nyuwa Ophiuros costume
+Nüwa costume
 
 [STORE_PRODUCT_AVATAR_EYWA]
 An additional minion with a larger bomb will appear.
 
 [STORE_PRODUCT_AVATAR_EYWA_TITLE]
-Nyuwa Ophiuros costume
+Nüwa costume
+
+[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]
+Nüwa Chinese New Year 
+
+[NEW_AVATAR_DESCRIPTION_EYWA_1]
+Reduces planting cooldown by 20%
 
 
 [MAPLEBLADE]
 Maple Swordsman
 
 [MAPLEBLADE_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
 {KEYWORD}Range: {STAT}2 tiles ahead
 {KEYWORD}Special: {STAT}Attacks with clones.
 {KEYWORD}Plant features: {STAT}Red plant
@@ -15312,7 +15480,11 @@ After the ultimate deals damage, hit zombies will take 3 additional delayed dama
 [STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
 Maple Swordsman gentleman
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_1]
+Maple Swordsman katana
 
+[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_1]
+Increases attack power by 20%
 
 
 
@@ -15321,6 +15493,8 @@ Maple Swordsman gentleman
 Bud'uh Boom
 
 [BUDUHBOOM_DESCRIPTION]
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Damage: {STAT}1000/1500/2000/2500/3000
 {KEYWORD}Range: {STAT}3×3
 {KEYWORD}Feature: {STAT}Butter explosion deals 3×3 AoE damage with immobilization
 {KEYWORD}Plant Type: {STAT}Yellow plant
@@ -15375,6 +15549,8 @@ cooldown is decreased by 20%.
 Guard-shroom
 
 [GUARDSHROOM_DESCRIPTION]
+{KEYWORD}HP: {STAT}1000/1500/2000/2500/3000
+{KEYWORD}Damage: {STAT}800/1200/1600/2000/2400
 {KEYWORD}Plant features: {STAT}Purple plant, tall
 {FLAVOR}What does 363.154e+13 have in common with Guard-shroom? When Dave asks, it takes Penny more than 4 hours to complete the Guard-shroom census and emerge from the basement. Penny strongly states that the number is accurate and has forbidden anyone else from going downstairs.
 
@@ -15436,116 +15612,140 @@ Guard-shroom
 Range is increased from 3x3 to 4x3 and can now eat up to 7 zombies.
 
 
-
-
 [RHEUMNOBILE]
-伏僵塔黄
+Rheum Nobble
 
 [RHEUMNOBILE_DESCRIPTION]
-{KEYWORD}范围：{STAT}左右各1格
-{KEYWORD}特点：{STAT}吸收僵尸并炼化
-{KEYWORD}植物特征：{STAT}橙色植物
-{FLAVOR}把伏僵塔黄托在手心里会有种莫名的压力。但是把她放下之后，压力变得更大了……
+{KEYWORD}HP: {STAT}12000/18000/24000/30000/36000
+{KEYWORD}Range: {STAT}1 tile on each side
+{KEYWORD}Special: {STAT}Absorbs and refines zombies.
+{KEYWORD}Plant features: {STAT}Orange plant
+{FLAVOR}Holding Rheum Nobble in the palm of your hand will give you an inexplicable pressure. But after putting her down, the pressure becomes even greater...
 
 [RHEUMNOBILE_DESCRIPTION_HEADER]
-原地跳起将自身攻击范围内的僵尸吸引至身下，随后落下镇压
+Jumps on the spot to attract zombies within the attack range, then drops down to suppress them.
 
 [RHEUMNOBILE_TOOLTIP]
-原地跳起将自身攻击范围内的僵尸吸引至身下，随后落下镇压
+Jumps on the spot to attract zombies within the attack range, then drops down to suppress them.
 
 [RHEUMNOBILE_PRODUCT_SHORT_DESC]
-原地跳起将自身攻击范围内的僵尸吸引至身下，随后落下镇压
+Jumps on the spot to attract zombies within the attack range, then drops down to suppress them.
 
 [RHEUMNOBILE_SKILL_LEVEL1]
-超强吸力
+Super Strong Suction
 
 [RHEUMNOBILE_SKILL_LEVEL1_DES]
-血量上升至18000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至4阶
+HP increased to 18000, absorption range increased by one tile on each side, the level of zombies that can be absorbed is increased to level 4.
 
 [RHEUMNOBILE_SKILL_LEVEL2]
-无处可逃
+Nowhere to Escape
 
 [RHEUMNOBILE_SKILL_LEVEL2_DES]
-血量上升至24000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至6阶
+HP increased to 24000, the absorption range increased by one tile on each side, and the level of zombies that can be absorbed is increased to level 6.
 
 [RHEUMNOBILE_SKILL_LEVEL5]
-玲珑焚天炎
+Delicate Burning Sky Flame
 
 [RHEUMNOBILE_SKILL_LEVEL5_DES]
-可吸收僵尸的阶数上升至10阶。
-镇压时，塔黄向两侧喷出火焰，在5秒内对地面上的僵尸持续造成火焰伤害。在火焰上死亡的僵尸不论击杀来源死亡都会化灰。
-
-[RHEUMNOBILE_AVATAR_NAME]
-伏僵塔黄装扮
-
-[STORE_PRODUCT_AVATAR_RHEUMNOBILE]
-立即吸收场上八个血量最低的僵尸立即炼化。
-
-[STORE_PRODUCT_AVATAR_RHEUMNOBILE_TITLE]
-伏僵塔黄装扮
+The number of zombies that can be absorbed increases to level 10.
+When suppressing, the tower will spray flames to both sides, causing continuous fire damage to the zombies on the ground for 5 seconds. Zombies that die in the flames will turn into ash regardless of the source of the killing.
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL1_DES]
-手动点击塔黄，使塔黄左右各一格范围的僵尸吸引到中间随后镇压这些僵尸,60秒后塔中的僵尸将被炼化。塔内僵尸被炼化后，可手动点击塔黄再次释放镇压。最高吸收2阶僵尸
-塔黄可以将本行僵尸的灰烬转化为香火，炼化时可以吸收香火，每吸收一个香火增加10%炼化进度。
+She can be tapped on to "suppress" zombies that are 1 tile away from her, which then "refines" them for 60 seconds. She is able to collect energy from ashed zombies which gets converted into incense. Each incense absorbed decreases refining time by 10%
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL2_DES]
-血量上升至18000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至4阶
+HP increased to 18000, absorption range increased by one tile on each side, the level of zombies that can be absorbed is increased to level 4.
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL3_DES]
-血量上升至24000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至6阶
+HP increased to 24000, the absorption range increased by one tile on each side, and the level of zombies that can be absorbed is increased to level 6.
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL4_DES]
-种植有中概率释放大招，可吸收僵尸的阶数上升至8阶
+Rheum Nobble may be boosted when planted. (zombies that can be absorbed increases to level 8)
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL5_DES]
-可吸收僵尸的阶数上升至10阶。
-镇压时，塔黄向两侧喷出火焰，在5秒内对地面上的僵尸持续造成火焰伤害。在火焰上死亡的僵尸不论击杀来源死亡都会化灰。
+The number of zombies that can be absorbed increases to level 10.
+When suppressing, the tower will spray flames to both sides, causing continuous fire damage to the zombies on the ground for 5 seconds. Zombies that die in the flames will turn into ash regardless of the source of the killing.
 
 [RHEUMNOBILE_PLANTFOOD_DESCRIPTION]
-立即吸收场上五个血量最低的僵尸立即炼化。，
+Immediately suppresses up to 5 zombies with lowest health on the lawn and refines them immediately.
 
 [RHEUMNOBILE_AVATAR_PLANTFOOD_DESCRIPTION]
-立即吸收场上八个血量最低的僵尸立即炼化。
+Maximum amount of zombies that can be refined is increased to 8.
 
+[RHEUMNOBILE_AVATAR_NAME]
+Rheum Nobble glasses
+
+[STORE_PRODUCT_AVATAR_RHEUMNOBILE]
+Maximum amount of zombies that can be refined is increased to 8.
+
+[STORE_PRODUCT_AVATAR_RHEUMNOBILE_TITLE]
+Rheum Nobble glasses
 
 [MEGAGATLING]
-超级机枪射手
+Mega Gatling Pea
 
 [MEGAGATLING_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以叠种其他属性豌豆
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}豌豆家族中的大哥，可以使用各种豌豆的能力
+{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}Special: {STAT}Can be stacked with peas of other attributes
+{KEYWORD}Plant characteristics: {STAT}green plant
+{FLAVOR}The big brother of the pea family, can use various pea abilities.
 
 [MEGAGATLING_DESCRIPTION_HEADER]
-向右侧射出多个子弹，叠种其他豌豆后会发射更强力的子弹，释放能量豆大招后普攻子弹数量增加
+Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired. After activating its Plant Food ability, more shots can be fired.
 
 [MEGAGATLING_TOOLTIP]
-向右侧射出多个子弹，叠种其他豌豆后会发射更强力的子弹，释放能量豆大招后普攻子弹数量增加
+Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired. After activating its Plant Food ability, more shots can be fired.
 
 [MEGAGATLING_PRODUCT_SHORT_DESC]
-向右侧射出多个子弹，叠种其他豌豆后会发射更强力的子弹，释放能量豆大招后普攻子弹数量增加
+Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired. After activating its Plant Food ability, more shots can be fired.
 
 [MEGAGATLING_SKILL_LEVEL1]
-火力支援
+Fire Support
 
 [MEGAGATLING_SKILL_LEVEL1_DES]
-普攻触发能量豆大招概率提升至3%
-可以额外升级1次，最高可连续发射6颗豌豆
+The probability of activating the Plant Food effect is increased to 3%
+Can be upgraded 1 additional time, up to 6 peas can be fired at a time
 
 [MEGAGATLING_SKILL_LEVEL2]
-火力强化
+Increased Firepower
 
 [MEGAGATLING_SKILL_LEVEL2_DES]
-普攻触发能量豆大招概率提升至5%
-可以额外升级2次，最高可连续发射7颗豌豆
+The probability of activating the Plant Food effect is increased to 5%
+Can be upgraded 2 additional times, up to 7 peas can be fired at a time
 
 [MEGAGATLING_SKILL_LEVEL5]
-元素大师
+Master of Elements
 
 [MEGAGATLING_SKILL_LEVEL5_DES]
-普攻触发能量豆大招概率提升至10%
-可以叠种原始豌豆射手，强化所有子弹效果
-未进行叠种时有概率发射初级强化子弹
+The probability of activating the Plant Food effect is increased to 10%
+You can stack Primal Peashooter and strengthen the effects of all shots
+There is a chance that the initial shots will be enhanced when the seed isn't stacked
+
+[MEGAGATLING_NEW_SKILL_LEVEL1_DES]
+可以与其他豌豆叠种，叠种后获得对应豌豆的特殊能力并立即返还消耗的阳光
+每轮普攻发射4颗豌豆，且有2%概率替换为能量豆大招，释放能量豆大招后获得升级：普攻发射豌豆数量+1
+
+[MEGAGATLING_NEW_SKILL_LEVEL2_DES]
+The probability of activating the Plant Food effect is increased to 3%
+Can be upgraded 1 additional time, up to 6 peas can be fired at a time
+
+[MEGAGATLING_NEW_SKILL_LEVEL3_DES]
+The probability of activating the Plant Food effect is increased to 5%
+Can be upgraded 2 additional times, up to 7 peas can be fired at a time
+
+[MEGAGATLING_NEW_SKILL_LEVEL4_DES]
+Mega Gatling Pea may be boosted when planted.
+
+[MEGAGATLING_NEW_SKILL_LEVEL5_DES]
+The probability of activating the Plant Food effect is increased to 10%
+You can stack Primal Peashooter and strengthen the effects of all shots
+There is a chance that the initial shots will be enhanced when the seed isn't stacked
+
+[MEGAGATLING_PLANTFOOD_DESCRIPTION]
+向右侧扇形范围发射120颗豌豆
+
+[MEGAGATLING_AVATAR_PLANTFOOD_DESCRIPTION]
+向右侧扇形范围发射120颗随机属性的豌豆
 
 [MEGAGATLING_AVATAR_NAME]
 超级机枪射手装扮
@@ -15555,32 +15755,6 @@ Range is increased from 3x3 to 4x3 and can now eat up to 7 zombies.
 
 [STORE_PRODUCT_AVATAR_MEGAGATLING_TITLE]
 超级机枪射手装扮
-
-[MEGAGATLING_NEW_SKILL_LEVEL1_DES]
-可以与其他豌豆叠种，叠种后获得对应豌豆的特殊能力并立即返还消耗的阳光
-每轮普攻发射4颗豌豆，且有2%概率替换为能量豆大招，释放能量豆大招后获得升级：普攻发射豌豆数量+1
-
-[MEGAGATLING_NEW_SKILL_LEVEL2_DES]
-普攻触发能量豆大招概率提升至3%
-可以额外升级1次，最高可连续发射6颗豌豆
-
-[MEGAGATLING_NEW_SKILL_LEVEL3_DES]
-普攻触发能量豆大招概率提升至5%
-可以额外升级2次，最高可连续发射7颗豌豆
-
-[MEGAGATLING_NEW_SKILL_LEVEL4_DES]
-种植有高概率释放大招
-
-[MEGAGATLING_NEW_SKILL_LEVEL5_DES]
-普攻触发能量豆大招概率提升至10%
-可以叠种原始豌豆射手，并强化所有子弹效果
-未进行叠种时有概率发射初级强化子弹
-
-[MEGAGATLING_PLANTFOOD_DESCRIPTION]
-向右侧扇形范围发射120颗豌豆
-
-[MEGAGATLING_AVATAR_PLANTFOOD_DESCRIPTION]
-向右侧扇形范围发射120颗随机属性的豌豆
 
 
 
@@ -26563,15 +26737,6 @@ Zombot Sharktronic Sub
 [ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION_HEADER]
 Driving a mechanical shark, Zomboss leads a large group of sharks.
 
-[ZOMBIE_ZOMBOSSMECH_STEAM]
-Steam Zombot
-
-[ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION]
-{FLAVOR}There are no traffic lights here, right? Zomboss stands on his beloved steam train, pointing ahead.
-
-[ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
-Zomboss from the Steam Age and his little trains make a grand appearance.
-
 [ZOMBIE_ZOMBOSSMECH_HYDRA]
 Fairytale Zombot
 
@@ -26856,9 +27021,6 @@ Jackfruit Costume
 [STORE_PRODUCT_AVATAR_OLIVE_TITLE]
 Olive Costume
 
-[STORE_PRODUCT_AVATAR_SQUASH]
-plants food can be stepped on once more
-
 [STORE_PRODUCT_AVATAR_BAMBOO]
 The plants food can stab more bamboo shoots
 
@@ -26987,9 +27149,6 @@ Cai asked about dressing up pieces
 
 [STORE_PRODUCT_AVATAR_POTATO_TITLE]
 Potato Ray Costume
-
-[STORE_PRODUCT_AVATAR_SQUASH_TITLE]
-Squash Costume
 
 [STORE_PRODUCT_AVATAR_BAMBOO_TITLE]
 Bamboo shoot Costume
@@ -33982,54 +34141,6 @@ None
  
 
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
- 
-
-[KIWIFRUIT_PRODUCT_SHORT_DESC]
-Move out the Golden Cudgel to attack the nearest zombies and inflict sustained damage on zombies within range.
-
-[KIWIFRUIT_AVATAR_NAME]
-Kiwi Costume
-
-[STORE_PRODUCT_AVATAR_KIWIFRUIT]
-Plants food can smash zombies into the ground and control time growth.
-
-[STORE_PRODUCT_AVATAR_KIWIFRUIT_TITLE]
-Kiwi Costume
-
-[KIWIFRUIT_SKILL_LEVEL1]
-Controls freely
-
-[KIWIFRUIT_SKILL_LEVEL1_DES]
-Extend the attack time of the golden cudgel to 4 seconds
-
-[KIWIFRUIT_SKILL_LEVEL2]
-Dullness
-
-[KIWIFRUIT_SKILL_LEVEL2_DES]
-Slow down the hit zombies
-
-[KIWIFRUIT_SUPERSKILL_NAME]
-Clone Technique
-
-[KIWIFRUIT_SUPERSKILL_DES]
-The kiwi turns the hairs on its body into small kiwis, which continuously attack the target
-
-[KIWIFRUIT]
-Kiwi
-
-[KIWIFRUIT_DESCRIPTION_HEADER]
-Kiwi can conjure a golden cudgel to attack the nearest zombies and cause sustained damage to zombies within range.
-
-[KIWIFRUIT_DESCRIPTION]
-{KEYWORD}Special: {STAT} can cause continuous damage to zombies within the attack range.
-{KEYWORD}Plant features: {STAT} green plant, high martial arts
-{FLAVOR} Monkey King, Fighting to Defeat Buddha, Monkey King. . . . Kiwi wish to show off all the titles to endorse themselves. But the reality is always cruel. In the eyes of zombies, he is just an edible fruit......
-
-[KIWIFRUIT_TOOLTIP]
-Move out the Golden Cudgel to attack the nearest zombies and inflict sustained damage on zombies within range.
-
-[KIWIFRUIT_PLANTFOOD]
-Make a huge golden cudgel and smash the zombies in the front 5 squares into the ground.
 
 [DRAGONFRUIT]
 Dragon fruit
@@ -49917,93 +50028,6 @@ Lily of Pharmacy Costume
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST]
 There is a probability to throw out more toxic agents, which will cause 3 layers of poisoning to zombies
 
-[ZOMBIE_STEAM_WORKER]
-Steam Worker Zombie
-
-[ZOMBIE_STEAM_WORKER_DESCRIPTION]
-Works tirelessly day and night, only to earn enough money to buy some brain cookies to eat~
-
-[ZOMBIE_STEAM_WORKER_DESCRIPTION_HEADER]
-A common zombie who works every day.
-
-[ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
-His worker roadblock helmet is twice as strong as a regular worker's.
-
-[ZOMBIE_STEAM_ARMOR2]
-Bucket Worker Zombie
-
-[ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
-The Bucket Worker Zombie recently got a promotion and raise, so he had the forge workers craft a distinctive bucket helmet as a reward for himself. This bucket not only protects him from a lot of damage but also highlights his status!
-
-[ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
-This forged bucket provides excellent protection against harm.
-
-[ZOMBIE_STEAM_FLAG]
-Steam Flag Zombie
-
-[ZOMBIE_STEAM_FLAG_DESCRIPTION]
-The Flag Zombie, second only to the Foreman Zombie, is the most convincing. All zombies are amazed at his ability to work methodically without overtime. This time, he was awarded a banner for being the best employee, symbolizing his abilities!
-
-[ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
-Signaling the arrival of a large wave of steam zombies.
-
-[ZOMBIE_STEAM_GARGANTUAR]
-Foreman Gargantuar Zombie
-
-[ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION_HEADER]
-Smashes all plants and also throws imps.
-
-[ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Damage: {STAT}Smashes plants with a giant wrench upon contact
-{KEYWORD}Specialty: {STAT}Throws industrial imp zombies when damaged
-
-{FLAVOR}The Foreman Gargantuar Zombie is the boss of the small factory, ensuring that the quality of the factory's products never falters. Although he is very strict with his workers and has a volatile temper, he enjoys smoking cigars in his spare time, but that doesn't mean he's a bad guy.
-
-[ZOMBIE_STEAM_IMP]
-Industrial Imp Zombie
-
-[ZOMBIE_STEAM_IMP_DESCRIPTION]
-Thanks to his uncle being the Foreman Gargantuar Zombie, he was arranged to seek a position in the factory. Although he works hard most of the time, he's quite intelligent.
-
-[ZOMBIE_STEAM_IMP_DESCRIPTION_HEADER]
-Thrown onto most of your plants and then walks forward.
-
-[ZOMBIE_STEAM_STOVE]
-Boiler Zombie
-
-[ZOMBIE_STEAM_STOVE_DESCRIPTION]
-{KEYWORD}Weakness: {STAT}Being hit by ice-based plants will reduce its temperature
-
-[ZOMBIE_STEAM_STOVE_DESCRIPTION]
-Works in high-temperature environments all day, making him very irritable. So try not to provoke him, but if you offer him a glass of ice water, he'll be very happy.
-
-[ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
-Increasing temperature will cause devastating damage to plants.
-
-[ZOMBIE_STEAM_GENTLEMAN]
-Gentleman Zombie
-
-[ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
-{KEYWORD}Weakness: {STAT}Blown away by Blover, losing his umbrella
-
-[ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
-A noble gentleman, so he pays great attention to his appearance. He dresses neatly every time he goes out, carrying an umbrella every day to avoid getting wet and ruining his gentlemanly appearance.
-
-[ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
-Can bypass ground defenses and obstacles.
-
-[ZOMBIE_STEAM_COAL_MINER]
-Coal Miner Zombie
-
-[ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
-{KEYWORD}Weakness: {STAT}Being hit by fire-based plants will accelerate the burning rate
-
-[ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
-Pushes mine carts in and out every day, just hoping to discover a gold mine one day and get rich overnight. This working condition continues for 365 days and nights.
-
-[ZOMBIE_STEAM_COAL_MINER_DESCRIPTION_HEADER]
-Can pour out coal mines to kill plants, and can pour once in total.
-
 [NARRATIVE_STEAM_1_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow! Where are we? My stomach is growling again!
 
@@ -53393,9 +53417,6 @@ Electric blueberry attack speed increased {Param_1}%
 [GENE_DESCRIPTION_HOTDATE]
 Hot spicy date planting cooling time shortened {Param_1}%
 
-[GENE_DESCRIPTION_KIWIFRUIT]
-Kiwi fruit extended golden cudgel duration {Param_1} seconds
-
 [GENE_DESCRIPTION_HORSEBEAN]
 Broad bean commando rest time shortened {Param_1}%
 
@@ -53434,9 +53455,6 @@ Fire Peashooter attack power increased {Param_1}%
 
 [GENE_DESCRIPTION_PINEAPPLE]
 Spin pineapple health increase {Param_1}%
-
-[GENE_DESCRIPTION_SQUASH]
-The probability of not disappearing after the Squash attack and returning to the same place increases {Param_1}% (effective after level 2)
 
 [GENE_DESCRIPTION_GATLINGPEA]
 The Gatling Peas retains the auxiliary machine gun after plants food and fires 6 additional rounds of ammunition into each of the 3 rows on the right at each attack, which ends after {Param_1} attacks
@@ -54208,10 +54226,10 @@ Chomper pieces 10
 Beanstalk Commando Shard *10
 
 [WISHING_POOL_GOLDENPLANT_VERSION1]
-Nüwa Ophiuros *10
+Nüwa *10
 
 [WISHING_POOL_GOLDENPLANT_VERSION2]
-Nüwa Ophiuros *10
+Nüwa *10
 
 [WISHING_POOL_TAB1]
 Wishing pool
@@ -54246,7 +54264,7 @@ Activity Rules:
 - Regular Fertilizer*1 3.00%  Mysterious Crystal*1000 4.00%
 - Mysterious Crystal*5000 8.00%  Sweet Potato*10 6.00%
 - Rafflesia*10 6.00%   Chomper*10 4.50%
-- Horsebean*10 3.81%  Nüwa Ophiuros*10 2.55%
+- Horsebean*10 3.81%  Nüwa*10 2.55%
 - Bubble Reward 10.00%
 
 9. Additional Rewards Based on Lottery Count:
@@ -54276,7 +54294,7 @@ Activity Rules:
 - Regular Fertilizer*1 3.00%  Mysterious Crystal*1000 4.00%
 - Mysterious Crystal*5000 8.00%  Sweet Potato*10 6.00%
 - Rafflesia*10 6.00%   Chomper*10 4.50%
-- Horsebean*10 3.81%  Nüwa Ophiuros*10 2.55%
+- Horsebean*10 3.81%  Nüwa*10 2.55%
 - Bubble Reward 10.00%
 
 9. Additional Rewards Based on Lottery Count:
@@ -55923,12 +55941,6 @@ Turnip Telescope Lens Strap
 [NEW_AVATAR_DESCRIPTION_XSHOT_1]
 Plant attack power increased by 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_2]
-Kiwi scarf
-
-[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_2]
-Attack speed increased by 15%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_LAVAGUAVA_1]
 Guava wreath
 
@@ -56028,12 +56040,6 @@ Dark Primrose Broadbrimmed Hat
 [NEW_AVATAR_DESCRIPTION_GRIMROSE]
 15% probability of upgrading skill 2 (effective only for plants above order 2)
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_1]
-Squash headband
-
-[NEW_AVATAR_DESCRIPTION_SQUASH]
-Reduce sun cost by 10
-
 [NEW_AVATAR_SHORT_DESCRIPTION_AKEE_1]
 Akai wood straps
 
@@ -56094,12 +56100,6 @@ Star Glasses
 
 [NEW_AVATAR_DESCRIPTION_EXPLODEONUT_1]
 The probability of leaving a potato mine after death by 10% for the second skill (only effective for plants of level 2 and above).
-
-[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_1]
-Balloon Gold Hoop
-
-[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_1]
-Reduce sun cost by 20
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_1]
 Cattail Small Express Carton
@@ -72723,27 +72723,6 @@ This plant does not have an plants food effect
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 This plant does not have an plants food effect 
 
-[KIWIFRUIT_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the kiwi fruit, a golden cudgel flying to the right is thrown, the golden cudgel stops flying after touching the zombie and continuously causes damage to the zombie within a single grid, the golden cudgel lasts 4 seconds.
-
-[KIWIFRUIT_NEW_SKILL_LEVEL2_DES]
-Extend the attack time of the Golden Cudgel to 12 seconds and speed up the frequency of damage caused by the Golden Cudgel to zombies.
-
-[KIWIFRUIT_NEW_SKILL_LEVEL3_DES]
-Kiwi learns the dullness technique, which causes the zombies hit by the golden cudgel to enter a deceleration state.
-
-[KIWIFRUIT_NEW_SKILL_LEVEL4_DES]
-There is a high probability of be boosted
-
-[KIWIFRUIT_NEW_SKILL_LEVEL5_DES]
-There is a 20% probability of summoning an additional small kiwi when attacking, the small kiwi will fly to the right and cause 300 points of damage to the zombies it comes into contact with swinging the stick, and will disappear after attacking 8 sticks.
-
-[KIWIFRUIT_PLANTFOOD_DESCRIPTION]
-The golden cudgel became larger and was smashed 4 squares to the right, causing damage to all zombies and leaving them on the ground unable to move for 6 seconds.
-
-[KIWIFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-The golden cudgel became larger, and ^ff0000 hit the 5-square ^oldclrr on the right, causing damage to all zombies and causing the zombies to fall to the ground^ff0000 unable to move for 12 seconds. One additional ground smash, causing 2 injuries to zombies that have not been smashed to the ground. ^oldclrr
-
 [WINTERSWEET_NEW_SKILL_LEVEL1_DES]
 When a zombie appears to Mei Xiaomei's right, Mei Xiaomei throws a plum blossom at the zombie. The plum blossom scatters five petals after touching the zombie, one of which flies out to the right, and the remaining four petals fly out at an oblique angle of 72° or 144° to it
 
@@ -74467,14 +74446,6 @@ Electric Eagle Claw Floral Racing costume
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_2]
 Horsebean Assault Team Racing costume
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_2]
-Squash Racing costume
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_1]
-Electric Peel Party Assist costume
-
-[NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_1]
-Electric damage increased by 20%
 
 
 [NARRATIVE_RESILIENCE1_1]
@@ -74810,15 +74781,6 @@ Rapidity
 
 [PLANTWARS_ZTSPEED1_DESCRIPTION]
 Walking speed increased by 50%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_3]
-Kiwi full-body costume
-
-[NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-Kiwifruit Great Sage Equaling Heaven Skin
-
-[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
-Attack Speed +25%
 
 [ACCUMULATED_LOGIN_TITLE]
 Courtyard Record
