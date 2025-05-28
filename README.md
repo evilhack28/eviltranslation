@@ -1,8 +1,6 @@
-# Translate by evilhack28 lastest version 1.9.1
+# Translate by evilhack28 lastest version 1.10.0
 
-currently support english
-probably french one day 
-
+Thanks Cybersteve for the github script !
 
 # cybersteve777.github.io - currently it's a test repo for PvZ2C lawnstrings server, simplified to just pushing raw file to the directory.
 
