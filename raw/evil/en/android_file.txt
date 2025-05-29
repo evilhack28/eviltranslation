@@ -12,7 +12,7 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
 ==========================
 
 File Type        : Text-based (v3.7.3 server 2)
-Current Version  : 1.10.1 (pre-release)
+Current Version  : 1.10.2 (pre-release)
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
@@ -52,7 +52,7 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from May 28 V1.10.1 (pre-release)
+translate by evilhack28 version from May 29 V1.10.2 (pre-release)
 
 [AGE_TIP]
 Change Log by evilhack28
@@ -64,40 +64,50 @@ fix plants detail text
 
 ======1.10.1======
 added plants special data Almanac (go check for understand)
-fixxed some costume and plants text
+fixed some costume and plants text
+
+======1.10.2======
+Fixed all zombie text for 
+
+Jurassic
+Modern
+Steam
+Renaissance
+Heian age
+JTTW
 
 
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 [EVIL_TIPS_8]
 ^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
-^000000 ~~ Last update May 28 ~~
+^000000 ~~ Last update May 29 (1.10.2) ~~
 
 
 
@@ -2519,6 +2529,1034 @@ Upload local archive failed.
 
 
 
+[ZOMBIIIIIIIIIIIIIIES]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ZOMBIE_DINO]
+Jurassic Zombie
+
+[ZOMBIE_DINO_DESCRIPTION_HEADER]
+Regular beard-having zombie from the unimaginable past.
+
+[ZOMBIE_DINO_DESCRIPTION]
+Jurassic Zombie is NOT primitive. See, he's wearing a tie and everything!
+
+[ZOMBIE_DINO_ARMOR1]
+Jurassic Conehead
+
+[ZOMBIE_DINO_ARMOR1_DESCRIPTION_HEADER]
+Cones, or old leftover horns bundled together with string so that they look sort of like a cone, provide some middling protection.
+
+[ZOMBIE_DINO_ARMOR1_DESCRIPTION]
+Jurassic Conehead Zombie is trying to get the jump on the whole "traffic cone" idea. He figures it'll be a HUGE market in about 150 million years.
+
+[ZOMBIE_DINO_ARMOR2]
+Jurassic Buckethead
+
+[ZOMBIE_DINO_ARMOR2_DESCRIPTION_HEADER]
+Crude drawings of buckets provide as much protection as the real thing.
+
+[ZOMBIE_DINO_ARMOR2_DESCRIPTION]
+The real question, the burning mystery, is: where did he find blue fur for his outfit?
+
+[ZOMBIE_DINO_ARMOR3]
+Jurassic Fossilhead
+
+[ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
+Fossil skulls not only provide a huge amount of damage absorption, but are also extremely classy.
+
+[ZOMBIE_DINO_ARMOR3_DESCRIPTION]
+Contrary to his name, Jurassic Fossilhead's fossil head isn't actually a fossil. That skull's maybe a week and a half old, tops.
+
+[ZOMBIE_DINO_FLAG]
+Jurassic Flag Zombie
+
+[ZOMBIE_DINO_FLAG_DESCRIPTION_HEADER]
+Marks the arrival of a huge epochal "wave" of highly anachronistic zombies.
+
+[ZOMBIE_DINO_FLAG_DESCRIPTION]
+He's not only got a flag, but he's also got a can-do attitude and a fierce hunger for success. Success and brains.
+
+[ZOMBIE_DINO_BULLY]
+Jurassic Bully
+
+[ZOMBIE_DINO_BULLY_DESCRIPTION_HEADER]
+A trudging, damage-resistant zombie who is immune to Primal Peashooter's knockback.
+
+[ZOMBIE_DINO_BULLY_DESCRIPTION]
+{KEYWORD}Special: {STAT} immune to Primal Peashooter’s knockback
+ 
+{FLAVOR}Jurassic Bully is slow, stupid, and smells bad. But hey, at least he's punctual.
+
+[ZOMBIE_DINO_PUSHEGG]
+Egg Pusher Imp
+
+[ZOMBIE_DINO_PUSHEGG_DESCRIPTION_HEADER]
+An imp pretending to be a little dinosaur, though it is stronger than normal imps, but the real threat is the egg that it pushes.
+
+[ZOMBIE_DINO_PUSHEGG_DESCRIPTION]
+Egg Pusher Imp successfully avoided the dinosaurs' onslaught and also stole the dinosaur's egg, but forgot the fatal problem of being too short and not being able to see what is in front of you.
+
+[ZOMBIE_DINO_STEALEGG]
+Egg Stealer Imp
+
+[ZOMBIE_DINO_STEALEGG_DESCRIPTION_HEADER]
+An imp who stole an egg, gravity often causing him to fall, which occasionally causes him to drop the egg. It'd be bad if the egg squashed the plants.
+
+[ZOMBIE_DINO_STEALEGG_DESCRIPTION]
+Having no money to buy new clothes, Egg Stealer Imp chose the easy and violent way out to steal eggs, carry them out, as getting chased by dinosaurs is nothing new to him.
+
+[ZOMBIE_DINO_EGGSHELL]
+Eggshell Imp
+
+[ZOMBIE_DINO_EGGSHELL_DESCRIPTION_HEADER]
+Fakes himself as a dinosaur egg. The eggshell, other than making himself cuter, has some defensive purposes.
+
+[ZOMBIE_DINO_EGGSHELL_DESCRIPTION]
+Eggshell Imp had already learnt the naughty act of disguising himself as an egg, even while the other imps hatched a plan to steal the dinosaur eggs. What a smart imp.
+
+[ZOMBIE_DINO_IMP]
+Jurassic Imp
+
+[ZOMBIE_DINO_IMP_DESCRIPTION_HEADER]
+A weaker, smaller, much more vicious version of the typical Jurassic zombie.
+
+[ZOMBIE_DINO_IMP_DESCRIPTION]
+This nasty little nipper can make a serious dent in your defenses if left to his own devious devices.
+
+[ZOMBIE_DINO_GARGANTUAR]
+Jurassic Gargantuar
+
+[ZOMBIE_DINO_GARGANTUAR_DESCRIPTION_HEADER]
+Prehistoric provider of Mesozoic malarkey.
+
+[ZOMBIE_DINO_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT} crushes plants with bone
+{KEYWORD}Special: {STAT} launches Jurassic Imp when damaged
+ 
+{FLAVOR}Jurassic Gargantuar wonders how there can be zombies millions of years before the advent of humanity. He doesn't let it get in the way of his plant-bashing, though.
+
+[ZOMBIE_ZOMBOSSMECH_DINO]
+Zombot Dinotronic Mechasaur
+
+[ZOMBIE_ZOMBOSSMECH_DINO_DESCRIPTION_HEADER]
+A mechanical means of dinosaurian destruction.
+
+[ZOMBIE_ZOMBOSSMECH_DINO_DESCRIPTION]
+{KEYWORD}Special: {STAT} summons dinosaurs
+ 
+{FLAVOR}With flagrant disregard for temporal tidiness and simple good taste, Dr. Zomboss figured it would be a good idea to build a big metal dinosaur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ZOMBIE_TUTORIAL]
+Basic Zombie
+
+[ZOMBIE_TUTORIAL_DESCRIPTION_HEADER]
+Regular Garden-variety zombie.
+
+[ZOMBIE_TUTORIAL_DESCRIPTION]
+{FLAVOR}Basic Zombie hates the term "Basic". He doesn't consider himself some generic foe or common corpse. He's an individual, darn it, and he's going to make a difference even if it kills you.
+
+[ZOMBIE_TUTORIAL_ARMOR1]
+Conehead Zombie
+
+[ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
+His traffic cone headpiece makes him twice as tough as normal zombies.
+
+[ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION]
+{FLAVOR}After a wild night, Conehead Zombie woke up holding a mysterious receipt for a cone and industrial strength adhesive.
+
+[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1]
+Conehead Zombie N°41
+
+[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION_HEADER]
+精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+
+[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION]
+在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+
+[ZOMBIE_TUTORIAL_ARMOR2]
+Buckethead Zombie
+
+[ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
+His bucket hat makes him extremely resistant to damage.
+
+[ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION]
+{FLAVOR}There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.
+
+[ZOMBIE_TUTORIAL_FLAG]
+Flag Zombie
+
+[ZOMBIE_TUTORIAL_FLAG_DESCRIPTION_HEADER]
+His flag marks the arrival of a huge pile or "wave" of zombies.
+
+[ZOMBIE_TUTORIAL_FLAG_DESCRIPTION]
+{FLAVOR}A spelling impaired zombie named "Brian," Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.
+
+[ZOMBIE_MODERN_BALLOON]
+Balloon Zombie
+
+[ZOMBIE_MODERN_BALLOON_DESCRIPTION_HEADER]
+Balloon carries zombies over barriers and ground defenses.
+
+[ZOMBIE_MODERN_BALLOON_DESCRIPTION]
+Balloon zombie has no idea where the balloon came from, but he's going with it and he's open to seeing where it takes him.
+
+[ZOMBIE_MODERN_SUPERFANIMP]
+Super-Fan Imp
+
+[ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION_HEADER]
+An all-too-enthusiastic imp who explodes with rah-rah-rah fervor.
+
+[ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION]
+Super-Fan Imp has season tickets, subscribes to the team newsletter, and is super pumped about exploding on contact with fans of the opposing team.
+
+[ZOMBIE_MODERN_ALLSTAR]
+All-Star Zombie
+
+[ZOMBIE_MODERN_ALLSTAR_DESCRIPTION_HEADER]
+A heavy-duty zombie who charges your defensive line.
+
+[ZOMBIE_MODERN_ALLSTAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT} charges like a flighty zombie upon entering the lawn and destroys the first plant he meets
+{KEYWORD}Special: {STAT} slows down and becomes a stiff zombie after tackling a plant
+
+{FLAVOR} All-Star Zombie is a third-round draft pick and shows a lot of promise, but come on, his salary demands are beyond ridiculous. Ten million brains per year? For FIFTY YEARS?
+
+[ZOMBIE_MODERN_NEWSPAPER]
+Newspaper Zombies
+
+[ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
+Newspaper protects zombie, who is then enraged when it is destroyed.
+
+[ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION]
+{KEYWORD}Special: {STAT} becomes a flighty zombie once the newspaper is destroyed
+
+{FLAVOR}You can't really blame him for getting so upset; he was THIS close to finishing the crossword (23 down was "Brains").
+
+[ZOMBIE_BEGHOULED_NEWSPAPER]
+Newspaper Zombies
+
+[ZOMBIE_BEGHOULED_NEWSPAPER_DESCRIPTION_HEADER]
+Newspaper protects zombie, who is then enraged when it is destroyed.
+
+[ZOMBIE_BEGHOULED_NEWSPAPER_DESCRIPTION]
+{KEYWORD}Special: {STAT} becomes a flighty zombie once the newspaper is destroyed
+
+{FLAVOR}You can't really blame him for getting so upset; he was THIS close to finishing the crossword (23 down was "Brains").
+
+[ZOMBIE_NEWSPAPER_VETERAN]
+Sunday Edition Zombie
+
+[ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
+Newspapers protect zombies and they will be provoked when newspapers are destroyed
+
+[ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION]
+The Sunday version of the zombie really likes comics, and every time he goes to the comics store to buy a lot of new comics, his favorite comics are zombie ninja, Hang Zombie king, and zombie soul.
+
+[ZOMBIE_MODERN_MINER]
+Digger Zombie
+
+[ZOMBIE_MODERN_MINER_DESCRIPTION_HEADER]
+Can dig past the plants and appear directly in the last row.
+
+[ZOMBIE_MODERN_MINER_DESCRIPTION]
+Digger Zombie spends three days a week getting his excavation permits in order.
+
+[ZOMBIE_EXPLOSION_PROOF]
+Riot Police Zombie
+
+[ZOMBIE_EXPLOSION_PROOF_DESCRIPTION_HEADER]
+Throws smoke bombs to cover your plants.
+
+[ZOMBIE_EXPLOSION_PROOF_DESCRIPTION]
+"You have the right to remain silent, but what you say will become evidence in court!" He is always practicing this warning in front of the mirror. Since he graduated from the police academy, he has wanted to use this sentence for a long time.
+
+[ZOMBIE_MODERN_SOLAR_TRUCK]
+Solar Car Zombie
+
+[ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION_HEADER]
+When the energy is full he will charge into plants, when there is no energy he will absorb the energy of plants.
+
+[ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION]
+This zombie hates darkness the most, he usually likes driving his car to sunbath, when he sunbaths he thinks about when can he live on the sun.
+
+[ZOMBIE_TUTORIAL_IMP]
+Imp
+
+[ZOMBIE_TUTORIAL_IMP_DESCRIPTION_HEADER]
+Is hurled onto the lawn past your defenses, then shuffles ahead.
+
+[ZOMBIE_TUTORIAL_IMP_DESCRIPTION]
+{FLAVOR}What he lacks in reach he more than makes up for with his bad attitude, or Zombattitude as he likes to call it. Don't encourage him.
+
+[ZOMBIE_TUTORIAL_GARGANTUAR]
+Gargantuar
+
+[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
+Gargantuar really is kind of a big deal.
+
+[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT} crushes plants with pole
+{KEYWORD}Special: {STAT} throws Imp when damaged
+ 
+{FLAVOR}Gargantuar is the embodiment of power, made real. He is a juggernaut of hunger, from which there is no escape. He is fear unleashed. Well, he's fear slightly leashed.
+
+[ZOMBIE_VASE_GARGANTUAR]
+Vase Gargantuar
+
+[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION_HEADER]
+Phenomenally sized zombie stuffed into a tiny unliving space.
+
+[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT} crushes plants with pole
+{KEYWORD}Special: {STAT} throws Imp when damaged
+ 
+{FLAVOR}The ceramic confines of the Vase Gargantuar's home has done nothing to his endless hunger, his immense power, or his vast destructive potential. However, his footspeed could be better.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ZOMBIE_STEAM_WORKER]
+Steam Zombie
+
+[ZOMBIE_STEAM_WORKER_DESCRIPTION_HEADER]
+Regular everyday-working zombie.
+
+[ZOMBIE_STEAM_WORKER_DESCRIPTION]
+Labor Zombie works night and day diligently, just to make money to buy brain biscuits.
+
+[ZOMBIE_STEAM_ARMOR1]
+Steam Cone Zombie
+
+[ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
+His roadcone makes him 2 times as tough as normal labor zombies.
+
+[ZOMBIE_STEAM_ARMOR1_DESCRIPTION]
+Conehead Labor Zombie is very happy about the roadcone on his head, he got promoted to a higher status because of that!
+
+[ZOMBIE_STEAM_ARMOR2]
+Steam Bucket Zombie
+
+[ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
+His forged iron bucket protects him from harm.
+
+[ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
+Buckethead Labor Zombie was rewarded with a salary increase a few days ago. He was very happy, so he asked the forger to forge a labeled iron bucket helmet for him. This iron bucket not only resisted a lot of damage for him, but also highlighted his identity!
+
+[ZOMBIE_STEAM_FLAG]
+Steam Flag Zombie
+
+[ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
+Marks the arrival of a huge wave of steam zombies.
+
+[ZOMBIE_STEAM_FLAG_DESCRIPTION]
+Flag Labor Zombie is the most convincing of all zombies. All the zombies are amazed that he can work in a well-organized manner and never work overtime. This time, he was awarded the best employee flag to mark his ability!
+
+[ZOMBIE_STEAM_COAL_MINER]
+Coal Miner Zombie
+
+[ZOMBIE_STEAM_COAL_MINER_DESCRIPTION_HEADER]
+Coal Miner Zombies can pour out coal to destroy your plants, they can only pour out coal once.
+
+[ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
+{KEYWORD}Weakness: {STAT}Being hit by fire plants will accelerate the burning rate
+
+{FLAVOR} Coal Miner Zombie was pushing the wheelbarrow in and out every day, only for one day to find out that the gold mines can get rich overnight. This situation continued for 365 days and nights.
+
+[ZOMBIE_STEAM_GENTLEMAN]
+Gentleman Zombie
+
+[ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
+Flies over past defenses and obstacles.
+
+[ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
+{KEYWORD}Weakness: {STAT}Blown away by Blover, losing his umbrella
+
+{FLAVOR} "I am a noble gentleman, so I pay great attention to my manners, every day I have to dress up neatly, with an umbrella". Every day he is afraid that the rain will mess up his instrument and look like a gentleman.
+
+[ZOMBIE_STEAM_STOVE]
+Furnace Zombie
+
+[ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
+Warmer temperatures can cause destruction and damage to plants.
+
+[ZOMBIE_STEAM_STOVE_DESCRIPTION]
+{KEYWORD}Weakness: {STAT}Ice plants lower its temperature when hit
+
+{FLAVOR}Working in a hot environment all day makes Furnace Zombie's temper very violent, so try not to make him angry. He'd be delighted if you send him a glass of cold water.
+
+[ZOMBIE_STEAM_IMP]
+Industrial Imp
+
+[ZOMBIE_STEAM_IMP_DESCRIPTION_HEADER]
+After being thrown onto most of your plants, it continues to walk forward.
+
+[ZOMBIE_STEAM_IMP_DESCRIPTION]
+Relying on his relationship with Foreman Gargantuar, he was accepted and gained a position in the factory, he plans to work harder and get smarter.
+
+[ZOMBIE_STEAM_GARGANTUAR]
+Foreman Gargantuar
+
+[ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION_HEADER]
+Crushes plants and launches Imps.
+
+[ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT}uses a giant wrench to crush plants in front of it
+{KEYWORD}Special: {STAT}launches Industrial Imp Zombie when damaged
+{FLAVOR}Foreman Gargantuar is the head of a small company. He always makes sure that the quality of the products produced by the company won't be bad. Although he is harsh on workers, and has a very violent temper, he always likes to smoke cigars and it does not hinder him. He's just a good person.
+
+[ZOMBIE_ZOMBOSSMECH_STEAM]
+Steam Zombot
+
+[ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
+Great debut of Dr. Zomboss from Steam Age along with his little trains.
+
+[ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION]
+{FLAVOR}“There are no traffic lights here, right?” said Dr. Zomboss standing on his favorite steam train, pointing ahead.
+
+
+
+[ZOMBIE_RENAI_WORKER]
+Aristocrat Zombie
+
+[ZOMBIE_RENAI_WORKER_DESCRIPTION_HEADER]
+Regular arisocratic upper-class zombie.
+
+[ZOMBIE_RENAI_WORKER_DESCRIPTION]
+Aristocrat Zombie likes to talk about art. "Art can reflect my nobility." He always puts that sentence on his lips.
+
+[ZOMBIE_RENAI_ARMOR1]
+Conehead Aristocrat Zombie
+
+[ZOMBIE_RENAI_ARMOR1_DESCRIPTION_HEADER]
+Tapered cone with a pattern provides protection while enriching his aristocrstic temperament.
+
+[ZOMBIE_RENAI_ARMOR1_DESCRIPTION]
+One day, Aristocrat Zombie found this roadcone on the road. "This is more than art!"
+
+[ZOMBIE_RENAI_ARMOR2]
+Buckethead Aristocrat Zombie
+
+[ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
+His iron bucket provides good protection and is a symbol of aristocracy.
+
+[ZOMBIE_RENAI_ARMOR2_DESCRIPTION]
+The bucket is a luxury item among the Aristocrat Zombies, one has to spend 200 brains just to buy one.
+
+[ZOMBIE_RENAI_FLAG]
+Flag Aristocrat Zombie
+
+[ZOMBIE_RENAI_FLAG_DESCRIPTION_HEADER]
+Marks the arrival of a huge wave of aristocratic zombies.
+
+[ZOMBIE_RENAI_FLAG_DESCRIPTION]
+The Aristocrat Flag Zombie is the most arrogant of zombies. He likes to give orders to other zombies. Even though the other zombies are somewhat unsatisfied, who else can call it the flag of the highest honor of Dr. Zomboss?
+
+[ZOMBIE_RENAI_PERFUMER]
+Perfumer Zombies
+
+[ZOMBIE_RENAI_PERFUMER_DESCRIPTION_HEADER]
+Throws a poisonous perfume bottle at plants so that plants can't attack and get hurt.
+
+[ZOMBIE_RENAI_PERFUMER_DESCRIPTION]
+Perfume Zombie's perfume is popular among the aristocrats. "As aristocrats, shouldn't we buy more perfume?" More perfume, more perfume, smells ... hmm, tasty!!"
+
+[ZOMBIE_RENAI_BALLET_IMP]
+Ballet Imp Zombie
+
+[ZOMBIE_RENAI_BALLET_DESCRIPTION_HEADER_IMP]
+Coming soon
+
+[ZOMBIE_RENAI_BALLET_DESCRIPTION_IMP]
+Coming soon
+
+[ZOMBIE_RENAI_BALLET]
+Ballet Zombie
+
+[ZOMBIE_RENAI_BALLET_DESCRIPTION_HEADER]
+There will be four zombies dance at the same time, and they will change their course while dancing.
+
+[ZOMBIE_RENAI_BALLET_DESCRIPTION]
+"Spin, jump, I close my eyes". Ballet Zombie likes this song the most.
+
+[ZOMBIE_RENAI_GLIDING]
+Glider Zombie
+
+[ZOMBIE_RENAI_GLIDING_DESCRIPTION_HEADER]
+Glider Zombie can cross the ground's defenses and obstacles from the air. If the aircraft crashes onto plants, it will surely be miserable.
+
+[ZOMBIE_RENAI_GLIDING_DESCRIPTION]
+Glider Zombie calls himself "Da Vin-Z", look at his newly built flying machine! If it falls, it's a zombie weight problem, it has nothing to do with the product.
+
+[ZOMBIE_RENAI_CARVER]
+Sculptor Imp Zombie
+
+[ZOMBIE_RENAI_CARVER_DESCRIPTION]
+Have you heard of the statue of the aristocratic zombie with a broken arm? That's what the sculptor imp zombie carved. Sculptor Imp Zombie especially likes a whole piece of rough stone, which inspires his art.
+
+[ZOMBIE_RENAI_CARVER_DESCRIPTION_HEADER]
+Carving the original stone into a zombie statue while bringing him back to life early.
+
+[ZOMBIE_RENAI_GARGANTUAR]
+Aristocrat Gargantuar
+
+[ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION_HEADER]
+Always steals Sculptor Imp Zombie's statues.
+
+[ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT} crushes plants with a statue
+{KEYWORD}Special: {STAT} throws Sculptor Imp Zombie when damaged
+ 
+{FLAVOR}Aristocrat Gargantuar is the noblest zombie of the aristocracy, yet he can't find his statue. There's no way to "borrow" one. "How can a thief be called an aristocrat, borrowing, borrowing!!"
+
+[ZOMBIE_RENAI_HAMLET]
+Hamlet Zombie
+
+[ZOMBIE_RENAI_HAMLET_DESCRIPTION_HEADER]
+一千个读者心目中有一千个哈姆雷特，而一千个植物心目中只有一个僵尸！不管他怎么变，永远逃不掉！
+
+[ZOMBIE_RENAI_HAMLET_DESCRIPTION]
+{KEYWORD}特点：{STAT}向前方发射扇形范围的子弹，子弹可以与植物子弹相撞。
+
+[ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
+^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+
+[ZOMBIE_RENAI_SHERLOCK]
+Shylock Zombie
+
+[ZOMBIE_RENAI_SHERLOCK_DESCRIPTION]
+{KEYWORD}特点：{STAT}向本行第一列或第二列的丢出一个钱袋并换行，钱袋可以压扁植物并使该行僵尸加速，并持续召唤僵尸
+
+[ZOMBIE_RENAI_SHERLOCK_DESCRIPTION_HEADER]
+夏洛克僵尸是专业的法庭演员，从他被拖上证言台开始，到最后判决，无不是精心设计的表演。不过这场庭审是一个更加巨大的剧本，再精致的表演也跨不出去。
+
+[ELITE_ZOMBIE_TIPS_TEXT_RENAI_SHERLOCK]
+^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+
+[ZOMBIE_RENAI_ROMEO]
+Romeo Zombie
+
+[ZOMBIE_RENAI_ROMEO_DESCRIPTION_HEADER]
+罗密欧僵尸对剧本里要求在豪华大别墅前痛哭然后倒下的情节十分不解，毕竟这是他永远得不到的，这是对于僵尸来说真正的悲剧。
+
+[ZOMBIE_RENAI_ROMEO_DESCRIPTION]
+{KEYWORD}特点：{STAT}用剑抵挡来自正面的直线物理攻击，当朱丽叶死亡时进入狂暴状态
+
+[ELITE_ZOMBIE_TIPS_TEXT_RENAI_ROMEO]
+^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+
+[ZOMBIE_RENAI_JULIET]
+Juliet Zombie
+
+[ZOMBIE_RENAI_JULIET_DESCRIPTION_HEADER]
+朱丽叶僵尸在剧场上苏醒了过来，她不被外人的意愿所左右，有自己的追求和目标，也坚信跨越死亡的爱情。有人说女僵尸是真正的演员，这对于朱丽叶僵尸来说是一种夸赞。
+
+[ZOMBIE_RENAI_JULIET_DESCRIPTION]
+{KEYWORD}特点：{STAT}用洋伞抵挡植物的抛投攻击，当罗密欧死亡时进入狂暴状态
+
+[ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]
+^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+
+[ZOMBIE_ZOMBOSSMECH_RENAI]
+Zombot Troupe Manipulator
+
+[ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
+The mastermind behind this theatre is a mix of tragic epics and evil chaos.
+
+[ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
+{KEYWORD}Features: {STAT}Creative Drama
+{FLAVOR}One page from Dr. Zomboss' manuscript:
+"Cowards die many times before their deaths; the valiant never taste of death but once". as the youngest Doctor of Death, Dr. Zomboss' great saga has long spanned every stage of its time. Repeat, revenge, destruction, and a new myth! The Great Dr. Zomboss will definitely make a comeback again! Dr. Zomboss' evil intentions will eventually flourish! (Note, this passage is not to be published: Remembering the Best of College-Troupe Life)."
+											— Zomboss: The Greatest Memoir of All Time! Supplement No. 1616
+
+
+
+
+
+[ZOMBIE_HEIAN_WORKER]
+Samurai Zombie
+
+[ZOMBIE_HEIAN_WORKER_DESCRIPTION_HEADER]
+A normal Samurai Zombie under the command of Shogun Gargantuar.
+
+[ZOMBIE_HEIAN_WORKER_DESCRIPTION]
+He's now a beginner samurai after donning the sakayaki wig.
+
+[ZOMBIE_HEIAN_ARMOR1]
+Conehead Aristocrat Zombie
+
+[ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
+Tapered cone with a pattern provides protection while enriching his aristocrstic temperament.
+
+[ZOMBIE_HEIAN_ARMOR1_DESCRIPTION]
+One day, Aristocrat Zombie found this roadcone on the road. "This is more than art!"
+
+[ZOMBIE_HEIAN_ARMOR2]
+Buckethead Samurai Zombie
+
+[ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
+This wire barrel gives good protection, at least that how the Samurai Zombies think.
+
+[ZOMBIE_HEIAN_ARMOR2_DESCRIPTION]
+This wire barrel might look like it's made with wood, but the rings around it are top level japanned wire rings.
+
+[ZOMBIE_HEIAN_FLAG]
+Flag Samurai Zombie
+
+[ZOMBIE_HEIAN_FLAG_DESCRIPTION_HEADER]
+Marks the arrival of a huge wave of samurai zombies.
+
+[ZOMBIE_HEIAN_FLAG_DESCRIPTION]
+Flag Samurai Zombie holds the flag that marks the war, leading the soldiers of the shogun to take the brain.
+
+[ZOMBIE_HEIAN_HANABI]
+Firework Zombie
+
+[ZOMBIE_HEIAN_HANABI_DESCRIPTION_HEADER]
+Firework Zombie tinkers with his family's firework design every day. Nobody but him knows how it works.
+
+[ZOMBIE_HEIAN_HANABI_DESCRIPTION]
+{KEYWORD}Special: {STAT} The firework would lose control without Firework Zombie's handling!
+{KEYWORD}Weakness: {STAT} Try making him wet
+ 
+{FLAVOR}Biu~~~Bang! The fireworks are so beautiful.
+
+[ZOMBIE_HEIAN_ONMYOJI]
+Onmyoji Zombie
+
+[ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
+Onmyoji Zombies is emphasised at making different-looking fans, this time he's calling this fan he made for the shrine the "Lucky Star".
+
+[ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION]
+{KEYWORD}Special: {STAT} Waving his fan, and the wind of luckiness shall blow!
+{KEYWORD Weakness: {STAT} His kariginu doesn't seem to be that protective...?
+
+{FLAVOR}He waved his fan, and the wind at the shrine blew.
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI]
+Elite Onmyoji Zombie
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
+Unlike the other zombie fans of zombies' fans, Elite Onmyoji Zombie believes that as a zombie, one should have a greater ambition.
+
+[ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION]
+{FLAVOR}So, he became the only librarian among all the zombies.
+
+[ZOMBIE_HEIAN_SUSHI]
+Sushi Chef Zombie
+
+[ZOMBIE_HEIAN_SUSHI_DESCRIPTION_HEADER]
+He learnt his cooking skills at Mount Brainji Restaurant. The sushi he makes are popular among the zombies.
+
+[ZOMBIE_HEIAN_SUSHI_DESCRIPTION]
+Even though Sushi Chef Zombie's sushi can’t fulfill the hunger of brains of zombies, it‘s still very attractive to them.
+
+[ZOMBIE_HEIAN_AKINNDO]
+Mino Zombie
+
+[ZOMBIE_HEIAN_AKINNDO_DESCRIPTION_HEADER]
+There's actually a fish in Mino Zombie's fish basket, and the fish likes the taste of Plant Food.
+
+[ZOMBIE_HEIAN_AKINNDO_DESCRIPTION]
+{KEYWORD}Special: {STAT} Absorbs Plant Food by lifting his fish basket!
+{KEYWORD}Weakness: {STAT} As long as he's with conical hat made in the same technology as Parasol Zombie's parasol, he'll be "invincible"!
+
+{FLAVOR}Lifts up the fish basket and steals Plant Food.
+
+[ZOMBIE_HEIAN_NINJA]
+Ninjimp
+
+[ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
+The pufferfish Ninjimp holds is no ordinary pufferfish. The spikes, they're real.
+
+[ZOMBIE_HEIAN_NINJA_DESCRIPTION]
+Ninjimp often uses smokebombs to tell everyone, there he comes!
+
+[ZOMBIE_HEIAN_GARGANTUAR]
+Shogun Gargantuar
+
+[ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION_HEADER]
+The kendama he's holding weighs about 1000 jun.
+
+[ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Damage: {STAT} crushes plants with kendama
+{KEYWORD}Special: {STAT} throws Ninjimp when damaged
+ 
+{FLAVOR}Shogun Gargantuar is the leader of the Samurai Zombies in this area, when Zomboss is not arround, he would be in charge of leading the zombies to search for brains. The kendama he's holding is a toy he's been playing with back when he was still a kid, as he grew up, he switched it for a bigger one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ZOMBIE_JOURNEY_TO_THE_WEST]
+JTTW Basic zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
+Standard Journey to the West zombie.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
+西游普通僵尸一路向西，翻越十万八千里，历经九九八十一难，寻求属于他的脑子。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
+JTTW Conehead Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
+他的竹篓路障让他比普通僵尸强壮两倍。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
+有人告诉西游路障僵尸应该阻挡往西边走的师徒，所以他成了西游路障僵尸。不过西游路上的路障材质似乎不太结实。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
+JTTW Porcelainhead zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
+他的铁瓷杯头盔能极大程度地承受伤害。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
+《磁铁经》里记载了磁铁的制造工艺。可惜经书前面一半泡了水，所以僵尸们只发明出了“瓷”铁。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
+JTTW Flag zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
+举着旗子的西游僵尸，通常意味着一大波僵尸的来临。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
+地府房地产经济被旅游业打压得濒临崩溃，大量僵尸都尝试通过乱改生死簿的方式离开地府，从而享受西游旗子僵尸最近推出的八折优惠。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
+Wok Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
+Sometimes he hides a wok as armor.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
+A common plot in westerns. Movies that go west seem to be considered westerns, no problem.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
+Tudigong Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
+This kind of zombie passes through your defenses by digging tunnels.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
+Tudigong Zombie has recently been fascinated by secret agent movies and is eager to contribute to the gossip in the village.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON]
+Kongming Lantern Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION_HEADER]
+Kongming Lantern will take zombies over obstacles and ground defenses.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION]
+After the Kongming Lantern released flew into the sky and burned out, the Kongming Lantern Zombie appeared.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN]
+Exploding Imp
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
+An overly excited imp who can detonate a bomb he is carrying, causing fatal damage to plants on his tile.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
+“Tell those crazy little fans who love self-detonation, not only does the gunpowder come from here, but the relish of self-detonation also comes from here!”--"Zombie Minus 3.5 Major Inventions".
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
+Marshal-Star Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
+A zombie who is wrapped in armor and hits your line of defense.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
+Every defeat of the Marshal-Star Zombie in the recent battle was broadcast live by the Heavenly Court, and the audience's approval rating for him fell to minus 110%.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT]
+鱼叉小妖僵尸
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION_HEADER]
+是个远距离对植物造成伤害的僵尸。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION]
+鱼叉小妖每天反复练习投掷三叉戟，为的就是在毛脸雷公打进来的时候快速卸甲跑路。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
+Trebuchet Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
+Throws stones at your plants.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
+Trebuchet Zombie has been working hard behind the scenes to contribute to the “immortal skills” of others.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
+Mace Gargantuar
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
+Use a heavy mace to crush plants.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
+Qi pulled out of the mountains, overwhelming the world, the king on the battlefield. There is no need to say more about the legend of the Mace Gargantuar.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
+红孩儿僵尸
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
+红孩儿是镇守号山的圣婴大亡，神通广大，口吐三昧真火。不过作为一个僵尸，实在不适合坐什么莲花宝座。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
+火焰弹：每隔一段时间发射4颗火焰弹，对植物造成高额伤害。
+三味真火：发射三味真火，延直线移动并烧毁所有遇到的植物，可被冰冻生菜的大招熄灭。
+位移换行：每隔一段时间，移动至其他行末尾并行进。
+
+[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_RED_BOY]
+^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
+黄眉大亡
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION_HEADER]
+黄眉爷爷，黄眉大亡。设像显能，与汝赌赛。谁曾言“强者为尊该让我，英雄只此敢争先”？然合当如此？此间之瓜，击颅则痛剧。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
+腾云驾雾：腾云状态下，黄眉大亡不会受到攻击，直至落地。
+召唤僵尸：挥动狼牙棒，召唤大量西游僵尸进攻。
+人种袋：投掷人种袋，吸取整行所有植物，可用灰烬破坏。
+金钵：投掷金钵，砸扁 2x2 范围内的所有植物。
+位移换行：不会往前走，每隔一段时间移动至其他行。
+
+[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
+^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+
+
+
+
+
+
 
 
 
@@ -2530,7 +3568,7 @@ Upload local archive failed.
 Sunflower
 
 [SUNFLOWER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Sun production: {STAT}Medium
 {KEYWORD}Plant features: {STAT}yellow plant, infinite sun
 {FLAVOR}Ever since becoming a star, her first song "Zombies On Your Lawn" has become a hit on social media. Therefore she is rushing on filming the video "Sunflower Dance Show", please stay tuned for that!
@@ -2629,7 +3667,7 @@ Sun production reduced by 4 seconds
 Peashooter
 
 [PEASHOOTER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Plant features: {STAT}green plant, pea family
 {FLAVOR}"How does success taste you ask me?" Peashooter slowly sips his hot tea, "I can't tell you about it now, I'm sorting my business contracts. Here's my coat, hold it well!"
@@ -2794,7 +3832,7 @@ Planting cooldown reduced by 10%
 Potato Mine
 
 [POTATOMINE_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}1800/2700/3600/4500/5400
 {KEYWORD}Usage: {STAT}Single use, requires some time to arm before activation.
 {KEYWORD}Range: {STAT}Melee
@@ -2861,7 +3899,7 @@ Damage increased by 10%
 Cabbage-pult
 
 [CABBAGEPULT_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}40/60/80/100/120
 {KEYWORD}Plant features: {STAT}green plant
 {FLAVOR}Obtaining the doctorate degree in pulting from Harvest University, Cabbage-pult never seems to run out of topics on how to be a winner in life. He also often brags about how good the soup he makes tastes, though the ones who have tried it never wish to bring it up.
@@ -2939,7 +3977,7 @@ Attack increased by 10%
 Repeater
 
 [REPEATER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Damage: {STAT}normal (for each pea)
 {KEYWORD}Firing Speed: {STAT}Double
@@ -3090,7 +4128,7 @@ Skill damage increased by 100
 Spikerock
 
 [SPIKEROCK_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Special: {STAT}won't be eaten by zombies
 {KEYWORD}Weakness: {STAT}withstands 3 hits from Barrel Roller Zombie
@@ -3165,7 +4203,7 @@ Plant attack power increased by 20%.
 Threepeater
 
 [THREEPEATER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}20/30/40/50/60
 {KEYWORD}Damage: {STAT}normal (for each pea)
 {KEYWORD}Range: {STAT}three lanes
@@ -3247,7 +4285,7 @@ Increases attack power by 15%
 Winter Melon
 
 [WINTERMELON_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}80/120/160/200/240 (direct hit) 40/60/80/100/120 (splash damage)
 {KEYWORD}Firing speed: {STAT}1/2x
 {KEYWORD}Range: {STAT}lobbed
@@ -3330,7 +4368,7 @@ Increases freeze damage by 15%
 Grave Buster
 
 [GRAVEBUSTER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Usage: {STAT}single use, only works on graves
 {KEYWORD}Trait: {STAT} eats graves
 {KEYWORD}Plant features: {STAT}green plant, sharp teeth
@@ -3366,7 +4404,7 @@ Grave Buster produces sun after destroy the tombstone
 Snow Pea
 
 [SNOWPEA_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}20/30/40/50/60 (Pea) 90/135/180/225/270 (Ice)
 {KEYWORD}Special: {STAT}Freezes zombies
 {KEYWORD}Plant features: {STAT}blue plant, pea family
@@ -3439,7 +4477,7 @@ Eternal Warrior
 Torchwood
 
 [TORCHWOOD_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/1500/4500/9000
+{KEYWORD}HP: {STAT} 300/1500/4500/9000
 {KEYWORD}Special: {STAT}Turns peas that pass through it into fire peas which deal double damage
 {KEYWORD}Plant features: {STAT}brown plant, scary look but kind within, bathed in fire
 {FLAVOR}Due to common interests, Torchwood and Snapdragon quickly became good friends. You can see them in places like Native Hawaiian-styled lounges or Renaissance-styled circuses.
@@ -13372,7 +14410,7 @@ The oil is ignited, dealing more damage and creating a small fire trail.
 Dracaena
 
 [DRACAENA_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}80/120/160/200/240
 {KEYWORD}Range: {STAT}1 row ahead
 {KEYWORD}Special: {STAT}Sends out sword energy to attack zombies, and flying swords can instantly kill zombies with a certain amount of health.
@@ -13746,7 +14784,7 @@ Sunshine Leek will grow to his final form and release ^FF0000 poisonous breath s
 Pyre Vine
 
 [PYREVINE_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}30/45/60/75/90
 {KEYWORD}Range: {STAT} 2 squares in front
 {KEYWORD}Special: {STAT} spray flames to continuously attack zombies
@@ -13815,7 +14853,7 @@ Plants food flames change to a cross shape
 Gluttonous Snapdragon
 
 [GLUTTONYDRAGON_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}60/90/120/150/180
 {KEYWORD}Range: {STAT}1 tile or 3x3 area ahead
 {KEYWORD}Special: {STAT}Eats snacks or nibbles zombies to build up energy, then consumes the energy to spit out flames
@@ -13971,7 +15009,7 @@ Bun Chi' deals two consecutive hits to zombies in a 3x3 area, then ^ff0000jumps 
 Heliconia Gunner
 
 [HELICONIAGUNNER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}50/75/100/125/150
 {KEYWORD}Range: {STAT}Ownself row and diagonal directions
 {KEYWORD}Special: {STAT}Uses the machine gun to attack zombies in all directions, and will need to reload after a round of shooting.
@@ -14043,7 +15081,7 @@ Every 6 bullets will be mixed with an armor-piercing bullet that pierce through 
 Electric Peel
 
 [ElECTRICPEEL_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}35/52.5/70/87.5/105
 {KEYWORD}Range: {STAT}4 squares ahead
 {KEYWORD}Feature: {STAT}Releases an electric eel that moves forward and electrocutes zombies
@@ -14122,7 +15160,7 @@ Ignis Equester
 Thorns Wizard
 
 [WIZARDTHORNS_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}5/7.5/10/12.5/15
 {KEYWORD}Range: {STAT}1 row ahead
 {KEYWORD}Special: {STAT}Uses thorns to wrap around or stab zombies, which can poison zombies after attacking.
@@ -14193,7 +15231,7 @@ The number of large thorns is increased to 5.
 Cactus Mistletoe
 
 [TRISTERIXAPHYLLUS_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Range: {STAT} Full Board
 {KEYWORD}Special: {STAT}Hypnotizes the target zombie and stuns other surrounding zombies
 {KEYWORD}Plant features: {STAT}Red plant
@@ -14269,7 +15307,7 @@ Reduces sun cost by 20 sun.
 Sawblade Sundew
 
 [CHAINSAWBURMANNII_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}60/90/120/150/180
 {KEYWORD}Range: {STAT}Surrounding tiles
 {KEYWORD}Special: {STAT}Throws a sawblade that spins around itself and attacks surrounding zombies.
@@ -14345,7 +15383,7 @@ Gift Outfit
 Dragon Bruit
 
 [DRAGONBRUIT_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}100/150/200/250/300
 {KEYWORD}Range: {STAT}The three rows above, middle, and below itself
 {KEYWORD}Special: {STAT}Throws attacks at zombies when they are in front, enters shadow form when Moonflower is nearby
@@ -14497,7 +15535,7 @@ Gloom vine continuously spits bubbles, damaging zombies within its attack range
 Electric Tailgrape
 
 [EAGLECLAW_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Range: {STAT}full lane
 {KEYWORD}Special: {STAT}Condenses balls of lightning to continuously shock zombies
 {KEYWORD}Plant features: {STAT}Green plant
@@ -14576,7 +15614,7 @@ Resting time reduced by 20%
 Gramophone Datura
 
 [HEAVENDATURA_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}200/300/400/500/600
 {KEYWORD}Range: {STAT}One tile ahead to 5×5
 {KEYWORD}Special: {STAT}Projectiles produce resonant sound waves as they pass by.
@@ -14659,7 +15697,7 @@ Plant attack increased by 15%
 Crazy Flamevine
 
 [FIRECRACKERFLOWER_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}15/22.5/30/37.5/45
 {KEYWORD}Range: {STAT}three adjacent lanes
 {KEYWORD}Special: {STAT}Can briefly stun zombies
@@ -14728,7 +15766,7 @@ Increases attack speed by 20%
 Lunisolar Honeysuckle
 
 [TWINSHONEYSUCKLE_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}1000/1500/2000/2500/3000
 {KEYWORD}Range: {STAT}one lane ahead for the golden flower, full screen for the silver flower
 {KEYWORD}Special: {STAT}The golden flower summons the sun to deal fire damage, and the silver flower summons the moon to deal ice damage.
@@ -14877,7 +15915,7 @@ Increases attack power by 10%
 Aqua Vine
 
 [AQUAVINE_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}50/75/100/125/150
 {KEYWORD}Special: {STAT} Adapts attack mode based on the type of plant placed on it.
 {KEYWORD}Plant features: {STAT} Green Plant
@@ -14954,7 +15992,7 @@ Cannot plant Aqua Vines on Lily Pads.
 Frost Rambutan
 
 [WINTERRAMBUTAN_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}100/150/200/250/300
 {KEYWORD}Plant features: {STAT}White plant
 {FLAVOR}Frost Rambutan likes to play in the snow, so he moved to the north solely for this purpose
@@ -15028,7 +16066,7 @@ Attack interval reduced by 20%
 Electric Heartbreak
 
 [WIREGELSEMIUM_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}80/120/160/200/240
 {KEYWORD}Usage: {STAT}Click or hold Heartbreak and drag to the target
 {KEYWORD}Range: {STAT}Full range of lawn
@@ -15110,7 +16148,7 @@ Reduces attack interval by 20%
 Iceweed
 
 [ICEWEED_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}30/45/60/75/90
 {KEYWORD}Range: {STAT}Own tile
 {KEYWORD}Plant feature: {STAT}Blue Plant
@@ -15184,7 +16222,7 @@ Increases attack by 20%
 Bubble Coral
 
 [BUBBLECORAL_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}40/60/80/100/120
 {KEYWORD}Range: {STAT}entire lane
 {KEYWORD}Special:  {STAT}Press to switch between different forms
@@ -15264,7 +16302,7 @@ Attack interval reduced by 20%
 Pocket Paph
 
 [PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Range: {STAT}One lane ahead
 {KEYWORD}Feature: {STAT}Throws random props
 {KEYWORD}Plant feature: {STAT}Pink plant
@@ -15338,7 +16376,7 @@ Increases attack power by 20%
 Nüwa
 
 [EYWA_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Range: {STAT}Full screen
 {KEYWORD}Feature: {STAT}Creates plant minions
 {KEYWORD}{KEYWORD}Plant feature: {STAT}Green plant
@@ -15412,7 +16450,7 @@ Reduces planting cooldown by 20%
 Maple Swordsman
 
 [MAPLEBLADE_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Range: {STAT}2 tiles ahead
 {KEYWORD}Special: {STAT}Attacks with clones.
 {KEYWORD}Plant features: {STAT}Red plant
@@ -15493,7 +16531,7 @@ Increases attack power by 20%
 Bud'uh Boom
 
 [BUDUHBOOM_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Damage: {STAT}1000/1500/2000/2500/3000
 {KEYWORD}Range: {STAT}3×3
 {KEYWORD}Feature: {STAT}Butter explosion deals 3×3 AoE damage with immobilization
@@ -15685,7 +16723,7 @@ Rheum Nobble glasses
 Mega Gatling Pea
 
 [MEGAGATLING_DESCRIPTION]
-{KEYWORD}HP: {STAT}300/450/600/750/900
+{KEYWORD}HP: {STAT} 300/450/600/750/900
 {KEYWORD}Special: {STAT}Can be stacked with peas of other attributes
 {KEYWORD}Plant characteristics: {STAT}green plant
 {FLAVOR}The big brother of the pea family, can use various pea abilities.
@@ -22133,36 +23171,6 @@ Treasure Yeti
 
 [ZOMBIE_TREASUREYETI_DESCRIPTION_HEADER]
 A rare and strange creature, always carrying mysterious Yeti treasures.
-
-[ZOMBIE_TUTORIAL]
-Basic Zombie
-
-[ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
-His cone helmet makes him twice as tough as a basic zombie.
-
-[ZOMBIE_TUTORIAL_ARMOR2]
-Buckethead Zombie
-
-[ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION]
-{FLAVOR} Once hailed as a genius among zombies for his super bucket strategy. Zombies have always hoped he had some secret killer move. Is he all washed up, or does he still have some tricks up his sleeve? Who knows.
-
-[ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
-His bucket helmet can withstand a great deal of damage.
-
-[ZOMBIE_TUTORIAL_DESCRIPTION]
-{FLAVOR} The Basic Zombie hates the word basic. He doesn't see himself as ordinary. He wants to live large, even if it means hurting others.
-
-[ZOMBIE_TUTORIAL_DESCRIPTION_HEADER]
-A basic garden-variety zombie.
-
-[ZOMBIE_TUTORIAL_FLAG]
-Flag Zombie
-
-[ZOMBIE_TUTORIAL_FLAG_DESCRIPTION]
-{FLAVOR} The Flag Zombie often calls himself The Man, and due to reading difficulties, he believes the zombies are shouting his name when they call for brains. So, he always thinks he's a big shot.
-
-[ZOMBIE_TUTORIAL_FLAG_DESCRIPTION_HEADER]
-His flag signals a big wave or wave of zombies charging in.
 
 [ZOMBIE_WEST_BULL]
 Zombie Bull
@@ -44967,74 +45975,6 @@ No bonus
 [ZEN_GARDEN_WORTH_NO_SPROUTS]
 The bee will take your plant, but it hasn't grown enough to be worth any sprouts.  Sell anyway?
 
-[ZOMBIE_DINO]
-Jurassic Common Zombie
-
-[ZOMBIE_DINO_ARMOR1_DESCRIPTION_HEADER]
-Tapered road signs, or worn-out corners tied together with ropes to look like tapered things, offer some protection.
-
-[ZOMBIE_DINO_ARMOR2]
-Jurassic Iron Bucket Zombies
-
-[ZOMBIE_DINO_ARMOR2_DESCRIPTION]
-The real question, the inexplicable secret, is: Where did he find the blue fur for the coat?
-
-[ZOMBIE_DINO_ARMOR2_DESCRIPTION_HEADER]
-Drawing a rough iron bucket provides about the same protection as it really does.
-
-[ZOMBIE_DINO_ARMOR3]
-Jurassic keel fossil zombies
-
-[ZOMBIE_DINO_ARMOR3_DESCRIPTION]
-Contrary to his name, the head of a fossilized Jurassic keel zombie is not a fossil. That skull is estimated to be only a week at most.
-
-[ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
-Fossil skulls not only provide a large amount of damage absorbing power, but also appear very noble. 
-
-[ZOMBIE_DINO_BULLY]
-Jurassic Savage Zombies
-
-[ZOMBIE_DINO_BULLY_DESCRIPTION]
-Jurassic Savage Zombies are slow, stupid, and taste bad. But, they're punctual.
-
-[ZOMBIE_DINO_BULLY_DESCRIPTION_HEADER]
-A faltering, damage-resistant zombie with immune repulse.
-
-[ZOMBIE_DINO_DESCRIPTION]
-Jurassic ordinary zombies are not primitive. You see, they're wearing ties and other things!
-
-[ZOMBIE_DINO_DESCRIPTION_HEADER]
-Ordinary zombies with long beards from some time ago.
-
-[ZOMBIE_DINO_FLAG]
-Jurassic Flag Zombies
-
-[ZOMBIE_DINO_FLAG_DESCRIPTION]
-Not only does he have a flag, he is active and eager to succeed. Success & Brain.
-
-[ZOMBIE_DINO_FLAG_DESCRIPTION_HEADER]
-Marks the appearance of a large wave of trans-era zombies.
-
-[ZOMBIE_DINO_GARGANTUAR]
-Jurassic Giant Zombies
-
-[ZOMBIE_DINO_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Damage: {STAT} crushes plants with bones
-{KEYWORD}Special: {STAT} fires Jurassic Imp Zombies when damaged
- 
-{FLAVOR} Jurassic giant zombies want to know why humans didn't show up millions of years ago, and there were zombies. But it doesn't affect him smashing the plants.
-
-[ZOMBIE_DINO_GARGANTUAR_DESCRIPTION_HEADER]
-Prehistoric Mesozoic nonsense provider.
-
-[ZOMBIE_DINO_IMP]
-Jurassic Imp Zombie
-
-[ZOMBIE_DINO_IMP_DESCRIPTION]
-If left alone, this hateful little creature will surely destroy your line of defense.
-
-[ZOMBIE_DINO_IMP_DESCRIPTION_HEADER]
-Weaker, smaller, but more ferocious Jurassic normal zombies.
 [ZOMBIE_EGYPT_IMP]
 Imp Mummy Zombies
 
@@ -45160,84 +46100,7 @@ Punk Zombies
 
 [ZOMBIE_EIGHTIES_PUNK_DESCRIPTION_HEADER]
 Playing his messy music would push the plants back.
-[ZOMBIE_MODERN_ALLSTAR]
-All-star Zombies
 
-[ZOMBIE_MODERN_ALLSTAR_DESCRIPTION]
-The All-Star Zombie is a third-round pick and very reliable. But, please, he's too outrageous about this salary requirement, huh? An annual salary of 10 million brains? 50 years?
- 
-
-[ZOMBIE_MODERN_ALLSTAR_DESCRIPTION_HEADER]
-A zombie armed to storm your line.
-
-[ZOMBIE_MODERN_BALLOON]
-Balloon Zombies
-
-[ZOMBIE_MODERN_BALLOON_DESCRIPTION]
-The balloon zombie himself doesn't know where the balloon came from, but he now flies along with the balloon and can see the following.
-
-[ZOMBIE_MODERN_BALLOON_DESCRIPTION_HEADER]
-Balloons carry zombies over obstacles and ground defenses.
-
-[ZOMBIE_MODERN_NEWSPAPER]
-Newspaper Zombies
-
-[ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION]
-You can't blame him for being so depressed. He's just a little bit short of finishing that crossword puzzle (column 23 is BRAINS)
-
-[ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
-Newspapers protect zombies, and zombies become furious when a newspaper is knocked out.
-
-[ZOMBIE_MODERN_SUPERFANIMP]
-Fan Imp Zombie
-
-[ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION]
-Fan Imp Zombie bought season tickets, subscribed to the team magazine, and he was very keen to see fans of the opposing team rush up and explode.
-
-[ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION_HEADER]
-A little too fanatical, la la la fanatical passion will make it explode.
-[ZOMBIE_TUTORIAL_GARGANTUAR]
-Giant Zombies
-
-[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Damage: {STAT} smashes plants with telephone poles
-{KEYWORD}Special: {STAT} throws the imp zombie after being hurt
- 
-{FLAVOR} giant zombies are undoubtedly the embodiment of power. He's a hungry bulldozer and you have no way out before him. He's the fear of breaking free. Well, there's a little bit of his fear that's tied up.
-
-[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
-Giant zombies are really a big trouble.
-
-[ZOMBIE_TUTORIAL_IMP]
-Imp Zombies
-
-[ZOMBIE_TUTORIAL_IMP_DESCRIPTION]
-{FLAVOR} his bad attitude (in its own words, zombie attitude ) is enough to make up for his lack of attack distance. Don't stimulate him.
-
-[ZOMBIE_TUTORIAL_IMP_DESCRIPTION_HEADER]
-Will be thrown behind your lines and then continue to advance slowly.
-
-[ZOMBIE_VASE_GARGANTUAR]
-Vase Giant Zombie
-
-[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Damage: {STAT} smashes plants with telephone poles
-{KEYWORD}Special: {STAT} throws the imp zombie after being hurt
- 
-{FLAVOR} The ceramics that trap the Vase Giant zombies are useless in the face of his endless hunger, infinite power, and powerful vase destruction capabilities. However, he can actually go faster.
-
-[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION_HEADER]
-A huge zombie, but trapped in a small inanimate space.
-[ZOMBIE_ZOMBOSSMECH_DINO]
-Dinosaur Mechanical Zombies
-
-[ZOMBIE_ZOMBOSSMECH_DINO_DESCRIPTION]
-{KEYWORD}Special: {STAT} Summon dinosaurs
- 
-{FLAVOR} Out of blatant disregard for the integrity and simplicity of time and space, Dr. Zombie thinks it would be a good idea to build a giant mechanical dinosaur.
-
-[ZOMBIE_ZOMBOSSMECH_DINO_DESCRIPTION_HEADER]
-Mechanized dinosaur destructive power.
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES]
 Dr. Rock Zombie
 
@@ -46822,33 +47685,6 @@ Exceed the plant planting limit, remember to upgrade the sunflower!
 [PLANTING_BEYOND_NEW_PVP_LIMIT_UPGRADE_FULL]
 Maximum planting ceiling has been reached!
 
-[ZOMBIE_DINO_PUSHEGG]
-Push Egg Imp Zombie
-
-[ZOMBIE_DINO_PUSHEGG_DESCRIPTION_HEADER]
-Imp zombies disguised as little dinosaurs, although more powerful than other imp zombies, the real threat is the dragon egg being pushed by him.
-
-[ZOMBIE_DINO_PUSHEGG_DESCRIPTION]
-The egg-pushing brat zombie manages to escape the dinosaur's attack and pushes the dragon egg away, but ignores the fatal problem of being too short to see the way forward.
-
-[ZOMBIE_DINO_STEALEGG]
-Egg-stealing brat zombies
-
-[ZOMBIE_DINO_STEALEGG_DESCRIPTION_HEADER]
-The little ghost zombie who runs away holding the dragon egg has an unstable center of gravity, which causes him to often fall into the street and throw the dragon egg out. If it crushes the plant, it will be miserable.
-
-[ZOMBIE_DINO_STEALEGG_DESCRIPTION]
-The egg-stealing brat zombie, who has no money to buy disguised clothes, chooses a simple and crude way of stealing eggs, holding them away, and being chased by dinosaurs has become his routine.
-
-[ZOMBIE_DINO_EGGSHELL]
-Eggshell brat zombies
-
-[ZOMBIE_DINO_EGGSHELL_DESCRIPTION_HEADER]
-The imp zombie disguised as a dragon egg, the eggshell provides some defense in addition to being cute.
-
-[ZOMBIE_DINO_EGGSHELL_DESCRIPTION]
-While the other Imp Zombies are still trying to figure out how to steal the Dragon Egg, the Eggshell Imp Zombies have learned to disguise themselves as a prank of the Dragon Egg, which is really a Ztalemate and a Ztalemate high.
-
 [PLAYERS_TRIP_TO_DINOSAURDANGER]
 {PLAYER}'s Year of the Rooster adventure
 
@@ -47279,26 +48115,8 @@ WeChat Friends
 [WECHAT_SHARE_TIMELINE_TXT]
 Moments
 
-[ZOMBIE_EXPLOSION_PROOF]
-Explosion-proof police zombies
-
 [WECHAT_SHARE_NOT_INSTALLED]
 Please install WeChat first
-
-[ZOMBIE_EXPLOSION_PROOF_DESCRIPTION_HEADER]
-Throw a smoke grenade over your plant
-
-[ZOMBIE_EXPLOSION_PROOF_DESCRIPTION]
-You have the right to remain silent, but what you say will be a testimony in court!, he always practiced the warning repeatedly in the mirror, and since graduating from police academy, he has wanted to use it to be cool for a long time.
-
-[ZOMBIE_MODERN_MINER]
-Miner Zombies
-
-[ZOMBIE_MODERN_MINER_DESCRIPTION_HEADER]
-Plants can be dug straight from the last row
-
-[ZOMBIE_MODERN_MINER_DESCRIPTION]
-Miner zombies spend three days a week waiting for permission to dig.
 
 [DINONIP_PRODUCT_SHORT_DESC]
 Can confuse dinosaurs to attack zombies
@@ -47311,33 +48129,6 @@ Outputs large sun
 
 [PERFUMESHROOM_PRODUCT_SHORT_DESC]
 Can confuse dinosaurs to attack zombies
-
-[ZOMBIE_NEWSPAPER_VETERAN]
-Sunday Edition Zombies
-
-[ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
-Newspapers protect zombies, and when newspapers are destroyed, they are provoked.
-
-[ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION]
-The Sunday edition of Zombie really likes comics and has to go to the comic shop every time to buy a lot of new comics, his favorite comics are Zombie Ninja, King of Zombies, Zombie Soul.
-
-[ZOMBIE_MODERN_SOLAR_TRUCK]
-Solar Car Zombies
-
-[ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION_HEADER]
-It impacts the plant when the energy is full, and absorbs the plant's energy when there is no energy.
-
-[ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION]
-The zombies who hate darkness the most, usually like to drive to the sun, and when they are in the sun, they think about when they can live on the sun.
-
-[ZOMBIE_BEGHOULED_NEWSPAPER]
-Newspaper Zombies
-
-[ZOMBIE_BEGHOULED_NEWSPAPER_DESCRIPTION]
-You can't blame him for being so depressed. He's just a little bit short of finishing that crossword puzzle (column 23 is BRAINS)
-
-[ZOMBIE_BEGHOULED_NEWSPAPER_DESCRIPTION_HEADER]
-Newspapers protect zombies, and zombies become furious when a newspaper is knocked out.
 
 [PLANTBUNDLE_TITLE]
 Value Package
@@ -55433,84 +56224,6 @@ Magic bean stems cannot be planted in orbit
 [NARRATIVE_HEIAN_13_INTRO_3]
 {EXCITED:CRAZYDAVE} aha! Then wouldn't we just attack the front?
 
-[ZOMBIE_RENAI_WORKER]
-Noble Zombies
-
-[ZOMBIE_RENAI_WORKER_DESCRIPTION]
-Noble zombies especially like to talk about art, and only art can reflect my nobility. He always talks about this sentence.
-
-[ZOMBIE_RENAI_WORKER_DESCRIPTION_HEADER]
-The common aristocratic zombies of the upper class
-
-[ZOMBIE_RENAI_ARMOR1_DESCRIPTION_HEADER]
-A tapered barricade with patterns that boosts one's aristocracy while also providing some protection.
-
-[ZOMBIE_RENAI_ARMOR2]
-Iron Bucket Noble Zombies
-
-[ZOMBIE_RENAI_ARMOR2_DESCRIPTION]
-This iron bucket hat is a luxury item among aristocratic zombies. One of them costs a full 200 brains to buy.
-
-[ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
-This iron barrel hat provides good protection, and is also a symbol of the aristocratic class.
-
-[ZOMBIE_RENAI_FLAG]
-Noble Flag Zombies
-
-[ZOMBIE_RENAI_FLAG_DESCRIPTION]
-Noble Flag Zombie is considered the most arrogant zombie. He likes to give orders to other zombies the most. Although other zombies are also a little dissatisfied, who said that this is the highest honor flag presented by Dr. Zombie.
-
-[ZOMBIE_RENAI_FLAG_DESCRIPTION_HEADER]
-Marks the appearance of a large wave of aristocratic zombies.
-
-[ZOMBIE_RENAI_GARGANTUAR]
-Noble Giant Zombie
-
-[ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION_HEADER]
-Always stealing statues of sculptor imp zombies.
-
-[ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Damage: {STAT} smashes plants with zombie statues
-{KEYWORD}Special: {STAT} Throw out the sculptor imp zombie when hurt
- 
-{FLAVOR} The noble giant zombie is the highest-ranking noble zombie, but he can't find a weapon to weigh his hands at all. He has no choice but to borrow a . How can the aristocratic zombie thing be called stealing? It's borrowing, borrowing!!
-
-[ZOMBIE_RENAI_PERFUMER]
-Perfumer Zombies
-
-[ZOMBIE_RENAI_PERFUMER_DESCRIPTION]
-Perfume handmade by perfumer zombies is a popular product among aristocratic zombies. It doesn't matter, but you can't buy it at all. How can you not spray some perfume as a nobleman? Spray a little more, spray a little more, smell... Well, it's better to eat!!
-
-[ZOMBIE_RENAI_PERFUMER_DESCRIPTION_HEADER]
-Throw a perfume bottle that is toxic to the plant, leaving it unable to attack and harmed.
-
-[ZOMBIE_RENAI_BALLET]
-Ballet Zombies
-
-[ZOMBIE_RENAI_BALLET_DESCRIPTION]
-Spin, jump, I close my eyes ballet zombie likes this song the most.
-
-[ZOMBIE_RENAI_BALLET_DESCRIPTION_HEADER]
-Four ballet zombies will come out at the same time, and they will change lanes when dancing ballet!
-
-[ZOMBIE_RENAI_GLIDING]
-Aircraft Zombies
-
-[ZOMBIE_RENAI_GLIDING_DESCRIPTION]
-Aircraft zombie calls himself Dafen zombie , look at his new aircraft! If it falls it's a zombie weight problem, it has nothing to do with the product.
-
-[ZOMBIE_RENAI_GLIDING_DESCRIPTION_HEADER]
-Aircraft zombies can cross defenses and obstacles on the ground from the air, and it would be miserable if the aircraft accidentally overwhelmed the plants when it crashed.
-
-[ZOMBIE_RENAI_CARVER]
-Sculptor Imp Zombie
-
-[ZOMBIE_RENAI_CARVER_DESCRIPTION]
-Have you heard of the statue of the aristocratic zombie with a broken arm? That's what the sculptor imp zombie carved. Sculptor Imp Zombie especially likes a whole piece of rough stone, which inspires his art.
-
-[ZOMBIE_RENAI_CARVER_DESCRIPTION_HEADER]
-Carving the original stone into a zombie statue while bringing him back to life early.
-
 [ZOMBIE_ROMAN]
 Roman Zombies
 
@@ -55715,78 +56428,6 @@ The powerful firepower of {FLAVOR}ZVP MKII allows him to meet the challenge with
 
 [ZOMBIE_ZOMBIE_GATLINGPEA_DESCRIPTION_HEADER]
 A plant-headed zombie from mysterious time and space, his firepower is fierce, find a bunker!
-
-[ZOMBIE_HEIAN_WORKER]
-Samurai Zombies
-
-[ZOMBIE_HEIAN_WORKER_DESCRIPTION]
-After wearing Tsukiyoko's wig, he became an entry-level samurai.
-
-[ZOMBIE_HEIAN_WORKER_DESCRIPTION_HEADER]
-Ordinary Samurai Zombies under General Giant Zombies
-
-[ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
-A tapered roadblock with a snow top can bring a touch of coolness to itself under the scorching sun.
-
-[ZOMBIE_HEIAN_ARMOR2]
-Samurai Iron Bucket Zombies
-
-[ZOMBIE_HEIAN_ARMOR2_DESCRIPTION]
-Although this wire barrel hat looks wooden, the two circles around it are genuine painted iron rings.
-
-[ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
-This barbed wire bucket hat provides great protection, at least that's what the samurai zombies feel.
-
-[ZOMBIE_HEIAN_FLAG]
-Samurai Flag Zombies
-
-[ZOMBIE_HEIAN_FLAG_DESCRIPTION]
-Samurai Flag The zombies hold high the flag of the battle and lead the generals' men to plunder their brains.
-
-[ZOMBIE_HEIAN_FLAG_DESCRIPTION_HEADER]
-Marks the appearance of a large wave of samurai zombies.
-
-[ZOMBIE_HEIAN_GARGANTUAR]
-General Giant Zombie
-
-[ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION_HEADER]
-The kendama in his hand is as heavy as a critical mass.
-
-[ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Damage: {STAT} smashes flat plants with kendama
-{KEYWORD}Special: {STAT} Throw the ninja kid zombies when you are hurt
- 
-{FLAVOR} General Giant Zombie is the leader of the warrior zombies in this area. When Dr. Zombie was away, he led other warrior zombies to collect brains. And the kendama in his hand is a toy that he grew from a small to a big one, and of course, the model has also been enlarged as he grows up.
-
-[ZOMBIE_HEIAN_SUSHI]
-Sushi Chef Zombie
-
-[ZOMBIE_HEIAN_SUSHI_DESCRIPTION]
-Starting from the Funao Mountain Canteen, the sushi made is widely popular among zombies.
-
-[ZOMBIE_HEIAN_SUSHI_DESCRIPTION_HEADER]
-Sushi Chef Zombie's sushi, although it does not satisfy the zombies' desire for the brain, still has a fatal attraction for the zombies.
-
-[ZOMBIE_HEIAN_NINJA]
-Ninja Imp Zombie
-
-[ZOMBIE_HEIAN_NINJA_DESCRIPTION]
-Ninja Imp Zombie will often use smoke bombs to tell everyone, he's here!
-
-[ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-The pufferfish in the hands of the ninja kid zombies is extraordinary, the thorns on it are real thorns.
-
-[ZOMBIE_HEIAN_HANABI]
-Fireworks Zombies
-
-[ZOMBIE_HEIAN_HANABI_DESCRIPTION]
-{KEYWORD}Special: {STAT} Once you lose the control of the fireworks zombies, the fireworks tube will lose control!!
-{KEYWORD}Weakness: {STAT}Please try to wet him.
- 
-{FLAVOR}Biu~~~Bang! The firelight is wonderful.
-
-[ZOMBIE_HEIAN_HANABI_DESCRIPTION_HEADER]
-The Fireworks Zombie tries to put new elements into his family's fireworks tube every day, and no one but himself knows how to use his fireworks tube.
 
 [NEW_AVATAR_PACKAGE]
 Costume Backpack
@@ -60530,62 +61171,7 @@ Advanced Privileges
 [GROWTH_PACKAGE_DESCRIPTION_TITLE]
 Growth Pack Description
 
-[ZOMBIE_HEIAN_ONMYOJI]
-Yin-Yang Master Zombie
 
-[ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION]
-{KEYWORD}Traits: {STAT}Swings his fan, bringing forth a lucky wind!!
-{KEYWORD} Weakness: {STAT}The hunting clothes on him seem to provide little protection?
-
-{FLAVOR} He waves his fan here, and soon the shrine is filled with wind.
-
-[ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
-The Yin-Yang Master Zombie is fond of making different fans. This time, he brought a fan from the shrine called the Lucky Star.
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI]
-Elite Yin-Yang Master Zombie
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
-Unlike his colleagues who are keen on making fans, the Elite Yin-Yang Master Zombie believes that as a zombie, he should have greater ambitions.
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION]
-{FLAVOR} So he became the only librarian among the zombies.
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL]
-Yin-Yang Master Zombie
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL_DESCRIPTION]
-{KEYWORD}Traits: {STAT}Swings his fan, bringing forth a lucky wind!!
-{KEYWORD} Weakness: {STAT}The hunting clothes on him seem to provide little protection?
-
-{FLAVOR} He waves his fan here, and soon the shrine is filled with wind.
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL_DESCRIPTION_HEADER]
-The Yin-Yang Master Zombie is fond of making different fans. This time, he brought a fan from the shrine called the Lucky Star.
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD]
-Yin-Yang Master Zombie
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD_DESCRIPTION]
-{KEYWORD}Traits: {STAT}Swings his fan, bringing forth a lucky wind!!
-{KEYWORD} Weakness: {STAT}The hunting clothes on him seem to provide little protection?
-
-{FLAVOR} He waves his fan here, and soon the shrine is filled with wind.
-
-[ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD_DESCRIPTION_HEADER]
-The Yin-Yang Master Zombie is fond of making different fans. This time, he brought a fan from the shrine called the Lucky Star.
-
-[ZOMBIE_HEIAN_AKINNDO]
-Straw-Raincoat Zombie
-
-[ZOMBIE_HEIAN_AKINNDO_DESCRIPTION]
-{KEYWORD}Traits: {STAT}Raises his fish basket to absorb plants food!!
-{KEYWORD} Weakness: {STAT}Wearing a hat made with a craftsmanship similar to that of the Parasol Zombie, he is invincible!
-
-{FLAVOR} Raising the fish basket to plunder plants food.
-
-[ZOMBIE_HEIAN_AKINNDO_DESCRIPTION_HEADER]
-In the straw-raincoat zombie's fish basket, there is actually a fish, and this fish loves the taste of plants food.
 
 [ZOMBIE_FAIRY_TALE]
 Playing Card Zombie
@@ -75810,6 +76396,8 @@ Game Error
 [DIALOG_TRAININGMODULE]
 ^FF0000 CHEATER I HOPE YOU GET BAN FOR CHEATING LOOOOOSER
 
+
+
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
 Zombie N.42
 
@@ -75818,15 +76406,6 @@ Zombie N.42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION]
 {FLAVOR}In this universe 
-
-[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1]
-精英冰风酋长僵尸
-
-[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
-[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
 
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH]
 精英冰风酋长僵尸
@@ -75942,64 +76521,6 @@ hello
 精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION]
 在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
-
-
-[ZOMBIE_ZOMBOSSMECH_RENAI]
-Troupe Manipulator
-
-[ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
-{KEYWORD}Features: {STAT}Creative Drama
-{FLAVOR}One page from Dr. Zomboss' manuscript:
-"Cowards die many times before their deaths; the valiant never taste of death but once". as the youngest Doctor of Death, Dr. Zomboss' great saga has long spanned every stage of its time. Repeat, revenge, destruction, and a new myth! The Great Dr. Zomboss will definitely make a comeback again! Dr. Zomboss' evil intentions will eventually flourish! (Note, this passage is not to be published: Remembering the Best of College-Troupe Life)."
-                                   - Zomboss: The Greatest Memoir of All Time! Supplement No. 1616
-[ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
-The mastermind behind this theatre is a mix of tragic epics and evil chaos.
-
-[ZOMBIE_RENAI_HAMLET]
-Hamlet
-
-[ZOMBIE_RENAI_HAMLET_DESCRIPTION]
-{KEYWORD}特点：{STAT}向前方发射扇形范围的子弹，子弹可以与植物子弹相撞。
-[ZOMBIE_RENAI_HAMLET_DESCRIPTION_HEADER]
-一千个读者心目中有一千个哈姆雷特，而一千个植物心目中只有一个僵尸！不管他怎么变，永远逃不掉！
-
-[ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
-
-[ZOMBIE_RENAI_SHERLOCK]
-Sherlock
-
-[ZOMBIE_RENAI_SHERLOCK_DESCRIPTION]
-{KEYWORD}特点：{STAT}向本行第一列或第二列的丢出一个钱袋并换行，钱袋可以压扁植物并使该行僵尸加速，并持续召唤僵尸
-
-[ZOMBIE_RENAI_SHERLOCK_DESCRIPTION_HEADER]
-夏洛克僵尸是专业的法庭演员，从他被拖上证言台开始，到最后判决，无不是精心设计的表演。不过这场庭审是一个更加巨大的剧本，再精致的表演也跨不出去。
-
-[ELITE_ZOMBIE_TIPS_TEXT_RENAI_SHERLOCK]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
-
-[ZOMBIE_RENAI_ROMEO]
-Romeo
-
-[ZOMBIE_RENAI_ROMEO_DESCRIPTION]
-{KEYWORD}特点：{STAT}用剑抵挡来自正面的直线物理攻击，当朱丽叶死亡时进入狂暴状态
-[ZOMBIE_RENAI_ROMEO_DESCRIPTION_HEADER]
-罗密欧僵尸对剧本里要求在豪华大别墅前痛哭然后倒下的情节十分不解，毕竟这是他永远得不到的，这是对于僵尸来说真正的悲剧。
-
-[ELITE_ZOMBIE_TIPS_TEXT_RENAI_ROMEO]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
-
-[ZOMBIE_RENAI_JULIET]
-Juliet
-
-[ZOMBIE_RENAI_JULIET_DESCRIPTION]
-{KEYWORD}特点：{STAT}用洋伞抵挡植物的抛投攻击，当罗密欧死亡时进入狂暴状态
-
-[ZOMBIE_RENAI_JULIET_DESCRIPTION_HEADER]
-朱丽叶僵尸在剧场上苏醒了过来，她不被外人的意愿所左右，有自己的追求和目标，也坚信跨越死亡的爱情。有人说女僵尸是真正的演员，这对于朱丽叶僵尸来说是一种夸赞。
-
-[ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
 
 [PVZ2UNCHARTED_SHOP_TITLE]
 Uncharted Shop
@@ -76459,144 +76980,6 @@ Used to complete Battle missions (Penny's Pursuit Guide, Dave's Mysterious Treas
 
 [MAT_BATTLE_ORDER_TICKET_GOT_WAY]
 Obtained from Jingle Bell Event, Monthly Check-ins, and Surveys
-
-[ZOMBIE_JOURNEY_TO_THE_WEST]
-JTTW Basic zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
-Standard Journey to the West zombie.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-西游普通僵尸一路向西，翻越十万八千里，历经九九八十一难，寻求属于他的脑子。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
-JTTW Conehead Zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
-他的竹篓路障让他比普通僵尸强壮两倍。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
-有人告诉西游路障僵尸应该阻挡往西边走的师徒，所以他成了西游路障僵尸。不过西游路上的路障材质似乎不太结实。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
-JTTW Porcelainhead zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
-他的铁瓷杯头盔能极大程度地承受伤害。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-《磁铁经》里记载了磁铁的制造工艺。可惜经书前面一半泡了水，所以僵尸们只发明出了“瓷”铁。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
-JTTW Flag zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
-举着旗子的西游僵尸，通常意味着一大波僵尸的来临。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-地府房地产经济被旅游业打压得濒临崩溃，大量僵尸都尝试通过乱改生死簿的方式离开地府，从而享受西游旗子僵尸最近推出的八折优惠。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
-Tudigong Zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
-这种僵尸通过挖隧道来穿过你的防御。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
-土地公僵尸最近迷上了特工电影，渴望能在村口的“情报”工作中贡献出自己的力量。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
-红孩儿僵尸
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
-红孩儿是镇守号山的圣婴大亡，神通广大，口吐三昧真火。不过作为一个僵尸，实在不适合坐什么莲花宝座。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
-火焰弹：每隔一段时间发射4颗火焰弹，对植物造成高额伤害。
-三味真火：发射三味真火，延直线移动并烧毁所有遇到的植物，可被冰冻生菜的大招熄灭。
-位移换行：每隔一段时间，移动至其他行末尾并行进。
-
-[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_RED_BOY]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-Mace Gargantuar
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
-使用重锤粉碎植物
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-气拔山兮，力盖世，战场上的王者。重锤巨人的传奇故事已无需多言。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
-Wok Zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
-有时候他藏着一个收来的铁锅当护甲。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
-西部片里常见的剧情。往西走的片好像也算西部片，没啥问题。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
-Marshal-Star Zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
-一位全身包裹铠甲冲击你防线的僵尸。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-元帅明星僵尸近期战斗中的每一次失败都被天庭实况转播，观众对他的支持率下降到了负110％。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON]
-Kongming Lantern Zombie
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION_HEADER]
-孔明灯会带着僵尸越过障碍及地面防御物。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION]
-放出的孔明灯飞向天空燃烧殆尽后，孔明灯僵尸便出现了。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
-投石车僵尸
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
-对你的植物投掷石块
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
-投石车僵尸一直在幕后兢兢业业的为他人的“仙术”做贡献。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN]
-Exploding Imp
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
-一个太过狂热的小鬼，能引爆扛着的炸弹，对单格植物造成致命伤害。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
-“告诉那些热爱自爆的疯狂小粉丝们，不仅火药来自这里，自爆这一津津乐道的行为也是从这里传出去的！”——《僵尸负三点五大发明》
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT]
-鱼叉小妖僵尸
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION_HEADER]
-是个远距离对植物造成伤害的僵尸。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION]
-鱼叉小妖每天反复练习投掷三叉戟，为的就是在毛脸雷公打进来的时候快速卸甲跑路。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
-黄眉大亡
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION_HEADER]
-黄眉爷爷，黄眉大亡。设像显能，与汝赌赛。谁曾言“强者为尊该让我，英雄只此敢争先”？然合当如此？此间之瓜，击颅则痛剧。
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
-腾云驾雾：腾云状态下，黄眉大亡不会受到攻击，直至落地。
-召唤僵尸：挥动狼牙棒，召唤大量西游僵尸进攻。
-人种袋：投掷人种袋，吸取整行所有植物，可用灰烬破坏。
-金钵：投掷金钵，砸扁 2x2 范围内的所有植物。
-位移换行：不会往前走，每隔一段时间移动至其他行。
-
-[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
 
 [ADVERTISEMENT_HEAD_ID_25696]
 Time acceleration
