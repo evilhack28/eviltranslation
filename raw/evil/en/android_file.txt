@@ -52,7 +52,7 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from May 30 v1.10.4 (pre-release)
+translate by evilhack28 version from June 1 v1.10.4 (pre-release)
 
 [AGE_TIP]
 Chnage Log
@@ -96,35 +96,35 @@ fixed 18 plants
 
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.3) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 [EVIL_TIPS_8]
 ^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
-^000000 ~~ Made by EvilHack28 Last update May 30 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
 
 
 
