@@ -11,13 +11,13 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Type        : Text-based (v3.7.3 server 4)
-Current Version  : 1.10.4 (pre-release)
+File Version      : Text-based (v3.7.6 server 1)
+Current Version  : 1.11.0 (pre-release)
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
-Youtube          : https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
-Mod              : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaKYMUo8i1M9nI?usp=drive_link
+Youtube         : https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
+Mod             : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaKYMUo8i1M9nI?usp=drive_link
 
 
                                                                                
@@ -52,79 +52,48 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from June 1 v1.10.4 (pre-release)
+translate by evilhack28 version from July 10 v1.11.0 (pre-release)
 
 [AGE_TIP]
-Chnage Log
+CREDIT
 
 [AGE_TIP_CONTENT
-======1.10.2======
-Fixed all zombie text for 
-
-Jurassic
-Modern
-Steam
-Renaissance
-Heian age
-JTTW
-
-======1.10.3======
-Fixed all zombie text for 
-
-Ancient Egypt		Pirate Seas
-Wild West			Far Future
-Dark Ages			Big Wave Beach
-Frostbite Caves		Sky City
-Lost City			Neon Mixtape Tour
-
-semi fix
-
-Fairytale Forest				Celebrating Chinese New Year
-Children's Playpark				Parkour Party
-Anniversary Carnival Party		Frostbite Caves Resurgence
-Speed Racing					Memory lane
-
-======1.10.4======
-Update the file to server 4
-Fix Children day event text
-Fix zombie text name code error
-fix some gene text and fix ALL color code
-fixed 18 plants
-
+======1.11.0======
+Added 3.7.6 text
 
 
 
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 [EVIL_TIPS_8]
 ^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
-^000000 ~~ Made by EvilHack28 Last update June 1 (1.10.4) ~~
+^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
 
 
 
@@ -204,6 +173,88 @@ Big Smoke Mushroom Lion Dance Outfit
 
 [NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]
 Increases attack speed by 10%
+
+
+
+
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_4]
+Holographic Tide
+
+[NEW_AVATAR_DESCRIPTION_BONKCHOY_4]
+Reduces planting cooldown by 30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CACTUS_2]
+Deep Sea Shadow
+
+[NEW_AVATAR_DESCRIPTION_CACTUS_2]
+Doubles first wave spike count when using Plant Food while burrowed
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SPLITPEA_2]
+Split Pea's Little Red Riding Hood
+
+[NEW_AVATAR_DESCRIPTION_SPLITPEA_2]
+Attack power +10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_3]
+Gatling Pea's Headphones
+
+[NEW_AVATAR_DESCRIPTION_GATLINGPEA_3]
+Attack power +15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
+ Dollarweed Drummer's Tie
+
+[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
+15% faster attack speed
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_1]
+Guard-shroom's Wizard
+
+[NEW_AVATAR_DESCRIPTION_GUARDSHROOM_1]
+-25 sun cost
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_1]
+Mega Gatling Pea Commander
+
+[NEW_AVATAR_DESCRIPTION_MEGAGATLING_1]
+Attack power +25%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FIREPEASHOOTER_2]
+Fire Peashooter's Glasses
+
+[NEW_AVATAR_DESCRIPTION_FIREPEASHOOTER_2]
+Attack power +10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MATCHFLOWER_1]
+Match Flower's Cape
+
+[NEW_AVATAR_DESCRIPTION_MATCHFLOWER_1]
+-15 sun cost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2165,6 +2216,12 @@ Happy and harmonious
 [LEVEL_EDITOR_HEAD_DES_ID_25711]
 Good friends for life
 
+[LEVEL_EDITOR_HEAD_ID_25717]
+Bounce Champion
+
+[LEVEL_EDITOR_HEAD_DES_ID_25717]
+Aim for new heights!
+
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Children's Mangosteen
 
@@ -2220,6 +2277,12 @@ Autumn Appetite
 [SUMMER_MEMORIES_HEAD_DES_ID_25393]
 To players journeying through memories.
 Season 19
+
+[SUMMER_MEMORIES_HEAD_ID_25718]
+Beach Bash
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25718]
+Hang ten! / Ride the waves!
 
 [PARTYEPSACTIVITY_HEAD_ID_25572]
 Party Orchid Mage
@@ -2348,6 +2411,18 @@ Surprise Gift
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25675]
 During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
+
+[NEWYEAR_GIFT_HEAD_ID_25695]
+Rolling Screen General
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25695]
+During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
+
+[NEWYEAR_GIFT_HEAD_ID_25713]
+Arms Master
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25713]
+During the Summer Gift event, reach the cumulative recharge progress in the event to receive.
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev ! 
@@ -20490,13 +20565,13 @@ Mega Gatling Pea
 {FLAVOR}The big brother of the pea family, can use various pea abilities.
 
 [MEGAGATLING_DESCRIPTION_HEADER]
-Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired. After activating its Plant Food ability, more shots can be fired.
+Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired.
 
 [MEGAGATLING_TOOLTIP]
-Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired. After activating its Plant Food ability, more shots can be fired.
+Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired.
 
 [MEGAGATLING_PRODUCT_SHORT_DESC]
-Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired. After activating its Plant Food ability, more shots can be fired.
+Shoots multiple shots to the right. After stacking other peas, more powerful shots can be fired.
 
 [MEGAGATLING_SKILL_LEVEL1]
 Fire Support
@@ -20555,10 +20630,244 @@ There is a chance that the initial shots will be enhanced when the seed isn't st
 [STORE_PRODUCT_AVATAR_MEGAGATLING_TITLE]
 超级机枪射手装扮
 
+[SEASHROOM]
+海蘑菇
 
+[SEASHROOM_DESCRIPTION]
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}海蘑菇和小喷菇是远房表亲。没有人知道他们的家谱是什么时候分叉的，但家庭聚会总是涉及泳池派对。
 
+[SEASHROOM_DESCRIPTION_HEADER]
+海蘑菇可以种在水中，射程很近并只能持续一段时间。
 
+[SEASHROOM_TOOLTIP]
+海蘑菇可以种在水中，射程很近并只能持续一段时间。
 
+[SEASHROOM_PRODUCT_SHORT_DESC]
+海蘑菇可以种在水中，射程很近并只能持续一段时间。
+
+[SEASHROOM_AVATAR_NAME]
+海蘑菇可以种在水中，射程很近并只能持续一段时间。
+
+[STORE_PRODUCT_AVATAR_SEASHROOM_TITLE]
+海蘑菇装扮
+
+[STORE_PRODUCT_AVATAR_SEASHROOM]
+大招攻击力提升50%
+
+[SEASHROOM_SKILL_LEVEL1]
+生存强化
+
+[SEASHROOM_SKILL_LEVEL1_DES]
+海蘑菇的存活时间增加至90s
+
+[SEASHROOM_SKILL_LEVEL2]
+超长待机
+
+[SEASHROOM_SKILL_LEVEL2_DES]
+海蘑菇的存活时间增加至120s
+
+[SEASHROOM_NEW_SKILL_LEVEL1_DES]
+海蘑菇可以直接种植在水中，在海水中时，海蘑菇会根据种植区域改变转向。种植后，海蘑菇会攻击同一列中右边三格内的僵尸，并在单格距离范围内溅射，造成少量伤害。海蘑菇仅能在场上存活60s。
+
+[SEASHROOM_NEW_SKILL_LEVEL2_DES]
+海蘑菇的存活时间增加至90s
+
+[SEASHROOM_NEW_SKILL_LEVEL3_DES]
+海蘑菇的存活时间增加至120s
+
+[SEASHROOM_NEW_SKILL_LEVEL4_DES]
+种植时有概率直接释放能量豆大招！
+
+[SEASHROOM_PLANTFOOD_DESCRIPTION]
+在周围8格内随机生成一个新的海蘑菇，并立即向前方发射30颗子弹，同时联动场上的所有海蘑菇发动一次大招，并重置消失时间。
+
+[SEASHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+在周围8格内随机生成一个新的海蘑菇，并立即向前方发射30颗子弹，同时联动场上的所有海蘑菇发动一次大招，并重置消失时间。
+
+[OXYGENALGAE]
+Oxygen Algae
+
+[OXYGENALGAE_DESCRIPTION]
+{KEYWORD}Special: {STAT} Produces sun and diffuses it around, allowing land plants within a 3x3 range to grow and survive in seawater
+{KEYWORD}Plant feature: {STAT} White plant, provides oxygen, infinite sun
+{FLAVOR}Oxygen Algae does aerobic exercises every day, which is reported to be source of how she can continuously provide oxygen to the surrounding area.
+
+[OXYGENALGAE_DESCRIPTION_HEADER]
+Provides sun and oxygen to surrounding plants.
+
+[OXYGENALGAE_TOOLTIP]
+Provides sun and oxygen to surrounding plants.
+
+[OXYGENALGAE_PRODUCT_SHORT_DESC]
+Provides sun and oxygen to surrounding plants.
+
+[OXYGENALGAE_SKILL_LEVEL1]
+Photosynthesis
+
+[OXYGENALGAE_SKILL_LEVEL1_DES]
+Slightly increases the health and attack power of surrounding plants, and reduces the time in-between sun production.
+
+[OXYGENALGAE_SKILL_LEVEL2]
+Rapid Oxygen Supply
+
+[OXYGENALGAE_SKILL_LEVEL2_DES]
+Further increases the health and attack power of surrounding plants, and reduces the time in-between sun production.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL1_DES]
+Provides sun and oxygen to surrounding plants.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL2_DES]
+Slightly increases the health and attack power of surrounding plants, and reduces the time in-between sun production.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL3_DES]
+Further increases the health and attack power of surrounding plants, and reduces the time in-between sun production.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL4_DES]
+Oxygen Algae may be boosted when planted.
+
+[OXYGENALGAE_PLANTFOOD_DESCRIPTION]
+Produces 125 sun and slightly buffs the attack speed of plants within the surrounding 3x3 area for 10 seconds.
+
+[OXYGENALGAE_AVATAR_PLANTFOOD_DESCRIPTION]
+Produces 125 sun and slightly buffs the attack speed of plants within the surrounding 3x3 area for 10 seconds.
+
+[STORE_PRODUCT_AVATAR_OXYGENALGAE]
+Produces 125 sun and slightly buffs the attack speed of plants within the surrounding 3x3 area for 10 seconds.
+
+[STORE_PRODUCT_AVATAR_OXYGENALGAE_TITLE]
+Oxygen Algae Vampire
+
+[OXYGENALGAE_AVATAR_NAME]
+Oxygen Algae Vampire
+
+[AQUAWEED]
+海神草
+
+[AQUAWEED_DESCRIPTION]
+{KEYWORD}特点：{STAT}召唤鲨鱼攻击并吞噬敌人，满足条件可召唤大型鲨鱼
+{KEYWORD}植物特征：{STAT}绿色植物，海洋植物，召唤鲨鱼
+{FLAVOR}因为长有胡子所以被其他植物奉为智者和领导，引领着海洋植物们在海里生活，当然还包括小鲨鱼。
+
+[AQUAWEED__DESCRIPTION_HEADER]
+召唤鲨鱼攻击敌人
+
+[AQUAWEED_TOOLTIP]
+召唤鲨鱼攻击敌人
+
+[AQUAWEED_PRODUCT_SHORT_DESC]
+召唤鲨鱼攻击敌人
+
+[AQUAWEED_SKILL_LEVEL1]
+训练鲨鱼
+
+[AQUAWEED_SKILL_LEVEL1_DES]
+召唤小鲨鱼时有15%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快
+
+[AQUAWEED_SKILL_LEVEL2]
+鲨鱼领袖
+
+[AQUAWEED_SKILL_LEVEL2_DES]
+召唤小鲨鱼时有20%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快
+
+[AQUAWEED_SKILL_LEVEL5]
+海洋霸主
+
+[AQUAWEED_SKILL_LEVEL5_DES]
+每次召唤都有几率召唤特殊的小鲨鱼（外观为红色的小鲨鱼），它会直接吃掉僵尸
+
+[AQUAWEED_SUPERSKILL]
+海洋霸主
+
+[AQUAWEED-SUPERSKILL_DES]
+每次召唤都有几率召唤特殊的小鲨鱼（比如外观为红色的小鲨鱼），它会直接吃掉僵尸
+
+[STORE_PRODUCT_AVATAR_AQUAWEED]
+海神草释放大招后额外再召唤3只小鲨鱼，有概率出红色小鲨鱼，在陆地上不生效
+
+[AQUAWEED_NEW_SKILL_LEVEL1_DES]
+召唤小鲨鱼攻击敌人，小鲨鱼会吞噬生命值40%以下的僵尸，然后变成饱腹状态回到海神草身边补充能量；当小鲨鱼返回次数达到3次海神草会补充满能量，释放大招召唤一只大鲨鱼对单行僵尸造成毁灭性伤害；1阶可以秒杀2阶中小体型僵尸。
+
+[AQUAWEED_NEW_SKILL_LEVEL2_DES]
+召唤小鲨鱼时有15%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快；2阶大招可以秒杀4阶中小体型僵尸。
+
+[AQUAWEED_NEW_SKILL_LEVEL3_DES]
+召唤小鲨鱼时有20%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快；3阶大招可以秒杀6阶中小体型僵尸。
+
+[AQUAWEED_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招；4阶大招可以秒杀8阶中小体型僵尸。
+
+[AQUAWEED_NEW_SKILL_LEVEL5_DES]
+每次召唤都有几率召唤特殊的小鲨鱼（外观为红色的小鲨鱼），它会直接吃掉僵尸；5阶大招可以秒杀10阶中小体型僵尸。
+
+[STORE_PRODUCT_AVATAR_AQUAWEED_TITLE]
+海神装扮
+
+[AQUAWEED_AVATAR_NAME]
+海神装扮
+
+[AQUAWEED_PLANTFOOD_DESCRIPTION]
+海神草释放大鲨鱼后，额外再召唤3只小鲨鱼，每只小鲨鱼有15%的概率变红色小鲨鱼，在陆地上不生效。
+
+[AQUAWEED_AVATAR_PLANTFOOD_DESCRIPTION]
+海神草释放大鲨鱼后，额外再召唤3只小鲨鱼，每只小鲨鱼有15%的概率变红色小鲨鱼，在陆地上不生效。
+
+[KELPGUARD]
+海带守卫
+
+[KELPGUARD_DESCRIPTION]
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}海带守卫一直试图冲破自己的减速带，但是从来没有成功过。
+
+[KELPGUARD_DESCRIPTION_HEADER]
+海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
+
+[KELPGUARD_TOOLTIP]
+海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
+
+[KELPGUARD_PRODUCT_SHORT_DESC]
+海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
+
+[KELPGUARD_AVATAR_NAME]
+海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
+
+[STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
+海带守卫装扮
+
+[STORE_PRODUCT_AVATAR_KELPGUARD]
+僵尸被击退的格数增加为2格
+
+[KELPGUARD_SKILL_LEVEL1]
+坚持不懈
+
+[KELPGUARD_SKILL_LEVEL1_DES]
+进入破损状态所需的僵尸数量变为4个
+
+[KELPGUARD_SKILL_LEVEL2]
+钢铁意志
+
+[KELPGUARD_SKILL_LEVEL2_DES]
+进入破损状态所需的僵尸数量变为5个
+
+[KELPGUARD_NEW_SKILL_LEVEL1_DES]
+海带守卫只能种植在水中。种植时，会同时种植在同一列的1和6行，并在中间形成海带减速带阻挡僵尸；当有3个僵尸接触到减速带时，每经过5秒后就会破损部分减速带，直到完全断裂；若没有僵尸在和减速带碰撞，则一段时间后会重新形成减速带。当海带减速带处于完好状态时，减速带可以阻挡洋流效果。
+
+[KELPGUARD_NEW_SKILL_LEVEL2_DES]
+当有4个僵尸接触到减速带时，才会开始破损部分减速带
+
+[KELPGUARD_NEW_SKILL_LEVEL3_DES]
+当有5个僵尸接触到减速带时，才会开始破损部分减速带
+
+[KELPGUARD_NEW_SKILL_LEVEL4_DES]
+种植时有概率直接释放能量豆大招！
+
+[KELPGUARD_PLANTFOOD_DESCRIPTION]
+当海带守卫开启大招后，会直接生成完好的减速带，此时海带守卫的减速带不会被破坏，并在短暂蓄力后将减速带上的僵尸向击退弹1格。
+
+[KELPGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
+当海带守卫开启大招后，会直接生成完好的减速带，此时海带守卫的减速带不会被破坏，并在短暂蓄力后将减速带上的僵尸向击退弹2格。
+
+[PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS END]
 
 
 
@@ -21207,6 +21516,12 @@ Plant a Lily Pad first
 
 [ADVICE_PLANT_NOT_IN_SKY]
 {PLANT_NAME} can't be planted on air
+
+[ADVICE_PLANT_NOT_DEEPSEA]
+This plant cannot be planted in the sea.
+
+[ADVICE_PLANT_NOT_MOVING_LAND]
+You cannot plant while the submarine is moving.
 
 [ADVICE_PLANT_NOT_IN_GOLDROAD]
 You can't plant here
@@ -22488,6 +22803,13 @@ Qigong Master
 [RANK_AVATAR_CONTENT_CONTENT_61044]
 Reward for players participating in the June Adventure Event (2025).
 
+[RANK_AVATAR_CONTENT_TITLE_61045]
+20,000 Leagues Under the Sea
+
+[RANK_AVATAR_CONTENT_CONTENT_61045]
+Congratulations! For being a Grandmaster!!!!
+Season 33
+
 [RANK_AVATAR_CONTENT_TITLE_61038]
 Merry Christmas
 
@@ -22680,6 +23002,9 @@ Celestial Voyage
 [rank_avatar_diy_47]
 Qigong Master
 
+[rank_avatar_diy_48]
+20,000 Leagues Under the Sea
+
 [rank_avatar_diy_100]
 Youthful Vitality
 
@@ -22736,6 +23061,12 @@ Heian Age - Ultimate Challenge
 
 [HEIAN_LEVEL_NAME]
 Heian Age - Day {LEVEL_NUMBER}
+
+[ATLANTIS_FINAL_LEVEL]
+Underwater World - Ultimate Challenge
+
+[ATLANTIS_LEVEL_NAME]
+Underwater World - Day {LEVEL_NUMBER}
 
 [SKYCITY_FINAL_LEVEL]
 Sky City - Ultimate Challenge
@@ -22810,7 +23141,7 @@ All by Oneself - 2
 Far Future - Day {LEVEL_NUMBER}
 
 [BIRTHDAYZ_LEVEL_NAME]
-Anniversary Carnival Party
+Conch Combat
 
 [CHILDRENDAY_LEVEL_NAME]
 Children's Playpark
@@ -24396,6 +24727,9 @@ Endless Zone!
 
 [PLAYERS_TRIP_TO_HEIAN]
 {PLAYER}'s Trip to the Heian Age!
+
+[PLAYERS_TRIP_TO_ATLANTIS]
+{PLAYER}'s Trip to the Underwater World!
 
 [WARNING_LOW_TIDE]
 Low Tide!
@@ -26437,13 +26771,16 @@ Thunder Cloud Storm is coming!
 Parachute Rain!
 
 [WARNING_GRAVESTONE_SPAWN]
-Necromancy!
+NECROMANCY!
 
 [WARNING_FAIRY_TALE_WIND_TIP]
 Winds up!
 
 [WARNING_FAIRY_TALE_FOG_TIP]
 Foggy!
+
+[WARNING_TIDE_WAVE_TIP]
+Tide wave approaching!
 
 [WARNING_BLACK_HOLE_TIP]
 Black hole is going to suck plants!
@@ -26516,6 +26853,9 @@ Renaissance Age
 
 [WORLD_NAME_HEIAN]
 Heian Age
+
+[WORLD_NAME_ATLANTIS]
+Underwater World
 
 [WORLD_NAME_TALE]
 Fairytale Forest
@@ -26726,7 +27066,7 @@ Coins
 [LUCKYCHEST_DES_DESCRIPTION]
 666. sorry i really need to remove text :(
 
-1. Event: April 1 to May 26. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event: Jully 11-Sep 3. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -27709,40 +28049,43 @@ Carry more sun at the start of the level.
 Obtain trolleys
 
 [UPGRADE_MOWER]
-Simple Mode Pushcart
+Simple Lawn Mower
 
 [UPGRADE_MOWER_1_INFO]
-Get a trolley of mysterious Egyptian simple difficulty to withstand a zombie attack on the house.
+Ancient Egypt Lawn Mower. Sphinx-ter approved for zombie defense.
 
 [UPGRADE_MOWER_2_INFO]
-Get the simple and difficult cart of Pirate Harbor to withstand a zombie attack on the house.
+Pirate Seas Lawn Mower. Cuts through zombies like bad pirate jokes.
 
 [UPGRADE_MOWER_3_INFO]
-Get the Stroller of the Wild West's Simple Difficulty to withstand a zombie attack on the house.
+Wild West Lawn Mower. Outlaws hate this one trick!
 
 [UPGRADE_MOWER_8_INFO]
-Get the trolley of the glacier world's simple difficulty to withstand a zombie attack on the house.
+Frostbite Caves Lawn Mower. Cold enough to freeze zombie ambitions.
 
 [UPGRADE_MOWER_10_INFO]
-Get the trolley of the Lost City's simple difficulty to withstand a zombie attack on the house.
+Lost City Lawn Mower. Finally, something the zombies won't dig up.
 
 [UPGRADE_MOWER_11_INFO]
-Get the simple and difficult cart of the rock era to withstand a zombie attack on the house.
+Jurassic Marsh Lawn Mower. T-Rex tested, zombie approved (for destruction).
 
 [UPGRADE_MOWER_12_INFO]
-Get the trolley of the simple difficulty of Jurassic Marsh to withstand a zombie attack on the house.
+Modern Day Lawn Mower. Now with 5G zombie cancellation.
 
 [UPGRADE_MOWER_13_INFO]
-Get a trolley of simple difficulty in the Modern Day to withstand a zombie attack on the house.
+Neon Mixtape Tour Lawn Mower. Drops the bass (and zombie heads).
 
 [UPGRADE_MOWER_14_INFO]
-Get the simple and difficult cart of the steam age to withstand a zombie attack on the house.
+Steam Ages Lawn Mower. Industrial-grade zombie rejection.
 
 [UPGRADE_MOWER_15_INFO]
-Get the Restoration Era Simple Difficulty cart to withstand a zombie attack on the house.
+Renaissance Ages Lawn Mower. Artfully ruins zombie days.
 
 [UPGRADE_MOWER_16_INFO]
-Get a trolley of simple difficulty in the Heian period to withstand a zombie attack on the house.
+Heian Ages Lawn Mower. Poetically slices through undead.
+
+[UPGRADE_MOWER_17_INFO]
+Underwater World Lawn Mower. Sinks zombie hopes like Atlantis.
 
 [UPGRADE_TREASURE_YETI]
 Unlock Treasure Snowman
@@ -32673,10 +33016,16 @@ Announcements
 Construction ahead, please detour
 
 [STARCHALLENGE_EVIL_NAME]
-Dr. Madness
+Dr. Zomboss
 
 [STARCHALLENGE_EVIL]
-Command the zombie army to eat up all the plants
+Command zombie hordes to eat all plants
+
+[PVZ1MODE_BUOY]
+Moving Buoy
+
+[PVZ1MODE_BUOY_NORMAL_DESC]
+Zombies will change rows according to buoy's direction
 
 [STARCHALLENGE_HYPNOSHROOM_NAME]
 Tooth for tooth
@@ -35164,7 +35513,7 @@ Everyone opens red envelopes, and good gifts come and go!
 Colorful Dragon Boat Festival Lucky Zongzi
 
 [FESTIVAL_EVENT_TITLE_OLD]
-Golden Autumn Outing
+Summer Fest
 
 [FESTIVAL_EVENT_TITLE]
 Kids Fun Paradise
@@ -37107,7 +37456,10 @@ You can upgrade up to 3 times!
 {NPC_ENTER:crazydave}{SAY}{CONTENT}.
 
 [AIRSHIP_CRASH_LOSS]
-Your ship crashed!
+Your airship has crashed!
+
+[SUBMARINE_CRASH_LOSS]
+Your submarine has sunk!
 
 [AIRSHIP_NEED_RESET_TIP]
 The spacecraft is about to crash, now only ^00e46e {GEM_COUNT} diamonds ^oldclr are needed to restore the durability of the spacecraft?
@@ -41586,6 +41938,12 @@ Renaissance age endless -  Level {LEVEL_NUMBER}
 [DANGER_ROOM_RENAI_TITLE_WELCOME]
 Welcome to Renaissance age endless !
 
+[DANGER_ROOM_ATLANTIS_LEVEL_NAME]
+Underwater World  -  Level {LEVEL_NUMBER}
+
+[DANGER_ROOM_ATLANTIS_TITLE_WELCOME]
+Welcome to Underwater World endless !
+
 [DANGER_ROOM_REWARD_FLAME_THROWER]
 Adds a free use of Power Flame
 
@@ -43625,6 +43983,9 @@ Heian Age
 [TALE]
 Fairy Tale Forest
 
+[ATLANTIS]
+Underwater World
+
 [MODERN_DANGER_ROOM_NAME]
 Highway to the Danger Room
 
@@ -43659,19 +44020,22 @@ Card Clash - Day {LEVEL_NUMBER}
 Arena
 
 [DEMO_BUTTON]
-Test
+Demon
 
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]
-Hint
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]  
+Hint  
 
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT]
-This artifact can be obtained for free through exchange in the Memory Tour.
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT]  
+This artifact can be obtained for free in Memory Lane.  
 
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]
-This artifact can be obtained by participating in the limited-time event Dragon's Board.
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]  
+This artifact can be won in the limited-time Dragon Vault event.  
 
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
-This artifact can be obtained through a lottery in the limited-time event Treasure Hunt.
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]  
+This artifact can be won in the limited-time Rare Treasure Chest event.  
+
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT4]  
+This artifact can be won in the limited-time Wishing Pool event.
 
 [ARTIFACT_FREE_DEMO_LEVEL_BUTTON]
 Okay
@@ -47529,6 +47893,15 @@ Modern Challenge: Daddy's Day Off
 
 [VASEBREAKER_MODERN_LEVEL_NAME_3]
 Modern Challenge: Drop... Fell down
+
+[VASEBREAKER_ATLANTIS_LEVEL_NAME_1]
+Underwater Challenge: Fast & Furious
+
+[VASEBREAKER_ATLANTIS_LEVEL_NAME_2]
+Underwater Challenge: Dad's Day Off
+
+[VASEBREAKER_ATLANTIS_LEVEL_NAME_3]
+Underwater Challenge: Whoops...Dropped!
 
 [VIEW_PICKS]
 View Picks
@@ -51620,6 +51993,318 @@ Carrotillery(Daucus carota var. sativus Hoffm.)
     “曼陀罗”源自梵语“Mandala”，意为“坛场”，因其花形似佛教法坛。在欧洲，因其喇叭型花下垂而得名“天使的号角”，而草本的曼陀罗花向上则被称为“魔鬼的号角”。原产南美洲安第斯山区，现广泛引种于全球热带、亚热带地区作为观赏植物，其叶和花含莨菪碱和东莨菪碱，误食可致幻甚至致命。我国分布有3种草本曼陀罗（曼陀罗、毛曼陀罗和洋金花），同样含莨菪碱和东莨菪碱，在古代常用于外科镇痛。据传华佗的“麻沸散”和古代“蒙汗药”均以这些曼陀罗为主要成分。
     花语：危险之美、虚幻的爱
 
+[OAKSHOOTER_FAMILY]
+壳斗科
+[OAKSHOOTER_GENUS]
+栎属
+[OAKSHOOTER_PEDIA]
+橡木——北半球的坚韧之材
+    落叶或常绿乔木。
+    为栎属植物统称，树高可达20米以上；叶片多呈卵状披针形或长椭圆形，边缘具锯齿；雌雄同株，雄花为下垂的柔荑花序，雌花簇生于叶腋；果实为坚果，外包带刺的壳斗。花期4-5月，果期8-10月。
+    橡树广泛分布于北半球温带地区，“橡”可能因其果实形似象头而得名，其英文名“oak”源自原始印欧语对“尖锐/坚硬”的描述。根据木材颜色可分为红橡与白橡木两大类。红橡木（如北美红橡）纹粗犷、色泽偏红，多用于家具、地板及室内装饰；白橡（如夏栎、无花梗栎、栓皮栎）因木质致密且管孔含浸填体，具有防渗特性，是葡萄酒桶及瓶塞、威士忌桶及船舶甲板的优选材料。其在西方象征力量与永恒，凯尔特文化视之为圣树，北欧神话中代表雷神托尔，英国更以橡叶徽章彰显荣耀。
+    花语：永恒、荣耀
+
+[HOMINGTHISTLE_FAMILY]
+菊科
+[HOMINGTHISTLE_GENUS]
+蓟属
+[HOMINGTHISTLE_PEDIA]
+大翅蓟(苏格兰蓟)——“无人能挑衅我而不受惩罚”
+    二年生草本。
+    主根直伸，径粗达2厘米；茎高2米，粗壮；基生叶长椭圆形或宽卵形，边缘具三角形刺齿，齿顶有黄褐色针刺，茎生叶渐小；头状花序伞房状排列，总苞卵形或球形，总苞片多层，外具针刺，小花紫红或粉红色；瘦果倒卵形，冠毛褐色。花果期6-9月。
+    《中国植物志》中的中文名为“大翅蓟”，广泛分布于中国新疆天山、准噶尔盆地及阿拉套地区，欧洲、俄罗斯、伊朗等地也有分布。为苏格兰国花，故常被称为苏格兰蓟。据传为13世纪维京军队夜袭苏格兰时，士兵因踩到蓟的尖刺发出惨叫，暴露行踪，苏格兰人趁机反击获胜。自此，蓟被视为“救国植物”，并被印入国徽、货币及纹章中。苏格兰最高骑士团“蓟花骑士团”的座右铭“无人能挑衅我而不受惩罚”即源于此传说。而在希腊神话中，大地女神因单恋牧羊人克利斯无果而化身蓟，象征“心如针刺”的单恋之苦。在基督教传说中，圣母玛利亚将钉死耶稣的钉子埋入地下后长出了蓟，故其被称为“受祝福的蓟”。
+    花语：严格、独立、复仇、天佑
+[HOMINGTHISTLE_PEDIA_EXTRA]
+    特别说明：原名为蓟，因为蓟作为杂草知名度比较小，查阅导向蓟的英文名Thistle指的是比较有名的苏格兰蓟，《中国植物志》的中文名为大翅蓟
+
+[SWEETPOTATO_FAMILY]
+旋花科
+[SWEETPOTATO_GENUS]
+番薯属
+[SWEETPOTATO_PEDIA]
+番薯——跨越千年的“地下黄金”
+    多年生草本植物（农业实践作为一年生种植）。
+    具圆形、椭圆形或纺锤形块根，表皮及肉质颜色因品种、土壤而异；茎平卧或缠绕，分枝多，茎节易生不定根；叶片宽卵形，基部心形，顶叶颜色为品种特征；聚伞花序腋生，具1-7朵花，花冠钟状或漏斗状，呈粉红、白、淡紫或紫色；蒴果卵形或扁圆形，分4室，含1-4粒种子。因属异花授粉植物，自花难结实，故常见开花少结果现象。
+    原产于南美洲及安的列斯群岛，现已广泛栽培在全世界的热带、亚热带地区。明朝万历年间由陈振龙父子从菲律宾引入中国，故名“番（来自域外）薯”，民间亦称“红薯”、“地瓜”和“甘薯”等。其块根除可作主粮外，也是食品加工、淀粉和酒精制造工业的重要原料，根、茎、叶为优良的饲料。
+
+[PEPPERPULT_FAMILY]
+茄科
+[PEPPERPULT_GENUS]
+辣椒属
+[PEPPERPULT_PEDIA]
+甜椒——没有辣味的菜椒
+    一年生草本植物。
+    为辣椒的无辣味变种。茎直立且基部木质化；叶片矩圆形或卵形；花单生，白色辐射状；果实形似灯笼，表皮光滑，色彩丰富，常见绿色、红色、黄色、白色及紫色等，果肉厚实且略带甜味。花果期因栽培条件而异，若温度适宜一年四季均可开花结果。
+    原产于美洲热带地区，明朝末年传入中国，现我国南北均有栽培。“甜椒”一名可追溯至17世纪，哥伦布在加勒比海寻找黑胡椒未果，转而将当地一种不辣的辣椒带回欧洲，因其口感清甜而得名。又因其可做蔬菜食用，又常被称为“菜椒”。此外，其外形圆润如灯笼且栽培品种颜色多彩，还被称为“灯笼椒”或“彩椒”。
+
+[PHATBEET_FAMILY]
+苋科
+[PHATBEET_GENUS]
+甜菜属
+[PHATBEET_PEDIA]
+甜菜——世界第二大制糖蔬菜
+    二年生草本植物。
+    具肉质块根，圆锥形、纺锤形或楔形，外皮颜色因品种而异，常见红色、紫色、白色等；茎直立；基生叶宽大矩圆形，长可达30厘米，茎生叶互生，较小；花小（径3-5毫米）2-3朵聚集，绿色，风媒传粉；胞果下部陷在硬化的花被内，种子红褐色双凸镜形。花果期5至7月。
+    原产欧洲地中海沿岸，现广泛栽培于温带地区。因其块根富含蔗糖（含量可达16%-20%）而得名，是仅次于甘蔗的全球第二大制糖原料。除制糖外，其副产物如茎叶、废菜丝可作饲料，糖蜜可发酵生产乙醇或食品添加剂。此外，甜菜根含天然色素甜菜红，广泛用于食品着色。
+
+[STUNION_FAMILY]
+石蒜科
+[STUNION_GENUS]
+葱属
+[STUNION_PEDIA]
+洋葱——催泪的调味鳞茎
+    多年生草本植物。
+    鳞茎球状至扁球状，外皮紫红色、淡黄色或白色，内部肉质鳞片层层包裹；叶片呈圆筒状，中空；花葶粗壮，高可达1米，顶端着生球状伞形花序，小花粉白色，花被片具绿色中脉；果实近球形。花果期5至7月。
+    原产于西亚的伊朗、阿富汗等干旱地区，后传入地中海及中国新疆等地，因其形态似葱而得名“洋葱”。洋葱的肉质鳞茎为了适应其原产地的干旱环境，能在沙土中储存水分，抵御高温。洋葱是烹饪中提味增香的重要食材，其含有的硫化物和槲皮素等活性成分具有抗炎、抗氧化功效。切洋葱时细胞破裂会释放酶（蒜氨酸酶）与硫化合物反应生成催泪气体，刺激眼睛的神经末梢，触发泪腺而分泌眼泪来冲洗刺激性物质，这也是其在自然环境中防止被动物啃食的化学防御机制。
+
+[ACORN_FAMILY]
+壳斗科
+[ACORN_GENUS]
+栎属
+[ACORN_PEDIA]
+橡果——饥荒年代的“救命粮”
+    落叶或常绿乔木。
+    为栎属植物果实的统称，呈长圆形或卵圆形，外层包裹带刺的壳斗（由总苞发育而成），成熟时壳斗裂开，露出棕红色的坚硬果壳，内仁富含淀粉。广泛分布于北半球温带地区，高可达20米以上；叶片多呈卵状披针形或长椭圆形，边缘具锯齿；雌雄同株，雄花为下垂的柔荑花序，雌花簇生于叶腋；果实为坚果，外包带刺的壳斗。花期4-5月，果期8-10月。
+    橡果淀粉含量高，古代被磨粉制成橡子面、豆腐或酿酒，《庄子》、《韩非子》均记载其作为饥荒年代的“救命粮”，现代则用于饲料、纺织浆纱及生物柴油原料。其单宁成分可络合重金属，入药可缓解腹泻、增强免疫力。
+
+[CHESTNUT_FAMILY]
+壳斗科
+[CHESTNUT_GENUS]
+栗属
+[CHESTNUT_PEDIA]
+栗——秋冬甜糯的美味
+    落叶乔木。
+    高可达20米，树皮灰褐色且纵裂；叶片长椭圆或长圆形，边缘具锯齿；雌雄同株，雄花为柔荑花序，雌花3-5朵聚生；果实外层包裹带刺的壳斗（俗称“栗蓬”），每个壳斗内含1-3粒棕褐色坚果。花期4-6月，果期8-10月。
+    原产于中国，广泛分布于南北各地。“栗”字在甲骨文中形似带刺果实的树木，又因其果实外壳坚硬如板、成熟后板状开裂的特征，俗称“板栗”。“栗”最早见于《诗经》，如“树之榛栗”，表明其在中国至少有2500年的栽培历史。果实淀粉含量高，口感甜糯，糖炒栗子是我国秋冬标志性小吃。此外，栗树因木质坚硬，古时亦用于制作农具与建筑，叶片还可作蚕饲料。
+
+[CHESTNUT_FAMILY]
+壳斗科
+[CHESTNUT_GENUS]
+栗属
+[CHESTNUT_PEDIA]
+栗——秋冬甜糯的美味
+    落叶乔木。
+    高可达20米，树皮灰褐色且纵裂；叶片长椭圆或长圆形，边缘具锯齿；雌雄同株，雄花为柔荑花序，雌花3-5朵聚生；果实外层包裹带刺的壳斗（俗称“栗蓬”），每个壳斗内含1-3粒棕褐色坚果。花期4-6月，果期8-10月。
+    原产于中国，广泛分布于南北各地。“栗”字在甲骨文中形似带刺果实的树木，又因其果实外壳坚硬如板、成熟后板状开裂的特征，俗称“板栗”。“栗”最早见于《诗经》，如“树之榛栗”，表明其在中国至少有2500年的栽培历史。果实淀粉含量高，口感甜糯，糖炒栗子是我国秋冬标志性小吃。此外，栗树因木质坚硬，古时亦用于制作农具与建筑，叶片还可作蚕饲料。
+
+[ASPARAGUS_FAMILY]
+天门冬科
+[ASPARAGUS_GENUS]
+天门冬属
+[ASPARAGUS_PEDIA]
+芦笋——破土而出的美味
+    多年生草本植物。
+    直立草本，高1米；茎平滑，上部俯垂，分枝柔弱；叶状枝3-6簇生，近扁圆柱形，具钝棱，纤细；叶片退化为三角形鳞片；花1-4腋生，绿黄色；浆果红色，种子2-3个。花期5-6月，果期9-10月。
+    因其适应能力强，能在贫瘠或石质土壤中生长，嫩芽顶端尖锐如刀（“刁”与“刀”音近），且叶状枝似松柏的针状叶，故得名“石刁柏”。其嫩茎是其可食用的部分，通常在春季破土而出似“笋”，纤细如“芦苇”而得名“芦笋”。芦笋原产于地中海沿岸和西亚地区，现广泛栽培于中国、欧洲、北美及秘鲁等全球温带和亚热带地区。芦笋富含膳食纤维、维生素及矿物质，口感鲜嫩，是低热量高营养的优质蔬菜。
+
+[SAUCER_FAMILY]
+葫芦科
+[SAUCER_GENUS]
+南瓜属
+[SAUCER_PEDIA]
+飞碟瓜——似“飞碟”的西葫芦
+    茎短缩，蔓性或矮生，叶片呈五角掌状，浅至深裂，叶色翠；雌雄异花同株，雄花簇生，雌花单生，花黄色；果实边缘具棱齿，形似飞碟，颜色多样，包括白、黄、绿等，观赏性极强。花果期集中于夏秋季。
+    为西葫芦（美洲南瓜）的变种，因扁圆碟状的果实得名；原产于中南美洲，后作为特色蔬菜品种于20世纪90年代从俄罗斯、韩国、美国等地引入中国栽培。其独特的形态和多功能性（食用、药用、观赏）使其逐渐在园艺和特菜种植中推广。但因口感偏硬、纤维多，多以观赏为主，常用于园艺造景或科普教育。
+
+[GROUNDCHERRY_FAMILY]
+茄科
+[GROUNDCHERRY_GENUS]
+酸浆属
+[GROUNDCHERRY_PEDIA]
+灯笼草——酸甜的“红姑娘”
+    茎高40-80厘米，基部木质化，被柔毛；叶卵形具波状齿，两面被毛；花白色辐状，花萼宿存成橙色卵状果萼，网脉显著，有10纵肋，形如灯笼；内包裹橙红球状浆果，种子肾形。花期5-9月，果期6-10月。
+    因其浆果酸甜而得名“酸浆”，又因其宿萼形似灯笼且色泽鲜艳而得名“灯笼草”、“红姑娘”等别名。广泛分布于欧亚大陆，在中国常见于甘肃、四川、河南、湖北及东北等地。其果实可鲜食或制成果酱、沙拉，入药有清热解毒、止咳化痰的功效。此外，其宿存花萼具有独特观赏性，常用于园艺装饰，果皮中的天然色素还被应用于食品和纺织工业。
+
+[REDSTINGER_FAMILY]
+姜科
+[REDSTINGER_GENUS]
+茴香砂仁属
+[REDSTINGER_PEDIA]
+火炬姜——热带丛林的“瓷玫瑰”
+    多年生大型草本植物。
+    假茎丛生，高5米；叶片披针形长达80厘米；穗状花序（头状或卵形）具红色总苞，总花梗粗壮长0.8-1.5米；花苞片粉红色，花冠粉红至红色或白色，唇瓣深红镶黄边；果序头状，绿色或带红色，近球形，种子多数黑色。花果期5-10月。
+    花序形似燃烧的火炬，故得名“火炬姜”；其苞片瓷质光泽、层叠如玫瑰而别名“瓷玫瑰”。原产于东南亚热带地区（印尼、马来西亚、泰国南部），我国广东、福建、云南等地引种栽培作为观赏植物。其大型盆栽适宜装点广场、酒店大堂等空间，庭园群植可营造热带景观；切花在常规条件下可保鲜半月以上，是高端花艺的优选材料；东南亚地区将未开花蕾及嫩茎用作辛香料，是娘惹料理的重要调味料。 
+    花语：无缘的爱、永恒的热烈
+
+[MORNINGGLORY_FAMILY]
+旋花科
+[MORNINGGLORY_GENUS]
+番薯属
+[MORNINGGLORY_PEDIA]
+牵牛——清晨绽放的“喇叭花”
+    一年生缠绕草本。
+    茎密被毛；叶宽卵形，基部心形，3-5裂，两面均被毛；花腋生，漏斗状，蓝紫或紫红色；蒴果近球形，种子三棱形，被褐色绒毛。花果期6-10月。
+    因其种子的药效被类比为具“牵牛之力”而得名；因花朵清晨绽放、午前凋谢的特性别名“朝颜”；因花冠形似喇叭俗称“喇叭花”。原产于热带美洲，现广泛分布于全球热带及亚热带地区。在我国，除西北和东北部分省份外均有分布。除栽培供观赏外，种子入药名“丑牛子”，具有泻水利尿、逐痰杀虫的功效。
+    花语：爱情永固、虚幻的恋
+
+[CAULIPOWER_FAMILY]
+十字花科
+[CAULIPOWER_GENUS]
+芸薹属
+[CAULIPOWER_PEDIA]
+花椰菜——餐桌上的白色云朵
+    二年生草本。
+    株高60-90厘米；基生叶灰绿长圆形，茎生叶抱；顶生乳白色肉质头状体（由总花梗、花梗和未发育的花芽密集成）；成熟后形成总状花序，花淡黄色；长角果圆柱形，种子棕色。花期4月，果期5月。
+    因其花序形态而得名“花椰菜”，俗称“花菜”。其英文名“cauliflower”由拉丁文“caulis”（茎）与“floris”（花）组合而成，也表明了其食用部分的植物结构。原产于地中海东部地区，现广泛栽培于温带及亚热带。作为蔬菜，其富含维生素C、膳食纤维及硫苷类抗癌物质，而其紫色品种富含花青素具有抗氧化功效，拓展了其营养应用维度。
+
+[BLOOMINGHEARTS_FAMILY]
+罂粟科
+[BLOOMINGHEARTS_GENUS]
+荷包牡丹属
+[BLOOMINGHEARTS_PEDIA]
+荷包牡丹——“Bleeding Heart”
+    多年生草本植物。
+    株高30-60厘米，茎呈紫红色；叶片为二回三出复叶，背面覆白粉；总状花序呈拱形下垂，具5-15花，紫红或白色，基部心形；果实为细长蒴果，种子带有油质体，吸引蚂蚁搬运以传播后代。花期4-6月。果期在9-10月
+    因其叶似牡丹，花如荷包而得名。传说中玉女苦等充军未归的恋人，将绣制的荷包挂于牡丹枝上后化作了荷包牡丹。因其下垂的花序形似心脏，在西方国家被称为“Bleeding Heart”（滴血的心）。原产于中国北部、日本、朝鲜及西伯利亚地区，多生于海拔780-2800米的湿润山坡或林缘。19世纪传入欧洲后，现已培育出多种颜色的观赏品种。其可爱独特的花型及耐阴特性使其成为林下绿化的理想花卉。全草可入药，有镇痛、调经、解毒之效。
+    花语：爱的等待
+
+[MISSILETOE_FAMILY]
+桑寄生科
+[MISSILETOE_GENUS]
+槲寄生属
+[MISSILETOE_PEDIA]
+白果槲寄生——“爱与祝福”的圣诞饰物
+    常绿灌木。
+    株高约0.5米，茎枝圆柱状，多呈二歧或多歧分枝；叶片对生，厚革质，椭圆形至披针形，长倒卵形；雌雄异株，花序顶生或腋生，雄花聚伞状，雌花穗状；果实为球形浆果，白色。花期11-翌年3月，果期7-11月。
+    主要分布于欧洲南部、非洲北部及喜马拉雅山以西温带地区，常寄生于阔叶乔木上，如苹果树、杨树、椴树等。我国西藏和云南的山地阔叶林中分布其变种卵叶槲寄生（果黄色）。其成熟果实呈白色，与我国常见的橙红色果实的槲寄生（其常寄生于槲树而得名）形成对比，故得名“白果槲寄生”，因分布而别名“欧寄生”。该类植物会与宿主形成“偏利共栖关系”，虽会吸收宿主水分和养分，但一般不会致死。在欧美，槲寄生是圣诞传统装饰物，象征“爱与和平”，在槲寄生下接吻的情侣被认为会幸福终生。
+    花语：幸福与希望、坚忍不拔
+
+[MAYBEE_FAMILY]
+百合科
+[MAYBEE_GENUS]
+铃兰属
+[MAYBEE_PEDIA]
+铃兰——纯洁幸福的“山谷百合”
+    多年生草本植物。
+    株高18-30厘米；其根状茎细长匍匐，叶片通常2枚，椭圆形或卵状披针形，叶脉弧形；总状花序偏向一侧，着生6-10朵钟形白色小花，花被顶端6浅裂，散发淡雅芳香；浆果球形，红色，种子扁圆形。花期5-6月，果期7-9月。
+    广泛分布于北半球温带地区的林下阴湿环境。因其花朵形似垂挂的铃铛而得名，又因其生长环境与植株形态还有“山谷百合”、“君影草”等别称。植株矮小优雅，常作优良林下地被或盆栽观赏。花可提取高级香料铃兰浸膏，用于化妆品及香精调制。全草含强心苷类化合物（如铃兰毒苷），可用于治疗心力衰竭、利尿消肿。 在法国，5月1日“铃兰节”人们互赠此花，祈愿幸福永驻；婚礼中赠送新娘，寓意“幸福降临”。
+    花语：幸福归来、纯洁
+
+[HOTDATE_FAMILY]
+棕榈科
+[HOTDATE_GENUS]
+刺葵属
+[HOTDATE_PEDIA]
+海枣——沙漠的“生命之树”
+    常绿乔木状灌木。
+    高可达35米，茎干粗壮，表面覆盖宿存的菱形叶柄基部；羽状复叶长可达6米，羽片灰绿披针形，基部成退化为刺；锥花序生于叶间，佛焰苞肥大；花单性，雌雄异株，雄花白色，雌花近球形。果实长圆形，成熟时呈深橙黄色，种子扁尖。花期3-4月，果期9-10月。
+    因果实形似枣且经海上丝绸之路传入我国而得名。其别称“椰枣”源于果形特征，“伊拉克蜜枣”则因主产国得名。原产西亚北非干旱区，我国云南、广西等地有引种栽培。果实含糖量达70%，蛋白质和矿物质含量丰富，被誉为“沙漠面包”。此外，其花序汁液可制糖浆，叶纤维用于编织工艺品，树干木质坚硬可作为建筑材料。作为沙漠生态关键种，其深根系可稳定土壤，树冠茂密的树冠可防风固沙，形成独特的“绿洲效应”。在阿拉伯文明中，海枣被尊为“生命之树”，象征绿洲农业文明。
+
+[ALARMSAGITTIFOLIA_FAMILY]
+泽泻科
+[ALARMSAGITTIFOLIA_GENUS]
+慈姑属
+[ALARMSAGITTIFOLIA_PEDIA]
+慈姑——“水八仙”中的吉祥球茎
+    多年生水生或沼生草本植物。
+    匍匐茎末端膨大呈球茎（食用部分）；叶片形态多样，沉水叶细长，挺水叶则呈箭形；圆锥花序高大，花单性，雌花则集中在下部，雄花多轮，生于上部；瘦果倒卵形。花果期5-10月。
+    因其球茎繁殖特性，“一根岁生十二子，如慈姑之乳诸子”（《本草纲目》）而得名。我国长江以南各省区广泛栽培，日本、朝鲜亦有栽培。球茎富含淀粉、维生素及微量元素，在传统食补中常用于秋冬季润燥调理。在江南地区，慈菇被列入“水八仙”之一，常与咸菜、肉类搭配烹饪；岭南地区则因其球茎簇生形态赋予“添丁”吉祥寓意，成为婚宴必备菜肴。
+    花语：永恒的爱恋、永结同心
+
+[BEARBERRY_FAMILY]
+杜鹃花科
+[BEARBERRY_GENUS]
+熊果属
+[BEARBERRY_PEDIA]
+熊果——具“美白”功效的果实
+    常绿匍匐灌木。
+    株高5-30厘米；叶小厚实，倒卵形，叶面深绿光亮，冬季变紫铜色；花钟状簇生枝顶，白或粉色；果为红色浆果，内含1-5粒种子。花期3-6月，果熟后鲜红可存至初冬，为寒地动物提供冬季食物。
+    其拉丁属名“Arctostaphylos”源于希腊语“熊”（arctos）与“葡萄串”（staphyle），据传因熊类喜食其果实而得名，中文翻译为“熊果”。主要分布于北半球寒带及高山地区（如北美、北欧），是当地生态系统的关键建群种。其匍匐茎形成致密地被层，可固土防沙，在贫瘠生境中具卓越水土保持能力。次生代谢物熊果苷在植物体内发挥抗菌防御功能，又通过抑制酪氨酸酶活性调控色素代谢，现被广泛应用于皮肤美白。
+
+[DARTICHOKE_FAMILY]
+菊科
+[DARTICHOKE_GENUS]
+菜蓟属
+[DARTICHOKE_PEDIA]
+菜蓟——地中海的“蔬菜之皇”
+    多年生草本植物。
+    株高可达2米，茎粗壮被毛；基生叶莲座状，下部叶大，二回羽状全裂，背面灰白色被绒毛；头状花序顶生，紫红色小花，总苞多层覆瓦状；瘦果长椭圆，4棱，冠毛白色羽毛状。花果期6-7月。
+    其肉质花托和总苞片基部的肉质部分可做蔬菜食用，其花似“蓟”而得名“菜蓟”。原产于地中海沿岸，现广泛栽培于西欧、北美及亚洲部分地区。我国自20世纪引入后，上海、浙江、山东、江苏、广东等地均有种植。因其处理复杂且产量有限，中世纪欧洲贵族将其视为“蔬菜之皇”。此外，其叶片和花蕾富含抗氧化物质，提取物常用于护肝、降血脂及促进胆汁分泌的保健产品。
+
+[POKRA_FAMILY]
+锦葵科
+[POKRA_GENUS]
+秋葵属
+[POKRA_PEDIA]
+秋葵——咖啡黄葵
+    一年生草本。
+    株高1-2米，茎圆柱形疏生散刺；叶掌状3-7裂，边缘具粗齿，两面被硬毛；花单生叶腋，黄色，基部紫色；蒴果筒状尖塔形，种子球形。花果期5-10月。
+    因花瓣基部斑块接近咖啡色，某些地区会用其种子烘培制作咖啡而得名“咖啡黄葵”；其果实主要秋季采收而名“秋葵”；又因其果实形似辣椒和羊角，民间亦有“洋辣椒”和“羊角豆”的俗称。原产于非洲埃塞俄比亚，后经印度、中东传播至全球热带及亚热带地区。我国自20世纪初引进，现广泛种植于南方及华北部分地区。除嫩果作蔬菜外，种子含油15-20%及咖啡碱，可用于榨油或做提神饮品“秋葵咖啡”。
+
+[DENDROBIUMGUARD_FAMILY]
+兰科
+[DENDROBIUMGUARD_GENUS]
+石斛属
+[DENDROBIUMGUARD_PEDIA]
+铁皮石斛——岩壁上的“仙草” 
+    多年生附生草本植物。
+    高9-35厘米；其茎直立，呈圆柱形，不分枝，具多节；茎中部以上互生3-5枚叶，叶二列，纸质，长圆状披针形；总状花序（2-3多朵花），常从已落叶的老茎顶部发出，淡黄绿色；蒴果长圆形，内含细小如粉尘的种子。花期3-6月，果期7-8月。
+    因其花瓣质地厚且硬如铁而得名“铁皮”，“石斛”则因其常附生于石壁上，其茎形状与古代的量器“斛”相似。原产于中国南方（如云南、浙江、福建）及东南亚热带至亚热带地区，多附生于海拔1600米以上的湿润岩石或树干上。其茎部入药（干燥茎因常呈螺旋弹簧状被称为“铁皮枫斗”），是“中华九大仙草”之首，具有滋阴养胃、增强免疫等功效。此外，其花姿优雅也为园艺观赏佳品。
+
+[HEADBUTTERLETTUCE_FAMILY]
+菊科
+[HEADBUTTERLETTUCE_GENUS]
+莴苣属
+[HEADBUTTERLETTUCE_PEDIA]
+生菜——宜生食的“生财”
+    一年生或二年生草本。
+    茎短缩多汁，后期直立分枝；基生叶莲座状，叶色浅绿至紫红，叶长倒卵形，密集成甘蓝状叶球；头状花序，小花黄色；果实为瘦果。花果期在夏季，人工栽培多采叶用，花果罕见。
+    为莴苣的变种，因其叶片宜生食而得名。原产地中海沿岸，现广泛分布于全球温带地区，我国南北皆可种植。生菜富含维生素、膳食纤维和矿物质，脆嫩清爽，常用于沙拉、汉堡或涮煮。此外，粤语“生菜”谐音“生财”，华南地区春节常以盆栽生菜祈福。
+
+[BOOMFLOWER_FAMILY]
+桔梗科
+[BOOMFLOWER_GENUS]
+桔梗属
+[BOOMFLOWER_PEDIA]
+桔梗——坚贞纯洁的“铃当花”
+    多年生草本植物。
+    茎高20-120厘米；叶轮生至互生，卵形至披针形，叶缘具细锯齿，背面常覆白粉；花单朵顶生或聚成假总状或圆锥花序；花冠钟形，裂片5，蓝紫色；蒴果球状。花期7-9月，果期8-10月。
+    以“根结实而梗直”而得名（《本草纲目》），又因其花初开时如铃而别名“铃当花”。原生于东亚，广泛分布于中国河北、吉林、安徽等地，俄罗斯、日本、朝鲜亦有野生种群。朝鲜族将其鲜根腌制为特色咸菜；根入药具止咳祛痰等功效；其花玲珑可爱，是园林与花境设计的常用材料。因朝鲜族民间故事衍生的《桔梗谣》，在使其在东亚文化中被视为坚贞纯洁爱情的象征。
+    花语：永恒的爱、无望的爱
+
+[IMPATIENSSHOOTER_FAMILY]
+凤仙花科
+[IMPATIENSSHOOTER_GENUS]
+凤仙花属
+[IMPATIENSSHOOTER_PEDIA]
+凤仙花——急性子的“指甲花”
+    一年生草本植物。
+    株高60-100厘米；茎肉质粗壮；叶互生，披针形或，边缘具锐齿，基部有黑色腺体；花单生或2-3朵簇生于叶腋，白、粉或紫色，单或重瓣，唇瓣带弯距；蒴果纺锤形，种子黑褐色球形。花果期7-10月。
+    分布于亚洲热带至温带地区，自古我国各地庭园广泛栽培用于观赏。据民间传说：少女凤仙为救母历尽艰险寻得此花，治愈了母亲顽疾，后人以“凤仙”命名此花纪念其孝行。其花瓣可染指甲，俗称“指甲花”。其果实成熟时轻触即会爆裂弹射种子的特性，也被称为“急性子”，其英文名“Touch me not”即来源于此。其茎入药称“凤仙透骨草”，有祛风湿和活血止痛之效；种子入药有软坚和消积之效。
+    花语：别碰我、怀念过去、急性子
+
+[CLAWGLORIOSA_FAMILY]
+秋水仙科
+[CLAWGLORIOSA_GENUS]
+嘉兰属
+[CLAWGLORIOSA_PEDIA]
+嘉兰——令人惊叹的美丽“火焰”
+    多年生攀援草本植物。
+    具块状肉质根状茎，茎蔓纤细，长2-3米；叶互生或对生，披针形，具尾状卷须，用于攀附支撑物；花单生或呈伞房状排列；花被片6枚，红黄渐变，反折皱波状；蒴果长椭圆形或圆柱形。花期7-8月，果期9-10月。
+    嘉兰的拉丁属名“Gloriosa”意为“惊叹”与“美丽”，音译得名“嘉兰”。其花瓣翻卷如舞动的火焰，象征“荣光”，被津巴布韦奉为国花。分布于亚洲热带地区和非洲，中国主要分布在云南南部和海南省。嘉兰花型奇特，是高档切花和热带地区庭院及垂直绿化材料。全株有毒，尤以根状茎含秋水仙碱，可提取用于治疗癌症、痛风等疾病。
+    花语：荣光
+
+[MANGOSTEEN_FAMILY]
+藤黄科
+[MANGOSTEEN_GENUS]
+藤黄属
+[MANGOSTEEN_PEDIA]
+山竹——可做颜料的“果中之后”
+    常绿乔木。
+    树高可达20米，小枝具明显的纵稜条；叶厚革质椭圆形，侧脉40-50对，叶柄粗具横纹；雄花白色簇生顶端；雌花单或双生,雌蕊几无花柱,柱头5-6裂；果实球形，果皮紫红色，种子4-5枚，具白色假种皮（食用部分）。花期9-10月，果期11-12月。
+    原产于印度尼西亚的马鲁古群岛，现广泛栽培于马来西亚、印尼等亚洲热带地区；中国台湾、云南等地亦有引种。其中文名“莽吉柿”源自马来语名字“mangis”的音译，而俗称“山竹”则因其枝干具有明显的节和纵棱形似竹节。山竹富含维生素C、抗氧化剂和膳食纤维，具有清热降火、增强免疫力的健康功效，被誉为“果中皇后”。果皮可用于染色，其茎干渗出的藤黄树脂可用制作中国传统绘画颜料，即“藤黄色”。
+
+[HAPPYLEEK_FAMILY]
+石蒜科
+[HAPPYLEEK_GENUS]
+葱属
+[HAPPYLEEK_PEDIA]
+韭菜——生生不息的“国民蔬菜”
+    多年生草本植物。
+    具横生根状茎，鳞茎单生或簇生；叶片条形，扁平；花葶圆柱状，常具2条纵棱，下部被叶鞘；顶端着生伞形花序，半球形至近球形，小花白色；果实倒圆锥状球形。花果期为7-9月。
+    其名“韭”源自《说文解字》：“一种而久者”（别名也称“久菜”），指其多年生且可反复收割的特性。正因其此特性，韭菜在古代被当作“生生不息”的象征，为春季祭祀的常见供品，如《诗经·豳风·七月》中写道：“四之日其蚤，献羔祭韭”；《礼记》中提到“春荐韭”。原产亚洲东南部，现我国广泛栽培。叶、花葶和花均可作蔬菜食用，种子入药，具有温补肝肾、调节气血之效。
+
+
 [PLANT_PEDIA]
 Plant Encyclopedia
 
@@ -51807,6 +52492,30 @@ Large Blessing Pack
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
 Poseidon Trident Artifact Pack
+
+[MAT_ULTIMATE_TREASURE]
+Supreme Treasure Box
+
+[MAT_ULTIMATE_TREASURE_USE]
+Grants random rewards when used
+
+[MAT_ULTIMATE_TREASURE_GOT_WAY]
+Earned through draws in Poseidon's event
+
+[MAT_POSEIDON_TREASURE]
+Poseidon's Chest
+
+[MAT_POSEIDON_TREASURE_USE]
+Select and claim your reward
+
+[MAT_POSEIDON_TREASURE_GOT_WAY]
+Obtained in Poseidon's event
+
+[TREASURE_GOT_HEAD_ID_25713]
+Undercurrent
+
+[TREASURE_GOT_HEAD_DES_ID_25713]
+Selected reward from Poseidon's Chest
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
 Holographic Artifact Bundle
@@ -52860,13 +53569,13 @@ Is it confirmed that this plant casts your valuable vote?
 Conditions not fulfilled
 
 [LUCKBAG_ANNOUNCEMENT_TITLE]
-Children's Day Lucky Bag
+Summer Lucky Bag
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
 Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.  
 
 [LUCKBAG_TITLE]
-Children's Day Lucky Bag
+Summer Lucky Bag
 
 [LUCKBAG_SELECT_PLANT]
 Select Plants
@@ -52875,7 +53584,7 @@ Select Plants
 Reselect
 
 [LUCKBAG_SELECT_TITLE]
-Children's Day Lucky Bag Configuration
+Summer Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
 Fukuro Confirmation
@@ -54571,6 +55280,15 @@ Complete the hard level on Day 13 of the Heian Age
 [TASK_WORLDTASK_HEIAN3]
 Complete the boss battle to finish Heian Age
 
+[TASK_WORLDTASK_ATLANTIS1]
+Complete the easy level on Day 13 of the Underwater World
+
+[TASK_WORLDTASK_ATLANTIS2]
+Complete the hard level on Day 13 of the Underwater World
+
+[TASK_WORLDTASK_ATLANTIS3]
+Complete the boss battle to finish Underwater World
+
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
 Use specific plants to clear limited levels and get rare treasure chest rewards!
 
@@ -55292,7 +56010,7 @@ Obtain 3 Gene Sequences/Gene Essences this week
 Perform 5 "Plant Gene Modifications" this week
 
 [BATTLEORDER_TASK_NAME_3_1]
-Smash 10 vase (event open between June 13 to June 19)
+Smash 10 vase (July 18 to July 24)
 
 [BATTLEORDER_TASK_NAME_3_2]
 Get rewards 7 times in the "Mystery Store" (including free rewards) (The "Mystery Store" event will be open from October 6 to November 12)
@@ -55843,7 +56561,7 @@ The damage of the ionized anthurium large electric ball increases by {Param_1}%
 The probability of the guided thistle firing two bullets in succession increases {Param_1}% (effective after order 2)
 
 [BATTLE_ORDER_AUTUMN]
-Autumn Adventure
+Summer Festival
 
 [BATTLE_ORDER_WINTER]
 Winter Celebration
@@ -55855,7 +56573,7 @@ Winter Party
 Children's days
 
 [BATTLE_ORDER_SUMMER]
-Autumn Adventure
+Summer Festival
 
 [BATTLE_ORDER_TAB1]
 Levels
@@ -55870,7 +56588,7 @@ Tasks
 Flash Sale
 
 [BATTLE_ORDER_TAB5_AUTUMN]
-Autumn Adventure
+Summer Festival
 
 [BATTLE_ORDER_TAB5_WINTER]
 Lucky Winter
@@ -55882,7 +56600,7 @@ Winter Party
 Children's days
 
 [BATTLE_ORDER_TAB5_SUMMER]
-Cool Summer
+Summer Festival
 
 [BATTLE_ORDER_OBTAIN_EXP]
 Earn Experience
@@ -55995,7 +56713,7 @@ At least a {NUM} piece reward is available
 ENTER
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_AUTUMN]
-Golden Autumn Outing Event Description
+Summer Festivalg Event Description
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_WINTER]
 Winter Celebration Event Description
@@ -56007,7 +56725,7 @@ Winter Party Event Description
 Children's days Event Description
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_SUMMER]
-Cool Summer Event Description
+Summer Festival Event Description
 
 [BATTLE_ORDER_DESCRIPTION_AUTUMN]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -56020,7 +56738,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Pocket Paph^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -56033,7 +56751,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Pocket Paph^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -56045,7 +56763,7 @@ Cool Summer Event Description
    - 150 Diamonds.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Pocket Paph^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -56058,7 +56776,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Pocket Paph^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -56071,7 +56789,7 @@ Cool Summer Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Pocket Paph^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
  
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
@@ -56835,7 +57553,7 @@ Receive Experience Card
 Welcome back !!!!! 
 
 [GIFT_RETURN_DESCRIPTION]
-Evil Rules:
+Evil's Rules:
 
 1. Yay you are back finnaly we was waiting for you all this time :(
 
@@ -57805,6 +58523,156 @@ Magic bean stems cannot be planted in orbit
 [NARRATIVE_HEIAN_13_INTRO_3]
 {EXCITED:CRAZYDAVE} aha! Then wouldn't we just attack the front?
 
+[NARRATIVE_ATLANTIS_1_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Submarine mode activated...100%.
+
+[NARRATIVE_ATLANTIS_1_INTRO_2]
+{SAY:WINNIE}Dave, data shows we're heading to underwater ruins submerged 10,000 years ago.
+
+[NARRATIVE_ATLANTIS_1_INTRO_3]
+{EXCITED:CRAZYDAVE}Underwater ruins...lost tacos!
+
+[NARRATIVE_ATLANTIS_1_INTRO_4]
+{EXCITED:CRAZYDAVE}We've been looking for missing stuff, right?
+
+[NARRATIVE_ATLANTIS_1_INTRO_5]
+{SAY:WINNIE}Scans show underwater zombies are still actively searching for brains.
+
+[NARRATIVE_ATLANTIS_1_INTRO_6]
+{SAY:WINNIE} {PLAYER}, we must prepare!
+
+[NARRATIVE_ATLANTIS_1_INTRO_7]
+{EXCITED:CRAZYDAVE}I'll get the dehydrator. Waterlogged tacos taste awful.
+
+[NARRATIVE_ATLANTIS_2_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Warning! Multiple intruders detected in this sector!
+
+[NARRATIVE_ATLANTIS_2_INTRO_2]
+{EXCITED:CRAZYDAVE}So...does swimming really help lose weight?
+
+[NARRATIVE_ATLANTIS_3_INTRO_3]
+{SAY:WINNIE}Uh, let's not dwell on details...
+
+[NARRATIVE_ATLANTIS_3_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Something's outside the sub!
+
+[NARRATIVE_ATLANTIS_3_INTRO_2]
+{SAY:WINNIE}Detecting Mollusca, Cephalopoda, Coleoidea, Sepiida, Sepiidae organisms.
+
+[NARRATIVE_ATLANTIS_3_INTRO_3]
+{SAY:WINNIE}Their ink could be problematic. Exercise caution!
+
+[NARRATIVE_ATLANTIS_3_INTRO_4]
+{EXCITED:CRAZYDAVE}!!
+
+[NARRATIVE_ATLANTIS_3_INTRO_5]
+{EXCITED:CRAZYDAVE}Seafood-flavored tacos this time!
+
+[NARRATIVE_ATLANTIS_4_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Stars...are we in space?
+
+[NARRATIVE_ATLANTIS_4_INTRO_2]
+{SAY:WINNIE}Negative. That's not a star but a sea star.
+
+[NARRATIVE_ATLANTIS_4_INTRO_3]
+{SAY:WINNIE}Startled sea stars spin rapidly, accelerating water currents.
+
+[NARRATIVE_ATLANTIS_4_INTRO_4]
+{EXCITED:CRAZYDAVE}I'm getting seasick already.
+
+[NARRATIVE_ATLANTIS_5_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Jellyfish! I know these!
+
+[NARRATIVE_ATLANTIS_5_INTRO_2]
+{EXCITED:CRAZYDAVE}We can squeeze jellyfish jam from them!
+
+[NARRATIVE_ATLANTIS_5_INTRO_3]
+{SAY:WINNIE}Jellyfish are 95-98% water. Jam extraction seems improbable.
+
+[NARRATIVE_ATLANTIS_5_INTRO_4]
+{SAY:WINNIE}Startled jellyfish may carry away our plants.
+
+[NARRATIVE_ATLANTIS_5_INTRO_5]
+{EXCITED:CRAZYDAVE}Jellyfish jam!!
+
+[NARRATIVE_ATLANTIS_6_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Magic conch shell! Can it answer my questions?
+
+[NARRATIVE_ATLANTIS_6_INTRO_2]
+{SAY:WINNIE}Probability of getting answers: 0%. Probability of hearing your screams: 100%.
+
+[NARRATIVE_ATLANTIS_6_INTRO_3]
+{SAY:WINNIE}Zombies use hermit crabs as helmets for extra protection!
+
+[NARRATIVE_ATLANTIS_6_INTRO_4]
+{EXCITED:CRAZYDAVE}So THAT'S where coneheads came from!
+
+[NARRATIVE_ATLANTIS_7_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Alert! Current velocity increasing!
+
+[NARRATIVE_ATLANTIS_7_INTRO_2]
+{SAY:WINNIE} {PLAYER}, we need countermeasures.
+
+[NARRATIVE_ATLANTIS_7_INTRO_3]
+{EXCITED:CRAZYDAVE}Turn off the sensors!
+
+[NARRATIVE_ATLANTIS_8_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Every time I see pufferfish, I wanna poke them.
+
+[NARRATIVE_ATLANTIS_8_INTRO_2]
+{SAY:WINNIE}I strongly advise against that, {PLAYER}.
+
+[NARRATIVE_ATLANTIS_8_INTRO_3]
+{SAY:WINNIE}Deflated balloons fly chaotically. So do pufferfish.
+
+[NARRATIVE_ATLANTIS_8_INTRO_4]
+{EXCITED:CRAZYDAVE}I love balloons!
+
+[NARRATIVE_ATLANTIS_9_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Powerful entities detected.
+
+[NARRATIVE_ATLANTIS_9_INTRO_2]
+{EXCITED:CRAZYDAVE}I want jellyfish to carry me too!
+
+[NARRATIVE_ATLANTIS_9_INTRO_3]
+{SAY:WINNIE}Not advisable, {PLAYER}.
+
+[NARRATIVE_ATLANTIS_10_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Zombie attacks intensifying.
+
+[NARRATIVE_ATLANTIS_10_INTRO_2]
+{SAY:WINNIE}This likely means we're approaching our destination.
+
+[NARRATIVE_ATLANTIS_10_INTRO_3]
+{EXCITED:CRAZYDAVE}I miss dry land...
+
+[NARRATIVE_ATLANTIS_11_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What're those pointy-nosed fish?
+
+[NARRATIVE_ATLANTIS_11_INTRO_2]
+{SAY:WINNIE}Sailfish. Ocean's fastest swimmers.
+
+[NARRATIVE_ATLANTIS_11_INTRO_3]
+{SAY:WINNIE}Their speed may cause submarine collisions.
+
+[NARRATIVE_ATLANTIS_11_INTRO_4]
+{EXCITED:CRAZYDAVE}Did we get submarine insurance?
+
+[NARRATIVE_ATLANTIS_12_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Can this leaky pickle jar even withstand deep-sea pressure?
+
+[NARRATIVE_ATLANTIS_12_INTRO_2]
+{SAY:zombossicon}Too bad! I've already completed your foolish expedition!
+
+[NARRATIVE_ATLANTIS_12_INTRO_3]
+{SAY:zombossicon}My aquatic zombies will shatter your dreams! Your wreckage will become part of the ruins!
+
+[NARRATIVE_ATLANTIS_12_INTRO_4]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Living in ruins forever? Needs a sauna though.
+
+[NARRATIVE_ATLANTIS_12_INTRO_5]
+{SAY:WINNIE}We'll uncover the truth ourselves, Dave.
+
 [NEW_AVATAR_PACKAGE]
 Costume Backpack
 
@@ -58472,10 +59340,10 @@ Buy Theatre Luxury Pack
 Theatre Luxury Gifts Pack
 
 [STORE_CATEGORY_NAME_LUCKBAG_45]
-Purchase Children's Day Lucky Bag
+Purchase Summer Festival Lucky Bag
 
 [STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
-Children's Day Lucky Bag
+Summer Festival Lucky Bag
 
 [MAT_RICHMAN_COIN]
 Theatre Coins
@@ -59252,6 +60120,9 @@ Defeat {NUMBER} Roman Gargantuars.
 [DEFEAT_X_ROMANS]
 Defeat {NUMBER} Romans
 
+[DEFEAT_X_STONEZOMBIES]
+Defeat {NUMBER} zombies spawned from tombstones.
+
 [DEFEAT_X_ZOMBIES]
 Defeat {NUMBER} Zombies
 
@@ -59800,13 +60671,22 @@ Use pea energy to trigger a pea rain.
 After pea-like projectiles hit zombies and cause damage, the damage is used to charge the energy bar. Once the energy bar is full, all energy is consumed to summon a random number of pea rains across the field. The peas fall at random positions and deal fixed damage to a single zombie, ignoring any effects from attributes.
 
 [THEME_MIND_CONTROL_NAME]
-Mind Control
+Scrapyard
 
 [THEME_MIND_CONTROL_DESCRIPTION]
-Use pea energy to summon pea rain.
+Scrapyard
 
 [THEME_MIND_CONTROL_DESCRIPTION_DETAILS]
-After pea-like projectiles hit zombies and cause damage, the damage is used to charge the energy bar. Once the energy bar is full, all energy is consumed to summon a random number of pea rains across the field. The peas fall at random positions and deal fixed damage to a single zombie, ignoring any effects from attributes.
+When pea projectiles damage zombies, they charge an energy meter. When full, consumes all energy to summon random pea rains across the battlefield. Each pea deals fixed damage and ignores zombie traits.
+
+[THEME_DISABLE_BOOST_NAME]
+Back to Basics
+
+[THEME_DISABLE_BOOST_DESCRIPTION]
+Disables all external plant buffs - only base stats apply
+
+[THEME_DISABLE_BOOST_DESCRIPTION_DETAILS]
+Disables: 1. Genetic boosts 2. Accessory effects 3. Costume bonuses 4. Family Effect  5. Artifact passives
 
 [THEME_WATERING_NAME]
 Watering Can
@@ -62743,7 +63623,7 @@ Challenge
 Memories Journey - Day {NUM}
 
 [PVZ1_BOSS_LEVEL_MODE_DESC]
-The Intrepid is coming, defend your roof!
+Dr. Zomboss is attacking! Protect your brains!
 
 [PVZ1_MODE_TIME_ENERGY_BANK_TIPS_TITLE]
 Tips
@@ -62953,6 +63833,72 @@ Toxic in water
 
 [PVZ1MODE_TERRAINCHANGE]
 Event Platform
+
+[PVZ1MODE_DOCTORMAD]
+Dr. Zomboss
+
+[PVZ1MODE_DOCTORMAD_NORMAL_DESC]
+Command zombie hordes to eat all plants
+
+[PVZ1MODE_BASSIST]
+Bassist Arrival
+
+[PVZ1MODE_BASSIST_NORMAL_DESC]
+With a thunderous sound, the Bassist Zombie makes a grand entrance!
+
+[PVZ1MODE_MOULD]
+Moldy Ground
+
+[PVZ1MODE_MOULD_NORMAL_DESC]
+Cannot plant on mold-covered tiles
+
+[PVZ1MODE_BEJEWELED]
+Bejeweled
+
+[PVZ1MODE_BEJEWELED_NORMAL_DESC]
+Swap plants to make matching rows
+
+[PVZ1MODE_SMASH]
+Vasebreaker
+
+[PVZ1MODE_SMASH_NORMAL_DESC]
+Smash pots and eliminate all zombies
+
+[PVZ1MODE_ZOMBIE]
+I, Zombie
+
+[PVZ1MODE_ZOMBIE_NORMAL_DESC]
+Zombies vs Plants battle
+
+[PVZ1MODE_ZOMBOTANY]
+Zombotany
+
+[PVZ1MODE_ZOMBOTANY_NORMAL_DESC]
+Beware of plant-headed zombies from mysterious dimensions
+
+[PVZ1MODE_SEED_RAIN]
+Seed Rain
+
+[PVZ1MODE_SEED_RAIN_NORMAL_DESC]
+Plant cards periodically fall from the sky
+
+[PVZ1MODE_INDESTRUCTIBLE]
+Last Stand
+
+[PVZ1MODE_INDESTRUCTIBLE_NORMAL_DESC]
+Build your defenses to withstand zombie waves
+
+[PVZ1MODE_SKI]
+Ski Slope
+
+[PVZ1MODE_SKI_NORMAL_DESC]
+Watch out for walruses and skiing zombies on icy paths
+
+[PVZ1MODE_RUN]
+Zombie Sprint
+
+[PVZ1MODE_RUN_NORMAL_DESC]
+Dash! Dash! Zombies move faster
 
 [PVZ1MODE_PROTECTOR_NORMAL_DESC]
 The electromagnetic shield generator modified based on the electromagnetic shield zombies makes its debut! ( Pulsed yellow peach has a wonderful use)
@@ -65338,13 +66284,13 @@ Cold rainy night 3
 Elite Zombies Attack
 
 [S13_MEMORY_LEVEL_NAME_033]
-Golden Autumn Outing 1
+Summer Festival 1
 
 [S13_MEMORY_LEVEL_NAME_034]
-Golden Autumn Outing 2
+Summer Festival 2
 
 [S13_MEMORY_LEVEL_NAME_035]
-Golden Autumn Outing 3
+Summer Festival 3
 
 [S13_MEMORY_LEVEL_NAME_036]
 See Stars
@@ -65906,6 +66852,252 @@ Stargazing
 
 [S24_MEMORY_LEVEL_NAME_16]
 Elite Zombie Onslaught
+
+[S25_MEMORY_LEVEL_NAME_1]
+Void Form
+
+[S25_MEMORY_LEVEL_NAME_2]
+Elemental Core
+
+[S25_MEMORY_LEVEL_NAME_3]
+Energy Source
+
+[S25_MEMORY_LEVEL_NAME_4]
+Spirit of Wisdom
+
+[S25_MEMORY_LEVEL_NAME_5]
+Breath of Life
+
+[S25_MEMORY_LEVEL_NAME_6]
+Cycle Mirror
+
+[S25_MEMORY_LEVEL_NAME_7]
+Eternal Monument
+
+[S25_MEMORY_LEVEL_NAME_8]
+Sacred Light
+
+[S25_MEMORY_LEVEL_NAME_9]
+Young-style Rock
+
+[S25_MEMORY_LEVEL_NAME_10]
+Elegy Illusion
+
+[S25_MEMORY_LEVEL_NAME_11]
+Crushing Defeat
+
+[S25_MEMORY_LEVEL_NAME_12]
+Blazing Fury
+
+[S25_MEMORY_LEVEL_NAME_13]
+Warm Snow in Twilight
+
+[S25_MEMORY_LEVEL_NAME_14]
+Night Winds and Rain
+
+[S25_MEMORY_LEVEL_NAME_15]
+Never Enough Sleep
+
+[PLAYERS_TRIP_TO_MEMORY_S25_15]
+Welcome to Hard 15: Music-shroom has special uses here
+
+[S25_MEMORY_LEVEL_NAME_16]
+I Want to Be God Too
+
+[PLAYERS_TRIP_TO_MEMORY_S25_16]
+Welcome to Hard 16: Arcade Machine is key - protect it!
+
+[S25_MEMORY_LEVEL_NAME_001]
+Surrounded
+
+[S25_MEMORY_LEVEL_NAME_002]
+Small but Deadly
+
+[S25_MEMORY_LEVEL_NAME_003]
+Migration Plan
+
+[S25_MEMORY_LEVEL_NAME_004]
+Mech Exodus
+
+[S25_MEMORY_LEVEL_NAME_005]
+Forced Interruption
+
+[S25_MEMORY_LEVEL_NAME_006]
+Help in Need
+
+[S25_MEMORY_LEVEL_NAME_007]
+Roman Invasion
+
+[S25_MEMORY_LEVEL_NAME_008]
+Shrunk Lawn
+
+[S25_MEMORY_LEVEL_NAME_009]
+Frontline Battle
+
+[S25_MEMORY_LEVEL_NAME_010]
+Odd Grid
+
+[S25_MEMORY_LEVEL_NAME_011]
+Frozen Wasteland
+
+[S25_MEMORY_LEVEL_NAME_012]
+Slider Puzzle
+
+[S25_MEMORY_LEVEL_NAME_013]
+Animal Kingdom
+
+[S25_MEMORY_LEVEL_NAME_014]
+Resource War
+
+[S25_MEMORY_LEVEL_NAME_015]
+Childlike Wonder
+
+[S25_MEMORY_LEVEL_NAME_016]
+Summer Night Spectacle
+
+[S25_MEMORY_LEVEL_NAME_017]
+Cool Summer
+
+[S25_MEMORY_LEVEL_NAME_018]
+Pirate Attack
+
+[S25_MEMORY_LEVEL_NAME_019]
+Aquatic Combat
+
+[S25_MEMORY_LEVEL_NAME_020]
+Small Zombie Big Trouble
+
+[S25_MEMORY_LEVEL_NAME_021]
+Summer Night Begins
+
+[S25_MEMORY_LEVEL_NAME_022]
+Happy Rock
+
+[S25_MEMORY_LEVEL_NAME_023]
+Unbridled Passion
+
+[S25_MEMORY_LEVEL_NAME_024]
+Rampaging Beast
+
+[S25_MEMORY_LEVEL_NAME_025]
+Wobble Dance
+
+[S25_MEMORY_LEVEL_NAME_026]
+Watch the Squash
+
+[S25_MEMORY_LEVEL_NAME_027]
+Crushing Blow
+
+[S25_MEMORY_LEVEL_NAME_028]
+Lucky Break
+
+[S25_MEMORY_LEVEL_NAME_029]
+Violent Rock
+
+[S25_MEMORY_LEVEL_NAME_030]
+Plant Puzzle
+
+[S25_MEMORY_LEVEL_NAME_031]
+Precision Anti-Air
+
+[S25_MEMORY_LEVEL_NAME_032]
+Furious Hammer
+
+[S25_MEMORY_LEVEL_NAME_033]
+Stealth Mode
+
+[S25_MEMORY_LEVEL_NAME_034]
+Iron Defense
+
+[S25_MEMORY_LEVEL_NAME_035]
+Unstoppable Force
+
+[S25_MEMORY_LEVEL_NAME_036]
+Chicken-Rabbit Problem
+
+[S25_MEMORY_LEVEL_NAME_037]
+Summer Snowstorm
+
+[S25_MEMORY_LEVEL_NAME_038]
+Ice Age Returns
+
+[S25_MEMORY_LEVEL_NAME_039]
+Bitter North Wind
+
+[S25_MEMORY_LEVEL_NAME_040]
+Iron Cavalry Charge
+
+[S25_MEMORY_LEVEL_NAME_041]
+Real vs Fake Newspaper Zombie
+
+[S25_MEMORY_LEVEL_NAME_042]
+Wizard's Test
+
+[S25_MEMORY_LEVEL_NAME_043]
+Gentleman & Pianist
+
+[S25_MEMORY_LEVEL_NAME_044]
+Skull's Lantern
+
+[S25_MEMORY_LEVEL_NAME_045]
+Knight's Honor
+
+[S25_MEMORY_LEVEL_NAME_046]
+Breaking Bonds
+
+[S25_MEMORY_LEVEL_NAME_047]
+Music & Technology
+
+[S25_MEMORY_LEVEL_NAME_048]
+Execution Time
+
+[S25_MEMORY_LEVEL_NAME_049]
+Electric Flash
+
+[S25_MEMORY_LEVEL_NAME_050]
+Thunder Strike
+
+[S25_MEMORY_LEVEL_NAME_051]
+Lightning Assault
+
+[S25_MEMORY_LEVEL_NAME_052]
+Forked Lightning
+
+[S25_MEMORY_LEVEL_NAME_053]
+Creator's Power
+
+[S25_MEMORY_LEVEL_NAME_054]
+Art of Kowtowing
+
+[S25_MEMORY_LEVEL_NAME_055]
+Bursting Milky Goodness
+
+[S25_MEMORY_LEVEL_NAME_056]
+Gods Ascend
+
+[S25_MEMORY_LEVEL_NAME_057]
+Primordial War
+
+[S25_MEMORY_LEVEL_NAME_058]
+Pea Rain
+
+[S25_MEMORY_LEVEL_NAME_059]
+Portal
+
+[S25_MEMORY_LEVEL_NAME_060]
+Duo Returns
+
+[S25_MEMORY_LEVEL_NAME_061]
+Art of Grafting
+
+[S25_MEMORY_LEVEL_NAME_062]
+Ski Zone
+
+[S25_MEMORY_LEVEL_NAME_063]
+Blazing Speed
+
+[S25_MEMORY_LEVEL_NAME_064]
+Blizzard Fury
 
 [MEMORY_LEVEL_NAME_01]
 Day 1 of the Memories Tour
@@ -66739,7 +67931,7 @@ Ztalemate power
 Lightning before dawn
 
 [S8_MEMORY_LEVEL_NAME_NORMALBOSS]
-Zomboss is approaching!
+Dr. Zomboss Attack!
 
 [PVZ1_MODE_NO_CHALLENGE_CHOOSE]
 No challenge targets were selected
@@ -74830,7 +76022,7 @@ Two-player duel  is online in 2023!  The highest ever you've ever achieved
 Plant Cultivation Purchase Restriction Pack
 
 [INVITATION_MAIN_TIPS_INFO]
-1. This event will run from January 21, 2025 to March 16, 2025.
+1. This event will run from July 7, 2025 to September 2, 2025.
 2. After clearing the 6 day of the Mysterious Egypt, players can recruit others.
 3. During the event, you can earn tokens through recruitment tasks or daily sharing. These tokens can be used for recruitment draws to win great rewards. 
    After each event ends, the shop closes and excess tokens are recycled.
@@ -75579,6 +76771,12 @@ Clear 1 Creative Courtyard level daily
 [NFSLINKAGE_TASK_NAME_7]
 Clear 1 Memory Journey level daily
 
+[NFSLINKAGE_TASK_NAME_9]
+Daily Challenge: New Underwater World Level
+
+[NFSLINKAGE_TASK_NAME_10]
+Clear Underwater World World Level 12
+
 [PENNY_GIFT_SHORT_DESCRIPTION]
 Open Penny's Future Gift Box for great rewards
 
@@ -75621,49 +76819,59 @@ Penny Coins
 [MAT_PENNY_GIFT_TOKEN_USE]
 Used to purchase items in Penny's Future Gift Box
 
-[MAT_PENNY_GIFT_TOKEN_GOT_WAY]
-Obtained in the Penny's Future Gift Box by purchasing gold coin packs
+[MAT_PENNY_GIFT_TOKEN_GOT_WAY]  
+Obtained from Penny's Future Gift Box coin packs  
 
-[MAT_LUCKYCHEST]
-Lucky Chest Phase III
+[MAT_FUTURE_GIFT_TOKEN]  
+Penny Coins  
 
-[MAT_LUCKYCHEST_USE]
-Open the Lucky Chest to receive random rewards. Usable only from April 1, 2025, to May 26, 2025.
+[MAT_FUTURE_GIFT_TOKEN_USE]  
+Used to buy items in Penny's Future Gift Box  
 
-[MAT_LUCKYCHEST_GOT_WAY]
-Obtained through the Lucky Treasure event or weekly special offer package purchases.
+[MAT_FUTURE_GIFT_TOKEN_GOT_WAY]  
+From Penny's Future Gift Box coin packs  
 
-[NFS_LINKAGE_TAB1]
-New Year Sign-In
+[MAT_LUCKYCHEST]  
+Lucky Chest Season 4  
 
-[NFS_LINKAGE_TAB2]
-¥bao Tasks
+[MAT_LUCKYCHEST_USE]  
+Open for random rewards July 11 to September 3)  
 
-[NFS_LINKAGE_TAB3]
-Exchange Shop
+[MAT_LUCKYCHEST_GOT_WAY]  
+From Lucky Treasure event or weekly packs  
 
-[NFSLINKAGE_DESCRIPTION_TITLE]
-¥bao Battle Description
+[NFS_LINKAGE_TAB1]  
+Daily Login  
 
-[NFSLINKAGE_DESCRIPTION]
-Event Rules:
-1. Players can log in daily during the event period to receive valuable rewards. The sign-in rewards last for 14 days.
-2. ¥bao tasks are divided into daily tasks and event tasks. Daily tasks refresh at 0:00 daily and can be completed once per day.
-3. Event tasks have multiple stages. Only after completing one stage will the next stage be unlocked.
-4. Completing ¥bao tasks will reward ¥bao, which can be used to exchange items in the exchange shop.
-5. ¥bao can be exchanged in the shop only during the event period, so be sure to exchange in time!
+[NFS_LINKAGE_TAB2]  
+Conch Tasks  
 
-[MAT_NFSLINKAGE_INTEGRAL]
-¥bao
+[NFS_LINKAGE_TAB3]  
+Reward Shop  
 
-[NFSLINKAGE_TITLE]
-¥bao Battle
+[NFSLINKAGE_DESCRIPTION_TITLE]  
+Conch Battle Event Info  
 
-[MAT_NFSLINKAGE_TICKET]
-¥bao
+[NFSLINKAGE_DESCRIPTION]  
+Event Rules:  
+- Get 14 days of login rewards  
+- Complete daily/event tasks for Conches  
+- Use Conches in Reward Shop  
+- Event tasks unlock in stages  
+- Exchange before event ends!  
 
-[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-During the event, players can log in to receive 14 days of rewards. Complete tasks to earn ¥bao and exchange them for rewards in the shop!
+[MAT_NFSLINKAGE_INTEGRAL]  
+Conch  
+
+[NFSLINKAGE_TITLE]  
+Conch Battle  
+
+[MAT_NFSLINKAGE_TICKET]  
+Conch  
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]  
+Log in daily, earn Conches, exchange for rewards!
+
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -76082,11 +77290,11 @@ Diamond Pool Explanation:
 2. The highest prize is 10% of the total pool!
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
-Event Details:
 1. Purchase Packs to earn Farm Coins and win super prizes, including artifacts and large amounts of diamonds!
 2. You can draw up to 30 times for selectable rewards and up to 90 times for Super Corn.
 3. After the event ends, tokens will be converted into diamonds at a rate of 1:30 for Farm Coins and 1:500 for Super Corn.
 4. If both guarantees are triggered in one draw, the selectable reward will be prioritized. The next draw will definitely give you Super Corn.
+5. Selected rewards cannot be changed before being drawn. After obtaining, you can choose again.
 
 [AUTUMN_HARVEST_TITLE]
 Farm Battle
@@ -76248,10 +77456,10 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
 [NIGHTTHETOY_TIP]
-Battery Shop
+Starfish  Shop
 
 [NIGHTTHETOY_SHOP]
-Battery Shop
+Starfish  Shop
 
 [NIGHTTHETOY_TASK]
 Event Tasks
@@ -76272,19 +77480,19 @@ Guaranteed Grand Prize after {NUMS} more draws
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Battery Carnival
+Starfish Carnival
 
 [TOYNIGHT_TITLE]
-Battery Carnival
+Starfish Carnival
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Basic Battery Bundle
+Basic Starfish Bundle
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Battery Bundle
+Intermediate Starfish Bundle
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Advanced Battery Bundle
+Advanced Starfish Bundle
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Beginner Limited Edition Gift Pack
@@ -76296,16 +77504,16 @@ Royal Luxury Limited Edition Gift Pack
 Enter the event for the first time
 
 [TOYNIGHT_TASK_2]
-Obtain the Mangosteen Super Costume
+Obtain the Cactus Super Costume
 
 [TOYNIGHT_TASK_3]
 Obtain all outfit
 
 [MAT_TOY_PARTS]
-Critical Battery
+Critical Starfish
 
 [MAT_TOY_PARTS_USE]
-Exchange rewards in the Battery Shop during the High Voltage event
+Exchange rewards in the Starfish Shop during the High Voltage event
 
 [MAT_TOY_PARTS_GOT_WAY]
 Obtain through draws in the High Voltage event
@@ -76324,34 +77532,34 @@ High Voltage Expired Rewards
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Event Rules:
-1. Purchase packs to obtain High voltage battery. Spend coins to draw rewards. High voltage battery and Battery won't carry over - convert to diamonds post-event (10:1 and 1:1 ratios).
-2. Each draw may yield Battery or other rewards. Lucky players may directly win Mangosteen Super costume.
+1. Purchase packs to obtain High voltage Starfish. Spend coins to draw rewards. High voltage Starfish and Starfish won't carry over - convert to diamonds post-event (10:1 and 1:1 ratios).
+2. Each draw may yield Starfish or other rewards. Lucky players may directly win Mangosteen Super costume.
 3. After 20 unsuccessful draws, the next draw guarantees a prize from the premium pool.
-4. Duplicate Super costume auto-convert to 200 Battery.
+4. Duplicate Super costume auto-convert to 200 Starfish.
 
 Guaranteed Prize Pool:
 Mangosteen Super costume:   3.72%
-Battery*1300:    5.28%
-Battery*700:     12.55%
-Battery*500:     11.10%
+Starfish*1300:    5.28%
+Starfish*700:     12.55%
+Starfish*500:     11.10%
 Diamonds*1888:        32.17%
 Penny's Treasure*10:  35.18%
 
 Base Reward Probabilities:
 Mangosteen Super costume:   0.17%
-Battery*1300:    0.21%
-Battery*700:     0.43%
-Battery*500:     0.85%
-Battery*100:     6.09%
-Battery*50:      16.00%
-Battery*20:      12.00%
-Battery*10:      35.00%
+Starfish*1300:    0.21%
+Starfish*700:     0.43%
+Starfish*500:     0.85%
+Starfish*100:     6.09%
+Starfish*50:      16.00%
+Starfish*20:      12.00%
+Starfish*10:      35.00%
 Costume Coupon*500:   2.50%
 Costume Coupon*100:   9.75%
 Penny's Treasure*1:   17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, automatically converted to Critical Battery reward
+If already owned, automatically converted to Critical Starfish reward
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -76435,14 +77643,12 @@ Jingle Bells Description
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules:
-    1. All damage dealt to Gargantuar within time limit counts as clearance score.
+    1. All damage dealt to divers within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Flame, Electric, Physical), each with 3 stages. New stage every 2 days, new theme every 6 days.
-    4. Special mechanics for current themes:
-   - After dealing X number of flame/Electric/physical damage (respective to each theme), you can deal one massive damage hit.
-   - Gargantuars resist to all damage types EXCEPT the current theme's type.
+    3. Three themes unlock sequentially (Sprint Training, Dodge Training, Endurance Training), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00:00-10:00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
-    6. Ranking rewards auto-distribute after 10:00. On May 17th, extends to 24 hours (no challenges allowed).
+    6. Ranking rewards auto-distribute after 10:00. On July 29, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
 [GINGLEBELL_RANK]
@@ -76476,106 +77682,106 @@ Best Damage: {NUMBER}
 Deal as much damage as possible in 30 seconds
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-May Day Jingle
+Deep Sea Jingle
 
 [GINGLEBELL_TASKDESCRIPTION]
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Fire Training - Stage 1
+Sprint Training - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Fire Training - Stage 2
+Sprint Training - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Fire Training - Stage 3
+Sprint Training - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Electric Training - Stage 1
+Dodge Training - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Electric Training - Stage 2
+Dodge Training - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Electric Training - Stage 3
+Dodge Training - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Physical Training - Stage 1
+Endurance Training - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Physical Training - Stage 2
+Endurance Training - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Physical Training - Stage 3
+Endurance Training - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Fire Training - Stage 1
+Sprint Training - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Fire Training - Stage 2
+Sprint Training - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Fire Training - Stage 3
+Sprint Training - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Electric Training - Stage 1
+Dodge Training - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Electric Training - Stage 2
+Dodge Training - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Electric Training - Stage 3
+Dodge Training - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Physical Training - Stage 1
+Endurance Training - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Physical Training - Stage 2
+Endurance Training - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Physical Training - Stage 3
+Endurance Training - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Fire Training - Stage 1
+Sprint Training - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Fire Training - Stage 2
+Sprint Training - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Fire Training - Stage 3
+Sprint Training - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Electric Training - Stage 1
+Dodge Training - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Electric Training - Stage 2
+Dodge Training - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Electric Training - Stage 3
+Dodge Training - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Physical Training - Stage 1
+Endurance Training - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Physical Training - Stage 2
+Endurance Training - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Physical Training - Stage 3
+Endurance Training - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge: Deal max damage within 30 seconds!
 
-[SNOWMODERNSTAGE1_LEVEL_NAME]
-Fire Training - Level {LEVEL_NUMBER}
-
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-Electric Training - Level {LEVEL_NUMBER}
+Dodge Training - Level {LEVEL_NUMBER}
+
+[SNOWMODERNSTAGE1_LEVEL_NAME]
+Sprint Training - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Physical Training - Level {LEVEL_NUMBER}
+Endurance Training - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Children's Day Jingle Bells
+{PLAYER}'s Deep Sea Jingle Bells
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Lunisolar Honeysuckle Winter Outfit
@@ -76945,7 +78151,7 @@ Shop Countdown
 Players can earn coin by completing levels in the Uncharted mode and exchange them for various items in the shop.
 
 [NEWYEAR_PACK_TITLE]
-Celebration Bundle
+Summer Pack
 
 [NEWYEAR_PACK_TEN]
 10x Guaranteed:
@@ -76954,7 +78160,7 @@ Celebration Bundle
 Event Description
 
 [NEWYEARPACK_DESCRIPTION]
-Celebration Pack Purchase Instructions:
+Summer Pack Purchase Instructions:
 1. After purchasing the pack, you will definitely receive diamond rewards, with a probability to obtain a selectable costume box.
 2. There is a guarantee mechanism for the packs. If you purchase the same type of pack nine times without obtaining a costume box, the next purchase will guarantee a costume box.
 3. The purchase limit for packs refreshes daily, but the guarantee counter does not refresh and can be carried over.
@@ -77090,6 +78296,15 @@ Costume Selection
 [REDPACKETWIDGET_SELECT_DESCRIPTION]
 Choose one costume from the options below!
 
+[SEAGODTREASURE_SELECT_TITLE]
+Choose One Reward
+
+[SEAGODTREASURE_SELECT_DESCRIPTION]
+Select one reward from the options below!
+
+[ACTIVITY_SEAGODTREASURE_SHORT_DESCRIPTION]
+Get the Mega Gatling Pea full costume and other rare rewards!
+
 [NEW_YEAR_PACK_BUNDLE_LIMIT]
 Daily purchase limit: ^FF0000 {NUM} ^oldclr
 
@@ -77165,7 +78380,7 @@ Reward Preview:
 Top Lucky Player Award
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-Open the Celebration Bundle to get tons of diamonds and rare outfits
+Open Summer Packs to get loads of gems and rare costumes!
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Congratulations, you've been selected as today's luckiest player
@@ -77291,11 +78506,41 @@ Mystic Power
 [AVATARCOLLECTIONS_HEAD_DES_ID_25683]
 Charge! Evolve! Electrify!
 
+[AVATARCOLLECTIONS_THEME_TITLE13]
+Summer Party
+
+[AVATARCOLLECTIONS_THEME_DES13]
+Full throttle fun to rock your summer!
+
+[AVATARCOLLECTIONS_HEAD_ID_25715]
+Hologram
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25715]
+Vanishing strikes, untraceable moves
+
+[AVATARCOLLECTIONS_THEME_TITLE14]
+Ocean Mysteries
+
+[AVATARCOLLECTIONS_THEME_DES14]
+Azure waters hide swirling currents
+
+[AVATARCOLLECTIONS_HEAD_ID_25716]
+Ocean Mysteries
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25716]
+Azure waters hide swirling currents
+
 [AVATARCOLLECTIONS_NOT_EXIST]
 Not Owned
 
 [PLANTING_NOT_ON_SNOWMAN]
-Cannot be planted on a snowman
+Cannot plant on snowmen
+
+[PLANTING_NOT_IN_KELPGUARD]
+Cannot plant between kelp guards
+
+[PLANTING_KELPGUARD_ONLY_DEEPSEA]
+Kelp guards can only be planted at sean
 
 [HARVEST_BATTLE_HEAD_ID_25647]
 Winds Howl and Cranes Cry
@@ -77338,6 +78583,12 @@ High voltage
 
 [TOYS_HEAD_DES_ID_25700]
 Participate in the High voltage event to obtain
+
+[TOYS_HEAD_ID_25712]
+Deep Sea Shadow
+
+[TOYS_HEAD_DES_ID_25712]
+Obtained through the "Deep Sea Battle" event
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -77415,16 +78666,208 @@ Time acceleration
 [HARVEST_BATTLE_HEAD_ID_25699]
 Reach the pinnacle
 
+
+
+
 [HARVEST_BATTLE_HEAD_DES_ID_25699]
+Exchange for Super Corn during the Farm Battle event
+
+[HARVEST_BATTLE_HEAD_ID_25719]
+Arcane Sorcerer
+
+[HARVEST_BATTLE_HEAD_DES_ID_25719]
 Exchange for Super Corn during the Farm Battle event
 
 [TIANGONG_HEAD_ID_25712]
 DJ Aloe
+
+[TIANGONG_HEAD_DES_ID_25698]
+Exchange for drawns i, Lucky Chest event
+
+[TIANGONG_HEAD_ID_25720]
+Divine Nectar
+
+[TIANGONG_HEAD_DES_ID_25720]
+Exchange for drawns i, Lucky Chest event
+
+
+
+
+
+
+
+
 
 [PVP_ERROR_76030]
 Item cheating detected
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
 {NUM} seconds left to charge the next ZOMBOSS QIGONG CURE
+
+[POSEIDONTREASURE]
+Poseidon's Treasure
+
+[POSEIDONTREASURE_TAB1]
+Treasure Draw
+
+[POSEIDONTREASURE_TAB2]
+Special Packs
+
+[POSEIDONTREASURE_TAB3]
+Supreme Treasure
+
+[POSEIDONTREASURE_TAB4]
+Poseidon's Vault
+
+[POSEIDONTREASURE_TAB1_DESC]
+Guaranteed 1 Supreme Chest every 30 draws
+
+[POSEIDONTREASURE_TAB3_DESC]
+Open ^ffff00^{NUM}^oldclr^ more times to guarantee red reward
+
+[MAT_POSEIDON_TREASURE_TICKET]
+Poseidon Token
+
+[MAT_POSEIDON_TREASURE_TICKET_USE]
+Use to draw rewards in Poseidon's Treasure event
+
+[MAT_POSEIDON_TREASURE_TICKET_GOT_WAY]
+Obtained by purchasing packs in Poseidon's Treasure event
+
+[PRODUCT_POSEIDONTREASURE_6_SHORTDESC]
+Poseidon Starter Pack
+
+[PRODUCT_POSEIDONTREASURE_30_SHORTDESC]
+Poseidon Mid-tier Pack
+
+[PRODUCT_POSEIDONTREASURE_98_SHORTDESC]
+Poseidon Premium Pack
+
+[PRODUCT_POSEIDONTREASURE_328_SHORTDESC]
+Poseidon Deluxe Pack
+
+[POSEIDONTREASURE_EXPIRED]
+Expired Poseidon's Treasure rewards
+
+[POSEIDON_DESCRIPTION_1]
+Base Reward Rates:
+Supreme Chest:             0.55% Grand Prize
+Poseidon Chest:            0.75% Grand Prize
+Targeted Pieces ×1:        5.10%
+Targeted Pieces ×2:        2.33%
+Targeted Pieces ×10:       1.05%
+Diamonds ×150:             21.10%
+Diamonds ×288:             15.03%
+Diamonds ×888:             3.57%
+Space Cube ×1:             6.26%
+Space Cube ×2:             2.31%
+Space Cube ×5:             1.42%
+Space Cube ×10:            1.01%
+Coins ×88,888:             6.81%
+Coins ×166,666:            11.37%
+Red Ruby ×5,000:           12.42%
+Red Ruby ×10,000:          8.92%
+
+Supreme Chest Rates:
+Pea Commander:                  1.15% Grand Prize
+Advancement Book:               14.05%
+Universal Pieces ×10:           14.93%
+Poseidon Plant Pieces ×10:      23.22%
+Poseidon Plant Pieces ×20:      11.61%
+Poseidon Plant Pieces ×30:      7.74%
+Poseidon Plant Pieces ×40:      5.81%
+Diamonds ×1,888:                1.49%
+
+[POSEIDON_DESCRIPTION]  
+Event Rules:
+1. Purchase Poseidon packs to get Poseidon Tokens for treasure draws
+2. Every ¥100 spent on Poseidon packs grants 1 Poseidon Vault (select any reward)
+3. Poseidon Vault rewards: New animated avatar frames, Poseidon Plant costume, Match Flower Boxer costume, Mega Gatling Shards×10, Gourd Artifact, etc.
+4. Every 30 treasure draws grants 1 Supreme Treasure (random reward)
+5. Supreme Treasure may contain: Mega Gatling Full Costume, Poseidon Plant Shards×10, Universal Shards, Diamonds, or Advancement Books
+6. Guaranteed Mega Gatling Full Costume after 10 Supreme Treasure opens
+7. First single draw daily gets 34% discount. Unused tokens convert to diamonds (1:30). Unopened chests convert to diamonds (1:500) after event.
+
+[WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
+抹香鲸出没，请小心！
+
+[WARNING_SPERM_WHALE_BACKGROUND_DESC_2]
+抹香鲸更接近了！
+
+[PLANTING_NOT_ON_SWORDFISH]
+不能种植在剑鱼上
+
+[ZOMBIE_FAT_DIVE]
+Deep-Diving Zombie
+
+[ZOMBIE_FAT_DIVE_DESCRIPTION]
+同行的压力越来越大，都把僵尸吹成了气球。幸亏在新的环境里，深潜僵尸终于明白了僵尸潜水的真谛。该摘掉了嘛？
+
+[ZOMBIE_FAT_DIVE_DESCRIPTION_HEADER]
+受到非直射攻击会让背后的氧气罐破裂喷出氧气，快速带动深潜僵尸向前移动。
+
+[ZOMBIE_LANTERNFISH_RIDER]
+Swordfish Cavalry Zombie
+
+[ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION]
+剑鱼骑士僵尸的梦想是在海底开一场后院泳池派对，可是如何在海底再制造一个露天泳池成了大麻烦。
+
+[ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION_HEADER]
+碰到潜艇后能引爆身上的炸弹，对潜艇造成大量伤害。
+
+[ZOMBIE_ATLANTIS_BASIC]
+Ocean Zombie
+
+[ZOMBIE_ATLANTIS_BASIC_DESCRIPTION]
+海洋普通僵尸一肚子坏水，在他每次开口喊“脑子~”的时候灌进去的。
+
+[ZOMBIE_ATLANTIS_BASIC_DESCRIPTION_HEADER]
+海底世界的普通僵尸
+
+[ZOMBIE_ATLANTIS_FLAG]
+Ocean Flag Zombie
+
+[ZOMBIE_ATLANTIS_FLAG_DESCRIPTION]
+海底僵尸们相信洋流的方向代表脑子的方向，所以海洋旗子僵尸每周五早晨都会被升起来用来测定洋流，每周日晚上被收回来。
+
+[ZOMBIE_ATLANTIS_FLAG_DESCRIPTION_HEADER]
+标志着一大“波”身缠海带的僵尸来了。
+
+[ZOMBIE_ATLANTIS_ARMOR1]
+Ocean Conehead Zombie
+
+[ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION]
+上浮下潜和飞来飞去又有什么差别呢？那海洋中路障的存在又有什么意义呢？或许这是空间哲学家和海鲜艺术家的共同杰作。
+
+[ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION_HEADER]
+他的海底路障桶让他的硬度比普通海洋僵尸强壮两倍
+
+[ZOMBIE_ATLANTIS_ARMOR2]
+Ocean Buckethead Zombie
+
+[ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION]
+为什么铁桶没有随着浮力飘走？为什么木头没有被水泡烂？问出这样问题的僵尸脑子一定进水了。哪里有脑子？
+
+[ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
+头上的铁桶提供了极大的保护使他免受伤害
+
+[ZOMBIE_ATLANTIS_gargantuar]
+Relic Gargantuar
+
+[ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION]
+传说是高耸的巨人拆毁了石柱引发了大洪水，导致了美好王国被淹没。还有传说海底针对特定群体有实惠的飞行体验服务。遗迹巨人僵尸会告诉你哪个传说才是真的。
+
+[ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
+砸扁一切植物，还会投掷小鬼。
+
+[ZOMBIE_ATLANTIS_imp]
+Relic Imp
+
+
+[ZOMBIE_ATLANTIS_imp_DESCRIPTION]
+美好的理想总是从最微小的地方开始病变的。当这些看似微不足道的东西越来越多，理想终将沉没。遗迹小鬼僵尸最喜欢这套理论了。
+
+[ZOMBIE_ATLANTIS_imp_DESCRIPTION_HEADER]
+能被投掷出去越过你的防护罩，直接登陆潜水艇。
 
 [PVZ2_CHINESE_END]
