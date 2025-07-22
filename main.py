@@ -3,8 +3,8 @@ import base64
 import zlib
 import struct
 import sys
-import json
 import os
+import json
 import hashlib
 
 
@@ -20,7 +20,7 @@ def decode(data: bytes):
     return step3
 
 def encode(data: bytes):
-    step1 =  struct.pack("<I", magic) + struct.pack("<I", len(data)) + zlib.compress(data)
+    step1 = struct.pack("<I", magic) + struct.pack("<I", len(data)) + zlib.compress(data)
     step2 = tool.encrypt(step1)
     step3 = base64.b64encode(b"\x10\0" + step2)
     return step3
@@ -28,16 +28,14 @@ def encode(data: bytes):
 
 def process_translation(input_file, output_dir):
     # Reading input file
-    with open(input_file, "rb") as f:
-        translation = f.read()
+    with open(input_file, "r", encoding="utf8") as f:
+        non_bom = f.read()
+        translation_utf8 = non_bom.encode("utf8")
+        translation_utf8_bom = non_bom.encode("utf-8-sig")
 
-    # Generating pvz2_l.txt
-    pvz2_content = encode(translation)
-    with open(os.path.join(output_dir, "pvz2_l.txt"), "wb") as f:
-        f.write(pvz2_content)
 
     # Generating content to file_lists.txt
-    h = hashlib.md5(translation).hexdigest()
+    h = hashlib.md5(translation_utf8).hexdigest()
     d = {
         "File": {
             "Name": "pvz2_l.txt",
@@ -46,9 +44,14 @@ def process_translation(input_file, output_dir):
     }
 
     # Generating file_list.txt
-    file_list_content = encode(json.dumps(d).encode())
+    file_list_content = encode(json.dumps(d).encode(encoding="utf-8-sig"))
     with open(os.path.join(output_dir, "file_list.txt"), "wb") as f:
         f.write(file_list_content)
+
+    # Generating pvz2_l.txt
+    pvz2_content = encode(translation_utf8_bom)
+    with open(os.path.join(output_dir, "pvz2_l.txt"), "wb") as f:
+        f.write(pvz2_content)
 
 
 if __name__ == '__main__':
