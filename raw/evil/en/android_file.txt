@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version      : Text-based (v3.7.6 server 1)
-Current Version  : 1.11.0 (pre-release)
+File Version      : Text-based (v3.7.9 server 1)
+Current Version  : 1.12.0 (pre-release)
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
@@ -32,7 +32,7 @@ Mod             : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaKY
    `.             .'       \      /      |__| |   |           \\    /     / /  
      `''-...... -'          '----'            '---'            `'--'     / /   
                                                                        .' /    
-                                                                      (_.'     
+                                                                      (_.'   
 
 
 
@@ -52,53 +52,63 @@ Plants: 153/277 (35 broken wiki)
 Click the "12" in top right for ChangeLog
 
 [HEALTH_NOTICE_CONTENT_4]
-translate by evilhack28 version from July 10 v1.11.0 (pre-release)
+translate by evilhack28 version from August 1 v1.12.0 (pre-release)
 
 [AGE_TIP]
 CREDIT
 
 [AGE_TIP_CONTENT
-======1.11.0======
-Added 3.7.6 text
+======1.12.0======
+Added 3.7.9 text
 
 
 
 [EVIL_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_4]
 ^ff5e4d Have a gooooooooooooood day
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_6]
 ^ff5e4d if you need help conact me on discord !
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 [EVIL_TIPS_8]
 ^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
-^000000 ~~ Made by EvilHack28 Last update July 10 (1.11.0) ~~
+^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
 
 
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_4]
+Mulberry Bomber Lava Super Outfit
 
+[NEW_AVATAR_DESCRIPTION_MULBERRY_4]
+Attack speed increased by 30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_1]
+Rhubarb Christmas Tree Costume
+
+[NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_1]
+Sun cost reduced by 50
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FLAMELADY_1]
 Flame Queen Palm-Leaf Fan Skin
@@ -106,7 +116,23 @@ Flame Queen Palm-Leaf Fan Skin
 [NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
 Sun Cost -25
 
+[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_2]
+Nuwa Snake Tail Grass Floral Crown Outfit
 
+[NEW_AVATAR_DESCRIPTION_EYWA_2]
+Increases Plant Child's attack speed by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_2]
+Electric Peashooter Headphones Outfit
+
+[NEW_AVATAR_DESCRIPTION_ELECTRICPEASHOOTER_2]
+Lightning damage increased by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_2]
+Homing Thistle Cake Costume
+
+[NEW_AVATAR_DESCRIPTION_HOMINGTHISTLE_2]
+Increases attack power by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_4]
 Jinyiwei Pea 
@@ -118,7 +144,7 @@ Reduces sun cost by 20 point
 Sinan Magnet-shroom
 
 [NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
-Reduces cooldown by 1s  
+Reduces cooldown by 1s
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
 Gauze Pretty Plum
@@ -2222,6 +2248,12 @@ Bounce Champion
 [LEVEL_EDITOR_HEAD_DES_ID_25717]
 Aim for new heights!
 
+[LEVEL_EDITOR_HEAD_ID_25722]
+Thoughtful Steward
+
+[LEVEL_EDITOR_HEAD_DES_ID_25722]
+At your service
+
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Children's Mangosteen
 
@@ -2422,7 +2454,13 @@ During the Celebration Gift event, reach the cumulative recharge progress in the
 Arms Master
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25713]
-During the Summer Gift event, reach the cumulative recharge progress in the event to receive.
+Claim by reaching cumulative recharge milestones during the Summer Gift event
+
+[NEWYEAR_GIFT_HEAD_ID_25724]
+Electro-Mechanical Trend
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25724]
+Claim by reaching cumulative recharge milestones during the Summer Gift event
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev ! 
@@ -5880,7 +5918,7 @@ The Witch Zombie is definitely the main character of Fairytale Forest, because s
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION]
 {KEYWORD}Special: {STAT} Can turn plants into frogs!!
-{KEYWORD}Weakness: {STAT} Has no extra defensive capabilities!                                                       
+{KEYWORD}Weakness: {STAT} Has no extra defensive capabilities!                                                     
 
 {FLAVOR}Turns plants into frogs, which can jump off the battlefield.
 
@@ -12102,7 +12140,7 @@ Lily of Fairy's
 Lily heart letters
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_2]
-Increases the trigger probability of level 2, 3, and 5 by 10%  
+Increases the trigger probability of level 2, 3, and 5 by 10%
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_1]
 Plant attack increased by 10%
@@ -16148,7 +16186,7 @@ This plant does not have an plants food effect
 has a {Param_1}% chance to double the number of darts fired
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
-Heath Seeker Costume  
+Heath Seeker Costume
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER]
 Reduces planting cooldown by 20%
@@ -19506,10 +19544,10 @@ Gramophone Datura releases a 5x5 wave that deals huge damage and stun zombies.
 5x5 wave now launches zombies in the air.
 
 [STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
-Gramophone Datura Costume  
+Gramophone Datura Costume
 
 [HEAVENDATURA_AVATAR_NAME]
-Gramophone Datura Costume  
+Gramophone Datura Costume
 
 [STORE_PRODUCT_AVATAR_HEAVENDATURA]
 5x5 wave now launches zombies in the air.
@@ -19834,13 +19872,13 @@ Frost Rambutan
 {FLAVOR}Frost Rambutan likes to play in the snow, so he moved to the north solely for this purpose
 
 [WINTERRAMBUTAN_DESCRIPTION_HEADER]
-Spits out snowballs to attack, with a chance of freezing the attacked zombie and directly breaking the ice through impact.
+Spits snowballs, shattering frozen zombies.
 
 [WINTERRAMBUTAN_TOOLTIP]
-Spits out snowballs to attack, with a chance of freezing the attacked zombie and directly breaking the ice through impact.
+Spits snowballs, shattering frozen zombies.
 
 [WINTERRAMBUTAN_PRODUCT_SHORT_DESC]
-Spits out snowballs to attack, with a chance of freezing the attacked zombie and directly breaking the ice through impact.
+Spits snowballs, shattering frozen zombies.
 
 [WINTERRAMBUTAN_SKILL_LEVEL1]
 Powerful Frost
@@ -20375,13 +20413,13 @@ Bud'uh Boom
 {FLAVOR}Bud'uh Boom's buttery obsession always had him on a hair trigger, but when Zomboss served up "You-can't-believe-it's-not-butter!" - it was poppin' pandemonium on the lawn! Now, he's ready to butter up zombies and explode with boiling, buttery, BOOM!
 
 [BUDUHBOOM_DESCRIPTION_HEADER]
-Butter explosion affects 3×3 area, dealing damage and immobilizing targets. Can solidify Slime Zombies to prevent splitting.
+Explodes butter and covers the surrounding zombies
 
 [BUDUHBOOM_TOOLTIP]
-Butter explosion affects 3×3 area, dealing damage and immobilizing targets. Can solidify Slime Zombies to prevent splitting.
+Explodes butter and covers the surrounding zombies
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]
-Butter explosion affects 3×3 area, dealing damage and immobilizing targets. Can solidify Slime Zombies to prevent splitting.
+Explodes butter and covers the surrounding zombies
 
 [BUDUHBOOM_SKILL_LEVEL1]
 More Butter
@@ -20779,7 +20817,7 @@ Oxygen Algae Vampire
 [AQUAWEED_SUPERSKILL]
 海洋霸主
 
-[AQUAWEED-SUPERSKILL_DES]
+[AQUAWEED_SUPERSKILL_DES]
 每次召唤都有几率召唤特殊的小鲨鱼（比如外观为红色的小鲨鱼），它会直接吃掉僵尸
 
 [STORE_PRODUCT_AVATAR_AQUAWEED]
@@ -21688,6 +21726,12 @@ Please plant the Armor Flame Assembler on an empty space with 2 grids.
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME_ON_VINE]
 The Armor Flame Assembler cannot be planted on vines.
+
+[ADVICE_AQUARIUM_COIN_NOT_ENOUGH]
+You need more coins!
+
+[ADVICE_AQUARIUM_MAX_BRAIN]
+Brain limit reached!
 
 [NARRATIVE_ACTIVITY_LEVELS_INTRO_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Huh? Just went through a tough battle...
@@ -22810,6 +22854,13 @@ Reward for players participating in the June Adventure Event (2025).
 Congratulations! For being a Grandmaster!!!!
 Season 33
 
+[RANK_AVATAR_CONTENT_TITLE_61046]
+Ocean Depths
+
+[RANK_AVATAR_CONTENT_CONTENT_61046]
+Congratulations! For being a Grandmaster!!!!
+Season 34
+
 [RANK_AVATAR_CONTENT_TITLE_61038]
 Merry Christmas
 
@@ -23005,6 +23056,9 @@ Qigong Master
 [rank_avatar_diy_48]
 20,000 Leagues Under the Sea
 
+[rank_avatar_diy_49]
+Ocean Depths
+
 [rank_avatar_diy_100]
 Youthful Vitality
 
@@ -23079,6 +23133,52 @@ Gate of Sky City
 
 [SKYCITY_LEVEL_NAME]
 Sky City - Day {LEVEL_NUMBER}
+
+[ATLANTIS_AQUARIUM]
+Zombie Aquarium
+
+[ATLANTIS_AQUARIUM_DESCRIPTION]
+Feed zombies to earn coins. Purchase 3 trophies to win.
+
+[AQUARIUM_MINIGAME_INSTRUCTIONS]
+Zombie Aquarium Info
+
+[AQUARIUM_MINIGAME_INSTRUCTIONS_CONTENT]
+Feeding Zombies:
+- Tap screen to spawn a cake
+- Cake sinks slowly and can be eaten by zombies
+- Normal zombies level up after eating certain cakes
+- Upgraded zombies periodically produce coins
+
+Collecting Coins:
+- Tap items produced by zombies to collect
+- Item:
+  Silver Coin: 20
+  Gold Coin:   50
+  Shell:       60
+  Diamond:     300
+  Pearl:       400
+
+Defense:
+- Tap fish to damage them
+
+Shop:
+- Spend coins to buy items
+
+Win Condition:
+- Purchase 3 Trophies to win
+
+Lose Condition:
+- Game over if no zombies remain
+
+Items:
+1. Brain Quality: Zombies need (5/3/2) brains to evolve
+2. Brain Capacity: +1 max brains on lawn
+3. Attack Boost: Increased damage against fish
+4. New Zombie: Unlock next zombie slot
+5. Sushi: Spawn one sushi
+6. Trophy: Victory item (need 3)
+
 
 [ENTER_UNIQUE_PLAYER_NAME]
 The name you entered is already being used.  Please enter a unique player name.
@@ -25701,10 +25801,10 @@ Survive a massive attack in the Far Future
 Survive a massive attack in the Dark Ages
 
 [STARCHALLENGE_DARK_FINALE_NAME]
-"Final" Day  
+"Final" Day
 
 [STARCHALLENGE_RENAI_FINALE]
-Survive after a massive zombie attack in the Renaissance Age  
+Survive after a massive zombie attack in the Renaissance Age
 
 [STARCHALLENGE_RENAI_FINALE_NAME]
 "Final" Day 
@@ -26781,6 +26881,9 @@ Foggy!
 
 [WARNING_TIDE_WAVE_TIP]
 Tide wave approaching!
+
+[WARNING_FISH_WAVE_TIP]
+Enemies are approaching!
 
 [WARNING_BLACK_HOLE_TIP]
 Black hole is going to suck plants!
@@ -36897,37 +37000,37 @@ Try luck
 {TIRED:winnie}Perhaps he really is researching something terrible, we need to be careful.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, madman, do you think your plants can halt the wheels of fate?  
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, madman, do you think your plants can halt the wheels of fate?
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}I shall transform your garden into a domain of zombies.  
+{SAY:zombossicon}I shall transform your garden into a domain of zombies.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Before that, let us begin a grand performance!  
+{SAY:zombossicon}Before that, let us begin a grand performance!
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn't understand a word.  
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}I didn't understand a word.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_5]
-{EXCITED:winnie}He said he's going to take you down.  
+{EXCITED:winnie}He said he's going to take you down.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_6]
-{EXCITED:crazydave}Maybe he has tacos with him.  
+{EXCITED:crazydave}Maybe he has tacos with him.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Alas, fate! Fate!  
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Alas, fate! Fate!
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_2]
-{SAY:zombossicon}All my efforts were but a fleeting meteor across the sky.  
+{SAY:zombossicon}All my efforts were but a fleeting meteor across the sky.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_3]
-{SAY:zombossicon}You revel in temporary joys, but know this: I shall return like a bolt of lightning!  
+{SAY:zombossicon}You revel in temporary joys, but know this: I shall return like a bolt of lightning!
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn't understand a thing.  
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}I still didn't understand a thing.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
-{TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic failure.  
+{TIRED:winnie}Perhaps this is what they call a "Shakespearean" poetic failure.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Gurrreetings! Dr. Zomboss have prehistoric question for pitiful plant friends. 
@@ -37460,6 +37563,9 @@ Your airship has crashed!
 
 [SUBMARINE_CRASH_LOSS]
 Your submarine has sunk!
+
+[AQUARIUM_LOSS]
+All your zombies have died!
 
 [AIRSHIP_NEED_RESET_TIP]
 The spacecraft is about to crash, now only ^00e46e {GEM_COUNT} diamonds ^oldclr are needed to restore the durability of the spacecraft?
@@ -38917,7 +39023,7 @@ Made by evil :)
 Fun Race Challenge Instructions
 
 [MINIGAME_RULE_TXT]
-1. The fun competition will be open from June 17, to  June 30. A new mini-game will be available each day.
+1. The fun competition will be open from August 13, to  August 26. A new mini-game will be available each day.
 
 2. During the event, players have no limit on the number of daily challenges. Players will earn points and enhancement energy upon successfully completing mini-game levels.
 
@@ -40475,19 +40581,19 @@ Small red envelope
 Big red envelope
 
 [MAT_NUTRIENT_0]
-5th level White potion  
+5th level White potion
 
 [MAT_NUTRIENT_1]
-5th level Green potion  
+5th level Green potion
 
 [MAT_NUTRIENT_2]
-5th level Blue potion  
+5th level Blue potion
 
 [MAT_NUTRIENT_3]
-5th level Purple potion  
+5th level Purple potion
 
 [MAT_NUTRIENT_4]
-5th level Orange potion  
+5th level Orange potion
 
 [NORMAL_LOGIN_CHEST]
 Normal chest
@@ -44023,16 +44129,16 @@ Arena
 Demon
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]  
-Hint  
+Hint
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT]  
-This artifact can be obtained for free in Memory Lane.  
+This artifact can be obtained for free in Memory Lane.
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]  
-This artifact can be won in the limited-time Dragon Vault event.  
+This artifact can be won in the limited-time Dragon Vault event.
 
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]  
-This artifact can be won in the limited-time Rare Treasure Chest event.  
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
+This artifact can be obtained through the limited-time Treasure Hunt event.
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT4]  
 This artifact can be won in the limited-time Wishing Pool event.
@@ -48888,13 +48994,13 @@ Botanical
 Master of Botany
 
 [PENNYCLASS_THIRD]
-Plant Doctor  
+Plant Doctor
 
 [PENNYCLASS_FOURTH]
-Plant Master  
+Plant Master
 
 [USERINFO_1]
-Please fill in the information so that we can notify you promptly in case of winning. (^FF0000 *^oldclrr marks required fields)  
+Please fill in the information so that we can notify you promptly in case of winning. (^FF0000 *^oldclrr marks required fields)
 
 [USERINFO_2]
 We respect and protect your information, using it only to improve services.
@@ -49274,6 +49380,9 @@ Current Overload
 [PLANT_FAMILY_NAME_50050]
 From the Abyss
 
+[PLANT_FAMILY_NAME_50051]
+Brave the Winds and Tides
+
 [PLANT_FAMILT_BOOST_TITLE]
 Plant Family Effect:
 
@@ -49410,52 +49519,52 @@ Quick Fusion will automatically combine overflow fragments; manual ratio adjustm
 Do not remind me again today
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What's this? A vortex I've never seen before?  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} What's this? A vortex I've never seen before?
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows this is a new vortex black hole caused by chaotic temporal fluctuations in the spacetime channel.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows this is a new vortex black hole caused by chaotic temporal fluctuations in the spacetime channel.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_3]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} A black hole? Plants always need to dig a hole in the soil to take root and sprout.  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} A black hole? Plants always need to dig a hole in the soil to take root and sprout.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} You're not wrong, Dave, but according to the data, this isn't connecting to a giant plant-it's leading to a new universe.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} You're not wrong, Dave, but according to the data, this isn't connecting to a giant plant-it's leading to a new universe.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_5]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We're being sucked in!  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Uh-oh, the black hole is releasing a strong gravitational pull! We're being sucked in!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_6]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave} New-universe-flavored tacos! Here I come!  
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} New-universe-flavored tacos! Here I come!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_1]
-{NPC_ENTER:no42zombossicon} Let's see what kind of chaos this disturbance has brought me!  
+{NPC_ENTER:no42zombossicon} Let's see what kind of chaos this disturbance has brought me!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_2]
-{NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.  
+{NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum-I won't let it slide!  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum-I won't let it slide!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]
-{NPC_ENTER:no42zombossicon} It seems this disruption hasn't given you any decent help. You should take better care of your face!  
+{NPC_ENTER:no42zombossicon} It seems this disruption hasn't given you any decent help. You should take better care of your face!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_5]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It's because you stole the wig! You've destabilized the parallel worlds! I will catch you!  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} It's because you stole the wig! You've destabilized the parallel worlds! I will catch you!
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows... Universe No. 42 has a 42% similarity with our universe.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data shows... Universe No. 42 has a 42% similarity with our universe.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here may look the same but have surprising differences.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} The plants and zombies here may look the same but have surprising differences.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_3]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who's this talking car?  
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Who's this talking car?
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Scanning... User identified: Tough Guy Dave, registration complete.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Scanning... User identified: Tough Guy Dave, registration complete.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_5]
-{NPC_ENTER:winnie}{PLAYFUL:winnie} Data indicates that Tough Guy Dave from Universe No. 42 has a 42% thought synchronization with Crazy Dave.  
+{NPC_ENTER:winnie}{PLAYFUL:winnie} Data indicates that Tough Guy Dave from Universe No. 42 has a 42% thought synchronization with Crazy Dave.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_6]
 {NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} I don't understand half of what you're saying, but whatever, help me deal with Handsome Zomboss! 
@@ -51205,7 +51314,7 @@ Remaining time:
     落叶小乔木。
     高3-8米，树皮暗灰褐色；叶椭圆状披针形，边缘细锯齿；花单生，花梗近无，花瓣5枚，粉色或白色，雄蕊约20-30枚，雌蕊单生；果实为核果，球形或扁圆，表皮被绒毛。花期3-4月；果期因品种而异。
     桃字由“木”和“兆”（表音兼表意，象征果实多或裂开的果核）组成，本义指桃树及其果实。原产中国，4000年前已驯化，《诗经》“桃之夭夭”为证，现世界各地均有栽植。英语“peach”源自拉丁语“malum persicum”（波斯苹果），暗示桃可能经丝绸之路从中国传入西方，而将波斯误认为原产地。除了果实可食，树干上分泌的胶质俗称桃胶，可食用，也供药用，有和血益气之效。因《山海经》等古籍记载桃树镇鬼的传说，桃木常作辟邪法器，制成“桃符”悬挂于门上驱邪（后演变为春联）。
-    花语：爱情的俘虏  
+    花语：爱情的俘虏
 
 
 [CHERRY_BOMB_FAMILY]
@@ -51764,7 +51873,7 @@ Carrotillery(Daucus carota var. sativus Hoffm.)
     一年生草本植物。
     植株高30-100厘米；茎粗壮具四棱，中空；偶数羽状复叶，小叶1-3对，互生，椭圆形或长圆形；总状花序腋生，花冠蝶形，白色带紫色脉纹；荚果肥厚被绒毛，内含2-4粒扁圆形种子，种皮颜色多样，青绿至棕褐色。 花期4-5月，果期5-6月。
     原产于地中海沿岸及亚洲西南部，现广泛栽培于温带地区。因其豆荚形似老蚕而得名（《本草纲目》），古称“胡豆”或“佛豆”，因其为汉代张骞出使西域引入的。现我国各地均有栽培，以长江以南为胜。鲜豆可清炒、煮汤，干豆可制茴香豆、兰花豆等零食，“且将蚕豆伴青梅”，蚕豆现已为江南立夏时节的味觉符号。此外，其种皮入药可利尿消肿、止血解毒。
-    花语：和谐、奉献  
+    花语：和谐、奉献
 
 [PINEAPPLE_FAMILY]
 凤梨科
@@ -52517,6 +52626,12 @@ Undercurrent
 [TREASURE_GOT_HEAD_DES_ID_25713]
 Selected reward from Poseidon's Chest
 
+[TREASURE_GOT_HEAD_ID_25725]
+Leisurely Bliss
+
+[TREASURE_GOT_HEAD_DES_ID_25725]
+Obtained from Poseidon's Treasure event
+
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
 Holographic Artifact Bundle
 
@@ -52693,28 +52808,28 @@ Buy Endless Pack
 Endless Pack
 
 [PRODUCT_LION_DANCE_01]
-Purchase Small Firecracker Pack  
+Purchase Small Firecracker Pack
 
 [PRODUCT_LION_DANCE_01_SHORTDESC]
-Small Firecracker Pack  
+Small Firecracker Pack
 
 [PRODUCT_LION_DANCE_02]
-Purchase Discounted Firecracker Pack  
+Purchase Discounted Firecracker Pack
 
 [PRODUCT_LION_DANCE_02_SHORTDESC]
-Discounted Firecracker Pack  
+Discounted Firecracker Pack
 
 [PRODUCT_LION_DANCE_03]
-Purchase Medium Firecracker Pack  
+Purchase Medium Firecracker Pack
 
 [PRODUCT_LION_DANCE_03_SHORTDESC]
-Medium Firecracker Pack  
+Medium Firecracker Pack
 
 [PRODUCT_LION_DANCE_04]
-Purchase Large Firecracker Pack  
+Purchase Large Firecracker Pack
 
 [PRODUCT_LION_DANCE_04_SHORTDESC]
-Large Firecracker Pack  
+Large Firecracker Pack
 
 [PRODUCT_LION_DANCE_04_SHORTDESC]
 Large Christmas Stocking Pack
@@ -53572,7 +53687,7 @@ Conditions not fulfilled
 Summer Lucky Bag
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
-Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.  
+Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.
 
 [LUCKBAG_TITLE]
 Summer Lucky Bag
@@ -55134,10 +55249,10 @@ If you want to prove your strength, then go and challenge Doctor Zombie in the M
 If you want to prove your strength, then go and challenge Dr. Zombie in the Steam world!
 
 [TASK_WORLDTASK_EGYPT1]
-Complete the easy level on Day 8 of the Ancient Egypt  
+Complete the easy level on Day 8 of the Ancient Egypt
 
 [TASK_WORLDTASK_EGYPT2]
-Complete the hard level on Day 8 of the Ancient Egypt  
+Complete the hard level on Day 8 of the Ancient Egypt
 
 [TASK_WORLDTASK_EGYPT3]
 Complete the boss battle to finish Ancient Egypt
@@ -55383,7 +55498,7 @@ Prize pool limit reset{NUM} times
 Does it consume {NUM} diamond treasure hunt
 
 [ANNIVERSARY_TREASURE_CONFIRM_TEXT]
-Insufficient gold bars. Are you sure you want to spend {NUMBER} diamonds to exchange for gold bars and continue the treasure hunt?
+Insufficient tickets. Use {NUMBER} diamonds to exchange and proceed?
 
 [ANNIVERSARY_TREASURE_BUY]
 x{NUM}
@@ -56204,37 +56319,37 @@ Plant classification
 Remote
 
 [PROFESSION_SHOOTER_DESCRIPTION]
-A profession specializing in long-range attacks.  
+A profession specializing in long-range attacks.
 
 [PROFESSION_WARRIOR]
-Vanguard  
+Vanguard
 
 [PROFESSION_WARRIOR_DESCRIPTION]
-A profession specializing in close-range attacks.  
+A profession specializing in close-range attacks.
 
 [PROFESSION_SUPPORTER]
-Support  
+Support
 
 [PROFESSION_SUPPORTER_DESCRIPTION]
-A profession capable of providing buffs or removing negative effects from plants.  
+A profession capable of providing buffs or removing negative effects from plants.
 
 [PROFESSION_PROTECTOR]
-Defender  
+Defender
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
-A profession specializing in blocking zombies.  
+A profession specializing in blocking zombies.
 
 [PROFESSION_SUNMAKER]
 Sun
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
-A profession capable of producing sunlight.  
+A profession capable of producing sunlight.
 
 [PROFESSION_SPECIALIST]
-Specialist  
+Specialist
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-A profession with unique attack methods or specialized in countering zombies.  
+A profession with unique attack methods or specialized in countering zombies.
 
 [PLANT_DETAILS]
 Detail
@@ -57791,28 +57906,28 @@ Description of the activities of the plant cultivation programme
 7. Players must first enter the Plant Cultivation Plan to view the task list each time they enter the game. Rewards for the corresponding tasks can only be claimed after completing the relevant levels. Players cannot exit the game while completing the tasks.
 
 [FIGHT_ZODIAC_TITLE]
-New Year Gift  
+New Year Gift
 
 [FIGHT_ZODIAC_TAB_1]
-New Year Gift  
+New Year Gift
 
 [FIGHT_ZODIAC_TAB_2]
-Celebration Bundle  
+Celebration Bundle
 
 [FIGHT_ZODIAC_INDEX]
-The {NUM}th Celebration Bundle  
+The {NUM}th Celebration Bundle
 
 [FIGHT_ZODIAC_OBTAIN]
-Free Firecracker Pickup  
+Free Firecracker Pickup
 
 [FIGHT_ZODIAC_ONE]
-Give 1 Firecracker  
+Give 1 Firecracker
 
 [FIGHT_ZODIAC_TEN]
-Give 10 Firecrackers  
+Give 10 Firecrackers
 
 [FIGHT_ZODIAC_NOT_ENOUGH]
-Not Enough Firecrackers  
+Not Enough Firecrackers
 
 [FIGHT_ZODIAC_BEAT]
 Break Rewards
@@ -57821,31 +57936,31 @@ Break Rewards
 Have reached the purchase cap today
 
 [FIGHT_ZODIAC_BEAT_DES]
-Each firecracker grants 1-2 gift points at Dave's and provides a fragment of an item from the reward pool.  
+Each firecracker grants 1-2 gift points at Dave's and provides a fragment of an item from the reward pool.
 
 [FIGHT_ZODIAC_REWARD]
-Free Firecracker Pickup  
+Free Firecracker Pickup
 
 [FIGHT_ZODIAC_REWARD_PENNY]
-Play {TYPE} once to earn a firecracker  
+Play {TYPE} once to earn a firecracker
 
 [FIGHT_ZODIAC_REWARD_MONTHLY_CARD]
-Super Monthly Card rewards firecrackers daily  
+Super Monthly Card rewards firecrackers daily
 
 [FIGHT_ZODIAC_REWARD_FREE]
-Free firecracker pickup every day  
+Free firecracker pickup every day
 
 [GACHA_TIME_COUNT_DOWN]
 Pack Refresh Countdown
 
 [PENNY_CHASE]
-Penny's Pursuit  
+Penny's Pursuit
 
 [BUY_MONTHLY_CARD]
-Purchase Monthly Card  
+Purchase Monthly Card
 
 [FIGHT_ZODIAC_DESCRIPTION_TITLE]
-New Year Gift Event Description  
+New Year Gift Event Description
 
 [FIGHT_ZODIAC_DESCRIPTION]
 Event Details:  
@@ -57854,7 +57969,7 @@ Event Details:
 3. When the points reach a certain amount, the Pack displayed in the top right is unlocked.  
 4. The remaining points required for the next Pack will be shown above Dave's head.  
 5. After receiving a gift, the pack will automatically reset.  
-6. Plant fragment probability distribution: Orange Plant Fragments: 10%; Purple Plant Fragments: 35%; Blue Plant Fragments: 45%; Mysterious Crystal: 10%  
+6. Plant fragment probability distribution: Orange Plant Fragments: 10%; Purple Plant Fragments: 35%; Blue Plant Fragments: 45%; Mysterious Crystal: 10%
 
 [LIMITED_SUMMON_TITLE]
 Time-limited Summons
@@ -58673,6 +58788,102 @@ Magic bean stems cannot be planted in orbit
 [NARRATIVE_ATLANTIS_12_INTRO_5]
 {SAY:WINNIE}We'll uncover the truth ourselves, Dave.
 
+[NARRATIVE_ATLANTIS_13_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Dave, we've finally reached the underwater ruins.
+
+[NARRATIVE_ATLANTIS_13_INTRO_2]
+{SAY:WINNIE}Be careful - these accompanying blue whales have enormous appetites now.
+
+[NARRATIVE_ATLANTIS_13_INTRO_3]
+{EXCITED:CRAZYDAVE}We dove this deep just to find food?
+
+[NARRATIVE_ATLANTIS_13_INTRO_4]
+{SAY:WINNIE}If only the Puff-Puff vines could control your appetite too.
+
+[NARRATIVE_ATLANTIS_14_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data shows these ruin zombies seem to be holding a trial for outsiders.
+
+[NARRATIVE_ATLANTIS_14_INTRO_2]
+{EXCITED:CRAZYDAVE}We break light-speed daily and never get tickets!
+
+[NARRATIVE_ATLANTIS_15_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}My analyzer needs more data on these underwater ruin zombies.
+
+[NARRATIVE_ATLANTIS_15_INTRO_2]
+{SAY:WINNIE}Please complete the virtual experiment per protocol to help my analyzer draw conclusions.
+
+[NARRATIVE_ATLANTIS_15_INTRO_3]
+{SAY:WINNIE}Top item bar functions (left to right):
+
+[NARRATIVE_ATLANTIS_15_INTRO_4]
+{SAY:WINNIE}1. Upgrade brain cake quality to accelerate zombie growth
+
+[NARRATIVE_ATLANTIS_15_INTRO_5]
+{SAY:WINNIE}2. Upgrade to increase simultaneous brain cake feedings
+
+[NARRATIVE_ATLANTIS_15_INTRO_6]
+{SAY:WINNIE}3. Upgrade to increase damage against invading fish
+
+[NARRATIVE_ATLANTIS_15_INTRO_7]
+{SAY:WINNIE}4. Unlock new zombie types
+
+[NARRATIVE_ATLANTIS_15_INTRO_8]
+{SAY:WINNIE}5. Next placed brain cake becomes sushi (unknown purpose)
+
+[NARRATIVE_ATLANTIS_15_INTRO_9]
+{SAY:WINNIE}6. Buy 3 trophies to complete this level
+
+[NARRATIVE_ATLANTIS_16_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What's on the seabed?
+
+[NARRATIVE_ATLANTIS_16_INTRO_2]
+{SAY:WINNIE}Mollusks - using shells for protection.
+
+[NARRATIVE_ATLANTIS_16_INTRO_3]
+{EXCITED:CRAZYDAVE}Just like my cooking pot helmet!
+
+[NARRATIVE_ATLANTIS_16_INTRO_4]
+{SAY:WINNIE}Data shows remarkable shell clamping force.
+
+[NARRATIVE_ATLANTIS_17_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What are those black spiky things?
+
+[NARRATIVE_ATLANTIS_17_INTRO_2]
+{SAY:WINNIE}Echinodermata, Echinoidea - sea urchins.
+
+[NARRATIVE_ATLANTIS_17_INTRO_3]
+{EXCITED:CRAZYDAVE}Perfect back scrubbers!
+
+[NARRATIVE_ATLANTIS_17_INTRO_4]
+{SAY:WINNIE}The plants would disagree, Dave.
+
+[NARRATIVE_ATLANTIS_18_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}These zombies seem to want an underwater gladiator battle.
+
+[NARRATIVE_ATLANTIS_18_INTRO_2]
+{EXCITED:CRAZYDAVE}Just don't bring a cat!
+
+[NARRATIVE_ATLANTIS_18_INTRO_3]
+{SAY:WINNIE}Cats hate water, Dave.
+
+[NARRATIVE_ATLANTIS_21_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The monster battles continue - stranger creatures are coming.
+
+[NARRATIVE_ATLANTIS_21_INTRO_2]
+{SAY:WINNIE}Data suggests they're from terrifying ocean depths.
+
+[NARRATIVE_ATLANTIS_21_INTRO_3]
+{EXCITED:CRAZYDAVE}I once stared into the abyss for 15 years without sleep.
+
+[NARRATIVE_ATLANTIS_21_INTRO_4]
+{EXCITED:CRAZYDAVE}True story.
+
+[NARRATIVE_ATLANTIS_24_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Scanner still needs more data!
+
+[NARRATIVE_ATLANTIS_24_INTRO_2]
+{SAY:WINNIE}Please continue with further simulation experiments!
+
 [NEW_AVATAR_PACKAGE]
 Costume Backpack
 
@@ -58686,25 +58897,25 @@ Currently used by {PLANT}
 Costume Effect
 
 [NEW_AVATAR_WEAR]
-Equip  
+Equip
 
 [NEW_AVATAR_TAKE_OFF]
-Unequip  
+Unequip
 
 [NEW_AVATAR_EXCHANGE]
-Craft  
+Craft
 
 [NEW_AVATAR_EQUIPED]
 Set
 
 [NEW_AVATAR_NOT_ACQUIRED]
-Not Acquired  
+Not Acquired
 
 [NEW_AVATAR_BUFF]
-Buff:  
+Buff:
 
 [NEW_AVATAR_GET]
-Obtained From:  
+Obtained From:
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_2]
 Gatling Peas Limited Costume
@@ -63070,34 +63281,34 @@ System Prompt
 Quantity Owned: {NUMS}
 
 [MAT_NUTRIENT_4_USE]
-Material for upgrading Level 4 plants to Level 5  
+Material for upgrading Level 4 plants to Level 5
 
 [MAT_NUTRIENT_4_GOT_WAY]
-Endless Store, Limited-Time Packs  
+Endless Store, Limited-Time Packs
 
 [MAT_NUTRIENT_3_USE]
-Material for upgrading Level 4 plants to Level 55  
+Material for upgrading Level 4 plants to Level 55
 
 [MAT_NUTRIENT_3_GOT_WAY]
-Endless Store, Limited-Time Packs  
+Endless Store, Limited-Time Packs
 
 [MAT_NUTRIENT_2_USE]
-Material for upgrading Level 4 plants to Level 5  
+Material for upgrading Level 4 plants to Level 5
 
 [MAT_NUTRIENT_2_GOT_WAY]
-Endless Store, Limited-Time Packs  
+Endless Store, Limited-Time Packs
 
 [MAT_NUTRIENT_1_USE]
-Material for upgrading Level 4 plants to Level 5  
+Material for upgrading Level 4 plants to Level 5
 
 [MAT_NUTRIENT_1_GOT_WAY]
-Endless Store, Limited-Time Packs  
+Endless Store, Limited-Time Packs
 
 [MAT_NUTRIENT_0_USE]
-Material for upgrading Level 4 plants to Level 5  
+Material for upgrading Level 4 plants to Level 5
 
 [MAT_NUTRIENT_0_GOT_WAY]
-Endless Store, Limited-Time Packs  
+Endless Store, Limited-Time Packs
 
 [MAT_PLANT_LEVELUP_BOOK_USE]
 Used during the advancement of plants from 2nd to 4th Level. Using it during this process, without consuming coins or plant pieces, advances the plant by one tier. Note: Cannot be used when advancing from 4th to 5th tier.
@@ -67349,10 +67560,10 @@ A calm day
 {PLAYER}'s old house
 
 [MEMORY_TUTORIAL_LEVEL_NAME]
-Heian Era  
+Heian Era
 
 [MEMORY2_TUTORIAL_LEVEL_NAME]
-Old Times  
+Old Times
 
 [MEMORY_LEVEL_NAME_001_H]
 Jet War
@@ -70219,10 +70430,10 @@ View Tasks
 Current Level Tasks
 
 [PVZ2_UNCHARTED_MODE_KEY_NOT_ENOUGH]
-Not enough keys. Keys refresh daily, please come back tomorrow.  
+Not enough keys. Keys refresh daily, please come back tomorrow.
 
 [PVZ2_UNCHARTED_MODE_UNLOCK_HARD_LEVEL]
-Use keys to unlock hard levels?  
+Use keys to unlock hard levels?
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_TITLE]
 Activate Premium Access
@@ -71474,28 +71685,28 @@ This evil mist can give the zombies a powerful shield, and perhaps only the bree
 Remaining {NUMBER} times
 
 [NEWPVP_HOWTOPLAY_1_DESCRIPTION]
-This is a 1v1 duel mode where both players compete in real-time on the same lawn.  
+This is a 1v1 duel mode where both players compete in real-time on the same lawn.
 
 [NEWPVP_HOWTOPLAY_2_DESCRIPTION]
-In this mode, plant level are marked in the top-left corner of their slots. No external bonuses (artifacts, family buffs, ornaments, costumes, or genes) apply.  
+In this mode, plant level are marked in the top-left corner of their slots. No external bonuses (artifacts, family buffs, ornaments, costumes, or genes) apply.
 
 [NEWPVP_HOWTOPLAY_3_DESCRIPTION]
-The top lawn is your area, and the bottom lawn is your opponent. Defend your lawn by planting plants and attack the opponent's lawn by deploying zombies. Zombies crossing the opponent's baseline reduce their HP. The game ends when one player's HP reaches zero.  
+The top lawn is your area, and the bottom lawn is your opponent. Defend your lawn by planting plants and attack the opponent's lawn by deploying zombies. Zombies crossing the opponent's baseline reduce their HP. The game ends when one player's HP reaches zero.
 
 [NEWPVP_HOWTOPLAY_4_DESCRIPTION]
-The sunflower icon in the top-left corner generates sun. Spend sun to increase its production and raise your plant limit.  
+The sunflower icon in the top-left corner generates sun. Spend sun to increase its production and raise your plant limit.
 
 [NEWPVP_HOWTOPLAY_5_DESCRIPTION]
-As rounds progress, more powerful zombies and skills unlock. Strategically combine them for an easier path to victory.  
+As rounds progress, more powerful zombies and skills unlock. Strategically combine them for an easier path to victory.
 
 [NEWPVP_ARMY_HOWTOPLAY_1_DESCRIPTION]
-Here, you can freely train your zombie army.  
+Here, you can freely train your zombie army.
 
 [NEWPVP_ARMY_HOWTOPLAY_2_DESCRIPTION]
-Zombie cards obtained from chests help you unlock and upgrade zombies.  
+Zombie cards obtained from chests help you unlock and upgrade zombies.
 
 [NEWPVP_ARMY_HOWTOPLAY_3_DESCRIPTION]
-Cards with matching round limits can be swapped with each other.  
+Cards with matching round limits can be swapped with each other.
 
 [NEW_PVP_TRAINING_PACKET_LEVEL_STR]
 Level {NUMBER}
@@ -72455,7 +72666,7 @@ Join Room
 Confirm
 
 [NEW_PVP_FREE_TO_PLAY_AREA_TITLE]
-Background Selection  
+Background Selection
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_HOST]
 Host
@@ -72470,7 +72681,7 @@ Your lineup^oldclr ^00FF00 is preparing ^oldclr
 Your lineup^oldclr ^00FF00 is ready ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
-^oldclr ^00FF00 Waiting to Enter ^oldclr  
+^oldclr ^00FF00 Waiting to Enter ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
 Guest^oldclr ^00FF00 is preparing ^oldclr
@@ -72615,7 +72826,7 @@ The battle has started!
 Room is full!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_5]
-^FF0000 The room has been dissolved!  
+^FF0000 The room has been dissolved!
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
 ^FF0000 Your current game frame rate is too low! Can't play online! ^oldclrr
@@ -72955,48 +73166,48 @@ Medium Grade Pack
 Large Grade Pack
 
 [CORNUCOPIA_TITLE]
-Cornucopia  
+Cornucopia
 
 [EXP_CORNUCOPIA]
-Cornucopia EXP  
+Cornucopia EXP
 
 [CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
-Event Countdown  
+Event Countdown
 
 [CORNUCOPIA_SHOP_COUNTDOWN_TITLE]
-Exchange Countdown  
+Exchange Countdown
 
 [CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
-Leaderboard Countdown  
+Leaderboard Countdown
 
 [CORNUCOPIA_MAX_LEVEL]
-Max Level Reached  
+Max Level Reached
 
 [CORNUCOPIA_ACTIVITY_TIME_OVER]
-Event Over  
+Event Over
 
 [CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]
-Cornucopia Prize Pool Total  
+Cornucopia Prize Pool Total
 
 [CORNUCOPIA_TOTAL_GACHA_TITLE]
-Total Draws: {NUMS}  
+Total Draws: {NUMS}
 
 [CORNUCOPIA_CURRENT_TITLE]
-Current  
+Current
 
 [CORNUCOPIA_NEXT_TITLE]
-Next Level  
+Next Level
 
 [CORNUCOPIA_NEXT_LEVEL_DESC]
 {NUMS} to next level, earn by recharge or complete tasks.
 
 [CORNUCOPIA_GACHA_TIPS_DESC]
-You can win a grand prize of up to 5000 Diamonds in a single draw!  
+You can win a grand prize of up to 5000 Diamonds in a single draw!
 
 [CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
 
 [CORNUCOPIA_LOCK_TITLE]
-Level  
+Level
 
 [CORNUCOPIA_GACHA_ONE_TITLE]
 x1
@@ -73005,7 +73216,7 @@ x1
 x10
 
 [CORNUCOPIA_TAB_NAME1]
-Cornucopia  
+Cornucopia
 
 [CORNUCOPIA_TAB_NAME2]
 Tasks
@@ -73020,7 +73231,7 @@ Shop
 Prize Pool
 
 [CORNUCOPIA_GOTO_LEVEL]
-Upgrade  
+Upgrade
 
 [CORNUCOPIA_LEVEL_DESC]
 {NUM1} / {NUM2}
@@ -73091,34 +73302,34 @@ Do you want to spend {NUMS} Lucky Coins for the draw?
 Do you want to Obtain Cornucopia bubbles?
 
 [CORNUCOPIA_HARVEST_TITLE]
-Obtainable  
+Obtainable
 
 [CORNUCOPIA_SHOP_BUY_TIME]
-Purchase Limit: {NUM1} / {NUM2}  
+Purchase Limit: {NUM1} / {NUM2}
 
 [MAT_CORNUCOPIA_TICKET_NOT_ENOUGH]
-Insufficient Lucky Coins  
+Insufficient Lucky Coins
 
 [MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]
-Insufficient Exchange Badges  
+Insufficient Exchange Badges
 
 [MAT_CORNUCOPIA_TICKET]
-Lucky Coin  
+Lucky Coin
 
 [MAT_CORNUCOPIA_EMBLEM]
-Exchange Badge  
+Exchange Badge
 
 [MAT_CORNUCOPIA_TICKET_USE]
-Used for Cornucopia Draws  
+Used for Cornucopia Draws
 
 [MAT_CORNUCOPIA_TICKET_GOT_WAY]
-Obtained from Special Bundles and Cornucopia Bubbles  
+Obtained from Special Bundles and Cornucopia Bubbles
 
 [MAT_CORNUCOPIA_EMBLEM_USE]
-Used to Redeem Rewards in the Exchange Store  
+Used to Redeem Rewards in the Exchange Store
 
 [MAT_CORNUCOPIA_EMBLEM_GOT_WAY]
-Obtained from Cornucopia Draws  
+Obtained from Cornucopia Draws
 
 [CORNUCOPIA_BONUS_DETAIL_PLANT]
 Plant
@@ -75857,7 +76068,7 @@ Participate in the survey, answer questions, and receive diamonds and voucher.
 Possible rewards
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
-Purchase the Little Snake Piggy Bank to enjoy ^FF0000 9.9^oldclrrx diamond rebate, with a maximum return of ^FF0000 2970^oldclrr diamonds.  
+Purchase the Little Snake Piggy Bank to enjoy ^FF0000 9.9^oldclrrx diamond rebate, with a maximum return of ^FF0000 2970^oldclrr diamonds.
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
 Purchase for 30 ¥
@@ -76070,7 +76281,7 @@ Dave Kitchen Events
 Help Dave make delicious corn rolls with the probability of getting diamonds, artifact blessing coupons, advanced books and other thanks.
 
 [PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]
-Exchange the obtained firecrackers for rewards from Dave, with various plant piece!  
+Exchange the obtained firecrackers for rewards from Dave, with various plant piece!
 
 [PARTY_ASSIST_TITLE]
 Party Help
@@ -76820,58 +77031,77 @@ Penny Coins
 Used to purchase items in Penny's Future Gift Box
 
 [MAT_PENNY_GIFT_TOKEN_GOT_WAY]  
-Obtained from Penny's Future Gift Box coin packs  
+Obtained from Penny's Future Gift Box coin packs
 
 [MAT_FUTURE_GIFT_TOKEN]  
-Penny Coins  
+Penny Coins
 
 [MAT_FUTURE_GIFT_TOKEN_USE]  
-Used to buy items in Penny's Future Gift Box  
+Used to buy items in Penny's Future Gift Box
 
 [MAT_FUTURE_GIFT_TOKEN_GOT_WAY]  
-From Penny's Future Gift Box coin packs  
+From Penny's Future Gift Box coin packs
 
 [MAT_LUCKYCHEST]  
-Lucky Chest Season 4  
+Lucky Chest Season 4
 
 [MAT_LUCKYCHEST_USE]  
-Open for random rewards July 11 to September 3)  
+Open for random rewards July 11 to September 3)
 
 [MAT_LUCKYCHEST_GOT_WAY]  
-From Lucky Treasure event or weekly packs  
+From Lucky Treasure event or weekly packs
 
-[NFS_LINKAGE_TAB1]  
-Daily Login  
+[NFS_LINKAGE_TAB1]
+Daily Login
 
-[NFS_LINKAGE_TAB2]  
-Conch Tasks  
+[NFS_LINKAGE_TAB2]
+Conch Tasks
 
 [NFS_LINKAGE_TAB3]  
-Reward Shop  
+Reward Shop
 
-[NFSLINKAGE_DESCRIPTION_TITLE]  
-Conch Battle Event Info  
+[NFS_LINKAGE_TAB2_4]
+Speed Tasks
 
-[NFSLINKAGE_DESCRIPTION]  
-Event Rules:  
-- Get 14 days of login rewards  
-- Complete daily/event tasks for Conches  
-- Use Conches in Reward Shop  
-- Event tasks unlock in stages  
-- Exchange before event ends!  
+[NFSLINKAGE_DESCRIPTION_TITLE_3]  
+Conch Battle Event Info
 
-[MAT_NFSLINKAGE_INTEGRAL]  
-Conch  
+[NFSLINKAGE_DESCRIPTION_TITLE_4]
+Gear Challenge Event Info
 
-[NFSLINKAGE_TITLE]  
-Conch Battle  
+[NFSLINKAGE_DESCRIPTION_3]
+Event Rules:
+1. Log in daily during the event to claim premium rewards (14-day check-in)
+2. Conch Missions include Daily and Event tasks (resets at 0:00 daily)
+3. Event tasks have multiple stages - next stage unlocks after completing current one
+4. Earn Conches by completing missions, exchange for rewards in the Store
+5. Remember to exchange Conches before the event ends!
 
-[MAT_NFSLINKAGE_TICKET]  
-Conch  
+[NFSLINKAGE_DESCRIPTION_4]
+Event Rules:
+1. Log in daily during the event to claim premium rewards (14-day check-in)
+2. Speed Missions include Daily and Event tasks (resets at 0:00 daily)
+3. Event tasks have multiple stages - next stage unlocks after completing current one
+4. Earn Gears by completing missions, exchange for rewards in the Store
+5. Remember to exchange Gears before the event ends!
 
-[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]  
-Log in daily, earn Conches, exchange for rewards!
+[NFSLINKAGE_TITLE_3]
+Conch Challenge
 
+[NFSLINKAGE_TITLE_4]
+Speed Challenge
+
+[MAT_NFSLINKAGE_TICKET_3]
+Conch
+
+[MAT_NFSLINKAGE_TICKET_4]
+Gear
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_3]
+During the event, log in daily for 14 days of rewards! Complete missions to earn Conches and exchange them for premium items!
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
+During the event, log in daily for 14 days of rewards! Complete missions to earn Gears and exchange them for premium items!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -77621,7 +77851,7 @@ Enhancement Energy
 
 
 [GINGLEBELL_TITLE]
-Jingle Bells
+Jingle Bells of Summer
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -77643,19 +77873,19 @@ Jingle Bells Description
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules:
-    1. All damage dealt to divers within time limit counts as clearance score.
+    1. All damage dealt to sea monsters within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Sprint Training, Dodge Training, Endurance Training), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Beach Walk, Coast Patrol, Sunbathing), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00:00-10:00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
-    6. Ranking rewards auto-distribute after 10:00. On July 29, extends to 24 hours (no challenges allowed).
+    6. Ranking rewards auto-distribute after 10:00. On August 23, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
 [GINGLEBELL_RANK]
-Your Rank: {NUMBER}  
+Your Rank: {NUMBER}
 
 [GINGLEBELL_PARTIC_NUM]
-Total Participants: {NUMBER}  
+Total Participants: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
 Jingle Bells Leaderboard Rewards
@@ -77688,100 +77918,100 @@ Deep Sea Jingle
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Sprint Training - Level 1
+Beach Walk - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Sprint Training - Level 2
+Beach Walk - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Sprint Training - Level 3
+Beach Walk - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Dodge Training - Level 1
+Coast Patrol - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Dodge Training - Level 2
+Coast Patrol - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Dodge Training - Level 3
+Coast Patrol - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Endurance Training - Level 1
+Sunbathing - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Endurance Training - Level 2
+Sunbathing - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Endurance Training - Level 3
+Sunbathing - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Sprint Training - Level 1
+Beach Walk - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Sprint Training - Level 2
+Beach Walk - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Sprint Training - Level 3
+Beach Walk - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Dodge Training - Level 1
+Coast Patrol - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Dodge Training - Level 2
+Coast Patrol - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Dodge Training - Level 3
+Coast Patrol - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Endurance Training - Level 1
+Sunbathing - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Endurance Training - Level 2
+Sunbathing - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Endurance Training - Level 3
+Sunbathing - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Sprint Training - Level 1
+Beach Walk - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Sprint Training - Level 2
+Beach Walk - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Sprint Training - Level 3
+Beach Walk - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Dodge Training - Level 1
+Coast Patrol - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Dodge Training - Level 2
+Coast Patrol - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Dodge Training - Level 3
+Coast Patrol - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Endurance Training - Level 1
+Sunbathing - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Endurance Training - Level 2
+Sunbathing - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Endurance Training - Level 3
+Sunbathing - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge: Deal max damage within 30 seconds!
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-Dodge Training - Level {LEVEL_NUMBER}
+Coast Patrol - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Sprint Training - Level {LEVEL_NUMBER}
+Beach Walk - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Endurance Training - Level {LEVEL_NUMBER}
+Sunbathing - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Deep Sea Jingle Bells
+{PLAYER}'s Summer Jingle Journey
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Lunisolar Honeysuckle Winter Outfit
@@ -78386,20 +78616,20 @@ Open Summer Packs to get loads of gems and rare costumes!
 Congratulations, you've been selected as today's luckiest player
 
 [AVATARCOLLECTIONS_TITLE]
-Collection Album  
+Collection Album
 
 [AVATARCOLLECTION_DESCRIPTION_TITLE]
-Feature Description  
+Feature Description
 
 [AVATARCOLLECTION_DESCRIPTION]
 1. The collection album contains different themed content, each theme has several items that need to be collected. Players can view detailed information on the required collectibles.
 2. When a player collects all the costume under a specific theme, they will receive a super reward matching the theme.
 
 [AVATARCOLLECTIONS_PROGRESS]
-{NUMBER1}/{NUMBER2}  
+{NUMBER1}/{NUMBER2}
 
 [AVATARCOLLECTIONS_THEME_TITLE0]
-Christmas  
+Christmas
 
 [AVATARCOLLECTIONS_THEME_DES0]
 Even zombies deserve holiday cheer... or coal !
@@ -78423,7 +78653,7 @@ Halloween
 Zombies love halloween... too bad they can't taste candy !
 
 [AVATARCOLLECTIONS_THEME_TITLE4]
-High tech  
+High tech
 
 [AVATARCOLLECTIONS_THEME_DES4]
 Primal plants are jealous of them
@@ -78536,6 +78766,9 @@ Not Owned
 [PLANTING_NOT_ON_SNOWMAN]
 Cannot plant on snowmen
 
+[PLANTING_NOT_ON_ATLANTIS_SHELL]
+Shells cannot be planted on plants.
+
 [PLANTING_NOT_IN_KELPGUARD]
 Cannot plant between kelp guards
 
@@ -78549,7 +78782,7 @@ Winds Howl and Cranes Cry
 Obtained through Super Corn exchange in the Farm Battle event.
 
 [TOYS_HEAD_ID_25648]
-Nine Colors Descend  
+Nine Colors Descend
 
 [TOYS_HEAD_DES_ID_25648]
 Obtained by participating in the "Ancient Style Nostalgia" event.
@@ -78589,6 +78822,12 @@ Deep Sea Shadow
 
 [TOYS_HEAD_DES_ID_25712]
 Obtained through the "Deep Sea Battle" event
+
+[TOYS_HEAD_ID_25723]
+Lava Hammer
+
+[TOYS_HEAD_DES_ID_25723]
+Obtain by participating in the Lava Roll Show event
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -78719,6 +78958,9 @@ Supreme Treasure
 [POSEIDONTREASURE_TAB4]
 Poseidon's Vault
 
+[POSEIDONTREASURE_TAB5]
+Avatar Exchange
+
 [POSEIDONTREASURE_TAB1_DESC]
 Guaranteed 1 Supreme Chest every 30 draws
 
@@ -78789,13 +79031,13 @@ Event Rules:
 7. First single draw daily gets 34% discount. Unused tokens convert to diamonds (1:30). Unopened chests convert to diamonds (1:500) after event.
 
 [WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
-抹香鲸出没，请小心！
+whale spotted - be careful!
 
 [WARNING_SPERM_WHALE_BACKGROUND_DESC_2]
-抹香鲸更接近了！
+whale approaching!
 
 [PLANTING_NOT_ON_SWORDFISH]
-不能种植在剑鱼上
+Cannot plant on swordfish
 
 [ZOMBIE_FAT_DIVE]
 Deep-Diving Zombie
@@ -78863,11 +79105,76 @@ Relic Gargantuar
 [ZOMBIE_ATLANTIS_imp]
 Relic Imp
 
-
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION]
 美好的理想总是从最微小的地方开始病变的。当这些看似微不足道的东西越来越多，理想终将沉没。遗迹小鬼僵尸最喜欢这套理论了。
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION_HEADER]
 能被投掷出去越过你的防护罩，直接登陆潜水艇。
+
+[PLANTING_NOT_ON_SEAURCHIN]
+Cannot plant on sea urchins
+
+[ZOMBIE_PRIEST]
+祭司僵尸
+
+[ZOMBIE_PRIEST_DESCRIPTION]
+高度文明已与海底遗迹毫无区别，高度科技与邪恶魔法也同宗同源，过去神明的权威现在也是由祭司僵尸传达的。上述这些源自同一个道理。
+
+[ZOMBIE_PRIEST_DESCRIPTION_HEADER]
+释放诅咒雾气，将植物变成小喷菇。
+
+[ZOMBIE_POSEIDON_ASSISTANT]
+执政官僵尸
+
+[ZOMBIE_POSEIDON_ASSISTANT_DESCRIPTION]
+执政官僵尸根据神授法典，判决一切外来者上交大脑，即刻施行。谈其公正与否？只能说执政官僵尸永远不会下马进行判决。
+
+[ZOMBIE_POSEIDON_ASSISTANT_DESCRIPTION_HEADER]
+有控制鱼群的本事，也能强化僵尸。
+
+[ZOMBIE_ATLANTIS_LAND_BASIC]
+遗迹普通僵尸
+
+[ZOMBIE_ATLANTIS_LAND_BASIC_DESCRIPTION]
+美好王国的昔日沉入海底成为遗迹，而僵尸正是遗迹本身。
+
+[ZOMBIE_ATLANTIS_LAND_BASIC_DESCRIPTION_HEADER]
+深海遗迹的普通僵尸
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR1]
+遗迹路障僵尸
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION]
+神秘橘色锥体上的圈层完美展示了王国曾经的圈层布局，戴上它将获得王国贵族的神奇力量。广告上是这样写的。
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION_HEADER]
+他的深海路障桶让他的硬度比普通海洋僵尸强壮两倍。
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR2]
+遗迹铁桶僵尸
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION]
+一万多年前的神秘冶铁技术，戴上它看起来真是独一无二！
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION_HEADER]
+头上的深海铁桶提供了极大的保护使他免受伤害。
+
+[ZOMBIE_ATLANTIS_LAND_FLAG]
+遗迹旗帜僵尸
+
+[ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION]
+僵尸追求大脑是跨越时间的世界公理，旗子又是那个年代中最合理的道具，可它的技术含量却又那么深。
+
+[ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION_HEADER]
+标志着一大“波”身缠海带的僵尸来了。
+
+[ZOMBIE_SEAURCHINPITCHER]
+海胆投手僵尸
+
+[ZOMBIE_SEAURCHINPITCHER_DESCRIPTION]
+冷知识：海胆投手僵尸从古至今都是干搓澡的。只不过僵尸们平时并不爱洗澡，或者就一次性洗上一万年。
+
+[ZOMBIE_SEAURCHINPITCHER_DESCRIPTION_HEADER]
+投掷海胆，破坏植物与氧气供给。
 
 [PVZ2_CHINESE_END]
