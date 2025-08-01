@@ -16,8 +16,8 @@ Current Version  : 1.12.0 (pre-release)
 Last Modified By : Evilhack28
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.com/invite/ngTHrgMVuw
-Youtube         : https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
-Mod             : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaKYMUo8i1M9nI?usp=drive_link
+Youtube          : https://www.youtube.com/channel/UCFmcQubJ48LREVc3lk6OHFw
+Mod              : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaKYMUo8i1M9nI?usp=drive_link
 
 
                                                                                
@@ -57,41 +57,39 @@ translate by evilhack28 version from August 1 v1.12.0 (pre-release)
 [AGE_TIP]
 CREDIT
 
-[AGE_TIP_CONTENT
+[AGE_TIP_CONTENT]
 ======1.12.0======
 Added 3.7.9 text
 
-
-
-[EVIL_TIPS_1]
+[SPRINGS_TIPS_1]
 ^ff5e4d If y see any MISSING text report it to me!
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_2]
+[SPRINGS_TIP_2]
 ^ff5e4d thanks to ^4B0082 cybersteve ^oldclrr ,^008000 eluth ^oldclrr ,^090320 evilgirl28 ^oldclrr for the help !
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_3]
+[SPRINGS_TIP_3]
 ^ff5e4d Don't forgot to beat Ztalemate 
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_4]
+[SPRINGS_TIP_4]
 ^ff5e4d Have a gooooooooooooood day
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_5]
+[SPRINGS_TIP_5]
 ^ff5e4d My mods is not the perfection because im the ^f4661b perfection >_< ^oldclrr
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_6]
+[SPRINGS_TIP_6]
 ^ff5e4d if you need help conact me on discord !
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_7]
+[SPRINGS_TIP_7]
 ^ff5e4d 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
-[EVIL_TIPS_8]
+[SPRINGS_TIP_8]
 ^ff5e4d Made by ^FF0000 evilhack28 ^oldclrr enjoy english translation
 ^000000 ~~ Made by EvilHack28 Last update August 1 (1.12.0) ~~
 
@@ -20654,22 +20652,22 @@ You can stack Primal Peashooter and strengthen the effects of all shots
 There is a chance that the initial shots will be enhanced when the seed isn't stacked
 
 [MEGAGATLING_PLANTFOOD_DESCRIPTION]
-向右侧扇形范围发射120颗豌豆
+Fire 180 peas in a cone spread.
 
 [MEGAGATLING_AVATAR_PLANTFOOD_DESCRIPTION]
-向右侧扇形范围发射120颗随机属性的豌豆
+Non-fused Mega Gatling Pea now fires random types of peas, and the amount of peas fired is increased to 210.
 
 [MEGAGATLING_AVATAR_NAME]
-超级机枪射手装扮
+Mega Gatling Pea PLACEHOLDER
 
 [STORE_PRODUCT_AVATAR_MEGAGATLING]
-向右侧扇形范围发射120颗随机属性的豌豆
+Non-fused Mega Gatling Pea now fires random types of peas, and the amount of peas fired is increased to 210.
 
 [STORE_PRODUCT_AVATAR_MEGAGATLING_TITLE]
-超级机枪射手装扮
+Mega Gatling Pea PLACEHOLDER
 
 [SEASHROOM]
-海蘑菇
+Sea-shroom
 
 [SEASHROOM_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}绿色植物
@@ -20684,44 +20682,45 @@ There is a chance that the initial shots will be enhanced when the seed isn't st
 [SEASHROOM_PRODUCT_SHORT_DESC]
 海蘑菇可以种在水中，射程很近并只能持续一段时间。
 
-[SEASHROOM_AVATAR_NAME]
-海蘑菇可以种在水中，射程很近并只能持续一段时间。
-
-[STORE_PRODUCT_AVATAR_SEASHROOM_TITLE]
-海蘑菇装扮
-
-[STORE_PRODUCT_AVATAR_SEASHROOM]
-大招攻击力提升50%
-
 [SEASHROOM_SKILL_LEVEL1]
-生存强化
+Survival Enhancement
 
 [SEASHROOM_SKILL_LEVEL1_DES]
-海蘑菇的存活时间增加至90s
+Survival time of Sea-shroom is increased to 90s.
 
 [SEASHROOM_SKILL_LEVEL2]
-超长待机
+Ultra-Long Standby
 
 [SEASHROOM_SKILL_LEVEL2_DES]
-海蘑菇的存活时间增加至120s
+Survival time of Sea-shroom is increased to 120s.
 
 [SEASHROOM_NEW_SKILL_LEVEL1_DES]
 海蘑菇可以直接种植在水中，在海水中时，海蘑菇会根据种植区域改变转向。种植后，海蘑菇会攻击同一列中右边三格内的僵尸，并在单格距离范围内溅射，造成少量伤害。海蘑菇仅能在场上存活60s。
 
 [SEASHROOM_NEW_SKILL_LEVEL2_DES]
-海蘑菇的存活时间增加至90s
+Survival time of Sea-shroom is increased to 90s.
 
 [SEASHROOM_NEW_SKILL_LEVEL3_DES]
-海蘑菇的存活时间增加至120s
+Survival time of Sea-shroom is increased to 120s.
 
 [SEASHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+Sea-shroom may be boosted when planted.
 
 [SEASHROOM_PLANTFOOD_DESCRIPTION]
 在周围8格内随机生成一个新的海蘑菇，并立即向前方发射30颗子弹，同时联动场上的所有海蘑菇发动一次大招，并重置消失时间。
 
 [SEASHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
 在周围8格内随机生成一个新的海蘑菇，并立即向前方发射30颗子弹，同时联动场上的所有海蘑菇发动一次大招，并重置消失时间。
+
+[SEASHROOM_AVATAR_NAME]
+Sea-shroom PLACE COSTUME
+
+[STORE_PRODUCT_AVATAR_SEASHROOM_TITLE]
+Sea-shroom PLACE COSTUME
+
+[STORE_PRODUCT_AVATAR_SEASHROOM]
+Increases Plant Food damage by 50%.
+
 
 [OXYGENALGAE]
 Oxygen Algae
@@ -20780,69 +20779,60 @@ Oxygen Algae Vampire
 Oxygen Algae Vampire
 
 [AQUAWEED]
-海神草
+Neptune Grass
 
 [AQUAWEED_DESCRIPTION]
 {KEYWORD}特点：{STAT}召唤鲨鱼攻击并吞噬敌人，满足条件可召唤大型鲨鱼
-{KEYWORD}植物特征：{STAT}绿色植物，海洋植物，召唤鲨鱼
-{FLAVOR}因为长有胡子所以被其他植物奉为智者和领导，引领着海洋植物们在海里生活，当然还包括小鲨鱼。
+{KEYWORD}Plant features: {STAT} Green plant, marine plant, summons sharks
+{FLAVOR}Because of his mustache, he is regarded as a wise man and leader by the other plants, leading to marine plants living in the sea, including small sharks of course.
 
 [AQUAWEED__DESCRIPTION_HEADER]
-召唤鲨鱼攻击敌人
+Summons sharks to attack enemies.
 
 [AQUAWEED_TOOLTIP]
-召唤鲨鱼攻击敌人
+Summons sharks to attack enemies.
 
 [AQUAWEED_PRODUCT_SHORT_DESC]
-召唤鲨鱼攻击敌人
+Summons sharks to attack enemies.
 
 [AQUAWEED_SKILL_LEVEL1]
-训练鲨鱼
+Shark Training
 
 [AQUAWEED_SKILL_LEVEL1_DES]
-召唤小鲨鱼时有15%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快
+When summoning a small shark, there is a 15% chance to summon 2 small sharks. At the same time, the attack power of the small sharks is increased and the time to summon a shark is faster.
 
 [AQUAWEED_SKILL_LEVEL2]
-鲨鱼领袖
+Shark Leader
 
 [AQUAWEED_SKILL_LEVEL2_DES]
-召唤小鲨鱼时有20%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快
+When summoning a small shark, there is a 20% chance to summon 2 small sharks. At the same time, the attack power of the small sharks is increased and the time to summon a shark is faster.
 
 [AQUAWEED_SKILL_LEVEL5]
-海洋霸主
+Ocean Overlord
 
 [AQUAWEED_SKILL_LEVEL5_DES]
-每次召唤都有几率召唤特殊的小鲨鱼（外观为红色的小鲨鱼），它会直接吃掉僵尸
+Each summon has a chance to summon a special small shark (such as a red shark), which will eat zombies directly.
 
 [AQUAWEED_SUPERSKILL]
-海洋霸主
+Ocean Overlord
 
 [AQUAWEED_SUPERSKILL_DES]
-每次召唤都有几率召唤特殊的小鲨鱼（比如外观为红色的小鲨鱼），它会直接吃掉僵尸
-
-[STORE_PRODUCT_AVATAR_AQUAWEED]
-海神草释放大招后额外再召唤3只小鲨鱼，有概率出红色小鲨鱼，在陆地上不生效
+Each summon has a chance to summon a special small shark (such as a red shark), which will eat zombies directly.
 
 [AQUAWEED_NEW_SKILL_LEVEL1_DES]
 召唤小鲨鱼攻击敌人，小鲨鱼会吞噬生命值40%以下的僵尸，然后变成饱腹状态回到海神草身边补充能量；当小鲨鱼返回次数达到3次海神草会补充满能量，释放大招召唤一只大鲨鱼对单行僵尸造成毁灭性伤害；1阶可以秒杀2阶中小体型僵尸。
 
 [AQUAWEED_NEW_SKILL_LEVEL2_DES]
-召唤小鲨鱼时有15%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快；2阶大招可以秒杀4阶中小体型僵尸。
+When summoning a small shark, there is a 15% chance to summon 2 small sharks. At the same time, the attack power of the small sharks is increased and the time to summon a shark is faster.
 
 [AQUAWEED_NEW_SKILL_LEVEL3_DES]
-召唤小鲨鱼时有20%召唤2只，同时提升小鲨鱼的攻击力，且再次召唤小鲨鱼的时间会加快；3阶大招可以秒杀6阶中小体型僵尸。
+When summoning a small shark, there is a 20% chance to summon 2 small sharks. At the same time, the attack power of the small sharks is increased and the time to summon a shark is faster.
 
 [AQUAWEED_NEW_SKILL_LEVEL4_DES]
 种植时有高概率直接释放能量豆大招；4阶大招可以秒杀8阶中小体型僵尸。
 
 [AQUAWEED_NEW_SKILL_LEVEL5_DES]
-每次召唤都有几率召唤特殊的小鲨鱼（外观为红色的小鲨鱼），它会直接吃掉僵尸；5阶大招可以秒杀10阶中小体型僵尸。
-
-[STORE_PRODUCT_AVATAR_AQUAWEED_TITLE]
-海神装扮
-
-[AQUAWEED_AVATAR_NAME]
-海神装扮
+Each summon has a chance to summon a special small shark (such as a red shark), which will eat zombies directly.
 
 [AQUAWEED_PLANTFOOD_DESCRIPTION]
 海神草释放大鲨鱼后，额外再召唤3只小鲨鱼，每只小鲨鱼有15%的概率变红色小鲨鱼，在陆地上不生效。
@@ -20850,60 +20840,193 @@ Oxygen Algae Vampire
 [AQUAWEED_AVATAR_PLANTFOOD_DESCRIPTION]
 海神草释放大鲨鱼后，额外再召唤3只小鲨鱼，每只小鲨鱼有15%的概率变红色小鲨鱼，在陆地上不生效。
 
+[STORE_PRODUCT_AVATAR_AQUAWEED_TITLE]
+海神装扮
+
+[AQUAWEED_AVATAR_NAME]
+海神装扮
+
+[STORE_PRODUCT_AVATAR_AQUAWEED]
+海神草释放大招后额外再召唤3只小鲨鱼，有概率出红色小鲨鱼，在陆地上不生效
+
+
+
+
+
 [KELPGUARD]
-海带守卫
+Kelp Guard
 
 [KELPGUARD_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}海带守卫一直试图冲破自己的减速带，但是从来没有成功过。
+{KEYWORD}Plant features: {STAT} Green plant
+{FLAVOR}Kelp Guard keeps attempting to break his own speed bump, but that never works out.
 
 [KELPGUARD_DESCRIPTION_HEADER]
-海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
+Kelp Guard can only be planted in seawater, creating speed bumps and blocking zombies and ocean currents.
 
 [KELPGUARD_TOOLTIP]
-海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
+Kelp Guard can only be planted in seawater, creating speed bumps and blocking zombies and ocean currents.
 
 [KELPGUARD_PRODUCT_SHORT_DESC]
-海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
-
-[KELPGUARD_AVATAR_NAME]
-海带守卫只能种在海水中，生成减速带并阻挡僵尸和洋流。
-
-[STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
-海带守卫装扮
-
-[STORE_PRODUCT_AVATAR_KELPGUARD]
-僵尸被击退的格数增加为2格
+Kelp Guard can only be planted in seawater, creating speed bumps and blocking zombies and ocean currents.
 
 [KELPGUARD_SKILL_LEVEL1]
-坚持不懈
+Preservance
 
 [KELPGUARD_SKILL_LEVEL1_DES]
-进入破损状态所需的僵尸数量变为4个
+When 4 zombies touch the speed bump, only then the speed bump will start to break
 
 [KELPGUARD_SKILL_LEVEL2]
-钢铁意志
+Steel Willpower
 
 [KELPGUARD_SKILL_LEVEL2_DES]
-进入破损状态所需的僵尸数量变为5个
+When 5 zombies touch the speed bump, only then the speed bump will start to break
 
 [KELPGUARD_NEW_SKILL_LEVEL1_DES]
 海带守卫只能种植在水中。种植时，会同时种植在同一列的1和6行，并在中间形成海带减速带阻挡僵尸；当有3个僵尸接触到减速带时，每经过5秒后就会破损部分减速带，直到完全断裂；若没有僵尸在和减速带碰撞，则一段时间后会重新形成减速带。当海带减速带处于完好状态时，减速带可以阻挡洋流效果。
 
 [KELPGUARD_NEW_SKILL_LEVEL2_DES]
-当有4个僵尸接触到减速带时，才会开始破损部分减速带
+When 4 zombies touch the speed bump, only then the speed bump will start to break
 
 [KELPGUARD_NEW_SKILL_LEVEL3_DES]
-当有5个僵尸接触到减速带时，才会开始破损部分减速带
+When 5 zombies touch the speed bump, only then the speed bump will start to break
 
 [KELPGUARD_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+Kelp Guard may be boosted when planted.
 
 [KELPGUARD_PLANTFOOD_DESCRIPTION]
-当海带守卫开启大招后，会直接生成完好的减速带，此时海带守卫的减速带不会被破坏，并在短暂蓄力后将减速带上的僵尸向击退弹1格。
+Knock back the zombies in front of the kelp barrier formed by the kelp fists by 1 tile.
 
 [KELPGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
-当海带守卫开启大招后，会直接生成完好的减速带，此时海带守卫的减速带不会被破坏，并在短暂蓄力后将减速带上的僵尸向击退弹2格。
+Knock back the zombies in front of the kelp barrier formed by the kelp fists by 2 tile.
+
+[KELPGUARD_AVATAR_NAME]
+Kelp Guard keeps attempting to break his own speed bump, but that never works out.
+
+[STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
+Kelp Guard neko maid
+
+[STORE_PRODUCT_AVATAR_KELPGUARD]
+Knock back by 2 tiles.
+
+
+
+[SEADERRIS]
+噗噗鱼藤
+
+[SEADERRIS_DESCRIPTION]
+{KEYWORD}植物特征：{STAT}紫色植物
+{FLAVOR}噗噗鱼藤很喜欢到处喷出鱼藤酮。有一天她知道鱼群和僵尸都很讨厌鱼藤酮，她更开心了。
+
+[SEADERRIS_DESCRIPTION_HEADER]
+噗噗鱼藤可以种在水中，驱赶鱼群和僵尸
+
+[SEADERRIS_TOOLTIP]
+噗噗鱼藤可以种在水中，驱赶鱼群和僵尸
+
+[SEADERRIS_PRODUCT_SHORT_DESC]
+噗噗鱼藤可以种在水中，驱赶鱼群和僵尸
+
+[SEADERRIS_AVATAR_NAME]
+噗噗鱼藤可以种在水中，驱赶鱼群和僵尸
+
+[STORE_PRODUCT_AVATAR_SEADERRIS_TITLE]
+噗噗鱼藤装扮
+
+[STORE_PRODUCT_AVATAR_SEADERRIS]
+种植冷却时间减少20%
+
+[SEADERRIS_SKILL_LEVEL1]
+多喷一下
+
+[SEADERRIS_SKILL_LEVEL1_DES]
+噗噗鱼藤的鱼藤酮停留时间延长至6s
+
+[SEADERRIS_SKILL_LEVEL2]
+多喷两下
+
+[SEADERRIS_SKILL_LEVEL2_DES]
+噗噗鱼藤的鱼藤酮停留时间延长至7s
+
+[SEADERRIS_NEW_SKILL_LEVEL1_DES]
+噗噗鱼藤可以种在水中，种植后会立刻在3X3的范围内喷出鱼藤酮，僵尸碰到后会反向行走,脱离范围后效果持续1s。鱼群碰到后会离开地图20s。对深海大鱼和蓝鲸也有克制作用！
+
+[SEADERRIS_NEW_SKILL_LEVEL2_DES]
+噗噗鱼藤的鱼藤酮停留时间延长至6s
+
+[SEADERRIS_NEW_SKILL_LEVEL3_DES]
+噗噗鱼藤的鱼藤酮停留时间延长至7s
+
+[SEADERRIS_AVATAR_PLANTFOOD_DESCRIPTION]
+种植冷却时间减少20%
+
+
+[SEASHOOTER]
+Seashooter
+
+[SEASHOOTER_DESCRIPTION]
+{KEYWORD}Special: {STAT} Attacks zombies in three directions. The Plant Food ability can be linked with other plants to increase the Plant Food ability.
+{KEYWORD}Plant feature: {STAT} Purple plant, marine plant
+{FLAVOR}Seashooter, who grew up in a swimming pool, will one day go on an adventure to the Underwater World, and then no one will ask why the word "sea" is in his name.
+
+[SEASHOOTER_DESCRIPTION_HEADER]
+Fires three projectiles to attack enemies in three directions.
+
+[SEASHOOTER_TOOLTIP]
+Fires three projectiles to attack enemies in three directions.
+
+[SEASHOOTER_SKILL_LEVEL1]
+Linkage Improvement
+
+[SEASHOOTER_SKILL_LEVEL1_DES]
+Level 2 can be linked with normal Peashooter and Goo Peashooter.
+
+[SEASHOOTER_SKILL_LEVEL2]
+Linkage Strengthening
+
+[SEASHOOTER_SKILL_LEVEL2_DES]
+Level 3 can be linked with Sling Pea.
+
+[SEASHOOTER_SKILL_LEVEL5]
+Unleashing Potential
+
+[SEASHOOTER_SKILL_LEVEL5_DES]
+Can be linked with Mega Gatling Pea, including fused Mega Gatling Peas. After a linked plant uses its Plant Food ability, there is a 10% chance of using another Plant Food ability, excluding Seashooter.
+
+[SEASHOOTER_SUPERSKILL]
+Unleashing Potential
+
+[SEASHOOTER_SUPERSKILL_DES]
+Can be linked with Mega Gatling Pea, including fused Mega Gatling Peas. After a linked plant uses its Plant Food ability, there is a 10% chance of using another Plant Food ability, excluding Seashooter.
+
+[SEASHOOTER_NEW_SKILL_LEVEL1_DES]
+可以朝3个方向喷射子弹攻击僵尸，释放能量豆大招时可以带动3*3范围内的最多3个精英豌豆家族植物一起释放大招。种植后根据身边水坑的数量，每多一个增加攻击5点并降低攻速，在海底世界种植可以享受满加成的攻击力buff。
+
+[SEASHOOTER_NEW_SKILL_LEVEL2_DES]
+Level 2 can be linked with normal Peashooter and Goo Peashooter.
+
+[SEASHOOTER_NEW_SKILL_LEVEL3_DES]
+Level 3 can be linked with Sling Pea.
+
+[SEASHOOTER_NEW_SKILL_LEVEL4_DES]
+Seashooter may be boosted when planted.
+
+[SEASHOOTER_NEW_SKILL_LEVEL5_DES]
+Can be linked with Mega Gatling Pea, including fused Mega Gatling Peas. After a linked plant uses its Plant Food ability, there is a 10% chance of using another Plant Food ability, excluding Seashooter.
+
+[SEASHOOTER_PLANTFOOD_DESCRIPTION]
+Launches a barrage of water peas in 3 directions
+
+[SEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
+Launches even more water peas.
+
+[STORE_PRODUCT_AVATAR_SEASHOOTER]
+Launches a barrage of water peas in 3 directions
+
+[STORE_PRODUCT_AVATAR_SEASHOOTER_TITLE]
+Seashooter ribbon
+
+[SEASHOOTER_AVATAR_NAME]
+Seashooter ribbon
 
 [PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS END]
 
