@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     : Text-based (3.8.1 server 1)
-Version          : 3.8.1_1 version 1 (pre-release)
+File Version     : Text-based (3.8.5 server 1)
+Version          : 3.8.1_5 version 1 (pre-release)
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.gg/4Dp38Y7uJv
 YouTube          : https://www.youtube.com/@evilhack28
@@ -52,70 +52,82 @@ Credits
 [HEALTH_NOTICE_CONTENT_2]
 Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
-Translated by evilhack28 3.8.1_1 Aug 31
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
-Translated by evilhack28 3.8.1_1 Aug 31
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
-Translated by evilhack28 3.8.1_1 Aug 31
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
-Translated by evilhack28 3.8.1_1 Aug 31
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
-Translated by evilhack28 3.8.1_1 Aug 31
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [AGE_TIP]
 CREDIT
 
 [AGE_TIP_CONTENT]
-======3.8.1_1======
-added 3.8.1 text 
-and various text fix
-
+======3.8.5_1======
+added 3.8.5 text 
 
 
 
 [SPRING_TIPS_1]
 ^ff6f4d If you see any MISSING text, report it to me!
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
+
 
 [SPRING_TIPS_2]
 ^c77dff Don’t forget to test my Music Patch!
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_3]
 ^4dff88 Have a great day!
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_4]
 ^4da6ff Don’t forget to do the daily Challenge!
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_5]
 ^4dffe5 Modding for 2 years now... kinda long, right? ^oldclrr
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_6]
 ^ffd84d If you need help, contact me on Discord!
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_7]
 ^a6a6a6 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_8]
 ^66f2ff Made by ^FF0000 EvilHack28 ^oldclrr — enjoy the English translation!
-^000000 ~~ Made by EvilHack28 Last update Aug 31 (3.8.1_1) ~~
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 
 
