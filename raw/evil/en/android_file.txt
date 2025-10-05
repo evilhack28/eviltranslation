@@ -50,31 +50,26 @@ Credits
 
 
 [HEALTH_NOTICE_CONTENT_2]
-Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
-Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
-Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
-Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
-Plants: 227/286 (55 broken wiki)
 Click the "12" in top right for ChangeLog
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
@@ -89,49 +84,111 @@ added 3.8.5 text
 
 
 [SPRING_TIPS_1]
-^ff6f4d If you see any MISSING text, report it to me!
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 
 [SPRING_TIPS_2]
-^c77dff Don’t forget to test my Music Patch!
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_3]
-^4dff88 Have a great day!
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_4]
-^4da6ff Don’t forget to do the daily Challenge!
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_5]
-^4dffe5 Modding for 2 years now... kinda long, right? ^oldclrr
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_6]
-^ffd84d If you need help, contact me on Discord!
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_7]
-^a6a6a6 68 61 76 65 20 61 20 67 6F 6F 64 20 64 61 79
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_8]
-^66f2ff Made by ^FF0000 EvilHack28 ^oldclrr — enjoy the English translation!
 ^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
+Escape Root Goggles
 
+[NEW_AVATAR_DESCRIPTION_ESCAPEROOT_2]
+Reduces cooldown by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_3]
+枫影剑客墨镜装扮
+
+[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_3]
+阳光消耗减少40
+
+[NEW_AVATAR_SHORT_DESCRIPTION_POISONPEASHOOTER_1]
+毒液豌豆鸟嘴面具装扮
+
+[NEW_AVATAR_DESCRIPTION_POISONPEASHOOTER_1]
+中毒伤害增加10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_KELPGUARD_1]
+海带守卫金表金链装扮
+
+[NEW_AVATAR_DESCRIPTION_KELPGUARD_1]
+生命值增加20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SEADERRIS_1]
+噗噗鱼藤水母帽装扮
+
+[NEW_AVATAR_DESCRIPTION_SEADERRIS_1]
+阳光消耗减少10
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SEASHOOTER_1]
+海豌豆兔耳装扮
+
+[NEW_AVATAR_DESCRIPTION_SEASHOOTER_1]
+攻击力提升10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_2]
+海神草眼镜装扮
+
+[NEW_AVATAR_DESCRIPTION_AQUAWEED_2]
+攻击力提升10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_1]
+球果训练家茶壶装扮
+
+[NEW_AVATAR_DESCRIPTION_ANIMNUTS_1]
+阳光消耗减少50
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_3]
+坚果螃蟹腿装扮
+
+[NEW_AVATAR_DESCRIPTION_WALLNUT_3]
+生命值增加20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_4]
+机枪豌豆炼金装甲装扮
+
+[NEW_AVATAR_DESCRIPTION_GATLINGPEA_4]
+大招射出的豌豆数量增加50% 
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_3]
+泡泡姬珊瑚公主装扮
+
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_3]
+阳光消耗减少50
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_4]
+泡泡姬珊瑚公主-璀璨装扮
+
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_4]
+无
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FLAMELADY_1]
 Flame Queen Palm-Leaf Fan Skin
@@ -195,6 +252,38 @@ Attack power increased by 20%
 
 [GENE_DESCRIPTION_PINKSTARFRUIT]
 Plant Food damage increased by {Param_1}%
+
+[GENE_DESCRIPTION_CONVALLARIACHEMIST]
+芦藜药师的毒素叠至满层后，每次附加毒素可以造成{Param_1}%百分比的毒爆伤害
+
+[GENE_DESCRIPTION_SHADOWSHROOM]
+毒影菇使僵尸中毒时每秒有{Param_1}%的几率使僵尸眩晕0.5s
+
+[GENE_DESCRIPTION_MEGAGATLING]
+5阶超级豌豆射手有{Param_1}%概率直接赋予一种属性，属性包括冰、火、闪电、毒、原始、三重
+超级机枪射手赋予的属性会根据玩家上阵的属性豌豆来决定，例如：
+携带原始豌豆，那么触发时100%赋予原始属性，携带原始豌豆和电能豌豆时，各自1/2的概率
+
+[GENE_DESCRIPTION_GRAPESHOT]
+有{Param_1}%的概率使每个小葡萄的弹射次数增加一次
+
+[GENE_DESCRIPTION_THUNDERSNAPDRAGON]
+雷龙草的雷龙幻影有{Param_1}%会折返飞行，对本行僵尸造成同等伤害和麻痹。（5阶后生效）
+
+[GENE_DESCRIPTION_ELEOCURLING]
+荸荠兄弟大招发射的大冰壶在冰道上会加速，攻击力提升{Param_1}%。
+
+[GENE_DESCRIPTION_GLUTTONYDRAGON]
+贪吃龙草的大招会有{Param_1}%的概率额外再多吸引一个僵尸。
+
+[GENE_DESCRIPTION_PRIMALWALLNUT]
+原始坚果墙的幼年原始坚果在{Param_1}秒后会成长为原始坚果墙。
+
+[GENE_DESCRIPTION_COCONUTCANNON]
+椰子加农炮降低阳光消耗{Param_1}点。
+
+[GENE_DESCRIPTION_HYPNOSHROOM]
+魅惑菇种植冷却时间缩短{Param_1}%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
 Big Smoke Mushroom Lion Dance Outfit
@@ -2256,6 +2345,18 @@ Chasing Childhood Dreams
 [LEVEL_EDITOR_HEAD_DES_ID_25747]
 Remembering the dreams of childhood
 
+[LEVEL_EDITOR_HEAD_ID_25760]
+Night Owl Champion
+
+[LEVEL_EDITOR_HEAD_DES_ID_25760]
+Time for another cup of coffee
+
+[LEVEL_EDITOR_HEAD_ID_25762]
+Glorious Galaxea
+
+[LEVEL_EDITOR_HEAD_DES_ID_25762]
+Limited avatar from Chroma Customization event
+
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Children's Mangosteen
 
@@ -2324,6 +2425,13 @@ Peaceful Night
 [SUMMER_MEMORIES_HEAD_DES_ID_25746]
 To players journeying through memories.
 Season 20
+
+[SUMMER_MEMORIES_HEAD_ID_25759]
+Arcade Moment
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25759]
+To players journeying through memories.
+Season 2
 
 [PARTYEPSACTIVITY_HEAD_ID_25572]
 Party Orchid Mage
@@ -2511,6 +2619,12 @@ I am Big Brother
 
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25709]
 Proof of Perfectly Completing Children's Day
+
+[UNCHARTED_ZCORP_ID_25758]
+ZCorp Conqueror
+
+[UNCHARTED_ZCORP_HEAD_DES_ID_25758]
+Proof of Perfectly Completing ZCorp
 
 [PVZ_ERROR_20001]
 Compression failed.
@@ -5539,6 +5653,9 @@ Roman Caesar Zombie tosses imperial salad dressing onto plants, making them irre
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_CAESAR_PHASE1]
 ^573701^After special training, it can be controlled, deformed, and killed instantly^oldclrr
 
+[ELITE_ZOMBIE_TIPS_TEXT_GENERAL_ZMECH_PHASE1]
+^573701^Advanced mechs are immune to control, transformation, and instant-kill effects^oldclr^
+
 [IZOMBIE_ZOMBIE_JALAPENO]
 Jalapeno Zombie
 
@@ -8534,6 +8651,12 @@ Enhanced Jumping
 [SQUASH_SKILL1_LEVEL2_DES]
 Enhances the effect of bounce training by 40%
 
+[SQUASH_SKILL1_LEVEL5]
+Let it Fly!
+
+[SQUASH_SKILL1_LEVEL5_DES]
+The first jump of Squash will perform a high jump, shocking zombies in a 3×3 area around the landing point. This jump is guaranteed to last and does not use up the 2nd or 3rd level.
+
 [SQUASH_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in one square on each side of Squash, after he jumps to cause damage to zombies in a single square range.
 
@@ -8545,6 +8668,9 @@ When a zombie appears in one square on each side of Squash, after he jumps to ca
 
 [SQUASH_NEW_SKILL_LEVEL4_DES]
 Squash may be boosted when planted.
+
+[SQUASH_NEW_SKILL_LEVEL5_DES]
+The first jump of Squash will perform a high jump, shocking zombies in a 3×3 area around the landing point. This jump is guaranteed to last and does not use up the 2nd or 3rd level.
 
 [SQUASH_PLANTFOOD_DESCRIPTION]
 Squash smashes two random zombies before returning to his original position
@@ -11085,6 +11211,12 @@ Super Fast Awakening
 [PRIMALPOTATOMINE_SKILL_LEVEL2_DES]
 Reduces arming time to 6 seconds.
 
+[PRIMALPOTATOMINE_SKILL_LEVEL5]
+Netted Minefield
+
+[PRIMALPOTATOMINE_SKILL_LEVEL5_DES]
+Once deployed, Primal Potato Mine will spread out a root network, spawning a Small Potato Mine every 3 seconds. When a zombie enters the root network, Primal Potato Mine will call on all existing Small Potato Mines to drill under the zombie's feet and explode.
+
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL1_DES]
 He does 2400 damage in a 3x3 area and only takes 5 seconds to arm, while costing 50 sun (25 sun in Jurassic Marsh).
 
@@ -11096,6 +11228,9 @@ Reduces arming time to 6 seconds.
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL4_DES]
 Primal Potato Mine have 100% chance to be boosted when planted.
+
+[PRIMALPOTATOMINE_NEW_SKILL_LEVEL5_DES]
+Once deployed, Primal Potato Mine will spread out a root network, spawning a Small Potato Mine every 3 seconds. When a zombie enters the root network, Primal Potato Mine will call on all existing Small Potato Mines to drill under the zombie's feet and explode.
 
 [PRIMALPOTATOMINE_PLANTFOOD_DESCRIPTION]
 Instantly arm himself (if unarmed) and will create two new and fully armed Primal Potato Mines on two random tiles.
@@ -22463,6 +22598,226 @@ Seashooter ribbon
 [SEASHOOTER_AVATAR_NAME]
 Seashooter ribbon
 
+[ANIMNUTS]
+Cone Trainer
+
+[ANIMNUTS_DESCRIPTION]
+{KEYWORD}Range:{STAT} Lane of plants
+{KEYWORD}Special:{STAT} Three unique plant pets.
+{KEYWORD}Plant features:{STAT} Orange plant
+{FLAVOR}In the past, plants generally did not welcome human pets occupying their windowsills. However, when the plant itself is a magical pet ball, raising any pet may not be a problem.
+
+[ANIMNUTS_DESCRIPTION_HEADER]
+Summons a plant pet in the cone.
+
+[ANIMNUTS_TOOLTIP]
+Summons a plant pet in the cone.
+
+[ANIMNUTS_PRODUCT_SHORT_DESC]
+Summons a plant pet in the cone.
+
+[ANIMNUTS_SKILL_LEVEL1]
+Intimacy Training
+
+[ANIMNUTS_SKILL_LEVEL1_DES]
+T. rex: Bite damage increased by 20%, swallowing time reduced to 8 seconds.
+Globular Jellyfish: Attacking has a 15% chance of summoning a pink jellyfish. Upon exploding, the pink jellyfish has a 50% chance of inflicting a 6-second hypnotizing on the zombie.
+Ghost Horse: Attack damage increased by 20%, rest time reduced to 10 seconds.
+
+[ANIMNUTS_SKILL_LEVEL2]
+Potential Training
+
+[ANIMNUTS_SKILL_LEVEL2_DES]
+T. rex: Bite damage increased by 20% and swallowing time reduced to 4 seconds.
+Globular Jellyfish: Attacks have a 30% chance to summon a pink jellyfish.
+Ghost Horse: Attack damage increased by 20% and rest time reduced to 6 seconds.
+
+[ANIMNUTS_SKILL_LEVEL5]
+Mega Evolution
+
+[ANIMNUTS_SKILL_LEVEL5_DES]
+T. rex: After successfully devouring a zombie, it roars, stunning surrounding zombies for 3 seconds.
+Globular Jellyfish: The explosion radius of small jellyfish is increased to a single tile (the hypnotizing radius of pink jellyfish is also increased).
+Ghost Horse: Ghost Horse's charge knocks back all zombies it touches by half a block.
+
+[ANIMNUTS_NEW_SKILL_LEVEL1_DES]
+点击植物卡槽右侧的按钮可切换不同球果召唤植宠，植宠会在本行自动攻击僵尸，不会受到僵尸攻击。
+
+[ANIMNUTS_NEW_SKILL_LEVEL2_DES]
+T. rex: Bite damage increased by 20%, swallowing time reduced to 8 seconds.
+Globular Jellyfish: Attacking has a 15% chance of summoning a pink jellyfish. Upon exploding, the pink jellyfish has a 50% chance of inflicting a 6-second hypnotizing on the zombie.
+Ghost Horse: Attack damage increased by 20%, rest time reduced to 10 seconds.
+
+[ANIMNUTS_NEW_SKILL_LEVEL3_DES]
+T. rex: Bite damage increased by 20% and swallowing time reduced to 4 seconds.
+Globular Jellyfish: Attacks have a 30% chance to summon a pink jellyfish.
+Ghost Horse: Attack damage increased by 20% and rest time reduced to 6 seconds.
+
+[ANIMNUTS_NEW_SKILL_LEVEL4_DES]
+Cone Trainer may be boosted when planted.
+
+[ANIMNUTS_NEW_SKILL_LEVEL5_DES]
+T. rex: After successfully devouring a zombie, it roars, stunning surrounding zombies for 3 seconds.
+Globular Jellyfish: The explosion radius of small jellyfish is increased to a single tile (the hypnotizing radius of pink jellyfish is also increased).
+Ghost Horse: Ghost Horse's charge knocks back all zombies it touches by half a block.
+
+[ANIMNUTS_PLANTFOOD_DESCRIPTION]
+霸果龙：发出龙吼召唤一排恐龙兽潮，对路径路径上的僵尸造成伤害
+球水母：发射激光攻击场上血量最多的僵尸，每秒造成20%最大生命值的伤害持续25秒。
+幽林马：召唤一个法阵，新生成的中小体型僵尸都会被立即传送至法阵中心
+
+[ANIMNUTS_AVATAR_PLANTFOOD_DESCRIPTION]
+霸果龙：恐龙兽潮可以击飞中小体型僵尸，满阶最高可击飞8阶僵尸
+球水母：激光杀死的僵尸会造成一格范围内1000点伤害的爆炸
+幽林马：法阵内的僵尸会被眩晕持续至法阵结束后
+
+[ANIMNUTS_AVATAR_NAME]
+Cone Trainer Cat hears
+
+[STORE_PRODUCT_AVATAR_ANIMNUTS]
+霸果龙：恐龙兽潮可以击飞中小体型僵尸
+球水母：激光杀死的僵尸时会产生一格范围的爆炸
+幽林马：法阵内的僵尸会被眩晕持续至法阵结束后
+
+[STORE_PRODUCT_AVATAR_ANIMNUTS_TITLE]
+Cone Trainer Cat hears
+
+
+
+[SCAREDYSHROOM]
+Scaredy-shroom
+
+[SCAREDYSHROOM_DESCRIPTION]
+{KEYWORD}Plant features:{STAT} Purple plant, mushroom family
+{FLAVOR}"Who's there?" Scaredy-shroom whispered, his voice barely audible. "Go away! I don't want to see anyone. Unless... unless you're from the circus."
+
+[SCAREDYSHROOM_DESCRIPTION_HEADER]
+Shoots spores at the enemy. When a zombie approaches, Scaredy-shroom will curl up into a ball.
+
+[SCAREDYSHROOM_TOOLTIP]
+Shoots spores at the enemy. When a zombie approaches, Scaredy-shroom will curl up into a ball.
+
+[SCAREDYSHROOM_PRODUCT_SHORT_DESC]
+Shoots spores at the enemy. When a zombie approaches, Scaredy-shroom will curl up into a ball.
+
+[SCAREDYSHROOM_SKILL_LEVEL1]
+Two Bursts
+
+[SCAREDYSHROOM_SKILL_LEVEL1_DES]
+The attack becomes a continuous spit of two spores.
+
+[SCAREDYSHROOM_SKILL_LEVEL2]
+Three Bursts
+
+[SCAREDYSHROOM_SKILL_LEVEL2_DES]
+The attack becomes a continuous spit of three spores.
+
+[SCAREDYSHROOM_SKILL_LEVEL5]
+Jedi Strikes Back
+
+[SCAREDYSHROOM_SKILL_LEVEL5_DES]
+When standing up from its cowering state, Scaredy-shroom will immediately spit out 20 spores and apply knockback.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL1_DES]
+Fires spores at enemies. When zombies approach, Scaredy-shroom will.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL2_DES]
+The attack becomes a continuous spit of two spores.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL3_DES]
+The attack becomes a continuous spit of three spores.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL4_DES]
+Scaredy-shroom may be boosted when planted.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL5_DES]
+When standing up from its cowering state, Scaredy-shroom will immediately spit out 20 spores and apply knockback.
+
+[SCAREDYSHROOM_PLANTFOOD_DESCRIPTION]
+Scaredy-shroom, and any other nearby Scaredy-shrooms in a 3x3 area, will fire a 35 spores that cause knockback and direct damage.
+
+[SCAREDYSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Increases number of spores fired by 50 and the spores now penetrate all zombies.
+
+[SCAREDYSHROOM_AVATAR_NAME]
+Shoots spores at the enemy. When a zombie approaches, Scaredy-shroom will curl up into a ball.
+
+[STORE_PRODUCT_AVATAR_SCAREDYSHROOM_TITLE]
+Scaredy-shroom heart glasses
+
+[STORE_PRODUCT_AVATAR_SCAREDYSHROOM]
+Increases number of spores fired by 50 and the spores now penetrate all zombies.
+
+
+
+[AEONIUM]
+Aeonium
+
+[AEONIUM_DESCRIPTION]
+{KEYWORD}Special:{STAT} Banishes zombies, putting them into a state of invisibility where they are vulnerable to magic.
+{KEYWORD}Plant features:{STAT} Purple plant
+{FLAVOR}Aeonium came from the void and will return to the void.
+
+[AEONIUM_DESCRIPTION_HEADER]
+Uses magic to banish zombies into the void.
+
+[AEONIUM_TOOLTIP]
+Uses magic to banish zombies into the void.
+
+[AEONIUM_SKILL_LEVEL1]
+Mana Release
+
+[AEONIUM_SKILL_LEVEL1_DES]
+Can banish two zombies at the same time, and banished zombies will receive 20% more magic damage.
+
+[AEONIUM_SKILL_LEVEL2]
+Master the Void
+
+[AEONIUM_SKILL_LEVEL2_DES]
+Can banish three zombies at the same time, and banished zombies will receive 30% more magic damage.
+
+[AEONIUM_SKILL_LEVEL5]
+Lord of the Void
+
+[AEONIUM_SKILL_LEVEL5_DES]
+Banishing a zombie has a 30% chance of permanently banishing it, unleashing an explosive impact. Zombies that can't be instantly killed will still be banished, dealing damage equal to their own attack power multiplied by 10 times. Elites and bosses cannot be banished.
+
+[AEONIUM_SUPERSKILL]
+Lord of the Void
+
+[AEONIUM_SUPERSKILL_DES]
+Banishing a zombie has a 30% chance of permanently banishing it, unleashing an explosive impact. Zombies that can't be instantly killed will still be banished, dealing damage equal to their own attack power multiplied by 10 times. Elites and bosses cannot be banished.
+
+[AEONIUM_NEW_SKILL_LEVEL1_DES]
+攻击将使僵尸陷入虚化状态持续5s并持续造成伤害，虚化僵尸只会受到魔法伤害且每次受到其他植物的魔法伤害都会附加一次黑法师的持续伤害。非魔法子弹穿过虚化僵尸也会对其造成一次黑法师的持续伤害。
+
+[AEONIUM_NEW_SKILL_LEVEL2_DES]
+Can banish two zombies at the same time, and banished zombies will receive 20% more magic damage.
+
+[AEONIUM_NEW_SKILL_LEVEL3_DES]
+Can banish three zombies at the same time, and banished zombies will receive 30% more magic damage.
+
+[AEONIUM_NEW_SKILL_LEVEL4_DES]
+Aeonium may be boosted when planted.
+
+[AEONIUM_NEW_SKILL_LEVEL5_DES]
+Banishing a zombie has a 30% chance of permanently banishing it, unleashing an explosive impact. Zombies that can't be instantly killed will still be banished, dealing damage equal to their own attack power multiplied by 10 times. Elites and bosses cannot be banished.
+
+[AEONIUM_PLANTFOOD_DESCRIPTION]
+由大招炸开的虚化僵尸会让其他僵尸眩晕的时间增加2秒。
+
+[AEONIUM_AVATAR_PLANTFOOD_DESCRIPTION]
+由大招炸开的虚化僵尸会让其他僵尸眩晕的时间增加2秒。
+
+[STORE_PRODUCT_AVATAR_AEONIUM_TITLE]
+黑法师装扮
+
+[AEONIUM_AVATAR_NAME]
+黑法师装扮
+
+[STORE_PRODUCT_AVATAR_AEONIUM]
+由大招炸开的虚化僵尸会让其他僵尸眩晕的时间增加2秒。
+
 [PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS END]
 
 
@@ -24426,6 +24781,19 @@ Sweet Moment
 Congratulations! For being a Grandmaster!!!!
 Season 35
 
+[RANK_AVATAR_CONTENT_TITLE_61048]
+Company Adventure
+
+[RANK_AVATAR_CONTENT_CONTENT_61048]
+Reward for players who participated in the October 2025 Co-Op Event.
+
+[RANK_AVATAR_CONTENT_TITLE_61049]
+One-Hold-the-Gate
+
+[RANK_AVATAR_CONTENT_CONTENT_61049]
+Congratulations! For being a Grandmaster!!!!
+Season 36
+
 [RANK_AVATAR_CONTENT_TITLE_61038]
 Merry Christmas
 
@@ -24626,6 +24994,12 @@ Ocean Depths
 
 [rank_avatar_diy_50]
 Sweet Moment
+
+[rank_avatar_diy_51]
+Company Adventure
+
+[rank_avatar_diy_52]
+One Man Holds the Pass
 
 [rank_avatar_diy_100]
 Youthful Vitality
@@ -28749,7 +29123,7 @@ Coins
 [LUCKYCHEST_DES_DESCRIPTION]
 666. sorry i really need to remove text :(
 
-1. Event: Jully 11-Sep 3. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event: September 26 November 20. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -31170,13 +31544,13 @@ Searching for another player...
 Waiting
 
 [DIALOG_WAITING_OVERTIME]
-Waiting for timeout
+Synchronization Complete
 
 [DIALOG_WAITING_FAIL_BACK]
-Failure to return
+Continue Game
 
 [DIALOG_WAITING_SUC_BACK]
-Successful return
+Continue Game
 
 [BORROW_PLANT_TITLE]
 Borrowing plants
@@ -34674,6 +35048,12 @@ Construction ahead, please detour
 
 [STARCHALLENGE_EVIL_NAME]
 Dr. Zomboss
+
+[PVZ1MODE_HAMSTERBALL]
+Hamster Ball
+
+[PVZ1MODE_HAMSTERBALL_NORMAL_DESC]
+Hamster Balls incoming - beware of the zombies inside!
 
 [STARCHALLENGE_EVIL]
 Command zombie hordes to eat all plants
@@ -48436,7 +48816,7 @@ Double up with Imitater! Plus 50 Gems and 10,000 coins!
 Bundle - Summer
 
 [PRODUCT_SUMMER_BUNDLE_SHORT_DESCRIPTION]
-Summer Bundle
+Anniversary Bundle
 
 [PRODUCT_SWEETPOTATO_DESCRIPTION]
 Zombies will switch lanes to get a bite!
@@ -55254,7 +55634,7 @@ Please connect to the internet and try again.
 Boss Challenge Probability
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Explode-O-Nut Plant Pieces
+Scaredy-shroom Plant Pieces
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Other Epic Plant Pieces
@@ -55492,7 +55872,7 @@ Celestial Treasure Hunt
 Event Refresh
 
 [ACTIVITY_HEAVENTREASURE_SHORT_DESCRIPTION]
-Get the Aloes Dj and other rare cosmetic rewards.
+Get the {NAME1} and other rare cosmetic rewards.
 
 [HEAVENTREASURE_DESCRIPTION_TITLE]
 Event Description
@@ -55513,8 +55893,8 @@ Prize Probability
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
 Regular Pool:
-Super   Aloes Dj 0.43%
-Super   Candy Basket Pendant       0.81%
+Super   {NAME1}                   0.43%
+Super   {NAME2}                   0.81%
 Grand   Treasure ticket*10        1.48%
 Grand   Costume ticket*800        1.15%
 Grand   Advancement Book*1        1.17%
@@ -55527,8 +55907,8 @@ Normal  Celestial Coin*3          21.82%
 Normal  Celestial Coin*20         4.25%
 
 Guaranteed Pool:
-Super   Aloes Dj  2.25%
-Super   Candy Basket Pendant        3.36%
+Super   {NAME3}                    2.25%
+Super   {NAME4}                    3.36%
 Grand   Treasure ticket*20         9.31%
 Grand   costume ticket*800         8.19%
 Grand   Advancement Book*1         7.05%
@@ -56952,7 +57332,7 @@ Obtain 3 Gene Sequences/Gene Essences this week
 Perform 5 "Plant Gene Modifications" this week
 
 [BATTLEORDER_TASK_NAME_3_1]
-Smash 10 vase (July 18 to July 24)
+Smash 10 vase (October 8 to October 14)
 
 [BATTLEORDER_TASK_NAME_3_2]
 Get rewards 7 times in the "Mystery Store" (including free rewards) (The "Mystery Store" event will be open from October 6 to November 12)
@@ -57370,11 +57750,14 @@ Excess Gene Essence has been converted to Universal Gene Coins x1
 Confirm spending 1 Gene Essence of the current plant to upgrade the gene sequence?
 
 [GENE_SEQUENCE_BUY]
-Confirm exchange for the current gene?
+Confirm exchange for current gene?
+
+[GENE_NEW_SEQUENCE_BUY]
+Confirm exchange for {PLANT} gene?
 
 [GENE_SEQUENCE_TEST1]
-Attack: Attack power increased by 10%
-Stunned: Stun duration for zombies increased by 15% (+5%)
+Offense: Attack increases by 10%
+Dizzy: Stun duration on zombies increases by 15% (+5%)
 
 [GET_ADDITION]
 Obtain Bonus
@@ -57485,7 +57868,7 @@ The damage of the ionized anthurium large electric ball increases by {Param_1}%
 The probability of the guided thistle firing two bullets in succession increases {Param_1}% (effective after order 2)
 
 [BATTLE_ORDER_AUTUMN]
-Summer Festival
+Golden Autumn
 
 [BATTLE_ORDER_WINTER]
 Winter Celebration
@@ -57512,7 +57895,7 @@ Tasks
 Flash Sale
 
 [BATTLE_ORDER_TAB5_AUTUMN]
-Summer Festival
+Golden Autumn
 
 [BATTLE_ORDER_TAB5_WINTER]
 Lucky Winter
@@ -57637,7 +58020,7 @@ At least a {NUM} piece reward is available
 ENTER
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_AUTUMN]
-Summer Festivalg Event Description
+Golden Autumn Event Description
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_WINTER]
 Winter Celebration Event Description
@@ -57662,7 +58045,7 @@ Summer Festival Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -57675,7 +58058,7 @@ Summer Festival Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -57687,7 +58070,7 @@ Summer Festival Event Description
    - 150 Diamonds.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -57700,7 +58083,7 @@ Summer Festival Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -57713,7 +58096,7 @@ Summer Festival Event Description
 4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Frost Rambutan^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
  
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
@@ -61650,6 +62033,24 @@ Scrapyard
 [THEME_MIND_CONTROL_DESCRIPTION_DETAILS]
 When pea projectiles damage zombies, they charge an energy meter. When full, consumes all energy to summon random pea rains across the battlefield. Each pea deals fixed damage and ignores zombie traits.
 
+[THEME_PRINTER_NAME]
+Printer
+
+[THEME_PRINTER_DESCRIPTION]
+The printer periodically ejects A4 papers
+
+[THEME_PRINTER_DESCRIPTION_DETAILS]
+The printer periodically ejects A4 papers
+
+[THEME_CLEANER_NAME]
+Cleaning Robot
+
+[THEME_CLEANER_DESCRIPTION]
+The cleaning robot clears away trash
+
+[THEME_CLEANER_DESCRIPTION_DETAILS]
+The cleaning robot clears away trash
+
 [THEME_DISABLE_BOOST_NAME]
 Back to Basics
 
@@ -65060,10 +65461,10 @@ Plants vs. Traditional Zombies
 Unlocked after completing all level challenge objectives!
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_LEVEL_LOCKED]
-Levels unlock every day. this level is not yet available for unlocking.
+Levels unlock 2 day. this level is not yet available for unlocking.
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_202411_LEVEL_LOCKED]
-Levels unlock every day. this level is not yet available for unlocking.
+Levels unlock 2 day. this level is not yet available for unlocking.
 
 [UNCHARTED_ANNIVERSARY_SELECT_LEVEL_LOCKED]
 Come back tomorrow! 2 new level daily
@@ -65216,7 +65617,7 @@ Gameplay instructions
 Time limit:
 1. In the limited time-bound treasure can consume purple gold to extract powerful plants or piece, the maximum can be obtained directly from three order orange plants!
 If the plant already exists, it will be converted into 90 corresponding plant piece.
-3.3 The plant is open to the order will be shown as the state of obtaining and will not be open out again.
+3.If a level 3 plant is drawn, it will be shown as obtained after the draw ends and will not appear in subsequent draws.
 4. Get a bit of luck at a time, the higher the lucky value is easier to get rare props.
 5. Lucky value is not 100, if the trophy is open, the lucky value will be empty.
 6. The lucky value of 100 will be emptied into zero, and the next round will be set out for the trophy.
@@ -68177,6 +68578,102 @@ Manifold Phenomena
 [S26_MEMORY_LEVEL_NAME_032]
 Lightning Speed
 
+[S26_MEMORY_LEVEL_NAME_033]
+Band Carnival
+
+[S26_MEMORY_LEVEL_NAME_034]
+Celebration Balloons
+
+[S26_MEMORY_LEVEL_NAME_035]
+Butter Splash
+
+[S26_MEMORY_LEVEL_NAME_036]
+Angel Star
+
+[S26_MEMORY_LEVEL_NAME_037]
+Fever Cheers
+
+[S26_MEMORY_LEVEL_NAME_038]
+Firecracker Blast
+
+[S26_MEMORY_LEVEL_NAME_039]
+Pet Taming Master
+
+[S26_MEMORY_LEVEL_NAME_040]
+Cake Feast
+
+[S26_MEMORY_LEVEL_NAME_041]
+Fuzzy Egg Attack
+
+[S26_MEMORY_LEVEL_NAME_042]
+Rolling Flames
+
+[S26_MEMORY_LEVEL_NAME_043]
+Green Frontline
+
+[S26_MEMORY_LEVEL_NAME_044]
+Turkey Feast
+
+[S26_MEMORY_LEVEL_NAME_045]
+Changing Eras
+
+[S26_MEMORY_LEVEL_NAME_046]
+Laser Clash
+
+[S26_MEMORY_LEVEL_NAME_047]
+Night Knight
+
+[S26_MEMORY_LEVEL_NAME_048]
+Thunder Roar
+
+[S26_MEMORY_LEVEL_NAME_049]
+Swift Assault
+
+[S26_MEMORY_LEVEL_NAME_050]
+Soaring Ambush
+
+[S26_MEMORY_LEVEL_NAME_051]
+Turn Foes to Friends
+
+[S26_MEMORY_LEVEL_NAME_052]
+Tyrant's Roar
+
+[S26_MEMORY_LEVEL_NAME_053]
+Leaping Strike
+
+[S26_MEMORY_LEVEL_NAME_054]
+Colossal Creature
+
+[S26_MEMORY_LEVEL_NAME_055]
+Dragon's Lair
+
+[S26_MEMORY_LEVEL_NAME_056]
+Dinosaur Era
+
+[S26_MEMORY_LEVEL_NAME_057]
+Thrower Feast
+
+[S26_MEMORY_LEVEL_NAME_058]
+Slime Crisis
+
+[S26_MEMORY_LEVEL_NAME_059]
+Earth Shatter
+
+[S26_MEMORY_LEVEL_NAME_060]
+Overwhelming Tide
+
+[S26_MEMORY_LEVEL_NAME_061]
+Rooftop Party
+
+[S26_MEMORY_LEVEL_NAME_062]
+Plant Zombies
+
+[S26_MEMORY_LEVEL_NAME_063]
+Secret Realm Invasion
+
+[S26_MEMORY_LEVEL_NAME_064]
+Space-Time Rift
+
 [S26_MEMORY_LEVEL_NAME_BOSS_1]
 Sphinx Terminator
 
@@ -69420,6 +69917,30 @@ Complete tasks for rewards.
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ICEAGE_202411]
 Level rewards cannot be obtained repeatedly. The limited-time avatar reward for Hard mode is available from August 27, 2025 to September 17, 2025.
+
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ZCORP]
+1. Unlock Conditions
+
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ZCORP]
+This Secret Realm is a permanent feature. All normal levels are available upon unlocking the realm, while Hard mode unlocks two levels per day.
+
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ZCORP]
+2. Level Content
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ZCORP]
+ZCorp's Zombie Acquisition Initiative begins! New mechanics will also appear!
+
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ZCORP]
+3. Task Description
+
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ZCORP]
+Each level has specific tasks. Complete them to earn rewards.
+
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ZCORP]
+4. Task Rewards
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ZCORP]
+Level rewards cannot be obtained repeatedly.
 
 [UNCHARTED_SPRING_FESTIVAL_2024_KEY_INFO_TEXT_1]
 1. Opening conditions
@@ -71487,6 +72008,15 @@ Complete the previous levels first.
 5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
 6. Normal mode has 3 challenge. Completing them the first time gives rewards.
 
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ZCORP]
+1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
+2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
+3. Hard levels unlock after completing all normal levels.
+4. Hard levels unlock over time.
+5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
+6. Normal mode has 3 challenge. Completing them the first time gives rewards.
+
+
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2025]
 1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
 2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
@@ -72143,6 +72673,69 @@ Snow search for spring - day 12
 [SPRINGFESTIVAL_2024_NAME_13]
 Snow search for spring - day 13
 
+[PLAYERS_TRIP_TO_ZCORP]
+{PLAYER}'s ZCorp Journey
+
+[ZCORP_LEVEL_NAME_01_N]
+ZCorp - Day 1
+
+[ZCORP_LEVEL_NAME_02_N]
+ZCorp - Day 2
+
+[ZCORP_LEVEL_NAME_03_N]
+ZCorp - Day 3
+
+[ZCORP_LEVEL_NAME_04_N]
+ZCorp - Day 4
+
+[ZCORP_LEVEL_NAME_05_N]
+ZCorp - Day 5
+
+[ZCORP_LEVEL_NAME_06_N]
+ZCorp - Day 6
+
+[ZCORP_LEVEL_NAME_07_N]
+ZCorp - Day 7
+
+[ZCORP_LEVEL_NAME_08_N]
+ZCorp - Day 8
+
+[ZCORP_LEVEL_NAME_09_N]
+ZCorp - Day 9
+
+[ZCORP_LEVEL_NAME_10_N]
+ZCorp - Day 10
+
+[ZCORP_LEVEL_NAME_01_H]
+ZCorp (Hard) - Day 1
+
+[ZCORP_LEVEL_NAME_02_H]
+ZCorp (Hard) - Day 2
+
+[ZCORP_LEVEL_NAME_03_H]
+ZCorp (Hard) - Day 3
+
+[ZCORP_LEVEL_NAME_04_H]
+ZCorp (Hard) - Day 4
+
+[ZCORP_LEVEL_NAME_05_H]
+ZCorp (Hard) - Day 5
+
+[ZCORP_LEVEL_NAME_06_H]
+ZCorp (Hard) - Day 6
+
+[ZCORP_LEVEL_NAME_07_H]
+ZCorp (Hard) - Day 7
+
+[ZCORP_LEVEL_NAME_08_H]
+ZCorp (Hard) - Day 8
+
+[ZCORP_LEVEL_NAME_09_H]
+ZCorp (Hard) - Day 9
+
+[ZCORP_LEVEL_NAME_10_H]
+ZCorp (Hard) - Day 10
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINSCARECROW]
 Pumpkin scarecrow
 
@@ -72246,6 +72839,66 @@ Decisive battle
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE10]
 Elite Ice Weasel Zombies, Elite Ice Wind Chief Zombies, join the hunt!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP1]
+ZCorp Invasion
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP1]
+ZCorp zombies spotted - be careful!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP2]
+Role Reversal
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP2]
+Gargantuar and Imp? Am I seeing this right?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP3]
+Cleaning Robot
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP3]
+Why is there paper shreds everywhere? Good thing we have cleaning robots!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP4]
+Printer
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP4]
+The printer's malfunctioning! Watch out for flying papers!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP5]
+Cleaning Robot
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP5]
+More paper shreds! Harder to reach spots!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP6]
+Cleaning Robot × Printer
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP6]
+Huh? Why is the cleaning robot removing plants wrapped in paper?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP7]
+Consultant Arrival
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP7]
+Top lane, bottom lane - why are all zombies following the consultant's orders?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP8]
+Printer × Paper Shreds
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP8]
+Too much paper on the field - clear the level with limited resources!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP9]
+Cleaning Robot × Printer
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP9]
+More zombies and paper shreds! We need the cleaning robot's help!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP10]
+Final Battle
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP10]
+ZCorp Mech Zombie incoming!
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CHILDREN1]
 Elite touch car zombies come on
@@ -73200,7 +73853,37 @@ Self-destructs to eliminate plants in a cross-shaped area
 Mech Gargantuar
 
 [ZOMBIE_NEW_PVP_FUTURE_GARGANTUAR_DESCRIPTION_HEADER]
-Fires a laser to eliminate plants in tiles 1-3 of its row
+Laser deals massive damage to plants in columns 1-3 of its row
+
+[ZOMBIE_NEW_PVP_DINO_ARMOR3]
+Fossil Dragon Bone Zombie
+
+[ZOMBIE_NEW_PVP_DINO_ARMOR3_DESCRIPTION_HEADER]
+The dragon bone on its head can block significant damage
+
+[ZOMBIE_NEW_PVP_LOSTCITY_RELICHUNTER]
+Relic Hunter Zombie
+
+[ZOMBIE_NEW_PVP_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
+Swings directly to column 6 when appearing
+
+[ZOMBIE_NEW_PVP_DINO_GARGANTUAR]
+Jurassic Gargantuar
+
+[ZOMBIE_NEW_PVP_DINO_GARGANTUAR_DESCRIPTION_HEADER]
+A Gargantuar zombie with a more savage physique
+
+[ZOMBIE_NEW_PVP_EXPLOSION_PROOF]
+Riot Police Zombie
+
+[ZOMBIE_NEW_PVP_EXPLOSION_PROOF_DESCRIPTION_HEADER]
+Throws smoke bombs at the nearest plant
+
+[ZOMBIE_NEW_PVP_FAIRY_TALE_WITCH]
+Witch Zombie
+
+[ZOMBIE_NEW_PVP_FAIRY_TALE_WITCH_DESCRIPTION_HEADER]
+Uses magic to turn plants into frogs
 
 [NEW_PVP_COMBAT_UI_ROUND_COUNTER]
 Round {COUNTER}
@@ -73363,7 +74046,7 @@ Task Activity Instructions
 Activity Rules:
 
 
-[NEW_PVP_TASK_DESCRIPTION_30]
+[NEW_PVP_TASK_DESCRIPTION_34]
 1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
 2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
 3. 4 weekly tasks unlock progressively, available until season end.
@@ -73379,7 +74062,7 @@ Activity Rules:
    Accessories: 19.3% (Super 2.0%)
    Rare: Selectable Box 0.2%, Book 0.1%
 
-[NEW_PVP_TASK_DESCRIPTION_31]
+[NEW_PVP_TASK_DESCRIPTION_35]
 1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
 2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
 3. 4 weekly tasks unlock progressively, available until season end.
@@ -73395,7 +74078,7 @@ Activity Rules:
    Accessories: 19.3% (Super 2.0%)
    Rare: Selectable Box 0.2%, Book 0.1%
 
-[NEW_PVP_TASK_DESCRIPTION_32]
+[NEW_PVP_TASK_DESCRIPTION_36]
 1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
 2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
 3. 4 weekly tasks unlock progressively, available until season end.
@@ -74609,6 +75292,156 @@ Reach 6 stars
 [UNCHARTED_ICEAGE_TASK_NAME_10_5]
 Reach 10 stars
 
+[UNCHARTED_ZCORP_TASK_NAME_1_1]
+Complete three combo challenges: Zombie tier increase (1★), Zombie attack boost (2★), Zombie speed boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_1_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_1_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_1_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_1_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_2_1]
+Complete three combo challenges: Sun collection reduction (1★), Reduced seed slots (2★), Ranged/Special Ops plants banned (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_2_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_2_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_2_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_2_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_3_1]
+Complete three combo challenges: Ranged plant cost increase (1★), Zombie tier increase (2★), Zombie attack boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_3_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_3_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_3_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_3_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_4_1]
+Complete three combo challenges: Zombie tier increase (1★), Reduced seed slots (2★), Zombie attack boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_4_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_4_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_4_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_4_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_5_1]
+Complete three combo challenges: Defensive plant cooldown increase (1★), Special Ops plants banned (2★), Zombie attack boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_5_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_5_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_5_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_5_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_6_1]
+Complete three combo challenges: Support plant cost increase (1★), Sun collection reduction (2★), Zombie speed boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_6_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_6_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_6_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_6_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_7_1]
+Complete three combo challenges: Sun collection reduction (1★), Special Ops plants banned (2★), Zombie speed boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_7_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_7_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_7_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_7_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_8_1]
+Complete three combo challenges: Plant damage reduction (1★), Right-side creep (2★), Zombie attack boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_8_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_8_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_8_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_8_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_9_1]
+Complete three combo challenges: Zombie tier increase (1★), Support plants banned (2★), Zombie attack boost (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_9_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_9_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_9_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_9_5]
+Reach 10 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_10_1]
+Complete three combo challenges: Offensive plant cooldown increase (1★), Support plants banned (2★), Plant damage reduction (3★)
+
+[UNCHARTED_ZCORP_TASK_NAME_10_2]
+Reach 2 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_10_3]
+Reach 4 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_10_4]
+Reach 6 ★
+
+[UNCHARTED_ZCORP_TASK_NAME_10_5]
+Reach 10 ★
+
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_1]
 Complete 3 challenges: Reduced sun production (1★), Zombie damage increased (2★), Zombie speed increased (3★)
 
@@ -75305,6 +76138,12 @@ Zombie level increased by 9
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_1_DESCRIPTION]
 Zombies move 30% faster.
 
+[ZOMBIE_SPEED_DIFFICULTY_2]
+Zombie speed boost (2★)
+
+[ZOMBIE_SPEED_DIFFICULTY_2_DESCRIPTION]
+Zombies move 100% faster.
+
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_1]
 Zombies move 30% faster.
 
@@ -75325,7 +76164,6 @@ Zombies move 90% faster.
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_4]
 Zombies move 90% faster.
-
 
 [SPRING_SUN_REDUCED_DIFFICULTY_1_DESCRIPTION]
 Each sun gives 10% less.
@@ -77404,7 +78242,7 @@ Currently selected less than {NUM} categories, unable to configure
 Future Gift Box Event Details
 
 [TOURISM_OCTOBER_TITLE]
-June Together
+October Together
 
 [TOURISM_OCTOBER_DEFAULT_TEXT2]
 Already in a team, does not meet the requirements to fill in.
@@ -77416,10 +78254,10 @@ Friendship Coins
 Event end:
 
 [MAT_TOURISM_OCTOBER_USE]
-Used to exchange rewards in the June Together event shop.
+Used to exchange rewards in the October Together event shop.
 
 [MAT_TOURISM_OCTOBER_GOT_WAY]
-Obtained by completing team tasks in June Together.
+Obtained by completing team tasks in October Together.
 
 [TOURISM_OCTOBER_OK]
 Agreed to join the team
@@ -77968,7 +78806,7 @@ From Penny's Future Gift Box coin packs
 Lucky Chest Season 4
 
 [MAT_LUCKYCHEST_USE]  
-Open for random rewards July 11 to September 3)
+Open for random rewards September 11 to November 10)
 
 [MAT_LUCKYCHEST_GOT_WAY]  
 From Lucky Treasure event or weekly packs
@@ -78769,8 +79607,6 @@ Sky War
 
 [MAT_MINIGAME_COIN]
 Enhancement Energy
-
-
 
 [GINGLEBELL_TITLE]
 Jingle Bells Celebration
