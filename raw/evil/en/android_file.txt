@@ -46686,10 +46686,10 @@ You’ve completed a pile of quests! Have a pile of rewards!
 {TIRED:winnieicon}...
 
 [NARRATIVE_EIGHTIES_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Flashback! I remember this décor from when I chased squirbos as a kid!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Do you feel that you have grooved? Did you bang your head? Have you
 
 [NARRATIVE_EIGHTIES_1_INTRO_2]
-{SAY:winnie}Indeed, User Dave. We appear to have arrived in the midst of a Neon Mixtape Tour.
+{NPC_ENTER:winnie}{SAY:winnie}Indeed, User Dave. We appear to have arrived in the midst of a Neon Mixtape Tour.
 
 [NARRATIVE_EIGHTIES_1_INTRO_3]
 {SAY:winnie}I suspect the musical tempo may affect the zombies' speeds.
