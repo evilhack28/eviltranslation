@@ -1,4 +1,4 @@
-This translation was created by Evilhack28. I am are not affiliated with the game or its developers in any way.
+﻿This translation was created by Evilhack28. I am are not affiliated with the game or its developers in any way.
 
 This is completely free. You will never be asked to pay me personally or to subscribe to anything in order to access it.
 If you paid for this translation, you were scammed.
@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     : Text-based (3.8.5 server 1)
-Version          : 3.8.1_5 version 1 (pre-release)
+File Version     : Text-based (3.8.8 server 1)
+Version          : 3.8.8_1 version 1 (pre-release)
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.gg/4Dp38Y7uJv
 YouTube          : https://www.youtube.com/@evilhack28
@@ -46,74 +46,70 @@ Credits
 ^4B0082 cybersteve ^oldclr     Create the template for the translation on github
 ^008000 eluth      ^oldclrr    Help on the translation
 
-
-
-
 [HEALTH_NOTICE_CONTENT_2]
 Click the "12" in top right for ChangeLog
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 Click the "12" in top right for ChangeLog
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 Click the "12" in top right for ChangeLog
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 Click the "12" in top right for ChangeLog
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 Click the "12" in top right for ChangeLog
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [AGE_TIP]
 CREDIT
 
 [AGE_TIP_CONTENT]
-======3.8.5_1======
-added 3.8.5 text 
-
+======3.8.8_1======
+Beta testing 3.8.8
 
 
 [SPRING_TIPS_1]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 
 [SPRING_TIPS_2]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_3]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_4]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_5]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_6]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_7]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 [SPRING_TIPS_8]
-^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 5 (3.8.5_1)
+^00FF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
 ^00FFFF You’re using the ^FFFFFF Latest Version ^00FFFF of the Mods!
 
 
