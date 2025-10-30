@@ -49,27 +49,27 @@ Credits
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [AGE_TIP]
 CREDIT
@@ -77,40 +77,40 @@ CREDIT
 [AGE_TIP_CONTENT]
 ======3.8.8_1======
 Beta testing 3.8.8
-
+^FF5D00 TEST COLOR TEST COLOR
 
 [SPRING_TIPS_1]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 
 [SPRING_TIPS_2]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [SPRING_TIPS_3]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [SPRING_TIPS_4]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [SPRING_TIPS_5]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [SPRING_TIPS_6]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [SPRING_TIPS_7]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 [SPRING_TIPS_8]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^2E002D You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^2E002D of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
 
 
 
