@@ -36,10 +36,27 @@ Mod              : https://drive.google.com/drive/folders/1TNksqA_bYK0uAfXNdEmaK
                                                                       (_.'   
 
 
+SECTION_INFO
+
+[Plants_Start]
+[Plants_End]
+[Zombies_Start]
+[Zombies_End]
 
 
 [COMPLAIN_ICON]
 Credits
+
+[AGE_TIP]
+CREDIT
+
+[AGE_TIP_CONTENT]
+======3.8.8_1======
+Added Lastest text of the 3.8.8 version
+Fixed a lot of uncorrect text
+Have a Nice day !
+
+
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr     Creator of the mod and translation
@@ -49,70 +66,67 @@ Credits
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
-[AGE_TIP]
-CREDIT
 
-[AGE_TIP_CONTENT]
-======3.8.8_1======
-Beta testing 3.8.8
-^FF5D00 TEST COLOR TEST COLOR
+
+
 
 [SPRING_TIPS_1]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
-
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_2]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_3]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_4]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_5]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_6]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_7]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_8]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
-
+[SPRING_TIPS_9]
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
+^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
 Escape Root Goggles
@@ -181,7 +195,7 @@ Reduces cooldown by 15%
 阳光消耗减少50
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_4]
-泡泡姬珊瑚公主-璀璨装扮
+公主-璀璨装扮
 
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_4]
 无
@@ -281,6 +295,18 @@ Plant Food damage increased by {Param_1}%
 [GENE_DESCRIPTION_HYPNOSHROOM]
 魅惑菇种植冷却时间缩短{Param_1}%
 
+[GENE_DESCRIPTION_FLAMELADY]
+5阶抛射火球时有{Param_1}%的概率额外再抛射3个火球，并且造成的所有伤害提高{Param_2}%。
+
+[GENE_DESCRIPTION_EGGPLANTNINJA]
+大招释放的飞镖都有{Param_1}%概率变旋风手里剑。
+
+[GENE_DESCRIPTION_PRIMALPOTATOMINE]
+原始土豆雷爆炸时有{Param_1}%概率再爆炸一次，也适用于小土豆雷。
+
+[GENE_DESCRIPTION_GRIMROSE]
+暗樱草种植冷却时间缩短{Param_1}%。
+
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
 Big Smoke Mushroom Lion Dance Outfit
 
@@ -364,6 +390,72 @@ Maple Blade Headband Costume
 
 [NEW_AVATAR_DESCRIPTION_MAPLEBLADE_2]
 Reduces cooldown by 20%
+
+
+[NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_2]
+Rheumnobile Starry Sky Lord Costume
+
+[NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_2]
+Increases absorbable zombies by 2
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_3]
+Ice Fairy Tiny Witch Costume
+
+[NEW_AVATAR_DESCRIPTION_MISSILETOE_3]
+Reduces sun cost by 80
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_4]
+Tiny Witch - Radiant Costume
+
+[NEW_AVATAR_DESCRIPTION_MISSILETOE_4]
+None
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_3]
+Horsebean Squad Pirate Flag Costume
+
+[NEW_AVATAR_DESCRIPTION_HORSEBEAN_3]
+Reduces attack cooldown by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_2]
+Gold Bloom Pom-pom Costume
+
+[NEW_AVATAR_DESCRIPTION_GOLDBLOOM_2]
+50% chance to produce extra 75 sun
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LILYPAD_1]
+Lily Pad Frog Costume
+
+[NEW_AVATAR_DESCRIPTION_LILYPAD_1]
+Increases HP by 150
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SEADERRIS_2]
+Puff Vine Headphones Costume
+
+[NEW_AVATAR_DESCRIPTION_SEADERRIS_2]
+Increases reverse walk duration by 1s after zombies leave rotenone range
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_2]
+Treasure Slipper Orchid Mustache Costume
+
+[NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_2]
+Increases attack speed by 20%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [NORMAL_REGENERATION]
 Damaged medical box
@@ -1578,7 +1670,6 @@ Demon-Subduing Cape
 [HERO_CAPE_1_DES]
 A cape worn by a famous hero when vanquishing demons and evil spirits, still imbued with the hero's power.
 
-
 [HERO_CAPE_1_BOOST_DES]
 Effect 1: Attack +5%
 Effect 2: Planting Cooldown reduced by 12%
@@ -1644,6 +1735,42 @@ Effect 3: When die trigger effect +100%
 Effect 1: Attack +30%
 Effect 2: Attack reduced by -30%
 Effect 3: When die trigger effect +100%
+
+[FLYING_SAUCER]
+Flying Saucer
+
+[FLYING_SAUCER_DES]
+The Flying Saucer was invented by observing the form of the Saucer Plant.
+
+[FLYING_SAUCER_BOOST_DES]
+Effect 1: Can be planted in sky
+Effect 2: Heals 5% HP every 3s
+Effect 3: Locked
+
+[FLYING_SAUCER_BOOST_DES_1]
+Effect 1: Can be planted in sky
+Effect 2: Heals 8% HP every 3s
+Effect 3: Locked
+
+[FLYING_SAUCER_BOOST_DES_2]
+Effect 1: Can be planted in sky
+Effect 2: Heals 12% HP every 3s
+Effect 3: Locked
+
+[FLYING_SAUCER_BOOST_DES_3]
+Effect 1: Can be planted in sky
+Effect 2: Heals 16% HP every 3s
+Effect 3: Stun increased by 6%
+
+[FLYING_SAUCER_BOOST_DES_4]
+Effect 1: Can be planted in sky
+Effect 2: Heals 20% HP every 3s
+Effect 3: Stun increased by 8%
+
+[FLYING_SAUCER_BOOST_DES_5]
+Effect 1: Can be planted in sky
+Effect 2: Heals 25% HP every 3s
+Effect 3: Stun increased by 10%
 
 
 [BOSS_CHALLENGE_HEAD_ID_25003]
@@ -2353,6 +2480,18 @@ Glorious Galaxea
 [LEVEL_EDITOR_HEAD_DES_ID_25762]
 Limited avatar from Chroma Customization event
 
+[LEVEL_EDITOR_HEAD_ID_25772]
+Snowy Adventure
+
+[LEVEL_EDITOR_HEAD_DES_ID_25772]
+Limited avatar from Chroma Customization event
+
+[LEVEL_EDITOR_HEAD_ID_25777]
+Fruitful Harvest
+
+[LEVEL_EDITOR_HEAD_DES_ID_25777]
+Open wide! Catch this sweet attack
+
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Children's Mangosteen
 
@@ -2575,6 +2714,18 @@ Electro-Mechanical Trend
 [NEWYEAR_GIFT_HEAD_DES_ID_25724]
 Claim by reaching cumulative recharge milestones during the Summer Gift event
 
+[NEWYEAR_GIFT_HEAD_ID_25756]
+Endless Vitality
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25756]
+Claim by reaching cumulative recharge progress during the Celebration Pack event
+
+[NEWYEAR_GIFT_HEAD_ID_25773]
+Mysterious Potion
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25773]
+Claim by reaching cumulative recharge progress during the Celebration Pack event
+
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev ! 
 
@@ -2622,6 +2773,12 @@ ZCorp Conqueror
 [UNCHARTED_ZCORP_HEAD_DES_ID_25758]
 Proof of Perfectly Completing ZCorp
 
+[UNCHARTED_HALLOWEEN_ID_25776]
+Halloween Realm Conqueror
+
+[UNCHARTED_HALLOWEEN_HEAD_DES_ID_25776]
+Proof of Perfectly Completing Halloween 2025 realm
+
 [PVZ_ERROR_20001]
 Compression failed.
 
@@ -2639,7 +2796,7 @@ You can only bind up to 4 devices per year.
 Bypass it here: https://mega.nz/folder/DRdRACiL#xzd9Lqi3kz4DwUbvRcVr2g
 
 [PVZ_ERROR_20711]
-Invalid name.
+Sensitive Word
 
 [PVZ_ERROR_21508]
 Remaining attempts are full, cannot purchase.
@@ -2775,7 +2932,7 @@ Upload local archive failed.
 
 
 
-[ZOMBIIIIIIIIIIIIIIES]
+[Zombies_Start]
 
 
 
@@ -5652,7 +5809,7 @@ Roman Caesar Zombie tosses imperial salad dressing onto plants, making them irre
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_ZMECH_PHASE1]
 ^573701^Advanced mechs are immune to control, transformation, and instant-kill effects^oldclr^
 
-[IZOMBIE_ZOMBIE_JALAPENO]
+[ZOMBIE_ZOMBIE_JALAPENO]
 Jalapeno Zombie
 
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION_HEADER]
@@ -6598,6 +6755,7 @@ Qi pulled out of the mountains, overwhelming the world, the king on the battlefi
 
 
 
+[Zombies_End]
 
 
 
@@ -6614,8 +6772,7 @@ Qi pulled out of the mountains, overwhelming the world, the king on the battlefi
 
 
 
-
-[PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS]
+[Plants_Start]
 
 
 [SUNFLOWER]
@@ -7642,7 +7799,7 @@ Kernel-pult hurls butter that hits every zombie and obstacle on-screen,
 Kernel-pult hurls ^FFFF00 flaming butter^oldclrr  that hits every zombie on-screen, ^FFFF00(50 damage at level 1).^oldclrr
 
 [GENE_DESCRIPTION_KERNELPULT]
-Chance for launch butter is increased by {Param_1}%
+for launch butter is increased by {Param_1}%
 
 [KERNELPULT_AVATAR_NAME]
 Kernel-pult Costume
@@ -10045,6 +10202,9 @@ Agave attacks zombies within two tiles in front of it, and deals additional dama
 
 [AGAVE_PRODUCT_SHORT_DESC]
 The agave can attack zombies within two tiles in front and deals extra damage to zombies wearing headgear.
+
+[AGAVE_PLANTFOOD]
+Performs an aerial slash that sends a shockwave attacking zombies in the forward row.
 
 [AGAVE_SKILL_LEVEL1]
 Double Dragon Dash
@@ -16670,7 +16830,7 @@ After manually specifying the attack location, the exploding Platycodon placed b
 Reduces Bomb spawn interval by 1 second and cost by 50.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL3_DES]
-Balloon Bomb spawn interval reduced by 1 seconds and cost by 50.
+Balloon Bomb spawn interval reduced by 2 seconds and cost by 100.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL4_DES]
 There is a high probability of be boosted
@@ -18207,7 +18367,7 @@ Straightballs cause knockback by 1 tile, curveballs stun for 2 additional second
 Walk-Off Home Run
 
 [BURDOCKBATTER_SKILL_LEVEL5_DES]
-10% chance for a home run which produces a pea meteor that targets the leftmost zombie, causing 5x damage in its tile and stuns for 4 seconds.
+10% for a home run which produces a pea meteor that targets the leftmost zombie, causing 5x damage in its tile and stuns for 4 seconds.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in the right 1-square, it swings the stick to cause damage and slight repulse to all zombies. If a pea bullet passes by, the pea will be hit to the right: 50% probability of hitting a straight ball, doubling the damage of the pea bullet; 50% probability of hitting a curve ball, hitting the zombie on the far right side of the row and making it ^848484^ vertigoⅠ^oldclrr2 seconds.
@@ -18222,7 +18382,7 @@ Straightballs cause knockback by 1 tile, curveballs stun for 2 additional second
 When planting, there is a probability of directly releasing plants food!
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL5_DES]
-10% chance for a home run which produces a pea meteor that targets the leftmost zombie, causing 5x damage in its tile and stuns for 4 seconds.
+10% for a home run which produces a pea meteor that targets the leftmost zombie, causing 5x damage in its tile and stuns for 4 seconds.
 
 [BURDOCKBATTER_PLANTFOOD_DESCRIPTION]
 Burdock Batter will fire up and preform one of two attacks depending on its circumstances. When zombies are near Burdock Batter, it will knock them away with a powerful melee attack. When a pea passes by Burdock Batter, it will hit a straightball that knocks away all zombies ahead of it. If a zombie is too big to be knocked away, both attacks will do heavy direct damage and stun them.
@@ -19615,13 +19775,13 @@ Has a chance to fire peas from pea plants planted in it.
 Pea Shine
 
 [PEAVINE_SKILL_LEVEL1_DES]
-Provides a 15% damage increase to pea plants within. The chance for Bullet Replication is increased.
+Provides a 15% damage increase to pea plants within. The for Bullet Replication is increased.
 
 [PEAVINE_SKILL_LEVEL2]
 Light reinforcement
 
 [PEAVINE_SKILL_LEVEL2_DES]
-Provides a 30% damage increase to pea plants within. The chance for Bullet Replication is increased.
+Provides a 30% damage increase to pea plants within. The for Bullet Replication is increased.
 
 [PEAVINE_SKILL_LEVEL5]
 Pea Symbiosis
@@ -19633,10 +19793,10 @@ When this skill is in effect, when a pea plant is planted, a Pea Vine will be pl
 When a zombie appears on the right side of a pea vine, a straight-flying pea bullet is fired at the zombie. If a pea plant is planted above, there is a 20% probability of triggering a bullet replication, firing a pea bullet of this plant's basal properties.
 
 [PEAVINE_NEW_SKILL_LEVEL2_DES]
-Provides a 15% damage increase to pea plants within. The chance for Bullet Replication is increased.
+Provides a 15% damage increase to pea plants within. The for Bullet Replication is increased.
 
 [PEAVINE_NEW_SKILL_LEVEL3_DES]
-Provides a 30% damage increase to pea plants within. The chance for Bullet Replication is increased.
+Provides a 30% damage increase to pea plants within. The for Bullet Replication is increased.
 
 [PEAVINE_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
@@ -22348,7 +22508,7 @@ Neptune Grass
 {KEYWORD}Plant features: {STAT} Green plant, marine plant, summons sharks
 {FLAVOR}Because of his mustache, he is regarded as a wise man and leader by the other plants, leading to marine plants living in the sea, including small sharks of course.
 
-[AQUAWEED__DESCRIPTION_HEADER]
+[AQUAWEED_DESCRIPTION_HEADER]
 Summons sharks to attack enemies.
 
 [AQUAWEED_TOOLTIP]
@@ -22814,7 +22974,205 @@ Banishing a zombie has a 30% chance of permanently banishing it, unleashing an e
 [STORE_PRODUCT_AVATAR_AEONIUM]
 由大招炸开的虚化僵尸会让其他僵尸眩晕的时间增加2秒。
 
-[PLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTS END]
+[ACTINOSTEMMA]
+盒子草礼炮
+
+[ACTINOSTEMMA_DESCRIPTION]
+{KEYWORD}范围：{STAT}全屏
+{KEYWORD}特点：{STAT}扔出随机礼盒
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}即使只是一个灰头土脸的小子，盒子草礼炮也尽力给那些一直陪伴的“朋友们”送上他认为最值得的礼物。“停止用那跛脚走路吧！停止追求虚假的脑梦吧！”如果那些家伙真的能做到，生于尘土的彼此才能献上真正的礼物。
+
+[ACTINOSTEMMA_DESCRIPTION_HEADER]
+发射出各种礼盒，礼盒会吸引僵尸，并随机产生各种效果
+
+[ACTINOSTEMMA_TOOLTIP]
+发射出各种礼盒，礼盒会吸引僵尸，并随机产生各种效果
+
+[ACTINOSTEMMA_PRODUCT_SHORT_DESC]
+发射出各种礼盒，礼盒会吸引僵尸，并随机产生各种效果
+
+[ACTINOSTEMMA_SKILL_LEVEL1]
+双重开炮
+
+[ACTINOSTEMMA_SKILL_LEVEL1_DES]
+有20%几率再次选择新的敌人生成礼盒。
+
+[ACTINOSTEMMA_SKILL_LEVEL2]
+炮击强化
+
+[ACTINOSTEMMA_SKILL_LEVEL2_DES]
+有40%几率再次选择新的敌人生成礼盒。
+
+[ACTINOSTEMMA_SKILL_LEVEL5]
+打包带走
+
+[ACTINOSTEMMA_SKILL_LEVEL5_DES]
+盒子草礼炮在攻击时，有几率发射更大的礼盒，并在产生效果后有几率将3X3范围内的僵尸打包成新的礼盒。
+
+[ACTINOSTEMMA_AVATAR_NAME]
+盒子草礼炮装扮
+
+[STORE_PRODUCT_AVATAR_ACTINOSTEMMA]
+发射更多的礼盒
+
+[STORE_PRODUCT_AVATAR_ACTINOSTEMMA_TITLE]
+盒子草礼炮装扮
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL1_DES]
+盒子草礼炮会向地图内的僵尸发射出各种礼盒，礼盒会吸引僵尸，并随机产生各种效果（爆炸礼盒、魅惑礼盒、惊吓礼盒、礼花礼盒）。
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL2_DES]
+有20%几率再次选择新的敌人生成礼盒。
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL3_DES]
+有40%几率再次选择新的敌人生成礼盒。
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL5_DES]
+盒子草礼炮在攻击时，有10%概率发射更大的礼盒，并在产生效果后有50%概率将3X3范围内的僵尸打包成新的礼盒。
+
+[ACTINOSTEMMA_PLANTFOOD_DESCRIPTION]
+立即向随机3列的第一个敌人发射出一个礼盒。
+
+[ACTINOSTEMMA_AVATAR_PLANTFOOD_DESCRIPTION]
+发射更多的礼盒
+
+
+
+[poisonvine]
+青蛇藤蔓
+
+[poisonvine_DESCRIPTION_HEADER]
+发射毒气子弹造成毒雾攻击僵尸
+
+[poisonvine_DESCRIPTION]
+{KEYWORD}特点：{STAT}制造毒雾攻击僵尸，并增幅身上的毒系植物。
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}青蛇藤蔓有时候会觉得自己是一条真的蛇，直到有一天真的长出了一根会开口的尾巴。
+
+[poisonvine_TOOLTIP]
+发射毒气子弹造成毒雾攻击僵尸
+
+[poisonvine_SKILL_LEVEL1]
+喷射毒雾
+
+[poisonvine_SKILL_LEVEL1_DES]
+当种植在青蛇藤蔓上的是毒系植物时，该植物的毒攻击伤害增加20%，且增加自身毒雾持续时间1s。
+
+[poisonvine_SKILL_LEVEL2]
+毒雾喷发
+
+[poisonvine_SKILL_LEVEL2_DES]
+当种植在青蛇藤蔓上的是毒系植物时，该植物的毒攻击伤害增加到30%，且再次增加自身毒雾持续时间1s。
+
+[poisonvine_SKILL_LEVEL5]
+你有毒吧
+
+[poisonvine_SKILL_LEVEL5_DES]
+攻击时，有几率喷出特殊子弹，特殊子弹击中僵尸时会产生范围3*3的毒气爆炸，并将僵尸身上的中毒效果扩散给附近的敌人。
+
+[poisonvine_SUPERSKILL]
+你有毒吧
+
+[poisonvine_SUPERSKILL_DES]
+攻击时，有几率喷出特殊子弹，特殊子弹击中僵尸时会产生范围3*3的毒气爆炸，并将僵尸身上的中毒效果扩散给附近的敌人。
+
+[STORE_PRODUCT_AVATAR_poisonvine]
+大招击中僵尸后，使受到伤害的僵尸眩晕1s。
+
+[poisonvine_NEW_SKILL_LEVEL1_DES]
+吐出毒气子弹制造毒雾攻击僵尸。当种植在青蛇藤蔓上的是毒系植物时，该植物的毒攻击伤害增加15%并且藤蔓自身的攻击力增加30%，攻击间隔减少10%。如果宿主存在概率打出毒攻击的手段，那么此概率会翻倍。
+
+[poisonvine_NEW_SKILL_LEVEL2_DES]
+当种植在青蛇藤蔓上的是毒系植物时，该植物的毒攻击伤害增加20%，且增加自身毒雾持续时间1s。
+
+[poisonvine_NEW_SKILL_LEVEL3_DES]
+当种植在青蛇藤蔓上的是毒系植物时，该植物的毒攻击伤害增加到30%，且再次增加自身毒雾持续时间1s。
+
+[poisonvine_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招。
+
+[poisonvine_NEW_SKILL_LEVEL5_DES]
+攻击时，有30%的概率喷出特殊子弹，特殊子弹击中僵尸时会产生范围3*3的毒气爆炸，并将僵尸身上的中毒效果扩散给附近的敌人。
+
+[STORE_PRODUCT_AVATAR_poisonvine_TITLE]
+青蛇藤蔓装扮
+
+[poisonvine_AVATAR_NAME]
+青蛇藤蔓装扮
+
+[poisonvine_PLANTFOOD_DESCRIPTION]
+大招击中僵尸后，使受到伤害的僵尸眩晕1s。
+
+[poisonvine_AVATAR_PLANTFOOD_DESCRIPTION]
+大招击中僵尸后，使受到伤害的僵尸眩晕1s。
+
+[PEONYCHI]
+太极木槿
+
+[PEONYCHI_DESCRIPTION_HEADER]
+将中小体型僵尸抛向后方，格挡巨人僵尸攻击
+
+[PEONYCHI_DESCRIPTION]
+{KEYWORD}特点：{STAT}将中小体型僵尸抛向后方，格挡巨人僵尸攻击
+{KEYWORD}植物特征：{STAT}蓝色植物
+{FLAVOR}“植之本性即是自然无为”，将僵尸丢到自己身后的太极木槿这样想到
+
+[PEONYCHI_TOOLTIP]
+将中小体型僵尸抛向后方，格挡巨人僵尸攻击
+
+[PEONYCHI_SKILL_LEVEL1]
+修养生息
+
+[PEONYCHI_SKILL_LEVEL1_DES]
+附近没有僵尸时，植物会开始运气，每秒恢复血量，若恢复血量超过血量上限则会转化为护盾，最高1000点。护盾可阻挡一次秒杀伤害
+
+[PEONYCHI_SKILL_LEVEL2]
+气沉丹田
+
+[PEONYCHI_SKILL_LEVEL2_DES]
+护盾上限提高至2000点。
+
+[PEONYCHI_SKILL_LEVEL5]
+太极排云掌
+
+[PEONYCHI_SKILL_LEVEL5_DES]
+格挡巨人僵尸攻击后会借力向前方打出一道前方3格范围的掌风造成伤害，并将被弹反的巨人击退3格，击飞3格路径上的中小型僵尸
+
+[STORE_PRODUCT_AVATAR_PEONYCHI]
+可以额外吸引后方的僵尸到身前
+
+[PEONYCHI_NEW_SKILL_LEVEL1_DES]
+将中小体型僵尸抛向后方，格挡巨人僵尸攻击
+
+[PEONYCHI_NEW_SKILL_LEVEL2_DES]
+附近没有僵尸时，植物会开始运气，每秒恢复血量，若恢复血量超过血量上限则会转化为护盾，最高1000点。护盾可阻挡一次秒杀伤害
+
+[PEONYCHI_NEW_SKILL_LEVEL3_DES]
+护盾上限提高至2000点
+
+[PEONYCHI_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招。
+
+[PEONYCHI_NEW_SKILL_LEVEL5_DES]
+格挡巨人僵尸攻击后会借力向前方打出一道前方3格范围的掌风造成伤害，并将被弹反的巨人击退3格，击飞3格路径上的中小型僵尸
+
+[STORE_PRODUCT_AVATAR_PEONYCHI_TITLE]
+太极木槿装扮
+
+[PEONYCHI_AVATAR_NAME]
+太极木槿装扮
+
+[PEONYCHI_PLANTFOOD_DESCRIPTION]
+植物持续吸引本行前方的所有僵尸到身前并眩晕
+
+[PEONYCHI_AVATAR_PLANTFOOD_DESCRIPTION]
+可以额外吸引后方的僵尸到身前
+
+[Plants_End]
 
 
 
@@ -23695,6 +24053,165 @@ Brain limit reached!
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_5]
 {SAY:winnie}The detectors don't think so.
+
+[NARRATIVE_PVZ1_S27_1_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data shows excessive sun usage will anger the Sun God.
+
+[NARRATIVE_PVZ1_S27_1_H_INTRO_2]
+{SAY:CRAZYDAVE}Whoa! I don't want him to go on strike!
+
+[NARRATIVE_PVZ1_S27_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Corn Cannon wants to compete with Coconut Cannon.
+
+[NARRATIVE_PVZ1_S27_2_H_INTRO_2]
+{SAY:WINNIE}I guess you want to try coconut-flavored popcorn.
+
+[NARRATIVE_PVZ1_S27_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data shows the gravestones on the lawn are cursed.
+
+[NARRATIVE_PVZ1_S27_3_H_INTRO_2]
+{SAY:CRAZYDAVE}Whoa! Then I need to study them carefully!
+
+[NARRATIVE_PVZ1_S27_3_H_INTRO_3]
+{SAY:WINNIE}Better not destroy them.
+
+[NARRATIVE_PVZ1_S27_4_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Welcome to my new product launch.
+
+[NARRATIVE_PVZ1_S27_4_H_INTRO_2]
+{SAY:ZOMBOSSICON}Z-Mech 2.0 will forcefully acquire your brains on my behalf!
+
+[NARRATIVE_PVZ1_S27_4_H_INTRO_3]
+{SAY:ZOMBOSSICON}Enjoy the time ahead!
+
+[NARRATIVE_PVZ1_S27_4_H_INTRO_4]
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}I'd like to file for bankruptcy protection.
+
+[NARRATIVE_PVZ1_S27_4_H_INTRO_5]
+{SAY:WINNIE}Dave, we don't have brain insurance.
+
+[NARRATIVE_PVZ1_S27_5_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Why is the sky so dark?
+
+[NARRATIVE_PVZ1_S27_5_H_INTRO_2]
+{SAY:WINNIE}Detecting massive aerial zombies, will launch air strikes like pouring rain.
+
+[NARRATIVE_PVZ1_S27_5_H_INTRO_3]
+{SAY:CRAZYDAVE}You know what else is massive ?
+
+[NARRATIVE_PVZ1_S27_6_H_INTRO_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Rotobaga shoots bullets in 4 directions simultaneously.
+
+[NARRATIVE_PVZ1_S27_6_H_INTRO_2]
+{SAY:WINNIE}More suitable for attacking adjacent lanes than frontal assault.
+
+[NARRATIVE_PVZ1_S27_6_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Just like morning tacos.
+
+[NARRATIVE_PVZ1_S27_6_H_INTRO_4]
+{BRINGOUT_TACO:CRAZYDAVE}{SAY:CRAZYDAVE}Every side perfectly baked!
+
+[NARRATIVE_PVZ1_S27_6_H_INTRO_5]
+{EAT_TACO:CRAZYDAVE}{SPECIAL2:CRAZYDAVE}So delicious!
+
+[NARRATIVE_PVZ1_S27_6_H_INTRO_6]
+{EXCITED:CRAZYDAVE}I want ten!
+
+[NARRATIVE_PVZ1_S27_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Where did the sun go?
+
+[NARRATIVE_PVZ1_S27_7_H_INTRO_2]
+{SAY:WINNIE}Data shows it's the perfect time to deploy backup low-energy weapons.
+
+[NARRATIVE_PVZ1_S27_7_H_INTRO_3]
+{SAY:WINNIE}Watch for glowing zombies carrying plant cards.
+
+[NARRATIVE_PVZ1_S27_8_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Mech zombies must have strong teeth.
+
+[NARRATIVE_PVZ1_S27_8_H_INTRO_2]
+{SAY:WINNIE}Data shows Chef Cypripedium remains popular until the distant future.
+
+[NARRATIVE_PVZ1_S27_8_H_INTRO_3]
+{SAY:WINNIE}Might help with taco recipes.
+
+[NARRATIVE_PVZ1_S27_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Why is the lawn so lively?
+
+[NARRATIVE_PVZ1_S27_9_H_INTRO_2]
+{SAY:WINNIE}Dinosaurs. Data shows they once ruled this lawn.
+
+[NARRATIVE_PVZ1_S27_9_H_INTRO_3]
+{SAY:CRAZYDAVE}Is this the Jurassic period?
+
+[NARRATIVE_PVZ1_S27_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}We're surrounded!
+
+[NARRATIVE_PVZ1_S27_10_H_INTRO_2]
+{SAY:WINNIE}Fortunately, we have Escape Root - it can swap positions with plants.
+
+[NARRATIVE_PVZ1_S27_10_H_INTRO_3]
+{SAY:WINNIE}Can escape danger or quickly counter suitable opponents.
+
+[NARRATIVE_PVZ1_S27_10_H_INTRO_4]
+{SAY:CRAZYDAVE}Can it take me to find tacos?
+
+[NARRATIVE_PVZ1_S27_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data shows Dr. Zomboss invented special zombies that feed on sunlight.
+
+[NARRATIVE_PVZ1_S27_11_H_INTRO_2]
+{SAY:CRAZYDAVE}Then zombies don't need to eat brains anymore?
+
+[NARRATIVE_PVZ1_S27_11_H_INTRO_3]
+{SAY:WINNIE}I don't think so, Dave.
+
+[NARRATIVE_PVZ1_S27_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data shows chickens and T-Rex share common ancestors.
+
+[NARRATIVE_PVZ1_S27_12_H_INTRO_2]
+{SAY:CRAZYDAVE}No wonder they're always so aggressive!
+
+[NARRATIVE_PVZ1_S27_12_H_INTRO_3]
+{SHOUT:CRAZYDAVE}Waaaah! The big one is coming!
+
+[NARRATIVE_PVZ1_S27_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Guard Gargantuar is so tough!
+
+[NARRATIVE_PVZ1_S27_13_H_INTRO_2]
+{SAY:WINNIE}Data shows Guard Gargantuar has extremely high damage reduction.
+
+[NARRATIVE_PVZ1_S27_13_H_INTRO_3]
+{SAY:WINNIE}We need to control it to find its weakness.
+
+[NARRATIVE_PVZ1_S27_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Detecting large numbers of hungry zombies moving rapidly toward us.
+
+[NARRATIVE_PVZ1_S27_14_H_INTRO_2]
+{SAY:CRAZYDAVE}Should we make way for them?
+
+[NARRATIVE_PVZ1_S27_14_H_INTRO_3]
+{SAY:WINNIE}Better stop them, or we'll face serious traffic accidents.
+
+[NARRATIVE_PVZ1_S27_15_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}User Dave, please don't stand between two Cold Snapdragons.
+
+[NARRATIVE_PVZ1_S27_15_H_INTRO_2]
+{SAY:WINNIE}Their ice path will slow you down, turn you blue, and give you a cold.
+
+[NARRATIVE_PVZ1_S27_15_H_INTRO_3]
+{SAY:CRAZYDAVE}Oh... oh... A-choo!!
+
+[NARRATIVE_PVZ1_S27_16_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Scarecrows should scare away birds.
+
+[NARRATIVE_PVZ1_S27_16_H_INTRO_2]
+{SAY:CRAZYDAVE}Why are there more and more?
+
+[NARRATIVE_PVZ1_S27_16_H_INTRO_3]
+{SAY:WINNIE}Data shows it's Halloween, Dave.
+
+[NARRATIVE_PVZ1_S27_16_H_INTRO_4]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Hehe! Brains or treat!
 
 [ADVICE_MASKUI_SUN]
 sun is a necessary resource for plant production, tap on sun to increase it in your reserve!
@@ -24790,6 +25307,13 @@ One-Hold-the-Gate
 Congratulations! For being a Grandmaster!!!!
 Season 36
 
+[RANK_AVATAR_CONTENT_TITLE_61050]
+Moonlit Night
+
+[RANK_AVATAR_CONTENT_CONTENT_61050]
+Congratulations! For being a Grandmaster!!!!
+Season 37
+
 [RANK_AVATAR_CONTENT_TITLE_61038]
 Merry Christmas
 
@@ -24834,6 +25358,12 @@ Youthful Energy
 
 [RANK_AVATAR_CONTENT_CONTENT_61502]
 In memory of our fading youth
+
+[RANK_AVATAR_CONTENT_TITLE_61503]
+Endless Starry Sky
+
+[RANK_AVATAR_CONTENT_CONTENT_61503]
+Stare into the black hole until it stares back
 
 [RANK_AVATAR_BTN_CHANGE]
 Replace
@@ -24997,8 +25527,14 @@ Company Adventure
 [rank_avatar_diy_52]
 One Man Holds the Pass
 
+[rank_avatar_diy_53]
+Moonlit Night
+
 [rank_avatar_diy_100]
-Youthful Vitality
+Youthful Energy
+
+[rank_avatar_diy_101]
+Endless Starry Sky
 
 [DOWNLOAD_FAILED_BODY]
 Could not retrieve update information. Check that you are connected to the internet or try again at another time.
@@ -27797,6 +28333,9 @@ Defeat {ZOMBIES} zombies in {TIME} seconds
 [STARCHALLENGE_KILL_ZOMBIES_IN_TIME_NAME]
 Defeat Zombies in Time
 
+[STARCHALLENGE_PVZ1ZOMBIE_NUM]
+Defeat 25 Kernel-pult Zombies
+
 [STARCHALLENGE_LASTSTAND_MINIGAME]
 Plan your defense and defeat the zombies
 
@@ -28000,6 +28539,15 @@ Spend {COUNT} or less Plant Food!
 
 [STARCHALLENGE_PLANTS_AT_ONCE]
 Never have more than {COUNT} plants
+
+[STARCHALLENGE_PROTECTTHEGRIDITEM]
+Do not let obstacles be destroyed
+
+[STARCHALLENGE_PROTECTTHEGRIDITEM_NAME]
+Obstacle destroyed
+
+[STARCHALLENGE_PROTECT_THE_GRIDITEM]
+Do not let obstacles be destroyed
 
 [STARCHALLENGE_PLANTS_AT_ONCE_NAME]
 Simultaneous Plants
@@ -31516,7 +32064,7 @@ You must be synchronized successfully before you can enter the game. Please make
 Wait for sync archive
 
 [SYNCING_WAITING_TEXT]
-Wait in the sync archive, make sure the network connection is normal.
+Syncing save data, please wait a moment and then click OK.
 
 [NET_CONNECTING]
 Connecting...
@@ -31896,7 +32444,7 @@ The exclusive badge of this Secret Realm Chapter is insufficient, and a {NUM} ba
 Rewards
 
 [SECRET_AREA_STORE_TIP]
-Reach the difficult challenge to accumulate exclusive badges for this chapter and redeem them for plant or collection rewards!
+Complete Hard Challenges to collect chapter-exclusive badges and exchange for rewards!
 
 [NETWORK_NOT_CONNECTED_TEXT_FOR_SYNC_PLAYERINFO]
 Please set up your network correctly to ensure that the game can use the cloud archive service properly.
@@ -34339,7 +34887,7 @@ Allows Tangle Kelp's Powerful Swing to attack zombies to the left, right, and fr
 Spiky Barrage
 
 [HOMINGTHISTLE_SKILL_LEVEL1_DES]
-Has a 25% chance for Homing Thistle to continuously fire two bullets.
+Has a 25% for Homing Thistle to continuously fire two bullets.
 
 [HOMINGTHISTLE_SKILL_LEVEL2]
 Barrage Enhancement
@@ -34351,7 +34899,7 @@ Increases the probability of Homing Thistle's spiky barrage by 100%.
 Super Bomb
 
 [LOTUSSHOWER_SKILL_LEVEL1_DES]
-Has a 15% chance for Lotus Root to stun zombies with its attacks.
+Has a 15% for Lotus Root to stun zombies with its attacks.
 
 [LOTUSSHOWER_SKILL_LEVEL2]
 Ammunition Upgrade
@@ -34435,7 +34983,7 @@ Increases the effectiveness of Super Spring by 100%.
 Powerful Barrage
 
 [XSHOT_SKILL_LEVEL1_DES]
-Has a 25% chance for Spinning Radish to fire a large bullet.
+Has a 25% for Spinning Radish to fire a large bullet.
 
 [XSHOT_SKILL_LEVEL2]
 Barrage Enhancement
@@ -34459,7 +35007,7 @@ Increases the effectiveness of Resilience by 100%.
 Seek Weakness
 
 [ROSESWORDMAN_SKILL_LEVEL1_DES]
-Has a 25% chance for Rose Swordsman's attacks to hit enemy weaknesses, causing double damage.
+Has a 25% for Rose Swordsman's attacks to hit enemy weaknesses, causing double damage.
 
 [ROSESWORDMAN_SKILL_LEVEL2]
 Single-minded Focus
@@ -34514,6 +35062,13 @@ Rapid Fire
 
 [FIREPEASHOOTER_SKILL_LEVEL2_DES]
 Increases the probability of Bursting Fire Peas by 100%.
+
+[FIREPEASHOOTER_SKILL_LEVEL5]
+Fire Bomb
+
+[FIREPEASHOOTER_SKILL_LEVEL5_DES]
+There is a 20% chance to fire a fireball upon attacking, which explodes in a fan shape upon impact, dealing damage and burning to all zombies within the area.
+
 
 [GACHA_AGAIN_10_TIMES]
 again 10 times.
@@ -35044,6 +35599,39 @@ Construction ahead, please detour
 
 [STARCHALLENGE_EVIL_NAME]
 Dr. Zomboss
+
+[PVZ1MODE_BUNGEE]
+Bungee Blitz
+
+[PVZ1MODE_BUNGEE_NORMAL_DESC]
+Bungee Zombies can drop from the sky carrying zombie armies to launch surprise attacks!
+
+[PVZ1MODE_ZCORP_HELPDESK]
+Falling Programmers
+
+[PVZ1MODE_ZCORP_HELPDESK_NORMAL_DESC]
+ZCorp HelpDesk zombies drop from the sky and throw explosive computers
+
+[PVZ1MODE_GRAVESTONES]
+Gravestones of Doom
+
+[PVZ1MODE_GRAVESTONES_NORMAL_DESC]
+Gravestones will continuously emerge on the field
+
+[PVZ1MODE_SPECIALTILE]
+Magic Tiles
+
+[PVZ1MODE_SPECIALTILE_NORMAL_DESC]
+Special tiles appear on the field - what happens when triggered?
+
+[PVZ1MODE_SCARECROW]
+Pumpkin Scarecrows
+
+[PVZ1MODE_SCARECROW_NORMAL_DESC]
+Pumpkin Scarecrows appear on the field, attracting crows to steal plants
+
+[CHALLENGE_DESTROY_PUMPKINSCARECROWS]
+Destroy {GRID_ITEMS} Pumpkin Scarecrows
 
 [PVZ1MODE_HAMSTERBALL]
 Hamster Ball
@@ -35896,6 +36484,15 @@ Diamond rewards can be replenished at the leaderboard or when the level jumps.
 [DANGERROOM_BONUS_UNCONNECTED]
 Endless Reward Collection Failed Because No Network Connection!
 
+[RANK_INFO]
+Ranking Info
+
+[NONE_DATA]
+No Data
+
+[TOTAL_SCORE]
+Total Score
+
 [REWARD_TYPE_GEM]
 Diamonds
 
@@ -36025,8 +36622,11 @@ Space-Time Dust
 [MAT_SPACE_TIME_DUST4]
 Space-Time Dust
 
-[CONFIRM_RESET_TITLE]
-Accessory Reset
+[CONFIRM_RESET]
+Spend 10 diamonds to reset the Pendant?
+
+[CONFIRM_RESET_FAVORITE]
+^FF0000^ This Pendant is a favorited Pendant ^oldclr^, spend 10 diamonds to reset the Pendant?
 
 [CONFIRM_RESET]
 Do you want to spend 10 diamonds to reset the Pendant ?
@@ -36771,6 +37371,9 @@ Insufficient grade
 [BUTTON_UNUSEBLE]
 Non-usable
 
+[BUTTON_NO_SWITCH]
+Cannot Switch
+
 [BUTTON_EXCHANGE]
 Redeem
 
@@ -36788,6 +37391,9 @@ Pendant for sale
 
 [SALE_CONFIRM_MESSAGE]
 Confirm to sell this pendant?
+
+[SALE_FAVOURITE_CONFIRM_MESSAGE]
+^FF0000^ This Pendant is a favorited Pendant ^oldclr^, confirm to sell this Pendant?
 
 [SWITCH_CONFIRM_TITLE]
 Pendant Switching
@@ -39096,7 +39702,7 @@ Claimed
 
 [BUY_MOWER_DESC]
 Zombies are going to eat your brains...
-Buy a ^FF0000 Lawn mowers to kill the zombies ^oldclr. Ready to continue playing?
+Buy a ^FF0000 Lawn mowers ^oldclr to kill the zombies. Ready to continue playing?
 
 [BUY_AD_MOWER_LEFT_TIMES]
 Remaining {NUMBER} times
@@ -39815,6 +40421,13 @@ Ultra-effect magic
 
 [PUMPKINWITCH_SKILL_LEVEL2_DES]
 Increase the effect of Magic: Strong Technique by 100%.
+
+[PUMPKINWITCH_SKILL_LEVEL5]
+禁忌魔法
+
+[PUMPKINWITCH_SKILL_LEVEL5_DES]
+南瓜有30%概率丢出带有巫师帽南瓜，这种南瓜生成的南瓜傀儡可以远程释放法术攻击，造成伤害并施加禁疗效果。
+
 
 [STORE_PRODUCT_AVATAR_PUMPKINWITCH]
 Pumpkin blood volume boosted by plants food throw.
@@ -40754,13 +41367,13 @@ Score Rewards
 12. Special zombies may appear.
 
 [DANGERROOM_RULE_TXT2]
-Made by evil :)
+Daily Leaderboard Rewards
 
 [MINIGAME_RULE_TXT2]
-Fun Race Challenge Instructions
+Fun Competition Rule
 
 [MINIGAME_RULE_TXT]
-1. The fun competition will be open from August 13, to  August 26. A new mini-game will be available each day.
+1. The fun competition will be open from November 21, to December 03. A new mini-game will be available each day.
 
 2. During the event, players have no limit on the number of daily challenges. Players will earn points and enhancement energy upon successfully completing mini-game levels.
 
@@ -42339,22 +42952,22 @@ Normal chest
 Legend chest
 
 [MAT_GACHAKEY_NORMAL]
-Normal Treasure Chest Key
+Normal Chest Key
 
 [MAT_GACHAKEY_NORMAL_MULTI]
-Normal Treasure Chest Key Set
+Normal Chest Key Set
 
 [MAT_GACHAKEY_RARE]
-Rare Treasure Chest Key
+Rare Chest Key
 
 [MAT_GACHAKEY_RARE_MULTI]
-Rare Treasure Chest Key Set
+Rare Chest Key Set
 
 [MAT_GACHAKEY_LEGEND]
-Legendary Treasure Chest Key
+Legendary Chest Key
 
 [MAT_GACHAKEY_LEGEND_MULTI]
-Legendary Treasure Box Key Set
+Legendary Box Key Set
 
 [MAT_INVITATION_COIN]
 Invitational Vouchers
@@ -42460,19 +43073,19 @@ x10
 ^FF0000 Only ^oldclr^ the above plants and their puzzle will appear ^349901^(First single and first 10-draw guarantee a plant)^oldclr^.
 
 [GACHA_POOL_SHOW]
-Prize Pool
+Pool
 
 [SECRET_GACHA_ONCE]
-Open
+x1
 
 [SECRET_GACHA_TENTH]
-Open X10
+x10
 
 [DOWNLOAD_AND_USE_NEW_APP]
-Your current version is outdated. Please download the latest version to continue playing.
+Please download a new version of the game.
 
 [DAY_INFO]
-{NUMBER} Days
+{NUMBER}D
 
 [SUMMER_FIREBOSS_LEVEL1]
 Boss rush - Level 1
@@ -54887,13 +55500,13 @@ Is it confirmed that this plant casts your valuable vote?
 Conditions not fulfilled
 
 [LUCKBAG_ANNOUNCEMENT_TITLE]
-Summer Lucky Bag
+Plant Lucky Bag
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
 Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.
 
 [LUCKBAG_TITLE]
-Summer Lucky Bag
+Plant Lucky Bag
 
 [LUCKBAG_SELECT_PLANT]
 Select Plants
@@ -54902,7 +55515,7 @@ Select Plants
 Reselect
 
 [LUCKBAG_SELECT_TITLE]
-Summer Lucky Bag Configuration
+Plant Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
 Fukuro Confirmation
@@ -55318,16 +55931,16 @@ Sunflower commemorative coin
 Firecrackers
 
 [LOAD_AD_ERROR_TITLE]
-Failed to load ad
+Ads Error
 
 [LOAD_AD_ERROR_TEXT]
-Failed to load ad, please try again later.
+Daily login Reward
 
 [AUTH_LOGIN_ERROR_TITLE]
-Not logged in
+Not logged
 
 [AUTH_LOGIN_ERROR_TEXT]
-It appears you are not logged in. Please log in and try again later.
+It seem you are not logged. Please logging
 
 [WEB_GAME_WATCH_AD_ERROR]
 Watching ads failed
@@ -55336,58 +55949,58 @@ Watching ads failed
 Insufficient number of remaining challenges
 
 [DAILY_SIGN_REWARD_TITLE_1]
-January sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_2]
-February sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_3]
-March sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_4]
-April sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_5]
-May Sign-in Rewards
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_6]
-June sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_7]
-July sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_8]
-August sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_9]
-September sign-in reward
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_10]
-October sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_11]
-November sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TITLE_12]
-December sign-in bonus
+Daily login Reward
 
 [DAILY_SIGN_REWARD_REISSUE]
-Re-signs are available for this month
+Daily login Reward
 
 [DAILY_SIGN_REWARD_TOTAL]
-Accumulated login
+Total login:
 
 [DAILY_SIGN_ERROR_TITLE]
 Check-in error
 
 [DAILY_SIGN_ERROR_DESC]
-Your version number is too low, please upgrade to the latest version to sign in
+Your version of the game is too old please download the lastest version
 
 [PAY_CHECK_DIALOG_TITLE]
 Payment Tips
 
 [PAY_CHECK_DIALOG_CONTENT]
-Your accumulated recharge has reached 1,000 ¥ and requires real-name authentication !
+Your total recharge has reached 1,000 ¥ and requires real-name authentication !
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hi, the basic guidance level has been skipped for you. The guidance rewards will be distributed to you later. Pay attention to check!
@@ -55630,7 +56243,7 @@ Please connect to the internet and try again.
 Boss Challenge Probability
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Scaredy-shroom Plant Pieces
+Pomegranate Jeweler Pieces
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Other Epic Plant Pieces
@@ -56840,7 +57453,7 @@ Played 3 Super Z League
 Completed 5 Penny Pursuits
 
 [NOVICESEVENDAYS_TASK_NAME_31]
-Endless challenges reach level 50
+Endless challenges reach level 30
 
 [NOVICESEVENDAYS_TASK_NAME_32]
 Collect 45 stars
@@ -58670,7 +59283,7 @@ Chomper pieces 10
 Beanstalk Commando Shard *10
 
 [WISHING_POOL_GOLDENPLANT_VERSION1]
-Nüwa *10
+Gorgon Pitcher *10
 
 [WISHING_POOL_GOLDENPLANT_VERSION2]
 Nüwa *10
@@ -59481,31 +60094,30 @@ Pack expired
 Carnival Event Description
 
 [CARNIVAL_DESCRIPTION_1]
-Activity rules:
-1. Gift packs will be refreshed every day, and you can buy vouchers to redeem them；
-2. Every time you purchase a Pack, in addition to the fixed product content, you will receive additional probability output and receive more prizes and diamonds. Click in the upper right corner of the Pack? Button to see details；
-3. During the event, the flash sale Pack rush event will be launched from 20:00 to 22:00 every day:
-A. Special Package: Get the special Package at a great discount, limited to 1,000 copies, and each person is limited to purchasing 1 copy；
-B. Lucky bag Pack: After purchasing the Pack, you can randomly get a Pack that is on sale on the same day. Limited to 10000 copies, limited to 1 copy per person；
-4. Click the flash sale preview function to view the content of the next flash sale Pack；
-5. If you purchase multiple Packages in total, you can unlock personal progress rewards. The more times you purchase Packages, the richer the rewards will be；
-6. Purchase Packs to accumulate server-side progress and unlock server-side progress rewards. You need to purchase the Pack at least once to receive the full server progress reward；
-7. When you purchase a Package and obtain a large amount of additional output, you will have the opportunity to use the marquee display function of the entire server to share your good luck with everyone；
-8. Click the + button on the right of the coupon to go to the recharge page. Unconsumed coupons in the current period can be retained for subsequent carnival activities；
+1. Multiple packs refresh daily
+2. Each purchase giv items plus extra rewards. Tap "?" for info
+3. Pack contents:
+Premium: ^FF0000 10 plant piece ^oldclr + 10-675 gem, 25% for 30 plant piece
+Orange: ^FF0000 10 plant piece ^oldclr + 10-450 gem, 25% for 30 plant piece
+Purple: ^FF0000 10 plant piece ^oldclr + 10-270 gem, 20% for 30 plant piece
+Target: ^FF0000 10 target plant piece ^oldclr + 10-900 gem, 15% for 30 universal piece
+Pendant: ^FF0000 150 Space-Time Dust ^oldclr + 10-450 gem, 30% for 15 purple glove piece
+Dave's Treasure: ^FF0000 8 treasure ticket ^oldclr + 10-1.5k gem, 15% for 22 ticket
+Potion: ^FF0000 10 orange Lv.5 potion ^oldclr + 10-450 gem, 20% for 1 advancement book
+Diamond: ^FF0000 300 gem ^oldclr + 10-450 gem, 35% for 1k gem
+Coin: ^FF0000 450k coins^ oldclr^ + 10-450 gem, 50% for 750k coins
+Flash Sale: ^FF0000 10 plant piece ^oldclr + 10-1k gem, 25% for 30 plant piece
+Artifact: ^FF0000 20 Space-Time Energy ^oldclr + 10-180 gem, 35% for 10 Space-Time Cubes
 
 [CARNIVAL_DESCRIPTION_2]
-9. The contents of each Package are as follows:
-A. Preferred orange plant Pack: Purchase the Pack to get ^FF0000 plant pieces*10^oldclrr and 10-675 diamonds, with a 25% probability of getting plant pieces*30；
-B. Orange plant Package: Purchase the Package to get ^FF0000 plant pieces*10^oldclrr and 10-450 diamonds, with a 25% probability of getting plant pieces*30；
-C. Purple plant Package: Purchase the Package to get ^FF0000 plant pieces*10^oldclrr and 10-270 diamonds, with a 20% probability of getting plant pieces*30；
-D. Oriented plant piece Pack: Purchase the Pack to get ^FF0000 Oriented plant piece*10^oldclrr and 10-900 diamonds, with a 15% probability of getting universal piece*30；
-E. Pendant Package: Purchase the Package to get ^FF0000 time and space dust*150^oldclrr and 10-450 diamonds, with a 30% probability of getting purple glove pieces*15；
-F. Dave penny ticket Coupon Pack: Purchase the Pack to get ^FF0000 penny ticket Coupon*8^oldclrr and 10-1500 diamonds, with a 15% probability of getting penny ticket Coupon*22；
-G. Nutrient solution Pack: Purchase the Pack to get ^FF0000 orange nutrient solution*10^oldclrr and 10-450 diamonds, with a 20% probability of getting the advanced book*1；
-H. Diamond Package: Purchase the Package to get ^FF0000 diamond*300^oldclrr and 10-450 diamonds, with a 35% probability of getting diamond*1000；
-I. Gold coin Package: Purchase the Package to get ^FF0000 gold coins*450000^oldclrr and 10-450 diamonds, with a 50% probability of getting gold coins*750000；
-J. Flash sale Package: Purchase the Package to get ^FF0000 plant pieces*10^oldclrr and 10-1000 diamonds, with a 25% probability of getting plant pieces*30；
-K. Artifact material Pack: Purchase the Pack to get ^FF0000 space-time energy tank*20^oldclrr and 10-180 diamonds, with a 35% probability of getting space-time cubic*10；
+4. Daily 20:00-22:00 flash sale:
+A. Special Offer Pack: Super discounted pack, limited to 1000 units (1 per person)
+B. Lucky Bag: Random daily pack, limited to 10000 units (1 per person)
+5. Tap "Flash Sale Preview" to see upcoming deals
+6. Unlock personal progress rewards by purchasing multiple packs
+7. Contribute to server-wide progress to unlock global rewards (requires at least 1 purchase)
+8. Get featured on server-wide marquee for exceptional luck
+9. Tap "+" next to vouchers to recharge. Unused vouchers carry over to future carnivals
 
 [CARNIVAL]
 Carnival
@@ -60125,6 +60737,60 @@ Magic bean stems cannot be planted in orbit
 [NARRATIVE_ATLANTIS_24_INTRO_2]
 {SAY:WINNIE}Please continue with further simulation experiments!
 
+[NARRATIVE_HALLOWEEN_4_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Penny, what's that thing flying around up there?
+
+[NARRATIVE_HALLOWEEN_4_INTRO_2]
+{SAY:WINNIE}Beep* Scan complete. That's the Witch. They say she only appears on Halloween.
+
+[NARRATIVE_HALLOWEEN_4_INTRO_3]
+{SAY:WINNIE}When she shows up, she charges around on her broomstick, tossing potions down below. Lots of plants have gotten hit on the head.
+
+[NARRATIVE_HALLOWEEN_4_INTRO_4]
+{EXCITED:CRAZYDAVE}Aha! I've got my super helmet—I'll catch her!
+
+[NARRATIVE_HALLOWEEN_4_INTRO_5]
+{SAY:WINNIE}Not the wisest choice—at your height, you'd never catch her.
+
+[NARRATIVE_HALLOWEEN_4_INTRO_6]
+{SAY:WINNIE}Only someone tall enough could stop the witch...
+
+[NARRATIVE_HALLOWEEN_1_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Hey! Is that a pumpkin?
+
+[NARRATIVE_HALLOWEEN_1_INTRO_2]
+{SAY:WINNIE}Negative. Target identified as a magical changing room imbued with mystical power.
+
+[NARRATIVE_HALLOWEEN_1_INTRO_3]
+{SAY:WINNIE}Entities entering it vanish, leaving only their head floating around.
+
+[NARRATIVE_HALLOWEEN_1_INTRO_4]
+{EXCITED:CRAZYDAVE}I bet they must be "body-less" believers!
+
+[NARRATIVE_HALLOWEEN_1_INTRO_3]
+{SAY:WINNIE}Hitting the pumpkin ghost's head with lobbed projectiles can break the Pumpkin House's. Please switch to lobbed-shot plants!
+
+[NARRATIVE_HALLOWEEN_6_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Who's that? The pumpkin knight without his mount!
+
+[NARRATIVE_HALLOWEEN_6_INTRO_2]
+{SAY:WINNIE}Negative. Scans indicate this unit is a related but distinct individual from the Pumpkin Knight.
+
+[NARRATIVE_HALLOWEEN_6_INTRO_3]
+{EXCITED:CRAZYDAVE}Just like the relationship between tacos and iron spatulas, right?
+
+[NARRATIVE_HALLOWEEN_6_INTRO_4]
+{SAY:WINNIE}......
+
+[NARRATIVE_HALLOWEEN_6_INTRO_5]
+{SAY:WINNIE}This unit has the ability to put plants to sleep.
+
+[NARRATIVE_HALLOWEEN_6_INTRO_6]
+{SAY:WINNIE}If not awakened in time with Coffee Bean or Plant Food, something terrible might happen!
+
+[NARRATIVE_HALLOWEEN_6_INTRO_7]
+{SAY:WINNIE}Proceed with caution!
+
 [NEW_AVATAR_PACKAGE]
 Costume Backpack
 
@@ -60690,10 +61356,10 @@ Buy Theatre Luxury Pack
 Theatre Luxury Gifts Pack
 
 [STORE_CATEGORY_NAME_LUCKBAG_45]
-Purchase Summer Festival Lucky Bag
+Purchase Plants Lucky Bag
 
 [STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
-Summer Festival Lucky Bag
+Plants Festival Lucky Bag
 
 [MAT_RICHMAN_COIN]
 Theatre Coins
@@ -62061,6 +62727,18 @@ Watering Can
 
 [THEME_WATERING_DESCRIPTION]
 After plants are planted, there is a 3% chance per second that the plant will enter a water deficit state. In this state, the plant cannot attack. Use the watering can at the bottom right to water the plant and remove the water deficit status.
+
+[THEME_ZOMBIE_SUN_NAME]
+Sunday
+
+[THEME_ZOMBIE_SUN_DESCRIPTION]
+Sun-producing plants are banned
+
+[THEME_SUN_DISABLED_NAME]
+Deadly Sun
+
+[THEME_SUN_DISABLED__DESCRIPTION]
+Zombies drop sun when defeated
 
 [STARCHALLENGE_PROTECT_THE_PLANT]
 Survive and protect plants at risk
@@ -64368,7 +65046,7 @@ Epic
 Legendary
 
 [COLLECTION_USE]
-Every second, there is a 3% chance for all plants on the field to enter a precise striking state for 5 seconds. In this state, each plant's damage is additionally increased by 20% of real damage. Real damage ignores shields and armor (not effective in the Creative Courtyard mode).
+Every second, there is a 3% for all plants on the field to enter a precise striking state for 5 seconds. In this state, each plant's damage is additionally increased by 20% of real damage. Real damage ignores shields and armor (not effective in the Creative Courtyard mode).
 
 [COLLECTION_GOT_WAY]
 Secret Realms - Fairy Tale Forest Hard Mode
@@ -68742,6 +69420,222 @@ Solo Mission 2
 [S26_MEMORY_LEVEL_NAME_16]
 Stronger with Each Fight
 
+[S27_MEMORY_LEVEL_NAME_1]
+Budget Wisely
+
+[S27_MEMORY_LEVEL_NAME_2]
+Full Firepower
+
+[S27_MEMORY_LEVEL_NAME_3]
+All-Out Counterattack
+
+[S27_MEMORY_LEVEL_NAME_4]
+Mechanical Onslaught
+
+[S27_MEMORY_LEVEL_NAME_5]
+Cloudtop Assault
+
+[S27_MEMORY_LEVEL_NAME_6]
+Evacuation Drill
+
+[S27_MEMORY_LEVEL_NAME_7]
+Backup Power
+
+[S27_MEMORY_LEVEL_NAME_8]
+Survival of the Fittest
+
+[S27_MEMORY_LEVEL_NAME_9]
+Earth's Past
+
+[S27_MEMORY_LEVEL_NAME_10]
+Shifting Illusions
+
+[S27_MEMORY_LEVEL_NAME_11]
+Dark Forest
+
+[S27_MEMORY_LEVEL_NAME_12]
+Natural Selection
+
+[S27_MEMORY_LEVEL_NAME_13]
+Death's Immortality
+
+[S27_MEMORY_LEVEL_NAME_14]
+Swift Thunder
+
+[S27_MEMORY_LEVEL_NAME_15]
+Snowy Shadow
+
+[S27_MEMORY_LEVEL_NAME_16]
+Night of Fright
+
+[S27_MEMORY_LEVEL_NAME_001]
+Wall-nut Bowling
+
+[S27_MEMORY_LEVEL_NAME_002]
+Turf War
+
+[S27_MEMORY_LEVEL_NAME_003]
+Graveyard Beatdown
+
+[S27_MEMORY_LEVEL_NAME_004]
+Midnight Assembly Line
+
+[S27_MEMORY_LEVEL_NAME_005]
+Vasebreaker Mayhem
+
+[S27_MEMORY_LEVEL_NAME_006]
+Bungee Blitz
+
+[S27_MEMORY_LEVEL_NAME_007]
+Zombie Invasion
+
+[S27_MEMORY_LEVEL_NAME_008]
+Tile Crusade
+
+[S27_MEMORY_LEVEL_NAME_009]
+Over the Top
+
+[S27_MEMORY_LEVEL_NAME_010]
+Dance Party
+
+[S27_MEMORY_LEVEL_NAME_011]
+Dark and Stormy Night
+
+[S27_MEMORY_LEVEL_NAME_012]
+Stormy Winds and Rain
+
+[S27_MEMORY_LEVEL_NAME_013]
+Harvest Season
+
+[S27_MEMORY_LEVEL_NAME_014]
+Dangerous Autumn Outing
+
+[S27_MEMORY_LEVEL_NAME_015]
+Witches' Party
+
+[S27_MEMORY_LEVEL_NAME_016]
+Masquerade
+
+[S27_MEMORY_LEVEL_NAME_017]
+Ignorant Fool
+
+[S27_MEMORY_LEVEL_NAME_018]
+Zombie Lake Magic
+
+[S27_MEMORY_LEVEL_NAME_019]
+Mysterious Priest
+
+[S27_MEMORY_LEVEL_NAME_020]
+Head-in-Sand
+
+[S27_MEMORY_LEVEL_NAME_021]
+Absolute Power
+
+[S27_MEMORY_LEVEL_NAME_022]
+Ancient Chariot
+
+[S27_MEMORY_LEVEL_NAME_023]
+Sun, Moon, and Stars
+
+[S27_MEMORY_LEVEL_NAME_024]
+Supreme Emperor
+
+[S27_MEMORY_LEVEL_NAME_025]
+Timid as a Mushroom
+
+[S26_MEMORY_LEVEL_NAME_026]
+Gentle Snowfall
+
+[S27_MEMORY_LEVEL_NAME_027]
+Land-based Sea God
+
+[S27_MEMORY_LEVEL_NAME_028]
+Emperor's Might
+
+[S27_MEMORY_LEVEL_NAME_029]
+Bone-chilling Cold
+
+[S27_MEMORY_LEVEL_NAME_030]
+Blade's Glimmer
+
+[S27_MEMORY_LEVEL_NAME_031]
+Unstoppable Momentum
+
+[S27_MEMORY_LEVEL_NAME_032]
+Passionate Pulse
+
+[S27_MEMORY_LEVEL_NAME_033]
+Pea Symbiosis
+
+[S27_MEMORY_LEVEL_NAME_034]
+Radiant Brilliance
+
+[S27_MEMORY_LEVEL_NAME_035]
+Sky-high Flames
+
+[S27_MEMORY_LEVEL_NAME_036]
+Shock Therapy
+
+[S27_MEMORY_LEVEL_NAME_037]
+Gloomy Shadow
+
+[S27_MEMORY_LEVEL_NAME_038]
+Mobile Pool
+
+[S27_MEMORY_LEVEL_NAME_039]
+Deadly Poison
+
+[S27_MEMORY_LEVEL_NAME_040]
+Solid as a Rock
+
+[S27_MEMORY_LEVEL_NAME_041]
+Corporation Invasion
+
+[S27_MEMORY_LEVEL_NAME_042]
+Diplomacy Expert
+
+[S27_MEMORY_LEVEL_NAME_043]
+Security Department
+
+[S27_MEMORY_LEVEL_NAME_044]
+Mecha Onslaught
+
+[S27_MEMORY_LEVEL_NAME_045]
+Team Building
+
+[S27_MEMORY_LEVEL_NAME_046]
+Big Head, Small Head
+
+[S27_MEMORY_LEVEL_NAME_047]
+Z's Creation
+
+[S27_MEMORY_LEVEL_NAME_048]
+Racing Dream
+
+[S27_MEMORY_LEVEL_NAME_BOSS_1]
+Sphinx Terminator
+
+[S27_MEMORY_LEVEL_NAME_BOSS_2]
+Deck Stroller
+
+[S27_MEMORY_LEVEL_NAME_BOSS_3]
+Bull-cart Fighter
+
+[S27_MEMORY_LEVEL_NAME_BOSS_4]
+Tomorrow's Decoder
+
+[S27_MEMORY_LEVEL_NAME_BOSS_5]
+Dragon Tamer
+
+[S27_MEMORY_LEVEL_NAME_BOSS_6]
+Frenzied Shark Striker
+
+[S27_MEMORY_LEVEL_NAME_BOSS_7]
+Fang Conqueror
+
+[S27_MEMORY_LEVEL_NAME_BOSS_8]
+Kong's Roar
+
 [INVINCIBLE]
 Invincible Protection
 
@@ -68749,6 +69643,9 @@ Invincible Protection
 Seed Protection
 
 [PVZ1MODE_PROTECT_NORMAL_DESC]
+Survive and protect the threatened plants
+
+[PVZ1MODE_PROTECT_DESC]
 Survive and protect the threatened plants
 
 [PVZ1MODE_SUNBOMB]
@@ -68774,6 +69671,12 @@ Calm and Peaceful
 
 [PVZ1MODE_PEACE_NORMAL_DESC]
 All is quiet—no special mechanics or events
+
+[PVZ1MODE_DROP]
+Card Drop
+
+[PVZ1MODE_DROP_NORMAL_DESC]
+Defeating card-effect zombies drops plant cards
 
 [MEMORY_LEVEL_NAME_01]
 Day 1 of the Memories Tour
@@ -72738,6 +73641,90 @@ Pumpkin scarecrow
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINSCARECROW]
 The Pumpkin Scarecrow, exclusive to Halloween, is a favorite resting place for zombie crows, and not only attracts crows, but they also avenge the scarecrow after damage
 
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN1]
+Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN1]
+A Halloween specialty Pumpkin House, remodeled from a zombie changing room. They say any zombie entering it loses its body, leaving only a head behind. What's the principle behind this?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN2]
+Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN2]
+Whether Imps or Gargantuars, they all have to queue to enter the Pumpkin House—one house can't fit so many zombies.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN3]
+Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN3]
+Rumor has it a zombie named Louis once entered the Pumpkin House and never felt hungry again. How miraculous!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN4]
+Fright Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN4]
+The Fright Witch loves riding her brake-less magic broom and tossing objects from high above. Will anyone tall enough finally stop her?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN5]
+Fright Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN5]
+Maybe the Fright Witch can't actually ride a broom—we've never seen her land. Let a tall plant "help" her make a stop!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN6]
+Fright Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN6]
+They say the Fright Witch once sped to grab discounted eggs at the supermarket and got 13 tickets. Don't imitate her! Not that plants need this advice...
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN7]
+Fright Witch × Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN7]
+An annoying combo—they'll turn the backyard into chaos. Deal with them quickly!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN8]
+Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN8]
+Still the Pumpkin House, still leaving zombies utterly confused.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN9]
+Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN9]
+So, are the pumpkin ghosts coming out of the Pumpkin House considered plants or zombies? Truly puzzling.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN10]
+Pumpkin House
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN10]
+More zombies paired with more Pumpkin Houses mean a scarier offensive!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN11]
+Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN11]
+Don't let that pesky Witch hover above us anymore! Where's Tall-nut? Tall-nut, do something!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN12]
+Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN12]
+The invincible Tall-nut declares: "No speeding in the garden ahead!"
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN13]
+Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN13]
+She must have aced Potions class—how else does she have so many bizarre magic bottles? We must stop her fast!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN14]
+Final Assault
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN14]
+Quickly deploy our combat units—the final assault is about to begin!
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_SNOWBALL]
 Snowball attack
 
@@ -74577,6 +75564,33 @@ Remember to keep using zombie enhancement skills!
 
 [NEW_PVP_MAIN_VIEW_RETRY_MATCHING]
 Rematch
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_TITLE]
+Teams edit
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_TEAM_TITLE]
+Custom Team Name
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_NAME_TITLE]
+Edit Name
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_NAME_CONFIRM]
+Confirm
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_TITLE]
+Confirm Edit
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_TEXT]
+Change selected plants?
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_IMITATER_TITLE]
+System Notice
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_IMITATER_TEXT]
+Imitater cannot be placed in the first slot. Please change its position!
+
+[NEW_PLANT_UI_TEAM_CHOOSER_TITLE]
+Plant Teams
 
 [NEW_PLANT_UI_LEVEL_UP_BTN_TEXT]
 Upgrade
@@ -77070,6 +78084,9 @@ The Fire Peashooter has a 20% probability of firing bullets from a continuous at
 [FIREPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
 
+[FIREPEASHOOTER_NEW_SKILL_LEVEL5_DES]
+There is a 20% chance to fire a fireball upon attacking, which explodes in a fan shape upon impact, dealing damage and burning to all zombies within the area.
+
 [FIREPEASHOOTER_PLANTFOOD_DESCRIPTION]
 The Fire Peashooter is angry and spits out the flames, causing damage to the entire line of zombies that ignores the armor.
 
@@ -77426,6 +78443,10 @@ Pumpkin Puppet's health rises to 3000/1500 and attack power rises to 150/300.
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL4_DES]
 There is a high probability of be boosted Pumpkin Puppet's health rose to 4500/2250 and attack power to 225/450.
+
+[PUMPKINWITCH_NEW_SKILL_LEVEL5_DES]
+南瓜有30%概率丢出带有巫师帽南瓜，这种南瓜生成的南瓜傀儡可以远程释放法术攻击，造成伤害并施加禁疗效果。
+
 
 [PUMPKINWITCH_PLANTFOOD_DESCRIPTION]
 Throwing up to 5 pumpkins with an intensity of 130% of normal pumpkins, manipulating the 5 most left-handed manipulable zombies on the field. After this, the pumpkin wizard enters a 14-second break. The puppet will not recover after death.
@@ -78085,7 +79106,7 @@ Participate in party assistance, help climb levels, win various rare rewards, an
 Activity Rules:
 1. Select 3 custom rewards before starting. Rewards are given at corresponding levels.
 2. After 3 rounds reaching level 10, you'll get the Angel Starfruit outfit.
-3. Each assistance increases progress by one level. There's a 10% chance for a Super Reward per level. After 3 rounds at level 10, the Super Reward is guaranteed.
+3. Each assistance increases progress by one level. There's a 10% for a Super Reward per level. After 3 rounds at level 10, the Super Reward is guaranteed.
 4. After reaching level 10, reset custom rewards. Players at level 5+ can manually reset.
 5. Complete tasks to get rewards; required outfits can be earned in custom rewards.
 6. Tokens and progress do not carry over. Remaining tokens are converted to diamonds at a 1:10 ratio.
@@ -78810,28 +79831,28 @@ From Lucky Treasure event or weekly packs
 [NFS_LINKAGE_TAB1]
 Daily Login
 
-[NFS_LINKAGE_TAB2]
-Conch Tasks
-
-[NFS_LINKAGE_TAB3]  
-Reward Shop
+[NFS_LINKAGE_TAB2_5]
+Hemudu Tasks
 
 [NFS_LINKAGE_TAB2_4]
 Speed Tasks
 
+[NFS_LINKAGE_TAB3]
+Reward Shop
+
 [NFSLINKAGE_DESCRIPTION_TITLE_3]  
-Conch Battle Event Info
+Discover Hemudu Event Guide
 
 [NFSLINKAGE_DESCRIPTION_TITLE_4]
 Gear Challenge Event Info
 
-[NFSLINKAGE_DESCRIPTION_3]
+[NFSLINKAGE_DESCRIPTION_5]
 Event Rules:
 1. Log in daily during the event to claim premium rewards (14-day check-in)
-2. Conch Missions include Daily and Event tasks (resets at 0:00 daily)
+2. Hemudu Tasks include Daily and Event tasks (resets at 0:00 daily)
 3. Event tasks have multiple stages - next stage unlocks after completing current one
-4. Earn Conches by completing missions, exchange for rewards in the Store
-5. Remember to exchange Conches before the event ends!
+4. Earn Hemudu by completing missions, exchange for rewards in the Store
+5. Remember to exchange Hemudu  before the event ends!
 
 [NFSLINKAGE_DESCRIPTION_4]
 Event Rules:
@@ -78841,20 +79862,20 @@ Event Rules:
 4. Earn Gears by completing missions, exchange for rewards in the Store
 5. Remember to exchange Gears before the event ends!
 
-[NFSLINKAGE_TITLE_3]
-Conch Challenge
+[NFSLINKAGE_TITLE_5]
+Discover Hemudu
 
 [NFSLINKAGE_TITLE_4]
 Speed Challenge
 
-[MAT_NFSLINKAGE_TICKET_3]
-Conch
+[MAT_NFSLINKAGE_TICKET_5]
+Stones
 
 [MAT_NFSLINKAGE_TICKET_4]
 Gear
 
-[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_3]
-During the event, log in daily for 14 days of rewards! Complete missions to earn Conches and exchange them for premium items!
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_5]
+During the event, log in daily for 14 days of rewards! Complete missions to earn Stones and exchange them exclusive rewards!
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Gears and exchange them for premium items!
@@ -79605,7 +80626,7 @@ Sky War
 Enhancement Energy
 
 [GINGLEBELL_TITLE]
-Jingle Bells Celebration
+Halloween Jingle Bell
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -79628,9 +80649,9 @@ Jingle Bells Description
 [GINGLEBELL_DESCRIPTION]
 Event Rules:
 Special Mechanic - Gift Boxes: Attacking gift boxes does not increase your score.
-    1. All damage dealt to Cake Pharaoh Zombie within time limit counts as clearance score.
+    1. All damage dealt to Scarecrow within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Anniversary Opening, Anniversary Gala, Anniversary Evening), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Night Parade of One Hundred Demons, All Kinds of Wonders, Halloween Thrills), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00:00-10:00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
     6. Ranking rewards auto-distribute after 10:00. On September 17, extends to 24 hours (no challenges allowed).
@@ -79673,100 +80694,100 @@ Deep Sea Jingle
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Anniversary Opening - Level 1
+Night Parade of One Hundred Demons - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Anniversary Opening - Level 2
+Night Parade of One Hundred Demons - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Anniversary Opening - Level 3
+Night Parade of One Hundred Demons - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Anniversary Gala - Level 1
+All Kinds of Wonders - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Anniversary Gala - Level 2
+All Kinds of Wonders - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Anniversary Gala - Level 3
+All Kinds of Wonders - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Anniversary Evening - Level 1
+Halloween Thrills - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Anniversary Evening - Level 2
+Halloween Thrills - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Anniversary Evening - Level 3
+Halloween Thrills - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Anniversary Opening - Level 1
+Night Parade of One Hundred Demons - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Anniversary Opening - Level 2
+Night Parade of One Hundred Demons - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Anniversary Opening - Level 3
+Night Parade of One Hundred Demons - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Anniversary Gala - Level 1
+All Kinds of Wonders - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Anniversary Gala - Level 2
+All Kinds of Wonders - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Anniversary Gala - Level 3
+All Kinds of Wonders - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Anniversary Evening - Level 1
+Halloween Thrills - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Anniversary Evening - Level 2
+Halloween Thrills - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Anniversary Evening - Level 3
+Halloween Thrills - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Anniversary Opening - Level 1
+Night Parade of One Hundred Demons - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Anniversary Opening - Level 2
+Night Parade of One Hundred Demons - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Anniversary Opening - Level 3
+Night Parade of One Hundred Demons - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Anniversary Gala - Level 1
+All Kinds of Wonders - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Anniversary Gala - Level 2
+All Kinds of Wonders - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Anniversary Gala - Level 3
+All Kinds of Wonders - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Anniversary Evening - Level 1
+Halloween Thrills - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Anniversary Evening - Level 2
+Halloween Thrills - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Anniversary Evening - Level 3
+Halloween Thrills - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge: Deal max damage within 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Anniversary Gala - Level {LEVEL_NUMBER}
+All Kinds of Wonders - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Anniversary Opening - Level {LEVEL_NUMBER}
+Night Parade of One Hundred Demons - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Anniversary Evening - Level {LEVEL_NUMBER}
+Halloween Thrills - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Jingle Bell Celebration Journey
+{PLAYER}'s Trip to Halloween Jingle Bell
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
 5 Blue Pendant Fragments (Selectable)
@@ -80506,6 +81527,36 @@ Ocean Mysteries
 [AVATARCOLLECTIONS_HEAD_DES_ID_25716]
 Azure waters hide swirling currents
 
+[AVATARCOLLECTIONS_THEME_TITLE15]
+Ultimate Evolution
+
+[AVATARCOLLECTIONS_THEME_DES15]
+Break the shackles, unleash the bloodline
+
+[AVATARCOLLECTIONS_HEAD_ID_25774]
+Ultimate Evolution
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25774]
+Break the shackles, unleash the bloodline
+
+[AVATARCOLLECTIONS_THEME_TITLE16]
+Interdimensional Travel
+
+[AVATARCOLLECTIONS_THEME_DES16]
+Shatter the dimensional walls, traverse the corridors
+
+[AVATARCOLLECTIONS_HEAD_ID_25775]
+Interdimensional Travel
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25775]
+Shatter the dimensional walls, traverse the corridors
+
+[AVATARCOLLECTIONS_THEME_TITLE17]
+Endless Starry Sky
+
+[AVATARCOLLECTIONS_THEME_DES17]
+Stare into the black hole until it stares back
+
 [AVATARCOLLECTIONS_NOT_EXIST]
 Not Owned
 
@@ -80514,6 +81565,9 @@ Cannot plant on snowmen
 
 [PLANTING_NOT_ON_GINGLEBARRIER]
 Cannot plant on a barrier.
+
+[PLANTING_NOT_ON_NECROMANCER_STONE]
+You need to clear the stone pile before planting plants
 
 [PLANTING_NOT_ON_ATLANTIS_SHELL]
 Shells cannot be planted on plants.
@@ -80577,6 +81631,18 @@ Lava Hammer
 
 [TOYS_HEAD_DES_ID_25723]
 Obtain by participating in the Lava Roll Show event
+
+[TOYS_HEAD_ID_25755]
+Wasteland Modification
+
+[TOYS_HEAD_DES_ID_25755]
+Obtained through the Wasteland Factory event
+
+[TOYS_HEAD_ID_25771]
+Stargazing
+
+[TOYS_HEAD_DES_ID_25771]
+Obtained through the Stellar Singularity event
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -80690,11 +81756,17 @@ Rare Treasures
 [TIANGONG_HEAD_DES_ID_25741]
 Obtained by accumulating draws in the Celestial Treasure Hunt event stage rewards.
 
+[TIANGONG_HEAD_ID_25761]
+Magic Pocket
 
+[TIANGONG_HEAD_DES_ID_25761]
+Obtained by accumulating draws in the Celestial Treasure Hunt event stage rewards
 
+[TIANGONG_HEAD_ID_25778]
+Poisoner's Compassion
 
-
-
+[TIANGONG_HEAD_DES_ID_25778]
+Obtained by accumulating draws in the Celestial Treasure Hunt event stage rewards
 
 [PVP_ERROR_76030]
 Item cheating detected
