@@ -1,4 +1,4 @@
-﻿This translation was created by Evilhack28. I am are not affiliated with the game or its developers in any way.
+This translation was created by Evilhack28. I am are not affiliated with the game or its developers in any way.
 
 This is completely free. You will never be asked to pay me personally or to subscribe to anything in order to access it.
 If you paid for this translation, you were scammed.
@@ -66,27 +66,27 @@ Have a Nice day !
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 
 
@@ -94,39 +94,39 @@ Have a Nice day !
 
 [SPRING_TIPS_1]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_2]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_3]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_4]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_5]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_6]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_7]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_8]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [SPRING_TIPS_9]
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Oct 31 (3.8.8_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF5D00 You’re using the ^FFFFFF ^FB2B2B OUTDATED Version ^FFFFFF ^FF5D00 of the Mods! (Translation will still be updated)
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
 Escape Root Goggles
@@ -13781,7 +13781,7 @@ Pharmaceutics Master
 When attacking, there is a 50% chance to throw a larger potion bottle, which splashes away after hitting a zombie, causing 600 points of damage to zombies in a single cell range, and applying 1 layer of poison to zombies in a small range.
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL1_DES]
-When a zombie appears on the right side of the Lily, poison is thrown to cause damage to the zombie, and a deceleration is attached with 1 layer of toxin for 5 seconds. Each layer of toxin causes 1% zombie health per second^701edf^poisoningâ… ^oldclrr damage, with an upper limit of 3 layers.
+When a zombie appears on the right side of the Lily, poison is thrown to cause damage to the zombie, and a deceleration is attached with 1 layer of toxin for 5 seconds. Each layer of toxin causes 1% zombie health per second^701edf^poisoningâ… ^oldclrr damage, with an upper limit of 3 layers.
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL2_DES]
 After the poison hits a zombie, there is a 20% chance of leaving a pool of poison that lasts for 7 seconds, applying a layer of poison to the passing zombie.
@@ -53015,7 +53015,7 @@ Remaining time:
 [RAFFLESIA_PEDIA]
 大王花：雨林中的腐艳巨无霸
     花朵直径可达1米，被誉为“世界花王”。 雌雄异株，其花瓣厚实如腐肉，呈暗红色带白色斑点，散发浓烈尸臭来特异性吸引食腐昆虫来传粉。最奇特的是它无根、茎、叶，一生寄生在热带藤本植物（如崖爬藤）体内，仅开花时露出地面。大王花从宿主汲取营养数年，花苞孕育需9个月，开花仅持续5-7天。花朵凋谢后结出网球大小的果实，内含数千种子，由果蝠或松鼠传播。其种子萌发需精准落入宿主根部裂隙，生存率极低，国际自然保护联盟（IUCN）评估显示，已知的42种大王花中，有25种处于濒危状态。
-    大王花现中文名又称大花草，原产于印尼苏门答腊、马来半岛等地的低海拔热带雨林。其学名Rafflesia arnoldi 源自其发现者的名字合称，19世纪英国探险家Stamford Raffles与博物学家Joseph Arnold二人于1818年首次科学记录这一物种，让此雨林奇观走向世界。
+    大王花现中文名又称大花草，原产于印尼苏门答腊、马来半岛等地的低海拔热带雨林。其学名Rafflesia arnoldi 源自其发现者的名字合称，19世纪英国探险家Stamford Raffles与博物学家Joseph Arnold二人于1818年首次科学记录这一物种，让此雨林奇观走向世界。
     花语：独自孤傲
 
 
