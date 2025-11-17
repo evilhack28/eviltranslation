@@ -433,7 +433,7 @@ Puff Vine Headphones Costume
 Increases reverse walk duration by 1s after zombies leave rotenone range
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_2]
-Treasure Slipper Orchid Mustache Costume
+Chest Slipper Orchid Mustache Costume
 
 [NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_2]
 Increases attack speed by 20%
@@ -1982,22 +1982,22 @@ Jurassic Marsh Endless Challenger
 To players who have achieved results in the Jurassic Marsh Endless Challenge.
 
 [DAVE_TREASURE_HEAD_ID_25307]
-Treasure Marauder
+Chest Marauder
 
 [DAVE_TREASURE_HEAD_DES_ID_25307]
-To players who have received the final reward in the Dave's Treasure event.
+To players who have received the final reward in the Dave's Chest event.
 
 [DAVE_TREASURE_HEAD_ID_25308]
-Treasure Marauder
+Chest Marauder
 
 [DAVE_TREASURE_HEAD_DES_ID_25308]
-To players who have received the final reward in the Dave's Treasure event.
+To players who have received the final reward in the Dave's Chest event.
 
 [DAVE_TREASURE_HEAD_ID_25316]
-June 1'st Treasure Marauder
+June 1'st Chest Marauder
 
 [DAVE_TREASURE_HEAD_DES_ID_25316]
-To players who have won the June 1st reward in the Dave's Treasure Event.
+To players who have won the June 1st reward in the Dave's Chest Event.
 
 [ZOMBIE_ROMAN_IMP_HEAD_ID_25318]
 Penny's Pursuit Brick Challenger
@@ -2138,10 +2138,10 @@ To players journeying through memories.
 Season 6
 
 [DAVE_TREASURE_HEAD_ID_25368]
-Anniversary Treasure Marauder
+Anniversary Chest Marauder
 
 [DAVE_TREASURE_HEAD_DES_ID_25368]
-To players who have won the anniversary reward in the Dave's Treasure Event.
+To players who have won the anniversary reward in the Dave's Chest Event.
 
 [LEVEL_EDITOR_HEAD_ID_25371]
 Martial Artist Sugarcane Master
@@ -3125,7 +3125,7 @@ Swings in on a rope to lane midway onto your lawn.
 [ZOMBIE_SWASHBUCKLER_DESCRIPTION]
 {KEYWORD}Special: {STAT} lands four tiles into your lawn
 
-{FLAVOR}He swashes. He buckles. But, he also writes home every third Sunday and sends brains and treasure via post. He's a good zombie at heart.
+{FLAVOR}He swashes. He buckles. But, he also writes home every third Sunday and sends brains and chest via post. He's a good zombie at heart.
 
 [ZOMBIE_SEAGULL]
 Seagull Zombie
@@ -3301,14 +3301,14 @@ Sometimes has a hidden armored plate.
 {FLAVOR}The grate is his most prized possession. The poncho is there just to protect it from getting rusty. Also, he's looking for his mechanical horse.
 
 [ZOMBIE_TREASUREYETI]
-Treasure Yeti
+Chest Yeti
 
 [ZOMBIE_TREASUREYETI_DESCRIPTION_HEADER]
 A rare and curious creature, he always packs a lunch.
 
 [ZOMBIE_TREASUREYETI_DESCRIPTION]
 {KEYWORD}Speed Details: {STAT} runs away after a short while
-{KEYWORD}Special: {STAT} carries treasure
+{KEYWORD}Special: {STAT} carries chest
 
 {FLAVOR}The rare and wondrous Yeti carries his lunch box up and down Mount Brainer to his isolated mountain lodge.
 
@@ -23706,7 +23706,7 @@ Check out the Almanac!
 Visit Store
 
 [ADVICE_GOTO_GACHA]
-You've gained access to Penny's treasure! Let's try it out now!
+You've gained access to Penny's chest! Let's try it out now!
 
 [ADVICE_GOTO_UNIVERSE_VIEW]
 You finished Egypt! Tap the Universe Button!
@@ -24960,13 +24960,13 @@ YES
 Warning
 
 [DIALOG_YES_PLAYED_PVZ]
-We go way back
+PLAY THROUGH
 
 [DIALOG_YES_SKIP_TUTORIAL]
-SKIP
+SKIP OVER
 
 [RANK_AVATAR_SELECT_TITLE]
-Select Background
+Choose a Bannner
 
 [RANK_AVATAR_CONTENT_TITLE]
 First Season
@@ -25771,7 +25771,7 @@ Windowed mode is only valid when your desktop is running in 16-bit or 32-bit col
 To run the game in windowed mode, you need to exit the game first and switch your desktop to 16-bit or 32-bit color mode.
 
 [JUMP_TO_COLLECTIONS_VIEW]
-Jump to the Treasure View
+Jump to the Chest View
 
 [JUMP_TO_MACHINE_VIEW]
 Jump to the Items View
@@ -25839,7 +25839,7 @@ Clear Slots
 LOADING...
 
 [LOCAL_PUSH_YETI_EVENT]
-What's in Treasure Yeti's lunchbox? Defeat him to find out!
+What's in Chest Yeti's lunchbox? Defeat him to find out!
 
 [LOCALE]
 Chinese_China
@@ -26327,7 +26327,7 @@ Now there is a first deposit Pack to improve!
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Come and try opening the legendary treasure and have a look!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Come and try opening the legendary chest and have a look!
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA1_INTRO_2]
 {SAY:WINNIE} The resources we saved before are enough for you to be ten consecutive times at a time.
@@ -27074,7 +27074,7 @@ Unlocked gene editing! Refining genetic sequences to improve plant combat effect
 {NPC_ENTER:winnieicon}{SAY}Look out. It's a map.
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_2]
-{NPC_ENTER:crazydaveicon}{EXCITED}To treasure! It says no zombies. Maps don't lie!
+{NPC_ENTER:crazydaveicon}{EXCITED}To chest! It says no zombies. Maps don't lie!
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_3]
 {PLAYFUL:winnieicon}Well, we do have a shovel.
@@ -29072,7 +29072,7 @@ BEST DEAL
 BUY T-SHIRTS, TOYS & MORE
 
 [STORE_NO_PRICE]
-BUY'
+Buy: 
 
 [STORE_PURCHASE]
 %0.2f
@@ -29563,13 +29563,13 @@ You lack {GOLD_NUM} gold coins. Would you like to purchase?
 Buy Now
 
 [WORLDMAP_YETI_EVENT_ALERT_DESCRIPTION]
-A Treasure Yeti has spawned in this level. Destroy him and get treasure before he vanishes!
+A Chest Yeti has spawned in this level. Destroy him and get chest before he vanishes!
 
 [WORLDMAP_YETI_EVENT_ALERT_HEADER]
 Special Event
 
 [WORLDMAP_YETI_OTHER_WORLD_ALERT_DESCRIPTION]
-A Treasure Yeti has spawned in this world. Destroy him and get treasure before he vanishes!
+A Chest Yeti has spawned in this world. Destroy him and get chest before he vanishes!
 
 [WORLDMAP_YETI_OTHER_WORLD_ALERT_HEADER]
 Special Event
@@ -29593,10 +29593,10 @@ All Yetis have been defeated today. Please come back tomorrow.
 Yeti has spawned!
 
 [YETI_SPAWNED_HEADER]
-A Wild Treasure Yeti!
+A Wild Chest Yeti!
 
 [YETI_SPAWNED_TEXT]
-A treasure yeti has appeared.
+A chest yeti has appeared.
 
 [ZOMBIES]
 ZOMBIES
@@ -29721,7 +29721,7 @@ Purple/Orange fragment 32.78%/27.22%
 
 
 [LUCKYCHEST_DES_TITLE]
-Lucky Treasure Event Description
+Lucky Chest Event Description
 
 
 [STORE_CATEGORY_NAME_PVP_COINS]
@@ -30711,10 +30711,10 @@ Heian Ages Lawn Mower. Poetically slices through undead.
 Underwater World Lawn Mower. Sinks zombie hopes like Atlantis.
 
 [UPGRADE_TREASURE_YETI]
-Unlock Treasure Snowman
+Unlock Chest Snowman
 
 [UPGRADE_TREASURE_YETI_DESCRIPTION]
-Unlock Treasure Snowman
+Unlock Chest Snowman
 
 [UPGRADE_SHOVEL]
 sun Shovel
@@ -31029,19 +31029,19 @@ The network is unstable and cloud archive synchronization fails, please try agai
 Please synchronize the cloud save first and then play the game.
 
 [YETI_ESCAPE_DIALOG_TITLE]
-The Treasure Snowman runs away
+The Chest Snowman runs away
 
 [YETI_ESCAPE_DIALOG_TEXT]
-You need to knock the Treasure Snowman down before he escapes, so that you can get its treasure!
+You need to knock the Chest Snowman down before he escapes, so that you can get its chest!
 
 [YETI_ENTER_ADVICE]
-Defeat the Treasure Yeti to earn mysterious rewards. Be careful not to let it escape.
+Defeat the Chest Yeti to earn mysterious rewards. Be careful not to let it escape.
 
 [STARCHALLENGE_YETI_DEMO]
 Resist the zombie invasion and get new plants.
 
 [STARCHALLENGE_YETI_DEMO_NAME]
-Snowman Treasure
+Snowman Chest
 
 [ADVICE_SUNBANK_TUTORIAL_FAKEGEM]
 Diamonds can be used to buy extra sun!
@@ -31102,7 +31102,7 @@ Version upgrade
 The version has been upgraded, please update for a better experience of the game.
 
 [PURCHASE_RESTORE_DIALOG_HEADER]
-Forgot the treasure that was collected
+Forgot the chest that was collected
 
 [PURCHASE_RESTORE_DIALOG_DESC]
 Here are the treasures you forgot to collect after your last recharge: {PRODUCT_NAME}
@@ -32011,7 +32011,7 @@ Not all the pieces of this plant dressing up have been collected yet, existing p
 Insufficient keys
 
 [BUY_GACHA_DESC]
-Your number of keys is insufficient, do you want to buy ^00FF00 {KEY_COUNT} ^oldclr key to open the treasure?
+Your number of keys is insufficient, do you want to buy ^00FF00 {KEY_COUNT} ^oldclr key to open the chest?
 
 [DATA_ERROR_HEADER]
 Data abnormal
@@ -32313,7 +32313,7 @@ Attend activities
 [NOTICE_CONTENT_FIRST]
 Dear Player:
  
-Dave arrives at the legendary Lost City for the magic taco! None of the various treasure hunters were spared to become zombies in this cursed earth.
+Dave arrives at the legendary Lost City for the magic taco! None of the various chest hunters were spared to become zombies in this cursed earth.
  
 Lost City Ruins Adventure
 Sun Umbrella Zombie Immune Ejection, the guide zombie will open the dark path.
@@ -33679,10 +33679,10 @@ Confirm Draw
 Confirm Exchange
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
-Insufficient Limited Treasure Tickets. Confirm spending {NUMBER} diamonds to exchange for a single ticket and proceed with the draw?
+Insufficient Limited Chest Tickets. Confirm spending {NUMBER} diamonds to exchange for a single ticket and proceed with the draw?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-Insufficient Limited Treasure Tickets. Confirm spending {NUMBER} diamonds to exchange for 10-draw tickets and proceed with the draw?
+Insufficient Limited Chest Tickets. Confirm spending {NUMBER} diamonds to exchange for 10-draw tickets and proceed with the draw?
 
 [LIMITED_GACHA_CONFIRM_TEXT]
 Insufficient penny ticket Tickets. Confirm spending {PRICE} diamonds to exchange for penny ticket Tickets X{NUM} and proceed with the draw?
@@ -33912,7 +33912,7 @@ Bring out your undead to the year 948! Harvest mushrooms in the dark of knight a
 Take a trip back to the '60s and hang ten on the ocean waves! Tides are changing and those gnarly zombies make it not-so-safe to go back in the water!
 
 [WORLD_PREVIEW_DESCRIPTION_LOSTCITY]
-Discover the vanished city of gold, where sun is plentiful and misplaced zombies abound! Use special tiles for extra sun, for these treasure-seekers are no idol threat!
+Discover the vanished city of gold, where sun is plentiful and misplaced zombies abound! Use special tiles for extra sun, for these chest-seekers are no idol threat!
 
 [WORLD_PREVIEW_TEASER_KONGFU]
 21 brand new levels!
@@ -34605,13 +34605,13 @@ Accessory exchange failed, possibly due to a full backpack or lack of network co
 Can be obtained through:
 
 [GEM_BOX]
-Penny's Treasure
+Penny's Chest
 
 [GOLD_CAN]
-Lucky Treasure
+Lucky Chest
 
 [PENDANT_CAN]
-Pendant Treasure
+Pendant Chest
 
 [RECHARGE_CAN_GOT]
 Obtain through recharge
@@ -34632,7 +34632,7 @@ Children's Day exclusive event
 Summer Carnival Ice and Fire Challenge
 
 [THREE_YEAR_CHARGE_CAN_GOT]
-Summer Carnival Limited-time Treasure
+Summer Carnival Limited-time Chest
 
 [TO_BE_AWAIT]
 Stay tuned
@@ -35093,12 +35093,11 @@ Fire Bomb
 [FIREPEASHOOTER_SKILL_LEVEL5_DES]
 There is a 20% chance to fire a fireball upon attacking, which explodes in a fan shape upon impact, dealing damage and burning to all zombies within the area.
 
-
 [GACHA_AGAIN_10_TIMES]
-Again x10
+x10
 
 [GACHA_AGAIN_1_TIMES]
-Again x1
+x1
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL2_1]
 {NPC_ENTER:zombossicon}Humph, my latest creation, the Super Zombie MKII, has finally entered the field. With your wisdom, it's impossible for you to think of upgrading your plants to level 2 to deal with it!
@@ -36245,13 +36244,13 @@ Aquatic plants can only be planted in water
 Replacement of unselected cards
 
 [STORE_CATEGORY_NAME_LUCKYLEAF_DESC]
-Lucky Treasure
+Lucky Chest
 
 [STORE_CATEGORY_NAME_LUCKYLEAF_SHORT_DESC]
 Shoot the target and draw the fallen plants or piece for rewards
 
 [STORE_CATEGORY_NAME_TREASURE_DESC]
-Penny's Treasure
+Penny's Chest
 
 [STORE_CATEGORY_NAME_TREASURE_SHORT_DESC]
 It is possible to obtain all plants
@@ -38815,7 +38814,7 @@ Rose Swordsman can attack approaching zombies and unleash powerful attacks again
 [ROSESWORDMAN_DESCRIPTION]
 {KEYWORD}Special: {STAT} Launches powerful attacks against low-health zombies.
 {KEYWORD}Plant features: {STAT} Red plant, Highly skilled
-{FLAVOR} This mysterious swordsman from the distant East calls himself Versailles Gao. He always boasts of being an artist ahead of his time while drinking in the tavern. These rude fellows can't understand what I'm trying to express! he often complains, That famous singer Sunflower, I once painted a groundbreaking portrait of her, but she claimed it was garbage! This was the only portrait I painted besides the rose! I even deliberately signed my initials below the painting, I bet just that signature alone would make it a priceless treasure... *hiccup~*
+{FLAVOR} This mysterious swordsman from the distant East calls himself Versailles Gao. He always boasts of being an artist ahead of his time while drinking in the tavern. These rude fellows can't understand what I'm trying to express! he often complains, That famous singer Sunflower, I once painted a groundbreaking portrait of her, but she claimed it was garbage! This was the only portrait I painted besides the rose! I even deliberately signed my initials below the painting, I bet just that signature alone would make it a priceless chest... *hiccup~*
 
 [ROSESWORDMAN_TOOLTIP]
 Attacks approaching zombies, dealing massive damage to low-health zombies.
@@ -39511,7 +39510,7 @@ It takes all the worlds of current spacetime to fully activate the spacetime con
 {NPC_ENTER:crazydaveicon}{EXCITED} Dear neighbor, I found a good place, come and see it with me!
 
 [NARRATIVE_WORLDMAP_PLANTGJ_INTRO_1]
-{NPC_ENTER:crazydaveicon}{EXCITED} Dear neighbor, there are not only plants and costumes in the lucky treasure, but also pendants!
+{NPC_ENTER:crazydaveicon}{EXCITED} Dear neighbor, there are not only plants and costumes in the lucky chest, but also pendants!
 
 [NARRATIVE_WORLDMAP_PLANTGJ_INTRO_2]
 {NPC_ENTER:crazydaveicon}{EXCITED}What, you don't know? Go check it out!
@@ -39550,7 +39549,7 @@ Receive Rewards
 Currently consumed {GEM_COST} diamonds, your rewards have been collected!
 
 [CONSUMPTION_DESC_1]
-Dear neighbour, there are not only plants and costumes in the treasure of luck, but also pendants!
+Dear neighbour, there are not only plants and costumes in the chest of luck, but also pendants!
 
 [CONSUMPTION_TIPS_ING]
 {GEM_COST} diamonds are currently consumed, and then consume {GEM_NEED} diamonds to receive the next gift!
@@ -41177,7 +41176,7 @@ Continuously swallows 4 zombies and produces sun.
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}My discovery remains intact. The taco is still unfound. And your brains will certainly one day be mine!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Well lookie-here, Penny! It's a treasure map!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Well lookie-here, Penny! It's a chest map!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_2]
 {SAY:winnie}My analysis suggests that the origins of that map are highly suspect.
@@ -42078,7 +42077,7 @@ There are no ongoing upgrade projects.
 This resource point has been occupied.
 
 [PVP_ERROR_46309]
-All the treasure chests have been opened. Please go and confirm your rewards first~
+All the chest chests have been opened. Please go and confirm your rewards first~
 
 [PVP_ERROR_46209]
 Incorrect verification code.
@@ -43208,10 +43207,10 @@ Leaderboard Rewards Preview
 {RANK}name
 
 [GACHA_ITEM_NORMAL_HEADER]
-Normal Treasure
+Normal Chest
 
 [GACHA_ITEM_NORMAL_HEADER10]
-Normal Treasure x10
+Normal Chest x10
 
 [GACHA_ITEM_NORMAL_DES]
 Can obtain ^FF0000 {NUMBER} ^oldclr coins  
@@ -43219,10 +43218,10 @@ Extra plants or plant fragments
 Quality: ^a3a3a3 White ^oldclr ^4ca830 Green ^oldclr ^3365ce Blue ^oldclr ^7300c7 Purple ^oldclr
 
 [GACHA_ITEM_RARE_HEADER]
-Rare Treasure
+Rare Chest
 
 [GACHA_ITEM_RARE_HEADER10]
-Rare Treasure x10
+Rare Chest x10
 
 [GACHA_ITEM_RARE_DES]
 Can obtain ^FF0000 {NUMBER} ^oldclr coins  
@@ -43230,10 +43229,10 @@ Extra plants or plant fragments
 Quality: ^3365ce Blue ^oldclr ^7300c7 Purple ^oldclr ^ef7600 Orange ^oldclr
 
 [GACHA_ITEM_LEGEND_HEADER]
-Legendary Treasure
+Legendary Chest
 
 [GACHA_ITEM_LEGEND_HEADER10]
-Legendary Treasure x10
+Legendary Chest x10
 
 [GACHA_ITEM_LEGEND_DES]
 Can obtain ^FF0000 {NUMBER} ^oldclr coins  
@@ -43241,10 +43240,10 @@ Receive plant or plant fragment rewards
 Quality: ^7300c7 Purple ^oldclr ^ef7600 Orange ^oldclr
 
 [GACHA_ITEM_AVATAR_HEADER]
-Avatar Treasure
+Avatar Chest
 
 [GACHA_ITEM_AVATAR_HEADER10]
-Avatar Treasure x10
+Avatar Chest x10
 
 [GACHA_ITEM_AVATAR_DES]
 Available ^FF0000 {NUMBER} ^oldclr Gold
@@ -43298,7 +43297,7 @@ Error in the configuration of the activity
 Loss of active configuration
 
 [GACHA_DRAW_FAILED]
-Failed to get the treasure chest
+Failed to get the chest chest
 
 [EIGHTIES]
 Neon Mixtape Tour
@@ -44788,7 +44787,7 @@ Defeat Tomb Raiser Zombies!
 What secrets are contained within its lunchbox? Only one way to find out!
 
 [DEFEAT_TREASURE_YETI_REPEATABLE_TITLE]
-Defeat the Treasure Yeti!
+Defeat the Chest Yeti!
 
 [DEFEAT_TROGLOBITE_REPEATABLE_DESC]
 That iceblock-shoving trick of theirs is way over the line.
@@ -44881,13 +44880,13 @@ Would you like to watch an ad for {NUMBER} coins?
 Sorry, there are no ads at the moment. Please try again later.
 
 [ADVERTISEMENT_WATCH]
-Watch ads
+Watch Ads
 
 [ADVERTISEMENT_WATCH_TIMES]
-Watch ads ({NUMBER})
+Ads Remaining: {NUMBER}
 
 [ADVERTISEMENT_WATCH_REWARD]
-Watch ads to win big prizes.
+Watch Ads to Win Prizes
 
 [TIME_COUNT_DOWN]
 Time
@@ -46215,34 +46214,34 @@ Your Marigold just kicked out some serious coin!
 Your Marigold has grown! Water it again for an extra-big payout.
 
 [LOCAL_PUSH_YETI_EVENT_01]
-What's in Treasure Yeti's lunchbox? Defeat him to find out!
+What's in Chest Yeti's lunchbox? Defeat him to find out!
 
 [LOCAL_PUSH_YETI_EVENT_02]
-Treasure Yeti won't give up without a fight. So fight him!
+Chest Yeti won't give up without a fight. So fight him!
 
 [LOCAL_PUSH_YETI_EVENT_03]
-Sometimes Treasure Yeti sneaks up on you. Like right now!
+Sometimes Chest Yeti sneaks up on you. Like right now!
 
 [LOCAL_PUSH_YETI_EVENT_04]
-Treasure Yeti is loose! Defeat him now to win his riches.
+Chest Yeti is loose! Defeat him now to win his riches.
 
 [LOCAL_PUSH_YETI_EVENT_05]
-Fight for the awesome things in Treasure Yeti's lunchbox. 
+Fight for the awesome things in Chest Yeti's lunchbox. 
 
 [LOCAL_PUSH_YETI_EVENT_06]
-Defeat the Treasure Yeti now to get what's in his lunchbox.
+Defeat the Chest Yeti now to get what's in his lunchbox.
 
 [LOCAL_PUSH_YETI_EVENT_07]
-Eat the Treasure Yeti's delicious lunch... of treasure!
+Eat the Chest Yeti's delicious lunch... of chest!
 
 [LOCAL_PUSH_YETI_EVENT_08]
-The Treasure Yeti thinks you're weak. Prove him wrong!
+The Chest Yeti thinks you're weak. Prove him wrong!
 
 [LOCAL_PUSH_YETI_EVENT_09]
-Defeat the Treasure Yeti and take his lunchbox. Do it now!
+Defeat the Chest Yeti and take his lunchbox. Do it now!
 
 [LOCAL_PUSH_YETI_EVENT_10]
-There's only one way to get Treasure Yeti's riches. Fight!
+There's only one way to get Chest Yeti's riches. Fight!
 
 [LOD_AVAILABLE_FOR]
 Available for
@@ -46293,13 +46292,13 @@ Get a giant present by playing {LARGE_PINATA_INTERVAL} consecutive parties.
 Claim Your Reward
 
 [LOD_OPEN_BIG_REWARD_SUBHEADER]
-Whack SEÑOR PIÑATA x3 times to open the Mystery Treasure!
+Whack SEÑOR PIÑATA x3 times to open the Mystery Chest!
 
 [LOD_OPEN_BIG_REWARD_SUBHEADER_HOLIDAY]
-Tap the giant present 3 times to open the Mystery Treasure!
+Tap the giant present 3 times to open the Mystery Chest!
 
 [LOD_OPEN_BIG_REWARD_SUBHEADER_SUMMERNIGHTS]
-Tap the fireworks box 3 times to open the Mystery Treasure!
+Tap the fireworks box 3 times to open the Mystery Chest!
 
 [LOD_OPEN_REWARDS_BIRTHDAYZ_FOOTER]
 Double coin rewards with every win! 
@@ -46320,7 +46319,7 @@ Tap To Open 3 Presents
 Tap To Launch 3 Fireworks
 
 [LOD_OPEN_REWARDS_SUBHEADER]
-TAP to open and find out what treasure lies inside.
+TAP to open and find out what chest lies inside.
 
 [LOD_PARTY_DAY_1]
 1st DAY
@@ -46440,7 +46439,7 @@ This artifact can be obtained for free in Memory Lane.
 This artifact can be won in the limited-time Dragon Vault event.
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
-This artifact can be obtained through the limited-time Treasure Hunt event.
+This artifact can be obtained through the limited-time Chest Hunt event.
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT4]
 This artifact can be won in the limited-time Wishing Pool event.
@@ -48642,7 +48641,7 @@ You’ve completed a pile of quests! Have a pile of rewards!
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Finally, one of these pirates dropped some booty! 
 
 [NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_2]
-{PLAYFUL:winnie}I'm detecting something more challenging than treasure inside. 
+{PLAYFUL:winnie}I'm detecting something more challenging than chest inside. 
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}This will be most useful!
@@ -50941,7 +50940,7 @@ Prickly Pear
 Cactus can block zombies and cause damage to them.
 
 [TACTICAL_CUKE]
-Tactical Cucumber
+Cuke
 
 [ARTIFACT_COMMON]
 Artifacts
@@ -51253,7 +51252,7 @@ IF YOU CLICK ON THAT YOU WILL LOST 500 GEM
 Free Change Name
 
 [SELECTHEADSHOT_1]
-Change
+Replace
 
 [SELECTHEADSHOT_2]
 Avatar name can be up to 8 characters long
@@ -51262,10 +51261,10 @@ Avatar name can be up to 8 characters long
 This will tell you how to get this avatar, the description will likely not exceed three lines?
 
 [CUKEPACKAGE_1]
-Tactical Cucumber Destruction Pack
+Tactical Cuke Annihilation Pack
 
 [CUKEPACKAGE_2]
-Purchase Destruction Pack
+Buy Annihilation Pack
 
 [PLANT_FAMILY_FAMILY_LEVEL]
 Lv. {LEVEL}
@@ -51316,13 +51315,13 @@ Upgrading family level increases the limit of random attributes.
 Please work hard to collect plants and outfits and advance them!
 
 [PLANT_FAMILY_FAMILY_TALENT]
-Family Talent
+Family effects
 
 [PLANT_FAMILY_CUR_PROPERTY]
-Current Stats
+Current effects
 
 [PLANT_FAMILY_REFRESH_PROPERTY]
-Refresh Stats
+Refresh effects
 
 [PLANT_FAMILY_SAVE]
 Save
@@ -51340,16 +51339,16 @@ Watch ad to refresh
 You have still {count} free refresh today.
 
 [PLANT_FAMILY_LOCKED]
-Locked
+LOCKED
 
 [PLANT_FAMILY_NONE_PROPERTY]
-No Property
+No effects
 
 [PLANT_FAMILY_DONOT_REFRESH]
-Properties will not refresh
+Effects are not refreshed
 
 [PLANT_FAMILY_UNLOCK_DESC]
-Unlock New Property
+UNLOCK
 
 [PLANT_FAMILY_REFRESH_NOTICE]
 You've obtained an excellent property. Are you sure you want to continue refreshing?
@@ -51652,7 +51651,7 @@ Basic Fusion
 Advanced Fusion
 
 [TRANS_GENOSIS_RATE]
-Acquisition Rate
+Probability
 
 [TRANS_GENOSIS_TIPS]
 Tip: This feature will prioritize producing costume pieces for costumes not yet obtained.
@@ -51702,10 +51701,10 @@ Money willful
 I'm gonna remove it
 
 [TRANS_GENOSIS_PAY_ENSURE_TITLE]
-Please confirm
+CONFIRM
 
 [TRANS_GENOSIS_PAY_ENSURE]
-Is it cost {COST}{CURRENCY} to do {TYPE}?
+Spend {COST} {CURRENCY} for {TYPE}?
 
 [TRANS_GENOSIS_SIMPLE_CURRENCY]
 Coins
@@ -51721,10 +51720,10 @@ Like Penny didn't have enough tacos for Dave (spread her hands)
 Quick Fusion
 
 [FAST_TRANS_GENOSIS_TIPS]
-Quick Fusion will automatically combine overflow fragments; manual ratio adjustment is not possible.
+Quick Fusion automatically fusion excess fragments; manual ratio adjustment is unavailable
 
 [NOT_REMIND_TODAY]
-Do not remind me again today
+Don't remind me today
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} What's this? A vortex I've never seen before?
@@ -51751,7 +51750,7 @@ Do not remind me again today
 {NPC_ENTER:no42zombossicon} A talking car made of scrap metal? Looks like this other-universe guy still lacks artistic taste.
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_3]
-{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the treasure wig from the Mini Fossil Museum-I won't let it slide!
+{NPC_ENTER:no42crazydave}{PLAYFUL:no42crazydave} Enough nonsense, Handsome Zomboss! About you stealing the chest wig from the Mini Fossil Museum-I won't let it slide!
 
 [NARRATIVE_NO42_UNIVERSE_UNCHARTED_EVENT2_TUTORIAL_4]
 {NPC_ENTER:no42zombossicon} It seems this disruption hasn't given you any decent help. You should take better care of your face!
@@ -52127,17 +52126,16 @@ Careful, the ground is shaking!
 A certain roar of terror came from deep in the jungle
 
 [RECHARGEBUNDLE_TITLE]
-Limited-time Pack
+Recharge Bundle
 
 [RECHARGEBUNDLE_VALUE]
-Great value
+Value
 
 [RECHARGEBUNDLE_BUY_TIMES]
 Purchase limit ^FF0000 {NUMBER} ^oldclr times
 
 [RECHARGEBUNDLE_ORIGINAL_PRICE]
-Old
-Price
+Normal Price
 
 [RECHARGEBUNDLE_CAN_OBTAIN]
 Available at:
@@ -52518,10 +52516,10 @@ Share
 Received
 
 [GEM_OFFER_GOTO]
-Going
+Go
 
 [RECALL_OFFER_CLAIM]
-Get
+CLAIM
 
 [RECALL_OFFER_GEM]
 Diamonds
@@ -54443,7 +54441,7 @@ Large Blessing Pack
 Poseidon Trident Artifact Pack
 
 [MAT_ULTIMATE_TREASURE]
-Supreme Treasure Box
+Supreme Chest Box
 
 [MAT_ULTIMATE_TREASURE_USE]
 Grants random rewards when used
@@ -54470,7 +54468,7 @@ Selected reward from Poseidon's Chest
 Leisurely Bliss
 
 [TREASURE_GOT_HEAD_DES_ID_25725]
-Obtained from Poseidon's Treasure event
+Obtained from Poseidon's Chest event
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
 Holographic Artifact Bundle
@@ -55308,7 +55306,7 @@ Buy 10 Z-League Challenges
 Z-League Challenge x10
 
 [THE_LIMIT_LOTTERY]
-Time-limited treasure hunt
+Time-limited chest hunt
 
 [THE_LIMIT_LOTTERY_NEW]
 Lucky Turntable
@@ -55345,7 +55343,7 @@ Insufficient tickets, confirm spending {NUMBER} diamonds to exchange for 10 draw
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
 Purchase ^FFFF00 6000 ^oldclr coins to receive ^FFFF00 60 ^oldclr purple coins.
-Purple coins can be used for the limited-time treasure draw event to win ^ef7600 orange plants ^oldclr and trophies.
+Purple coins can be used for the limited-time chest draw event to win ^ef7600 orange plants ^oldclr and trophies.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
 Purchase ^ffff00 1 ^oldclr times for 6 ¥
@@ -55533,25 +55531,25 @@ Event Details: Select 6 desired plants to include in the lucky bag. Opening the 
 Plant Lucky Bag
 
 [LUCKBAG_SELECT_PLANT]
-Select Plants
+Select Plant
 
 [LUCKBAG_RESELECT_PLANT]
 Reselect
 
 [LUCKBAG_SELECT_TITLE]
-Plant Lucky Bag Configuration
+Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
-Fukuro Confirmation
+Confirm Selection
 
 [LUCKBAG_CONFIRM_CONTENT]
-The lucky bag plants you selected are:
+Your selected plant:
 
 [LUCKBAG_BUY]
-45 ¥ to activate
+Activate for ¥45
 
 [LUCKBAG_DESCRIPTION]
-Lucky bag instructions
+Description
 
 [LUCKBAG_SELECT_ALL]
 Choose every line!
@@ -55898,7 +55896,7 @@ You got {NUMBER} league coins!
 You got {NUMBER} space-time coins!
 
 [CHEST_AWARD_HEADER1]
-You got {NUMBER} treasure chest!
+You got {NUMBER} chest chest!
 
 [JOUST_COUNT_TIME]
 There are still {NUMBER} days until the end of the current event
@@ -56126,7 +56124,7 @@ Plant piece
 Pendant pieces
 
 [LIMITEDGACHA_PROBABILITY]
-Limited time treasure probability announcement
+Limited time chest probability announcement
 
 [LIMITEDLOTTERY_PROBABILITY]
 Limited-time turntable probability announcement
@@ -56384,7 +56382,7 @@ Arena wins 15 times
 Garden War 10 victories
 
 [DAVE_TREASURE_NORMALDRAW_15]
-Normal treasure were open 15 times
+Normal chest were open 15 times
 
 [DAVE_TREASURE_PLANTADVENTURE_30]
 Completed 30 botanical expeditions
@@ -56402,7 +56400,7 @@ Extinguish the torch in the zombie's hand 15 times at any level
 Cumulative {NUM} days, recharge 30 ¥ daily to receive
 
 [DAVE_TREASURE]
-Dave's Treasure
+Dave's Chest
 
 [DAVE_TAB_AWARD]
 Rewards
@@ -56417,11 +56415,11 @@ Normal
 Premium
 
 [DAVE_INTGETRAL]
-number of treasure:
+number of chest:
 
 [DAVE_DISPLAY_BANNER_1]
 ^FFFF00 Premium Benefits ^oldclr
-Purchase to directly obtain the exclusive plant and activate premium treasure rewards
+Purchase to directly obtain the exclusive plant and activate premium chest rewards
 
 [DAVE_DISPLAY_BANNER_2]
 ^FFFF00 Exclusive Plant ^oldclr
@@ -56429,10 +56427,10 @@ Get 1 level of the exclusive plant X1
 
 [DAVE_DISPLAY_BANNER_3]
 ^FFFF00 Exclusive Plant costume ^oldclr
-Get 160 treasure to claim the exclusive plant costume X1
+Get 160 chest to claim the exclusive plant costume X1
 
 [DAVE_TREASURE_DESCRIPTION]
-For every ^FFFF00 1 ^oldclr ¥, you can receive ^FFFF00 5 ^oldclr treasure (purchasing premium does not count)
+For every ^FFFF00 1 ^oldclr ¥, you can receive ^FFFF00 5 ^oldclr chest (purchasing premium does not count)
 
 [DAVE_NORMAL_CHALLENGE]
 Free challenges
@@ -56447,13 +56445,13 @@ Not purchased
 Purchase of senior interests
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE_SHORT_DESC_6]
-Premium Treasure Rewards Permissions and Qualified Plants
+Premium Chest Rewards Permissions and Qualified Plants
 
 [MAT_LIMITLOTTERY_CRYSTAL]
 Purple coins
 
 [MAT_LIMITLOTTERY_CUP]
-Limited Time Treasure Hunt Trophy
+Limited Time Chest Hunt Trophy
 
 [MAT_RIFT_COIN]
 Spacecoin
@@ -56499,7 +56497,7 @@ Purchased
 
 
 [HEAVEN_TREASURE]
-Celestial Treasure Hunt
+Celestial Chest Hunt
 
 [ACTIVITY_REFRESH]
 Event Refresh
@@ -56512,7 +56510,7 @@ Event Description
 
 [HEAVENTREASURE_DESCRIPTION]
 Event Rules:
-1. Unused Treasure Keys (lottery tokens) and Celestial Coins (exchange tokens) will be fully removed over during monthly resets and version updates.
+1. Unused Chest Keys (lottery tokens) and Celestial Coins (exchange tokens) will be fully removed over during monthly resets and version updates.
 2. Accumulated draws, purchase limits and exchange counts reset on the 1st of each month
 3. draw attempts, purchase limits, exchange counts resets on the 1st of each month. Guaranteed draw counters are retained.
 Special Pack Rules:
@@ -56528,11 +56526,11 @@ Prize Probability
 Regular Pool:
 Super   {NAME1}                   0.43%
 Super   {NAME2}                   0.81%
-Grand   Treasure ticket*10        1.48%
+Grand   Chest ticket*10        1.48%
 Grand   Costume ticket*800        1.15%
 Grand   Advancement Book*1        1.17%
 Grand   Celestial Coin*100        1.01%
-Normal  Treasure ticket*5         4.76%
+Normal  Chest ticket*5         4.76%
 Normal  Artifact ticket*10        4.92%
 Normal  Diamonds*100              14.99%
 Normal  Celestial Coin*1          43.21%
@@ -56542,11 +56540,11 @@ Normal  Celestial Coin*20         4.25%
 Guaranteed Pool:
 Super   {NAME3}                    2.25%
 Super   {NAME4}                    3.36%
-Grand   Treasure ticket*20         9.31%
+Grand   Chest ticket*20         9.31%
 Grand   costume ticket*800         8.19%
 Grand   Advancement Book*1         7.05%
 Grand   Celestial Coin*100         4.15%
-Grand   Treasure ticket*10         19.07%
+Grand   Chest ticket*10         19.07%
 Grand   Celestial Coin*50          11.63%
 Grand   Celestial Coin*20          34.99%
 
@@ -56554,7 +56552,7 @@ Grand   Celestial Coin*20          34.99%
 Your Discount Code:
 
 [HEAVEN_TREASURE_TAB1]
-Celestial Treasure Hunt
+Celestial Chest Hunt
 
 [HEAVEN_TREASURE_TAB1_DES1]
 Every 10 draws grants random 10%-90% discount, every 20 draws guarantees grand prize
@@ -56619,10 +56617,10 @@ Progress
 Exchange Shop
 
 [MAT_HEAVEN_TREASURE_TICKET]
-Treasure Key
+Chest Key
 
 [MAT_HEAVEN_TREASURE_TICKET_USE]
-Use in Celestial Treasure Hunt draws
+Use in Celestial Chest Hunt draws
 
 [MAT_HEAVEN_TREASURE_TICKET_GOT_WAY]
 Obtain by purchasing Celestial Packs in event shop
@@ -56688,14 +56686,14 @@ Advanced consumption
 Lungjing
 
 [MAT_DRAGON_TREASURE_INTEGRAL]
-Treasure House Points
+Chest House Points
 
 [DRAGON_TREASURE_DESCRIPTION]
 Activity rules:
-1. Before getting the rewards from the Dragon Treasure House, please select 3 self-Custom Reward, and a fixed cost of 20 dragon crystals will be spent on each draw, with a probability of getting the final reward.
-2. After obtaining all the rewards in the Dragon Treasure House, the current prize pool will be automatically reset; after players obtain 5 rewards from the treasure house of the current round, they can spend 10 Dragon Crystals to manually reset the lottery.
+1. Before getting the rewards from the Dragon Chest House, please select 3 self-Custom Reward, and a fixed cost of 20 dragon crystals will be spent on each draw, with a probability of getting the final reward.
+2. After obtaining all the rewards in the Dragon Chest House, the current prize pool will be automatically reset; after players obtain 5 rewards from the chest house of the current round, they can spend 10 Dragon Crystals to manually reset the lottery.
 3. The progress, dragon crystal and points of this event are not inherited to the next period, after the event the remaining dragon crystal will be converted into diamonds in a ratio of 1:1, and the remaining points will be converted into gold coins in a ratio of 1:100.
-4. Players can obtain rewards from the Dragon Clan Treasure House by spending Dragon Crystals, with a specific probability of:
+4. Players can obtain rewards from the Dragon Clan Chest House by spending Dragon Crystals, with a specific probability of:
 Optional Reward 1 (Hydraulic Artifact, Cactus Party Assist Event Costume, Mulberry pieces x20)  1.00%
 Optional Reward 2 (Directional pieces x10, Artifact Blessing Coupons x30, Mulberry pieces x10)  2.21%
 Optional Reward 3 (Mulberry pieces x10, Artifact Blessing Coupons x30, Tigerstool piece x10)  1.89%
@@ -56728,13 +56726,13 @@ Diamonds*200        2.50%        Diamonds*50              13.00%
 
 
 [DRAGON_TREASURE_DESCRIPTION_TITLE]
-Dragon Treasure House Activity Description
+Dragon Chest House Activity Description
 
 [ACTIVITY_DRAGONT_REASURE_SHORT_DESCRIPTION]
-During the event, players can receive Pack props and dragon crystals when purchasing Packs, and receive extra number points, which can be redeemed at the store for props, and dragon crystals are used in treasure house draws
+During the event, players can receive Pack props and dragon crystals when purchasing Packs, and receive extra number points, which can be redeemed at the store for props, and dragon crystals are used in chest house draws
 
 [DRAGON_TREASURE]
-Dragon Treasure House
+Dragon Chest House
 
 [DRAGON_TREASURE_TAB1]
 Dragon Crystal Gift
@@ -56746,7 +56744,7 @@ Dragon Shop
 Points Redemption
 
 [DRAGON_TREASURE_EXPIRED]
-Dragon Treasure House Props Expiration Settlement
+Dragon Chest House Props Expiration Settlement
 
 [PRODUCT_DRAGON_TREASURE_45_SHORTDESC]
 Limited time Longjing Pack one
@@ -56766,22 +56764,22 @@ Premium Dragon Crystal Pack
 Here is the translation of the provided text:
 
 [TREASURE_PAVILION]
-Exquisite Treasure Chest
+Exquisite Chest Chest
 
 [TREASURE_PAVILION_BUNDLE]
 Gold Bar Shop
 
 [TREASURE_PAVILION_EXPIRED]
-Exquisite Treasure Chest Gold Bar Expiry Settlement
+Exquisite Chest Chest Gold Bar Expiry Settlement
 
 [TREASURE_PAVILION_MAT_NOT_ENOUGH]
 Insufficient gold bars. Would you like to go to the Gold Bar Shop for purchase?
 
 [TREASURE_PAVILION_DESCRIPTION]
 Event Rules:
-1. The Exquisite Treasure Chest event will be available from October 15th at 00:00 to October 28th at 24:00.
-2. The event requires gold bars to open treasure chests. A single draw costs 1 gold bar, and a 10-draw costs 9 gold bars. Gold bars can be obtained through the event shop.
-3. Each time a treasure chest is opened, there is a chance to receive a grand prize from the prize pool. After 30 draws, you are guaranteed a superior or higher prize; after 60 draws, you are guaranteed an epic or higher prize; after 90 draws, you are guaranteed a Legendary Reward 2 or higher; and after 180 draws, you are guaranteed a Legendary Reward 1 (only one item is awarded per draw).
+1. The Exquisite Chest Chest event will be available from October 15th at 00:00 to October 28th at 24:00.
+2. The event requires gold bars to open chest chests. A single draw costs 1 gold bar, and a 10-draw costs 9 gold bars. Gold bars can be obtained through the event shop.
+3. Each time a chest chest is opened, there is a chance to receive a grand prize from the prize pool. After 30 draws, you are guaranteed a superior or higher prize; after 60 draws, you are guaranteed an epic or higher prize; after 90 draws, you are guaranteed a Legendary Reward 2 or higher; and after 180 draws, you are guaranteed a Legendary Reward 1 (only one item is awarded per draw).
 4. When a grand prize is won, one of the prizes from all prize level will be awarded based on the probability.
 5. Prize Overlap Rule: If multiple prizes trigger at the same time, higher-level prizes will override lower-level ones.
 6. Prize Reset Rule: After receiving a higher-level prize, all guaranteed draws below (and including) that level will be reset.
@@ -56824,7 +56822,7 @@ Advanced Artifact Blessing Voucher*100 (10%)
 Gene Essence*100 (10%)
 
 [TREASURE_PAVILION_DESCRIPTION_TITLE]
-Exquisite Treasure Chest Event Description
+Exquisite Chest Chest Event Description
 
 [REWARD_POOL]
 Prize Pool Rewards
@@ -56851,7 +56849,7 @@ Draw {NUM} x1 to guarantee
 Gold Bar
 
 [MAT_TREASURE_PAVILION_TOKEN_USE]
-Used to open treasure chests
+Used to open chest chests
 
 [MAT_TREASURE_PAVILION_TOKEN_GOT_WAY]
 Obtained from purchasing in the Gold Bar Shop
@@ -56891,7 +56889,7 @@ Clear Penny's Pursuit levels 3 times
 Defeat 50 zombies in Penny's Pursuit
 
 [PENNY_GUIDE_OBTAIN_SIGNAL_50]
-Collect 50 Zomboss signals
+Get 50 Zomboss signals
 
 [PENNY_GUIDE_CONSUME_FUEL_35]
 Consume 35 fuel
@@ -56900,7 +56898,7 @@ Consume 35 fuel
 Complete Zomboss challenges 6 times
 
 [PENNY_GUIDE_OBTAIN_SIGNAL_200]
-Cumulatively collect 200 Zomboss signals
+Get 200 Zomboss signals
 
 [PENNY_GUIDE_WIN_ZOMBIE_BOSS_2]
 Defeat Zomboss 2 times
@@ -57027,7 +57025,7 @@ Plant pieces can be obtained through Penny's Shop, Treasures, Challenges, Plant 
 20 points today
 
 [TASK_DAILYINTEGRAL_DESCRIPTION]
-Getting points opens the treasure chest, obtaining rare plant pieces
+Getting points opens the chest chest, obtaining rare plant pieces
 
 [TASK_BEATZOMBIES]
 HACK BY EVIL 
@@ -57246,7 +57244,7 @@ Complete the hard level on Day 13 of the Underwater World
 Complete the boss battle to finish Underwater World
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
-Use specific plants to clear limited levels and get rare treasure chest rewards!
+Use specific plants to clear limited levels and get rare chest chest rewards!
 
 [TASK_WEEKLY_PLANTCHALLENGE_CACTUS]
 Plant challenge cactus!
@@ -57330,13 +57328,13 @@ Plant challenge hot wasabi!
 Plant challenge Hamamel Witch!
 
 [ANNIVERSARY_TREASURE]
-Treasure Hunt Anniversary
+Chest Hunt Anniversary
 
 [ANNIVERSARY_TREASURE_LIMIT]
 Prize pool limit reset{NUM} times
 
 [ANNIVERSARY_TREASURE_CONFIRM]
-Does it consume {NUM} diamond treasure hunt
+Does it consume {NUM} diamond chest hunt
 
 [ANNIVERSARY_TREASURE_CONFIRM_TEXT]
 Insufficient tickets. Use {NUMBER} diamonds to exchange and proceed?
@@ -57345,13 +57343,13 @@ Insufficient tickets. Use {NUMBER} diamonds to exchange and proceed?
 x{NUM}
 
 [ANNIVERSARY_TREASURE_BUY_2]
-Treasure Hunt
+Chest Hunt
 
 [ANNIVERSARY_TREASURE_BUY_FINISH]
 Purchased
 
 [ANNIVERSART_TREASURE_DESCRIPTION_TITLE]
-Treasure Hunt Description
+Chest Hunt Description
 
 [ANNIVERSART_TREASURE_DESCRIPTION]
 Event Content:
@@ -57361,7 +57359,7 @@ Event Content:
 4. When there are no remaining gold cans, the rewards will automatically reset, with a limit on the number of resets.
 
 [ANNIVERSART_TREASURE_SHORT_DESCRIPTION]
-CJoin the treasure hunt! Get ^00FF00^ Rare Plants ^oldclr Oh!
+CJoin the chest hunt! Get ^00FF00^ Rare Plants ^oldclr Oh!
 
 [NOVICESEVENDAYS]
 Seven-day Guide
@@ -57741,7 +57739,7 @@ Login
 Clear {NUM} levels in {WORLD} {HARD} difficulty
 
 [HAPPY_VASE_BREAKER_WINNIE]
-Open {NUM} chests in Penny's Treasure
+Open {NUM} chests in Penny's Chest
 
 [HAPPY_VASE_BREAKER_CHALLENGE]
 Complete {NUM} challenge tasks
@@ -58068,11 +58066,11 @@ Battery
 Award is full, please receive the reward first
 
 [ARBORDAY_DESCRIPTION_TITLE]
-Secret Realm Treasure Search
+Secret Realm Chest Search
 
 [ARBORDAY_DESCRIPTION]
 Event Details:
-1. Every three batteries consumed will open a treasure chest once, rewarding a large amount of plant fragments, diamonds, coins, and other prizes. The available rewards are: ^FF8000^Artifact Voucher, Zombie Pod, Crazy Hat Mushroom^oldclrr ^8600FF^Nightshade, Missile Toe^oldclrr ^2828FF^Primal Wall-nut, Asparagus, Caulipower^oldclrr ^82D900^Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclrr
+1. Every three batteries consumed will open a chest chest once, rewarding a large amount of plant fragments, diamonds, coins, and other prizes. The available rewards are: ^FF8000^Artifact Voucher, Zombie Pod, Crazy Hat Mushroom^oldclrr ^8600FF^Nightshade, Missile Toe^oldclrr ^2828FF^Primal Wall-nut, Asparagus, Caulipower^oldclrr ^82D900^Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclrr
 2. Batteries can be obtained through charging tasks or by purchasing diamond packs.
 3. Every battery consumed will accumulate both personal and server-side charging progress. Rewards can be claimed based on individual and server-side progress!
 
@@ -58562,7 +58560,7 @@ Premium Rewards
 Activate Now
 
 [BATTLE_level_EXP]
-Treasure EXP: {NUM} / 1000
+Chest EXP: {NUM} / 1000
 
 [BATTLE_level_ACTIVITY_TITLE]
 Activate Premium Privileges
@@ -58680,7 +58678,7 @@ Summer Festival Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
@@ -58693,7 +58691,7 @@ Summer Festival Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
@@ -58718,7 +58716,7 @@ Summer Festival Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
@@ -58731,7 +58729,7 @@ Summer Festival Event Description
    - Immediate +10 levels.
    - 20% EXP boost for future tasks.
    - 150 Diamonds.
-4. Use gems in the "Treasure" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
+4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities:
    -Coins: 22.66%, Diamonds: 27.20%, Charms: 19.26%, Plants: 24.25%, Super Charms: 2.04%, Single Draw Ticket: 4.53%, Advanced Book: 0.06%.
 6. After level 50, you can obtain fragments of ^FF8000^ Maple Swordsman ^oldclrr.
@@ -60131,7 +60129,7 @@ Orange: ^FF0000 10 plant piece ^oldclr + 10-450 gem, 25% for 30 plant piece
 Purple: ^FF0000 10 plant piece ^oldclr + 10-270 gem, 20% for 30 plant piece
 Target: ^FF0000 10 target plant piece ^oldclr + 10-900 gem, 15% for 30 universal piece
 Pendant: ^FF0000 150 Space-Time Dust ^oldclr + 10-450 gem, 30% for 15 purple glove piece
-Dave's Treasure: ^FF0000 8 treasure ticket ^oldclr + 10-1.5k gem, 15% for 22 ticket
+Dave's Chest: ^FF0000 8 chest ticket ^oldclr + 10-1.5k gem, 15% for 22 ticket
 Potion: ^FF0000 10 orange Lv.5 potion ^oldclr + 10-450 gem, 20% for 1 advancement book
 Diamond: ^FF0000 300 gem ^oldclr + 10-450 gem, 35% for 1k gem
 Coin: ^FF0000 450k coins^ oldclr^ + 10-450 gem, 50% for 750k coins
@@ -61109,10 +61107,10 @@ Theatre Coin x3
 3 theater coins obtained
 
 [EVENT5_HEADER]
-Plant piece treasure chest
+Plant piece chest chest
 
 [EVENT5_DES]
-Get a Plant piece Treasure Chest
+Get a Plant piece Chest Chest
 
 [EVENT6_HEADER]
 Costume the piece chest
@@ -61188,11 +61186,11 @@ Gameplay instructions
 
 [OVERVIEW_CONTENT]
 1. The player can get 10 power beans for free per day, the power beans can be used to start the power pea indicator, each start will consume 1 power bean, if the number of power beans the player has is less than 11, will be reset the next day; the player can purchase additional power beans
-2. Squash moves according to the number of points displayed by the indicator animation, and when the movement is complete, it will trigger an event within the lattice. Event Types: Starting Point, Level (Transport, Mini Game, BOSS Challenge), Railcar (Random Steps Forward or Backward), Treasure Chest (Plant piece Treasure Chest, Costume piece Treasure Chest), Theater Coin Rewards, Guessing Game, Throw Again, Grand Prize (Orange piece)
+2. Squash moves according to the number of points displayed by the indicator animation, and when the movement is complete, it will trigger an event within the lattice. Event Types: Starting Point, Level (Transport, Mini Game, BOSS Challenge), Railcar (Random Steps Forward or Backward), Chest Chest (Plant piece Chest Chest, Costume piece Chest Chest), Theater Coin Rewards, Guessing Game, Throw Again, Grand Prize (Orange piece)
 3. A corresponding reward is awarded for completing the event. For each completed lap, a reward is awarded: a purple plant piece and a theater coin
 4. Theatre coins can be redeemed for rewards at the prop house
-5. Plant piece treasure chest probability announcement: purple plant piece: 7.69%; blue plant piece: 30.76%; green plant piece: 61.54%
-6. Decoration piece Treasure Chest Probability Announcement: Orange Plant Decoration piece: 4.27%; Purple Plant Decoration piece: 18.80%; Blue Plant Decoration piece: 25.64%; Green Plant Decoration piece: 51.28%
+5. Plant piece chest chest probability announcement: purple plant piece: 7.69%; blue plant piece: 30.76%; green plant piece: 61.54%
+6. Decoration piece Chest Chest Probability Announcement: Orange Plant Decoration piece: 4.27%; Purple Plant Decoration piece: 18.80%; Blue Plant Decoration piece: 25.64%; Green Plant Decoration piece: 51.28%
 [OVERVIEW_CONFIRM]
 Confirm
 
@@ -61442,14 +61440,14 @@ You have an item that has not arrived in your account, please check.
 {NUMBER} diamond
 
 [STORE_CATEGORY_NAME_SECRET_GACHA]
-Penny Treasures
+Penny Lottery
 
 [SECRET_GACHA_OVERVIEW_TITLE]
 penny ticket Description
 
 [SECRET_GACHA_OVERVIEW_CONTENT]
 1. Made by evilhack28 (i wish you luuuuuuck and great open)
-2. Treasure Single Draw Coupons can be obtained through cumulative recharge and other activities. Single Draw Coupons can be used as consumables for single draws.
+2. Chest Single Draw Coupons can be obtained through cumulative recharge and other activities. Single Draw Coupons can be used as consumables for single draws.
 3. If players have Single Draw Coupons, they will be used first.Players can spend diamonds to purchase additional open
 4. Players can click the Plant Wishlist button in the lower right corner to replace the desired grand prize plant.
 5. After replacing the desired plant, the grand prize plant will be the newly specified plant, with a separate prize pool.
@@ -61478,7 +61476,7 @@ Diamonds
 Crystal Mystic
 
 [SECRET_GACHA_COIN_PENDANT]
-Cucumber Bomb
+Cuke
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC_PARAM]
 Activity description, {MONTH}month{START}day {END}day, sign in every day to get generous rewards,
@@ -65191,7 +65189,7 @@ Endless Shop, Limited-time Bundles
 Used during the advancement of plants from 2nd to 4th Level. Using it during this process, without consuming coins or plant pieces, advances the plant by one tier. Note: Cannot be used when advancing from 4th to 5th tier.
 
 [MAT_PLANT_LEVELUP_BOOK_GOT_WAY]
-Dave's Treasure
+Dave's Chest
 
 [MAT_SPACE_TIME_CRYSTAL_USE]
 Material for upgrading super pendants
@@ -65230,10 +65228,10 @@ Used for limited-time lottery draws
 Purchase Packs
 
 [MAT_LIMITLOTTERY_CUP_USE]
-Used to exchange items in the Limited-time Treasure Shop
+Used to exchange items in the Limited-time Chest Shop
 
 [MAT_LIMITLOTTERY_CUP_GOT_WAY]
-Limited-time Treasure Lottery
+Limited-time Chest Lottery
 
 [MAT_RICHMAN_COIN_USE]
 Used to exchange items in the Renaissance Grand Theater Shop
@@ -66331,7 +66329,7 @@ Gameplay instructions
 
 [THE_LIMIT_LOTTERY_OVERVIEW_CONTENT]
 Time limit:
-1. In the limited time-bound treasure can consume purple gold to extract powerful plants or piece, the maximum can be obtained directly from three level orange plants!
+1. In the limited time-bound chest can consume purple gold to extract powerful plants or piece, the maximum can be obtained directly from three level orange plants!
 If the plant already exists, it will be converted into 90 corresponding plant piece.
 3.If a level 3 plant is drawn, it will be shown as obtained after the draw ends and will not appear in subsequent draws.
 4. Get a bit of luck at a time, the higher the lucky value is easier to get rare props.
@@ -69239,7 +69237,7 @@ Floating Wealth, Golden Dreams
 Traces of Tea and Wine, Whispers of Flowers
 
 [S26_MEMORY_LEVEL_NAME_012]
-Hidden Treasure in the Ancient Woods
+Hidden Chest in the Ancient Woods
 
 [S26_MEMORY_LEVEL_NAME_013]
 A Gleaming Sword Settles Grudges
@@ -70781,7 +70779,7 @@ Mastering Spacetime
 Clear 32 levels with space-time energy higher than 50
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_1]
-Boutique Treasure Box x1
+Boutique Chest Box x1
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_2]
 Ordinary Snail Coin x1000
@@ -75360,25 +75358,25 @@ Amethyst Insufficient
 Redeem items in the Double Showdown store
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_GOT_WAY]
-Open the treasure chest in the duel between the two to gain
+Open the chest chest in the duel between the two to gain
 
 [PRODUCT_NEW_PVP_CHEST_3]
-Treasure Box
+Normal Chest
 
 [PRODUCT_NEW_PVP_CHEST_3_SHORTDESC]
-Normal Treasure Box
+Normal Chest
 
 [PRODUCT_NEW_PVP_CHEST_4]
-Legend Treasure Box
+Legendary Chest
 
 [PRODUCT_NEW_PVP_CHEST_4_SHORTDESC]
-Legend Treasure Box
+Legendary Chest
 
 [PRODUCT_NEW_PVP_CHEST_5]
-Regular Legendary Chest
+Super Legendary Chest
 
 [PRODUCT_NEW_PVP_CHEST_5_SHORTDESC]
-Regular Legendary Chest
+Super Legendary Chest
 
 [NEW_PVP_ZOMBIE_CARD]
 Card
@@ -75556,10 +75554,10 @@ The current season has ended. Please wait for the next season to begin.
 Season 3 starts, so stay tuned!
 
 [NEW_PVP_CHEST_REWARD_TITLE_DAILY]
-Get the Daily Treasure Chest!
+Get the Daily Chest Chest!
 
 [NEW_PVP_CHEST_REWARD_TITLE_WEEKLY]
-Get the weekly treasure chest!
+Get the weekly chest chest!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_TITLE]
 System Prompt
@@ -79691,7 +79689,7 @@ Sun cost reduced by 30
 Attack speed increased by 10%
 
 [STORE_CATEGORY_NAME_AVATARTICKET]
-costume voucher
+Costume
 
 [EXCHANGEAVATAR_PURCHASE]
 Confirm Purchase
@@ -79876,7 +79874,7 @@ Lucky Chest Season 4
 Open for random rewards September 11 to November 10)
 
 [MAT_LUCKYCHEST_GOT_WAY]
-From Lucky Treasure event or weekly packs
+From Lucky Chest event or weekly packs
 
 [NFS_LINKAGE_TAB1]
 Daily Login
@@ -80403,7 +80401,7 @@ Other Rewards:
     Space Crystal*1 (18.00%)
     Mysterious Crystal*6000 (16.00%)
     Mysterious Crystal*18000 (6.00%)
-    Treasure Coupon*1 (5.14%)
+    Chest Coupon*1 (5.14%)
 
 [AUTUMN_HARVEST_TIPS_DESC]
 You are guaranteed to get a self-selected reward in the next {NUMS} draws, and a Super Corn in the next {NUMS_2} draws.
@@ -80600,7 +80598,7 @@ Starfish*1300:    5.28%
 Starfish*700:     12.55%
 Starfish*500:     11.10%
 Diamonds*1888:        32.17%
-Penny's Treasure*10:  35.18%
+Penny's Chest*10:  35.18%
 
 Base Reward Probabilities:
 Mangosteen Super costume:   0.17%
@@ -80613,7 +80611,7 @@ Starfish*20:      12.00%
 Starfish*10:      35.00%
 Costume Coupon*500:   2.50%
 Costume Coupon*100:   9.75%
-Penny's Treasure*1:   17.00%
+Penny's Chest*1:   17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
 If already owned, automatically converted to Critical Starfish reward
@@ -81412,12 +81410,12 @@ Reward Preview:
 29th of the 12th lunar month: ^FF0000 Book^oldclrr*10
 1st of the 1st lunar month: ^FF0000 Fragment^oldclrr*300
 2nd of the 1st lunar month: ^FF0000 Diamonds^oldclrr*20250
-3rd of the 1st lunar month: ^FF0000 Limited Treasure Trophy^oldclrr*5
+3rd of the 1st lunar month: ^FF0000 Limited Chest Trophy^oldclrr*5
 4th of the 1st lunar month: ^FF0000 Universal Fragment^oldclrr*200
 5th of the 1st lunar month: ^FF0000 Book^oldclrr*10
 6th of the 1st lunar month: ^FF0000 Fragment^oldclrr*300
 7th of the 1st lunar month: ^FF0000 Diamonds^oldclrr*20250
-8th of the 1st lunar month: ^FF0000 Limited Treasure Trophy^oldclrr*5
+8th of the 1st lunar month: ^FF0000 Limited Chest Trophy^oldclrr*5
 9th of the 1st lunar month: ^FF0000 Universal Fragment^oldclrr*200
 10th of the 1st lunar month: ^FF0000 Book^oldclrr*10
 11th of the 1st lunar month: ^FF0000 Fragment^oldclrr*300
@@ -81744,7 +81742,7 @@ Not enough Battle Tickets
 Battle Ticket
 
 [MAT_BATTLE_level_TICKET_USE]
-Used to complete Battle missions (Penny's Pursuit Guide, Dave's Mysterious Treasure, Camp Event, Duo Battle)
+Used to complete Battle missions (Penny's Pursuit Guide, Dave's Mysterious Chest, Camp Event, Duo Battle)
 
 [MAT_BATTLE_level_TICKET_GOT_WAY]
 Obtained from Jingle Bell Event, Monthly Check-ins, and Surveys
@@ -81804,19 +81802,19 @@ Exchange for drawns i, Lucky Chest event
 Rare Treasures
 
 [TIANGONG_HEAD_DES_ID_25741]
-Obtained by accumulating draws in the Celestial Treasure Hunt event stage rewards.
+Obtained by accumulating draws in the Celestial Chest Hunt event stage rewards.
 
 [TIANGONG_HEAD_ID_25761]
 Magic Pocket
 
 [TIANGONG_HEAD_DES_ID_25761]
-Obtained by accumulating draws in the Celestial Treasure Hunt event stage rewards
+Obtained by accumulating draws in the Celestial Chest Hunt event stage rewards
 
 [TIANGONG_HEAD_ID_25778]
 Poisoner's Compassion
 
 [TIANGONG_HEAD_DES_ID_25778]
-Obtained by accumulating draws in the Celestial Treasure Hunt event stage rewards
+Obtained by accumulating draws in the Celestial Chest Hunt event stage rewards
 
 [PVP_ERROR_76030]
 Item cheating detected
@@ -81825,16 +81823,16 @@ Item cheating detected
 {NUM} seconds left to charge the next ZOMBOSS QIGONG CURE
 
 [POSEIDONTREASURE]
-Poseidon's Treasure
+Poseidon's Chest
 
 [POSEIDONTREASURE_TAB1]
-Treasure Draw
+Chest Draw
 
 [POSEIDONTREASURE_TAB2]
 Special Packs
 
 [POSEIDONTREASURE_TAB3]
-Supreme Treasure
+Supreme Chest
 
 [POSEIDONTREASURE_TAB4]
 Poseidon's Vault
@@ -81852,10 +81850,10 @@ Open ^ffff00^{NUM}^oldclr^ more times to guarantee red reward
 Poseidon Token
 
 [MAT_POSEIDON_TREASURE_TICKET_USE]
-Use to draw rewards in Poseidon's Treasure event
+Use to draw rewards in Poseidon's Chest event
 
 [MAT_POSEIDON_TREASURE_TICKET_GOT_WAY]
-Obtained by purchasing packs in Poseidon's Treasure event
+Obtained by purchasing packs in Poseidon's Chest event
 
 [PRODUCT_POSEIDONTREASURE_6_SHORTDESC]
 Poseidon Starter Pack
@@ -81870,7 +81868,7 @@ Poseidon Premium Pack
 Poseidon Deluxe Pack
 
 [POSEIDONTREASURE_EXPIRED]
-Expired Poseidon's Treasure rewards
+Expired Poseidon's Chest rewards
 
 [POSEIDON_DESCRIPTION_1]
 Base Reward Rates:
@@ -81903,12 +81901,12 @@ Diamonds ×1,888:                1.49%
 
 [POSEIDON_DESCRIPTION]
 Event Rules:
-1. Purchase Poseidon packs to get Poseidon Tokens for treasure draws
+1. Purchase Poseidon packs to get Poseidon Tokens for chest draws
 2. Every ¥100 spent on Poseidon packs grants 1 Poseidon Vault (select any reward)
 3. Poseidon Vault rewards: New animated avatar frames, Poseidon Plant costume, Match Flower Boxer costume, Mega Gatling Shards×10, Gourd Artifact, etc.
-4. Every 30 treasure draws grants 1 Supreme Treasure (random reward)
-5. Supreme Treasure may contain: Mega Gatling Full Costume, Poseidon Plant Shards×10, Universal Shards, Diamonds, or Advancement Books
-6. Guaranteed Mega Gatling Full Costume after 10 Supreme Treasure opens
+4. Every 30 chest draws grants 1 Supreme Chest (random reward)
+5. Supreme Chest may contain: Mega Gatling Full Costume, Poseidon Plant Shards×10, Universal Shards, Diamonds, or Advancement Books
+6. Guaranteed Mega Gatling Full Costume after 10 Supreme Chest opens
 7. First single draw daily gets 34% discount. Unused tokens convert to diamonds (1:30). Unopened chests convert to diamonds (1:500) after event.
 
 [WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
@@ -82113,49 +82111,49 @@ How to Obtain: {DESC}
 Use to get random rewards
 
 [MAT_ZENGARDEN_COIN_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_SEED_COMMON_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_SEED_COMMON_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_SEED_RARE_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_SEED_RARE_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_SEED_EPIC_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_SEED_EPIC_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_SEED_LEGENDARY_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_SEED_LEGENDARY_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_FERTILIZER_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_FERTILIZER_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_POT_NORMAL_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_POT_NORMAL_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_POT_SPECIAL_USE]
 Use to get random rewards
 
 [MAT_ZENGARDEN_POT_SPECIAL_GOT_WAY]
-Obtained by cumulative draws in Poseidon's Treasure event
+Obtained by cumulative draws in Poseidon's Chest event
 
 [MAT_ZENGARDEN_COIN]
 Garden Coin
@@ -82283,5 +82281,688 @@ Chroma Plant Fragment Pack
 
 [PRODUCT_02COLOR_CUSTOMIZATION_68_SHORTDESC]
 Chroma Costume Fragment Pack
+
+[LUAAAAAAAAA]
+
+
+[DAVE_SHOP_TITLE]
+Penny's Shop
+
+[DAVE_SHOP_ITEM_LEFT]
+Available:
+
+[DAVE_SHOP_BUY]
+Buy
+
+[DAVE_SHOP_ITEM_UNIT]
+pcs
+
+[EXTRA_MSG_ERROR_DESC_UNKNOWN]
+Game data abnormal, please try again.
+<Error Code: {NUMBER}>
+
+[EXTRA_MSG_ERROR_DESC_20701]
+No player information
+
+[EXTRA_MSG_ERROR_DESC_29001]
+Invalid event type
+
+[EXTRA_MSG_ERROR_DESC_29002]
+Player's Dave Shop info not initialized
+
+[EXTRA_MSG_ERROR_DESC_29003]
+Item sold out
+
+[EXTRA_MSG_ERROR_DESC_29004]
+Item ID does not exist
+
+[EXTRA_MSG_ERROR_DESC_29006]
+User not eligible for trial
+
+[EXTRA_MSG_ERROR_DESC_29007]
+User is not a Monthly VIP
+
+[EXTRA_MSG_ERROR_DESC_29008]
+User already claimed free diamonds today
+
+[EXTRA_MSG_ERROR_DESC_29009]
+Recharge error
+
+[EXTRA_MSG_ERROR_DESC_29010]
+User used all free Taco today
+
+[EXTRA_MSG_ERROR_DESC_40022]
+Event has ended
+
+[EXTRA_MSG_ERROR_DESC_40033]
+Event not started or has ended
+
+[EXTRA_MSG_ERROR_DESC_40034]
+No challenge attempts left
+
+[MONTHLY_VIP_TITLE]
+VIP Membership
+
+[MONTHLY_VIP_BUY_BTN]
+¥10/Month
+
+[MONTHLY_VIP_INFO_SUM]
+Extra ^cc0000^{NUMBER}^oldclr^ starting sun
+
+[MONTHLY_VIP_TIP_NONE]
+You are not a VIP member yet.
+Purchase now to get the above benefits.
+
+[MONTHLY_VIP_TIP_BE]
+You are already a VIP member.
+These are all your benefits.
+
+[MONTHLY_VIP_INFO_GOLD]
+Claim ^cc0000^{NUMBER}^oldclr^ free coins daily
+
+[MONTHLY_CARD_TITLE]
+¥30 Monthly Card
+
+[MONTHLY_CARD_TITLE_AND]
+¥30 Monthly Card
+
+[MONTHLY_CARD_BUY]
+Buy Now
+
+[MONTHLY_CARD_NOT_BUY]
+Cannot Purchase
+
+[MONTHLY_CARD_DRAW]
+Claim
+
+[MONTHLY_CARD_DRAW_ALREADY]
+Claimed
+
+[MONTHLY_CARD_CONTINUE_PAY]
+Renew Now
+
+[MONTHLY_CARD_TRY]
+Free Trial
+
+[MONTHLY_CARD_TIP_NONE]
+You haven't purchased the Monthly Card yet.
+Buy now to enjoy the following benefits for 30 days:
+
+[MONTHLY_CARD_MAKE_UP_TIP_NONE]
+You haven't purchased the Pro Card yet.
+Buy now to enjoy the following benefits for 30 days:
+
+[MONTHLY_CARD_SUPER_TIP_NONE]
+You haven't purchased the Super Card yet.
+Buy now to enjoy the following benefits for 30 days:
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NONE]
+You haven't purchased the VIP Monthly Card yet.
+Buy now to enjoy the following benefits:
+
+[MONTHLY_CARD_TIP_CAN_TRY]
+You can now try the Monthly Card free for {NUMBER} days
+
+[MONTHLY_CARD_MAKE_UP_TIP_CAN_TRY]
+You can now try the Pro Card free for {NUMBER} days
+
+[MONTHLY_CARD_SUPER_TIP_CAN_TRY]
+You can now try the Super Card free for {NUMBER} days
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_CAN_TRY]
+You can now try the VIP Monthly Card free for {NUMBER} days
+
+[MONTHLY_CARD_MAKE_UP_TIP_NORMAL]
+You have purchased the Pro Card, {NUMBER} days remaining
+
+[MONTHLY_CARD_SUPER_TIP_NORMAL]
+You have purchased the Super Card, {NUMBER} days remaining
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL]
+You have purchased the VIP Monthly Card, {NUMBER} days remaining
+
+[MONTHLY_CARD_TIP_NORMAL]
+You have purchased the Monthly Card, {NUMBER} days remaining
+
+[MONTHLY_CARD_TIP_NORMAL_TEL]
+You've already purchased this product this month. Available again next month.
+Your Monthly Card remaining days: {NUMBER}
+
+[MONTHLY_CARD_MAKE_UP_TIP_NORMAL_TEL]
+You've already purchased this product this month. Available again next month.
+Your Pro Card remaining days: {NUMBER}
+
+[MONTHLY_CARD_SUPER_TIP_NORMAL_TEL]
+You've already purchased this product this month. Available again next month.
+Your Super Card remaining days: {NUMBER}
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL_CM]
+You've already purchased this product this month. Available again next month.
+Your VIP Monthly Card remaining days: {NUMBER}
+
+[MONTHLY_CARD_TIP_TRY]
+You are currently on a Monthly Card trial, {NUMBER} days remaining
+
+[MONTHLY_CARD_MAKE_UP_TIP_TRY]
+You are currently on a Pro Card trial, {NUMBER} days remaining
+
+[MONTHLY_CARD_SUPER_TIP_TRY]
+You are currently on a Super Card trial, {NUMBER} days remaining
+
+[MONTHLY_CARD_CHINA_MOBILE_TIP_TRY]
+You are currently on a VIP Monthly Card trial, {NUMBER} days remaining
+
+[MONTHLY_CARD_INFO_GEMS]
+Claim ^cc0000^{NUMBER}^oldclr^ free diamonds daily
+
+[MONTHLY_CARD_INFO_BOMB]
+Use ^cc0000^{NUMBER}^oldclr^ cukes free daily
+
+[MONTHLY_CARD_INFO_SUM]
+Starting sun increased by ^cc0000^{NUMBER}^oldclr^
+
+[MONTHLY_CARD_INFO_AUTO_SUM]
+Auto Sun Collect
+
+[MONTHLY_CARD_INFO_AUTO_EN]
+Auto Plant Food Collect
+
+[MONTHLY_CARD_INFO_STAGE]
++^cc0000^1^oldclr^ extra attempt for Giant Crisis & Evil Invasion
+
+[MONTHLY_CARD_BUY_TITLE]
+Monthly Card Purchase
+
+[MONTHLY_CARD_BUY_CANCEL]
+Buy Later
+
+[ANNIVERSARY_TITLE]
+Recharge Rewards
+
+[ANNIVERSARY_AND_TITLE]
+Recharge Rewards
+
+[COUNTDOWN_LABEL]
+Event Countdown:
+
+[COUNTDOWN_FORMAT_D_H]
+{DAYS}d {HOURS}h
+
+[COUNTDOWN_FORMAT_HH_MM_SS]
+{HH}:{MM}:{SS}
+
+[RECHARGE_LABEL]
+You've Recharged:
+
+[REAL_MONEY_FORMAT]
+{NUMBER}¥
+
+[ANNIVERSARY_DESC]
+^FFFFFF【300 Gems】Was 30 now 60 bonus
+【680 Gems】Was 100 now 200 bonus
+【1280 Gems】Was 250 now 500 bonus
+^FDEE01【3280 Gems】Was 828 now 1288 bonus
+【6480 Gems】Was 1988 now 2588 bonus
+
+[QUARE_BRACKET_LEFT]
+【
+
+[QUARE_BRACKET_RIGHT]
+】
+
+[RECHARGE]
+Recharge
+
+[RECHARGE_TOTAL]
+Total Recharged
+
+[RECHARGE_CLOSED]
+Event has ended,
+come claim your rewards!
+
+[ANNIVERSARY_PIECE_AMOUNT]
+Congratulations! Obtained {PIECES}
+
+[ANNIVERSARY_REWARD_TIP]
+All three reward tiers can be claimed simultaneously; plants will be automatically synthesized or upgraded upon claiming.
+
+[ANNIVERSARY_REWARD_TITLE]
+Claim Successful
+
+[ANNIVERSARY_REWARD_TIP_PLANT_UNLOCK]
+You obtained ^4FC148{PLANT}^oldclr^!
+
+[ANNIVERSARY_REWARD_TIP_PLANT_AUTO_LEVELUP]
+^4FC148 {PLANT} ^oldclr^ automatically upgraded successfully!
+
+[ANNIVERSARY_REWARD_TIP_PLANT_LEVELUP_NEED]
+Purchase ^ff0000^ {PIECES} ^oldclr^ more pieces to automatically upgrade to the next level
+
+[ANNIVERSARY_REWARD_TIP_PIECE_GET]
+You have obtained ^ff0000^ {PIECES} ^oldclr^ pieces
+
+[WORLD_UNLOCK_PACK_TITLE]
+Adventure Bundle
+
+[WORLD_UNLOCK_PACK_RETURN_GEM_TIP]
+Buying unlocked world bundles refunds ^ff0000{NUMBER}^oldclr^ coins
+
+[WORLD_UNLOCK_PACK_LUXURY_TITLE]
+Deluxe World Pack
+
+[WORLD_UNLOCK_PACK_NORMAL_TITLE]
+Classic World Pack
+
+[WORLD_UNLOCK_PACK_STANDARD_TITLE]
+Adventure World Pack
+
+[WORLD_UNLOCK_PACK_BUY_LABEL]
+Buy for {PRICE}
+
+[WORLD_UNLOCK_PACK_BUY_CONFIRM_TITLE]
+Purchase Bundle
+
+[WORLD_UNLOCK_PACK_BUY_CONFIRM_MSG]
+Spend ^009900 {PRICE} ^oldclr diamonds to buy ^009900 {ITEM_NAME} ^oldclr and start your new world adventure immediately.
+
+[WORLD_UNLOCK_PACK_UNLOCK_TITLE]
+Unlock Successful
+
+[WORLD_UNLOCK_PACK_UNLOCK_WORLD_INFO]
+Successfully unlocked ^ff0000 {WORLD_NAME} ^oldclr!
+
+[WORLD_UNLOCK_PACK_UNLOCK_PACK_INFO]
+You purchased ^ff0000 {ITEM_NAME} ^oldclr. Powerful plants have joined your army:
+
+[WORLD_UNLOCK_PACK_UNLOCK_PIECE_TIP]
+(Owned plants will be converted to ^ff0000 10 ^oldclr fragments)
+
+[WORLD_UNLOCK_PACK_UNLOCK_OK]
+OK
+
+[ENDLESS_EXCHANGE_SHOP_TITLE]
+Endless Shop
+
+[ENDLESS_RECOMMENDED_SHOP_TITLE]
+Endless Recommended Plants Shop
+
+[ENDLESS_SHOP_NUTRIENT_TIP]
+Potion is used to upgrade plants from level 4 to level 5
+
+[ENDLESS_BOOST_SUN]
+Extra Sun
+
+[ENDLESS_BOOST_ENERGY]
+Plant Food
+
+[ENDLESS_BOOST_PLANT_ALL]
+All Plants
+
+[ENDLESS_BOOST_PLANT_LEV_1]
+White Plants
+
+[ENDLESS_BOOST_PLANT_LEV_2]
+Green Plants
+
+[ENDLESS_BOOST_PLANT_LEV_3]
+Blue Plants
+
+[ENDLESS_BOOST_PLANT_LEV_4]
+Purple Plants
+
+[ENDLESS_BOOST_PLANT_LEV_5]
+Orange Plants
+
+[ENDLESS_BOOST_BUY_DESC]
+Are you sure you want to spend ^00e46e {NUMBER} diamonds ^oldclr to buy {ITEM}?
+
+[ENDLESS_BOOST_LIMIT]
+{ITEM} will exceed the limit. Confirm to select this ability?
+
+[SPRING_SHOP_TITLE]
+Spring Merchant
+
+[SPRING_SHOP_BUY_LIMIT]
+Event Limit: {NUMBER}
+
+[SPRING_SHOP_MEDAL_NOT_ENOUGH]
+Not enough Treasure Vouchers
+
+[BOSSCHALLENGE_TAB_BOSS]
+Speedrun Challenge
+
+[BOSSCHALLENGE_TAB_DRAW]
+Lucky Wheel
+
+[BOSSCHALLENGE_TAB_DESC]
+Challenge Guide
+
+[BOSSCHALLENGE_TAB_RANK]
+Leaderboard
+
+[BOSSCHALLENGE_TAB_DRAW]
+Spin
+
+[BOSSCHALLENGE_TAB_DESC]
+Challenge Guide
+
+[BOSSCHALLENGE_TAB_RANK]
+Leaderboard
+
+[BOSSCHALLENGE_BOSS_TITLE]
+^FFB400Defeat Dr. Zomboss quickly to earn crystals, draw ^27A800rare plants
+
+[BOSSCHALLENGE_BOSS_TYPE1_PLANT]
+Plant Trait: Blue Plants +50% ATK, Others -50% ATK
+
+[BOSSCHALLENGE_BOSS_TYPE2_PLANT]
+Plant Trait: Red Plants +50% ATK, Others -50% ATK
+
+[BOSSCHALLENGE_BOSS_TYPE3_PLANT]
+Plant Trait: Electric Plants +50% ATK, Others -50% ATK
+
+[BOSSCHALLENGE_BOSS_TYPE4_PLANT]
+Plant Trait: Purple Plants +50% ATK, Others -50% ATK
+
+[BOSSCHALLENGE_BOSS_TYPE5_PLANT]
+Plant Trait: Dragon Bloodline +50% ATK, Others -50% ATK
+
+[BOSSCHALLENGE_BOSS_TYPE6_PLANT]
+Plant Trait: Kung Fu Plants +50% ATK, Others -50% ATK
+
+[BOSSCHALLENGE_BUYCHALLENGE_TIPS1]
+Spend ^00e46e{COST} diamonds^oldclr for another challenge?
+(Purchases left: {NUMBER})
+
+[BOSSCHALLENGE_BUYCHALLENGE_TIPS2]
+No purchases left today. Come back tomorrow!
+
+[BOSSCHALLENGE_RANK_TITLE_DAY]
+Daily Rank
+
+[BOSSCHALLENGE_RANK_TITLE_MONTH]
+Season Rank
+
+[BOSSCHALLENGE_RANK_USER]
+My Score
+
+[BOSSCHALLENGE_RANK_USER_DESC]
+Rank: {N}
+
+[MINIGAME_RANK_NOORDER]
+Unranked
+
+[BOSSCHALLENGE_RANK_DAY_DESC]
+Daily Best: {N} pts
+
+[BOSSCHALLENGE_RANK_MONTH_DESC]
+Season Best: {N} pts
+
+[BOSSCHALLENGE_END_TIPS]
+^000000Event ends in ^FF3000{NUMBER}^000000 days
+
+[BOSSCHALLENGE_END_HOUR_TIPS]
+^000000Event ends in ^FF3000{NUMBER}^000000 hours
+
+[DINOSAURDANGER_TITLE]
+Dino Danger
+
+[DINOSAURDANGER_TITLE1]
+Today's Theme:
+
+[DINOSAURDANGER_DAY_TIMES]
+Challenges left today: ^ff0000^{NUMBER}^oldclr^
+
+[DINOSAURDANGER_INFO1]
+How to Play
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER1]
+Chicken Stampede
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER1]
+Use Sweet Potato to attract chickens, Coconut Cannon to eliminate them.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER2]
+Giga-Rooster
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER2]
+Use Hurrikale to block the Giant, Cob Cannon to defeat it.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER3]
+Rampaging Raptors
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER3]
+Use E.M.Peach to disable Future Zombies, Bonk Choy to defend against them.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER4]
+Ring Out the Old, Ring In the New
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER4]
+Use Dandelion and Primal Dandelion to defend against Kung Fu Zombies.
+
+[DINOSAURDANGER_TITLE_DINOSAURDANGER5]
+Colonel Fried Chicken
+
+[DINOSAURDANGER_INFO_DINOSAURDANGER5]
+Use Kernel-pult and Cob Cannon to defend against Pirate Zombies.
+
+[DINOSAURDANGER_END]
+Event ends in ^ff0000^{PIECES}^oldclr^ days
+
+[DINOSAURDANGER_END_HOURS]
+Event ends in ^ff0000^{PIECES}^oldclr^ hours
+
+[DINOSAURDANGER_RESETCHALLENGE_TIPS]
+Spend ^00e46e{COST} diamonds^oldclr to buy 1 attempt?
+
+[DINOSAURDANGER_BTN]
+Challenge Now
+
+[PLANT_TREE_HINTGET2]
+Get watering chances from Growth Tasks
+
+[PLANT_TREE_HINTGET3]
+Complete growth tasks to get watering chances
+
+[PLANT_TREE_HINTGET]
+Every 3 waterings grow a fruit with plant fragments & coins
+
+[PLANT_TREE_TITLE1]
+Happy Tree Planting
+
+[PLANT_TREE_TITLE2]
+Growth Tasks
+
+[PLANT_TREE_BTN_GET]
+Harvest
+
+[PLANT_TREE_REFRESHFRUIT]
+Refresh Fruit
+
+[PLANT_TREE_BUY_WATER]
+Cost: {COST}
+
+[PLANT_TREE_BUY_WATER1]
+Buy {NUM}
+
+[PLANT_TREE_FRUITFULL]
+Fruit full - harvest first
+
+[PLANTTREE_COUNTDOWN_FORMAT_D_H]
+Event ends in: {DAYS}d {HOURS}h
+
+[PLANTTREE_COUNTDOWN_FORMAT_HH_MM_SS]
+Event ends in: {HH}:{MM}:{SS}
+
+[PLANT_TREE_ACTIVITY_OVER]
+Tree Planting event has ended
+
+[MONTHLY_CARD_TELECOM_CANCEL_ORDER]
+This is a monthly subscription product. It takes effect immediately upon successful order and auto-renews next month.
+To unsubscribe, send SMS "qdb0010" to 1180719 and follow the prompts. Takes effect immediately upon unsubscription.
+Customer Service QQ: 4008932088
+
+[MONTHLY_CARD_CHINA_MOBILE_CANCEL_ORDER]
+Note: Auto-renews monthly upon expiration. To unsubscribe, call 10086 for assistance.
+
+[MINIGAME_SHOP_TITLE]
+Mini Shop
+
+[MINIGAME_UI_TITLE_DESC1]
+Today's Challenge: Egypt Match
+
+[MINIGAME_UI_TITLE_DESC2]
+Today's Challenge: Cannon Pirate Zombies
+
+[MINIGAME_UI_TITLE_DESC3]
+Today's Challenge: Sky Blast
+
+[MINIGAME_UI_TITLE_DESC4]
+Today's Challenge: Swap Future
+
+[MINIGAME_UI_TITLE_DESC5]
+Today's Challenge: Dark Piggy House
+
+[MINIGAME_UI_TITLE_DESC6]
+Today's Challenge: Tidal Snake
+[MINIGAME_UI_TITLE_DESC7]
+Today's Challenge: Can Guessing Game
+
+[MONTHLY_CARD_TAB_1]
+¥50 Super Card
+
+[MONTHLY_CARD_TAB_2]
+¥30 Monthly Card
+
+[MONTHLY_CARD_TAB_3]
+¥6 Pro Card
+
+[MONTHLY_CARD_TAB_4]
+VIP Monthly Card
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_1]
+VIP effect on player avatar
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_2]
+VIP effect on Endless leaderboard
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_3]
+VIP effect on Arena leaderboard
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_4]
+VIP effect on Penny's Pursuit leaderboard
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_5]
+Custom Colors
+
+[MONTHLY_CARD_PORTRAIT_EFFECT_6]
+Free Rename
+
+[MONTHLY_CARD_SUPER_1]
+Includes Monthly Card content
+
+[MONTHLY_CARD_SUPER_2]
+Includes Pro Card content
+
+[MONTHLY_CARD_SUPER_3]
+2x Check-in Rewards
+
+[MONTHLY_CARD_SUPER_4]
+Auto Coin & Silver Collect
+
+[MONTHLY_CARD_SUPER_5]
+Claim 40 Costume Vouchers Daily
+
+[MONTHLY_CARD_SUPER_6]
+Claim 1 Battle Pass Voucher Daily
+
+[MONTHLY_CARD_SUPER_7]
+Claim Battery Daily
+
+[MONTHLY_CARD_30_1]
+Claim ^cc000030^oldclr^ Diamonds Free Daily
+
+[MONTHLY_CARD_30_2]
+Use ^cc00002^oldclr^ Cukes Free Daily
+
+[MONTHLY_CARD_30_3]
+Starting Sun Increased by ^cc0000 50 ^oldclr^
+
+[MONTHLY_CARD_30_4]
+Auto Sun Collect
+
+[MONTHLY_CARD_30_5]
+Auto Plant Food Collect
+
+[MONTHLY_CARD_30_6]
+Claim ^cc00001000^oldclr^ Mysterious Crystals free daily
+
+[MONTHLY_CARD_30_7]
++^cc00001^oldclr^ extra attempt for Giant Crisis & Evil Invasion
+
+[MONTHLY_CARD_TIP_SUPER_GOT_CLASSIC]
+You own the Super Card, which includes all Monthly Card features
+
+[MONTHLY_CARD_TIP_SUPER_GOT_MAKEUP]
+You own the Super Card, which includes all Pro Card features
+
+[MONTHLY_CARD_TIP_CLASS_GOT_MAKEUP]
+You own the Monthly Card, which includes all Pro Card features
+
+[MONTHLY_CARD_EVENT_TRY]
+Activate Free
+
+[MONTHLY_CARD_SUPER_TIP_EVENT_SUPER_CAN_TRY]
+Congratulations! You've received a {NUMBER}-day Super Card trial. Activate now to enjoy!
+
+[MONTHLY_CARD_ENENT_TRY_MAKEUP_TIPS]
+Super Card trial activated! Your Pro Card extended by 3 days (Remaining: {NUMBER} days)
+
+[MONTHLY_CARD_ENENT_TRY_CLASSIC_TIPS]
+Super Card trial activated! Your Monthly Card extended by 3 days (Remaining: {NUMBER} days)
+
+[MONTHLY_CARD_REMIND_TITLE]
+Monthly Card Reminder
+
+[MONTHLY_CARD_FIRST_REMIND_DESC]
+Your trial privilege card expires tomorrow. Buy the Super Card to continue enjoying super benefits!
+
+[MONTHLY_CARD_FIRST_REMIND_GO]
+Go Purchase
+
+[MONTHLY_CARD_FIRST_REMIND_LEAVE]
+Think About It
+
+[MONTHLY_CARD_SECOND_REMIND_DESC]
+Your Super Privilege trial card has expired. You can purchase a privilege card—three types available, starting from just ¥6.
+
+[MONTHLY_CARD_SECOND_REMIND_GO]
+Take a Look
+
+[MONTHLY_CARD_SECOND_REMIND_LEAVE]
+Maybe Later
+
+[DAVE_SHOP_BUY_CONFIRM_TITLE]
+Confirm Purchase
+
+[BUTTON_OK]
+Confirm
+
+[BUTTON_CANCEL]
+Cancel
+
+[DAVE_SHOP_BUY_CONFIRM_COIN]
+Spend {NUMS} coins to purchase?
+
+[DAVE_SHOP_BUY_CONFIRM_GEM]
+Spend {NUMS} diamonds to purchase?
+
+
+
+
+
+
+
+
 
 [PVZ2_CHINESE_END]
