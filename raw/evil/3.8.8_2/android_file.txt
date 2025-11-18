@@ -12,7 +12,7 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
 ==========================
 
 File Version     : Text-based (3.8.8 server 1)
-Version          : 3.8.8_2 version 1
+Version          : 3.8.8_3 version 1
 GitHub           : https://github.com/evilhack28/eviltranslation
 Discord          : https://discord.gg/4Dp38Y7uJv
 YouTube          : https://www.youtube.com/@evilhack28
@@ -60,6 +60,12 @@ Have a Nice day !
 Fixed Missing text
 Fixed some Quest name
 
+======3.8.8_3======
+Fixed Lua Color error
+Fixed penny and pvp text
+
+
+
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr     Creator of the mod and translation
 ^4B0082 cybersteve ^oldclr     Create the template for the translation on github
@@ -67,63 +73,63 @@ Fixed some Quest name
 
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_1]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_2]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_3]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_4]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_5]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_6]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 17 (3.8.8_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update: Nov 18 (3.8.8_3)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
@@ -30187,10 +30193,10 @@ Medium box space-time stabilizer
 ^FF0000 1 ^oldclr spatiotemporal stabilizer
 
 [PRODUCT_FUEL_FREE_SHORT_DESC]
-Monthly Card Battery
+Monthly Pass Card Battery
 
 [PRODUCT_TIME_ENERGY_FREE_SHORT_DESC]
-Monthly Card Spacetime Stabilizer
+Monthly Pass Card Spacetime Stabilizer
 
 [PRODUCT_FUEL_5_DESC]
 ^FF0000 5 ^oldclr batteries
@@ -33429,7 +33435,7 @@ Complete Now ?
 Do you want to spend ^FF0000 {GEMS} diamonds ^oldclr or ^FF0000 watch an ad ^oldclr to instantly complete the current adventure task?
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES]
-Do you want to use your monthly card privilege to instantly complete the current adventure task for free?
+Do you want to use your Monthly Pass Card privilege to instantly complete the current adventure task for free?
 
 [PLANT_ADVENTURE_ADD_CHANCE_BOTH_TITLE_DES]
 Do you want to spend ^FF0000 {GEMS} diamonds ^oldclr or ^FF0000 watch an ad ^oldclr to increase your adventure attempts by one?
@@ -33444,11 +33450,11 @@ Do you want to spend ^FF0000 {GEMS} diamonds ^oldclr to increase your adventure 
 Increase number?
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES_FAILED_TITLE]
-Monthly Card Free Completion Failure Now
+Monthly Pass Card Free Completion Failure Now
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES_FAILED]
-May be a network error, or the monthly card has expired.
-Please check the status of the monthly card on the map, or try again when the network is restored.
+May be a network error, or the Monthly Pass Card has expired.
+Please check the status of the Monthly Pass Card on the map, or try again when the network is restored.
 
 [PLANT_ADVENTURE_SUSPEND_TITLE]
 Cancel the expedition
@@ -34064,7 +34070,7 @@ Open every: ^31FFE9
 
 [FESTIVALGAME_LEFTTIME_TIP]
 Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds to buy one more attempt?
-^FF0000 (Purchased attempts do not carry over to the next day; Monthly Card users receive an additional free attempt)
+^FF0000 (Purchased attempts do not carry over to the next day; Monthly Pass Card users receive an additional free attempt)
 
 [FESTIVALGAME_MONTHLY_CARD_LEFTTIME_TIP]
 Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds to buy one more attempt?
@@ -34072,7 +34078,7 @@ Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds to buy one more attemp
 
 [FESTIVALGAME_LEFTTIME_TIP_AD]
 Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds or ^FF0000 watch an ad ^oldclr to buy one more attempt?
-^FF0000 (Purchased attempts do not carry over to the next day; Monthly Card users receive an additional free attempt)
+^FF0000 (Purchased attempts do not carry over to the next day; Monthly Pass Card users receive an additional free attempt)
 
 [FESTIVALGAME_MONTHLY_CARD_LEFTTIME_TIP_AD]
 Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds or ^FF0000 watch an ad ^oldclr to buy one more attempt?
@@ -34082,7 +34088,7 @@ Do you need to spend ^FF0000 {GEM_COUNT} ^oldclr diamonds or ^FF0000 watch an ad
 Purchase Count
 
 [LOOK_MONTHLY_CARD]
-Check Monthly Card
+Check Monthly Pass Card
 
 [LET_ME_THINK]
 Let me think
@@ -34689,10 +34695,10 @@ Open 10 for 300
 Open 1 for 35
 
 [SPRING_GIFT_DES]
-^ffff00^{PLANT_NAME}^oldclrr ^FF0000 Directly promoted to Level 3^oldclrr
+^ffff00^ {PLANT_NAME} ^oldclrr ^FF0000 Directly promoted to Level 3^oldclrr
 
 [SPRING_GIFT_GEM_DES]
-^FF0000 {GEM_COUNT}^oldclrr ^ffff00^Diamonds^oldclrr
+^FF0000 {GEM_COUNT} ^oldclrr ^ffff00^Diamonds^oldclrr
 
 [SPRING_GIFT_ACTIVITY_DATA]
 Activity Date: ^FF0000 July 1st to July 7th^oldclrr
@@ -35573,7 +35579,7 @@ No empty pots!
 {SECONDS}s
 
 [ZEN_GARDEN_TIMESPAN_D]
-{DAY}D
+{DAY}
 
 [ZENGARDEN_USE_BOOST_BODY]
 Gets instant Plant Food effect when planted on the lawn.
@@ -36561,7 +36567,7 @@ There are no rankings at the moment, play a game and make sure the network is pr
 
 [LEFT_ACTIVITY_DAYS]
 Available ^FF0000 playing team ^oldclrrPlants
-Challenge remaining^FF0000 {DAY_COUNT}^oldclrrday
+Challenge remaining^FF0000 {DAY_COUNT} ^oldclrrday
 
 [RANK_TEXT]
 rank {RANK_COUNT}
@@ -37479,7 +37485,7 @@ Not yet connected
 Events End
 
 [SALES_TIME_DAYS]
-{DAYS}D
+{DAYS} Days
 
 [SALES_BUY_SUCCESS_TITLE]
 Purchase Success
@@ -37631,7 +37637,7 @@ Not yet connected
 Events closed
 
 [REMAIN_DAYS]
-{DAYS}D
+{DAYS} Days
 
 [GEILIVABLE_LOTTERY_SPECIAL_BONUS_DES]
 Third Anniversary Limited Pillow
@@ -37844,10 +37850,10 @@ Diamond Week Card
 1 ¥ cucumber Pack
 
 [PRODUCT_MONTHLY_CARD]
-Play monthly card for 30 ¥
+Play Monthly Pass Card for 30 ¥
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-Play monthly card for 30 ¥
+Play Monthly Pass Card for 30 ¥
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
 6 ¥ cool master card
@@ -37859,13 +37865,13 @@ Play monthly card for 30 ¥
 50 ¥ Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM]
-VIP monthly card
+VIP Monthly Pass Card
 
 [PRODUCT_MONTHLY_CARD_SUPER_SHORTDESC]
 50 ¥ Hacker card
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
-VIP monthly card
+VIP Monthly Pass Card
 
 [PRODUCT_DIAMONDS_REWARD_ACTIVE]
 ...      Activate immediately
@@ -38107,7 +38113,7 @@ Lantern riddle guess
 Completed
 
 [LANTERN_RIDDLES_DAY]
-{DAY}D
+{DAY} Day
 
 [LANTERN_RIDDLES_NUM_0]
 Question 1
@@ -39830,7 +39836,7 @@ Plants will be upgraded automatically!
 {SAY:crazydaveicon}It's time to show real technology!
 
 [NARRATIVE_POOYAN_ZOMBIE_GARGANTUAR_1]
-{NPC_ENTER:zombossicon}^FF0000 Have an intimate encounter with giant zombies!
+{NPC_ENTER:zombossicon} ^FF0000 Have an intimate encounter with giant zombies!
 Just touch it gently. . . . . . Almost said it was leaking.
 In short, enjoy yourself, haha! ^oldclr
 
@@ -42648,10 +42654,10 @@ You beat ^F44647 {NAME}
 You didn't beat ^497600 {NAME}
 
 [PVP_PLAYBACK_RESULT3]
-{NAME}^497600 defeated you
+{NAME} ^497600 defeated you
 
 [PVP_PLAYBACK_RESULT4]
-{NAME}^F44647 Didn't beat you
+{NAME} ^F44647 Didn't beat you
 
 [PVP_PLAYBACK_RESULT5]
 You captured the territory of ^F44647 {NAME} ^oldclr
@@ -43093,7 +43099,7 @@ x1
 x10
 
 [LIMITED_GACHA_INFO]
-^FF0000 Only ^oldclr^ the above plants and their puzzle will appear ^349901^(First single and first 10-draw guarantee a plant)^oldclr^.
+You can ^FF0000^ only ^oldclr^ get the above plants/pieces ^349901^ (first single and first 10x draw guarantee a plant) ^oldclr^.
 
 [GACHA_POOL_SHOW]
 Pool
@@ -52162,7 +52168,7 @@ When using plants food , add a lava ball attack.
 Can't be planted on a dinosaur egg
 
 [REDPACKET_INFO]
-^A4FFA4^{STR} ^oldclrrGood omen from the sky! Players{STR} get ^FFCC00^{STR}{INT}
+^A4FFA4^ {STR} ^oldclrrGood omen from the sky! Players{STR} get ^FFCC00^ {STR}{INT}
 
 [PLANTING_NOT_ON_DINOTREAD]
 Can't be planted on a dinosaur's footprint
@@ -52231,7 +52237,7 @@ All-in-one hit
 There is a chance to release a huge bowling ball consisting of 3 bowling balls and immediately activate a fast growth or instant recovery .
 
 [MONTHLY_CARD_QUERY_FAILED]
-Monthly card purchase failed
+Monthly Pass Card purchase failed
 
 [MONTHLY_CARD_QUERY_FAILED_REASON_1]
 SDK initialization failed
@@ -52825,7 +52831,7 @@ Activity countdown: {TIME}
 Buy
 
 [BUYPLANT_TITLE]
-^FF0000 {PLANTNAME}^oldclrr Limited Purchase
+^FF0000 {PLANTNAME} ^oldclrr Limited Purchase
 
 [BUYPLANT_LEFT_TIME]
 Remaining time:
@@ -57823,7 +57829,7 @@ Second Class Award: 11.32% Third Class Award: 11.32%
 Clear the Memories Tour level once a day
 
 [GOLDENEGG_TASK_NAME_2]
-Daily Super Monthly Card Giveaway Hammer
+Daily Super Monthly Pass Card Giveaway Hammer
 
 [GOLDENEGG_TASK_NAME_3]
 Get your hammer free daily
@@ -58354,7 +58360,7 @@ Orange
 Gene Sequence Level: {PARAM}
 
 [GENE_SEQUENCE_LEVEL_RIGHT]
-Gene Sequence Level: ^FF8000^{PARAM}^oldclrr
+Gene Sequence Level: ^FF8000^ {PARAM} ^oldclrr
 
 [GENE_SEQUENCE_EFFECT]
 Bonus Effect
@@ -59535,10 +59541,10 @@ View Update Express
 View details
 
 [GIFT_RETURN_TASK_TIME_LIMIT]
-There are still ^FFFF00^{NUM}^oldclrr days until this task is unlocked
+There are still ^FFFF00^ {NUM} ^oldclrr days until this task is unlocked
 
 [GIFT_RETURN_VALIDITY]
-Validity ^FF0000 {NUM}^oldclrrday
+Validity ^FF0000 {NUM} ^oldclrrday
 
 [GET_TRIAL_CARD]
 Receive Experience Card
@@ -59735,7 +59741,7 @@ Rewards: {NAME} Pieces × {NUM}
 Purchase: 20 ¥
 
 [PLANT_CULTIVATE_BUNDLE_LIMIT]
-Remaining purchases: ^FF0000 {NUM}^oldclrr
+Remaining purchases: ^FF0000 {NUM} ^oldclrr
 
 [PLANT_CULTIVATE_TASK_NAME_1]
 Complete any world level challenge 1 time
@@ -59825,7 +59831,7 @@ Free Firecracker Pickup
 Play {TYPE} once to earn a firecracker
 
 [FIGHT_ZODIAC_REWARD_MONTHLY_CARD]
-Super Monthly Card rewards firecrackers daily
+Super Monthly Pass Card rewards firecrackers daily
 
 [FIGHT_ZODIAC_REWARD_FREE]
 Free firecracker pickup every day
@@ -59837,7 +59843,7 @@ Refresh In:
 Penny's Pursuit
 
 [BUY_MONTHLY_CARD]
-Purchase Monthly Card
+Purchase Monthly Pass Card
 
 [FIGHT_ZODIAC_DESCRIPTION_TITLE]
 New Year Gift Event Description
@@ -61762,10 +61768,10 @@ Fight!
 Fight Dr. Zomboss!
 
 [RIFT_ZOMBOSS_LEVEL_SETUP_DOUBLE_TITLE]
-Challenge Dr. Zombie!  X2
+Fight Dr. Zomboss!  X2
 
 [RIFT_ZOMBOSS_OUT_TO_LUNCH]
-evil sleep >_<
+Out to Lunch
 
 [RIFT_ZOMBOSS_OVER_DESCRIPTION]
 Time ran out and Zomboss has escaped! He left this behind...
@@ -62457,7 +62463,7 @@ BACK
 Level objectives
 
 [RIFT_LEADERBOARD_LEAGUE_STR]
-Promotion
+Promotion:
 
 [RIFT_LEADERBOARD_KEEP]
 Remain unchanged
@@ -62493,10 +62499,10 @@ Current Theme:
 (Time left: {DURATION})
 
 [THEME_PROJECTILE_NAME]
-The flying type bullets are flown by all zombies
+Reflect Enchantment
 
 [THEME_PROJECTILE_DESCRIPTION]
-The flying type bullets are flown by all zombies
+All projectiles are deflected upon hitting a zombie.
 
 [THEME_NUKE_NAME]
 Defensive plants can become vulnerable
@@ -62675,28 +62681,28 @@ Teleport entry
 All zombies were instead teleported into the field in the final row.
 
 [THEME_FIRE_REDUCE_NAME]
-Flame resistance
+Fire Resistance
 
 [THEME_FIRE_REDUCE_DESCRIPTION]
-All zombies are immune to burning, reducing fire attribute damage by 50%
+All zombies are immune to burning and receive 50% less damage from fire-based attacks.
 
 [THEME_LIGHTING_REDUCE_NAME]
-Raylight resistance
+Lightning Resistance
 
 [THEME_LIGHTING_REDUCE_DESCRIPTION]
-All zombies are immune to paralysis, and the damage of the thunder attribute is reduced by 50%
+All zombies are immune to paralysis and receive 50% less damage from lightning-based attacks.
 
 [THEME_COLD_REDUCE_NAME]
-Frozen resistance
+Freeze Resistance
 
 [THEME_COLD_REDUCE_DESCRIPTION]
-All zombies are immune to freezing, reducing damage to ice attributes by 50%
+All zombies are immune to freezing and receive 50% less damage from ice-based attacks.
 
 [THEME_HEAVY_BALLON_NAME]
-Heavy balloons
+Heavy Balloons
 
 [THEME_HEAVY_BALLON_DESCRIPTION]
-Plants with a blow-off effect can only fight off flying zombies.
+Plants with knockback effects can only push back flying zombies.
 
 [THEME_TEXTONLY_NAME]
 Steam boss hits
@@ -62885,7 +62891,7 @@ Get Rewards
 {NPC_ENTER:crazydave}...... Hmmmmmm!
 
 [RIFT_LEVEL_SETUP_MAX_SCORE]
-^663700^Points preview:^oldclrr ^EC6A00^{NUMS}/{NUMSMAX}^oldclrr
+^663700^Points preview:^oldclrr ^EC6A00^ {NUMS}/{NUMSMAX} ^oldclrr
 
 [MYSTERY_SHOP_OVERVIEW_TITLE]
 Gameplay instructions
@@ -63005,7 +63011,7 @@ Not enough advanced blessing tickets. Would you like to go to the artifact packa
 Not enough normal blessing tickets, which can be obtained through the Memories Journey shop and other methods.
 
 [ARTIFACT_BLESS_LEGEND_TIPS]
-High rarity blessing probability increased. You are ^FF0000 {LEFT_COUNT}^oldclrr draws away from a guaranteed legendary!
+High rarity blessing probability increased. You are ^FF0000 {LEFT_COUNT} ^oldclrr draws away from a guaranteed legendary!
 
 [ARTIFACT_CURRENT_BLESS]
 Current Artifact Blessing
@@ -64830,23 +64836,23 @@ Back
 Still Disagree
 
 [MONTHLY_CARD_SPECIAL_TITLE]
-Monthly Card Special Offer
+Monthly Pass Card Special Offer
 
 [GOTO_MONTYLY_CARD]
-Go to Monthly Card
+Go to Monthly Pass Card
 
 [MONTHLY_CARD_SPECIAL_TIPS_TITLE]
 Special Offer Explanation
 
 [MONTHLY_CARD_SPECIAL_TIPS]
-1. In this special offer for monthly cards, the purchased monthly card level is the Hacker card.
+1. In this special offer for Monthly Pass Cards, the purchased Monthly Pass Card level is the Hacker card.
 2. The days purchased this time will be directly added to the current Hacker card.
 
 [MONTHLY_CARD_DAY_TRAIL]
 {NUM} Days Trial
 
 [MONTHLY_CARD_BUY_TIMES]
-Purchase Limit: ^FF0000 {NUM}^oldclrr times
+Purchase Limit: ^FF0000 {NUM} ^oldclrr times
 
 [MONTHLY_CARD_FREE_BUY]
 Free
@@ -65050,10 +65056,10 @@ Use
 Diamond Exchange
 
 [UI_BAG_ITEM_COUNT]
-Quantity Held: ^FF0000 {NUMS}^oldclrr
+Quantity Held: ^FF0000 {NUMS} ^oldclrr
 
 [UI_BAG_ITEM_NAME]
-^FF0000 {NAME}^oldclrr
+^FF0000 {NAME} ^oldclrr
 
 [UI_BAG_PIECE_TITLE]
 Piece: {DESC}
@@ -74425,7 +74431,7 @@ Locked
 This card has not been unlocked yet!
 
 [NEW_PVP_TRAINING_LEVELUP_TITLE]
-Zombie Upgrade
+Upgrading zombies
 
 [NEW_PVP_TRAINING_LEVELUP_BTN]
 Upgrade
@@ -74434,28 +74440,28 @@ Upgrade
 Unlock
 
 [NEW_PVP_TRAINING_LEVELUP_BTN_MAX]
-Level Max
+Max Level
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_COST_LABEL]
-Sun price
+SUN COST
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_LABEL]
-Attack
+DAMAGE
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_HP_LABEL]
-Health
+TOUGHNESS
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_SPEED_LABEL]
-speed
+SPEED
 
 [NEW_PVP_TRAINING_LEVELUP_BATTLE_LABEL]
-Rarity: {RARE}|Type: {BATTLE_TYPE}
+Rarity: {RARE} | Type: {BATTLE_TYPE}
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_INSTANT_KILL]
-Flashkill
+Instant Kill
 
 [ZOMBIE_BATTLE_TYPE_RARE_0]
-common
+Normal
 
 [ZOMBIE_BATTLE_TYPE_RARE_1]
 Rare
@@ -74467,7 +74473,7 @@ Legends
 Melee
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_1]
-Remote
+Long-distance
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_2]
 Special
@@ -74920,13 +74926,13 @@ Uses magic to turn plants into frogs
 Round {COUNTER}
 
 [NEW_PVP_SEEDPACKET_LOCKED_DES]
-Unlocks in Round {NUMBER}
+Unlock at {NUMBER} round
 
 [NEW_PVP_AREA_NONE_NAME]
 Basic Terrain Theme
 
 [NEW_PVP_AREA_NONE_DESCRIPTION]
-No additional terrain mechanisms on the field.
+There are no additional terrain mechanisms
 
 [NEW_PVP_AREA_SLIDER_NAME]
 Floating Board Terrain Theme
@@ -74974,7 +74980,7 @@ Level 5:
 Round
 
 [NEW_PVP_DUAN_TIPS]
-Complete ^FF0000 {NUM}^oldclrr matches this season to unlock these rank rewards!
+Win ^ff0000^ {NUM} ^oldclr^ matches this season to unlock these rewards!
 
 [NEW_PVP_DUAN_INFO_TITLE]
 Off-Season & Rank Rules
@@ -75183,10 +75189,10 @@ Deploy 10 zombies with buff in a single round
 Plant 125 plants
 
 [NEW_PVP_TASK_NAME_2_4]
-Deal 100 points of damage to enemy bases
+Deal 100 damage to opponent
 
 [NEW_PVP_TASK_NAME_2_5]
-Deploy 15 gargantuan
+Deploy 15 Gargantuar
 
 [NEW_PVP_TASK_NAME_2_6]
 Win 2 time without lose any point 
@@ -75379,7 +75385,7 @@ Super Legendary Chest
 Super Legendary Chest
 
 [NEW_PVP_ZOMBIE_CARD]
-Card
+'s Card
 
 [NEW_PVP_UPGRADE_TIP_0]
 Zombies after that increase by 50% speed.
@@ -75397,7 +75403,7 @@ normal Matches
 Competitive Matching
 
 [NEW_PVP_MAIN_VIEW_START_MATCHING]
-Start a matches
+LET'S ROCK!
 
 [NEW_PVP_MAIN_VIEW_CANCEL_MATCHING]
 Cancel Matchmaking
@@ -79192,7 +79198,7 @@ Need to choose all wish rewards
 Already possessed
 
 [PARTY_ASSIST_NEXTLEVEL_TIPS]
-Help go to layer ^FA9A1C {NUMS}^oldclr
+Help go to layer ^FA9A1C {NUMS} ^oldclr
 
 [PARTY_ASSIST_BONUS_TIPS]
 No boost self-selected reward has been selected, please click the boost button to select the reward
@@ -81844,7 +81850,7 @@ Exchange Costume
 Guaranteed 1 Supreme Chest every 30 draws
 
 [POSEIDONTREASURE_TAB3_DESC]
-Open ^ffff00^{NUM}^oldclr^ more times to guarantee red reward
+Open ^ffff00^ {NUM} ^oldclr^ more times to guarantee red reward
 
 [MAT_POSEIDON_TREASURE_TICKET]
 Poseidon Token
@@ -82295,7 +82301,7 @@ Available:
 Buy
 
 [DAVE_SHOP_ITEM_UNIT]
-pcs
+Pieces
 
 [EXTRA_MSG_ERROR_DESC_UNKNOWN]
 Game data abnormal, please try again.
@@ -82347,7 +82353,7 @@ VIP Membership
 ¥10/Month
 
 [MONTHLY_VIP_INFO_SUM]
-Extra ^cc0000^{NUMBER}^oldclr^ starting sun
+Extra ^cc0000^ {NUMBER} ^oldclr^ starting sun
 
 [MONTHLY_VIP_TIP_NONE]
 You are not a VIP member yet.
@@ -82358,13 +82364,13 @@ You are already a VIP member.
 These are all your benefits.
 
 [MONTHLY_VIP_INFO_GOLD]
-Claim ^cc0000^{NUMBER}^oldclr^ free coins daily
+Claim ^cc0000^ {NUMBER} ^oldclr^ free coins daily
 
 [MONTHLY_CARD_TITLE]
-¥30 Monthly Card
+¥30 Monthly Pass Card
 
 [MONTHLY_CARD_TITLE_AND]
-¥30 Monthly Card
+¥30 Monthly Pass Card
 
 [MONTHLY_CARD_BUY]
 Buy Now
@@ -82373,7 +82379,7 @@ Buy Now
 Cannot Purchase
 
 [MONTHLY_CARD_DRAW]
-Claim
+Rewards
 
 [MONTHLY_CARD_DRAW_ALREADY]
 Claimed
@@ -82385,7 +82391,7 @@ Renew Now
 Free Trial
 
 [MONTHLY_CARD_TIP_NONE]
-You haven't purchased the Monthly Card yet.
+You haven't purchased the Monthly Pass Card yet.
 Buy now to enjoy the following benefits for 30 days:
 
 [MONTHLY_CARD_MAKE_UP_TIP_NONE]
@@ -82397,11 +82403,11 @@ You haven't purchased the Super Card yet.
 Buy now to enjoy the following benefits for 30 days:
 
 [MONTHLY_CARD_CHINA_MOBILE_TIP_NONE]
-You haven't purchased the VIP Monthly Card yet.
+You haven't purchased the VIP Monthly Pass Card yet.
 Buy now to enjoy the following benefits:
 
 [MONTHLY_CARD_TIP_CAN_TRY]
-You can now try the Monthly Card free for {NUMBER} days
+You can now try the Monthly Pass Card free for {NUMBER} days
 
 [MONTHLY_CARD_MAKE_UP_TIP_CAN_TRY]
 You can now try the Pro Card free for {NUMBER} days
@@ -82410,7 +82416,7 @@ You can now try the Pro Card free for {NUMBER} days
 You can now try the Super Card free for {NUMBER} days
 
 [MONTHLY_CARD_CHINA_MOBILE_TIP_CAN_TRY]
-You can now try the VIP Monthly Card free for {NUMBER} days
+You can now try the VIP Monthly Pass Card free for {NUMBER} days
 
 [MONTHLY_CARD_MAKE_UP_TIP_NORMAL]
 You have purchased the Pro Card, {NUMBER} days remaining
@@ -82419,14 +82425,14 @@ You have purchased the Pro Card, {NUMBER} days remaining
 You have purchased the Super Card, {NUMBER} days remaining
 
 [MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL]
-You have purchased the VIP Monthly Card, {NUMBER} days remaining
+You have purchased the VIP Monthly Pass Card, {NUMBER} days remaining
 
 [MONTHLY_CARD_TIP_NORMAL]
-You have purchased the Monthly Card, {NUMBER} days remaining
+You have purchased the Monthly Pass Card, {NUMBER} days remaining
 
 [MONTHLY_CARD_TIP_NORMAL_TEL]
 You've already purchased this product this month. Available again next month.
-Your Monthly Card remaining days: {NUMBER}
+Your Monthly Pass Card remaining days: {NUMBER}
 
 [MONTHLY_CARD_MAKE_UP_TIP_NORMAL_TEL]
 You've already purchased this product this month. Available again next month.
@@ -82438,10 +82444,10 @@ Your Super Card remaining days: {NUMBER}
 
 [MONTHLY_CARD_CHINA_MOBILE_TIP_NORMAL_CM]
 You've already purchased this product this month. Available again next month.
-Your VIP Monthly Card remaining days: {NUMBER}
+Your VIP Monthly Pass Card remaining days: {NUMBER}
 
 [MONTHLY_CARD_TIP_TRY]
-You are currently on a Monthly Card trial, {NUMBER} days remaining
+You are currently on a Monthly Pass Card trial, {NUMBER} days remaining
 
 [MONTHLY_CARD_MAKE_UP_TIP_TRY]
 You are currently on a Pro Card trial, {NUMBER} days remaining
@@ -82450,16 +82456,16 @@ You are currently on a Pro Card trial, {NUMBER} days remaining
 You are currently on a Super Card trial, {NUMBER} days remaining
 
 [MONTHLY_CARD_CHINA_MOBILE_TIP_TRY]
-You are currently on a VIP Monthly Card trial, {NUMBER} days remaining
+You are currently on a VIP Monthly Pass Card trial, {NUMBER} days remaining
 
 [MONTHLY_CARD_INFO_GEMS]
-Claim ^cc0000^{NUMBER}^oldclr^ free diamonds daily
+Claim ^cc0000^ {NUMBER} ^oldclr^ free diamonds daily
 
 [MONTHLY_CARD_INFO_BOMB]
-Use ^cc0000^{NUMBER}^oldclr^ cukes free daily
+Use ^cc0000^ {NUMBER} ^oldclr^ cukes free daily
 
 [MONTHLY_CARD_INFO_SUM]
-Starting sun increased by ^cc0000^{NUMBER}^oldclr^
+Starting sun increased by ^cc0000^ {NUMBER} ^oldclr^
 
 [MONTHLY_CARD_INFO_AUTO_SUM]
 Auto Sun Collect
@@ -82468,10 +82474,10 @@ Auto Sun Collect
 Auto Plant Food Collect
 
 [MONTHLY_CARD_INFO_STAGE]
-+^cc0000^1^oldclr^ extra attempt for Giant Crisis & Evil Invasion
++ ^cc0000^ 1 ^oldclr^ extra attempt for Giant Crisis & Evil Invasion
 
 [MONTHLY_CARD_BUY_TITLE]
-Monthly Card Purchase
+Monthly Pass Card Purchase
 
 [MONTHLY_CARD_BUY_CANCEL]
 Buy Later
@@ -82486,7 +82492,7 @@ Recharge Rewards
 Event Countdown:
 
 [COUNTDOWN_FORMAT_D_H]
-{DAYS}d {HOURS}h
+{DAYS} Days and {HOURS} Hours
 
 [COUNTDOWN_FORMAT_HH_MM_SS]
 {HH}:{MM}:{SS}
@@ -82530,7 +82536,7 @@ All three reward tiers can be claimed simultaneously; plants will be automatical
 Claim Successful
 
 [ANNIVERSARY_REWARD_TIP_PLANT_UNLOCK]
-You obtained ^4FC148{PLANT}^oldclr^!
+You obtained ^4FC148{PLANT} ^oldclr^!
 
 [ANNIVERSARY_REWARD_TIP_PLANT_AUTO_LEVELUP]
 ^4FC148 {PLANT} ^oldclr^ automatically upgraded successfully!
@@ -82545,7 +82551,7 @@ You have obtained ^ff0000^ {PIECES} ^oldclr^ pieces
 Adventure Bundle
 
 [WORLD_UNLOCK_PACK_RETURN_GEM_TIP]
-Buying unlocked world bundles refunds ^ff0000{NUMBER}^oldclr^ coins
+Buying unlocked world bundles refunds ^ff0000 {NUMBER} ^oldclr^ coins
 
 [WORLD_UNLOCK_PACK_LUXURY_TITLE]
 Deluxe World Pack
@@ -82629,7 +82635,7 @@ Event Limit: {NUMBER}
 Not enough Treasure Vouchers
 
 [BOSSCHALLENGE_TAB_BOSS]
-Speedrun Challenge
+Boss Challenge
 
 [BOSSCHALLENGE_TAB_DRAW]
 Lucky Wheel
@@ -82650,28 +82656,28 @@ Challenge Guide
 Leaderboard
 
 [BOSSCHALLENGE_BOSS_TITLE]
-^FFB400Defeat Dr. Zomboss quickly to earn crystals, draw ^27A800rare plants
+^FFB400 Defeat Dr. Zomboss quickly to earn crystals, draw ^27A800 rare plants
 
 [BOSSCHALLENGE_BOSS_TYPE1_PLANT]
-Plant Trait: Blue Plants +50% ATK, Others -50% ATK
+Plant feature: Blue plants +50% attack, others -50% attack
 
 [BOSSCHALLENGE_BOSS_TYPE2_PLANT]
-Plant Trait: Red Plants +50% ATK, Others -50% ATK
+Plant feature: Red plants +50% attack, others -50% attack
 
 [BOSSCHALLENGE_BOSS_TYPE3_PLANT]
-Plant Trait: Electric Plants +50% ATK, Others -50% ATK
+Plant feature: 100,000 volts +50% attack, others -50% attack
 
 [BOSSCHALLENGE_BOSS_TYPE4_PLANT]
-Plant Trait: Purple Plants +50% ATK, Others -50% ATK
+Plant feature: Purple plants +50% attack, others -50% attack
 
 [BOSSCHALLENGE_BOSS_TYPE5_PLANT]
-Plant Trait: Dragon Bloodline +50% ATK, Others -50% ATK
+Plant feature: Dragon bloodline +50% attack, others -50% attack
 
 [BOSSCHALLENGE_BOSS_TYPE6_PLANT]
-Plant Trait: Kung Fu Plants +50% ATK, Others -50% ATK
+Plant feature: Kongfu World Plants +50% attack, others -50% attack
 
 [BOSSCHALLENGE_BUYCHALLENGE_TIPS1]
-Spend ^00e46e{COST} diamonds^oldclr for another challenge?
+Spend ^00e46e {COST} diamonds ^oldclr for another challenge?
 (Purchases left: {NUMBER})
 
 [BOSSCHALLENGE_BUYCHALLENGE_TIPS2]
@@ -82699,10 +82705,10 @@ Daily Best: {N} pts
 Season Best: {N} pts
 
 [BOSSCHALLENGE_END_TIPS]
-^000000Event ends in ^FF3000{NUMBER}^000000 days
+^000000 Event ends in ^FF3000 {NUMBER} ^000000 days
 
 [BOSSCHALLENGE_END_HOUR_TIPS]
-^000000Event ends in ^FF3000{NUMBER}^000000 hours
+^000000 Event ends in ^FF3000 {NUMBER} ^000000 hours
 
 [DINOSAURDANGER_TITLE]
 Dino Danger
@@ -82711,7 +82717,7 @@ Dino Danger
 Today's Theme:
 
 [DINOSAURDANGER_DAY_TIMES]
-Challenges left today: ^ff0000^{NUMBER}^oldclr^
+Challenges left today: ^ff0000^ {NUMBER} ^oldclr^
 
 [DINOSAURDANGER_INFO1]
 How to Play
@@ -82747,13 +82753,13 @@ Colonel Fried Chicken
 Use Kernel-pult and Cob Cannon to defend against Pirate Zombies.
 
 [DINOSAURDANGER_END]
-Event ends in ^ff0000^{PIECES}^oldclr^ days
+Event ends in ^ff0000^ {PIECES} ^oldclr^ days
 
 [DINOSAURDANGER_END_HOURS]
-Event ends in ^ff0000^{PIECES}^oldclr^ hours
+Event ends in ^ff0000^ {PIECES} ^oldclr^ hours
 
 [DINOSAURDANGER_RESETCHALLENGE_TIPS]
-Spend ^00e46e{COST} diamonds^oldclr to buy 1 attempt?
+Spend ^00e46e {COST} diamonds ^oldclr to buy 1 attempt?
 
 [DINOSAURDANGER_BTN]
 Challenge Now
@@ -82789,7 +82795,7 @@ Buy {NUM}
 Fruit full - harvest first
 
 [PLANTTREE_COUNTDOWN_FORMAT_D_H]
-Event ends in: {DAYS}d {HOURS}h
+End In: {DAYS} Days and {HOURS} Hours
 
 [PLANTTREE_COUNTDOWN_FORMAT_HH_MM_SS]
 Event ends in: {HH}:{MM}:{SS}
@@ -82832,13 +82838,13 @@ Today's Challenge: Can Guessing Game
 ¥50 Super Card
 
 [MONTHLY_CARD_TAB_2]
-¥30 Monthly Card
+¥30 Monthly Pass Card
 
 [MONTHLY_CARD_TAB_3]
 ¥6 Pro Card
 
 [MONTHLY_CARD_TAB_4]
-VIP Monthly Card
+VIP Monthly Pass Card
 
 [MONTHLY_CARD_PORTRAIT_EFFECT_1]
 VIP effect on player avatar
@@ -82859,7 +82865,7 @@ Custom Colors
 Free Rename
 
 [MONTHLY_CARD_SUPER_1]
-Includes Monthly Card content
+Includes Monthly Pass Card content
 
 [MONTHLY_CARD_SUPER_2]
 Includes Pro Card content
@@ -82880,10 +82886,10 @@ Claim 1 Battle Pass Voucher Daily
 Claim Battery Daily
 
 [MONTHLY_CARD_30_1]
-Claim ^cc000030^oldclr^ Diamonds Free Daily
+Claim ^cc0000 30 ^oldclr^ Diamonds Free Daily
 
 [MONTHLY_CARD_30_2]
-Use ^cc00002^oldclr^ Cukes Free Daily
+Use ^cc0000 2 ^oldclr^ Cukes Free Daily
 
 [MONTHLY_CARD_30_3]
 Starting Sun Increased by ^cc0000 50 ^oldclr^
@@ -82895,19 +82901,19 @@ Auto Sun Collect
 Auto Plant Food Collect
 
 [MONTHLY_CARD_30_6]
-Claim ^cc00001000^oldclr^ Mysterious Crystals free daily
+Claim ^cc0000 1000 ^oldclr^ Mysterious Crystals free daily
 
 [MONTHLY_CARD_30_7]
-+^cc00001^oldclr^ extra attempt for Giant Crisis & Evil Invasion
++ ^cc0000 1 ^oldclr^ extra attempt for Giant Crisis & Evil Invasion
 
 [MONTHLY_CARD_TIP_SUPER_GOT_CLASSIC]
-You own the Super Card, which includes all Monthly Card features
+You own the Super Card, which includes all Monthly Pass Card features
 
 [MONTHLY_CARD_TIP_SUPER_GOT_MAKEUP]
 You own the Super Card, which includes all Pro Card features
 
 [MONTHLY_CARD_TIP_CLASS_GOT_MAKEUP]
-You own the Monthly Card, which includes all Pro Card features
+You own the Monthly Pass Card, which includes all Pro Card features
 
 [MONTHLY_CARD_EVENT_TRY]
 Activate Free
@@ -82919,10 +82925,10 @@ Congratulations! You've received a {NUMBER}-day Super Card trial. Activate now t
 Super Card trial activated! Your Pro Card extended by 3 days (Remaining: {NUMBER} days)
 
 [MONTHLY_CARD_ENENT_TRY_CLASSIC_TIPS]
-Super Card trial activated! Your Monthly Card extended by 3 days (Remaining: {NUMBER} days)
+Super Card trial activated! Your Monthly Pass Card extended by 3 days (Remaining: {NUMBER} days)
 
 [MONTHLY_CARD_REMIND_TITLE]
-Monthly Card Reminder
+Monthly Pass Card Reminder
 
 [MONTHLY_CARD_FIRST_REMIND_DESC]
 Your trial privilege card expires tomorrow. Buy the Super Card to continue enjoying super benefits!
