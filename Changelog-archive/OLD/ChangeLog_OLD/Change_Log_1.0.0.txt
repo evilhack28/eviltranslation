@@ -1,0 +1,29 @@
+======1.0.0======
+- Fixed plant family names (not all)
+- Fixed info button overload (Penny Ticket / Penny Pursuit / PvP)
+- Fixed all Penny Pursuit issues
+- Fixed all arena translations
+- Fixed UI glitch
+- Fixed crash when launching some special levels
+- Fixed PvP translations
+- Fixed quest translations
+- Added Music Plants to the translation (Gramophone Datura)
+
+- Fixed several plants
+- Fixed the piece/avatar translation that was mixed with plant names
+  (e.g., "chomperpiece" or "chomper-piece" → now "chomper's piece")
+
+- Fixed chest translations
+- Fixed gene translations
+- Fixed machine puzzle translations
+- Fixed some artifact translations
+- Fixed RMB name
+
+Updated translations for:
+- Gift Pack
+- Plant Food Full
+- Warning for low/no sun plants
+- End of Penny Pursuit
+- Penny Ticket
+- Ads message: now “Watch ad for a big prize”
+- Plants Wars

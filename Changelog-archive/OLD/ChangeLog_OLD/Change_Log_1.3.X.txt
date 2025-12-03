@@ -1,0 +1,33 @@
+======1.3.1======
+UPDATE ON 7/10/24
+La version française arrivera bientôt :)
+
+What's new?
+
+- Added special iOS text!
+- Some other small fixes
+- Fixed group/universal fragments/league issues
+
+======1.3.2======
+UPDATE ON 7/10/24
+
+What's new?
+
+- Some other small fixes
+- 3.5.5 text coming soon
+
+======1.3.3======
+- Fixed: "debrit/fragment/shards" → changed to "piece"
+- Fixed vertigo
+- Improved new plant search (TXT only)
+
+======1.3.4======
+- Fixed plant names/costumes
+- Improved new plant search (TXT only)
+
+======1.3.5======
+- Fixed Halloween quest name/description
+
+======1.3.6======
+- Changed "about" setting to "credit"
+- Fixed new plant names

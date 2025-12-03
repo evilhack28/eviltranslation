@@ -1,4 +1,0 @@
-Fix some event Translation 
-fix some plants costume name 
-and add missing text 
-and did some little text fix

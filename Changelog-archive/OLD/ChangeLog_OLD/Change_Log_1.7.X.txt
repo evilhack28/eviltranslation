@@ -1,0 +1,44 @@
+======1.7.0======
+- Added all 3.6.4 text
+
+======1.7.1======
+- Fixed:
+
+Hammer Flower  
+Turkey-pult  
+Impatiens Shooter  
+Flower Pot  
+Claw Gloriosa  
+Soda Coconut  
+Boom Balloon Flower  
+Dazey Chain  
+Headbutter Lettuce  
+Earthstar Nuclear Silo  
+Boophone Geigi  
+Tupistra Stalker
+
+======1.7.2======
+- Fixed:
+
+Toy Event  
+Squash  
+Chili Bean  
+Split Pea  
+Jalapeno  
+Peach  
+Fire Gourd  
+Infi-nut  
+Laser Bean  
+Empea  
+Bamboo Shoot  
+Citron  
+Blover  
+Inferno  
+Gardener  
+Fishhook  
+Mango  
+Tiger  
+Draftodil  
+Tile Turnip  
+Resistant Radish  
+Magnifying Grass

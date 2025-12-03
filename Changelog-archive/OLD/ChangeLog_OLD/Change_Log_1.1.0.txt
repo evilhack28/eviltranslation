@@ -1,0 +1,20 @@
+======1.1.0======
+Plants that can be fully translated:
+
+[GLOOMVINE] (Missing all Almanac UI on the wiki)
+[CHOMPER] (Missing all Almanac UI on the wiki)
+[SPLITPEA] (Missing skill level 5 on the wiki)
+[GARLIC] (Missing skill level 5 on the wiki)
+
+FIXED PLANTS
+
+[WINTERMELON]
+[MELON-PULT]
+[JALAPEÑO]
+[TALL-NUT]
+[TORCHWOOD]
+[SQUASH]
+[EAGLE CLAW]
+[HEADBUTTER LETTUCE]
+
+Fixed Penny “How to Play” page 1

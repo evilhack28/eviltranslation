@@ -1,0 +1,24 @@
+======1.8.0======
+- Fixed some missing 3.6.5 text
+- Added 3.6.7 text
+
+======1.8.1======
+Fixed
+
+[EGRETFLOWER] F
+[STRAWBURST] (missing costume effect)
+[POISONPEASHOOTER] F
+[ELAEOCARPUS] (PF doesn’t seem to be correct)
+[ELEOCURLING] F
+[POKRA] F
+[HYDROCOTYLE DRUMMER] (costume effect is correct but costume itself mismatches the original)
+[ULTOMATO] (old skill)
+[SHADOW VANILLA] F
+[BROMELBLADE] F
+[ICE LOTUS] F
+[STEPHANIA] F
+[TUPISTRA STALKER] F
+[DENDROBIUM GUARD] F
+[CYPRIPEDIUM] F
+[GUMNUT] F
+[OLIVEPIT] F

@@ -1,0 +1,17 @@
+======1.12.0======
+Added 3.7.9 text
+
+======1.12.1======
+- Fixed some color issues
+- Fixed text issues
+- Fixed the following plants:
+
+Primal Sunflower – Primal Potato Mine – Grapeshot – Cold Snapdragon – Shrinking Violet – Primal Rafflesia
+
+Dino-Roar – Timid Thorn – Sugarcane Master – Cob Cannon – Apple Mortar – Witch Hazel – Escape Root
+
+Electric Currant – Sumo Melon – Shadow-shroom – Caulipower – Moonflower – Grimrose – Nightshade
+
+Dusk Lobber – Blooming Heart – Explode-O-Nut – Wasabi Whip – Missile Toe – Parsnip – Hot Date
+
+Kiwibeast – Icy Currant – Electric Peashooter – Tulip Trumpeter – Eggplant – Gold Bloom – Flat-shroom

@@ -1,3 +1,0 @@
-Improved ram usage and battery life 
-fix 3 plants 
-fix CORNUCOPIA

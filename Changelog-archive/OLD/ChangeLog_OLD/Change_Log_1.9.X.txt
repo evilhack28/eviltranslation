@@ -1,0 +1,33 @@
+======1.9.0======
+Added latest 3.7.1 text  
+Fixed some info text
+
+======1.9.1======
+- Fixed new family names
+- Added NO.41 plant Almanac
+- Fixed missing tips
+- Fixed 3,000 lines of text
+
+Plants fixed:
+
+GUARDSHROOM  
+BUDUHBOOM  
+MAPLEBLADE  
+MULBERRY  
+ELECTRICITEA  
+IMP-PEAR  
+PLANTAIN  
+PINECONE  
+NARCISSUS SHOOTER  
+ALARM SAGITTIFOLIA  
+HOLLY KNIGHT  
+SHADOW PEASHOOTER  
+SNAP PEA  
+THUNDER SNAPDRAGON  
+MONOTROPA  
+ALOE  
+SLINGPEA  
+BEARBERRY  
+WAX GOURD  
+OLIVE  
+POMEGRANATE JEWELER

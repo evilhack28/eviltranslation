@@ -1,0 +1,35 @@
+======1.4.0.1======
+- Added some new plant translations from Fandom
+- Major change in the file!
+
+======1.4.0======
+UPDATE ON 9/11/24
+- Updated the file to 3.5.6
+
+======1.4.1======
+UPDATE ON 11/11/24
+- Added some new plant translations from Fandom
+- Major change in the file!
+- Major plants update
+- 70 plants added from the wiki
+- I couldn't make perfect translations due to many errors on the wiki (for plants)
+- If anyone wants my TXT with all the plants that have errors, DM me
+- Fixed text errors
+
+======1.4.2======
+- Fixed 20 newly added plants
+
+======1.4.2.1======
+- Fixed group translations
+- Fixed gene translations
+- Fixed expedition translations
+- Minor name fixes for tutorial PvZ1
+- Fixed info box (improved performance)
+
+======1.4.2.2======
+- Fixed 19 plants
+
+======1.4.3======
+- Improved RAM usage and battery life
+- Fixed 3 plants
+- Fixed CORNUCOPIA

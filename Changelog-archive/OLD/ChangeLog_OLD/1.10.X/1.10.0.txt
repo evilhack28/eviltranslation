@@ -1,3 +1,0 @@
-======1.10.0======
-Update base text to the 3.7.3 version
-fix plants detail text

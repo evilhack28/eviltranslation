@@ -1,9 +1,0 @@
---1.7.2--
-fix
-toy event 
-Squash      Chili Bean      Split Pea       Jalapeno
-Peach       Fire Gourd      Infi-nut        Laser Bean
-Empea       Bamboo Shoot    citron          Blover
-Inferno     Gardener        Fishhook        Mango
-Tiger       Draftodil       Tile Turnip     Resistant Radish
-                Magnifying Grass

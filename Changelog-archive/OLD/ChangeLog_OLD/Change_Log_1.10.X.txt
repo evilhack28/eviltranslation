@@ -1,0 +1,49 @@
+======1.10.0======
+- Updated base text to version 3.7.3
+- Fixed plant detail text
+
+======1.10.1======
+- Added plants’ special data in the Almanac (check it to understand)
+- Fixed some costume and plant text
+
+======1.10.2======
+- Fixed all zombie text for
+
+Jurassic
+Modern
+Steam
+Renaissance
+Heian Age
+JTTW
+
+======1.10.3======
+- Fixed all zombie text for
+
+Ancient Egypt
+Pirate Seas
+Wild West
+Far Future
+Dark Ages
+Big Wave Beach
+Frostbite Caves
+Sky City
+Lost City
+Neon Mixtape Tour
+
+- Semi-fixed
+
+Fairytale Forest
+Celebrating Chinese New Year
+Children's Playpark
+Parkour Party
+Anniversary Carnival Party
+Frostbite Caves Resurgence
+Speed Racing
+Memory Lane
+
+======1.10.4======
+- Updated the file to Server 4
+- Fixed Children’s Day event text
+- Fixed zombie name code errors
+- Fixed some gene text and corrected all color codes
+- Fixed 18 plants

@@ -1,0 +1,21 @@
+======1.6.0======
+- Added 3.6.0 text
+
+======1.6.1======
+- Fixed Aborday Day text + Daily Pack plants
+- Fixed treasure text
+- Fixed Penny Store text
+- Fixed diamond, coin, gene, Dave treasure, and all other pack text
+- Fixed Dave treasure text
+- Fixed New Year red note text
+- Fixed Tile Turnip costume event text
+- Fixed invitation text
+- Fixed Vase Breaker text
+- Fixed Battle Pass text
+- Fixed weekly gacha text
+- Fixed Plants Adventure text
+- Fixed Travel Log text
+- Fixed artifact text + piece machine + backpack + NFS text
+
+======1.6.2======
+- Fixed all pedant issues, enjoy!

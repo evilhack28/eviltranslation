@@ -1,3 +1,0 @@
-Fix latest plants 
-fix event text 
-fix a lot of other text

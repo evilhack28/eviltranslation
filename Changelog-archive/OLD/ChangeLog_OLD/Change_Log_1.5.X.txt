@@ -1,0 +1,19 @@
+======1.5.0======
+- Added 3.5.8 text
+
+======1.5.1======
+- Just test
+
+======1.5.2======
+- Fixed latest plants
+- Fixed event text
+- Fixed a lot of other text
+
+======1.5.3======
+- Fixed some event translations
+- Fixed some plant costume names
+- Added missing text
+- Made some minor text fixes
+
+======1.5.4======
+- Added early 3.6.0 text
