@@ -2715,10 +2715,10 @@ Mysterious Potion
 Claim by reaching cumulative recharge progress during the Celebration Pack event
 
 [TEN_THOUSAND_HEAD_ID_25636]
-Richer then dev ! 
+Richer then dev! 
 
 [TEN_THOUSAND_HEAD_DES_ID_25636]
-Earned by spending 10 000? the richest of the richest !
+Earned by spending 10 000? the richest of the richest!
 
 [PARTYEPSACTIVITY_HEAD_ID_25644]
 Party Nüwa
@@ -6191,7 +6191,7 @@ The Witch Zombie is definitely the main character of Fairytale Forest, because s
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION]
 {KEYWORD}Special: {STAT} Can turn plants into frogs!!
-{KEYWORD}Weakness: {STAT} Has no extra defensive capabilities!                                                     
+{KEYWORD}Weakness: {STAT} Has no extra defensive capabilities!
 
 {FLAVOR}Turns plants into frogs, which can jump off the battlefield.
 
@@ -6439,9 +6439,7 @@ Book-bag zombies
 
 [ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION_HEADER]
 
-
 [ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION]
-
 
 [ZOMBIE_CHILDREN_TOCAR]
 Toy Car Imp
@@ -7069,7 +7067,7 @@ Reduces Potato Mine's arming time to 50%
 Removes Potato Mine's arming time.
 
 [POTATOMINE_NEW_SKILL_LEVEL4_DES]
-Potato Mine have 25% to be boosted when planted ! 
+Potato Mine have 25% to be boosted when planted! 
 
 [POTATOMINE_PLANTFOOD_DESCRIPTION]
 Potato Mine will instantly arm himself and launches up to 2 armed copies of himself
@@ -7140,7 +7138,7 @@ After learning Speedy Lobbing, Cabbage-pult's attack speed increases by 25%. Thi
 Speedy Lobbing increases by 100%, and the attack speed increases to 50%.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL4_DES]
-Cabbage-pult have 35% of be boosted when planted ! 
+Cabbage-pult have 35% of be boosted when planted! 
 
 [CABBAGEPULT_NEW_SKILL_LEVEL5_DES]
 Cabbage-pult's upgraded attack is a golden cabbage that splits in the air, dealing 2-3 split damage to a single zombie.
@@ -9131,7 +9129,7 @@ Reduce sun cost of {Param_1} sun
 Fire Gourd Costume
 
 [STORE_PRODUCT_AVATAR_FIREGOURD]
-Plants food releases a dragon-shaped flame !
+Plants food releases a dragon-shaped flame!
 
 
 
@@ -18850,10 +18848,7 @@ Plants - Jack O' Lantern
 Jack O' Lantern
 
 [ADVICE_NO_JACKOLANTERN_ON_RAILCART]
-You can't grow Jack O' Lantern on a rail car.
-
-
-
+You can't plant Jack O' Lanterns on mine carts.
 
 [BEANCHEMIST]
 Pea pharmacist
@@ -19367,8 +19362,7 @@ Gorgon Pitcher pink glasses
 Increases attack speed by 20%
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
-You can't plant on Gorgon Pitcher fossils
-
+You can't plant on petrified zombies.
 
 [METEORFLOWER]
 Meteor Flower
@@ -21529,10 +21523,10 @@ Aqua Vine Outfit
 Launch a water tornado, which will stun zombies for 3 seconds.
 
 [ADVICE_PLANT_NOT_WITH_AQUAVINE]
-Cannot be planted on Aqua Vines.
+Cannot be planted on Aqua Vine.
 
 [ADVICE_PLANT_AQUAVINE_ON_LILYPAD]
-Cannot plant Aqua Vines on Lily Pads.
+Cannot plant Aqua Vine on Lily Pad.
 
 
 
@@ -23723,7 +23717,8 @@ Keep using the shovel to make room for some Wall-nuts!
 Keep using Power Ups to protect your brains!
 
 [ADVICE_MORE_SUNFLOWERS]
-More Sunflowers mean more sun. More sun means MORE PLANTS!
+More Sunflowers mean more sun.
+More sun means MORE PLANTS!
 
 [ADVICE_NEW_LEVEL]
 The next Level has unlocked!
@@ -23735,10 +23730,10 @@ Check out your new plant!
 You need to collect more sun to plant that!
 
 [ADVICE_NOT_ENOUGH_TIMES]
-Out of moves!
+Time has run out!
 
 [ADVICE_SKILL_LOCK]
-Skill locked
+Skills not unlocked.
 
 [ADVICE_NO_MORE_BRAINS]
 Out of brains!
@@ -23747,43 +23742,44 @@ Out of brains!
 Tap the gate to unlock!
 
 [ADVICE_PEASHOOTER_DIED]
-One of your peashooters died! -Try planting them further to the left!
+One of your peashooters died!
+Try planting them further to the left!
 
 [ADVICE_PLANT_FOOD_BANK_FULL]
 Plant Food full! Use one before picking up more.
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-You can't plant on graves
+You can't plant on graves.
 
 [ADVICE_PLANT_NOT_ON_GLIDING]
-You can't plant on gliders
+You can't plant on a gliding rig.
 
 [ADVICE_PLANT_NOT_ON_HEALERSTAFF]
-You can't plant on healer staffs
+You can't plant on a caduceus.
 
 [ADVICE_PLANT_NOT_ON_LOLLIPOPS]
-You can't plant on lollipops
+You can't plant on a lollipops
 
 [ADVICE_PLANT_NOT_ON_GUN]
-You can't plant on guns
+You can't plant on a lance.
 
 [ADVICE_PLANT_NOT_ON_KING]
-You can't plant on a Zombie King
+You can't plant on a Zombie King.
 
 [ADVICE_PLANT_NOT_ON_MOLD]
-You can't plant on the mold colonies
+You can't plant on mold colonies.
 
 [ADVICE_PLANT_NOT_ON_POTIONS]
-You can't plant on evil potions
+You can't plant on evil potions.
 
 [ADVICE_PLANT_NOT_ON_DUMPLING]
-You can't plant on dumplings
+You can't plant on dumplings.
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-You can't plant on tang¥
+You can't plant on tangyuan.
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
-You can't plant on piggy banks
+You can't plant on a piggy bank.
 
 [ADVICE_PLANT_NOT_ON_PLANTSEED]
 You can't plant on plant seeds
@@ -23801,22 +23797,22 @@ You can't plant on firecrackers
 You can't plant on tracks without a cart
 
 [ADVICE_PLANT_NOT_ON_SEEING_STAR]
-You can't plant other plants in designated grids
+Fill in all the outlined spaces with the target plant!
 
 [ADVICE_PLANT_NOT_ON_SCORCH]
-You can't plant on scorched tiles
+You can't plant on scorched tiles.
 
 [ADVICE_PLANT_NOT_ON_SHARKS]
-You can't plant on school of sharks
+You can't plant on a sharks.
 
 [ADVICE_PLANT_NOT_ON_SURFBOARD]
-You can't plant on surfboards
+You can't plant on surfboards.
 
 [ADVICE_PLANT_NOT_ON_WATER]
-Plant a Lily Pad first
+Plant a Lily Pad first!
 
 [ADVICE_PLANT_NOT_IN_SKY]
-{PLANT_NAME} can't be planted on air
+This plant can't be planted in the sky.
 
 [ADVICE_PLANT_NOT_DEEPSEA]
 This plant cannot be planted in the sea.
@@ -23825,58 +23821,64 @@ This plant cannot be planted in the sea.
 You cannot plant while the submarine is moving.
 
 [ADVICE_PLANT_NOT_IN_GOLDROAD]
-You can't plant here
+This plant can't be planted here.
 
 [ADVICE_PLANT_NOT_ON_GUIDE_DOOR]
-You can't plant on guide doors
+You can't plant on a passage.
 
 [ADVICE_PLANT_SUNFLOWER1]
-Sunflowers are very important plants. Plant one!
+Sunflowers are very important plants.
+Plant one!
 
 [ADVICE_PLANT_SUNFLOWER2]
 Sunflowers make sun!
 
 [ADVICE_PLANT_SUNFLOWER3]
-Planting at least 3 Sunflowers improves your chances of surviving a zombie attack!
+Planting at least 3 Sunflowers improves your
+chances of surviving a zombie attack!
 
 [ADVICE_PLANT_SUNFLOWER4]
 Plant at least 1 Sunflower per row!
 
 [ADVICE_PLANTED_PEASHOOTER]
-Nicely done! You can also plant by tapping the seed packet and then the lawn
+Nicely done!  You can also plant by tapping
+the seed packet and then the lawn
+
 
 [ADVICE_PLANTING_NEEDS_GROUND]
-Spikeweeds can only be planted on solid ground
+Spikeweeds can only be planted on solid ground.
 
 [ADVICE_NOT_ON_PLANKS]
-{PLANT_NAME} can't be planted on planks
+You can't plant {PLANT_NAME} on a planks.
 
 [ADVICE_PLANT_NOT_ON_FROST]
-You can't plant on icy surfaces
+You can't plant on ice.
 
 [ADVICE_SEED_REFRESH]
-Seeds need time to refresh before planting again
+Seeds need time to refresh
+before planting again.
 
 [ADVICE_SEED_REFRESH_IZOMBIE]
-Zombie seeds need time to refresh before planting again
+Zombie need time to refresh
+before planting again.
 
 [ADVICE_REACH_MAX_SIZE]
 Reached maximum quantity!
 
 [ADVICE_LOCKED]
-Not unlocked yet!
+Not unlocked yet
 
 [ADVICE_NOT_ON_ICEBLOCKS]
-{PLANT_NAME} can't be planted on ice blocks
+You can't plant on blocks or statues.
 
 [ADVICE_STAR_CHALLENGES_UNLOCKED]
-More Stars are available in many completed levels.
+More Stars are available in other completed levels.
 
 [ADVICE_START_NEW_LEVEL]
 Tap on the new Level to start it!
 
 [ADVICE_TAP_EGYPT]
-Looks like you need more Stars. Tap back to Egypt!
+Looks like you need more Stars. Tap back to Ancient Egypt!
 
 [ADVICE_TAP_PIRATE]
 Tap the Pirate Seas world!
@@ -23897,7 +23899,7 @@ Pinch your fingers on a zombie
 Pinch your fingers right over the zombie!
 
 [ADVICE_USE_WIZARDFINGER]
-Hold your finger down near your target
+Hold your finger down near your target.
 
 [ADVICE_USE_WIZARDFINGER_BETTER]
 Make sure to hold your finger on the screen!
@@ -23909,7 +23911,7 @@ Tap the Sunflower!
 Tap on the ground to plant the Sunflower!
 
 [ADVICE_WAITING_FOR_SUN]
-Wait for the Sunflower to produce sun!
+Wait for sunflowers to produce sun!
 
 [ADVICE_PLANT_THREE_SUNFLOWER]
 Sunflowers are crucial plants that produce sun! Try planting three Sunflowers!
@@ -23927,10 +23929,10 @@ Drag the Peashooter onto the lawn to plant it!
 Let's kill this invading zombie!
 
 [ADVICE_WAITING_FOR_BUCKET_ZOMBIE]
-A zombie with a bucket on its head has appeared! It looks tough!
+A zombie with a bucket appeared! He looks powerful!
 
 [ADVICE_TAP_PF]
-Let's try using plant food on the Peashooter and see what happens!
+Let's try the effect of using Plant Food on the Peashooter!
 
 [ADVICE_COLLECT_PF]
 Tap to collect the bouncing plant food, it should help us!
@@ -26350,7 +26352,7 @@ Unlocked the next level!
 Unlocked Daily Challenge! Can complete the challenge to obtain plant pieces.
 
 [ADVICE_JOUST]
-Unlocked Arena! Compete with others in it for your strength.
+You unlocked Arena! Compete with others, demonstrate planting prowess!
 
 [ADVICE_DANGERROOM]
 Unlocked endless challenges! Come and test where your upper limit is!
@@ -28263,7 +28265,7 @@ Final Day
 Defeat the zombies!
 
 [STARCHALLENGE_DEVIL]
-Defeat the Gunpowder Devil from the KongFu in Unbreakable Mode.
+Defeat the Gunpowder Devil from the KongFu in Last Stand.
 
 [STARCHALLENGE_EGYPT_FINALE]
 Survive a massive attack in Ancient Egypt
@@ -28284,7 +28286,7 @@ Survive a massive attack in the Dark Ages
 Survive after a massive zombie attack in the Renaissance Age
 
 [STARCHALLENGE_RENAI_FINALE_NAME]
-"Final" Day 
+Ultimate Battle
 
 [DARK_FINALE_NAME]
 Dark Ages - Boss challenge
@@ -28296,13 +28298,13 @@ Time Travel - Dark Ages
 Survive a massive attack at Big Wave Beach
 
 [STARCHALLENGE_BEACH_FINALE_NAME]
-Sharkhunting Battle
+Ultimate Battle
 
 [STARCHALLENGE_FUTURE_FINALE_NAME]
-Final Day
+Ultimate Battle
 
 [STARCHALLENGE_LOSTCITY_FINALE_NAME]
-Last Day
+Ultimate Battle
 
 [STARCHALLENGE_25_COWBOY_FINALE_NAME]
 Wild West - Boss challenge
@@ -28313,7 +28315,6 @@ Lost City - Boss challenge
 [STARCHALLENGE_25_LOSTCITY_FINALE_NAME1]
 Time Travel - The Lost City
  
-
 [STARCHALLENGE_25_PIRATE_FINALE_NAME]
 Pirate Harbor - Boss challenge
 
@@ -28340,10 +28341,10 @@ Plan your defense and defeat the zombies
 Last Stand
 
 [STARCHALLENGE_MOLD_MINIGAME]
-Mold strikes, hard
+Mold strikes.
 
 [STARCHALLENGE_MOLD_MINIGAME_NAME]
-Mould crisis
+Mold crisis
 
 [STARCHALLENGE_LAWN_MOWER_WARNING]
 Don't trigger any lawn mowers to complete the goal.
@@ -28355,79 +28356,73 @@ Survive the zombie attack
 Special Delivery
 
 [STARCHALLENGE_RIVERCROSSING_NAME]
-The Adventures of Dodo
+Dodo Adventure
 
 [STARCHALLENGE_RIVERCROSSING]
-Cross dangerous ice and rivers and avoid the threat of big-mouth flowers to safety.
+Cross treacherous ice surfaces and rivers, avoid being eaten by Chomper, and reach safety.
 
 [CHALLENGE_RIVERCROSSING_NAME]
-The Adventures of the Dodo - {LEVEL_NUMBER}day
+River Crossing - Day {LEVEL_NUMBER}
 
 [STARCHALLENGE_NINJAJUMP_NAME]
-The Adventures of Zotaro
+Ninjimp Adventures
 
 [STARCHALLENGE_NINJAJUMP]
-Escaping the dangerous whirlwind and avoiding the threat of the Eggplant, he successfully sneaks in to steal intelligence.
+Take the Ninjimp to the left side of the lawn, while avoiding whirlwinds and Eggplant Ninja shurikens
 
 [STARCHALLENGE_ELIMINATE_NAME]
-Plantmaze
+Plant Maze
 
 [STARCHALLENGE_ELIMINATE]
-Link the same plant bullet, launch an attack to defeat the zombies.
+Match at least three the same plant bullets to damage an attack to defeat zombies
 
 [STARCHALLENGE_SEEDRAIN_NAME]
-The Skyfall
+It's Raining Seeds
 
 [STARCHALLENGE_SEEDRAIN]
-Configure the legions that fall from the sky to resist the invasion of zombies.
-
-[STARCHALLENGE_BESIEGN_NAME]
-Encirclement and interception
-
-[STARCHALLENGE_BESIEGN]
-Set up obstacles and plants to prevent zombies from reaching the end.
+Survive using plant packets and hypnotized zombie packets fall from the sky.
 
 [STARCHALLENGE_BESIEGE_NAME]
-Encirclement and interception
+Across the Lawn
 
 [STARCHALLENGE_BESIEGE]
-Set up obstacles and plants to prevent zombies from reaching the end.
+Set up obstacles and plants to prevent zombies from reaching the houses
 
 [STARCHALLENGE_LOSTCITY_CONVEYOR_NAME]
-Conveyor belt
+Special Delivery
 
 [STARCHALLENGE_LOSTCITY_CONVEYOR]
-Resist the invasion of Lost City zombies using plants obtained from the conveyor belt.
+Survive the zombie attack with the given plants
 
 [STARCHALLENGE_LOSTCITY_LASTSTAND_NAME]
-Indestructible
+Last Stand
 
 [STARCHALLENGE_LOSTCITY_LASTSTAND]
-Establish an indestructible line of defense against the invasion of the Lost City zombies.
+Plan your defense and defeat the zombies
 
 [STARCHALLENGE_LOSTCITY_RAIN_NAME]
-Rainforest Nights
+Dark Stormy Night
 
 [STARCHALLENGE_LOSTCITY_RAIN]
-Use the moment lightning illuminates the night sky to plant plants to resist zombie invasions.
+Survive in the night with storms
 
 [STARCHALLENGE_LOSTCITY_VASEBREAKER_NAME]
-Jar of Loss
+The Lost Tank
 
 [STARCHALLENGE_LOSTCITY_VASEBREAKER]
-Smash all the jars in the field, and take out all the zombies.
+Break all the vasebreaker on the lawn and kill all the zombies.
 
 [STARCHALLENGE_LOSTCITY_GOLDROAD_NAME]
-Golden tile
+Unsodded
 
 [STARCHALLENGE_LOSTCITY_GOLDROAD]
-*"':;!?@#€_&-+()/1234567890
+Plants on the remaining roads to defeat the zombies.
 
 [STARCHALLENGE_LOSTCITY_BOSS_NAME]
-Ultimate Challenge
+Ultimate Battle
 
 [STARCHALLENGE_LOSTCITY_BOSS]
-Defend the zombie invasion and defeat Doctor Zombie's airship.
+Survive a massive attack in the Lost City
 
 [PLANTING_NOT_ON_BESIEGE_BOX]
 Can't be on other boxes
@@ -28481,31 +28476,31 @@ Wooden cases can be removed by iron shovels
 Spaceship repair failed, did it cost ^00e46e {GEM_COUNT} Gems ^oldclr to purchase the parts needed for repair?
 
 [STARCHALLENGE_FISH_NAME]
-One shot to the point
+One Gun Guard
 
 [STARCHALLENGE_FISH]
-Launch the main gun and shoot down the zombies to get enough points to pass.
+Uses different types of guns to kill zombies to get enough points
 
 [STARCHALLENGE_POOYAN_NAME]
-Strongly plant Lingyun
+Air Raid
 
 [STARCHALLENGE_POOYAN]
-Dodge zombies and bullets and defeat powerful enemies.
+Avoid the zombies and their bullets, earn enough points by defeating zombies.
 
 [STARCHALLENGE_PAOKU]
-Survive to get the corresponding score.
+Survive and reach the target score
 
 [STARCHALLENGE_CONVEYORBELT]
-Use plants obtained from the conveyor belt to resist zombie invasion.
+Survive the zombie attack with the given plants
 
 [CHALLENGE_BESIEGN_NAME]
-Pursuit and interception-the {LEVEL_NUMBER} days
+Across the Lawn - Level {LEVEL_NUMBER}
 
 [CHALLENGE_FISH_NAME]
-One shot to the point - the {LEVEL_NUMBER} day
+One Gun Guard - Level {LEVEL_NUMBER}
 
 [CHALLENGE_POOYAN_NAME]
-Zhuangzhi Lingyun-the {LEVEL_NUMBER}day
+Air Raid - Level {LEVEL_NUMBER}
 
 [STARCHALLENGE_PIRATE_FINALE]
 Survive a massive attack in the Pirate Seas
@@ -28514,16 +28509,16 @@ Survive a massive attack in the Pirate Seas
 Final Day
 
 [STARCHALLENGE_STEAM_FINALE]
-Successfully resist the invasion of large waves of Steam Zombies.
+Survive a massive attack at Steam Age
 
 [STARCHALLENGE_STEAM_FINALE_NAME]
-The Last Day
+Final Day
 
 [STARCHALLENGE_PLANT_BEFORE_LINE]
 Survive without planting on Dave's mold colonies
 
 [STARCHALLENGE_SKYCITY]
-Defend against the attacks of flying zombies.
+Defeat sky zombies.
 
 [STARCHALLENGE_SKYCITY_NAME]
 Sky City
@@ -28556,13 +28551,13 @@ Don't lose more than {COUNT} plants
 Plants Lost
 
 [STARCHALLENGE_PLANTS_LOST_SINGLE]
-Don't lose more than {COUNT} plant
+Don't lose more than {COUNT} plants
 
 [STARCHALLENGE_PLANTS_PLANTED]
 Plant {COUNT} plants or less!
 
 [STARCHALLENGE_PLANTS_PLANTED_NAME]
-Plants Planted
+Plants planted
 
 [STARCHALLENGE_POWERUP_DEMO]
 Survive by using Power Ups
@@ -28616,25 +28611,25 @@ Flower Bed
 Have {COUNT} or more zombies on the lawn!
 
 [STARCHALLENGE_PLANT_FREEZE]
-Do not have more than {COUNT} frozen plants.
+Don't have more than {COUNT} plants be frozen
 
 [STARCHALLENGE_PLANT_FREEZE_NAME]
-Frozen Plants
+Frozen plants
 
 [STARCHALLENGE_PLANT_SURVIVE]
-Have {COUNT} plants survive when completing the level.
+Have {COUNT} or more plants on the lawn
 
 [STARCHALLENGE_PLANT_SURVIVE_NAME]
-Surviving Plants
+Surviving plants
 
 [STARCHALLENGE_CARD_GAME_TURN_PASS]
-Win the level within {COUNT} turns.
+Win in {COUNT} rounds
 
 [STARCHALLENGE_CARD_GAME_TURN_PASS_NAME]
 Timed Victory
 
 [STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_DESC]
-Defeat {COUNT} zombies in the sandstorm.
+Defeat {COUNT} zombies only in sandstorms
 
 [STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_NAME]
 Sandstorm Kills
@@ -28694,16 +28689,16 @@ Prevent {COUNT} plants from being thrown by Protector Shield Zombies.
 Protect Plants from Protector Shield Zombies
 
 [STARCHALLENGE_BLOW_ZOMBIE]
-Blow away {COUNT} zombies.
+Blowing {COUNT} zombies
 
 [STARCHALLENGE_BLOW_ZOMBIE_NAME]
-Blown Zombies
+Blowing zombies
 
 [STARCHALLENGE_PLANTFOOD_NONUSE]
-Complete the level without using Plant Food.
+Survive without using Plant Food
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_NAME]
-No Plant Food
+Don't use Plant Food
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
 You will lose a star if you use plant food do you want to continue?
@@ -31032,7 +31027,7 @@ Resist the zombie invasion and get new plants.
 Snowman Chest
 
 [ADVICE_SUNBANK_TUTORIAL_FAKEGEM]
-Gems can be used to buy extra sun!
+Use gems to buy extra sun!
 
 [ADVICE_GOTO_STARTASKPANEL]
 Check out your rewards!
@@ -32146,19 +32141,19 @@ Second Star
 Third Star
 
 [STARCHALLENGE_NO_STAR_DESC]
-Complete mainline levels to unlock Samsung
+Complete every main level to unlock 3 stars.
 
 [GAME_RANK_TIME]
-%d divided by %d.%d
+%dm%d.%d
 
 [VIEW_FORMATION_TITLE_0]
-First place
+First Place
 
 [VIEW_FORMATION_TITLE_1]
-Second place
+Second Place
 
 [VIEW_FORMATION_TITLE_2]
-Third place
+Third Place
 
 [TELECOM_PURCHASE_TIPS]
 Is it spending % d ¥ to buy % s?
@@ -32170,13 +32165,13 @@ Purchase %s Success
 China Mobile User Privilege
 
 [UNLOCK_GATE_FREE]
-Free Unlock
+UNLOCK
 
 [LOTTERY_PRESENT]
-You got the gift
+You recieved a gift!
 
 [LOTTERY_RESULT_DESC]
-You've acquired
+You got it!
 
 [LOTTERY_RESULT_1]
 ^00e46e 5 Gems
@@ -32191,19 +32186,19 @@ You've acquired
 ^00e46e 500 Coins
 
 [LOTTERY_RESULT_5]
-^00e46e 2000 Coins
+^00e46e 2,000 Coins
 
 [LOTTERY_RESULT_6]
 ^00e46e 10,000 Coins
 
 [LOTTERY_RESULT_7]
-^00e46e Pod pieces
+^00e46e Pea Pod Pieces
 
 [LOTTERY_RESULT_8]
-^00e46e Coconut cannon pieces
+^00e46e Coconut Cannon Pieces
 
 [LOTTERY_RESULT_9]
-^00e46e Transformed into eggplant pieces
+^00e46e Imitater Pieces
 
 [LOTTERY_RESULT_10]
 ^00e46e Branch key x1
@@ -32216,14 +32211,12 @@ You've acquired
 
 [LOTTERY_TIMES_RESULT_1]
 Congratulations! Received the prize for the first draw:
-^00e46e 5000 Coins^oldclr 
- 
+^00e46e 5,000 gold coins^oldclr
 Hello awesome yo, accumulate more raffles will get better rewards!
 
 [LOTTERY_TIMES_RESULT_2]
 Congratulations! Won 5 draws:
-^00e46e All World Branch Keys*3 ^oldclr 
- 
+^00e46e All World Branch Keys*3 ^oldclr
 Now no worries about opening the door!
 
 [LOTTERY_TIMES_RESULT_3]
@@ -32275,13 +32268,13 @@ God, you're cheating, are you?
 {NPC_ENTER:winnie}{SAY:winnie} works beautifully! So gorgeous! Let's move on!
 
 [TACTICAL_CUKE_ADVICE_USE_PLANTFOOD]
-Use plants food on new plants to see what surprises there will be!
+Drag the Plant Food onto the plant.
 
 [TACTICAL_CUKE_ADVICE_AT_LAST]
-Remember to use tactical cucumbers to clear the siege if the situation is urgent!
+If things get rough, stock up on gems for a Tactical Cuke!
 
 [TACTICAL_CUKE_ADVICE_FIRST_TIME]
-You can use tactical cucumbers to clear the siege now!
+Use Tactical Cuke to kill all the zombies!
 
 [STAR_PLANT_DESC_1]
 You collect
@@ -33807,40 +33800,40 @@ There's not enough hammers, and now recharging won't get more hammers, come back
 {SAY:crazydave} is not afraid, my white radish has eaten plants food!
 
 [AWARD_SCREEN_WORLDTROPHY_KONGFU]
-Samsung unlocking for the Sceond part of KongFu is already open!
+Kung Fu World Part 2 - 3 Stars Unlocked!
 
 [STARCHALLENGE_KONGFU_FINALE]
-Successfully resisted a big wave of KongFu zombie invasions.
+Survive a massive attack in Kong-fu World
 
 [STARCHALLENGE_KONGFU_FINALE_NAME]
-Last day
+Final Day
 
 [STARCHALLENGE_KONGFU_BOMB]
-Prevent zombies from igniting explosive kegs to resist zombie invasions
+Defeat zombies and avoid the flames of the torches by zombies from destroying the kegs
 
 [STARCHALLENGE_KONGFU_BOMB_NAME]
-Dynamite kegs
+Powder Keg
 
 [STARCHALLENGE_KONGFU_BLACK_HOLE]
-Establish lines of defense against zombie invasions
+Survive the zombie attack
 
 [STARCHALLENGE_KONGFU_BLACK_HOLE_NAME]
-Spacetime Black Hole Branch Challenge
+Space-time black hole branch
 
 [STARCHALLENGE_KONGFU_CONVEYOR_BELT]
-Successfully resist the insane invasion of the big wave of KongFu zombies
+Survive the zombie attack
 
 [STARCHALLENGE_KONGFU_BRONZE_NAME]
-Copperbill
+Bronze Matrix
 
 [STARCHALLENGE_KONGFU_BRONZE]
-Defeat the resurrected zombie Bronze Man Formation
+Defeat the Gargantuar Bronzes
 
 [STARCHALLENGE_KONGFU_CONVEYOR_BELT_NAME]
-Conveyor belt
+Special Delivery
 
 [ADVICE_BAMBOO_ON_RAIL]
-The plant cannot be planted on mine cars
+You can't plant that on tracks.
 
 [LOTUS]
 Daffodil
@@ -33967,7 +33960,7 @@ The flames of the Fire Gourd can effectively clear weapon racks.
 Zomboss is coming soon!
 
 [UPGRADE_KONGFU_COMING_SOON_INFO]
-Zomboss traveled to the Kung Fu, bringing challenges for the plants. Keep your brain !
+Zomboss traveled to the Kung Fu, bringing challenges for the plants. Keep your brain!
 
 [UPGRADE_MOWER_4_INFO]
 Kong-fu World's Lawn Mower.
@@ -34021,7 +34014,7 @@ Restarting will cost stamina.
 RETURN
 
 [ADVICE_BRONZE_GRID_TIME]
-The next Bronze Golem will spawn in {BRONZE_TIME_NUMBER} seconds.
+A Gargantuar Bronze will be unleashed in {BRONZE_TIME_NUMBER} seconds!
 
 [SKIP_TUTORIAL_DIALOG_HEAD]
 Beginner Survey
@@ -36384,7 +36377,7 @@ Lv.2 Rookie Hunter
 Level.1 Novices on the road
 
 [DANGER_ROOM_ACCOUNT_DESC]
-You've cleared ^00e46e {LEVEL_COUNT} layer ^oldclr, get ^00e46e {SCORE_COUNT} ^oldclr endless points, the current title is ^00e46e {ACCOUNT_NAME} ^oldclr !
+You've cleared ^00e46e {LEVEL_COUNT} layer ^oldclr, get ^00e46e {SCORE_COUNT} ^oldclr endless points, the current title is ^00e46e {ACCOUNT_NAME} ^oldclr!
 
 [NOT_IN_ACTIVITY_TIME]
 Not during active time
@@ -41787,7 +41780,7 @@ Level Rewards
 Plants can only be placed on the left side of the caution line.
 
 [ADVICE_LAST_STAND_PLANT]
-Plant with limited sun and survive the zombie attack !
+Plant with limited sun and survive the zombie attack!
 
 [ADVICE_WORLD_CUP_PLANT]
 Plant in the specified grid and start the game!
@@ -42900,7 +42893,7 @@ Challenge settlement error occurred, <Error Code: {NUM}>
 If the network connection fails, please conduct the challenge activities in a good network environment to avoid losses.
 
 [BOARD_ALMANAC_WARNING]
-Warning: New zombie !
+Warning: New zombie!
 
 [BOARD_ALMANAC_RECOMMEND_PLANT]
 Recommended plants:
@@ -43730,7 +43723,7 @@ You can only plant this on defeated plants.
 Keep using the shovel to make room for some Wall-nuts!
 
 [ADVICE_MORE_LEVELS_TO_PLAY]
-Remember, there are still levels to play in other Worlds
+Remember, there are still levels to play in other Worlds.
 
 [ADVICE_NO_ESCAPEROOT_ON_RAILCART]
 Escape roots cannot be planted on mine cars.
@@ -43742,7 +43735,7 @@ You can't plant on craters.
 Underground Plants cannot be planted on Lily Pads.
 
 [ADVICE_PLANT_FOOD_NOT_SIMULTANEOUS]
-Plant Food would create too many plants
+Plant Food would create too many plants.
 
 [ADVICE_PLANT_MORE_LILYPADS]
 Try planting more Lily Pads
@@ -43757,7 +43750,7 @@ You can't plant on a backpack.
 You can't plant on a speaker.
 
 [ADVICE_PLANT_NOT_SIMULTANEOUS]
-Too many plants to plant now
+Too many plants to plant now.
 
 [ADVICE_PLANT_TOO_MANY_PLANTS]
 You are at your planting limit! Shovel a plant to plant more.
@@ -43769,13 +43762,13 @@ Cob Cannon cannot be planted on vines.
 Underground plants cannot be planted on planks.
 
 [ADVICE_READY_TO_UNLOCK_WORLD]
-Use World Keys to unlock new Worlds 
+Use World Keys to unlock new Worlds!
 
 [ADVICE_REFRESH_PUFFSHROOMS]
-Plant Food refreshes all Puff-shrooms
+Plant Food refreshes all Puff-shrooms.
 
 [ADVICE_RETURN_TO_UNIVERSE_VIEW]
-You have a World Key! Tap to view Time-Space Map
+You have a World Key! Tap to view the Time-Space Map.
 
 [ADVICE_SWAP_PLANTS]
 Swap plants to make matches of three!
@@ -43787,10 +43780,10 @@ Tap to view Taco Map
 Tap the Star Gate!
 
 [ADVICE_TURBO_BUTTON_OFF]
-Tap an active Turbo button to turn it off
+Tap an active Turbo button to turn it off.
 
 [ADVICE_TURBO_BUTTON_ON]
-Tap the Turbo button to activate it
+Tap the Turbo button to activate it.
 
 [ADVICE_WAIT_TO_UNLOCK_WORLD]
 World Keys can unlock new Worlds when they are available
@@ -44344,31 +44337,31 @@ Welcome to Highway to the Danger Room!
 Steam Age endless - {LEVEL_NUMBER}
 
 [DANGER_ROOM_STEAM_TITLE_WELCOME]
-Welcome to Steam Age endless !
+Welcome to Steam Age endless!
 
 [DANGER_ROOM_HEIAN_LEVEL_NAME]
 Heian Age endless - {LEVEL_NUMBER}
 
 [DANGER_ROOM_HEIAN_TITLE_WELCOME]
-Welcome to Heian Age endless !
+Welcome to Heian Age endless!
 
 [DANGER_ROOM_TALE_LEVEL_NAME]
 Fairy Tale endless - Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_TALE_TITLE_WELCOME]
-Welcome to Fairy Tale endless !
+Welcome to Fairy Tale endless!
 
 [DANGER_ROOM_RENAI_LEVEL_NAME]
 Renaissance age endless -  Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_RENAI_TITLE_WELCOME]
-Welcome to Renaissance age endless !
+Welcome to Renaissance age endless!
 
 [DANGER_ROOM_ATLANTIS_LEVEL_NAME]
 Underwater World  -  Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_ATLANTIS_TITLE_WELCOME]
-Welcome to Underwater World endless !
+Welcome to Underwater World endless!
 
 [DANGER_ROOM_REWARD_FLAME_THROWER]
 Adds a free use of Power Flame
@@ -45898,7 +45891,7 @@ Watch an ad
 Free sun
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-^FF0000 1 ^oldclr Daily Gauntlet (Purchase limit ^FF0000 1 ^oldclr)
+^FF0000 1 ^oldclr Daily Gauntlet (Purchase limit ^FF0000 1 ^oldclr )
 
 [PRODUCT_Z_NUM_1_DESC]
 ^FF0000 1 ^oldclr Gauntlet
@@ -45910,7 +45903,7 @@ Free sun
 ^FF0000 10 ^oldclr Gauntlets
 
 [PRODUCT_Z_NUM_10_SHORT_DESC]
-10 Gauntlets!
+Gauntlets Barrel
 
 [PRODUCT_Z_AD_DESC]
 Watch ad
@@ -51847,7 +51840,7 @@ Don't remind me today
 {NPC_ENTER:crazydave}{EXCITED:crazydave} looks like that brain is causing trouble again, go! Will he
 
  [NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:winnie}{ PLAYFUL:winnie } is the annual Children's Playpark !
+{NPC_ENTER:winnie}{ PLAYFUL:winnie } is the annual Children's Playpark!
 
 [NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_2]
 I can't wait for {NPC_ENTER:crazydave}{PLAYFUL:crazydave} go now.
@@ -52692,6 +52685,7 @@ Receive successfully, congratulations on the following rewards
 
 [AUTHENTICATION_DES]
 In accordance with relevant regulations, game services are not provided to users who have not completed real-name verification. Minors are not allowed to log in to the game outside of the hours of 20:00 to 21:00 on Fridays, Saturdays, Sundays, and public holidays. Please complete real-name verification.
+
 [AUTHENTICATION_AUTH]
 Certification
 
@@ -55383,13 +55377,13 @@ Exchange failed, you do not have enough trophies.
 Detecting that you already have the costume, do you continue to redeem? Continued redemption converts this costume to an equal amount ^FF0000 plant pieces ^oldclr .
 
 [GROUP_BUY_LIMIT]
-GROUP PURCHASE !
+GROUP PURCHASE!
 
 [GROUP_BUY_ECITON]
 PREVIEW
 
 [GROUP_BUY_5_DISCOUNT]
-GROUP PURCHASE !
+GROUP PURCHASE!
 
 [GROUP_BUY_PLANT_LEVEL]
 Level {NUMBER}'
@@ -55419,7 +55413,7 @@ Successful grouping
 Here are the items that can be discounted tomorrow:
 
 [GROUP_BUY_NOTICE_END]
-That the ^FFFF00 last day ^oldclr quickly buy your favorite plant before the end !!!
+That the ^FFFF00 last day ^oldclr quickly buy your favorite plant before the end!!!
 
 [GROUP_BUY_USE_GEM]
 {NUMBER} Gems
@@ -55904,10 +55898,10 @@ League expired.
 Unknown error, try again.
 
 [JOUST_NO_TICKET_TITLE]
-Insufficient number of challenges
+Insufficient gauntlet
 
 [JOUST_NO_TICKET_TEXT]
-Please buy more challenges before trying.
+Please buy more gauntlet before trying.
 
 [MAT_BOSSRUSH_CRYSTAL]
 Blue Crystal
@@ -56009,7 +56003,7 @@ Your version of the game is too old please download the lastest version
 Payment Tips
 
 [PAY_CHECK_DIALOG_CONTENT]
-Your total recharge has reached 1,000 ¥ and requires real-name authentication !
+Your total recharge has reached 1,000 ¥ and requires real-name authentication!
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Hi, the basic guidance level has been skipped for you. The guidance rewards will be distributed to you later. Pay attention to check!
@@ -56996,31 +56990,31 @@ Complete 2 Daily Challenge levels
 Click the challenge button in the main interface to enter the challenge level
 
 [TASK_PASSLEVEL]
-Complete 4 Adventure Levels!
+Beat 4 Adventure Levels!
 
 [TASK_PASSLEVEL_DESCRIPTION]
-Any world level win can complete the mission Oh!
+Click the challenge button in the main interface to enter the challenge level
 
 [TASK_COLLECTPLANTCHIPS]
-10 plant pieces were obtained
+Earn 10 plant pieces
 
 [TASK_COLLECTPLANTCHIPS_DESCRIPTION]
-Plant pieces can be obtained through Penny's Shop, Treasures, Challenges, Plant Adventures, etc. Oh!
+Plant pieces can be obtained through Penny's shop, treasures, challenges, plant adventure, etc.!
 
 [TASK_DAILYINTEGRAL]
-20 points today
+Get 20 points today
 
 [TASK_DAILYINTEGRAL_DESCRIPTION]
-Getting points opens the chest chest, obtaining rare plant pieces
+Earn points to open treasure chests and get rare plant pieces!
 
 [TASK_BEATZOMBIES]
-HACK BY EVIL 
+Defeat the zombies!
 
 [TASK_BEATZOMBIES_DESCRIPTION]
-Beat {NUM} {ZOMBIE} in {WORLDNAME}
+Defeat {NUM} {ZOMBIE} in {WORLDNAME}
 
 [TASK_WEEKLYINTEGRAL]
-150 points this week
+Get 150 points this week
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION]
 Points are earned after completing daily tasks
@@ -57032,46 +57026,46 @@ Survive a massive attack!
 Watch out for those high-level zombies!
 
 [TASK_WORLDTASK_DESCRIPTION_EGYPT2]
-If you want to prove your strength, then go and challenge Doctor Zombie in Ancient Egypt!
+If you want to prove your strength, challenge with the Zombot Sphinx-inator in Ancient Egypt!
 
 [TASK_WORLDTASK_DESCRIPTION_PIRATE3]
-If you want to prove your strength, then go and challenge Dr. Zombie at Pirate Harbor!
+If you want to prove your strength, challenge with Zombot Plank Walker in the Pirate Seas!
 
 [TASK_WORLDTASK_DESCRIPTION_COWBOY3]
-Want to prove your strength, then go challenge Dr. Zombie in the Wild West!
+If you want to prove your strength, challenge with Zombot War Wagon in the Wild West!
 
 [TASK_WORLDTASK_DESCRIPTION_KONGFU3]
-If you want to prove your strength, then go and challenge Doctor Zombie in the KongFu!
+If you want to prove your strength, challenge with Blade-Wielding Hero in Kong-fu World!
 
 [TASK_WORLDTASK_DESCRIPTION_FUTURE3]
-If you want to prove your strength, then go and challenge Doctor Zombie in the Far Future!
+If you want to prove your strength, challenge with Zombot Tomorrow-tron in the Far Future!
 
 [TASK_WORLDTASK_DESCRIPTION_EIGHTIES3]
-If you want to prove your strength, then go and challenge Dr. Zombie from the rock era!
+If you want to prove your strength, challenge with Zombot Multi-stage Masher in the Neon Mixtape Tour!
 
 [TASK_WORLDTASK_DESCRIPTION_DARK3]
-If you want to prove your strength, then go and challenge Dr. Zombie in the Dark Ages!
+If you want to prove your strength, challenge with Zombot Dark Dragon in the Dark Ages!
 
 [TASK_WORLDTASK_DESCRIPTION_BEACH3]
-If you want to prove your strength, then go and challenge Dr. Zombie on the Big Wave Beach!
+If you want to prove your strength, challenge with Zombot Sharktronic Sub in the Big Wave Beach!
 
 [TASK_WORLDTASK_DESCRIPTION_DINO3]
-If you want to prove your strength, then go and challenge Doctor Zombie in Jurassic Marsh!
+If you want to prove your strength, challenge with Zombot Dinotronic Mechasaur in the Jurassic Marsh!
 
 [TASK_WORLDTASK_DESCRIPTION_ICEAGE3]
-If you want to prove your strength, then go and challenge Dr. Zombie in Glacier World!
+If you want to prove your strength, challenge with Zombot Tuskmaster 10,000 BC in the Frostbite Caves!
 
 [TASK_WORLDTASK_DESCRIPTION_LOSTCITY3]
-If you want to prove your strength, then go and challenge Dr. Zombie in the Lost City!
+If you want to prove your strength, challenge with Zombot Aerostatic Gondola in the Lost City!
 
 [TASK_WORLDTASK_DESCRIPTION_SKYCITY3]
-If you want to prove your strength, then go and challenge Dr. Zombie in Sky City!
+If you want to prove your strength, challenge with Zombot Vulture Fighter in Sky City!
 
 [TASK_WORLDTASK_DESCRIPTION_MODERN3]
-If you want to prove your strength, then go and challenge Doctor Zombie in the Modern Day!
+If you want to prove your strength, challenge with Zombot Tomorrow-tron in the Modern Day!
 
 [TASK_WORLDTASK_DESCRIPTION_STEAM3]
-If you want to prove your strength, then go and challenge Dr. Zombie in the Steam world!
+If you want to prove your strength, challenge with Dr. Zomboss in the Steam Age!
 
 [TASK_WORLDTASK_EGYPT1]
 Complete the easy level on Day 8 of the Ancient Egypt
@@ -58120,7 +58114,7 @@ Used to redeem in gene-edited gene sequence stores
 Buy Genetic Pack
 
 [GENE_SEQUENCE]
-'s Gene Sequence
+Gene Sequence
 
 [GENE_ESSENCE]
 's Gene Essence
@@ -58272,47 +58266,47 @@ Use Gene Essence to upgrade sequence tiers (max: Lv.10), improving bonus effects
 At max level, excess Gene Essence and Gene Pack purchases Universal Gene coin for buying specific sequences in shop.
 
 [GENE_FACTOR_SHOP]
-Buy Gene Box
+Purchase Gene Bundles
 
 [GENE_FACTOR_BUNDLE1]
-Genetic Pack
+Small Gene Bundle
 
 [GENE_FACTOR_BUNDLE1_DES]
-30  universal gene
-+ ^FF0000 2 sequence
+30 Universal Gene Coins
+Bonus ^FF0000 2 ^oldclrr
 
 [PRODUCT_GENEFACTOR_6_SHORTDESC]
-Genetic Pack
+Small Gene Bundle
 
 [GENE_FACTOR_BUNDLE2]
-Big Genetic Pack
+Large Gene Bundle
 
 [GENE_FACTOR_BUNDLE2_DES]
-160  universal gene
-+ ^FF0000 10 sequence
+160 Universal Gene Coins
+Bonus ^FF0000 10 ^oldclrr
 
 [PRODUCT_GENEFACTOR_30_SHORTDESC]
-Large Genetic Pack
+Large Gene Bundle
 
 [GENE_FACTOR_BUNDLE3]
-Small Box Gene Pack
+Small Box Gene Bundle
 
 [GENE_FACTOR_BUNDLE3_DES]
-390  universal gene
-+ ^FF0000 25 sequence
+390 Universal Gene Coins
+Bonus ^FF0000 25 ^oldclrr
 
 [PRODUCT_GENEFACTOR_68_SHORTDESC]
-Small box Gene Pack
+Small Box Gene Bundle
 
 [GENE_FACTOR_BUNDLE4]
-Big Box Gene Pack
+Large Box Gene Bundle
 
 [GENE_FACTOR_BUNDLE4_DES]
-760  universal gene
-+ ^FF0000 50 sequence
+760 Universal Gene Coins
+Bonus ^FF0000 50 ^oldclrr
 
 [PRODUCT_GENEFACTOR_128_SHORTDESC]
-Big Box Gene Pack
+Large Box Gene Bundle
 
 [GENE_SEQUENCE_SHOP]
 Genes Shop
@@ -59529,7 +59523,7 @@ Validity ^FF0000 {NUM} ^oldclrrday
 Receive Experience Card
 
 [GIFT_RETURN_DESCRIPTION_TITLE]
-Welcome back !!!!! 
+Welcome back!!!!! 
 
 [GIFT_RETURN_DESCRIPTION]
 Evil's Rules:
@@ -59538,7 +59532,7 @@ Evil's Rules:
 
 2. you are lucky you will get Hearthshock and 20 fragment of Aloe with 300 dimaond and 8888 coins 50k rubies 10 legendary potion and 5 single draw ticket
 
-3. enjoy the game !!! and login every day for get special reward !!!!!
+3. enjoy the game!!! and login every day for get special reward!!!!!
 
 4. enjoy my mod 
 
@@ -59657,31 +59651,31 @@ This is an artifact that can control gravity, manipulating it to crush all zombi
 ^FFFF00 Welcome back, dear {NAME}! ^oldclr
 
 [GIFT_FOR_RETURN_WELCOME_2]
-A lot happened in the courtyard during the time you left!
+During the time you left, a lot has changed!
 
 [TEMPLATE_TRIAL_CARD_NAME]
-{TIME} experience card-{NAME}({NUM} level)
+{TIME} Trial Card - {NAME} ({NUM}th stage)
 
 [TEMPLATE_TRIAL_CARD_USE]
-Using the Plant Experience Card, you can get experience permissions for {NAME} ({NUM} level) for a period of {TIME}
+Using the plant trial card grants you the trial privileges of {NAME} ({NUM}th level) for a duration of {TIME}.
 
 [TEMPLATE_TRIAL_CARD_GET_WAY]
-The duration of the experience is no longer available after the experience card expires or the plant is advanced to the same or higher level as the experience content.
+The trial card will expire and become invalid if the plant advances to the same or higher stage as the trial content. The trial duration will no longer be available.
 
 [TRIAL_CARD_HIGH_PLAYER_PLANT_LEVEL]
-You already have a higher level of plants or props than the current experience card, continuing to use will transform the experience card into x{NUM} rubies, sure to use it?
+You already have a plant or item of a higher level than the current trial card. Using it will convert the trial card into x{NUM} Crystals. Are you sure you want to use it?
 
 [TRIAL_CARD_HIGH_TRIAL_PLANT_LEVEL]
-You have used a higher level of experience card than the current experience card and cannot use the current experience card.
+You have already used a trial card of a higher level than the current one. You can't use this trial card until the active one has expired.
 
 [TRIAL_CARD_SAME_TRIAL_PLANT_LEVEL]
-You have used an experience card of the same level as the current experience card, continuing to use will superimpose the experience card time, sure to use?
+You have already used a trial card of the same level as the current one. Using it will stack the trial card time. Are you sure you want to use it?
 
 [TRIAL_CARD_LOWR_TRIAL_PLANT_LEVEL]
-You have used a lower level of experience card than the current experience card, continuing to use will overwrite the previous experience card, sure to use?
+You have already used a trial card of a lower level than the current one. Using it will overwrite the previous trial card. Are you sure you want to use it?
 
 [TRIAL_CARD_CONFIRM_USE]
-Are you sure you're using the current experience card?
+Are you sure you want to use this trial card?
 
 [PLANT_CULTIVATE]
 Plant Cultivation
@@ -59957,22 +59951,22 @@ Used to summon plants in a time-limited summon
 Get VIP benefits or Packs in limited time summons
 
 [MAT_GENERAL_PLANT_CHIPS]
-Oriented plant pieces
+Orientational Pieces
 
 [MAT_UNIVERSAL_PLANT_CHIPS]
-Pieces of the Universal Plant
+Universal Pieces
 
 [MAT_GENERAL_PLANT_CHIPS_USE]
-After opening, one plant piece can be selected from it
+Orientational Pieces can be converted into Pieces for specific, valuable Orange Quality plants.
 
 [MAT_GENERAL_PLANT_CHIPS_GOT_WAY]
-Events such as limited-time summons
+Get from events.
 
 [GENERAL_PLANT_CHIPS_EXCHANGE]
 Are you sure you want to spend {NUM1} {NAME1} to exchange for {NUM2} {NAME2}?
 
 [SELECT_PLANT_FIRST]
-Please select the plant first
+Please select a plant first
 
 [ENTER_VALID_VALUE]
 Enter valid value
@@ -60094,7 +60088,7 @@ Design table configuration error
 Exceeded purchase limit
 
 [PVP_ERROR_75024]
-Buy a pack before get the reward !
+Buy a pack before get the reward!
 
 [PVP_ERROR_75025]
 The Pack has expired, please refresh the interface
@@ -61032,43 +61026,43 @@ Resurrection radish glasses
 Reducing sun cost by 25
 
 [MAZE_STATUE_SET_LABEL]
-Number of games: {NUMBER}
+Rounds: {NUMBER}
 
 [MAZE_STATUE_TARGET_LABEL]
-Remaining zombies: {NUMBER}
+Remaining Zombies: {NUMBER}
 
 [MAZE_STATUE_LIFE_LABEL]
-Left: {NUMBER}
+Remaining: {NUMBER}
 
 [STARCHALLENGE_MAZE_STATUE_NAME]
-Statue maze
+Bemarbled
 
 [STARCHALLENGE_MAZE_STATUE]
-Find out all the hidden zombies
+Find all the hidden zombies
 
 [CARD_GAME_CHALLENGE_NAME]
-Cardface Disputes
+Card Clash
 
 [CARD_GAME_CHALLENGE]
 Use cards rationally to defeat enemies
 
 [MAZE_STATUE_DIED_TIP]
-The hammer is used up, does it consume ^00e46e {GEM_COUNT} Gems ^oldclr Supplement?
+You ran out of hammers. Would you like to spend ^00e46e {GEM_COUNT} gems ^oldclr to buy more?
 
 [MAZE_STATUE_FAILED_TIP]
-The zombies didn't find it, Penny was disappointed with you!
+PENNY IS DISAPPOINTED OF YOU!
 
 [YOU_ARE_CHEATING_NOW]
-Suspected cheating on your plant rating!!!
+Your plant levels are suspicious!
 
 [EVENT0_HEADER]
 Starting point
 
 [EVENT0_DES]
-A bonus is awarded for each completed lap
+Get a reward for every completed lap
 
 [EVENT1_HEADER]
-Forward railcar
+Forward Lawnmower
 
 [EVENT1_DES]
 Get on the rail car and take a few steps forward
@@ -61633,10 +61627,10 @@ Select Level {LEVEL_NUMBER} Difficulty:
 Penny's pursuit - {LEVEL_NUMBER} day
 
 [RIFT_LEVEL_SETUP_BONUS]
-Rewards Preview
+Rewards
 
 [SIGN_NOW]
-Sign in now
+Login
 
 [RIFT_LIBRARY_TAB]
 Perk Library
@@ -61885,7 +61879,7 @@ Amount of starting Plant Food
 Starting Sun
 
 [MUTATOR_STARTING_SUN_DESC]
-Sun total at game start.
+Sun total at game start
 
 [MUTATOR_SUN_DROPPER]
 Sun Dropper
@@ -61894,49 +61888,49 @@ Sun Dropper
 How often sun drops from the sky
 
 [MUTATOR_RIFT_TIMED_SUN]
-Disable sun
+Sun Banning
 
 [MUTATOR_RIFT_TIMED_SUN_DESC]
-Disable all means of producing sun
+Disable all means of producing sun.
 
 [MUTATOR_RIFT_TIMED_ZOMBIE_SUN]
 Zombies drop sun
 
 [MUTATOR_RIFT_TIMED_ZOMBIE_SUN_DESC]
-Zombie Death Drops sun
+Zombies drop sun upon death.
 
 [MUTATOR_RIFT_TIMED_TOOL_LEVELUP]
-Plant promotion props
+Plant Upgrading
 
 [MUTATOR_RIFT_TIMED_TOOL_LEVELUP_DESC]
-Plant leveling props can be used
+Upgrade the plants
 
 [MUTATOR_RIFT_TIMED_TOOL_PF]
-Energy Bean Prop
+Plant Food
 
 [MUTATOR_RIFT_TIMED_TOOL_PF_DESC]
-Energy bean props can be used
+Using Plant Food
 
 [MUTATOR_RIFT_TIMED_TOOL_ARTIFACT]
-Artifact number props
+Artifact Usage
 
 [MUTATOR_RIFT_TIMED_TOOL_ARTIFACT_DESC]
-Artifact number props can be used
+Using artifact
 
 [FAVORITE_ARTIFACT_MAX]
-The number of collected artifacts has reached the maximum limit.
+You've favourited too many Artifacts!
 
 [MUTATOR_RIFT_TIMED_TOOL_WAVE]
-Next Wave Mechanism
+Next wave button
 
 [MUTATOR_RIFT_TIMED_TOOL_WAVE_DESC]
-The next wave mechanism can be used
+Using the next zombies wave button
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF]
-Energy Bean Gain
+Plant Food reduction
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF_DESC]
-No extra plants food are produced when killing zombies
+No additional Plant Food is generated when killing zombies
 
 [MUTATOR_ZOMBIE_LEVEL]
 Zombie Strength
@@ -61945,25 +61939,25 @@ Zombie Strength
 Overall strength of zombies
 
 [TOOL_PACKET_TOOL_RIFT_PLANT_LEVELUP]
-Plant ascending
+Plant level-up
 
 [TOOL_PACKET_TOOL_RIFT_PLANTFOOD]
-Energy Bean
+Plant Food
 
 [TOOL_PACKET_TOOL_RIFT_ARTIFACT]
-Number of artifact uses
+Artifact usage count
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANT_LEVELUP]
-Post-use plant class +1, but cannot exceed the highest class developed.
+Increases the plant's level by 1, but cannot exceed the maximum level achieved through cultivation.
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANTFOOD]
-Post-use plants food+1
++1 Plant Food after use
 
 [TOOL_PACKET_DESC_TOOL_RIFT_ARTIFACT]
-Number of times the artifact has been used after use +1
++1 Artifact usage after use
 
 [PERK_MAX_LEVEL]
-Max Level
+MAX LEVEL
 
 [PERK_NAME_APPLYCONDITION]
 {CONDITION} Zombies Perk
@@ -62427,10 +62421,10 @@ Current Points
 Currently Ranked {NUMBER}
 
 [RIFT_NOT_ENOUGH_FUEL_TITLE]
-Insufficient energy
+Not enough fuels
 
 [RIFT_NOT_ENOUGH_FUEL_TEXT]
-Insufficient energy to start the game
+Not enough fuels to start the level
 
 [ADD_PERK_LABEL]
 ADD PERK!
@@ -62546,22 +62540,22 @@ sun flies
 Reduce the sun gained 1 minute after the start of each game
 
 [THEME_DARK_NAME]
-thunder
+Dark Stormy Night
 
 [THEME_DARK_DESCRIPTION]
-Entering darkness at certain intervals
+Periodic darkness obscures your screen for a short moment.
 
 [THEME_BLIZZARD_NAME]
-Ice Festival
+Snow Festival
 
 [THEME_BLIZZARD_DESCRIPTION]
-Every once in a while a snowstorm blows on the field, causing a freezing effect on zombies and plants
+Periodic blizzards occur, turning zombies into snowmen and applying frost to plants.
 
 [THEME_GRAVESTONE_NAME]
 Death Tombstone
 
 [THEME_GRAVESTONE_DESCRIPTION]
-Tombstones are generated after the death of a zombie
+All zombies leave behind graves when they die
 
 [THEME_LIGHTING_NAME]
 Thunderstorm
@@ -62570,64 +62564,64 @@ Thunderstorm
 Produces X-type damage that adds more scope to the water
 
 [THEME_EXPLODER_NAME]
-Both sides lose
+Explosive Death
 
 [THEME_EXPLODER_DESCRIPTION]
-Explosion after death of all plants causing injury
+All plants explode after death.
 
 [THEME_AOE_NAME]
-Blasting
+Cheap Explosives
 
 [THEME_AOE_DESCRIPTION]
-Explosive plant damage doubled and sun cost  halved
+Explosive plants deal double damage, with half the sun cost.
 
 [THEME_FASTCD_NAME]
-Accelerated defence
+Faster Defense
 
 [THEME_FASTCD_DESCRIPTION]
-Half the cooling time for defensive plant cultivation
+All defensive plants recharge twice as fast.
 
 [THEME_MELEE_NAME]
-Melee Light
+Melee Power Up
 
 [THEME_MELEE_DESCRIPTION]
-Melee plant attack doubles
+All melee plants damage is doubled.
 
 [THEME_LEMON_NAME]
-Corrosive acid rain
+Acid Rain
 
 [THEME_LEMON_DESCRIPTION]
-Acid rain corrupts zombies and your plants!
+Acid Rain will fall, dealing damage to all plants and zombies.
 
 [THEME_SEED_RAIN_NAME]
-Seed rain
+It's Raining Seeds
 
 [THEME_SEED_RAIN_DESCRIPTION]
-Plants fall in the sky at intervals! ( Effective only at normal levels)
+Plant Seed Packets fall from the sky at regular intervals.
 
 [THEME_BALLOON_NAME]
-Balloons flying all over the sky
+Balloons Everywhere
 
 [THEME_BALLOON_DESCRIPTION]
-Balloons fall in the sky at intervals
+Balloons drop from the sky at regular intervals.
 
 [THEME_PIGGYBANK_NAME]
-Shredding peace
+Happy Dumpling
 
 [THEME_PIGGYBANK_DESCRIPTION]
-A piggy bank is generated after the zombie dies, which is smashed and the Coins are dropped
+Piggy banks spawn after zombies die. They come in either bronze, silver or gold, which changes how many coins they drop when destroyed.
 
 [THEME_PLANTSEED_NAME]
-Cutting the grass without eradicating it
+Plant Rebirth
 
 [THEME_PLANTSEED_DESCRIPTION]
-The plant dies and becomes a seed, and after a while grows into a new random plant
+When a plant dies, it turns into a seed. After some time, this seed turns into a new, random plant.
 
 [THEME_ENERGYFLY_NAME]
-Energy flies
+Temporal Interference
 
 [THEME_ENERGYFLY_DESCRIPTION]
-Each plant planted consumes 1 point of space-time energy
+Each time a plant is placed, the space-time energy is reduced by 1.
 
 [THEME_MINER_CHEATING_NAME]
 Crossfire
@@ -62729,10 +62723,10 @@ The cleaning robot clears away trash
 Back to Basics
 
 [THEME_DISABLE_BOOST_DESCRIPTION]
-Disables all external plant buffs - only base stats apply
+Disables all external plant bonuses - only base stats apply
 
 [THEME_DISABLE_BOOST_DESCRIPTION_DETAILS]
-Disables: 1. Genetic boosts 2. Accessory effects 3. Costume bonuses 4. Family Effect  5. Artifact passives
+Disables the following effects: 1. Genetic boosts 2. Pendant effects 3. Costume boosts 4. Family Effect  5. Artifact passives boosts.
 
 [THEME_WATERING_NAME]
 Watering Can
@@ -62951,13 +62945,13 @@ Advanced Blessing Ticket
 Used for normal artifact blessings
 
 [MAT_ARTIFACT_BLESS_NORMAL_GOT_WAY]
-Exchange for colored snail coins in the Memories Journey shop
+Obtained through the Memory Lane Shop using Rainbow Snail Coins
 
 [MAT_ARTIFACT_BLESS_ADVANCE_USE]
 Used for advanced artifact blessings
 
 [MAT_ARTIFACT_BLESS_ADVANCE_GOT_WAY]
-Obtained from purchasing artifact shop packages
+Obtained through the Artifact Shop's gift pack
 
 [MAT_AVATAR_TICKET]
 Costume Ticket
@@ -65013,22 +65007,22 @@ Your account has been banned. If you have any questions, please contact us.
 Customer service QQ official account: 4008932088
 
 [UI_BAG_TITLE]
-Items
+BACKPACK
 
 [UI_BAG_PLANT_PIECE]
-Plant
+PLANT
 
 [UI_BAG_AVATAR_PIECE]
-Costume
+COSTUME
 
 [UI_BAG_ACCESSORY_PIECE]
-Pendant
+PENDANT
 
 [UI_BAG_OTHER_ITEM]
-Other Items
+OTHER
 
 [UI_BAG_PLANT_LEVELUP]
-Upgrade
+UPGRADE
 
 [UI_BAG_TRANS_GENOSIS]
 Gene Modification
@@ -65052,25 +65046,25 @@ Quantity Held: ^FF0000 {NUMS} ^oldclrr
 ^FF0000 {NAME} ^oldclrr
 
 [UI_BAG_PIECE_TITLE]
-Piece: {DESC}
+Description: {DESC}
 
 [UI_BAG_PLANT_PIECE_DESC]
-Piece: Combine to form {DESC} plants
+Plant name: {DESC}
 
 [UI_BAG_AVATAR_PIECE_DESC]
-Piece
+Costume for: {DESC}
 
 [UI_BAG_ACCESSORY_PIECE_DESC]
-Piece: Combine to craft accessories {DESC}
+Accessory name: {DESC}
 
 [UI_BAG_MATERIAL_DESC]
-Material Function: {DESC}
+Description: {DESC}
 
 [UI_BAG_MATERIAL_OBJECT_DESC]
-Collection Function: {DESC}
+Feature: {DESC}
 
 [UI_BAG_MATERIAL_RARE]
-Rarity: 
+Rarity:
 
 [RARE1]
 Rare
@@ -65122,34 +65116,34 @@ Way to get: {DESC}
 Description
 
 [UI_BAG_PIECE_PLANT_TITLE2]
-Plant Pieces
+Plant pieces
 
 [UI_BAG_PIECE_AVATAR_TITLE]
-Avatar Features
+Costume effect
 
 [UI_BAG_PIECE_AVATAR_TITLE2]
-Avatar Pieces
+Costume pieces
 
 [UI_BAG_PIECE_ACCESSORY_TITLE]
-Accessory Features
+Pendant feature
 
 [UI_BAG_PIECE_ACCESSORY_TITLE2]
-Accessory Pieces
+Pendant pieces
 
 [UI_BAG_PIECE_ITEM_TITLE]
-Items
+Item
 
 [UI_BAG_OBJECT_ITEM_TITLE]
 Collections
 
 [UI_BAG_ACTIVITY_NOT_OPEN]
-Activity Not Open Yet!
+The event has not opened yet!
 
 [UI_BAG_ACTIVITY_NOT_OPEN_TITLE]
 System Prompt
 
 [UI_BAG_ITEM_COUNT]
-Quantity Owned: {NUMS}
+You have: {NUMS}
 
 [MAT_NUTRIENT_4_USE]
 Material for upgrading Level 4 plants to Level 5
@@ -65397,40 +65391,40 @@ Purchase Advanced Growth Pack
 [PRODUCT_GROWTHPACKAGE_30_SHORTDESC]
 Advanced Growth Pack
 
-[PRODUCT_BATTLE_level_6]
+[PRODUCT_BATTLE_ORDER_6]
 Purchase Experience Pack
 
-[PRODUCT_BATTLE_level_6_SHORTDESC]
+[PRODUCT_BATTLE_ORDER_6_SHORTDESC]
 Experience Pack
 
-[PRODUCT_BATTLE_level_8]
+[PRODUCT_BATTLE_ORDER_8]
 Purchase Basic Level Pack
 
-[PRODUCT_BATTLE_level_8_SHORTDESC]
+[PRODUCT_BATTLE_ORDER_8_SHORTDESC]
 Basic Level Pack
 
-[PRODUCT_BATTLE_level_18]
+[PRODUCT_BATTLE_ORDER_18]
 Purchase Intermediate Level Pack
 
-[PRODUCT_BATTLE_level_18_SHORTDESC]
+[PRODUCT_BATTLE_ORDER_18_SHORTDESC]
 Intermediate Level Pack
 
-[PRODUCT_BATTLE_level_45]
+[PRODUCT_BATTLE_ORDER_45]
 Purchase Advanced Level Pack
 
-[PRODUCT_BATTLE_level_45_SHORTDESC]
+[PRODUCT_BATTLE_ORDER_45_SHORTDESC]
 Advanced Level Pack
 
-[PRODUCT_BATTLE_level_78]
+[PRODUCT_BATTLE_ORDER_78]
 Purchase Super Level Pack
 
-[PRODUCT_BATTLE_level_78_SHORTDESC]
+[PRODUCT_BATTLE_ORDER_78_SHORTDESC]
 Super Level Pack
 
-[PRODUCT_BATTLE_level_68]
+[PRODUCT_BATTLE_ORDER_68]
 Activate Advanced Privileges
 
-[PRODUCT_BATTLE_level_68_SHORTDESC]
+[PRODUCT_BATTLE_ORDER_68_SHORTDESC]
 Advanced Privileges
 
 [GROWTH_PACKAGE_DESCRIPTION]
@@ -65687,10 +65681,10 @@ Would you like to refresh the shop for free? You can only refresh the shop once 
 Would you like to refresh the shop?
 
 [MODE_PREVIEW]
-Mechanics Preview
+Preview
 
 [MAIN_THEME]
-Theme of the Week
+Main Theme
 
 [MAIN_THEME_HARD]
 Main Theme
@@ -65702,10 +65696,10 @@ Challenge
 Challenge
 
 [PVZ1_MODE_START_LEVEL]
-Memories Journey - Day {NUM}
+Memory Lane - Level {NUM}
 
 [PVZ1_BOSS_LEVEL_MODE_DESC]
-Dr. Zomboss is attacking! Protect your brains!
+Dr. Zomboss is attacking! Protect your brain!
 
 [PVZ1_MODE_TIME_ENERGY_BANK_TIPS_TITLE]
 Tips
@@ -65719,25 +65713,25 @@ Item limit: 4, can be exceeded by purchasing with Gems.
 Reward Tips
 
 [PVZ1_MODE_START_LEVEL_TIPS_DESC]
-1. On normal difficulty, each level Get a large amount of snail coins, Gems, and coins the first time it is cleared each week.
-2. The more challenge goals selected when clearing a level, the more snail coins are earned.
-3. Unselected challenge goals can be completed in subsequent attempts to earn their rewards.
-4. The first time a hard level is cleared, it Get special colored snail coins, in addition to diamond and coin rewards (except for Zomboss levels).
+1. In normal mode, the first rewards of each level every week is snail medals, gems, and coins.
+2. The more level objectives selected, the more snail medal you will receive.
+3. Unselected level objectives can be attempted again.
+4. In the hard mode, you can also obtain special rainbow snail medal.
 
 [PVZ1_MODE_SELECT_LEVEL_CHALLENGE_CHOOSE_DESC]
-(The more objectives chosen, the higher the rewards)
+More level objectives, more rewards!
 
 [PVZ1_MODE_SELECT_LEVEL_THEME_NO_USE_DESC]
-Current level theme is not in effect.
+No Theme.
 
 [PVZ1MODE_SELECT_LEVEL_CHALLENGE_COMPLETE_DESC]
-^FF0000 {NAME}(Completed) ^oldclr 
+^FF0000 {NAME} (completed) ^oldclr
 
 [FIRST_REWARD_TITLE]
-First Clear
+First Win
 
 [PVZ1MODE_SHOP_TITLE]
-Memories Journey Shop
+Memory Lane Shop
 
 [LEVEL_EDITOR_SHOP_TITLE]
 DIY Level Shop
@@ -65831,7 +65825,7 @@ Season limited strong sour lemon
 Insufficient space-time stabilizer
 
 [PVZ1MODE_INFO_BANNED_LIST]
-List of banned plants
+Banned Plants
 
 [PVZ1MODE_HARDMODE_SELECT_PLANT_TIPS]
 In Hard Mode, you can only choose two pvz2 plants!  
@@ -65910,10 +65904,10 @@ Protect turkeys
 Protecting glutinous rice balls
 
 [PVZ1MODE_ZOMBIETENT]
-Zombie Tent
+Zombie Tents
 
 [PVZ1MODE_FESTIVALTENT]
-New Year Tent
+New Year Tents
 
 [PVZ1MODE_SUMMERFIREWORKS]
 Summer Fireworks
@@ -66036,10 +66030,10 @@ The ice storm quickly entered the scene with zombies, freezing the plants along 
 Ice storms carry zombies into the field quickly, freeze plants along the way, and bounce back!
 
 [PVZ1MODE_BRICK_NORMAL_DESC]
-Zombie tiles are capable of providing speed gain to zombies
+Several Zomboss tiles are spawned at the start of the level,  boost zombies that walk over them.
 
 [PVZ1MODE_BRICK_HARD_DESC]
-Zombie tiles are able to provide shields, speed, and attack gain for zombies
+Several Zomboss tiles are spawned at the start of the level,  boost zombies that walk over them.
 
 [PVZ1MODE_POTION_NORMAL_DESC]
 Red potions and green potions will appear on the field
@@ -66066,10 +66060,10 @@ Beautiful bubbles float in the sky that make it unbearable to blow away (shamroc
 Beautiful bubbles float in the sky that will take your plants away quickly
 
 [PVZ1MODE_ZOMBIETENT_NORMAL_DESC]
-Zombie tents will produce a steady stream of new zombies, destroying them as quickly as possible!
+Zombie tents continuously spawn new zombies. Destroy them as soon as possible!
 
 [PVZ1MODE_FESTIVALTENT_NORMAL_DESC]
-New Year's tents will produce a steady stream of New Year's zombies, destroying them as quickly as possible!
+New Year tents continuously spawn New Year zombies. Destroy them as soon as possible!
 
 [PVZ1MODE_SUMMERFIREWORKS_NORMAL_DESC]
 Let's watch the fireworks together!
@@ -66132,28 +66126,28 @@ Magic mirrors appear on the field, teleporting zombies and bullets between the m
 Magic mirrors appear on the field, teleporting zombies and bullets between the mirrors
 
 [PVZ1MODE_BOWLING]
-Nut bowling
+Wall-nut Bowling
 
 [PVZ1MODE_BOWLING_NORMAL_DESC]
-Throw all kinds of nuts to destroy the zombies to win
+Throw all kinds of Wall-nuts to defeat the zombies!
 
 [PVZ1MODE_SEEINGSTARS]
-See Stars
+Seeing Stars
 
 [PVZ1MODE_SEEINGSTARS_NORMAL_DESC]
-Win by planting the same plant according to the cue
+Fill in all the outlined spaces with the target plant!
 
 [PVZ1MODE_OVERWHELM]
-overwhelming
+Column Like You See 'Em
 
 [PVZ1MODE_OVERWHELM_DESC]
-Well, you see them like pillars
+Survive the zombie attack by planting whole columns of plants at once.
 
 [PVZ1MODE_TOUCHING]
-Whack-a-mole
+Whack a Zombie
 
 [PVZ1MODE_TOUCHING_NORMAL_DESC]
-Crazyclick
+Use a mallet to whack zombies
 
 [PVZ1MODE_COPYCATS]
 Guess who I am.
@@ -71082,7 +71076,7 @@ The storage limit of the spatio-temporal key is 7.
  
 
 [TIMESPACE_UNCHARTED_MODE_HARD_LOCKED_CLICKED_HINT]
-Finish all normal level first !
+Finish all normal level first!
 
 [CARD_GAME_HARD_LOCKED_CLICKED_HINT]
 Unlock the practical mode after all the levels in the teaching mode are cleared
@@ -71196,28 +71190,28 @@ Go to Creation Platform
 Details of the courtyard points can be found on the Creation Platform, where you can use the courtyard points to redeem rich prizes including physical rewards.
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_GUESS_LIKE]
-for You
+FOR YOU
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MOST_PLAY]
-Most Played
+MOST PLAYED
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MOST_LIKE]
-Most Liked
+TOP RATED
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_NEWEST]
-Latest
+LASTEST
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_FILTER]
-Filtering conditions
+Filtering
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_FILTER_BTN]
-Screening
+Filter
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MY_FAVOR]
-Liked
+FAVOURITED LEVEL
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_SEARCH]
-Search
+SEARCH
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_LIKE_DESC]
 {NUMS} million
@@ -71232,7 +71226,7 @@ Refresh Cooling
 Ranks
 
 [CUSTOM_LEVEL_SEARCH_DEFAULT_DESC]
-Enter level id
+Level ID
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_LIKE_NUM]
 {NUMS} million
@@ -71241,49 +71235,49 @@ Enter level id
 Level Details
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_COPY_TITLE]
-Replicable
+Can be copied
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DISABLE_COPY_TITLE]
-Non-copying
+Can't be copied
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_FAVOR]
-Collections
+Favorite
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_UNDO_FAVOR]
-Uncollect
+Unfavourite
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_DOWNLOAD]
-Download
+DOWNLOAD
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_HAS_DOWNLOADED]
-Downloaded
+DOWNLOADED
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_UPLOAD]
-Published
+PUBLISH
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_HAS_UPLOAD]
-Published
+PUBLISHED
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_DELETE]
 Delete
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_MODIFY]
-Modifications
+MODIFY
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_SHARE]
-Share
+SHARE
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SAVE_GALLERY_TITLE]
-Save to Local
+Save To Gallery
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SAVE_GALLERY_SUCCESS]
-Save to local success
+Save photo successful.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SAVE_GALLERY_FAILED]
-Save to local failed
+Unable to save to your photo.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SHARE_TITLE]
-Share
+SHARE
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SHARE_SUCCESS]
 Share Success
@@ -71298,10 +71292,10 @@ Share Cancellation
 Save to Local
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_RETURN]
-Return
+BACK
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_CHALLENGE]
-Challenges
+PLAY
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_COPYCHANGE]
 Allow other players to download levels
@@ -71310,22 +71304,22 @@ Allow other players to download levels
 Author Best Records: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_HAS_FAVOR]
-Collected {NUMS}/100
+Favourited {NUMS}/100
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_CREATE_CAPABILITY]
-Creation space {NUMS}/100
+Creative space {NUMS}/100
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_MODIFY_NAME_TITLE]
-Modify the level name
+Edit level name
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_WORLD]
 World: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_EVALUATION]
-Evaluation level :
+Rating:
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_PLAY_STYLE]
-How to play: ^356D14 {NAME} ^oldclr
+Type: ^356D14 {NAME} ^oldclr
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_NAME]
 Level name: {NAME}
@@ -71337,16 +71331,16 @@ Level ID: {NAME}
 Copied ID
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_UPLOAD_DATE]
-Upload date: {NAME}
+Published in: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_UPDATE_DATE]
-Update date: {NAME}
+Updated in: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_AUTHOR]
 Author : 
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_HAS_UPLOAD]
-Published
+PUBLISHED
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_SUCCESS_TITLE]
 Systematic
@@ -71356,23 +71350,22 @@ Published successfully
 Level ID: {NUMS}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_NOT_FINISH_LEVEL_DESC]
-Please complete the level challenge first
+Please beat the level before publishing
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_LEVELNAME_TOO_LONG_DESC]
-Level name length is abnormal
+The level name is too long
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DELETE_HINT]
-Deleting a level will clear all data and play records for that level,
-And cannot be restored, please operate with caution
+Deleting the level will clear all data and play records of the level. This can't be undone.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_VERSION_INCOMPATIBLE_HINT]
-The current version is too low, go up to upgrade the game to experience the latest content.
+Please Update the game to lastest version.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DOWNLOAD_SUCCESS_HINT]
-Level download was successful!
+Download complete!
 
 [CUSTOM_LEVEL_DEFAULT_TIPS]
-Operation successful
+successful
 
 [REPORT]
 Reporting
@@ -71384,13 +71377,13 @@ Collect Levels
 Collectable
 
 [CUSTOM_LEVEL_REPORT_TIPS]
-Reporting Tips
+Report
 
 [CUSTOM_LEVEL_REPORTED]
 Reported
 
 [CUSTOM_LEVEL_REPORT_SURE]
-Sure to report the level?
+Are you sure you want to report this level?
 
 [CUSTOM_LEVEL_REPORT_SURE]
 Are you sure you want to report this level?
@@ -71487,83 +71480,82 @@ Select How to play
 Select Mode
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_0]
-Optionally
+Choice
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_1]
-Conveyor belt
+Conveyor-belt
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_2]
-Indestructible
+Last Stand
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_3]
-Indestructible
+Last Stand
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_0]
-Optionally
+Choice
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_1]
-Conveyor belt
+Conveyor-belt
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_2]
-Indestructible
+Last Stand
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_3]
-Zombie Fans
+Statue-shuffling
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_4]
-Dr. Madness
+Zomboss Test Lab
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_5]
-Theatrefreak
+Fright Theater
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_6]
-Single-handedly
+All by Oneself
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_7]
-Smashing jars
+Vasebreaker
 
 [LEVEL_EDITOR_TOWER_DEFEND_BOARDGRID_SETTING_TITLE]
-Ground Selection
+Set path
 
 [LEVEL_EDITOR_TOWER_DEFEND_SLIDER_TITLE]
-Evolution sun Cost
+Requires sun to upgrade:
 
 [CUSTOM_LEVEL_TOWER_DEFEND_LEVELUP_TITLE]
-Evolution Target Plant
+Upgrade to
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_ZOMBIE_EDITOR_TITLE]
-Zombie Editor
+Zombie editor
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_PLANT_EDITOR_TITLE]
-Plant Editor
+Plant editor
 
 [LEVEL_EDITOR_SINGLE_HANDED_SLIDER_TITLE]
-Evolution Zombie Kill Count 
+Set zombies number need to defeat to upgrade:
 
 [CUSTOM_LEVEL_SINGLE_HANDED_LEVELUP_TITLE]
-Evolution Target Plant
+Next plant
 
 [CUSTOM_LEVEL_VASE_BREAKER_BOTTLE_NUM]
-The number of plants and zombies currently configured is: {NUMS}/{MAX}
+The number of plants and zombies currently configured: {NUMS}/{MAX}
 
 [CUSTOM_LEVEL_VASE_BREAKER_SELECT_FIRST_HINT_TITLE]
-Please set it first
-Number of jars
+Set vase
 
 [CUSTOM_LEVEL_VASE_BREAKER_AUTO_SET_TITLE]
 The currently configured number of plants or zombies does not meet the requirements, and the automatic configuration splits the excess or missing number equally among each target.
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_BUTTON]
-Jar quantity setting
+Set vase numbers
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_HINT]
-The number of jars can only be a multiple of 5
+The number of vases can only be a multiple of 5
 
 [CUSTOM_LEVEL_VASE_BREAKER_SELECT_PLANT_OR_ZOMBIE]
-Please select a plant or a zombie
+Plants or zombies?
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER]
-Set quantity
+Number in vase:
 
 [CUSTOM_LEVEL_VASE_BREAKER_PLANT_TITLE]
 Plant
@@ -71593,49 +71585,46 @@ Mostly Negative
 Bad Reviews
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND]
-"Recommended For You" Settings
+"FOR YOU" Settings
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DESCRIPTION]
 This page configures the "Recommended For You" feature on the homepage. Disabling it will prevent you from discovering new and interesting levels.
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DISABLE]
-Disable "Recommended For You" Feature
+Disable "FOR YOU" Feature
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_ENABLE]
-Enable "Recommended For You" Feature
+Enable "FOR YOU" Feature
 
 [CUSTOM_LEVEL_SETTING_PHONE]
-Associated cell phone number
+Phone number linking
 
 [CUSTOM_LEVEL_SETTING_PHONE_DESCRIPTION]
-After associating the mobile phone number, you can log in to the creator platform and apply to activate the creative incentive function. For the first time, you can get a lot of diamond rewards by successfully associating your mobile phone number!
+After linking the phone number, you can log in to the creative platform and apply for the creation function. If you successfully linked your mobile phone number for the first time, you will get some gems!
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT1]
-The mobile phone number is not currently associated, and rewards are available after association
+At the moment, the phone number is not linked, and you can get a reward after linking.
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT2]
-Associated mobile phone number ({NUMBER1}), {NUMBER2} can be re-associated after day
+The associated phone number ({NUMBER1}) can be re-linked in {NUMBER2} days.
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT3]
-Associated mobile phone number ({NUMBER1}), currently re-associable
-
-[GOTO_LINK]
-Immediate association
-
-[PHONE_LINKED]
-Associated
+The phone number ({NUMBER1}) has already been associated, and can be re-associated at this time.
 
 [GOTO_RELINK]
-Reconnect
+Relink
+
+[PHONE_LINKED]
+Linked
 
 [CUSTOM_LEVEL_SETTING_LINKED]
-(associated)
+(Linked)
 
 [CUSTOM_LEVEL_SETTING_NOT_LINKED]
-(unrelated)
+(Not linked)
 
 [PHONE_NUMBER]
-Cell Phone Number
+Phone numberr
 
 [VERIFICATION_CODE]
 CAPTCHA
@@ -75683,7 +75672,7 @@ All({NUMBER1}/{NUMBER2})
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
 Are you sure you want to switch to the old UI?
-^FF0000 that very laggy and can make crash your game !
+^FF0000 that very laggy and can make crash your game!
 
 [NEW_PLANT_UI_SWITCH_TO_NEW]
 Are you sure you want to switch to the new interface?
@@ -79017,7 +79006,7 @@ According to the Little Stalemate Hall of Fame:
     You have collected a total of ^FF0000 {COUNT} ^oldclr plants in ten years!
 
 [TENYEAR_RECORD_INDEX2_3]
-Have plant dressing ^FF0000 {COUNT} ^oldclr !
+Have plant dressing ^FF0000 {COUNT} ^oldclr!
 
 [TENYEAR_RECORD_INDEX2_4]
         Unlock ^FF0000 {COUNT} ^oldclr A family of plants!
@@ -80832,239 +80821,239 @@ Halloween Thrills - Level {LEVEL_NUMBER}
 [PLAYERS_TRIP_TO_SNOWNIGHT]
 {PLAYER}'s Trip to Halloween Jingle Bell
 
-[MAT_BATTLE_level_BLUE_ACCE0]
+[MAT_BATTLE_ORDER_BLUE_ACCE0]
 5 Blue Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_BLUE_ACCE0_USE]
+[MAT_BATTLE_ORDER_BLUE_ACCE0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_BLUE_ACCE0_GOT_WAY]
+[MAT_BATTLE_ORDER_BLUE_ACCE0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_BLUE_ACCE1]
+[MAT_BATTLE_ORDER_BLUE_ACCE1]
 15 Blue Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_BLUE_ACCE1_USE]
+[MAT_BATTLE_ORDER_BLUE_ACCE1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_BLUE_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_BLUE_ACCE1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_PURPLE_ACCE0]
+[MAT_BATTLE_ORDER_PURPLE_ACCE0]
 5 Purple Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_PURPLE_ACCE0_USE]
+[MAT_BATTLE_ORDER_PURPLE_ACCE0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_PURPLE_ACCE0_GOT_WAY]
+[MAT_BATTLE_ORDER_PURPLE_ACCE0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_PURPLE_ACCE1]
+[MAT_BATTLE_ORDER_PURPLE_ACCE1]
 15 Purple Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_PURPLE_ACCE1_USE]
+[MAT_BATTLE_ORDER_PURPLE_ACCE1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_PURPLE_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_PURPLE_ACCE1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_ORANGE_ACCE0]
+[MAT_BATTLE_ORDER_ORANGE_ACCE0]
 5 Orange Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_ORANGE_ACCE0_USE]
+[MAT_BATTLE_ORDER_ORANGE_ACCE0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_ORANGE_ACCE0_GOT_WAY]
+[MAT_BATTLE_ORDER_ORANGE_ACCE0_GOT_WAY]
 Available through various camp activities
 
 
-[MAT_BATTLE_level_ORANGE_ACCE1]
+[MAT_BATTLE_ORDER_ORANGE_ACCE1]
 15 Orange Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_ORANGE_ACCE1_USE]
+[MAT_BATTLE_ORDER_ORANGE_ACCE1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_ORANGE_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_ORANGE_ACCE1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_POT_ACCE0]
+[MAT_BATTLE_ORDER_POT_ACCE0]
 5 Flower Pot Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_POT_ACCE0_USE]
+[MAT_BATTLE_ORDER_POT_ACCE0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_POT_ACCE0_GOT_WAY]
+[MAT_BATTLE_ORDER_POT_ACCE0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_POT_ACCE1]
+[MAT_BATTLE_ORDER_POT_ACCE1]
 15 Flower Pot Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_POT_ACCE1_USE]
+[MAT_BATTLE_ORDER_POT_ACCE1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_POT_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_POT_ACCE1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_SUPER_ACCE0]
+[MAT_BATTLE_ORDER_SUPER_ACCE0]
 5 Super Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_SUPER_ACCE0_USE]
+[MAT_BATTLE_ORDER_SUPER_ACCE0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_SUPER_ACCE0_GOT_WAY]
+[MAT_BATTLE_ORDER_SUPER_ACCE0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_SUPER_ACCE1]
+[MAT_BATTLE_ORDER_SUPER_ACCE1]
 15 Super Pendant Fragments (Selectable)
 
-[MAT_BATTLE_level_SUPER_ACCE1_USE]
+[MAT_BATTLE_ORDER_SUPER_ACCE1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_SUPER_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_SUPER_ACCE1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_GREEN_PLANT0]
+[MAT_BATTLE_ORDER_GREEN_PLANT0]
 2 Green Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_GREEN_PLANT0_USE]
+[MAT_BATTLE_ORDER_GREEN_PLANT0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_GREEN_PLANT0_GOT_WAY]
+[MAT_BATTLE_ORDER_GREEN_PLANT0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_GREEN_PLANT1]
+[MAT_BATTLE_ORDER_GREEN_PLANT1]
 6 Green Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_GREEN_PLANT1_USE]
+[MAT_BATTLE_ORDER_GREEN_PLANT1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_GREEN_PLANT1_GOT_WAY]
+[MAT_BATTLE_ORDER_GREEN_PLANT1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_GREEN_PLANT2]
+[MAT_BATTLE_ORDER_GREEN_PLANT2]
 3 Green Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_GREEN_PLANT2_USE]
+[MAT_BATTLE_ORDER_GREEN_PLANT2_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_GREEN_PLANT2_GOT_WAY]
+[MAT_BATTLE_ORDER_GREEN_PLANT2_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_GREEN_PLANT3]
+[MAT_BATTLE_ORDER_GREEN_PLANT3]
 9 Green Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_GREEN_PLANT3_USE]
+[MAT_BATTLE_ORDER_GREEN_PLANT3_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_GREEN_PLANT3_GOT_WAY]
+[MAT_BATTLE_ORDER_GREEN_PLANT3_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_BLUE_PLANT0]
+[MAT_BATTLE_ORDER_BLUE_PLANT0]
 2 Blue Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_BLUE_PLANT0_USE]
+[MAT_BATTLE_ORDER_BLUE_PLANT0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_BLUE_PLANT0_GOT_WAY]
+[MAT_BATTLE_ORDER_BLUE_PLANT0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_BLUE_PLANT1]
+[MAT_BATTLE_ORDER_BLUE_PLANT1]
 6 Blue Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_BLUE_PLANT1_USE]
+[MAT_BATTLE_ORDER_BLUE_PLANT1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_BLUE_PLANT1_GOT_WAY]
+[MAT_BATTLE_ORDER_BLUE_PLANT1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_BLUE_PLANT2]
+[MAT_BATTLE_ORDER_BLUE_PLANT2]
 3 Blue Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_BLUE_PLANT2_USE]
+[MAT_BATTLE_ORDER_BLUE_PLANT2_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_BLUE_PLANT2_GOT_WAY]
+[MAT_BATTLE_ORDER_BLUE_PLANT2_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_BLUE_PLANT3]
+[MAT_BATTLE_ORDER_BLUE_PLANT3]
 9 Blue Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_BLUE_PLANT3_USE]
+[MAT_BATTLE_ORDER_BLUE_PLANT3_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_BLUE_PLANT3_GOT_WAY]
+[MAT_BATTLE_ORDER_BLUE_PLANT3_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_PURPLE_PLANT0]
+[MAT_BATTLE_ORDER_PURPLE_PLANT0]
 2 Purple Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_PURPLE_PLANT0_USE]
+[MAT_BATTLE_ORDER_PURPLE_PLANT0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_PURPLE_PLANT0_GOT_WAY]
+[MAT_BATTLE_ORDER_PURPLE_PLANT0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_PURPLE_PLANT1]
+[MAT_BATTLE_ORDER_PURPLE_PLANT1]
 6 Purple Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_PURPLE_PLANT1_USE]
+[MAT_BATTLE_ORDER_PURPLE_PLANT1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_PURPLE_PLANT1_GOT_WAY]
+[MAT_BATTLE_ORDER_PURPLE_PLANT1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_PURPLE_PLANT2]
+[MAT_BATTLE_ORDER_PURPLE_PLANT2]
 3 Purple Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_PURPLE_PLANT2_USE]
+[MAT_BATTLE_ORDER_PURPLE_PLANT2_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_PURPLE_PLANT2_GOT_WAY]
+[MAT_BATTLE_ORDER_PURPLE_PLANT2_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_PURPLE_PLANT3]
+[MAT_BATTLE_ORDER_PURPLE_PLANT3]
 9 Purple Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_PURPLE_PLANT3_USE]
+[MAT_BATTLE_ORDER_PURPLE_PLANT3_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_PURPLE_PLANT3_GOT_WAY]
+[MAT_BATTLE_ORDER_PURPLE_PLANT3_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_ORANGE_PLANT0]
+[MAT_BATTLE_ORDER_ORANGE_PLANT0]
 1 Orange Plant Fragment (Selectable)
 
-[MAT_BATTLE_level_ORANGE_PLANT0_USE]
+[MAT_BATTLE_ORDER_ORANGE_PLANT0_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_ORANGE_PLANT0_GOT_WAY]
+[MAT_BATTLE_ORDER_ORANGE_PLANT0_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_ORANGE_PLANT1]
+[MAT_BATTLE_ORDER_ORANGE_PLANT1]
 3 Orange Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_ORANGE_PLANT1_USE]
+[MAT_BATTLE_ORDER_ORANGE_PLANT1_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_ORANGE_PLANT1_GOT_WAY]
+[MAT_BATTLE_ORDER_ORANGE_PLANT1_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_ORANGE_PLANT2]
+[MAT_BATTLE_ORDER_ORANGE_PLANT2]
 1 Main Position Plant Fragment (Selectable)
 
-[MAT_BATTLE_level_ORANGE_PLANT2_USE]
+[MAT_BATTLE_ORDER_ORANGE_PLANT2_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_ORANGE_PLANT2_GOT_WAY]
+[MAT_BATTLE_ORDER_ORANGE_PLANT2_GOT_WAY]
 Available through various camp activities
 
-[MAT_BATTLE_level_ORANGE_PLANT3]
+[MAT_BATTLE_ORDER_ORANGE_PLANT3]
 3 Main Position Plant Fragments (Selectable)
 
-[MAT_BATTLE_level_ORANGE_PLANT3_USE]
+[MAT_BATTLE_ORDER_ORANGE_PLANT3_USE]
 Use to select and obtain rewards
 
-[MAT_BATTLE_level_ORANGE_PLANT3_GOT_WAY]
+[MAT_BATTLE_ORDER_ORANGE_PLANT3_GOT_WAY]
 Available through various camp activities
 
 [DIALOG_TRAININGMODULE_HEADER]
@@ -81442,7 +81431,7 @@ Feature Description
 Christmas
 
 [AVATARCOLLECTIONS_THEME_DES0]
-Even zombies deserve holiday cheer... or coal !
+Even zombies deserve holida
 
 [AVATARCOLLECTIONS_THEME_TITLE1]
 New year
@@ -81460,19 +81449,19 @@ Somewhere, a Peashooter still dreams of victory
 Halloween
 
 [AVATARCOLLECTIONS_THEME_DES3]
-Zombies love halloween... too bad they can't taste candy !
+Zombies love halloween... too bad they can't taste candy!
 
 [AVATARCOLLECTIONS_THEME_TITLE4]
 High tech
 
 [AVATARCOLLECTIONS_THEME_DES4]
-Primal plants are jealous of them
+Primal plants are jealous!
 
 [AVATARCOLLECTIONS_THEME_TITLE5]
 Gentleman's
 
 [AVATARCOLLECTIONS_THEME_DES5]
-"A gentle peashooter say "Я хочу сделать солнце"
+A gentle peashooter say "Я хочу сделать солнце"
 
 [AVATARCOLLECTIONS_THEME_TITLE6]
 Childhood fun party
@@ -81733,13 +81722,13 @@ Spend ^FF0000 {NUMS} ^oldclr tickets to complete mission?
 [BATTLE_ORDER_BUTTON_NOT_ENOUGH_DESC]
 Not enough Battle Tickets
 
-[MAT_BATTLE_level_TICKET]
+[MAT_BATTLE_ORDER_TICKET]
 Battle Ticket
 
-[MAT_BATTLE_level_TICKET_USE]
+[MAT_BATTLE_ORDER_TICKET_USE]
 Used to complete Battle missions (Penny's Pursuit Guide, Dave's Mysterious Chest, Camp Event, Duo Battle)
 
-[MAT_BATTLE_level_TICKET_GOT_WAY]
+[MAT_BATTLE_ORDER_TICKET_GOT_WAY]
 Obtained from Jingle Bell Event, Monthly Check-ins, and Surveys
 
 [ADVERTISEMENT_HEAD_ID_25696]
@@ -82278,7 +82267,6 @@ Chroma Plant Fragment Pack
 Chroma Costume Fragment Pack
 
 [LUAAAAAAAAA]
-
 
 [DAVE_SHOP_TITLE]
 Penny's Shop
