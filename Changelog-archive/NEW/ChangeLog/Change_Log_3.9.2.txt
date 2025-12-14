@@ -1,7 +1,0 @@
-======3.9.2_1======
-- Major text improvement
-
-======3.9.2_2======
-- Major text improvement
-- Fixed Zombie PvP
-- Fixed a lot of quest text
