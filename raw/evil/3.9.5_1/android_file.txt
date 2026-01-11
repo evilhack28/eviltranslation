@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (3.9.2 server 0)
-Version          ： 3.9.2_2 version 1
+File Version     ： Text-based (3.9.5 server 2)
+Version          ： 3.9.5_1 version 1
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -46,21 +46,8 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======3.9.2_1======
-- Major text improvement
-
-[AGE_TIP_CONTENT]
-======3.9.2_2======
-- Major text improvement
-- Fixed Zombie PvP
-- Fixed a lot of quest text
-
-[AGE_TIP_CONTENT]
-======3.9.2_3======
-- Fixed Missing text for zombie and Artifact
-- Fixed Wrogn text for PLAYER_TRIP_TO_XXX with level name in same time
-- Fixed Fairy Forest text
-- Fixed Quest Text Again
+======3.9.5_1======
+- Update text to the 3.9.5
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr     Creator of the mod and translation
@@ -69,68 +56,68 @@ ChangeLog
 
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_1]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_2]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_3]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_4]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_5]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_6]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Jan 09 (3.9.5_1)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 
@@ -34223,13 +34210,13 @@ Confirm Draw
 Confirm Exchange
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {PRICE} Gems to exchange for 1 tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for 1 tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {PRICE} Gems to exchange for 10 tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for 10 tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {PRICE} Gems to exchange for {NUM} tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for {NUM} tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
 Are you sure you want to spend {PRICE} Penny Lottery's tickets to open?
@@ -51538,7 +51525,7 @@ Pea shooter avatar, a symbol of handsome guys!
 Sunflower avatar, symbol of beauty!
 
 [PLAYERS_TRIP_TO_BOSSRACEEVENT]
-{PLAYER}'s extreme racing journey
+{PLAYER}'s Boss Rush
 
 [THIS_ACHIEVEMENT]
 This grade：
@@ -55124,7 +55111,7 @@ Refresh countdown.
 Refresh Countdown
 
 [SHOP_REFRESH_COUNTDOWN_LABEL]
-Store Reset Countdown
+Refresh in
 
 [SECRET_MIDDLE_STR]
 Available
@@ -55999,13 +55986,13 @@ GROUP PREVIEW
 BUY
 
 [GROUP_BUY_BEEN]
-Has participated in group purchase 
+BOUGHT
 
 [GROUP_BUY_SUCCESS]
 Successful grouping
 
 [GROUP_BUY_NOTICE_DES]
-Here are the items that can be discounted tomorrow：
+Discounted products available tomorrow:
 
 [GROUP_BUY_NOTICE_END]
 That the ^FFFF00 last day ^oldclr quickly buy your favorite plant before the end!!!
@@ -56044,7 +56031,7 @@ Exchange Quantity
 10%
 
 [GROUP_BUY_RETURN]
-Group purchase back diamond
+Congratulations!
 
 [ACTIVITY_GROUP_BUY_TITLE]
 Group buying instructions
@@ -81346,7 +81333,7 @@ Sky War
 Enhancement Energy
 
 [GINGLEBELL_TITLE]
-Halloween Jingle Bell
+Chri Jingle Bell
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -81399,10 +81386,10 @@ Dmg/s： {NUMBER}
 Total： {NUMBER}
 
 [PVZ2TRAINING_DAMAGE1]
-This Round Damage： {NUMBER}
+Current Score：{NUMBER}
 
 [PVZ2TRAINING_DAMAGE2]
-Best Damage： {NUMBER}
+Best Score：{NUMBER}
 
 [STARCHALLENGE_TRAINING]
 Deal as much damage as possible in 30 seconds
@@ -82978,7 +82965,7 @@ Available：
 Buy
 
 [DAVE_SHOP_ITEM_UNIT]
-Pieces
+Pcs
 
 [EXTRA_MSG_ERROR_DESC_UNKNOWN]
 Game data abnormal, please try again.
