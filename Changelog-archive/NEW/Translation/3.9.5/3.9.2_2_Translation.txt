@@ -1,4 +1,4 @@
-﻿This translation was created by Evilhack28. I am are not affiliated with the game or its developers in any way.
+This translation was created by Evilhack28. I am are not affiliated with the game or its developers in any way.
 
 This is completely free. You will never be asked to pay me personally or to subscribe to anything in level to access it.
 If you paid for this translation, you were scammed.
@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (3.9.2 server 0)
-Version          ： 3.9.2_2 version 1
+File Version     ： Text-based (3.9.5 server 5)
+Version          ： 3.9.5_2
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -33,8 +33,6 @@ Link             ： https：//linktr.ee/evilhack28
 
 SECTION_INFO
 
-[Plants_Start]
-[Plants_End]
 [Zombies_Start]
 [Zombies_End]
 
@@ -46,21 +44,12 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======3.9.2_1======
-- Major text improvement
+======3.9.5_1======
+- Update text to the 3.9.5
 
-[AGE_TIP_CONTENT]
-======3.9.2_2======
-- Major text improvement
-- Fixed Zombie PvP
-- Fixed a lot of quest text
-
-[AGE_TIP_CONTENT]
-======3.9.2_3======
-- Fixed Missing text for zombie and Artifact
-- Fixed Wrogn text for PLAYER_TRIP_TO_XXX with level name in same time
-- Fixed Fairy Forest text
-- Fixed Quest Text Again
+======3.9.5_2======
+- Fixed ALL missign text 
+- Fixed Artifact text
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr     Creator of the mod and translation
@@ -69,69 +58,170 @@ ChangeLog
 
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_3_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_1]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_2]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_3]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_4]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_5]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_6]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Dec 14 (3.9.2_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
 ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_4]
+苹果迫击炮超级装扮
+
+[NEW_AVATAR_DESCRIPTION_APPLEMORTAR_4]
+攻击速度增加30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_COBCANNON_2]
+玉米加农炮怀旧装扮
+
+[NEW_AVATAR_DESCRIPTION_COBCANNON_2]
+休息时间降低10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_3]
+电击钩吻风车装扮
+
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_3]
+闪电伤害增加20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_4]
+风车-璀璨装扮
+
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_4]
+无
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_2]
+守卫菇圣诞树装扮
+
+[NEW_AVATAR_DESCRIPTION_GUARDSHROOM_2]
+生命值增加30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_5]
+火龙草海盗帽装扮
+
+[NEW_AVATAR_DESCRIPTION_SNAPDRAGON_5]
+阳光消耗降低25点
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_2]
+大喷菇麋鹿装扮
+
+[NEW_AVATAR_DESCRIPTION_FUMESHROOM_2]
+攻击力增加10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUMPKINWITCH_2]
+南瓜巫师姜饼人装扮
+
+[NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_2]
+休息时间减少1秒
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BOWLINGBULB_1]
+保龄泡泡红鼻子装扮
+
+[NEW_AVATAR_DESCRIPTION_BOWLINGBULB_1]
+攻击力增加10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ICEWEED_2]
+寒冰地刺围巾装扮
+
+[NEW_AVATAR_DESCRIPTION_ICEWEED_2]
+种植冷却减少20%
 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AEONIUM_1]
@@ -306,48 +396,55 @@ Attack power increased by 20%
 Plant Food damage increased by {Param_1}%
 
 [GENE_DESCRIPTION_CONVALLARIACHEMIST]
-芦藜药师的毒素叠至满层后，每次附加毒素可以造成{Param_1}%百分比的毒爆伤害
+After toxin stacks reach maximum, each subsequent toxin application deals {Param_1}% percentage-based toxic burst damage.
 
 [GENE_DESCRIPTION_SHADOWSHROOM]
-毒影菇使僵尸中毒时每秒有{Param_1}%的几率使僵尸眩晕0.5s
-
-[GENE_DESCRIPTION_MEGAGATLING]
-5阶超级豌豆射手有{Param_1}%概率直接赋予一种属性，属性包括冰、火、闪电、毒、原始、三重
-超级机枪射手赋予的属性会根据玩家上阵的属性豌豆来决定，例如：
-携带原始豌豆，那么触发时100%赋予原始属性，携带原始豌豆和电能豌豆时，各自1/2的概率
+While poisoned, has a {Param_1}% chance per second to inflict a 0.5s stun on zombies.
 
 [GENE_DESCRIPTION_GRAPESHOT]
-有{Param_1}%的概率使每个小葡萄的弹射次数增加一次
+Has a {Param_1}% chance to increase the number of bounces for each mini-grape.
 
 [GENE_DESCRIPTION_THUNDERSNAPDRAGON]
-雷龙草的雷龙幻影有{Param_1}%会折返飞行，对本行僵尸造成同等伤害和麻痹。（5阶后生效）
+Thunder Dragon Phantom from Level 5 has {Param_1}% chance to come back, dealing equal damage and paralyzing zombies in the lane.
 
 [GENE_DESCRIPTION_ELEOCURLING]
-荸荠兄弟大招发射的大冰壶在冰道上会加速，攻击力提升{Param_1}%。
+Giant water chestnut from Plant Food effect will accelerate along the ice trail, its damage is also increased by {Param_1}%.
 
 [GENE_DESCRIPTION_GLUTTONYDRAGON]
-贪吃龙草的大招会有{Param_1}%的概率额外再多吸引一个僵尸。
+Plant food effect has {Param_1}% chance to attract an additional zombie.
 
 [GENE_DESCRIPTION_PRIMALWALLNUT]
-原始坚果墙的幼年原始坚果在{Param_1}秒后会成长为原始坚果墙。
+Young Nut will grow into Primal Wall-nut after {Param_1} seconds.
 
 [GENE_DESCRIPTION_COCONUTCANNON]
-椰子加农炮降低阳光消耗{Param_1}点。
+Reduces its sun cost by {Param_1}.
 
 [GENE_DESCRIPTION_HYPNOSHROOM]
-魅惑菇种植冷却时间缩短{Param_1}%
+Reduces its cooldown by {Param_1}%
 
 [GENE_DESCRIPTION_FLAMELADY]
-5阶抛射火球时有{Param_1}%的概率额外再抛射3个火球，并且造成的所有伤害提高{Param_2}%。
+At Level 5, has {Param_1}% chance to launch 3 extra turquoise fireballs and increases fire damage by {Param_2}%. When equipped with this gene, her ground-flame attack is also upgraded to turquoise fire.
 
 [GENE_DESCRIPTION_EGGPLANTNINJA]
-大招释放的飞镖都有{Param_1}%概率变旋风手里剑。
+The darts released by the Plant Food effect have {Param_1}% chance to upgrade into futon shurikens.
 
 [GENE_DESCRIPTION_PRIMALPOTATOMINE]
-原始土豆雷爆炸时有{Param_1}%概率再爆炸一次，也适用于小土豆雷。
+Has {Param_1}% chance to trigger an additional explosion upon detonation. This effect also applies to Level 5’s Small Potato Mines.
 
 [GENE_DESCRIPTION_GRIMROSE]
-暗樱草种植冷却时间缩短{Param_1}%。
+Reduces its cooldown by {Param_1}%.
+
+[GENE_DESCRIPTION_PAMEGRANATE]
+Attack speed is increased by {Param_1}%。
+
+[GENE_DESCRIPTION_GHOSTPEPPER]
+Haunting attack has {Param_1}% chance to inflict a 1-second stun.
+
+[GENE_DESCRIPTION_APPLEMORTAR]
+At Level 5, Apple Mortar has {Param_1}% chance to lob a Giant Golden Apple, which briefly stuns enemies in a 3x3 area for 0.5 seconds upon landing.
+
+[GENE_DESCRIPTION_AEONIUM]
+Attacks have {Param_1}% chance to banish Gargantuars.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
 Big Smoke Mushroom Lion Dance Outfit
@@ -485,7 +582,7 @@ Increases attack speed by 20%
 
 
 
-
+ARTIFACT_START
 
 
 
@@ -659,25 +756,695 @@ Passive Ability： Zombies entangled by octopi take damage equal to {PassiveFiel
 
 
 
+[ARTIFACT_SHIELD]
+Shield Artifact
+
+[ARTIFACT_SHIELD_DESCRIPTION]
+The latest technology from 2323, the secret weapon that Dr. Zomboss is proud of.
+
+[ARTIFACT_SHIELD_SKILL_1]
+Wall of Sighs
+
+[ARTIFACT_SHIELD_SKILL_DESCRIPTION_1]
+Active Ability: Summons a shield wall covering 5 lanes that pushes forward, knocking back any zombies it collides with. Zombies will not attack the shield wall. The more zombies the shield wall blocks, the slower it moves. The shield wall lasts for {MainField_1} seconds. Cooldown: 30 seconds. Can be used {MainField_3} times per battle.
+
+[ARTIFACT_SHIELD_SKILL_2]
+Defense Proficiency
+
+[ARTIFACT_SHIELD_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of Defensive plants are increased by {PassiveField1_1}%.
+
+[ARTIFACT_SHIELD_SKILL_3]
+Autonomous Shield
+
+[ARTIFACT_SHIELD_SKILL_DESCRIPTION_3]
+Passive Ability: If a plant is not attacked within {PassiveField2_1} seconds after being planted, it will generate a shield with {PassiveField2_2} Health to protect itself.
+
+[ARTIFACT_SHIELD_SKILL_4]
+Great Shield Wall
+
+[ARTIFACT_SHIELD_SKILL_DESCRIPTION_4]
+Passive Ability: The impact of zombies on the shield wall’s movement speed is reduced.
+
+[ARTIFACT_ARCADE]
+Arcade Artifact
+
+[ARTIFACT_ARCADE_DESCRIPTION]
+Zombies in the Neon Mixtape Tour called it the greatest invention of the 1980s.
+
+[ARTIFACT_ARCADE_SKILL_1]
+Combo Game
+
+[ARTIFACT_ARCADE_SKILL_DESCRIPTION_1]
+Active Ability: Summons two rows of 8-Bit Peashooters in the leftmost empty tiles. Time is frozen for 5 seconds, during which the screen can be tapped repeatedly. After 5 seconds, based on the number of taps, the 8-Bit Peashooters will fire a corresponding number of bullets, each dealing {MainField_1} damage. After firing, all 8-Bit Peashooters disappear. Cooldown: 30 seconds. Can be used {MainField_3} times per battle.
+
+[ARTIFACT_ARCADE_SKILL_2]
+Energy Proficiency
+
+[ARTIFACT_ARCADE_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of Energy plants are increased by {PassiveField1_1}%.
+
+[ARTIFACT_ARCADE_SKILL_3]
+Pea Afterimage
+
+[ARTIFACT_ARCADE_SKILL_DESCRIPTION_3]
+Passive Ability: All 8-Bit Peashooters remain on the lawn for an additional {PassiveField2_1} seconds after firing their bullets.
+
+[ARTIFACT_ARCADE_SKILL_4]
+Bullet Mutation
+
+[ARTIFACT_ARCADE_SKILL_DESCRIPTION_4]
+Passive Ability: Bullets fired by 8-Bit Peashooters have a chance to randomly become Ice, Fire, or Primitive bullets.
+
+[ARTIFACT_TIME]
+Time Artifact
+
+[ARTIFACT_TIME_DESCRIPTION]
+The Explorer Zombie's great discovery in the lost jungle, which can control minutes and seconds.
+
+[ARTIFACT_TIME_SKILL_1]
+Back in Time
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_1]
+Active Ability: Restores all zombies on the lawn to full Health and sends them back to the starting point. Cooldown: 30 seconds. Can be used {MainField_2} times per battle.
+
+[ARTIFACT_TIME_SKILL_2]
+Short Break
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_2]
+Passive Ability: The resting time of plants is reduced by {PassiveField1_1}%.
+
+[ARTIFACT_TIME_SKILL_3]
+Pause Enchantment
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_3]
+Passive Ability: When the Active Ability is activated, a time-pause barrier is created in a 3×5 area on the right side of the lawn. Plants and zombies inside the barrier stop acting but can still be damaged. Lasts for {PassiveField2_1} seconds.
+
+[ARTIFACT_TIME_SKILL_4]
+Acceleration Enchantment
+
+[ARTIFACT_TIME_SKILL_DESCRIPTION_4]
+Passive Ability: When the Active Ability is activated, an acceleration barrier is also created in a 3×5 area on the left side of the lawn. Plants inside the barrier act {PassiveField3_1}% faster. The duration matches that of the Pause Enchantment.
+
+
+[ARTIFACT_GASHAPON]
+Gashapon Artifact
+
+[ARTIFACT_GASHAPON_DESCRIPTION]
+Plants call it the "Miracle Gashapon", but zombies don't seem to think so.
+
+[ARTIFACT_GASHAPON_SKILL_1]
+Lucky Gacha
+
+[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_1]
+Active Ability: Rolls three gashapons. If two identical gashapons are rolled, the corresponding effect is triggered. If three identical gashapons are rolled, the effect is greatly enhanced.
+Shadow-shroom effect to poison all zombies on the lawn; Guacodile effect to pierce through zombies in lines; Caulipower effect to hypnotize zombies; Iceberg Lettuce effect to freeze all zombies on the lawn; Sun Rain effect to cast a rain of sun to collect.
+Cooldown: 30 seconds. Can be used {MainField_3} times per battle.
+
+[ARTIFACT_GASHAPON_SKILL_2]
+Probability Proficiency
+
+[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of plants with probability-based special attacks are increased by {PassiveField1_1}%.
+
+[ARTIFACT_GASHAPON_SKILL_3]
+Guarantee Per Game
+
+[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_3]
+Passive Ability: If three identical gashapons are not rolled once, the next roll is guaranteed to produce three identical gashapons. (Resets each battle.)
+
+[ARTIFACT_GASHAPON_SKILL_4]
+Gacha Refurbishment
+
+[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
+Passive Ability: The contents of the gashapons are upgraded into better, stronger, and more beautiful versions.
+Shadow-shroom effect to Lily of Pharmacy effect; Guacodile effect to Parsnip effect; Caulipower effect to Hypno-shroom effect; Iceberg Lettuce effect to Crystal Orchid effect; Sun Rain effect gets enhanced.
+
+
+[ARTIFACT_WEATHERMONKEY]
+Heavenly Monkey Artifact
+
+[ARTIFACT_WEATHERMONKEY_DESCRIPTION]
+Who would have thought? Common firecrackers are so powerful.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_1]
+Skyrocketing Firecrackers
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_1]
+Active Ability: Summons and launches Skyrocketing Firecrackers from the left side of the lawn. The firecrackers fly right and explode upon hitting zombies, dealing {MainField_1} damage in a 3×3 area and knocking back nearby zombies. A wave is fired every 3 seconds, for a total of {MainField_2} waves. Cooldown: 30 seconds. Can be used {MainField_4} times per battle.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_2]
+Arsenal Proficiency
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of Arsenal Family plants are increased by {PassiveField1_1}%.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_3]
+Firecrackers All Over the Sky
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_3]
+Passive Ability: Every 15 seconds, launches 5 small Skyrocketing Firecrackers that track zombies and deal single-target damage equal to {PassiveField2_1}% of their current Health.
+
+[ARTIFACT_WEATHERMONKEY_SKILL_4]
+Strengthened Firepower
+
+[ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_4]
+Passive Ability: Large Skyrocketing Firecrackers push zombies 2 tiles upon contacting the first zombie before exploding.
+
+
+[ARTIFACT_MAGICBEANS]
+Magic Beans Artifact
+
+[ARTIFACT_MAGICBEANS_DESCRIPTION]
+How tall do you think this beanstalk can grow?
+
+[ARTIFACT_MAGICBEANS_SKILL_1]
+Plant Magic Beans
+
+[ARTIFACT_MAGICBEANS_SKILL_2]
+Pea Proficiency
+
+[ARTIFACT_MAGICBEANS_SKILL_3]
+Pod Explosion
+
+[ARTIFACT_MAGICBEANS_SKILL_4]
+Newborn Peas
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_1]
+Active Ability: Select a tile to sow a magic bean seed. After a short delay, the seed germinates and instantly grows into a giant beanstalk, knocking away all plants and zombies within a 3×3 area. The beanstalk has {MainField_1} Health and can block zombies. Every once in a while, it drops a pod that deals {MainField_2} damage to zombies in a single tile. Cooldown: {MainField_3} seconds. Can be used {MainField_4} times per battle.
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of Elite Pea Family plants are increased by {PassiveField1_1}%.
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_3]
+Passive Ability: When dropped pods explode, giant peas are scattered in 8 directions, dealing {PassiveField2_1} damage to zombies hit.
+
+[ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_4]
+Passive Ability: When pods explode, there is a chance to drop a Pea plant seed packet.
 
 
 
+[ARTIFACT_UFO]
+UFO Artifact
+
+[ARTIFACT_UFO_DESCRIPTION]
+Dr. Zomboss gave it a proper term, that is, "UFO".
+
+[ARTIFACT_UFO_SKILL_1]
+UFO Incoming
+
+[ARTIFACT_UFO_SKILL_DESCRIPTION_1]
+Active Ability: Summons a UFO at the left side of the lawn that pulls all zombies upward for {MainField_2} seconds. Smaller zombies are abducted faster. Zombies captured inside the UFO are taken away, while zombies not abducted fall from mid-air and take damage. Cooldown: 30 seconds. Can be used {MainField_6} times per battle.
+
+[ARTIFACT_UFO_SKILL_2]
+Avian Proficiency
+
+[ARTIFACT_UFO_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of Flying plants are increased by {PassiveField1_1}%.
+
+[ARTIFACT_UFO_SKILL_3]
+Mother-Child Flying Saucer
+
+[ARTIFACT_UFO_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, summons 3 small UFOs that abduct the nearest 3 zombies on the lawn. Duration matches the Active Ability.
+
+[ARTIFACT_UFO_SKILL_4]
+Gravity Weakens
+
+[ARTIFACT_UFO_SKILL_DESCRIPTION_4]
+Passive Ability: Zombies that are floating take knockback when attacked by plants. Knockback distance depends on the zombie's size.
+
+
+[ARTIFACT_PRISMTOWER]
+Prism Tower Artifact
+
+[ARTIFACT_PRISMTOWER_DESCRIPTION]
+This artifact has a lot of background, it can emit lasers and continuously cause higher and higher damage to the zombies.
+
+[ARTIFACT_PRISMTOWER_SKILL_1]
+Prismic Ray
+
+[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_1]
+Active Ability: Toggle the artifact on to consume stored energy and fire a laser at the nearest zombie, dealing continuous damage that increases over time. When deactivated, the damage resets to its initial value and stored energy slowly regenerates.  
+Initial DPS: {MainField_1}% of zombie's max Health + {MainField_2}, increasing each second by {MainField_3}% of zombie's max Health + {MainField_4}.
+
+[ARTIFACT_PRISMTOWER_SKILL_2]
+Reserve Improvement
+
+[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the artifact's maximum stored energy to {PassiveField1_1} and accelerates energy recovery to {PassiveField1_2} per second.
+
+[ARTIFACT_PRISMTOWER_SKILL_3]
+Swift Charging
+
+[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_3]
+Passive Ability: Accelerates the rate at which the laser's damage increases by {PassiveField2_1}% over time.
+
+[ARTIFACT_PRISMTOWER_SKILL_4]
+Blastful Ray
+
+[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_4]
+Passive Ability: When the laser kills a zombie, it triggers an explosion that deals damage equal to 200% of the laser's current DPS.
+
+
+[ARTIFACT_DEVOLVE]
+Devolver Artifact
+
+[ARTIFACT_DEVOLVE_DESCRIPTION]
+One day, Dr. Zomboss invented a super weapon that could strengthen zombies, but when it was used in actual combat, the zombies found out that the gun was loaded backwards.
+
+[ARTIFACT_DEVOLVE_SKILL_1]
+Devolution Waves
+
+[ARTIFACT_DEVOLVE_SKILL_2]
+Mage Proficiency
+
+[ARTIFACT_DEVOLVE_SKILL_3]
+Timing Devolution
+
+[ARTIFACT_DEVOLVE_SKILL_4]
+Strong Devolution
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_1]
+Active Ability: Replaces all zombies on the lawn except Gargantuars with random weaker zombies of the same class. Cooldown: {MainField_5} seconds. Can be used {MainField_6} times per battle.
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_2]
+Passive Ability: The offensive and defensive stats of Mage plants are increased by {PassiveField1_1}%.
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, 3 randomly selected zombies are devolved.
+
+[ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_4]
+Passive Ability: Devolution has a 30% chance to turn zombies directly into chickens.
+
+
+[ARTIFACT_DINOSAURHORN]
+Jurassic Horn Artifact
+
+[ARTIFACT_DINOSAURHORN_DESCRIPTION]
+The mysterious horn from the ancient jungle is said to be able to summon the power from the Jurassic Marsh.
+
+[ARTIFACT_DINOSAURHORN_SKILL_1]
+Dinosaur Stampede Raid
+
+[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_1]
+Active Ability: Sends 2 dinosaurs down each lane to sprint across the lawn, trampling small and medium-sized zombies. Each dinosaur can kill up to 3 zombies. Zombies not killed are stunned and take damage.
+
+[ARTIFACT_DINOSAURHORN_SKILL_2]
+Primal Liberation
+
+[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Primal plants by {PassiveField1_1}% .
+
+[ARTIFACT_DINOSAURHORN_SKILL_3]
+Strengthened Dizziness
+
+[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
+Passive Ability: Increases zombie stun duration to {PassiveField2_1} seconds.
+
+[ARTIFACT_DINOSAURHORN_SKILL_4]
+Brontosaurus Stomp
+
+[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_4]
+Passive Ability: Every {PassiveField3_1} seconds, the Brontosaurus stomps the front row zombies, dealing 5000 damage and stunning them for 4 seconds.
+
+
+[ARTIFACT_WATERGUN]
+Water Gun Artifact
+
+[ARTIFACT_WATERGUN_DESCRIPTION]
+Plants like water, zombies don't like water.
+
+[ARTIFACT_WATERGUN_SKILL_1]
+Water Jet
+
+[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
+Active Ability: Releases a strong water stream in each lane, pushing zombies backward.
+
+[ARTIFACT_WATERGUN_SKILL_2]
+Primal Liberation
+
+[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Water/Ice plants by {PassiveField1_1}% .
+
+[ARTIFACT_WATERGUN_SKILL_3]
+Even Rain and Dew
+
+[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, sprinkles water on the first three rows of plants, increasing their attack speed.
+
+[ARTIFACT_WATERGUN_SKILL_4]
+Thrust Burst
+
+[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_4]
+Passive Ability: Increases the knockback distance of zombies per second.
 
 
 
+[ARTIFACT_EVOLUTION]
+Evolver Artifact
+
+[ARTIFACT_EVOLUTION_DESCRIPTION]
+The new "Evolver Artifact" is here, I wish everyone some progress in the new year!
+
+[ARTIFACT_EVOLUTION_SKILL_1]
+Evolution Light
+
+[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_1]
+Active Ability: Specify a 3×3 area. Plants within this area evolve into plants with higher sun costs. Evolved plants retain their original tier and will not become instant-use/consumable plants. Cooldown: 30 seconds. Can be used {MainField_2} times per battle.
+
+[ARTIFACT_EVOLUTION_SKILL_2]
+The Strong Take-All
+
+[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_2]
+Passive Ability: Plants with sun cost ≥300 gain {PassiveField1_1}% increased attack and defense stats.
+
+[ARTIFACT_EVOLUTION_SKILL_3]
+Timed Evolution
+
+[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, a plant with sun cost ≤100 is randomly spawned on an empty tile. Instant-use/consumable plants will not be generated.
+
+[ARTIFACT_EVOLUTION_SKILL_4]
+Something Out of Nothing
+
+[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_4]
+Passive Ability: When the Active Ability is used, if there are empty tiles in the selected area, a plant with sun cost ≤100 is randomly spawned on each empty tile. Instant-use/consumable plants will not be generated.
+
+
+[ARTIFACT_BEEHIVE]
+Beehive Artifact
+
+[ARTIFACT_BEEHIVE_DESCRIPTION]
+Venomous bees who love plants will naturally have no reservations about zombies, and the power of the "Beehive Artifact" will not let you down!
+
+[ARTIFACT_BEEHIVE_SKILL_1]
+Bees Attack
+
+[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_1]
+Active Ability: Each time a plant is planted, a bee flies into the hive, up to a maximum of 15 bees. Activating this ability releases all bees from the hive to attack the nearest zombies. Each bee deals {MainField_2} damage per second, attacks 10 times, then returns to the hive. Can be repeatedly activated. Cooldown: 30 seconds.
+
+[ARTIFACT_BEEHIVE_SKILL_2]
+Quick Planting
+
+[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_2]
+Passive Ability: Planting cooldowns are reduced by {PassiveField1_1}% for all plants.
+
+[ARTIFACT_BEEHIVE_SKILL_3]
+Super Breed
+
+[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_3]
+Passive Ability: Each time a plant is planted, there is a {PassiveField2_1}% chance to generate an additional bee. Maximum bees remain 15.
+
+[ARTIFACT_BEEHIVE_SKILL_4]
+Bee Fusion
+
+[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_4]
+Passive Ability: When the number of bees in the hive exceeds 15, excess bees automatically merge into Big Bees. Big Bees have double attack speed and damage, and their attacks poison and slow zombies, dealing 1% of the zombie’s max HP per second.
+
+
+[ARTIFACT_ACID]
+Acid Artifact
+
+[ARTIFACT_ACID_DESCRIPTION]
+Create acid pools that dissolve zombies.
+
+[ARTIFACT_ACID_SKILL_1]
+Acidic Spray
+
+[ARTIFACT_ACID_SKILL_DESCRIPTION_1]
+Active Ability: Select a plantable tile to turn it into an acid pool where plants cannot be planted. Small zombies that pass over will fall in and be completely dissolved after a short time. Each pool can dissolve only one zombie at a time; two adjacent pools can dissolve medium or large zombies. Using the artifact on an existing acid pool recycles it and restores one usage. Can be used {MainField_2} times per battle.
+
+[ARTIFACT_ACID_SKILL_2]
+Acidic Venom
+
+[ARTIFACT_ACID_SKILL_DESCRIPTION_2]
+Passive Ability: Venom-type plants have their attack and defense increased by {PassiveField1_1}% 
+
+[ARTIFACT_ACID_SKILL_3]
+Acidic Enhancement
+
+[ARTIFACT_ACID_SKILL_DESCRIPTION_3]
+Passive Ability: Increases the dissolving speed of zombies in acid pools by {PassiveField2_1}%.
+
+[ARTIFACT_ACID_SKILL_4]
+Acidic Modification
+
+[ARTIFACT_ACID_SKILL_DESCRIPTION_4]
+Passive Ability: Zombies fully dissolved in acid pools generate friendly Acid Zombies based on their size. Acid Zombies deal double damage to armor, and upon death, explode to damage zombies in a 3×3 area and increase damage taken for 10 seconds.
 
 
 
+[ARTIFACT_MIDASTOUCH]
+Midas Touch Artifact
+
+[ARTIFACT_MIDASTOUCH_DESCRIPTION]
+The ability to turn zombies into gold was well-received by the plants, but it's no fun for the zombies.
+
+[ARTIFACT_MIDASTOUCH_SKILL_1]
+Turn Zombies Into Gold
+
+[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_1]
+Active Ability: Turn all small and medium zombies on the lawn into golden statues for {MainField_1} seconds, immobilizing them. During this time, small zombies drop {MainField_2} coins upon death, and medium zombies drop twice that amount. Cooldown 30 seconds, usable {MainField_5} times per battle.
+
+[ARTIFACT_MIDASTOUCH_SKILL_2]
+Wonderful
+
+[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the maximum amount of coins that can be earned per battle by {PassiveField1_1}.
+
+[ARTIFACT_MIDASTOUCH_SKILL_3]
+Energy Overflow
+
+[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, the three closest small or medium zombies are turned into golden statues.
+
+[ARTIFACT_MIDASTOUCH_SKILL_4]
+Gigantic Alchemy
+
+[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_4]
+Passive Ability: The gilding effect now also affects Gargantuars, but lasts for half the duration. Gargantuars killed while gilded drop 1600 coins.
+
+
+[ARTIFACT_SNOWDRIFT]
+Snowgun Artifact
+
+[ARTIFACT_SNOWDRIFT_DESCRIPTION]
+Look at that zombie, does it look like a snowman?
+
+[ARTIFACT_SNOWDRIFT_SKILL_1]
+Snowstorm
+
+[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_1]
+Active Ability: Blow a blizzard that freezes all zombies on the lawn. Small and medium zombies are gradually pushed to the right and turned into snowmen, with their HP reduced to 30% of their original value. The blizzard lasts {MainField_2} seconds. Cooldown 30 seconds; usable {MainField_6} times per battle.
+
+[ARTIFACT_SNOWDRIFT_SKILL_2]
+Frost Enhancement
+
+[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the duration of all freeze and slow effects by {PassiveField1_1}%.
+
+[ARTIFACT_SNOWDRIFT_SKILL_3]
+Snowball Throwing
+
+[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, throws snowballs at the three closest zombies. Small and medium zombies are turned into snowmen for 5 seconds.
+
+[ARTIFACT_SNOWDRIFT_SKILL_4]
+Throat-sealing Ice Picks
+
+[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
+Passive Ability: While the Active Ability is active, the artifact continuously shoots ice picks. Each ice pick instantly kills snowmen, damages frozen Gargantuars, and can pierce up to 3 targets.
+
+
+[ARTIFACT_SKATEBOARD]
+Skateboard Artifact
+
+[ARTIFACT_SKATEBOARD_DESCRIPTION]
+This skateboard comes from a big shot named Jake!
+
+[ARTIFACT_SKATEBOARD_SKILL_1]
+Superstar Debuts
+
+[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_1]
+Active Ability: After activating the skill, a random plant hops onto a skateboard and moves from left to right. During the ride, the plant unleashes a magnificent Plant Food effect. Swipe up or down at any time to change the row the skateboard is on. Damage scales with the artifact's level. Cooldown 30 seconds; usable {MainField_2} times per battle.
+
+[ARTIFACT_SKATEBOARD_SKILL_2]
+Idol Practice
+
+[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Skateboard-related plants by {PassiveField1_1}%.
+
+[ARTIFACT_SKATEBOARD_SKILL_3]
+Skateboard Crash
+
+[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, three skateboards are launched at the three nearest zombies. Each skateboard instantly kills the first zombie it hits and then embeds vertically in the ground to block others.
+
+[ARTIFACT_SKATEBOARD_SKILL_4]
+Shining Stars
+
+[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_4]
+Passive Ability: All plants on the skateboard are upgraded to their replacement counterparts, enhancing their effects.
+
+
+[ARTIFACT_SILVERKEY]
+Silver Key Artifact
+
+[ARTIFACT_SILVERKEY_DESCRIPTION]
+When you stare into the abyss, the abyss stares back into you.
+
+[ARTIFACT_SILVERKEY_SKILL_1]
+Gate of Truth
+
+[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_1]
+Active Ability: Select a tile to summon the Gate of Truth. Small and medium sized zombies in the three rows to the right of the gate are pulled inside. Each activation can absorb ⌊6 + Artifact Level × 0.2⌋ zombies. Can be used multiple times; cooldown 30 seconds; usable {MainField_4} times per battle.
+
+[ARTIFACT_SILVERKEY_SKILL_2]
+Abyss Strengthening
+
+[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Abyss plants by {PassiveField1_1}%.
+
+[ARTIFACT_SILVERKEY_SKILL_3]
+Tentacles of Sorrow
+
+[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, three tentacles appear under random small or medium zombies and drag them underground, releasing energy. Each activation can affect up to three zombies. Skips if no valid zombies are present.
+
+[ARTIFACT_SILVERKEY_SKILL_4]
+Believer's Glory
+
+[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_4]
+Passive Ability: After the Gate of Truth absorbs zombies, a Believer Gargantuar emerges from behind the gate. Its tier is determined by the number of zombies absorbed.
 
 
 
+[ARTIFACT_GUITAR]
+Guitar Artifact
+
+[ARTIFACT_GUITAR_DESCRIPTION]
+The zombies have been debating for a pretty long time whether this artifact is a bass or a guitar.
+
+[ARTIFACT_GUITAR_SKILL_1]
+Crescendo
+
+[ARTIFACT_GUITAR_SKILL_DESCRIPTION_1]
+Active Ability: Activate the ability to pause time and start a minigame with 10 notes. Click each note with precise timing to increase your score. After the minigame ends, a powerful soundwave is released. The damage and range of the soundwave depend on the performance rating and the artifact's level. Cooldown 30 seconds; usable {MainField_5} times per battle.
+
+[ARTIFACT_GUITAR_SKILL_2]
+Ace Band
+
+[ARTIFACT_GUITAR_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Musical plants by {PassiveField1_1}% .
+
+[ARTIFACT_GUITAR_SKILL_3]
+Transition Notes
+
+[ARTIFACT_GUITAR_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, 3 notes are launched at the three nearest zombies, dealing {PassiveField2_2} damage and knockback. Any plant the notes pass through gains 50% attack speed for 10 seconds.
+
+[ARTIFACT_GUITAR_SKILL_4]
+Amplifying Speakers
+
+[ARTIFACT_GUITAR_SKILL_DESCRIPTION_4]
+Passive Ability: After using the Active Ability, 2 speakers are dropped in a 3×3 area, continuously releasing soundwaves that attack {PassiveField3_1} times per second, dealing {PassiveField3_2} damage and {PassiveField3_3} seconds of stun. The duration of the effect increases with the performance rating.
 
 
 
+[ARTIFACT_DRAGON]
+Dragon Lantern Artifact
+
+[ARTIFACT_DRAGON_DESCRIPTION]
+Once upon a time, there was a zombie who was so obsessed with dragons that he even made a dragon lantern. Once he put the eyes to the dragon lantern, the dragon lantern began to circle and fly. The zombie got so scared that he left the scene silently.
+
+[ARTIFACT_DRAGON_SKILL_1]
+Circling Dragon Lantern
+
+[ARTIFACT_DRAGON_SKILL_DESCRIPTION_1]
+Active Ability: Summon a dragon lantern to enter the lawn and hover. It targets the nearest zombies and passes through them, dealing {MainField_1} damage every 0.1 seconds. The lantern's length increases with the artifact's level and lasts for {MainField_3} seconds. Cooldown: {MainField_4} seconds; usable {MainField_5} times per battle.
+
+[ARTIFACT_DRAGON_SKILL_2]
+Dragon Clan Rejoices
+
+[ARTIFACT_DRAGON_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Dragon plants by {PassiveField1_1}% .
+
+[ARTIFACT_DRAGON_SKILL_3]
+Dragon Lantern Parade
+
+[ARTIFACT_DRAGON_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, a small dragon lantern flies out, targeting the leftmost zombie on the lawn in a straight line until it exits. It deals {PassiveField2_2} damage every 0.1 seconds to any zombie it passes through.
+
+[ARTIFACT_DRAGON_SKILL_4]
+Single Dragon Playing with Pearls
+
+[ARTIFACT_DRAGON_SKILL_DESCRIPTION_4]
+Passive Ability: While a dragon lantern is on the lawn, a hydrangea pearl is thrown every 5 seconds. The dragon lantern prioritizes the pearl as its target. Swallowing the pearl extends the lantern's duration by 3 seconds and enlarges it for 5 seconds.
 
 
 
+[ARTIFACT_TRIDENT]
+Trident Artifact
 
+[ARTIFACT_TRIDENT_DESCRIPTION]
+With the trident, you are the "Aquaman" of the Zombie World.
+
+[ARTIFACT_TRIDENT_SKILL_1]
+Ocean's Roar
+
+[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_1]
+Active Ability: Summon {MainField_4} waves of fountains. Each wave targets the {MainField_1} tiles with the most zombies, knocking small and medium zombies off the tiles (up to {MainField_2} zombies per tile). Other zombies are lifted into the air, taking {MainField_5} damage and stunned for 4 seconds (half effect on Gargantuars). Cooldown: {MainField_6} seconds; usable {MainField_7} times per battle.
+
+[ARTIFACT_TRIDENT_SKILL_2]
+Magical Weapons
+
+[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Weapon-wielding plants by {PassiveField1_1}% .
+
+[ARTIFACT_TRIDENT_SKILL_3]
+Abysmal Pool
+
+[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, the leftmost {PassiveField2_2} tiles with small and medium zombies turn into water pools. One zombie passing through each pool falls in and dies; the tile then returns to normal. Pools last up to 15 seconds.
+
+[ARTIFACT_TRIDENT_SKILL_4]
+Impact Tornado
+
+[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
+Passive Ability: After all fountains are summoned, a waterspout appears at the edge of the lawn. It attracts zombies within 5 rows to the center and pushes them to the 9th column. Gargantuars are pushed only 3 columns before returning to normal.
+
+
+
+[ARTIFACT_CALABASH]
+Gourd Artifact
+
+[ARTIFACT_CALABASH_DESCRIPTION]
+If I call your name, do you dare to answer me?
+
+[ARTIFACT_CALABASH_SKILL_1]
+Calling You
+
+[ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
+Active Ability: When the gourd has sufficient capacity, activate this ability to pull all zombies of a selected size (small, medium, or large) into the gourd over 5 seconds. Different sizes occupy different capacity points (2/6/10). As the gourd digests absorbed zombies, every 10 capacity points produce an elixir. Elixirs can be dragged onto plants to apply their effects, with three types corresponding to the absorbed zombie sizes.
+
+[ARTIFACT_CALABASH_SKILL_2]
+Descendants of the Dragons
+
+[ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the offensive and defensive stats of Kung Fu plants by {PassiveField1_1}% .
+
+[ARTIFACT_CALABASH_SKILL_3]
+Cyber Alchemy
+
+[ARTIFACT_CALABASH_SKILL_DESCRIPTION_3]
+Passive Ability: Increases the gourd’s maximum capacity by {PassiveField2_1} points and digestion speed by {PassiveField2_2}% .
+
+[ARTIFACT_CALABASH_SKILL_4]
+The Best Elixir
+
+[ARTIFACT_CALABASH_SKILL_DESCRIPTION_4]
+Passive Ability: When producing elixirs, there is a chance to generate an additional Thunder-Summoning elixir. Using it summons 9 lightning strikes around the target, dealing area damage.
 
 
 [ARTIFACT_SWARM]
@@ -732,7 +1499,6 @@ Technological progress
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_2]
 Passive Ability 1： The offensive and defensive statistics of Future Technology Family plants are increased by {PassiveField1_1}%.
 
-
 [ARTIFACT_HOLO_SKILL_3]
 Portable projection
 
@@ -744,6 +1510,137 @@ Zombie Analysis
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_4]
 Passive Ability 3： When the Active Ability is used, holographic projections are also created for the 10 leftmost zombies on the lawn, appearing as allied holographic copies (excluding zombies that cannot be projected).
+
+
+
+[ARTIFACT_BLACKHOLE]
+Black Hole Artifact
+
+[ARTIFACT_BLACKHOLE_DESCRIPTION]
+Master the ultimate mysterious power in the universe and possess high gravitational force.
+
+[ARTIFACT_BLACKHOLE_SKILL_1]
+Mysterious Black Hole
+
+[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_1]
+Active Ability: Creates a black hole that pulls zombies toward it. Zombies of different sizes are pulled at different speeds. Non-Gargantuar zombies entering the center are instantly absorbed; Gargantuars take {MainField_2} damage per second. Lasts {MainField_1} seconds.
+
+[ARTIFACT_BLACKHOLE_SKILL_2]
+Gravitational Waves
+
+[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_2]
+Passive Ability: When the black hole disappears, it releases a gravitational wave, pulling all zombies toward the center once more.
+
+[ARTIFACT_BLACKHOLE_SKILL_3]
+Mini Black Hole
+
+[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, a mini black hole appears on a random tile within a 5×5 area on the right side of the lawn, pulling all zombies in a 3×3 area toward it for {PassiveField2_2} seconds.
+
+[ARTIFACT_BLACKHOLE_SKILL_4]
+Hyper-Suction Force
+
+[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_4]
+Passive Ability: When activated, the black hole will tear up one tile at its location, removing any plant on it. Zombies passing over the torn tile will immediately fall. The tile restores after {PassiveField3_1} seconds. Gargantuars are immune to this effect.
+
+
+
+[ARTIFACT_METEOR]
+Meteorite Artifact
+
+[ARTIFACT_METEOR_DESCRIPTION]
+Zombies don't like to make wishes when meteors are falling, because they are meteorites.
+
+[ARTIFACT_METEOR_SKILL_1]
+Meteor Shower
+
+[ARTIFACT_METEOR_SKILL_DESCRIPTION_1]
+Active Ability: Select a tile to summon 5 meteorites in a 5×5 area centered on it. Each meteorite destroys any plant and up to 3 small or medium zombies it hits. Other zombies take {MainField_4} damage and are stunned. The meteors leave burning zones that deal {MainField_8} damage per second to passing zombies. Pea bullets passing through the meteors gain a fire effect. Cooldown: 30s. Usable {MainField_11} times per battle.
+
+[ARTIFACT_METEOR_SKILL_2]
+Pyre Strengthening
+
+[ARTIFACT_METEOR_SKILL_DESCRIPTION_2]
+Passive Ability: Increases the fire damage of meteorites. At level 10, flames turn blue and damage increases to {PassiveField1_1}. At level 20, flames turn purple and damage increases to {PassiveField1_2}.
+
+[ARTIFACT_METEOR_SKILL_3]
+Meteorites Falling Off Sky
+
+[ARTIFACT_METEOR_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, a meteorite falls on a random tile with zombies within a 5×5 area on the right side of the lawn.
+
+[ARTIFACT_METEOR_SKILL_4]
+Burning in Flames
+
+[ARTIFACT_METEOR_SKILL_DESCRIPTION_4]
+Passive Ability: Zombies passing through the burning area are ignited, taking {PassiveField3_1}% of their max health as fire damage per second for 10 seconds.
+
+
+
+[ARTIFACT_MAGICHAT]
+Magic Hat Artifact
+
+[ARTIFACT_MAGICHAT_DESCRIPTION]
+"Isn't this magic?" a zombie asked after witnessing the performance of the "Magician" Zombie. Well... as long as you don't pay attention to these details, the show is at least still exciting.
+
+[ARTIFACT_MAGICHAT_SKILL_1]
+Magic Call
+
+[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_1]
+Active Ability: Summon 1 Magician Zombie at the leftmost tile of each lane. The zombie's rank is equal to the artifact level divided by 6 (rounded up). Lasts 15 seconds. Magician Zombies can teleport enemy zombies in their lane to the right.
+
+[ARTIFACT_MAGICHAT_SKILL_2]
+Dove Magic
+
+[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_2]
+Passive Ability: Magician Zombies can summon doves to carry enemy zombies in their lane away.
+
+[ARTIFACT_MAGICHAT_SKILL_3]
+Summoning Ritual
+
+[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3]
+Passive Ability: Every {PassiveField2_1} seconds, summon 1 Magician Zombie in a random lane. Lasts 15 seconds.
+
+[ARTIFACT_MAGICHAT_SKILL_4]
+Ability Strengthening
+
+[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_4]
+Passive Ability: When teleporting, Magician Zombies send zombies directly to the backline (giant zombies move 2 tiles). When summoning doves, 2 doves appear at once and can carry medium-sized zombies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2782,6 +3679,12 @@ Snowy Adventure
 [LEVEL_EDITOR_HEAD_DES_ID_25772]
 Limited avatar from Chroma Customization event
 
+[LEVEL_EDITOR_HEAD_ID_25802]
+Revolving Starry Sky
+
+[LEVEL_EDITOR_HEAD_DES_ID_25802]
+Limited edition avatar from the Prismatic Customization event.
+
 [LEVEL_EDITOR_HEAD_ID_25777]
 Fruitful Harvest
 
@@ -2794,11 +3697,35 @@ Vivid and Colorful
 [LEVEL_EDITOR_HEAD_DES_ID_25787]
 Rich colors render a joyful tone.
 
+[LEVEL_EDITOR_HEAD_ID_25800]
+Bid Farewell to the Old, Welcome the New
+
+[LEVEL_EDITOR_HEAD_DES_ID_25800]
+New year, new vibes; new plants, new surprises.
+
+[LEVEL_EDITOR_HEAD_ID_25805]
+Fun Strategy
+
+[LEVEL_EDITOR_HEAD_DES_ID_25805]
+Delight in the game, every move sparks fun.
+
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Children's Mangosteen
 
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25547]
 Come and play happily with the children's mangosteen.
+
+[UNCHARTED_ICEAGE_ID_25391]
+Latte Spilled
+
+[UNCHARTED_ICEAGE_HEAD_DES_ID_25391]
+Please Handle with Care.
+
+[UNCHARTED_CHRISTMAS_202512_ID_25391]
+Latte Spilled
+
+[UNCHARTED_CHRISTMAS_202512_HEAD_DES_ID_25391]
+Please Handle with Care.
 
 [UNCHARTED_TALE_ID_10000]
 Conqueror of the Fairytale Secret Realm
@@ -3008,25 +3935,31 @@ During the Celebration Gift event, reach the cumulative recharge progress in the
 Arms Master
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25713]
-Claim by reaching cumulative recharge milestones during the Summer Gift event
+During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
 
 [NEWYEAR_GIFT_HEAD_ID_25724]
 Electro-Mechanical Trend
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25724]
-Claim by reaching cumulative recharge milestones during the Summer Gift event
+During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
 
 [NEWYEAR_GIFT_HEAD_ID_25756]
 Endless Vitality
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25756]
-Claim by reaching cumulative recharge progress during the Celebration Pack event
+During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
 
 [NEWYEAR_GIFT_HEAD_ID_25773]
 Mysterious Potion
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25773]
-Claim by reaching cumulative recharge progress during the Celebration Pack event
+During the Celebration Gift event, reach the cumulative recharge progress in the event to receive.
+
+[NEWYEAR_GIFT_HEAD_ID_25801]
+Family Reunion
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25801]
+Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev! 
@@ -3059,6 +3992,12 @@ Even on other universes you are still 42 time better  ;)
 
 [UNCHARTED_NO42_HEAD_ID_10001]
 Abba Abba
+
+[UNCHARTED_CHRISTMAS_ID_25791]
+Christmas Mystery Conqueror
+
+[UNCHARTED_CHRISTMAS_HEAD_DES_ID_25791]
+Proof of perfectly clearing the Christmas Mystery.
 
 [UNCHARTED_NO42_HEAD_DES_ID_10001]
 Proof of Perfectly Completing Parallel Universe No. 41
@@ -3222,6 +4161,9 @@ The current level is no longer available during the event time!
 
 [PVZ_ERROR_76040]
 Abnormal data detected. Banned from participating in events for 30 days. Further violations will result in account suspension.
+
+[PVZ_ERROR_76041]
+Abnormal plants data detected. Banned from participating in events for 30 days. Further violations will result in account suspension.
 
 [PVZ_ERROR_90000]
 Synchronous cloud archive failed.
@@ -7236,14 +8178,14 @@ Can pass through plants and straight-shot projectiles—only lobbed shots can hi
 [SUNFLOWER]
 Sunflower
 
+[SUNFLOWER_DESCRIPTION_HEADER]
+Sunflower is a primary plant which produces more sun for you. Plant as many of them as possible!
+
 [SUNFLOWER_DESCRIPTION]
 {KEYWORD}HP：{STAT} 300/450/600/750/900
 {KEYWORD}Sun production：{STAT} Medium
 {KEYWORD}Plant features：{STAT} yellow plant, infinite sun
 {FLAVOR}Ever since becoming a star, her first song "Zombies On Your Lawn" has become a hit on social media. Therefore she is rushing on filming the video "Sunflower Dance Show", please stay tuned for that!
-
-[SUNFLOWER_DESCRIPTION_HEADER]
-Sunflower is a primary plant which produces more sun for you. Plant as many of them as possible!
 
 [SUNFLOWER_TOOLTIP]
 Produces sun
@@ -8315,6 +9257,8 @@ Lightning Reed
 [LIGHTNINGREED_DESCRIPTION_HEADER]
 Lightning Reed shoots lightning at nearest zombie up to one lane away whose voltage will then form an arc and sweep other nearby zombies.
 
+[LIGHTNINGREED_PLANTFOOD]
+Creates a cloud that shoots lightning at zombies passing beneath it.
 
 [LIGHTNINGREED_TOOLTIP]
 Hits multiple chickens or zombies at once.
@@ -8334,6 +9278,12 @@ Overdriven Current
 [LIGHTNINGREED_SKILL1_LEVEL2_DES]
 15% chance to stun targets for 1 second.
 
+[LIGHTNINGREED_SKILL1_LEVEL5]
+Lightning Chains
+
+[LIGHTNINGREED_SKILL1_LEVEL5_DES]
+When Lightning Reed attacks, there is a 30% chance to release a lightning chain, which will bind the hit zombie and two zombies behind it together, reducing their movement speed by 50%. The electric damage received by these three zombies is shared among the other two zombies.
+
 [LIGHTNINGREED_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in the three lines to the right of the Lightning Reed, the zombie on the leftmost in the lightning attack range is used, and after the attack, a lightning chain sputtering with a damage of 5 points appears for up to three zombies.
 
@@ -8345,6 +9295,9 @@ When a zombie appears in the three lines to the right of the Lightning Reed, the
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
+
+[LIGHTNINGREED_NEW_SKILL_LEVEL5_DES]
+When Lightning Reed attacks, there is a 30% chance to release a lightning chain, which will bind the hit zombie and two zombies behind it together, reducing their movement speed by 50%. The electric damage received by these three zombies is shared among the other two zombies.
 
 [LIGHTNINGREED_PLANTFOOD_DESCRIPTION]
 He generates a small storm cloud that tracks down a random target, dealing 160 damage per second. the cloud lasts for 15 seconds.
@@ -13218,25 +14171,25 @@ The Eternity of Love
 [BLOOMINGHEARTS_SKILL_LEVEL2_DES]
 100% chance to create a priority mark that forces the plant to target that specific zombie.
 
-[BLOOMINGHEARTS_NEW_SKILL_LEVEL1_DES]
+[bloominghearts_NEW_SKILL_LEVEL1_DES]
 When a zombie appears on the right side of the Blooming Heart, the Blooming Heart throws the love fruit. Attacks by Blooming Heart pitchers superimpose a love mark on a single zombie and increase damage based on the number of superimposed. A zombie can be superimposed up to five love marks, each adding 10 points of damage.
 
-[BLOOMINGHEARTS_NEW_SKILL_LEVEL2_DES]
+[bloominghearts_NEW_SKILL_LEVEL2_DES]
 50% chance to create a priority mark that forces the plant to target that specific zombie.
 
-[BLOOMINGHEARTS_NEW_SKILL_LEVEL3_DES]
+[bloominghearts_NEW_SKILL_LEVEL3_DES]
 100% chance to create a priority mark that forces the plant to target that specific zombie.
 
-[BLOOMINGHEARTS_NEW_SKILL_LEVEL4_DES]
+[bloominghearts_NEW_SKILL_LEVEL4_DES]
 Blooming Heart have 25% chance to be boosted when planted.
 
 [bloominghearts_NEW_SKILL_LEVEL5_DES]
 Not used Yet.
 
-[BLOOMINGHEARTS_PLANTFOOD_DESCRIPTION]
+[bloominghearts_PLANTFOOD_DESCRIPTION]
 Throw big projectiles at 5 zombie dealing 200 damage
 
-[BLOOMINGHEARTS_AVATAR_PLANTFOOD_DESCRIPTION]
+[bloominghearts_AVATAR_PLANTFOOD_DESCRIPTION]
 Bellweed rotating fruit throwing petals at up to 5 units in full screen causes a lot of damage to zombies^FF0000 ^oldclr^, causing additional damage to zombies with the imprint of love.
 
 [STORE_PRODUCT_AVATAR_BLOOMINGHEARTS]
@@ -13279,6 +14232,12 @@ Continued Blast
 [EXPLODEONUT_SKILL_LEVEL2_DES]
 There is a 20% chance of spawning a Potato Mine after exploding.
 
+[EXPLODEONUT_SKILL_LEVEL5]
+Airborne Demolition
+
+[EXPLODEONUT_SKILL_LEVEL5_DES]
+When Explode-O-Nut's health drops to 0, it will explode and fly into the air, then land in a random area containing a zombie and explode again.
+
 [EXPLODEONUT_NEW_SKILL_LEVEL1_DES]
 Explode-O-Nut remains on the tile where he is planted, and when destroyed by any means (except being burned, thrown off the lawn, or shoveled), he will explode in a 3x3 range.
 
@@ -13290,6 +14249,9 @@ There is a 20% chance of spawning a Potato Mine after exploding.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL4_DES]
 Explode-O-Nut have 25% chance to be boosted when planted.
+
+[EXPLODEONUT_NEW_SKILL_LEVEL5_DES]
+When Explode-O-Nut's health drops to 0, it will explode and fly into the air, then land in a random area containing a zombie and explode again.
 
 [EXPLODEONUT_PLANTFOOD_DESCRIPTION]
 Explode-o-nut dons a layer of steel shield, which will explode once the shield is completely eaten.
@@ -21146,10 +22108,10 @@ Heliconia Gunner eyepatch
 
 
 
-[ElECTRICPEEL]
+[ELECTRICPEEL]
 Electric Peel
 
-[ElECTRICPEEL_DESCRIPTION]
+[ELECTRICPEEL_DESCRIPTION]
 {KEYWORD}HP：{STAT} 300/450/600/750/900
 {KEYWORD}Damage：{STAT} 35/52.5/70/87.5/105
 {KEYWORD}Range：{STAT} 4 squares ahead
@@ -21160,7 +22122,7 @@ Electric Peel
 [ELECTRICPEEL_DESCRIPTION_HEADER]
 Release the electric eel forward and shock zombies
 
-[ElECTRICPEEL_TOOLTIP]
+[ELECTRICPEEL_TOOLTIP]
 Release the electric eel forward and shock zombies
 
 [ELECTRICPEEL_PRODUCT_SHORT_DESC]
@@ -21199,7 +22161,7 @@ Electric Peel have 60% chance to be boosted when planted.
 [ELECTRICPEEL_NEW_SKILL_LEVEL5_DES]
 When attacking, Electric Peel has a 20% chance to throw a lightning eel which moves forwards, binding the first bindable zombie it encounters. It will then electrocute every 3 seconds, dealing damage within the tile, dealing Paralyze I to the zombie bound for 1.5 seconds, and splash damage that is half of the original damage to zombies in a 3*3 area. The electric eel can last for at most 10 seconds, dealing damage that is 150% of the original damage to the zombie it binds to or non-bindable zombies it passed through.
 
-[ElECTRICPEEL_PLANTFOOD_DESCRIPTION]
+[ELECTRICPEEL_PLANTFOOD_DESCRIPTION]
 lectric Peel will unleash a giant "Super Peel" that will travel down the entire lane and deal heavy damage to all zombies in it.
 
 [ELECTRICPEEL_AVATAR_PLANTFOOD_DESCRIPTION]
@@ -22889,6 +23851,11 @@ Fire 180 peas in a cone spread.
 [MEGAGATLING_AVATAR_PLANTFOOD_DESCRIPTION]
 Non-fused Mega Gatling Pea now fires random types of peas, and the amount of peas fired is increased to 210.
 
+[GENE_DESCRIPTION_MEGAGATLING]
+Mega Gatling Pea: At Level 5, has a {Param_1}% chance to grant one attribute. Attributes include Ice, Fire, Lightning, Toxic, Primal, and Triple.
+The attribute granted by Mega Gatling Pea depends on the peashooters equipped in the plant slots. 
+Equipping only Primal Peashooter gives 100% chance for Primal; equipping Primal + Electric Peashooter gives 50% chance for each attribute.
+
 [MEGAGATLING_AVATAR_NAME]
 Mega Gatling Pea glasses
 
@@ -23693,6 +24660,137 @@ Banishing a zombie has a 30% chance of permanently banishing it, unleashing an e
 [PEONYCHI_AVATAR_PLANTFOOD_DESCRIPTION]
 可以额外吸引后方的僵尸到身前
 
+[UMBRELLALEAF]
+Umbrella Leaf
+
+[UMBRELLALEAF_DESCRIPTION_HEADER]
+When Umbrella Leaf is in a closed state and detects a falling enemy within a 3x3 area, it will enter an open state, launching the enemy 3 tiles to the right, the open state lasts for 8 seconds. After the the open state ends, there is a 5 second cooldown. This plant is especially effective against Bungee Zombies and Catapult Zombies.
+
+[UMBRELLALEAF_DESCRIPTION]
+{KEYWORD}Special：{STAT}Defends against falling zombies, repels falling zombies
+{KEYWORD}Plant feature：{STAT}Green plant
+{FLAVOR}Umbrella Leaf loves using Rafflesia brand shampoo. After using it, its leaves become very duang, which helps bounce away those pesky zombies.
+
+[UMBRELLALEAF_TOOLTIP]
+When in the open-umbrella state, it can bounce away most zombie in a 3x3 range.
+
+[UMBRELLALEAF_SKILL_LEVEL1]
+Bouncy, Shiny Hair
+
+[UMBRELLALEAF_SKILL_LEVEL1_DES]
+Zombie units that can be knocked back have been upgraded to level 6.
+
+[UMBRELLALEAF_SKILL_LEVEL2]
+Glimpse of a Flower
+
+[UMBRELLALEAF_SKILL_LEVEL2_DES]
+Zombie units that can be knocked back have been upgraded to level 8.
+
+[UMBRELLALEAF_SKILL_LEVEL5]
+Angle of Incidence Adjustment
+
+[UMBRELLALEAF_SKILL_LEVEL5_DES]
+When facing most basic zombie projectiles, it can deflect them back at the attacker. When facing zombie projectiles with powerful effects, it can absorb the effect of the projectile for plants within a 3x3 area around it.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL1_DES]
+When in the open-umbrella state, it can bounce away most zombie in a 3x3 range.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL2_DES]
+Zombie units that can be knocked back have been upgraded to level 6.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL3_DES]
+Zombie units that can be knocked back have been upgraded to level 8.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL4_DES]
+Umbrella Leaf may be boosted when planted.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL5_DES]
+When facing most basic zombie projectiles, it can deflect them back at the attacker. When facing zombie projectiles with powerful effects, it can absorb the effect of the projectile for plants within a 3x3 area around it.
+
+[UMBRELLALEAF_PLANTFOOD_DESCRIPTION]
+Unfurl her leaves wider and begin blocking in a 5x5 area, as well as knocking back zombies by 3 tiles.
+
+[UMBRELLALEAF_AVATAR_PLANTFOOD_DESCRIPTION]
+Leaves can now knock back Gargantuars.
+
+[STORE_PRODUCT_AVATAR_UMBRELLALEAF_TITLE]
+Umbrella Leaf Glasses
+
+[UMBRELLALEAF_AVATAR_NAME]
+Umbrella Leaf Glasses
+
+[STORE_PRODUCT_AVATAR_UMBRELLALEAF]
+Leaves can now knock back Gargantuars.
+
+
+[DUCKPEAR]
+Duck Pear
+
+[DUCKPEAR_DESCRIPTION_HEADER]
+After charging up, it spits out a water ball to attack zombies, which can create puddles.
+
+[DUCKPEAR_DESCRIPTION]
+{KEYWORD}Special：{STAT}After charging up, it spits out a water ball to attack zombies, which can create puddles.
+{KEYWORD}Plant features：{STAT}Yellow plant
+{FLAVOR}Duck Pear achieved good results in the plant cuteness contest with its famous skill "turbo-enhanced duck".
+
+[DUCKPEAR_TOOLTIP]
+After charging up, it spits out a water ball to attack zombies, which can create puddles.
+
+[DUCKPEAR_SKILL_LEVEL1]
+Water Replenishment
+
+[DUCKPEAR_SKILL_LEVEL1_DES]
+After each charge-up, there is a 15% chance that Duck Pear will trigger a special attack, which will directly spit out a water ball that has been upgraded to level one.
+
+[DUCKPEAR_SKILL_LEVEL2]
+Loves Drinking Water
+
+[DUCKPEAR_SKILL_LEVEL2_DES]
+After each charge-up, there is a 25% chance that Duck Pear will trigger a special attack, which will directly spit out a water ball that has been upgraded to level one.
+
+[DUCKPEAR_SKILL_LEVEL5]
+Turbo Duck
+
+[DUCKPEAR_SKILL_LEVEL5_DES]
+When attacking, there is a 20% chance to spit out a special jelly-like water ball, which can absorb one Gargantuar into its internal space. Each special water ball can only absorb one Gargantuar, and the Gargantuar only occupies one absorption capacity.
+
+[DUCKPEAR_SUPERSKILL]
+Turbo Duck
+
+[DUCKPEAR_SUPERSKILL_DES]
+When attacking, there is a 20% chance to spit out a special jelly-like water ball, which can absorb one Gargantuar into its internal space. Each special water ball can only absorb one Gargantuar, and the Gargantuar only occupies one absorption capacity.
+
+[DUCKPEAR_NEW_SKILL_LEVEL1_DES]
+After charging, Duck Pear spits a water ball that rolls forward and creates 1–2 random puddles upon hitting a zombie; the ball can absorb puddles to level up twice, and at max level it can sweep up to 4 non-Gargantuar zombies off the screen.
+[DUCKPEAR_NEW_SKILL_LEVEL2_DES]
+After each charge-up, there is a 15% chance that Duck Pear will trigger a special attack, which will directly spit out a water ball that has been upgraded to level one.
+
+[DUCKPEAR_NEW_SKILL_LEVEL3_DES]
+After each charge-up, there is a 25% chance that Duck Pear will trigger a special attack, which will directly spit out a water ball that has been upgraded to level one.
+
+[DUCKPEAR_NEW_SKILL_LEVEL4_DES]
+Duck Pear may be boosted when planted.
+
+[DUCKPEAR_NEW_SKILL_LEVEL5_DES]
+When attacking, there is a 20% chance to spit out a special jelly-like water ball, which can absorb one Gargantuar into its internal space. Each special water ball can only absorb one Gargantuar, and the Gargantuar only occupies one absorption capacity.
+
+[DUCKPEAR_PLANTFOOD_DESCRIPTION]
+Inflates, then spits out three large water balls.
+
+[DUCKPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
+Inflates, then spits out three large water balls.
+
+[STORE_PRODUCT_AVATAR_DUCKPEAR_TITLE]
+Duck Pear Lime green
+
+[DUCKPEAR_AVATAR_NAME]
+Duck Pear Lime green
+
+[STORE_PRODUCT_AVATAR_DUCKPEAR]
+Inflates, then spits out three large water balls.
+
+
 [Plants_End]
 
 
@@ -24401,6 +25499,9 @@ Not unlocked yet
 
 [ADVICE_NOT_ON_ICEBLOCKS]
 You can't plant on blocks or statues.
+
+[ADVICE_NOT_ON_BUBBLECORAL]
+Bubble Princess Coral wants to go swimming today.
 
 [ADVICE_STAR_CHALLENGES_UNLOCKED]
 More Stars are available in other completed levels.
@@ -25759,10 +26860,10 @@ Because a true gentleman never steals… unless you are Arsène Lupin
 Merry Christmas
 
 [RANK_AVATAR_CONTENT_CONTENT_61038]
-A warm fireplace, a cozy gathering
+Even zombie can have Christmas
 
 [RANK_AVATAR_CONTENT_TITLE_61039]
-Nature's Rebirth
+All Things Revive
 
 [RANK_AVATAR_CONTENT_CONTENT_61039]
 Congratulations! For being a Grandmaster!!!!
@@ -25773,7 +26874,7 @@ Surprise Party
 
 [RANK_AVATAR_CONTENT_CONTENT_61040]
 Congratulations! For being a Grandmaster!!!!
-Season 32
+Season 30
 
 [RANK_AVATAR_CONTENT_TITLE_61041]
 Journey to the weste
@@ -25842,33 +26943,6 @@ Moonlit Night
 Congratulations! For being a Grandmaster!!!!
 Season 37
 
-[RANK_AVATAR_CONTENT_TITLE_61038]
-Merry Christmas
-
-[RANK_AVATAR_CONTENT_CONTENT_61038]
-Even zombie can have Christmas
-
-[RANK_AVATAR_CONTENT_TITLE_61039]
-All Things Revive
-
-[RANK_AVATAR_CONTENT_CONTENT_61039]
-Congratulations! For being a Grandmaster!!!!
-Season 29
-
-[RANK_AVATAR_CONTENT_TITLE_61040]
-Surprise Party
-
-[RANK_AVATAR_CONTENT_CONTENT_61040]
-Congratulations! For being a Grandmaster!!!!
-Season 30
-
-[RANK_AVATAR_CONTENT_TITLE_61041]
-Westward Journey
-
-[RANK_AVATAR_CONTENT_CONTENT_61041]
-Congratulations! For being a Grandmaster!!!!
-Season 31
-
 [RANK_AVATAR_CONTENT_TITLE_61500]
 Hallowen night
 
@@ -25897,7 +26971,8 @@ Stare into the black hole until it stares back
 Beginning of the End
 
 [RANK_AVATAR_CONTENT_CONTENT_61051]
-Grandmaster Tier Reward for Duel Season 38
+Congratulations! For being a Grandmaster!!!!
+Season 38
 
 [rank_avatar_diy_55]
 Snowy Village
@@ -25906,16 +26981,26 @@ Snowy Village
 Snowy Village
 
 [RANK_AVATAR_CONTENT_CONTENT_61052]
-Grandmaster Tier Reward for Duel Season 39
+Congratulations! For being a Grandmaster!!!!
+Season 39
 
 [rank_avatar_diy_56]
 Zombie Slaying Incident
+
+[rank_avatar_diy_57]
+Double Festival Gifts
 
 [RANK_AVATAR_CONTENT_TITLE_61053]
 Zombie Slaying Incident
 
 [RANK_AVATAR_CONTENT_CONTENT_61053]
 Not Available Yet
+
+[RANK_AVATAR_CONTENT_TITLE_61054]
+Double Festival Gifts
+
+[RANK_AVATAR_CONTENT_CONTENT_61054]
+Rewards for players participating in the January Co-op event in 2026.
 
 [RANK_AVATAR_BTN_CHANGE]
 Replace
@@ -28938,6 +30023,12 @@ It's Raining Seeds
 
 [STARCHALLENGE_SEEDRAIN]
 Survive using plant packets and hypnotized zombie packets fall from the sky.
+
+[STARCHALLENGE_BESIEGN_NAME]
+Across the Lawn
+
+[STARCHALLENGE_BESIEGN]
+Set up obstacles and plants to prevent zombies from reaching the houses
 
 [STARCHALLENGE_BESIEGE_NAME]
 Across the Lawn
@@ -34223,13 +35314,13 @@ Confirm Draw
 Confirm Exchange
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {PRICE} Gems to exchange for 1 tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for 1 tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {PRICE} Gems to exchange for 10 tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for 10 tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {PRICE} Gems to exchange for {NUM} tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for {NUM} tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
 Are you sure you want to spend {PRICE} Penny Lottery's tickets to open?
@@ -36214,6 +37305,12 @@ Hamster Ball
 
 [PVZ1MODE_HAMSTERBALL_NORMAL_DESC]
 Hamster Balls incoming - beware of the zombies inside!
+
+[PVZ1MODE_SHENGDANWA]
+Christmas Stocking
+
+[PVZ1MODE_SHENGDANWA_NORMAL_DESC]
+Defeat special zombies to get Christmas Stockings. Place them on the lawn to protect them. Occasionally, sleighs flying by will drop gifts that can be caught by the stockings. Open gifts after the level to get rewards! But be careful not to let zombies near the stockings.
 
 [STARCHALLENGE_EVIL]
 Command zombie hordes to eat all plants
@@ -39515,6 +40612,138 @@ Pick random targets on the lawn to fire large quantities of explosive peppers wh
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
 Splits when killed
+
+[ZOMBIE_BOBSLED]
+圣诞冰车僵尸
+
+[ZOMBIE_BOBSLED_DESCRIPTION]
+僵尸语翻译器：“Z公司总是浪费预算，他们不仅给冰车加上了毫无用处的装饰，还吊销了我的驾驶执照让其他僵尸开！”——神秘鲻鱼头发型僵尸
+
+[ZOMBIE_BOBSLED_DESCRIPTION_HEADER]
+碾压路上的植物，并在身后留下冰道
+
+[ZOMBIE_SLED]
+圣诞节雪橇车僵尸小队
+
+[ZOMBIE_SLED_DESCRIPTION]
+赞助商为圣诞节主题准备了新的雪橇车型。但是由于冰道铺设行业的不景气，这项僵尸极限运动的损耗率太大，Z公司财务部门表示强烈不满。
+
+[ZOMBIE_SLED_DESCRIPTION_HEADER]
+四个为一队，可乘坐雪橇车在冰道上快速移动
+
+[ZOMBIE_SLED_ARMOR]
+圣诞节雪橇车僵尸队员
+
+[ZOMBIE_SLED_ARMOR_DESCRIPTION]
+有些队员是从滑雪运动员临时转来有舵雪橇运动的。他们听说这里的工资很高，其实不过是多几张僵尸博士的圣诞美照。
+
+[ZOMBIE_SLED_DESCRIPTION_HEADER]
+雪橇头盔可为其抵挡一定的伤害
+
+[ZOMBIE_FIGURE_SKATING]
+花样滑冰僵尸
+
+[ZOMBIE_FIGURE_SKATING_DESCRIPTION]
+她最擅长冰上颤抖式表演，可能是冰刀鞋忘了系鞋带。
+
+[ZOMBIE_FIGURE_SKATING_DESCRIPTION_HEADER]
+在冰道上快速移动，并躲避子弹
+
+[ZOMBIE_SNOW_BALLROLLER]
+滚雪球僵尸
+
+[ZOMBIE_SNOW_BALLROLLER_DESCRIPTION]
+雪球越滚越大～僵尸博士的加班费欠条越来越长～
+
+[ZOMBIE_SNOW_BALLROLLER_DESCRIPTION_HEADER]
+滚动雪球碾压路上的植物，雪球随移动距离变大，只能被火焰植物伤害
+
+[ZOMBIE_NUTCRACKER]
+胡桃夹子僵尸
+
+[ZOMBIE_NUTCRACKER_DESCRIPTION]
+胡桃夹子僵尸擅长开果核，是僵尸博士为坚果准备的圣诞大礼。但胡桃夹子僵尸只想要“开”玩笑………太糟糕了，这谐音笑话真冷。
+
+[ZOMBIE_NUTCRACKER_DESCRIPTION_HEADER]
+面对防御类植物时，胡桃夹子僵尸攻击方式变为切砍，每次对目标植物造成超高伤害，随后短暂歇息。
+
+[ZOMBIE_NUTCRACKER_GARGANTUAR]
+胡桃夹子巨人僵尸
+
+[ZOMBIE_NUTCRACKER_GARGANTUAR_DESCRIPTION]
+别说七步，胡桃夹子巨人僵尸从来不会主动往后退着走一步，他是更专业更强大的开脑器。
+
+[ZOMBIE_NUTCRACKER_GARGANTUAR_DESCRIPTION_HEADER]
+冲锋入场，碾压经过的植物，直至左侧第三列，冲刺过程中免疫大部分控制。发条可被磁力菇等植物吸取，而后巨人变为常规攻击模式。
+
+[ZOMBIE_GIFTBOX]
+礼物头僵尸
+
+[ZOMBIE_GIFTBOX_DESCRIPTION]
+字条：吾门为你的大脑赠送的最好的圣诞礼物。——不是僵尸
+
+[ZOMBIE_GIFTBOX_DESCRIPTION_HEADER]
+礼物中藏着各种帽子
+
+[ZOMBIE_FAIRY_TALE_IMP_ELITE]
+精英白皇后小鬼僵尸
+
+[ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION]
+圣诞化妆舞会！但好像来的是真家伙！
+
+[ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION_HEADER]
+只有被从近卫巨人身上击落时才会受到伤害，逃跑后可以重新入场
+
+[ELITE_ZOMBIE_TIPS_TEXT_FAIRY_TALE_IMP_ELITE]
+^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+
+[ZOMBIE_DARK_JUGGLER_ELITE]
+精英小丑僵尸
+
+[ZOMBIE_DARK_JUGGLER_ELITE_DESCRIPTION]
+宴会上总有一些坏蛋在偷偷摸摸地多顺走些东西……
+
+[ZOMBIE_DARK_JUGGLER_ELITE_DESCRIPTION_HEADER]
+每隔一段时间，精英小丑僵尸吸收场上所有子弹，并上下移动将其发射出去
+
+[ELITE_ZOMBIE_TIPS_TEXT_DARK_JUGGLER_ELITE]
+^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+
+[ZOMBIE_LADDER]
+梯子僵尸
+
+[ZOMBIE_LADDER_DESCRIPTION]
+在那个辉煌的时间，梯子僵尸忙于做专业的窗户清洁工，虽然那个时候的人类都拉紧窗帘，但对于僵尸来说，确实是外侧的玻璃才有必要清理。现在，他终于有时间重拾自己的梯子功夫了。
+
+[ZOMBIE_LADDER_DESCRIPTION_HEADER]
+梯子可抵挡伤害，可在坚果墙等防御植物上架设梯子使僵尸越过该植物
+
+[ZOMBIE_POLE_VAULTING]
+撑杆僵尸
+
+[ZOMBIE_POLE_VAULTING_DESCRIPTION]
+小镇日报：失踪十几年的撑杆僵尸现已回归！现在这个年头看到他就像经历了一场奇妙的时间之旅一样！唯独表示不满的是我们院子里可爱的白色栅栏，他们又失去作用了！
+
+[ZOMBIE_POLE_VAULTING_DESCRIPTION_HEADER]
+跨越遇到的第一颗植物，低生命值时会将手上的撑杆投掷并伤害植物
+
+[ZOMBIE_LADDER_FESTIVAL]
+圣诞节梯子僵尸
+
+[ZOMBIE_LADDER_FESTIVAL_DESCRIPTION]
+梯子是用来爬上烟囱的，不过可不是为了给你投放礼物，而是僵尸把自己作为你的礼物进行投放。
+
+[ZOMBIE_LADDER_FESTIVAL_DESCRIPTION_HEADER]
+梯子可抵挡伤害，可在坚果墙等防御植物上架设梯子使僵尸越过该植物
+
+[ZOMBIE_POLE_VAULTING_FEASTIVUS]
+圣诞节撑杆僵尸
+
+[ZOMBIE_POLE_VAULTING_FEASTIVUS_DESCRIPTION]
+小镇日报：失踪十几年的撑杆僵尸现已回归！现在这个年头看到他就像经历了一场奇妙的时间之旅一样！唯独表示不满的是我们院子里可爱的白色栅栏，他们又失去作用了！
+
+[ZOMBIE_POLE_VAULTING_FEASTIVUS_DESCRIPTION_HEADER]
+跨越遇到的第一颗植物，低生命值时会将手上的撑杆投掷并伤害植物
 
 [ELIMINATE_TIP1]
 Well done!
@@ -43516,19 +44745,19 @@ Small red envelope
 Big red envelope
 
 [MAT_NUTRIENT_0]
-5th level White potion
+Level 5 White potion
 
 [MAT_NUTRIENT_1]
-5th level Green potion
+Level 5 Green potion
 
 [MAT_NUTRIENT_2]
-5th level Blue potion
+Level 5 Blue potion
 
 [MAT_NUTRIENT_3]
-5th level Purple potion
+Level 5 Purple potion
 
 [MAT_NUTRIENT_4]
-5th level Orange potion
+Level 5 Orange potion
 
 [NORMAL_LOGIN_CHEST]
 Normal chest
@@ -51538,7 +52767,7 @@ Pea shooter avatar, a symbol of handsome guys!
 Sunflower avatar, symbol of beauty!
 
 [PLAYERS_TRIP_TO_BOSSRACEEVENT]
-{PLAYER}'s extreme racing journey
+{PLAYER}'s Boss Rush
 
 [THIS_ACHIEVEMENT]
 This grade：
@@ -52434,7 +53663,19 @@ Don't remind me today
 [NARRATIVE_ICEAGE_UNCHARTED_EVENT_TUTORIAL_4]
 {NPC_ENTER：crazydave}{EXCITED：crazydave} looks like that brain is causing trouble again, go! Will he
 
- [NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_1]
+[NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_1]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Beep boop beep, my space-time jump alarm is going off.
+
+[NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_2]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, that doesn't sound like good news.
+
+[NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_3]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}It seems... it seems like something strange is happening in the Ice Age.
+
+[NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_4]
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Looks like that big head is up to no good again. Let's go! Time to give him a piece of our minds.
+
+[NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_1]
 {NPC_ENTER：winnie}{ PLAYFUL：winnie } is the annual Children's Playpark!
 
 [NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_2]
@@ -55124,7 +56365,7 @@ Refresh countdown.
 Refresh Countdown
 
 [SHOP_REFRESH_COUNTDOWN_LABEL]
-Store Reset Countdown
+Refresh in
 
 [SECRET_MIDDLE_STR]
 Available
@@ -55803,16 +57044,16 @@ Plants cannot be planted on a fire
 Plants cannot be planted on snowballs
 
 [PLANTING_ARTIFACT_EVOLUTION_NOT_ON_THIS]
-Evolutionary artifacts cannot be planted here
+Evolver Artifact cannot be planted here
 
 [PLANTING_ARTIFACT_BLACKHOLE_NOT_ON_THIS]
 Black hole artifacts cannot be planted here
 
 [PLANTING_ARTIFACT_SILVERKEY_NOT_ON_THIS]
-The Silver Key artifact cannot be planted here
+Silver Key Artifact cannot be planted here
 
 [PLANTING_ARTIFACT_ACID_NOT_ON_THIS]
-The acid artifact cannot be planted here
+Acid Artifact cannot be planted here
 
 [PLANTING_WIZARD_CRUCIBLE_NOT_ACTIVATED]
 The Wizard's Crucible hasn't boiled yet
@@ -55999,13 +57240,13 @@ GROUP PREVIEW
 BUY
 
 [GROUP_BUY_BEEN]
-Has participated in group purchase 
+BOUGHT
 
 [GROUP_BUY_SUCCESS]
 Successful grouping
 
 [GROUP_BUY_NOTICE_DES]
-Here are the items that can be discounted tomorrow：
+Discounted products available tomorrow:
 
 [GROUP_BUY_NOTICE_END]
 That the ^FFFF00 last day ^oldclr quickly buy your favorite plant before the end!!!
@@ -56044,7 +57285,7 @@ Exchange Quantity
 10%
 
 [GROUP_BUY_RETURN]
-Group purchase back diamond
+Congratulations!
 
 [ACTIVITY_GROUP_BUY_TITLE]
 Group buying instructions
@@ -56440,6 +57681,9 @@ Rank {NUMBER}
 
 [JOUST_TOURNAMENT_PLACEMENT_RESULT_FTUE]
 Here are 5 Gauntlets to help you get started!
+
+[JOUST_TOURNAMENT_REWARDS_TIPS]
+Rewards obtained:
 
 [JOUST_LEAGUE_NAME_COPPER]
 Bronze League
@@ -63347,14 +64591,8 @@ Sun-producing plants are banned
 [THEME_SUN_DISABLED_NAME]
 Deadly Sun
 
-[THEME_SUN_DISABLED__DESCRIPTION]
+[THEME_SUN_DISABLED_DESCRIPTION]
 Zombies drop sun when defeated
-
-[STARCHALLENGE_PROTECT_THE_PLANT]
-Survive and protect plants at risk
-
-[STARCHALLENGE_PROTECT_THE_PLANT_NAME]
-Protect our seeds
 
 [JOUST_LEAGUE_NAME_WOOD_SHORT_1]
 Log
@@ -63649,96 +64887,6 @@ Unable to view current artifact details.
 [KILL_DESC]
 Use {NAME} to kill {NUMBER} zombies.
 
-[ARTIFACT_SHIELD]
-Shield Artifact
-
-[ARTIFACT_SHIELD_DESCRIPTION]
-Summon a shield covering 5 rows to push forward and push away zombies it encounters.
-
-[ARTIFACT_SHIELD_SKILL_1]
-Wall of Sighs
-
-[ARTIFACT_SHIELD_SKILL_DESCRIPTION_1]
-Active Use： Summon a shield covering 5 rows to push forward. When encountering zombies, it pushes them away. Zombies do not attack the shield. The more zombies the shield blocks, the slower it moves. The shield lasts for {MainField_1} seconds. Cooldown： 30 seconds. Can be used {MainField_3} times per battle.
-
-[ARTIFACT_SHIELD_SKILL_2]
-Defense Proficiency
-
-[ARTIFACT_SHIELD_SKILL_DESCRIPTION_2]
-Passive Ability： Increases the attack and defense attributes of defensive plants by {PassiveField1_1}%.
-
-[ARTIFACT_SHIELD_SKILL_3]
-Autonomous Shield
-
-[ARTIFACT_SHIELD_SKILL_DESCRIPTION_3]
-Passive Ability： If any plant remains untouched for {PassiveField2_1} seconds after being planted, it generates a shield with {PassiveField2_2} health to protect itself.
-
-[ARTIFACT_SHIELD_SKILL_4]
-Strong Shield Wall
-
-[ARTIFACT_SHIELD_SKILL_DESCRIPTION_4]
-Passive Ability： Reduces the impact of zombies on the shield's movement speed.
-
-[ARTIFACT_ARCADE]
-Arcade Artifact
-
-[ARTIFACT_ARCADE_DESCRIPTION]
-Devolve zombies into weaker ones.
-
-[ARTIFACT_ARCADE_SKILL_1]
-Devolution Beam
-
-[ARTIFACT_ARCADE_SKILL_2]
-Mage Mastery
-
-[ARTIFACT_ARCADE_SKILL_3]
-Timed Devolution
-
-[ARTIFACT_ARCADE_SKILL_4]
-Strong Devolution
-
-[ARTIFACT_ARCADE_SKILL_DESCRIPTION_1]
-Active Use： Replace all zombies on the field (except giants) with randomly lower-tier zombies. Cooldown： {MainField_5} seconds. Can be used {MainField_6} times per battle.
-
-[ARTIFACT_ARCADE_SKILL_DESCRIPTION_2]
-Passive Ability： Increases the attack and defense attributes of mage-type plants by {PassiveField1_1}%.
-
-[ARTIFACT_ARCADE_SKILL_DESCRIPTION_3]
-Passive Ability： Every {PassiveField2_1} seconds, randomly devolve 3 zombies.
-
-[ARTIFACT_ARCADE_SKILL_DESCRIPTION_4]
-Passive Ability： Devolution has a 30% chance to turn zombies into chickens.
-
-[ARTIFACT_GASHAPON]
-Gashapon Artifact
-
-[ARTIFACT_GASHAPON_DESCRIPTION]
-Spins three gashapon to give corresponding effects.
-
-[ARTIFACT_GASHAPON_SKILL_1]
-Lucky Gashapon
-
-[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_1]
-Active Use： Spin three gashapon. When two identical gashapon appear, grant corresponding effects. If three identical gashapon appear, greatly enhance the effects. Poison Mushroom inflicts poison on all zombies; Avocado summons a group to charge at zombies; Psychic Flower charms zombies; Iceberg Lettuce freezes all zombies; sun Rain drops sun from the sky. Cooldown： 30 seconds. Can be used {MainField_3} times per battle.
-
-[ARTIFACT_GASHAPON_SKILL_2]
-Probability Mastery
-
-[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_2]
-Passive Ability： Increases the attack and defense attributes of plants with probability-based attacks by {PassiveField1_1}%.
-
-[ARTIFACT_GASHAPON_SKILL_3]
-Guaranteed Result
-
-[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_3]
-Passive Ability： If three identical gashapon are not spun in one use, the next spin will guarantee three identical gashapon. (Resets every game)
-
-[ARTIFACT_GASHAPON_SKILL_4]
-Gashapon Upgrade
-
-[ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
-Passive Ability： Items in the gashapon artifact become better, stronger, and more beautiful. Poison Mushroom is replaced with Aconitum; Avocado is replaced with Windbreak Grass; Psychic Flower is replaced with Charm Mushroom; Iceberg Lettuce is replaced with Crystal Orchid; sun Rain gets an upgrade.
-
 [ARTIFACT_GASHAPON_RESULT_2]
 Two identical
 
@@ -63805,549 +64953,11 @@ Turn all zombies into Snowmen for 25 seconds.
 [ARTIFACT_GASHAPON_AFFECT_93]
 2400 sun.
 
-[ARTIFACT_UFO]
-UFO Artifact
-
-[ARTIFACT_UFO_DESCRIPTION]
-Summon a UFO to attempt to abduct all zombies on the field.
-
-[ARTIFACT_UFO_SKILL_1]
-UFO Strike
-
-[ARTIFACT_UFO_SKILL_DESCRIPTION_1]
-Active Use： Summon a UFO to lift all zombies upwards, lasting for {MainField_2} seconds. The smaller the zombies, the faster they are. Zombies lifted into the UFO are abducted, while those not abducted fall from mid-air and deal damage. Cooldown： 30 seconds. Can be used {MainField_6} times per battle.
-
-[ARTIFACT_UFO_SKILL_2]
-Flight Mastery
-
-[ARTIFACT_UFO_SKILL_DESCRIPTION_2]
-Passive Ability： Increases the attack and defense attributes of flying plants by {PassiveField1_1}%.
-
-[ARTIFACT_UFO_SKILL_3]
-Mother-Child UFOs
-
-[ARTIFACT_UFO_SKILL_DESCRIPTION_3]
-Passive Ability： Every {PassiveField2_1} seconds, summon 3 small UFOs to absorb the nearest 3 zombies, with the same duration as the active skill.
-
-[ARTIFACT_UFO_SKILL_4]
-Reduced Gravity
-
-[ARTIFACT_UFO_SKILL_DESCRIPTION_4]
-Passive Ability： Zombies lifted in the air by the UFO and then attacked by plants will be knocked back, with the distance depending on the zombie's size.
-
-[ARTIFACT_PRISMTOWER]
-Prism Tower Artifact
-
-[ARTIFACT_PRISMTOWER_DESCRIPTION]
-Emits lasers that continuously deal increasing damage to zombies.
-
-[ARTIFACT_PRISMTOWER_SKILL_1]
-Prism Ray
-
-[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_1]
-Toggle the artifact on/off. The initial energy storage limit for this artifact is 100. When activated, it consumes energy to emit a laser that continuously damages the nearest zombie. This damage increases over time. When deactivated, the damage resets to its initial value and the energy slowly replenishes. The initial damage per second
-
-[ARTIFACT_PRISMTOWER_SKILL_3]
-Rapid Charging
-
-[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_3]
-Passive Ability： Increases the rate at which the laser's damage amplification occurs by {PassiveField2_1}%.
-
-[ARTIFACT_PRISMTOWER_SKILL_4]
-Explosive Beam
-
-[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_4]
-When the laser kills a zombie, it causes an explosion damage equal to 200% of the current damage per second.
-
-[ARTIFACT_DINOSAURHORN]
-Dinosaur Horn Artifact
-
-[ARTIFACT_DINOSAURHORN_DESCRIPTION]
-Unleashes a dinosaur stampede to deal massive damage to all zombies on the field.
-
-[ARTIFACT_DINOSAURHORN_SKILL_1]
-Dinosaur Stampede
-
-[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_1]
-Active Use： Summon two dinosaurs per row to charge into the field, trampling medium and small-sized zombies. Each dinosaur can trample up to 3 zombies. Zombies not killed are stunned and damaged.
-
-[ARTIFACT_DINOSAURHORN_SKILL_2]
-Primeval Liberation
-
-[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
-Passive Ability： Increases the attack and defense attributes of primitive-type plants by {PassiveField1_1}%.
-
-[ARTIFACT_DINOSAURHORN_SKILL_3]
-Enhanced Stun
-
-[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
-Increases the stun duration of zombies to {PassiveField2_1} seconds.
-
-[ARTIFACT_DINOSAURHORN_SKILL_4]
-Thunderous Stomp
-
-[ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_4]
-Every {PassiveField3_1} seconds, initiates a thunderous stomp on the front line of zombies, dealing 5000 damage and stunning them for 4 seconds.
-
-[ARTIFACT_WATERGUN]
-Water Gun Artifact
-
-[ARTIFACT_WATERGUN_DESCRIPTION]
-Launches a water column to push back all zombies on the field, accompanied by water droplet effects.
-
-[ARTIFACT_WATERGUN_SKILL_1]
-Water Column Jet
-
-[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
-Active Use： Releases a powerful water column per row to push zombies backward.
-
-[ARTIFACT_WATERGUN_SKILL_2]
-Primeval Liberation
-
-[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_2]
-Passive Ability： Increases the attack and defense attributes of water/ice-type plants by {PassiveField1_1}%.
-
-[ARTIFACT_WATERGUN_SKILL_3]
-Rain and Dew
-
-[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} seconds, waters the first three rows of plants, increasing their attack speed.
-
-[ARTIFACT_WATERGUN_SKILL_4]
-Thrust Burst
-
-[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_4]
-Increases the knockback distance per second.
-
-[ARTIFACT_BEEHIVE]
-Beehive Artifact
-
-[ARTIFACT_BEEHIVE_DESCRIPTION]
-Summons bees to attack enemies.
-
-[ARTIFACT_BEEHIVE_SKILL_1]
-Bees' Attack
-
-[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_1]
-Active Use： Every time a plant is planted, a bee flies into the beehive, with a maximum of 15 bees. Clicking the skill button releases all bees to attack the closest zombies on the field. Each bee deals {MainField_2} damage per second. After attacking 10 times, they return to the beehive and can be released again. Cooldown： 30 seconds.
-
-[ARTIFACT_BEEHIVE_SKILL_2]
-Quick Planting
-
-[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_2]
-Passive Ability： Reduces the cooldown of planting plants by {PassiveField1_1}%.
-
-[ARTIFACT_BEEHIVE_SKILL_3]
-Super Breeding
-
-[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_3]
-There is a {PassiveField2_1}% chance to generate an extra bee when planting plants.
-
-[ARTIFACT_BEEHIVE_SKILL_4]
-Bee Fusion
-
-[ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_4]
-When the number of bees in the beehive exceeds 15, the extra bees automatically merge into a Giant Bee. Giant Bees have their attack speed and damage doubled, and their attacks apply poison, slowing zombies and dealing damage equal to 1% of the maximum health per second.
-
-[ARTIFACT_SILVERKEY]
-Silver Key Artifact
-
-[ARTIFACT_SILVERKEY_DESCRIPTION]
-Open the door to truth to absorb enemies
-
-[ARTIFACT_SILVERKEY_SKILL_1]
-Door of Truth
-
-[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_1]
-Active use： Select a grid to release, summon the door of truth, and absorb the small and medium-sized zombies on the right side of the door into the door. The absorption range is three rows on the right side, and each time it can absorb 6+. The current artifact level *0.2 (round down) Only zombies can be released repeatedly, with a cooldown time of 30 seconds, and can be used {MainField_4} times in each battle
-
-[ARTIFACT_SILVERKEY_SKILL_2]
-Abyss Strengthening
-
-[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_2]
-Passive Ability： The offensive and defensive attributes of abyssal plants increase {PassiveField1_1}%
-
-[ARTIFACT_SILVERKEY_SKILL_3]
-Tentacle Sorrow
-
-[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, tentacles appear at the feet of three random small and medium-sized zombies on the field, drag the zombies into the ground, and spit out energy. There are up to 3 zombies in a single time. If there are no corresponding zombies on the field, skip this crawl.
-
-[ARTIFACT_SILVERKEY_SKILL_4]
-Believers Glory
-
-[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_4]
-After absorbing the zombies, the Gate of Truth will walk out from behind the door door 1 fusion giant believer zombie. The level of the giant believer zombie is determined by the number of zombies absorbed
- 
-
-[ARTIFACT_BLACKHOLE]
-Black Hole Artifact
-
-[ARTIFACT_BLACKHOLE_DESCRIPTION]
-Summoning a black hole to pull zombies
-
-[ARTIFACT_BLACKHOLE_SKILL_1]
-Mysterious black hole
-
-[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_1]
-Active use： Pull the zombies in the direction of the black hole. Zombies of different weights pull at different speeds. Non-giant zombies will be sucked away directly when entering the center of the black hole. Giant zombies will receive {MainField_2} points of damage every second. The black hole will last {MainField_1} seconds
-
-[ARTIFACT_BLACKHOLE_SKILL_2]
-Gravitational waves
-
-[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_2]
-Passive Ability： When the black hole disappears, it will release another gravitational wave and pull all the zombies towards the center of the black hole
-
-[ARTIFACT_BLACKHOLE_SKILL_3]
-Small black holes
-
-[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, a black hole is generated in a random lattice with zombies in the range of 5x5 on the right side of the map. The black hole will attract zombies in the range of 3x3 to it, lasting {PassiveField2_2} seconds
-
-[ARTIFACT_BLACKHOLE_SKILL_4]
-Super suction
-
-[ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_4]
-When releasing skills, a plot of land in the release position will be sucked away. The plants located on the plot will also disappear. The zombies passing through the disappearing plot will fall directly. The disappearing plot will be restored after {PassiveField3_1} seconds. Giant zombies will not be affected by this effect
-
-[ARTIFACT_METEOR]
-Meteorite Artifact
-
-[ARTIFACT_METEOR_DESCRIPTION]
-Fall meteorite bombards zombies
-
-[ARTIFACT_METEOR_SKILL_1]
-Meteor Fire Rain
-
-[ARTIFACT_METEOR_SKILL_DESCRIPTION_1]
-Active use： Select a lattice to release, randomly smash 5 meteorites within the 5x5 range of the lattice, the smashed plants and at most 3 small and medium-sized zombies will be eliminated, and the remaining zombies will be damaged and stunned by the {MainField_4} point. After landing, they will stay at the landing point and burn the passing zombies, causing {MainField_8} points of damage every second, The pea bullet that passes through the meteorite at the same time attaches a flame, the skill cools for 30 seconds, and {MainField_11} times can be used in each battle
-
-[ARTIFACT_METEOR_SKILL_2]
-Flame-strengthening
-
-[ARTIFACT_METEOR_SKILL_DESCRIPTION_2]
-Increases the fire damage of the meteorite, becomes blue fire after level 10, increases the damage to {PassiveField1_1}, becomes purple fire at level 20, increases the damage to {PassiveField1_2}
-
-[ARTIFACT_METEOR_SKILL_3]
-Skyfall meteorites
-
-[ARTIFACT_METEOR_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, a meteorite is randomly smashed in a grid with zombies within 5x5 on the right side of the map
-
-[ARTIFACT_METEOR_SKILL_4]
-Burning flames
-
-[ARTIFACT_METEOR_SKILL_DESCRIPTION_4]
-The zombies passing through the burning area will be ignited, and the burning damage received per second will be replaced with {PassiveField3_1}% of the maximum health for 10 seconds
-
-[ARTIFACT_MAGICHAT]
-Magic Hat Artifact
-
-[ARTIFACT_MAGICHAT_DESCRIPTION]
-Summon the Sorcerer Zombies to attack enemy zombies
-
-[ARTIFACT_MAGICHAT_SKILL_1]
-Magic Summons
-
-[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_1]
-Active use： Summon 1 magician zombie of level/6 (rounded up) of the current artifact level on the far left side of each line for 15 seconds, the magician zombie can teleport the enemy zombies of the line to the right
-
-[ARTIFACT_MAGICHAT_SKILL_2]
-Pigeon Magic
-
-[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_2]
-Passive Abilityive： Sorcerer Zombies can also summon pigeons to take away enemy zombies of their own line
-
-[ARTIFACT_MAGICHAT_SKILL_3]
-Summoning ritual
-
-[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, summon a magician zombie in a random 1 line for 15 seconds
-
-[ARTIFACT_MAGICHAT_SKILL_4]
-Capacity strengthening
-
-[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_4]
-When a magician zombie releases the teleportation effect, it teleports the target directly to the baseline (the giant zombie teleports 2 squares), and when releasing the pigeon, it releases 2 pigeons at once and allows it to drag the medium-sized zombie
- 
-
-[ARTIFACT_EVOLUTION]
-Evolutionary Artifact
-
-[ARTIFACT_EVOLUTION_DESCRIPTION]
-Evolution of our plants
-
-[ARTIFACT_EVOLUTION_SKILL_1]
-Evolutionary rays
-
-[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_1]
-Active use： Specify the 3x3 range when using, evolve the plants in this range into plants that consume more sun than themselves, and will not deform into consumable plants. The evolved plants retain the level of the pre-evolution plants, and the skills are cooled for 30 seconds. Each battle can be used {MainField_2} times
- 
 [ARTIFACT_NO_ARTIFACT]
 You currently have no unlocked artifacts available.
 
 [ARTIFACT_NO_DETAILS]
 Unable to view current artifact details.
-
-
-
-[ARTIFACT_EVOLUTION_SKILL_2]
-The strong take all
-
-[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_2]
-Passive Ability： The attack and defense attributes of plants with sun cost greater than or equal to 300 increase {PassiveField1_1}%
-
-[ARTIFACT_EVOLUTION_SKILL_3]
-Timed evolution
-
-[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} seconds, 1 plant that consumes ≤100 sun is randomly generated in the open space, and no consumable plants will be generated
-
-[ARTIFACT_EVOLUTION_SKILL_4]
-There is nothing to be made of
-
-[ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_4]
-When releasing the skill, if there is a space without plants in the range, 1 plant with sun cost ≤100 will be randomly generated in the space, and no consumable plants will be generated
-
-[ARTIFACT_MIDASTOUCH]
-Click Golden Artifact
-
-[ARTIFACT_MIDASTOUCH_DESCRIPTION]
-Temporarily dot the zombies and kill the drop coins in time
-
-[ARTIFACT_MIDASTOUCH_SKILL_1]
-Click Stiffen to Gold
-
-[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_1]
-Active use： Turn all small and medium-sized zombies on the field into golden statues to make them unable to move, lasting {MainField_1} seconds. During this period, small-sized zombies will drop {MainField_2} Coins when they die. Medium-sized zombies will drop 2 times, and their skills will cool for 30 seconds. Each battle can be used {MainField_5} times
-
-[ARTIFACT_MIDASTOUCH_SKILL_2]
-Wonderful
-
-[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_2]
-The upper limit of Coins available for each battle increases {PassiveField1_1}
-
-[ARTIFACT_MIDASTOUCH_SKILL_3]
-Overflowing
-
-[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} seconds, turn the three small and medium-sized zombies closest to the left into golden statues
-
-[ARTIFACT_MIDASTOUCH_SKILL_4]
-Giant Alchemy
-
-[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_4]
-The golden touch effect will now also take effect on giant zombies, but the time will be halved, and 1,600 Coins will be dropped if the giant zombies die within the time
-
-[ARTIFACT_ACID]
-Acid Artifact
-
-[ARTIFACT_ACID_DESCRIPTION]
-Making acid pits that sink passing zombies
-
-[ARTIFACT_ACID_SKILL_1]
-Spraying acid
-
-[ARTIFACT_ACID_SKILL_DESCRIPTION_1]
-Active use： Select a plot where plants can be grown to release, transform the plot into an acid pool where plants cannot be grown, small zombies passing by will fall into the pool, and after a period of time will be completely dissolved and die, the acid pool can only dissolve one zombie at the same time, 2 consecutive acid pools can dissolve medium and large zombies, Use an artifact on the acid pool to recover the acid and increase the number of uses by 1 time. This artifact can be used {MainField_2} times per battle
-
-[ARTIFACT_ACID_SKILL_2]
-Acidic venom
-
-[ARTIFACT_ACID_SKILL_DESCRIPTION_2]
-The offensive and defensive attributes of poisonous plants increase {PassiveField1_1}%
-
-[ARTIFACT_ACID_SKILL_3]
-Acidic strengthening
-
-[ARTIFACT_ACID_SKILL_DESCRIPTION_3]
-Acid pool dissolves faster {PassiveField2_1}%
-
-[ARTIFACT_ACID_SKILL_4]
-Acid modification
-
-[ARTIFACT_ACID_SKILL_DESCRIPTION_4]
-After the zombie is dissolved, an acid zombie belonging to us is generated according to its body shape. The acid zombie can cause 2 times the damage to the armor. After death, the explosion causes the zombie within 3x3 range to be damaged and gives the effect of increasing the damage, lasting for 10 seconds.
-
-[ARTIFACT_SNOWDRIFT]
-Snowmaking artifact
-
-[ARTIFACT_SNOWDRIFT_DESCRIPTION]
-Freeze the entire zombie and turn it into a snowman
-
-[ARTIFACT_SNOWDRIFT_SKILL_1]
-Icestorm
-
-[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_1]
-Active use： When heavy snow blows, all zombies are frozen. Small and medium-sized zombies are slowly repelled to the right and turned into snowmen. The snowman's health is weakened to 30% of the original zombies. The snow blows continuously for {MainField_2} seconds and cools for 30 seconds. Each battle can be used {MainField_6} times
-
-[ARTIFACT_SNOWDRIFT_SKILL_2]
-Intensified freezing
-
-[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_2]
-All freezing deceleration and freezing duration increase{PassiveField1_1}%
-
-[ARTIFACT_SNOWDRIFT_SKILL_3]
-Snowball Throw
-
-[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, shooting a snowball will freeze the three zombies closest to the left for 5 seconds, and the small zombies will be turned into snowmen.
-
-[ARTIFACT_SNOWDRIFT_SKILL_4]
-Throat-capping ice cones
-
-[ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
-The active skill will continuously shoot ice cones for a duration of time. If the ice cone hits the snowman, it will kill him instantly. If it hits the giant, it will cause damage. Each ice cone can penetrate 3 times.
-
-[ARTIFACT_SKATEBOARD]
-Skateboard Artifact
-
-[ARTIFACT_SKATEBOARD_DESCRIPTION]
-Plants ride on skateboards to release their gorgeous ultimate move
-
-[ARTIFACT_SKATEBOARD_SKILL_1]
-Superstar debuts
-
-[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_1]
-Active use： After releasing the skill, a random plant enters the field on a skateboard and moves from left to right. During the sliding process, the plant releases a gorgeous ultimate move and can swipe up and down the screen at any time to change the number of rows on the skateboard. The damage is related to the artifact level and cools for 30 seconds. Each battle can be used {MainField_2} times
-
-[ARTIFACT_SKATEBOARD_SKILL_2]
-Idol practice
-
-[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_2]
-Skateboard-related plants have increased offensive and defensive attributes {PassiveField1_1}%
-
-[ARTIFACT_SKATEBOARD_SKILL_3]
-Skateboard impact
-
-[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, launch 3 skateboards at the nearest 3 zombies. The skateboard will kill the first zombie it encounters instantly, and then insert it vertically on the ground to block the zombies
-
-[ARTIFACT_SKATEBOARD_SKILL_4]
-Shining Superstar
-
-[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_4]
-All plants on the skateboard become their upper replacement plants, reinforcing the effect of each plant.
-
-[ARTIFACT_DRAGON]
-Dragonlamp Artifact
-
-[ARTIFACT_DRAGON_DESCRIPTION]
-Summoning a dragon lamp ramming through a zombie causing damage
-
-[ARTIFACT_DRAGON_SKILL_1]
-Dragonlight hovering
-
-[ARTIFACT_DRAGON_SKILL_DESCRIPTION_1]
-Active use： Summon the dragon lantern to enter the field and hover. The dragon lantern will move with the nearest zombie as the target. After passing through the zombie, it will cause {MainField_1} points of damage every 0.1 seconds. The length of the dragon lantern will grow with the artifact level. The dragon lantern exists {MainField_3} seconds. Skill cooling {MainField_4} seconds, {MainField_5} times can be used in each battle.
-
-[ARTIFACT_DRAGON_SKILL_2]
-Dragon jubilant
-
-[ARTIFACT_DRAGON_SKILL_DESCRIPTION_2]
-The offensive and defensive attributes of dragon plants increase {PassiveField1_1}%
-
-[ARTIFACT_DRAGON_SKILL_3]
-Dragonlight Parade
-
-[ARTIFACT_DRAGON_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} seconds, a small dragon light flies out, and flies in a straight line with the leftmost zombie on the field as the target until leaving the field. During this period, it causes {PassiveField2_2} points of damage to the penetrating zombie every 0.1 seconds.
-
-[ARTIFACT_DRAGON_SKILL_4]
-Single Dragon Plays with Pearls
-
-[ARTIFACT_DRAGON_SKILL_DESCRIPTION_4]
-When a dragon lamp is present on the field, one hydrangea is thrown to the field every 5 seconds, and the dragon lamp will move with the hydrangea as a priority. After swallowing the hydrangea, the dragon lamp's on-site duration is extended by 3 seconds, and the dragon lamp becomes larger, lasting for 5 seconds.
-
-[ARTIFACT_GUITAR]
-Rock Artifact
-
-[ARTIFACT_GUITAR_DESCRIPTION]
-Click on the musical notes to play the music at the right time, and release powerful sound waves according to the performance evaluation
-
-[ARTIFACT_GUITAR_SKILL_1]
-Crescendo
-
-[ARTIFACT_GUITAR_SKILL_DESCRIPTION_1]
-Active use： After releasing the skill, pause the time and 10 notes appear continuously. Each note needs to be clicked according to the timing. When successful, a evaluation will be added. After the end, a powerful sound wave will be released. The damage and range of the sound wave are determined according to the evaluation and artifact level. Cool for 30 seconds, you can use {MainField_5} times in each battle
-
-[ARTIFACT_GUITAR_SKILL_2]
-The Aces
-
-[ARTIFACT_GUITAR_SKILL_DESCRIPTION_2]
-The offensive and defensive attributes of music plants increase {PassiveField1_1}%
-
-[ARTIFACT_GUITAR_SKILL_3]
-Transition Charms
-
-[ARTIFACT_GUITAR_SKILL_DESCRIPTION_3]
-Every {PassiveField2_1} second, 3 notes are fired at the nearest 3 zombies, causing {PassiveField2_2} points of damage and repulse, and will also increase the attack speed of passing plants by 50% for 10 seconds
-
-[ARTIFACT_GUITAR_SKILL_4]
-Amplified Speakers
-
-[ARTIFACT_GUITAR_SKILL_DESCRIPTION_4]
-After using the active skill, drop 2 speakers and continuously release sound waves to the surrounding 3x3 range. Attack {PassiveField3_1} times per second. Each sound wave causes {PassiveField3_2} point damage and {PassiveField3_3} seconds of dizziness. The better the performance evaluation, the longer the duration.
-
-[ARTIFACT_TRIDENT]
-Poseidon Trident Artifact
-
-[ARTIFACT_TRIDENT_DESCRIPTION]
-Use the power of the ocean to summon the fountains of the sea to top the flying zombies
-
-[ARTIFACT_TRIDENT_SKILL_1]
-Ocean Roar
-
-[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_1]
-Active use： Summon {MainField_4} wave fountain. Every wave of {MainField_1} has the largest number of zombies in the field grid, and can directly knock down small and medium-sized zombies on the plot. The upper limit is {MainField_2}. The remaining zombies will soar upwards and then land, receive {MainField_5} points of damage and stun for 4 seconds, and the effect on giant zombies will be halved, Skill cooling {MainField_6} seconds, {MainField_7} times per battle.
-
-[ARTIFACT_TRIDENT_SKILL_2]
-Divine weapon
-
-[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_2]
-Plant attack and defense attributes of handheld weapons increase {PassiveField1_1}%
-
-[ARTIFACT_TRIDENT_SKILL_3]
-Abyss Pool
-
-[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_3]
-Every once every {PassiveField2_1} second, the block where the {PassiveField2_2} small and medium-sized zombies on the far left side of the field are located becomes a pool. A passing small and medium-sized zombie falls directly into the water and dies. Then the plot returns to normal, and the pool can exist for up to 15 seconds.
-
-[ARTIFACT_TRIDENT_SKILL_4]
-Impact Tornado
-
-[ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
-After all the fountains are ejected, a waterspout appears on the far side of the map, which, when moving, attracts all the zombies within 5 lines to the center point, and then pushes to column 9, where the giant returns to normal after being pushed 3 times.
-
-[ARTIFACT_CALABASH]
-Hulu Artificial
-
-[ARTIFACT_CALABASH_DESCRIPTION]
-Suction all-specifying body-shaped zombies in the hoist for midsecond
-
-[ARTIFACT_CALABASH_SKILL_1]
-Call you.
-
-[ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
-Using the gourd to appear 3 kinds of zombie type, choose one of them, hoist will begin to inhale all the specifying body shapes of zombies in the hoist, continuously absorb 5 seconds, each body type of zombie occupies different capacity (2/6/10), when the gourd absorbs zombies will slowly digest, each digestion 10 points capacity, will produce a Dan drug according to the absorption body size has 3 effects, Dan drug can be used on the plant
-
-[ARTIFACT_CALABASH_SKILL_2]
-Dragon's
-
-[ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
-Increased attack and defense properties of KongFu plants {PassiveField1_1}%
-
-[ARTIFACT_CALABASH_SKILL_3]
-Saibo Alchenden
-
-[ARTIFACT_CALABASH_SKILL_DESCRIPTION_3]
-Maximum capacity boost of hoist {PassiveField2_1} point, improved digestion speed {PassiveField2_2}%
-
-[ARTIFACT_CALABASH_SKILL_4]
-Extreme Dan Pharmaceutical
-
-[ARTIFACT_CALABASH_SKILL_DESCRIPTION_4]
-When generating Dan medicine, there is a probability that extra Radan will be generated, and radan is used after it is split 9 lightning lines around it to cause damage
 
 [ARTIFACT_CAMERA]
 Camera Artifact
@@ -70346,6 +70956,426 @@ Fang Conqueror
 [S27_MEMORY_LEVEL_NAME_BOSS_8]
 Kong's Roar
 
+[S28_MEMORY_LEVEL_NAME_001]
+Endless Sands
+
+[S28_MEMORY_LEVEL_NAME_002]
+Boarding Battle
+
+[S28_MEMORY_LEVEL_NAME_003]
+Deadly Minecart
+
+[S28_MEMORY_LEVEL_NAME_004]
+I Am a Plant
+
+[S28_MEMORY_LEVEL_NAME_005]
+Steel Torrent
+
+[S28_MEMORY_LEVEL_NAME_006]
+Fungal Forest
+
+[S28_MEMORY_LEVEL_NAME_007]
+Lost in the Ancient City
+
+[S28_MEMORY_LEVEL_NAME_008]
+Day and Night Shift
+
+[S28_MEMORY_LEVEL_NAME_009]
+Healthy Winter Swim
+
+[S28_MEMORY_LEVEL_NAME_010]
+Icy Blue Water
+
+[S28_MEMORY_LEVEL_NAME_011]
+Roaring Tides
+
+[S28_MEMORY_LEVEL_NAME_012]
+Winter Party
+
+[S28_MEMORY_LEVEL_NAME_013]
+Frost and Snow
+
+[S28_MEMORY_LEVEL_NAME_014]
+Bone and Flesh
+
+[S28_MEMORY_LEVEL_NAME_015]
+Battle on the Ice River Again
+
+[S28_MEMORY_LEVEL_NAME_016]
+Frozen Chant
+
+[S28_MEMORY_LEVEL_NAME_017]
+Mushroom Sea, Coral Dream
+
+[S28_MEMORY_LEVEL_NAME_018]
+Lone Pea Fighter
+
+[S28_MEMORY_LEVEL_NAME_019]
+Two Deities of the Sea
+
+[S28_MEMORY_LEVEL_NAME_020]
+Ruins Torrent
+
+[S28_MEMORY_LEVEL_NAME_021]
+Lone Whale Spirit
+
+[S28_MEMORY_LEVEL_NAME_022]
+Shell Ball
+
+[S28_MEMORY_LEVEL_NAME_023]
+Deep-Sea Haul
+
+[S28_MEMORY_LEVEL_NAME_024]
+Arena Crab Fight
+
+[S28_MEMORY_LEVEL_NAME_025]
+Hundred-Step Zombie Piercer
+
+[S28_MEMORY_LEVEL_NAME_026]
+Watch Your Step
+
+[S28_MEMORY_LEVEL_NAME_027]
+Strength in Numbers
+
+[S28_MEMORY_LEVEL_NAME_028]
+Firepower Suppression
+
+[S28_MEMORY_LEVEL_NAME_029]
+Thunderous Force
+
+[S28_MEMORY_LEVEL_NAME_030]
+Earth-Shattering Star
+
+[S28_MEMORY_LEVEL_NAME_031]
+Icy Radiance
+
+[S28_MEMORY_LEVEL_NAME_032]
+Crushing Blow
+
+[S28_MEMORY_LEVEL_NAME_033]
+Sealed Memory 1
+
+[S28_MEMORY_LEVEL_NAME_034]
+Sealed Memory 2
+
+[S28_MEMORY_LEVEL_NAME_035]
+Sealed Memory 3
+
+[S28_MEMORY_LEVEL_NAME_036]
+Sealed Memory 4
+
+[S28_MEMORY_LEVEL_NAME_037]
+Sealed Memory 5
+
+[S28_MEMORY_LEVEL_NAME_038]
+Sealed Memory 6
+
+[S28_MEMORY_LEVEL_NAME_039]
+Sealed Memory 7
+
+[S28_MEMORY_LEVEL_NAME_040]
+Sealed Memory 8
+
+[S28_MEMORY_LEVEL_NAME_041]
+Overwhelming Tide
+
+[S28_MEMORY_LEVEL_NAME_042]
+Bungee Blitz
+
+[S28_MEMORY_LEVEL_NAME_043]
+Sleigh Zone
+
+[S28_MEMORY_LEVEL_NAME_044]
+Zombie Aquarium
+
+[S28_MEMORY_LEVEL_NAME_045]
+Mummy Memory
+
+[S28_MEMORY_LEVEL_NAME_046]
+Cannon Battle
+
+[S28_MEMORY_LEVEL_NAME_047]
+Fence Battle
+
+[S28_MEMORY_LEVEL_NAME_048]
+Ice River Matching
+
+[S28_MEMORY_LEVEL_NAME_049]
+Going Solo
+
+[S28_MEMORY_LEVEL_NAME_050]
+Headshot Every Arrow
+
+[S28_MEMORY_LEVEL_NAME_051]
+Tit for Tat
+
+[S28_MEMORY_LEVEL_NAME_052]
+Dodo Bird Adventure
+
+[S28_MEMORY_LEVEL_NAME_053]
+Greedy Avocado
+
+[S28_MEMORY_LEVEL_NAME_054]
+One Cannon Holds the Pass
+
+[S28_MEMORY_LEVEL_NAME_055]
+Plants Soaring High
+
+[S28_MEMORY_LEVEL_NAME_056]
+Ice & Snow Blind Box
+
+[S28_MEMORY_LEVEL_NAME_057]
+Heaven and Earth, Frost and Wind Cease
+
+[S28_MEMORY_LEVEL_NAME_058]
+Universe Filled with Harmony
+
+[S28_MEMORY_LEVEL_NAME_059]
+A New Year is Added to Time
+
+[S28_MEMORY_LEVEL_NAME_060]
+Spring Fills the Old Mountains and Rivers
+
+[S28_MEMORY_LEVEL_NAME_061]
+Plum and Willow Blossoms Linger
+
+[S28_MEMORY_LEVEL_NAME_062]
+Pine and Bamboo Show Their Age
+
+[S28_MEMORY_LEVEL_NAME_063]
+Tusu Wine Makes Us Drunk
+
+[S28_MEMORY_LEVEL_NAME_064]
+Laughter Fills the Cloud Nest
+
+[S28_MEMORY_LEVEL_NAME_1]
+Heavy Nuclear Fission
+
+[S28_MEMORY_LEVEL_NAME_2]
+Celestial Storm
+
+[S28_MEMORY_LEVEL_NAME_3]
+Meteor Destruction
+
+[S28_MEMORY_LEVEL_NAME_4]
+Grand Finale
+
+[S28_MEMORY_LEVEL_NAME_5]
+Doomsday Judgment
+
+[S28_MEMORY_LEVEL_NAME_6]
+Total Freeze
+
+[S28_MEMORY_LEVEL_NAME_7]
+Under the Spotlight
+
+[S28_MEMORY_LEVEL_NAME_8]
+Universal Gravitation
+
+[S28_MEMORY_LEVEL_NAME_9]
+No Progress Means Retreat
+
+[S28_MEMORY_LEVEL_NAME_10]
+Dazzling Array
+
+[S28_MEMORY_LEVEL_NAME_11]
+Chaotic Space-Time
+
+[S28_MEMORY_LEVEL_NAME_12]
+Fight with Your Back to the Water
+
+[S28_MEMORY_LEVEL_NAME_13]
+Burning Heart
+
+[S28_MEMORY_LEVEL_NAME_14]
+Impossible to Guard Against
+
+[S28_MEMORY_LEVEL_NAME_15]
+Azure Sea Frenzy
+
+[S28_MEMORY_LEVEL_NAME_16]
+Treading Frost, Meeting Solid Ice
+
+[NARRATIVE_PVZ1_S28_1_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Some heavyweight buddies have quietly joined the lawn.
+
+[NARRATIVE_PVZ1_S28_1_H_INTRO_2]
+{SAY:WINNIE}Doom-shroom possesses terrifying new power. It's uncertain if it's from the past.
+
+[NARRATIVE_PVZ1_S28_1_H_INTRO_3]
+{SAY:WINNIE}Because it's so powerful it might even tear space-time.
+
+[NARRATIVE_PVZ1_S28_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Much magic and wonder is born from harmony with natural forces.
+
+[NARRATIVE_PVZ1_S28_2_H_INTRO_2]
+{SAY:WINNIE}People and seeds, seeds and gardens, plants and celestial bodies.
+
+[NARRATIVE_PVZ1_S28_2_H_INTRO_3]
+{SAY:CRAZYDAVE}Wow, then "miracles" are surely going to rain down on the zombies.
+
+[NARRATIVE_PVZ1_S28_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Alert! Something is falling from the sky.
+
+[NARRATIVE_PVZ1_S28_3_H_INTRO_2]
+{SAY:CRAZYDAVE}Whoa! The fireworks for the cosmic party have arrived.
+
+[NARRATIVE_PVZ1_S28_3_H_INTRO_3]
+{SAY:CRAZYDAVE}It summons meteors to attack zombies, like smashing a peanut shell with the galaxy.
+
+[NARRATIVE_PVZ1_S28_3_H_INTRO_4]
+{SAY:WINNIE}Also remember that Moonflower/Sunflower can manually switch attack attributes.
+
+[NARRATIVE_PVZ1_S28_4_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Meteors? Magic? Doom-shroom? This power doesn't belong to you!
+
+[NARRATIVE_PVZ1_S28_4_H_INTRO_2]
+{SAY:ZOMBOSSICON}Before everything spirals out of control, I'll deprive you of your thinking brain!
+
+[NARRATIVE_PVZ1_S28_4_H_INTRO_3]
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Large-scale offensive detected. Recommending use of banishment magic.
+
+[NARRATIVE_PVZ1_S28_4_H_INTRO_4]
+{EXCITED:CRAZYDAVE}Time for the "curtain call."
+
+[NARRATIVE_PVZ1_S28_5_H_INTRO_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Alert! Detecting uncontrollable fission reaching supercriticality.
+
+[NARRATIVE_PVZ1_S28_5_H_INTRO_2]
+{SAY:WINNIE}After exploding, Doom-shroom will randomly scatter spores to split and multiply.
+
+[NARRATIVE_PVZ1_S28_5_H_INTRO_3]
+{SAY:WINNIE}We need to promptly protect the split products to obtain more experimental data.
+
+[NARRATIVE_PVZ1_S28_6_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}So cold! All the plants on the lawn are frozen solid.
+
+[NARRATIVE_PVZ1_S28_6_H_INTRO_2]
+{SAY:WINNIE}We've encountered an exceptionally rapid abnormal temperature drop.
+
+[NARRATIVE_PVZ1_S28_6_H_INTRO_3]
+{SAY:WINNIE}Recommend using the Red Snowsuit, Sleds, and Hot Potatoes.
+
+[NARRATIVE_PVZ1_S28_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The zombies are inviting us to "a cross-generational dance battle."
+
+[NARRATIVE_PVZ1_S28_7_H_INTRO_2]
+{SAY:WINNIE}That's a coded message. It means:
+
+[NARRATIVE_PVZ1_S28_7_H_INTRO_3]
+{SAY:WINNIE}"Dance until you're exhausted, zombie brains zero distance!"
+
+[NARRATIVE_PVZ1_S28_8_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow, the Winter Games have come to our front yard.
+
+[NARRATIVE_PVZ1_S28_8_H_INTRO_2]
+{SAY:WINNIE}Ice tracks cleared, Waltz of the Skaters downloaded.
+
+[NARRATIVE_PVZ1_S28_8_H_INTRO_3]
+{SAY:WINNIE}Venue rules announced: No metal objects allowed!
+
+[NARRATIVE_PVZ1_S28_8_H_INTRO_4]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Opening ceremony over, warm-up done. I declare the Winter Games begin!
+
+[NARRATIVE_PVZ1_S28_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Bungee Zombies secretly moved our flower pots.
+
+[NARRATIVE_PVZ1_S28_9_H_INTRO_2]
+{SAY:WINNIE}They want to use them to extort brains.
+
+[NARRATIVE_PVZ1_S28_9_H_INTRO_3]
+{SAY:CRAZYDAVE}I think I understand what "hesitating to act for fear of harming the innocent" means now.
+
+[NARRATIVE_PVZ1_S28_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}If Magic Mirrors are placed in a suitable arrangement, they can form a closed loop.
+
+[NARRATIVE_PVZ1_S28_10_H_INTRO_2]
+{SAY:WINNIE}Creating a maze zombies can never escape.
+
+[NARRATIVE_PVZ1_S28_10_H_INTRO_3]
+{SAY:CRAZYDAVE}Then how do we get the zombies inside?
+
+[NARRATIVE_PVZ1_S28_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Strange. Sunflowers sleep during the day, Repeaters shoot cabbages...
+
+[NARRATIVE_PVZ1_S28_11_H_INTRO_2]
+{SAY:CRAZYDAVE}It just snowed, but the front yard is scorching hot.
+
+[NARRATIVE_PVZ1_S28_11_H_INTRO_3]
+{SAY:WINNIE}Detecting space-time collapse. The reality we're in is disintegrating for unknown reasons.
+
+[NARRATIVE_PVZ1_S28_11_H_INTRO_4]
+{EXCITED:CRAZYDAVE}That's terrifying! We should hide on the roof!
+
+[NARRATIVE_PVZ1_S28_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SHOUT:CRAZYDAVE}Zombies have climbed onto the roof too!
+
+[NARRATIVE_PVZ1_S28_12_H_INTRO_2]
+{SAY:CRAZYDAVE}Collapse cause identified. Multiple past timelines damaged, urgent repair needed.
+
+[NARRATIVE_PVZ1_S28_12_H_INTRO_3]
+{SAY:WINNIE}Time to go! But space-time travel recharge still requires some time.
+
+[NARRATIVE_PVZ1_S28_12_H_INTRO_4]
+{EXCITED:CRAZYDAVE}A new adventure! But let's clear the roof first.
+
+[NARRATIVE_PVZ1_S28_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Current time: Late 17th century. A major pirate war is about to occur.
+
+[NARRATIVE_PVZ1_S28_13_H_INTRO_2]
+{SAY:WINNIE}Wind direction: Northeast. Wind speed: 54 knots.
+
+[NARRATIVE_PVZ1_S28_13_H_INTRO_3]
+{SAY:CRAZYDAVE}Hot oil, loaded... Angry sailors, all hands on deck!
+
+[NARRATIVE_PVZ1_S28_13_H_INTRO_4]
+{SAY:WINNIE}All set. Time to launch the fire attack.
+
+[NARRATIVE_PVZ1_S28_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The atmosphere feels off.
+
+[NARRATIVE_PVZ1_S28_14_H_INTRO_2]
+{SAY:WINNIE}We're about to witness a frenzied gold rush showdown in the late 19th century Wild West.
+
+[NARRATIVE_PVZ1_S28_14_H_INTRO_3]
+{SAY:CRAZYDAVE}Whoa! Get on the minecarts, load the peas, find cover!
+
+[NARRATIVE_PVZ1_S28_15_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Penny, the prolonged battles and endless winter have worn me out.
+
+[NARRATIVE_PVZ1_S28_15_H_INTRO_2]
+{SAY:CRAZYDAVE}I miss summer, sunshine, and the beach!
+
+[NARRATIVE_PVZ1_S28_15_H_INTRO_3]
+{SAY:WINNIE}No problem! We've traveled back to a seaside vacation time point.
+
+[NARRATIVE_PVZ1_S28_15_H_INTRO_4]
+{SAY:WINNIE}Now we just need to repel some uninvited guests who shouldn't be here.
+
+[NARRATIVE_PVZ1_S28_16_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Hey! How do you catch a scurrying rat?
+
+[NARRATIVE_PVZ1_S28_16_H_INTRO_2]
+{SAY:ZOMBOSSICON} 1. Travel to the "future."
+
+[NARRATIVE_PVZ1_S28_16_H_INTRO_3]
+{SAY:ZOMBOSSICON} 2. Follow the paw prints.
+
+[NARRATIVE_PVZ1_S28_16_H_INTRO_4]
+{SAY:ZOMBOSSICON} 3. Travel back to the "past" and set a trap!
+
+[NARRATIVE_PVZ1_S28_16_H_INTRO_5]
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}We're trapped in the longest, harshest winter in history.
+
+[NARRATIVE_PVZ1_S28_16_H_INTRO_6]
+{SAY:CRAZYDAVE}Then can spring be far behind?
+
+[PVZ1MODE_TIDE_HARD]
+Dark Tide Rises
+
+[PVZ1MODE_TIDE_HARD_DESC]
+Beware of zombies that appear during high and low tide.
+
 [INVINCIBLE]
 Invincible Protection
 
@@ -70387,6 +71417,36 @@ Card Drop
 
 [PVZ1MODE_DROP_NORMAL_DESC]
 Defeating card-effect zombies drops plant cards
+
+[DEFEAT_X_ATLANTIS]
+Defeat {NUMBER} Underwater World Zombies
+
+[DEFEAT_X_ATLANTISGARGS]
+Defeat {NUMBER} Relic Gargantuar
+
+[DEFEAT_X_DANCERS]
+Defeat {NUMBER} Backup Dancer
+
+[DEFEAT_X_ATLANTIS_LAND_BASICS]
+Defeat {NUMBER} Relic Basic Group Zombies
+
+[CHALLENGE_DESTROY_SEAURCHINS]
+Destroy {GRID_ITEMS} Urchin-pult Zombie
+
+[PVZ1MODE_TIDE]
+Tide Rush
+
+[PVZ1MODE_TIDE_NORMAL_DESC]
+Huge Wave Of Zomb.. Water ???
+
+[PVZ1MODE_SHELL]
+Bouncy Shells
+
+[PVZ1MODE_SHELL_NORMAL_DESC]
+These shells are harmless—they only bounce zombies to other lanes.
+
+[PVZ1MODE_BEASTFIGHTING]
+Beast Duel: Winner Takes All
 
 [MEMORY_LEVEL_NAME_01]
 Day 1 of the Memories Tour
@@ -71526,6 +72586,30 @@ Complete tasks for rewards.
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ICEAGE_202411]
 Level rewards cannot be obtained repeatedly. The limited-time avatar reward for Hard mode is available from August 27, 2025 to September 17, 2025.
+
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHRISTMAS_202512]
+2. Level Content
+
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHRISTMAS_202512]
+Plant slots are replaced with random hats of different types. These hats have a high chance to generate plants of their corresponding type, and a small chance to generate plants of other types.
+
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHRISTMAS_202512]
+2. Level Content
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHRISTMAS_202512]
+Zombies in easy level are at level 3. Zombie level in hard mode vary according to the selected tasks.
+
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHRISTMAS_202512]
+3. Tasks
+
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHRISTMAS_202512]
+Complete tasks for rewards.
+
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHRISTMAS_202512]
+4. Rewards
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHRISTMAS_202512]
+Level rewards cannot be obtained repeatedly. The limited-time avatar reward for Hard mode is available from December 24, 2025 to January 31, 2026.
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ZCORP]
 1. Unlock Conditions
@@ -73632,45 +74716,52 @@ Complete the previous levels first.
 3. Hard mode levels are unlocked after completing all Normal mode levels.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC]
-1. There are a variety of different new worlds and new zombies waiting for you to explore in the secret realm of time and space, each with normal and difficult levels.
-2. Levels in normal and difficult modes have first pass rewards and normal pass rewards respectively. The first pass reward is obtained when the first pass is completed and cannot be collected repeatedly.
-3. Unlock difficult mode levels after clearing all normal mode levels.
-4. Difficult levels require consuming the spatio-temporal key to unlock.
-5. The difficulty mode has additional challenge goals. Once achieved, you will receive an exclusive badge for this secret chapter. Failure to achieve it will not affect normal clearance.
-6. Exclusive badges accumulate to a certain number to receive additional rewards, which include plant pieces with collection rewards.
+1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
+2. Levels have First Clear (one-time) and Regular Clear rewards.
+3. Clear all Normal levels to unlock Hard mode.
+4. Hard levels unlock over time.
+5. Hard mode has optional challenges for extra rewards.
+6. Normal mode always has 3 challenges with first-time rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ICEAGE_202411]
-1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
-2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
-3. Hard levels unlock after completing all normal levels.
+1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
+2. Levels have First Clear (one-time) and Regular Clear rewards.
+3. Clear all Normal levels to unlock Hard mode.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
-6. Normal mode has 3 challenge. Completing them the first time gives rewards.
+5. Hard mode has optional challenges for extra rewards.
+6. Normal mode always has 3 challenges with first-time rewards.
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHRISTMAS_202512]
+1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
+2. Levels have First Clear (one-time) and Regular Clear rewards.
+3. Clear all Normal levels to unlock Hard mode.
+4. Hard levels unlock over time.
+5. Hard mode has optional challenges for extra rewards.
+6. Normal mode always has 3 challenges with first-time rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ZCORP]
-1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
-2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
-3. Hard levels unlock after completing all normal levels.
+1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
+2. Levels have First Clear (one-time) and Regular Clear rewards.
+3. Clear all Normal levels to unlock Hard mode.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
-6. Normal mode has 3 challenge. Completing them the first time gives rewards.
-
+5. Hard mode has optional challenges for extra rewards.
+6. Normal mode always has 3 challenges with first-time rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2025]
-1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
-2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
-3. Hard levels unlock after completing all normal levels.
+1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
+2. Levels have First Clear (one-time) and Regular Clear rewards.
+3. Clear all Normal levels to unlock Hard mode.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
-6. Normal mode has 3 challenge. Completing them the first time gives rewards.
+5. Hard mode has optional challenges for extra rewards.
+6. Normal mode always has 3 challenges with first-time rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ARBORDAY]
-1. The Secret Realm has new worlds and zombies to explore, with both normal and hard levels.
-2. Normal and hard levels offer a first-time reward and regular rewards. First-time rewards can only be claimed once.
-3. Hard levels unlock after completing all normal levels.
+1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
+2. Levels have First Clear (one-time) and Regular Clear rewards.
+3. Clear all Normal levels to unlock Hard mode.
 4. Hard levels unlock over time.
-5. Hard mode has challenge. Completing them gives rewards, but failing doesn't affect normal progress.
-6. Normal mode has 3 challenge. Completing them the first time gives rewards.
+5. Hard mode has optional challenges for extra rewards.
+6. Normal mode always has 3 challenges with first-time rewards.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_SPRING_FESTIVAL_2024]
 1. There are a variety of different new worlds and new zombies waiting for you to explore in the secret realm of time and space, each with normal and difficult levels.
@@ -73756,7 +74847,7 @@ Secret Realm - Day {NUM}
 [NARRATIVE_TUTORIAL_PVZ2_UNCHARTED_MODE_INTRO_7]
 {NPC_EXIT：crazydave}{NPC_EXIT：winnie}
 
-[PLAYERS_TRIP_TO_EGYPT]
+[PLAYERS_TRIP_TO_FOREST]
 {PLAYER}'s Trip to Fairy Forest
 
 [FOREST_LEVEL_NAME_001_H]
@@ -74270,6 +75361,66 @@ Frostbite Caves Resurgence - Day 9 (Hard)
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_H]
 Frostbite Caves Resurgence - Day 10 (Hard)
 
+[CHRISTMAS_NAME_01]
+Christmas Party - Day 1
+
+[CHRISTMAS_NAME_02]
+Christmas Party - Day 2
+
+[CHRISTMAS_NAME_03]
+Christmas Party - Day 3
+
+[CHRISTMAS_NAME_04]
+Christmas Party - Day 4
+
+[CHRISTMAS_NAME_05]
+Christmas Party - Day 5
+
+[CHRISTMAS_NAME_06]
+Christmas Party - Day 6
+
+[CHRISTMAS_NAME_07]
+Christmas Party - Day 7
+
+[CHRISTMAS_NAME_08]
+Christmas Party - Day 8
+
+[CHRISTMAS_NAME_09]
+Christmas Party - Day 9
+
+[CHRISTMAS_NAME_10]
+Christmas Party - Day 10
+
+[CHRISTMAS_NAME_01_H]
+Christmas Party - Day 1 (Hard)
+
+[CHRISTMAS_NAME_02_H]
+Christmas Party - Day 2 (Hard)
+
+[CHRISTMAS_NAME_03_H]
+Christmas Party - Day 3 (Hard)
+
+[CHRISTMAS_NAME_04_H]
+Christmas Party - Day 4 (Hard)
+
+[CHRISTMAS_NAME_05_H]
+Christmas Party - Day 5 (Hard)
+
+[CHRISTMAS_NAME_06_H]
+Christmas Party - Day 6 (Hard)
+
+[CHRISTMAS_NAME_07_H]
+Christmas Party - Day 7 (Hard)
+
+[CHRISTMAS_NAME_08_H]
+Christmas Party - Day 8 (Hard)
+
+[CHRISTMAS_NAME_09_H]
+Christmas Party - Day 9 (Hard)
+
+[CHRISTMAS_NAME_10_H]
+Christmas Party - Day 10 (Hard)
+
 [PLAYERS_TRIP_TO_SPRINGFESTIVAL_2024]
 {PLAYER}'s trip to Snow Spring Festival!
 
@@ -74299,6 +75450,9 @@ Snow Spring Festival - Day 8
 
 [SPRINGFESTIVAL_2024_NAME_09]
 Snow Spring Festival - Day 9
+
+[SPRINGFESTIVAL_2024_NAME_10]
+Snow Spring Festival - Day 10
 
 [SPRINGFESTIVAL_2024_NAME_11]
 Snow Spring Festival - Day 10
@@ -74563,6 +75717,20 @@ Decisive battle
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE10]
 Elite Ice Weasel Zombies, Elite Ice Wind Chief Zombies, join the hunt!
 
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_CHRISTMAS5]
+Fierce Battle
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_CHRISTMAS5]
+An audience with the Queen of the Frozen Realm - Elite Frozen Queen Zombie.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_CHRISTMAS10]
+Final Battle
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_CHRISTMAS10]
+The grand finale of the Christmas Party, starring the Elite Jester Zombie.
+
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP1]
 ZCorp Invasion
 
@@ -74649,6 +75817,9 @@ Move the vehicles within the given steps to help Dave return to his house!
 
 [PLAYERS_TRIP_TO_ICEAGENIGHTMARE]
 {PLAYER}'s trip to Frostbite Caves Resurgence!
+
+[PLAYERS_TRIP_TO_CHRISTMAS]
+{PLAYER}'s Christmas Party
 
 [ACCOUNT_REMOVE_CONTENT_1]
 Deleting your account will result in:
@@ -75649,6 +76820,12 @@ Fusion Theme
 [NEW_PVP_AREA_MERGE_DESCRIPTION]
 When there are 3 or more zombies of the same type on the field, a fusion effect will be triggered after a short preparation time. Multiple zombies merge into a large zombie. The fused zombie becomes larger, inheriting the blood volume and attack power of the zombies before fusion, and is considered immune to control effects as an elite zombie.
 
+[NEW_PVP_AREA_SUN_TILE_NAME]
+Sun Tile Theme
+
+[NEW_PVP_AREA_SUN_TILE_DESCRIPTION]
+Several Sun Tiles will appear on the lawn. Plants planted on Sun Tiles will produce sun every 10s.
+
 [NETWORK_NOT_CONNECTED_TEXT_PVP_POST]
 PVP request error.
 
@@ -75773,7 +76950,189 @@ Task Activity Instructions
 [NEW_PVP_TASK_DESCRIPTION]
 Activity Rules：
 
+[NEW_PVP_TASK_DESCRIPTION_29]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_30]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_31]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_32]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_33]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_34]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_35]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_36]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_37]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
 [NEW_PVP_TASK_DESCRIPTION_38]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_39]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_40]
 1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
 2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
 3. 4 weekly tasks unlock progressively, available until season end.
@@ -76862,6 +78221,156 @@ Beat 1 level in Memory Lane.
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_5]
 Complete 2 Plant Adventures.
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_1]
+Complete three combination challenges: Zombie are 1 Level Higher (1★), Pole Vaulting Zombie Speed Increased (2★), Reduced Sun Collection (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_1]
+Complete three combination challenges: Reduced Sun Collection (1★), Powerless Warrior (2★), Left-side Fungal Turf (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_1]
+Complete three combination challenges: Reduced Card Slot Count (1★), Increased Sun Cost for Fire-type Plants (2★), Zomboni Speed Increased (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_1]
+Complete three combination challenges: Zombie Tier Up (1★), Figure Skating Zombie Speed Increased (2★), Reduced Plant Damage (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_1]
+Complete three combination challenges: Increased Planter Cooldown for Protector Plants (1★), Powerless Sun Producer (2★), Zombie Tier Up (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_1]
+Complete three combination challenges: Right-side Fungal Turf (1★), Increased Sun Cost for Fire-type Plants (2★), Increased Zombie Movement Speed (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_1]
+Complete three combination challenges: Reduced Sun Collection (1★), Increased Zombie Health (2★), Increased Zombie Movement Speed (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_1]
+Complete three combination challenges: Reduced Plant Damage (1★), Increased Zombie Health (2★), Zombie Tier Up (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_1]
+Complete three combination challenges: Increased Planter Cooldown for Specialist Plants (1★), Reduced Sun Collection (2★), Nutcracker Gargantuar Gains Damage Reduction (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_5]
+Reach 10★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_1]
+Complete three combination challenges: Increased Planter Cooldown for Warrior Plants (1★), Ban on Specialist-type Plants (2★), Right-side Fungal Turf (3★)
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_2]
+Reach 2★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_3]
+Reach 4★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_4]
+Reach 6★
+
+[UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_5]
+Reach 10★
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_1]
 Complete three combination challenges： zombie level increase (1★), Zombie attack buff (2 star), zombie speed increase (3★)
@@ -78335,6 +79844,90 @@ Birthdayz Pharaohs Party (3★)
 
 [BIRTHDAY_ZOMBIE_DESCRIPTION]
 Birthdayz Pharaohs have 300% more HP.
+
+[SHOVEL_PLANT_SPAWN_GRAVESTONE_DIFFICULTY_1]
+Gravestone Shovel
+
+[SHOVEL_PLANT_SPAWN_GRAVESTONE_DIFFICULTY_1_DESCRIPTION]
+Spawns a gravestone where a plant is shoveled.
+
+[SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Powerless Specialist
+
+[SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Specialist-type plants cannot use Plant Food.
+
+[SUNMAKER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Powerless Sun Producer
+
+[SUNMAKER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Sun-producing plants cannot use Plant Food.
+
+[PROTECTOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Powerless Protector
+
+[PROTECTOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Protector-type plants cannot use Plant Food.
+
+[SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Powerless Supporter
+
+[SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Supporter-type plants cannot use Plant Food.
+
+[WARRIOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Powerless Warrior
+
+[WARRIOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Warrior-type plants cannot use Plant Food.
+
+[SHOOTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
+Powerless Shooter
+
+[SHOOTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
+Shooter-type plants cannot use Plant Food.
+
+[PLANT_COST_DIFFICULTY_1]
+Increased Cost for Fire-type Plants
+
+[PLANT_COST_DIFFICULTY_1_DESCRIPTION]
+Sun cost for Fire-type plants is tripled.
+
+[PLANT_COST_DIFFICULTY_2]
+Increased Cost for Electric-type Plants
+
+[PLANT_COST_DIFFICULTY_2_DESCRIPTION]
+Sun cost for Electric-type plants is tripled.
+
+[TAG_ZOMBIE_SPEED_DIFFICULTY_1]
+Zombonis Speed buff
+
+[TAG_ZOMBIE_SPEED_DIFFICULTY_1_DESCRIPTION]
+Zombonis are 50% faster.
+
+[TAG_ZOMBIE_SPEED_DIFFICULTY_2]
+Figure Skater Speed buff
+
+[TAG_ZOMBIE_SPEED_DIFFICULTY_2_DESCRIPTION]
+Figure Skater Zombies are 50% faster.
+
+[TAG_ZOMBIE_SPEED_DIFFICULTY_3]
+Pole Vaulter Speed buff
+
+[TAG_ZOMBIE_SPEED_DIFFICULTY_3_DESCRIPTION]
+Pole Vaulter Zombies are 50% faster.
+
+[NUTCRACKER_GARGANTUAR_DAMAGE_REDUCED_DIFFICULTY_1]
+Nutcracker Gargantuar Damage Nerf
+
+[NUTCRACKER_GARGANTUAR_DAMAGE_REDUCED_DIFFICULTY_1_DESCRIPTION]
+Nutcracker Gargantuar damage reduced by 40%.
+
+[HITPOINTS_UP_ZOMBIE]
+Increased Zombie Health
+
+[HITPOINTS_UP_ZOMBIE_DESCRIPTION]
+All zombie health increased by 2 times.
 
 [SPIKEWEED_NEW_SKILL_LEVEL1_DES]
 When a zombie steps on a ground stab, a stab is launched to cause damage to all zombies. ^FF0000 It has miraculous effects on roller and piano zombies! ^oldclrr
@@ -80085,28 +81678,28 @@ Retention
 Replace
 
 [ARTIFACT_BOOST_TYPE_1]
-Increased attack power
+Attack Power Increase
 
 [ARTIFACT_BOOST_TYPE_2]
-Duration increased
+Duration Increase
 
 [ARTIFACT_BOOST_TYPE_3]
-Increased control effect
+Control Effect Enhancement
 
 [ARTIFACT_BOOST_TYPE_4]
-Cooling reduction
+Cooldown Reduction
 
 [ARTIFACT_BOOST_TYPE_5]
-Increased number of uses
+Usage Addition
 
 [ARTIFACT_BOOST_TYPE_6]
-Passive 2 cooling reduction
+2nd Passive Cooldown Reduction
 
 [ARTIFACT_BOOST_TYPE_7]
-Passive 1 effect increased
+1st Passive Effect Enhancement
 
 [ARTIFACT_BOOST_TYPE_8]
-Passive 1 takes effect globally
+Global 1st Passive Affection
 
 [ARTIFACT_BOOST_TYPE_9]
 The initial sun increases while carrying the artifact
@@ -80548,6 +82141,9 @@ From Lucky Chest event or weekly packs
 [NFS_LINKAGE_TAB1]
 Daily Login
 
+[NFS_LINKAGE_TAB2_6]
+Christmas Tasks
+
 [NFS_LINKAGE_TAB2_5]
 Hemudu Tasks
 
@@ -80557,22 +82153,17 @@ Speed Tasks
 [NFS_LINKAGE_TAB3]
 Reward Shop
 
-[NFSLINKAGE_DESCRIPTION_TITLE_5]
-Discover Hemudu Event
-
 [NFSLINKAGE_DESCRIPTION_TITLE_3]
 Discover Hemudu Event
 
 [NFSLINKAGE_DESCRIPTION_TITLE_4]
 Gear Challenge Event Info
 
-[NFSLINKAGE_DESCRIPTION_5]
-Event Rules：
-1. Log in daily during the event to claim premium rewards (14-day check-in)
-2. Hemudu Tasks include Daily and Event tasks (resets at 0：00 daily)
-3. Event tasks have multiple stages - next stage unlocks after completing current one
-4. Earn Hemudu by completing missions, exchange for rewards in the Store
-5. Remember to exchange Hemudu  before the event ends!
+[NFSLINKAGE_DESCRIPTION_TITLE_5]
+Discover Hemudu Event
+
+[NFSLINKAGE_DESCRIPTION_TITLE_6]
+Christmas Battle Event
 
 [NFSLINKAGE_DESCRIPTION_4]
 Event Rules：
@@ -80582,23 +82173,48 @@ Event Rules：
 4. Earn Gears by completing missions, exchange for rewards in the Store
 5. Remember to exchange Gears before the event ends!
 
-[NFSLINKAGE_TITLE_5]
-Discover Hemudu
+[NFSLINKAGE_DESCRIPTION_5]
+Event Rules：
+1. Log in daily during the event to claim premium rewards (14-day check-in)
+2. Hemudu Tasks include Daily and Event tasks (resets at 0：00 daily)
+3. Event tasks have multiple stages - next stage unlocks after completing current one
+4. Earn Hemudu by completing missions, exchange for rewards in the Store
+5. Remember to exchange Hemudu  before the event ends!
+
+[NFSLINKAGE_DESCRIPTION_6]
+Event Rules
+1. Log in daily during the event to claim premium rewards (14-day check-in)
+2. Christmas Tasks include Daily and Event tasks (resets at 0：00 daily)
+3. Event tasks have multiple stages - next stage unlocks after completing current one
+4. Completing Christmas by completing missions, exchange for rewards in the Store
+5. Remember to exchange before the event ends!
 
 [NFSLINKAGE_TITLE_4]
 Speed Challenge
 
-[MAT_NFSLINKAGE_TICKET_5]
-Stones
+[NFSLINKAGE_TITLE_5]
+Discover Hemudu
+
+[NFSLINKAGE_TITLE_6]
+Christmas Battle
 
 [MAT_NFSLINKAGE_TICKET_4]
 Gear
 
-[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_5]
-During the event, log in daily for 14 days of rewards! Complete missions to earn Stones and exchange them exclusive rewards!
+[MAT_NFSLINKAGE_TICKET_5]
+Stones
+
+[MAT_NFSLINKAGE_TICKET_6]
+Candy Cane
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Gears and exchange them for premium items!
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_5]
+During the event, log in daily for 14 days of rewards! Complete missions to earn Stones and exchange them exclusive rewards!
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_6]
+During the event period, players can log in to claim 14 days of valuable rewards. By completing event tasks, you can obtain Candy Canes, which can be spent in the Exchange Store to redeem valuable rewards!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER：crazydave}{PLAYFUL：crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -81346,7 +82962,7 @@ Sky War
 Enhancement Energy
 
 [GINGLEBELL_TITLE]
-Halloween Jingle Bell
+Chri Jingle Bell
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -81377,6 +82993,24 @@ Special Mechanic - Gift Boxes： Attacking gift boxes does not increase your sco
     6. Ranking rewards auto-distribute after 10：00. On September 17, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
+[GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
+When a Snowman takes a certain amount of damage, it spawns 3 Mini Snowmen in a cross-shaped area centered on itself.
+
+[GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
+Mini Snowmen have high damage reduction, but can be instantly killed or stunned (damage dealt to Mini Snowmen does not count toward the score).
+
+[GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
+When there are Mini Snowmen within a 3×3 area around a Snowman, the Snowman Stake generates a crystal shield. The more Mini Snowmen present, the higher the damage reduction.
+
+[GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
+Theme 1: Several stakes are present on the field and do not move.
+
+[GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
+Theme 2: Stakes move around the field, and their movement speed increases when they are attacked.
+
+[GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
+Theme 3: Stakes appear on fixed tiles. When a stake takes a certain amount of damage, it disappears from its current tile and reappears on another fixed tile.
+
 [GINGLEBELL_RANK]
 Your Rank： {NUMBER}
 
@@ -81399,10 +83033,10 @@ Dmg/s： {NUMBER}
 Total： {NUMBER}
 
 [PVZ2TRAINING_DAMAGE1]
-This Round Damage： {NUMBER}
+Current Score：{NUMBER}
 
 [PVZ2TRAINING_DAMAGE2]
-Best Damage： {NUMBER}
+Best Score：{NUMBER}
 
 [STARCHALLENGE_TRAINING]
 Deal as much damage as possible in 30 seconds
@@ -82364,6 +83998,12 @@ Stargazing
 [TOYS_HEAD_DES_ID_25771]
 Obtained through the Stellar Singularity event
 
+[TOYS_HEAD_ID_25790]
+Ice Field Hunter
+
+[TOYS_HEAD_DES_ID_25790]
+Obtained by participating in the Snow Mountain Mystery event.
+
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
 
@@ -82499,6 +84139,18 @@ Silence Is Golden
 
 [TIANGONG_HEAD_DES_ID_25788]
 Obtained by accumulating stage rewards in the Heavenly Palace Treasure Hunt event.
+
+[TIANGONG_HEAD_ID_25803]
+Busy Peach Delight
+
+[TIANGONG_HEAD_DES_ID_25803]
+Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
+
+[TIANGONG_HEAD_ID_25806]
+Verdant Crimson Splendor
+
+[TIANGONG_HEAD_DES_ID_25806]
+Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
 
 [PVP_ERROR_76030]
 Item cheating detected.
@@ -82770,6 +84422,18 @@ Cannot plant on sea urchins
 [ELITE_ZOMBIE_TIPS_TEXT_CAKETANK]
 超大的体型能够免疫控制、变形、秒杀
 
+[ZOMBIE_CHRISTMAS_CAKETANK]
+圣诞树坦克
+
+[ZOMBIE_CHRISTMAS_CAKETANK_DESCRIPTION]
+圣诞树坦克是圣诞宴会上最引人注目的甜点，看到它时，记得咬一口。
+
+[ZOMBIE_CHRISTMAS_CAKETANK_DESCRIPTION_HEADER]
+打破圣诞树，发现隐藏在圣诞树中的东西
+
+[ELITE_ZOMBIE_TIPS_TEXT_CHRISTMAS_CAKETANK]
+超大的体型能够免疫控制、变形、秒杀
+
 [UI_ZENGARDEN_BAG_ITEM_TITLE]
 Items
 
@@ -82978,7 +84642,7 @@ Available：
 Buy
 
 [DAVE_SHOP_ITEM_UNIT]
-Pieces
+Pcs
 
 [EXTRA_MSG_ERROR_DESC_UNKNOWN]
 Game data abnormal, please try again.
@@ -83720,9 +85384,11 @@ Increases the firing speed of Seashooter’s Plant Food ability by {Param_1}%, a
 [GENE_DESCRIPTION_TURKEYPULT]
 Have a {Param_1}% chance to split into 2 turkeys when landing.
 
-
 [WARNING_BUNGEE_TIP]
 BUNGEE ZOMBIE ARE COMING!!!
+
+[WARNING_SANTA_TIP]
+SANTA CLAUS ZOMBIE ARE COMING!!!
 
 [STARCHALLENGE_DISABLEPLANT]
 Ban {TYPE} plants
@@ -83745,9 +85411,6 @@ Zombie Speed buff
 [WARNING_WITCH_APPEAR_DESC]
 WITH ARE COMING!!!
 
-[PLANTING_NOT_ON_FLAMES_DOOMSHROOM]
-This plant cannot be planted on an ash pit!
-
 [NEWYEARREDPACKET_REWARDNAME]
 October {NUMBER}
 
@@ -83768,5 +85431,8 @@ Escape Root cannot swap positions with dancing plants.
 
 [PLANTING_NOT_ON_FLAMES_DOOMSHROOM]
 This plant cannot be planted on an ash pit!
+
+[UI_GINGLEBELL_TIPS]
+Season Mechanism
 
 [PVZ2_CHINESE_END]

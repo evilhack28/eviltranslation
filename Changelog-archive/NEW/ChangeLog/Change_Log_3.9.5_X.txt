@@ -1,0 +1,6 @@
+======3.9.5_1======
+- Update text to the 3.9.5
+
+======3.9.5_2======
+- Fixed ALL missing text 
+- Fixed Artifact text
