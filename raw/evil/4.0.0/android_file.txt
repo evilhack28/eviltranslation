@@ -57,70 +57,49 @@ ChangeLog
 ^008000 eluth      ^oldclrr    Help on the translation
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_1]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_2]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_3]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_4]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_5]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_6]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Fab 01 (3.9.5_2)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FF0000 OUTDATED VERSION
 
 
 
