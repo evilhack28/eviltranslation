@@ -1,0 +1,3 @@
+======4.0.0_1======
+Added 4.0.0 text
+Fixed the issue where ANY dialogue was not playing
