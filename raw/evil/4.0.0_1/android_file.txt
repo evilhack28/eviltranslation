@@ -35805,7 +35805,7 @@ Confirm Exchange
 Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for 1 tickets and and open the treasure?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for 10 tickets and and open the treasure?
+Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} TEST
 
 [LIMITED_GACHA_CONFIRM_TEXT]
 Insufficient Penny Lottery's tickets. Are you sure you want to spend {NUMBER} Gems to exchange for {NUM} tickets and and open the treasure?
