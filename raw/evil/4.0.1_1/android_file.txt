@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.0.0 server 2)
-Version          ： 4.0.0_1
+File Version     ： Text-based (4.0.0 server 9)
+Version          ： 4.0.1_2
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -48,78 +48,85 @@ ChangeLog
 Added 4.0.0 text
 Fixed the issue where ANY dialogue was not playing
 
+======4.0.1_2======
+Fixed Fun Competition text  
+Fixed Underground Palace Realm text  
+Fixed Color and Super Costume Event text  
+Added missing latest text from Update 9
 
 
 [COMPLAIN_CONTENT]
-^340202 evilhack28 ^oldclr     Creator of the mod and translation
-^4B0082 cybersteve ^oldclr     Create the template for the translation on github
-^008000 eluth      ^oldclrr    Help on the translation
+^340202 evilhack28 ^oldclr Creator of the mod and translation
+^4B0082 cybersteve ^oldclr Created the translation template on GitHub
+^008000 eluth ^oldclr Helped with the translation
+If you paid for this, you have been scammed.
+ <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
+
 
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
+If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
+If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
+If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
+If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
+If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
+If you paid for this, you have been scammed.
+
+
 
 [SPRING_TIPS_1]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+You only have until March 123456789th to finish the Underground Palace Realm!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_2]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+Don't forget to claim the 3 free Lucky Chests!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_3]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_4]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+Be sure not to play any online mods with cheats!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_5]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+Don't forget the daily challenge!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_6]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+Made only by EvilHack28.
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FFFF00 Last Update： Feb 08 (4.0.0_1)
-^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version ^FFFFFF ^FF5D00 of the Mods!
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 
 
@@ -4175,13 +4182,13 @@ Even on other universes you are still 42 time better  ;)
 Abba Abba
 
 [UNCHARTED_CHRISTMAS_ID_25791]
-Christmas Mystery Conqueror
+Conqueror of theC hristmas Mystery
 
 [UNCHARTED_CHRISTMAS_HEAD_DES_ID_25791]
 Proof of perfectly clearing the Christmas Mystery.
 
 [UNCHARTED_MAUSOLEUM_ID_25809]
- Underground Palace Conqueror
+Conqueror of the Underground Palace
 
 [UNCHARTED_MAUSOLEUM_DES_ID_25809]
 Proof of Perfectly Completing Underground Palace
@@ -4407,6 +4414,9 @@ The battle has already started!
 
 [PVZ_ERROR_75707]
 Room is full!
+
+[PVP_ERROR_75703]
+Room member information not found!
 
 [PVZ_ERROR_76047]
 Plant does not exist.
@@ -27410,10 +27420,16 @@ Endless Starry Sky
 Stare into the black hole until it stares back
 
 [RANK_AVATAR_CONTENT_TITLE_61504]
-Zombie Crew
+Sleigh Squad
 
 [RANK_AVATAR_CONTENT_CONTENT_61504]
-The New Year Adventure Squad is about to arrive!
+The Sleigh Zombie Squad is ready to arrive!
+
+[RANK_AVATAR_CONTENT_TITLE_61505]
+Sleigh Squad
+
+[RANK_AVATAR_CONTENT_CONTENT_61505]
+The Sleigh Zombie Squad is ready to arrive!
 
 [RANK_AVATAR_CONTENT_TITLE_61051]
 Beginning of the End
@@ -27636,7 +27652,10 @@ Youthful Energy
 Endless Starry Sky
 
 [rank_avatar_diy_102]
-Zombie Crew
+Sleigh Squad
+
+[rank_avatar_diy_103]
+Sleigh Squad
 
 [DOWNLOAD_FAILED_BODY]
 Unable to retrieve update information.
@@ -27830,7 +27849,7 @@ Conch Combat
 Children's Playpark
 
 [PLAYERS_TRIP_TO_BIRTHDAYZ]
-{PLAYER}'s trip to the Anniversary Carnival Party!
+{PLAYER}'s Trip to the Anniversary Carnival Party!
 
 [GAME_OVER]
 GAME OVER
@@ -34535,10 +34554,10 @@ Local progress
 (Recommended for newer progress)
 
 [SUMMARY_USE_CLOUD]
-cloud
+Cloud
 
 [SUMMARY_USE_LOCAL]
-local
+Local
 
 [SUMMARY_START]
 Start the game
@@ -42164,7 +42183,7 @@ Main gun modification
 Armour modification
 
 [RECONSTRUCTION_CONSUME]
-Consumption
+Cost
 
 [RECONSTRUCTION]
 Renovation
@@ -51247,7 +51266,7 @@ Epic Gem Jam Quest!
 {PLAYER}'s Trip to the Jurassic Marsh!
 
 [PLAYERS_TRIP_TO_EIGHTIES]
-{PLAYER}'s trip to Neon Mixtape Tour!
+{PLAYER}'s Trip to Neon Mixtape Tour!
 
 [PLAYERS_TRIP_TO_HOLIDAY]
 {PLAYER}'s Feastivus Party!
@@ -51271,7 +51290,7 @@ Power Shovel
 The space-time journey!
 
 [PLAYERS_TRIP_TO_RENAI]
-{PLAYER}'s trip to the Renaissance era!
+{PLAYER}'s Trip to the Renaissance era!
 
 [PLAYERS_TRIP_TO_BATTLE]
 {PLAYER}'s journey to the Arena!
@@ -63963,13 +63982,13 @@ Plants selected： {NUMBER_1}/{NUMBER_2}
 Confirm
 
 [DECOMPRESS_TIPS_1]
-It takes a certain amount of time to decompress, please wait patiently
+Decompression may take some time, please be patient.
 
 [DECOMPRESS_TIPS_2]
-Unzip file{NUMBER1}/{NUMBER2}, remaining time (estimated)： {NUMBER3} seconds
+Decompressing file {NUMBER1}/{NUMBER2}, estimated remaining time: {NUMBER3} seconds.
 
 [DECOMPRESS_TIPS_3]
-Loading of core resources, remaining time (estimated)： 3 seconds
+Loading core resources, estimated remaining time: 3 seconds.
 
 [COINSTORE_AD_LEFT]
 {NUMBER} ads left to get the rewards
@@ -63978,16 +63997,16 @@ Loading of core resources, remaining time (estimated)： 3 seconds
 This game has {NUMBER} Left time： to watch ads to get rewards
 
 [NETWORK_PROFILE_SYNC_FAILED_TITLE]
-Sync Archive Failed
+Save File Sync Failed
 
 [NETWORK_PROFILE_SYNC_FAILED_DESC]
-Unable to synchronize archives, make sure the network is connected correctly.
+Unable to sync save file. Please ensure your network connection is stable.
 
 [LOST_PURCHASE_DIALOG_DES]
-You have an item that has not arrived in your account, please check.
+You have unclaimed items. Please check your in-game mail.
 
 [BUY_MOWER_PRICE_TEXT]
-{NUMBER} diamond
+{NUMBER} Diamonds
 
 [TEAM_BOSS_MVP_TEXT]
 Empty Slot
@@ -64066,7 +64085,7 @@ Select Team Mode
 Penny Lottery
 
 [SECRET_GACHA_OVERVIEW_TITLE]
-penny ticket Description
+Penny Lottery Description
 
 [SECRET_GACHA_OVERVIEW_CONTENT]
 1. Made by evilhack28 (i wish you luuuuuuck and great open)
@@ -64856,37 +64875,37 @@ Applies {DAMAGE} {CONDITION} damage for {DURATION} seconds every {TIME} seconds!
 Increases score by {NUMBER} percent!
 
 [MINIGAME_PERK_REDUCE_ZOMBIE_SPEED_DESCRIPTION]
-Reduce zombie speed by {NUMBER}%!
+Zombie speed reduced by {NUMBER}%.
 
 [MINIGAME_PERK_STUCK_ALL_ZOMBIE_DESCRIPTION]
-Every 20 seconds, freeze zombies for {NUMBER} seconds.(Does not affect aerial warfare)
+Every 20 seconds, freeze zombies for {NUMBER} seconds (does not affect Air Raid).
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
-Instantly kill normal all zombies in the field {NUMBER} times.
+Instantly kill all basic zombies on screen | {NUMBER} uses.
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
-Increase plant stats by {NUMBER3}% (e.g., reduced cooldowns, faster appearances). (Does not affect aerial warfare)
+Increase plant stats by {NUMBER3}%. (Does not affect Air Raid)
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
-Increase game duration by {NUMBER} seconds.
+Game duration increased by {NUMBER} seconds.
 
 [MINIGAME_PERK_GAME_COIN_INCREASED]
-Earn {NUMBER}% more energy after clearing the stage.
+Earn {NUMBER}% more energy after finish the mini-game.
 
 [MINIGAME_PERK_XRAY]
-Reveal all Camel Cards for 10 seconds ({NUMBER} uses).
+Reveal all Camel cards for 10 seconds. | {NUMBER} uses.
 
 [MINIGAME_PERK_BOWLING]
-Add 5 Primitive Nuts to the field; only explosive or primitive nuts appear for 10s ({NUMBER} uses).
+Add 5 Primal wall-nuts to the field;  only Exploding Nuts and Wall-nuts will appear for 10s | {NUMBER} uses.
 
 [MINIGAME_PERK_REFRESH_CARD]
-Refresh all cards' cooldowns; magic hats spawn only plants for 10s ({NUMBER} uses).
+Refresh all cards cooldowns; . For the next 10 seconds, only plants will emerge from Magic Hats. | {NUMBER} uses.
 
 [MINIGAME_PERK_TIME_BACK]
-Rewind 5 steps and refund consumed moves ({NUMBER} uses).
+Rewind 5 steps and refund consumed moves | {NUMBER} uses.
 
 [MINIGAME_PERK_TEAM_SKY]
-Unlock a new Aerial Warfare Plant Squad
+Unlock a new Air Raid plant squad.
 
 
 [MINI_GAME_PERK_NAME_ZOMBIE_SPEED_REDUCED]
@@ -76229,7 +76248,7 @@ Fairy Forest - Day 7
 Fairy Forest - Zomboss
 
 [PLAYERS_TRIP_TO_NEWYEAR]
-{PLAYER}'s trip to Spring Festival!
+{PLAYER}'s Trip to Spring Festival!
 
 [NEWYEAR_LEVEL_NAME_01]
 Celebrate the Spring Festival - Day 1
@@ -76274,7 +76293,7 @@ Happy Spring Festival ( difficult )-3rd night
 Happy Spring Festival ( difficult )-Day 4
 
 [PLAYERS_TRIP_TO_CHILDRENDAY]
-{PLAYER}'s trip to the Children's Playpark!
+{PLAYER}'s Trip to the Children's Playpark!
 
 [CHILDRENDAY_LEVEL_NAME_01]
 Children's Playpark - Day 1
@@ -76385,7 +76404,7 @@ Parkour Party (Hard) - Day 6
 Parkour Party (Hard) - Day 7
 
 [PLAYERS_TRIP_TO_NEEDFORSPEED]
-{PLAYER}'s trip to Speed Racing!
+{PLAYER}'s Trip to Speed Racing!
 
 [NEEDFORSPEED_LEVEL_NAME_01]
 Speed Racing - Day 1
@@ -76505,7 +76524,7 @@ Underground Palace - Day 8
 Underground Palace - Day 9
 
 [NOQIN_LEVEL_NAME_10]
-Underground Palace - Day 10
+Underground Palace Ultimate Challenge
 
 [NOQIN_LEVEL_NAME_01_H]
 Underground Palace (Hard) - Day 1
@@ -76535,13 +76554,13 @@ Underground Palace (Hard) - Day 8
 Underground Palace (Hard) - Day 9
 
 [NOQIN_LEVEL_NAME_10_H]
-Underground Palace (Hard) - Day 10
+Underground Palace Ultimate Challenge (Hard)
 
 [NOQIN_LEVEL_NAME_DANGERROOM]
 Final Battle in Underground Palace - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
-{PLAYER}'s trip to Haunting Halloween!
+{PLAYER}'s Trip to Haunting Halloween!
 
 [HALLOWEEN_LEVEL_NAME_01]
 Haunting Halloween - Night 1
@@ -76755,10 +76774,10 @@ Christmas Party - Day 9 (Hard)
 Christmas Party - Day 10 (Hard)
 
 [PLAYERS_TRIP_TO_SPRINGFESTIVAL_2024]
-{PLAYER}'s trip to Snow Spring Festival!
+{PLAYER}'s Trip to Snow Spring Festival!
 
 [PLAYERS_TRIP_TO_QIN]
-{PLAYER}'s trip to Underground Palace
+{PLAYER}'s Trip to Underground Palace
 
 [SPRINGFESTIVAL_2024_NAME_01]
 Snow Spring Festival - Day 1
@@ -76803,7 +76822,7 @@ Snow Spring Festival - Day 12
 Snow Spring Festival - Day 13
 
 [PLAYERS_TRIP_TO_ZCORP]
-{PLAYER}'s trip to ZCorp!
+{PLAYER}'s Trip to ZCorp!
 
 [ZCORP_LEVEL_NAME_01_N]
 ZCorp - Day 1
@@ -77152,7 +77171,7 @@ Car Sokoban
 Move the vehicles within the given steps to help Dave return to his house!
 
 [PLAYERS_TRIP_TO_ICEAGENIGHTMARE]
-{PLAYER}'s trip to Frostbite Caves Resurgence!
+{PLAYER}'s Trip to Frostbite Caves Resurgence!
 
 [PLAYERS_TRIP_TO_CHRISTMAS]
 {PLAYER}'s Christmas Party
@@ -77362,7 +77381,7 @@ Curse
 Missing
 
 [TAG_CONSUME]
-Consumption
+Cost
 
 [TAG_ZOMBIE]
 Zombies
@@ -78286,188 +78305,6 @@ Task Activity Instructions
 [NEW_PVP_TASK_DESCRIPTION]
 Activity Rules：
 
-[NEW_PVP_TASK_DESCRIPTION_29]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-[NEW_PVP_TASK_DESCRIPTION_30]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-
-[NEW_PVP_TASK_DESCRIPTION_31]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-
-[NEW_PVP_TASK_DESCRIPTION_32]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-
-[NEW_PVP_TASK_DESCRIPTION_33]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-
-[NEW_PVP_TASK_DESCRIPTION_34]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-
-[NEW_PVP_TASK_DESCRIPTION_35]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-
-[NEW_PVP_TASK_DESCRIPTION_36]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-[NEW_PVP_TASK_DESCRIPTION_37]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-[NEW_PVP_TASK_DESCRIPTION_38]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
-[NEW_PVP_TASK_DESCRIPTION_39]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
 [NEW_PVP_TASK_DESCRIPTION_40]
 1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
 2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
@@ -78483,6 +78320,25 @@ Activity Rules：
    Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
    Accessories： 19.3% (Super 2.0%)
    Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_41]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+
 
 [SELF_SELECT_AVATAR_CHIPS]
 Costume pieces Choose one of three
@@ -82510,7 +82366,7 @@ Participate in the survey, answer questions, and receive Gems and Umbrella Leaf 
 Possible rewards
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
-Purchase the Little Snake Piggy Bank to enjoy ^FF0000 9.9^oldclrrx diamond rebate, with a maximum return of ^FF0000 2970^oldclrr Gems.
+Purchase the Pony Piggy Bank and enjoy ^ff0000^9.9×^oldclr^ Diamond Rewards, with up to ^ff0000^2970^oldclr^ Diamonds returned.
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
 30 ¥
@@ -82532,28 +82388,28 @@ Recharge any amount to buy the same day's discounted props in the prize pool
 Participate in the Broken Can Master activity, and rare plant rewards are waiting for you!
 
 [INVATATION_TITLE]
-Invitation event
+Invite & Earn Rewards
 
 [INVATATION_TAB_NAME1]
-Recruitment Report
+Sign-In
 
 [INVATATION_TAB_NAME2]
-Recruitment level
+Invite Code
 
 [INVATATION_TAB_NAME3]
-Recruitment Tasks
+Invite Tasks
 
 [INVATATION_TAB_NAME4]
-Recruitment Lottery
+Lucky Spin
 
 [INVATATION_DEFAULT_TEXT1]
-Invitation code to be filled in
+You can enter an invite code
 
 [INVATATION_DEFAULT_TEXT2]
-Not meeting the conditions for filling in
+You are not eligible to enter a code
 
 [INVATATION_DEFAULT_TEXT3]
-Binded
+Already Bound
 
 [INVATATION_TAB1_TEXT1]
 Share Now
@@ -82562,25 +82418,25 @@ Share Now
 Energy Flower Anniversary Costume
 
 [INVATATION_TAB1_COPY_CODE]
-Copy Invitation Code
+Copy Invite Code
 
 [INVATATION_TAB1_SHARED]
-Share and copy the invitation code
+Share and Copy Invite Code
 
 [INVATATION_TAB2_TEXT]
-Only newly created accounts during the event can enter an invitation code
+Only accounts created during the event period can enter an invite code.
 
 [INVATATION_TAB1_RECORD]
-Invitation Record
+Invitation Records
 
 [INVATATION_GRADE_TASK_NAME_1_1]
 Daily Login
 
 [INVATATION_GRADE_TASK_NAME_1_2]
-Recruit {NUM} People
+Invite {NUM} Players
 
 [INVATATION_GRADE_TASK_NAME_1_3]
-Recruit {NUM} Players with +45 Stars
+Invite {NUM} Players with 45★ or Higher
 
 [ACTIVITY_NEW_TIPS_TITLE]
 Tip
@@ -83392,7 +83248,7 @@ Pineapple Six costume
 Car Rush Hour
 
 [PVZ1KLOTSKI_DIED_OUT_CANCELED]
-Out of steps
+OUT OF STEPS!
 
 [PVZ1KLOTSKI_ROUNDS]
 Remaining steps： {NUMBER}
@@ -84195,13 +84051,13 @@ Guaranteed Grand Prize after {NUMS} more draws
 ^FFFF00 {NAME} ^oldclr drew ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Starfish Carnival
+Super Costume Event
 
 [TOYNIGHT_TITLE]
-Starfish Carnival
+Super Costume Event
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Basic Starfish Bundle
+Basic Super Bundle
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
 Intermediate Starfish Bundle
@@ -84219,62 +84075,62 @@ Royal Luxury Limited Edition Gift Pack
 Enter the event for the first time
 
 [TOYNIGHT_TASK_2]
-Obtain the Cactus Super Costume
+Obtain the Super Costume
 
 [TOYNIGHT_TASK_3]
-Obtain all outfit
+Obtain All Costumes
 
 [MAT_TOY_PARTS]
-Critical Starfish
+Super Crystal
 
 [MAT_TOY_PARTS_USE]
-Exchange rewards in the Starfish Shop during the High Voltage event
+Exchange for rewards in the Super Shop during the Super Costume Event
 
 [MAT_TOY_PARTS_GOT_WAY]
-Obtain through draws in the High Voltage event
+Obtain from draws during the Super Costume Event
 
 [MAT_TOY_CLOCKWORK]
-Moo Moo Coins
+Super Coins
 
 [MAT_TOY_CLOCKWORK_USE]
-Item used for drawing rewards in the High Voltage event
+Used to draw rewards in the Super Costume Event
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-Obtain through purchasing in the High Voltage event Gift Shop
+Obtain by purchasing in the Super Costume Event Shop
 
 [TOY_NIGHT_EXPIRED]
-High Voltage Expired Rewards
+Expired Super Costume Rewards
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-Event Rules：
-1. Purchase packs to obtain High voltage Starfish. Spend coins to draw rewards. High voltage Starfish and Starfish won't carry over - convert to Gems post-event (10：1 and 1：1 ratios).
-2. Each draw may yield Starfish or other rewards. Lucky players may directly win Mangosteen Super costume.
-3. After 20 unsuccessful draws, the next draw guarantees a prize from the premium pool.
-4. Duplicate Super costume auto-convert to 200 Starfish.
+Event Rules:
+1. Buy packs to get Super Crystals. Spend Super Coins to draw rewards. Crystals and Coins won’t carry over — converted to Gems after the event (10:1 for Crystals, 1:1 for Coins).
+2. Each draw may give Super Coins or other rewards. Lucky players may win the Mangosteen Super Costume directly.
+3. After 20 unsuccessful draws, the next draw guarantees a premium prize.
+4. Duplicate Super Costumes convert into 200 Super Crystals.
 
-Guaranteed Prize Pool：
-Mangosteen Super costume：   3.72%
-Starfish*1300：    5.28%
-Starfish*700：     12.55%
-Starfish*500：     11.10%
-Gems*1888：        32.17%
-Penny's Chest*10：  35.18%
+Guaranteed Prize Pool:
+- Super Costume: 3.72%
+- Super Crystal ×1300: 5.28%
+- Super Crystal ×700: 12.55%
+- Super Crystal ×500: 11.10%
+- Gems ×1888: 32.17%
+- Penny's Chest ×10: 35.18%
 
-Base Reward Probabilities：
-Mangosteen Super costume：   0.17%
-Starfish*1300：    0.21%
-Starfish*700：     0.43%
-Starfish*500：     0.85%
-Starfish*100：     6.09%
-Starfish*50：      16.00%
-Starfish*20：      12.00%
-Starfish*10：      35.00%
-Costume Coupon*500：   2.50%
-Costume Coupon*100：   9.75%
-Penny's Chest*1：   17.00%
+Base Reward Probabilities:
+- Super Costume: 0.17%
+- Super Crystal ×1300: 0.21%
+- Super Crystal ×700: 0.43%
+- Super Crystal ×500: 0.85%
+- Super Crystal ×100: 6.09%
+- Super Crystal ×50: 16.00%
+- Super Crystal ×20: 12.00%
+- Super Crystal ×10: 35.00%
+- Costume Coupon ×500: 2.50%
+- Costume Coupon ×100: 9.75%
+- Penny's Chest ×1: 17.00%
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, automatically converted to Critical Starfish reward
+If already owned, automatically converted to Super Crystal reward
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -84283,13 +84139,13 @@ Event Description
 Fun Competition
 
 [MINIGAME_COLLECTION_TAB1]
-Mini Games
+Mini-Games
 
 [MINIGAME_COLLECTION_TAB2]
 Rewards
 
 [MINIGAME_COLLECTION_TAB3]
-Pearks
+Boosts
 
 [MINIGAME_COLLECTION_TAB4]
 Info
@@ -84313,22 +84169,22 @@ Join the Fun Competition mini-game to win generous rewards!
 Current level not unlocked
 
 [ACTIVITY_NEW_MINIGAME_CAMELCARD]
-Memory Camel Cards
+Mummy Memory
 
 [ACTIVITY_NEW_MINIGAME_BOWLING]
-Nut Bowling
+Wall-nut Bowling
 
 [ACTIVITY_NEW_MINIGAME_COPYCAT]
-Guess Who I Am
+Guess who I am
 
 [ACTIVITY_NEW_MINIGAME_KLOTSKI]
-Car Hua Rong Dao
+Huarong Road
 
 [ACTIVITY_NEW_MINIGAME_SKYWAR]
-Sky War
+Air Raid
 
 [PLAYERS_TRIP_TO_MINIGAME]
-{PLAYER}'s Fun Competition
+{PLAYER}'s trip to Fun Competition
 
 [MAT_MINIGAME_COIN]
 Enhancement Energy
@@ -84381,7 +84237,7 @@ Theme 2: Several stationary wooden stakes are present on the field.
 Theme 3: Wooden stakes move continuously. When a stake is attacked, its movement speed increases.
 
 [MAUSOLEUMHARD_HOWTOPLAY_1_DESCRIPTION]
-In Hard Mode, plants that are eaten or destroyed are considered "fallen" (except for Haystacks).
+In Hard Mode, plants that are eaten or destroyed are considered "fallen" (except for Sod).
 
 [MAUSOLEUMHARD_HOWTOPLAY_2_DESCRIPTION]
 Plants that have fallen in a level cannot be replanted during that level.
@@ -85026,7 +84882,6 @@ Obtained by purchasing value gift boxes in the Celebration Bundle with a probabi
 2. Feb 9–22: Daily 21:00 lottery selects one lucky player per server who claimed a red packet. Winner gets the grand prize.  
 3. Feb 15–21: Use draw tickets until 21:59 to enter the physical prize draw. Each ticket counts as one entry; winners drawn at 22:00.  
 4. Unclaimed grand prizes are forfeited.  
-5. Physical prize: ^CDBE70 5,000 CNY JD.com shopping card ^oldclr. Register by Feb 27; late entries forfeit eligibility.
 
 
 [UINEWYEARREDPACKET_DES_TITLE]
@@ -85163,7 +85018,7 @@ Publish three levels in Creative Courtyard.
 New Year Prize
 
 [NEWYEARREDPACKETE_TAB1]
-Physical Prizes
+Lucky Grand Prize
 
 [NEWYEARREDPACKETE_TAB1_BUTTON1]
 Sign Up for Lottery
@@ -85179,17 +85034,17 @@ Reward Preview：
 February 9： ^FF0000 Universal Fragment^oldclrr*200
 February 10： ^FF0000 Book^oldclrr*10
 February 11： ^FF0000 Fragment^oldclrr*300
-February 12： ^FF0000 Gems^oldclrr*20250
+February 12： ^FF0000 Gems^oldclrr*20260
 February 13： ^FF0000 Limited Chest Trophy^oldclrr*5
 February 14： ^FF0000 Universal Fragment^oldclrr*200
 February 15： ^FF0000 Book^oldclrr*10
 February 16： ^FF0000 Fragment^oldclrr*300
-February 17： ^FF0000 Gems^oldclrr*20250
+February 17： ^FF0000 Gems^oldclrr*20260
 February 18： ^FF0000 Limited Chest Trophy^oldclrr*5
 February 19： ^FF0000 Universal Fragment^oldclrr*200
 February 20： ^FF0000 Book^oldclrr*10
 February 21： ^FF0000 Fragment^oldclrr*300
-February 22： ^FF0000 Gems ^oldclrr *20250
+February 22： ^FF0000 Gems ^oldclrr *20260
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
 Top Lucky Player Award
@@ -85370,7 +85225,7 @@ Interdimensional Travel
 Shatter the dimensional walls, traverse the corridors
 
 [AVATARCOLLECTIONS_HEAD_ID_25807]
-Winter is Here
+Winter is Coming
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25807]
 Wind brings snow, rain mixed with frost, lands blanketed in cold, veiling the chill's gleam.
@@ -85388,7 +85243,7 @@ Endless Starry Sky
 Stare into the black hole until it stares back
 
 [AVATARCOLLECTIONS_THEME_TITLE18]
-Winter is Here
+Winter is Coming
 
 [AVATARCOLLECTIONS_THEME_DES18]
 Ice travels with the wind, frost descends alongside snow.
@@ -86052,22 +85907,22 @@ Proof of Perfect Clearance in Anniversary Realm
 Zombie Cleanup Plan - Day {LEVEL_NUMBER}
 
 [COLORCUSTOMIZATION]
-Chroma Customization
+Color Customization
 
 [COLORCUSTOMIZATION_TAB1]
-Chroma Customization
+Bundles
 
 [COLORCUSTOMIZATION_TAB2]
-Essence Store
+Store
 
 [COLORCUSTOMIZATION_TAB3]
-Accumulated Purchase Tasks
+Tasks
 
 [COLORCUSTOMIZATION_TASKGOAL]
-Accumulated Purchases： {NUMBER}
+Purchase {NUMBER} Times
 
 [COLORCUSTOMIZATION_BUYCOUNT]
-Already Purchased： {NUMBER} times
+Purchased {NUMBER} Times
 
 [COLORCUSTOMIZATION_BONUS_SELECT_TITLE]
 Custom Pack
@@ -86079,7 +85934,7 @@ Please select your custom reward
 Custom Reward Preview
 
 [MAT_COLOR_CUSTOMIZATION_INTEGRAL]
-Chroma Essence
+Color Essence
 
 [MAT_COLOR_CUSTOMIZATION_INTEGRAL_USE]
 Exchange rewards in the Chroma Customization event store
@@ -86955,7 +86810,7 @@ When the server-wide contribution points reach a reward node, all participating 
 2. 399 Costume Vouchers
 3. 5 Orange Nutrient Solutions
 4. Space-Time Rift Exclusive Name Card
-5. 100 Universal Gene Coins
+5. Singer Sunflower – Sweetheart Cake
 6. Treasure Vouchers
 
 During the daily event, when the combined damage dealt by you and your teammate reaches the required node, you can claim the "Today's Squad Challenge Cumulative Damage" node reward.
@@ -87041,10 +86896,11 @@ Secret Realm Reward
 Space-Time Rift Event Guide
 
 [SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. After the event opens (from February 13 to February 19, 2026), players have 3 daily attempts to challenge the boss.
+1. After the event opens (from February 11 to February 17, 2026), players have 3 daily attempts to challenge the boss.
 2. On the first day, challenges are available immediately after the event starts at 0:00. Starting from the second day, leaderboards from the previous day are settled between 0:00 and 8:00, during which challenges are temporarily closed.
 3. After the settlement period ends, rewards are distributed to all participating players based on their leaderboard ranking.
 4. After settlement, one lucky player will also receive the Koi Reward (2,888 Diamonds + 20 Universal Fragments).
+5. After the challenge period ends, there will be a one-day announcement period. During this period, players can no longer participate in challenges or assist others, but they can still claim rewards and continue practicing.
 
 [SPACETIMERIFT_CHEAT_DES_DESCRIPTION]
 Irregular activity has been detected on your account.

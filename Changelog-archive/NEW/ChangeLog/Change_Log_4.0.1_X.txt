@@ -1,0 +1,9 @@
+======4.0.1_1======
+Added 4.0.0 text
+Fixed the issue where ANY dialogue was not playing
+
+======4.0.1_2======
+Fixed Fun Competition text  
+Fixed Underground Palace Realm text  
+Fixed Color and Super Costume Event text  
+Added missing latest text from Update 9
