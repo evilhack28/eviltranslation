@@ -62,63 +62,63 @@ Testing PVP text fix
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
 ^4B0082 cybersteve ^oldclr Created the translation template on GitHub
 ^008000 eluth ^oldclr Helped with the translation
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
-^FFFF00 If you paid for this, you have been scammed.
+^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
-You only have until March 123456789th to finish the Underground Palace Realm!
+^00FFFF  You only have until March 123456789th to finish the Underground Palace Realm!
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
 
 [SPRING_TIPS_2]
-Don't forget to claim the 3 free Lucky Chests!
+^00FFFF  Don't forget to claim the 3 free Lucky Chests!
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
 
 [SPRING_TIPS_3]
-Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
+^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
 
 [SPRING_TIPS_4]
-Be sure not to play any online mods with cheats!
+^00FFFF  Be sure not to play any online mods with cheats!
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
 
 [SPRING_TIPS_5]
-Don't forget the daily challenge!
+^00FFFF  Don't forget the daily challenge!
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
 
 [SPRING_TIPS_6]
-Made only by EvilHack28.
+^00FFFF  Made only by EvilHack28.
 ^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
 
 [SPRING_TIPS_7]
