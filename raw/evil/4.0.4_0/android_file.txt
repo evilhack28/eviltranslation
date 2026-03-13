@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.0.0 server 9)
-Version          ： 4.0.1_3
+File Version     ： Text-based (4.0.4 server 0)
+Version          ： 4.0.4_0
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -44,19 +44,8 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======4.0.0_1======
-Added 4.0.0 text
-Fixed the issue where ANY dialogue was not playing
-
-======4.0.1_2======
-Fixed Fun Competition text  
-Fixed Underground Palace Realm text  
-Fixed Color and Super Costume Event text  
-Added missing latest text from Update 9
-
-======4.0.1_3======
-Testing PVP text fix
-
+======4.0.4_0======
+Added 4.0.0 Text
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
@@ -66,69 +55,69 @@ Testing PVP text fix
 
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 3 March 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 3 March 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 3 March 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 3 March 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 3 March 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 3 March 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
-^00FFFF  You only have until March 123456789th to finish the Underground Palace Realm!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^00FFFF  Don't forgot to do your Aborday Quest !
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.0_0)
 
 
 
@@ -276,6 +265,56 @@ Testing PVP text fix
 [NEW_AVATAR_DESCRIPTION_DOOMSHROOM_1]
 种植冷却减少10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_AEONIUM_2]
+黑法师魔法书装扮
+
+[NEW_AVATAR_DESCRIPTION_AEONIUM_2]
+放逐持续伤害增加10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_2]
+毁灭菇勇武将军装扮
+
+[NEW_AVATAR_DESCRIPTION_DOOMSHROOM_2]
+成长时间减少2秒
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_3]
+球果森林之子装扮
+
+[NEW_AVATAR_DESCRIPTION_ANIMNUTS_3]
+恐龙：吞咽时间减少2秒
+水母：粉色水母概率提升10%
+幽林马：休息时间减少1.5秒
+
+[NEW_AVATAR_SHORT_DESCRIPTION_POISONPEASHOOTER_2]
+毒液豌豆潮流小帽装扮
+
+[NEW_AVATAR_DESCRIPTION_POISONPEASHOOTER_2]
+阳光消耗减少25点
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ACTINOSTEMMA_1]
+盒子草礼炮太阳伞装扮
+
+[NEW_AVATAR_DESCRIPTION_ACTINOSTEMMA_1]
+攻击冷却时间减少10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_COTTONYETI_1]
+棉小雪洋帽装扮
+
+[NEW_AVATAR_DESCRIPTION_COTTONYETI_1]
+阳光消耗减少25
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICBLUEBERRY_2]
+电击蓝莓学士帽装扮
+
+[NEW_AVATAR_DESCRIPTION_ELECTRICBLUEBERRY_2]
+攻击力提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GARDENERGRASS_1]
+地锯草耳机装扮
+
+[NEW_AVATAR_DESCRIPTION_GARDENERGRASS_1]
+攻击力提升15%
+
 [NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_4]
 无
 
@@ -418,6 +457,12 @@ Reduces cooldown by 15%
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_3]
 阳光消耗减少50
 
+[NEW_AVATAR_SHORT_DESCRIPTION_DUCKPEAR_1]
+鸭梨椰子壳装扮
+
+[NEW_AVATAR_DESCRIPTION_DUCKPEAR_1]
+阳光消耗减少25
+
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_4]
 公主-璀璨装扮
 
@@ -537,6 +582,21 @@ At Level 5, Apple Mortar has {Param_1}% chance to lob a Giant Golden Apple, whic
 
 [GENE_DESCRIPTION_AEONIUM]
 Attacks have {Param_1}% chance to banish Gargantuars.
+
+[GENE_DESCRIPTION_SUGARCANE]
+Increases its HP by {Param_1}%.
+
+[GENE_DESCRIPTION_WINTERSWEET]
+Increases the chances to launch additional plum blossoms at Tier 2 and Tier 3 by {Param_1}%.
+
+[GENE_DESCRIPTION_AKEE]
+Increases its attack speed by {Param_1}%.
+
+[GENE_DESCRIPTION_ACORN]
+Reduces its sun cost by {Param_1}.
+
+[GENE_DESCRIPTION_WITCHHAZEL]
+Normal attacks have a {Param_1}% chance to upgrade into Advanced Magic, which either transforms zombies into Scaredy-shrooms or deals {Param_2}% damage.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
 Big Smoke Mushroom Lion Dance Outfit
@@ -3094,28 +3154,28 @@ Hero's Crown
 The crown that has been worn by a famous hero during his demon-subduing phase still retains this hero's powers.
 
 [HERO_CROWN_BOOST_DES_1]
-Effect 1： After planting, attack power is increased by 20%; after 3 seconds, it is reduced to –50%, and after 10 seconds, it returns to its original attack power.
+Effect 1： Upon planting, attack power increases by 20%; After 3 seconds, attack power decreases by 50%, After 10 seconds, the attack bonus resets to 0.
 Effect 2： Planting cooldown time is reduced by 12%.
 Effect 3： Locked
 
 [HERO_CROWN_BOOST_DES_2]
-Effect 1： After planting, attack power is increased by 30%; after 3 seconds, it is reduced to –50%, and after 10 seconds, it returns to its original attack power.
+Effect 1： Upon planting, attack power increases by 30%; After 3 seconds, attack power decreases by 50%, After 10 seconds, the attack bonus resets to 0.
 Effect 2： Planting cooldown time is reduced by 18%.
 Effect 3： Locked
 
 [HERO_CROWN_BOOST_DES_3]
-Effect 1： After planting, attack power is increased by 40%; after 3 seconds, it is reduced to –50%, and after 10 seconds, it returns to its original attack power.
+Effect 1： Upon planting, attack power increases by 40%; After 3 seconds, attack power decreases by 50%, After 10 seconds, the attack bonus resets to 0.
 Effect 2： Planting cooldown time is reduced by 20%.
 Effect 3： Locked
 
 [HERO_CROWN_BOOST_DES_4]
-Effect 1： After planting, attack power is increased by 50%; after 3 seconds, it is reduced to –50%, and after 10 seconds, it returns to its original attack power.
+Effect 1： Upon planting, attack power increases by 50%; After 3 seconds, attack power decreases by 50%, After 10 seconds, the attack bonus resets to 0.
 Effect 2： Planting cooldown time is reduced by 25%.
 Effect 3： Sun cost is reduced by 25.
 
 
 [HERO_CROWN_BOOST_DES_5]
-Effect 1： After planting, attack power is increased by 60%; after 3 seconds, it is reduced to –50%, and after 10 seconds, it returns to its original attack power.
+Effect 1： Upon planting, attack power increases by 60%; After 3 seconds, attack power decreases by 50%, After 10 seconds, the attack bonus resets to 0.
 Effect 2： Planting cooldown time is reduced by 30%.
 Effect 3： Sun cost is reduced by 35.
 
@@ -3874,6 +3934,12 @@ Highlight Moment
 [LEVEL_EDITOR_HEAD_DES_ID_25815]
 Who are you? Please support 5-Star Village Chief!
 
+[LEVEL_EDITOR_HEAD_ID_25836]
+Joyful Opening
+
+[LEVEL_EDITOR_HEAD_DES_ID_25836]
+A minute on stage, a whole lot of carnage behind the scenes!
+
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Children's Mangosteen
 
@@ -3968,6 +4034,13 @@ Fortune at the Door
 [SUMMER_MEMORIES_HEAD_DES_ID_25811]
 To players journeying through memories.
 Season 21
+
+[SUMMER_MEMORIES_HEAD_ID_25837]
+Swallows Carrying Spring Peaches
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25837]
+To players journeying through memories.
+Season 22
 
 [PARTYEPSACTIVITY_HEAD_ID_25572]
 Party Orchid Mage
@@ -4150,6 +4223,12 @@ Whip-Fire Illuminates the Sky
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25817]
 Claim by reaching the cumulative recharge milestone during the Celebration Gift Pack event.
+
+[NEWYEAR_GIFT_HEAD_ID_25838]
+Spring Dances with the Sun
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25838]
+Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev! 
@@ -4370,7 +4449,7 @@ Your local archive has illegal data and will continue the game using the cloud a
 [PVZ_ERROR_90002]
 Upload local archive failed.
 
-[PVZ_ERROR_76042]
+[PVP_ERROR_76042]
 Challenge is available from 08:00 to 24:00.
 Please attempt the challenge during this time!
 
@@ -9795,6 +9874,12 @@ Rapid Growth
 [PEAPOD_SKILL1_LEVEL2_DES]
 Enhances Automatic Growth, reducing the time interval by 20 seconds.
 
+[PEAPOD_SKILL1_LEVEL5]
+进化论
+
+[PEAPOD_NEW_SKILL_LEVEL5_DES]
+豌豆荚叠种满5颗豌豆后可继续叠种，继续叠种会使豌豆荚的豌豆进化为双发豌豆、机枪豌豆。进化后的豌豆射出的豌豆增加。
+
 [PEAPOD_NEW_SKILL_LEVEL1_DES]
 When a zombie appears in front of the pea pod, each pea in the pea pod fires the pea to attack the zombie. It is possible to superimpose the planting of pea pods on a single grid, up to 5 in a single grid
 
@@ -14493,6 +14578,9 @@ Explode-O-Nut provide protection, and if the shell is eaten, the zombies are imm
 [EXPLODEONUT_TOOLTIP]
 Explodes when eaten
 
+[EXPLODEONUT_PRODUCT_SHORT_DESC]
+Explodes when eaten
+
 [EXPLODEONUT_SKILL_LEVEL1]
 Blasting continuation
 
@@ -15364,6 +15452,9 @@ Fanilla
 Fanilla can blow away Gentleman Zombie's umbrella.
 
 [VANILLA_TOOLTIP]
+Fanilla can blow away Gentleman Zombie's umbrella.
+
+[VANILLA_PRODUCT_SHORT_DESC]
 Fanilla can blow away Gentleman Zombie's umbrella.
 
 [VANILLA_SKILL_LEVEL1]
@@ -25235,6 +25326,70 @@ Inflates, then spits out three large water balls.
 [MOTON_NEW_SKILL_LEVEL1_DES]
 魔藤发射魔弹进行攻击，魔弹对防具僵尸威力翻倍
 
+[LEVITATER]
+Levitater
+
+[LEVITATER_DESCRIPTION_HEADER]
+Levitaters levitate random zombies.
+
+[LEVITATER_DESCRIPTION]
+{KEYWORD}特点：{STAT}攻击使僵尸悬浮
+{KEYWORD}植物特征：{STAT}褐色植物、矮个子
+{FLAVOR}"I'm a bit different from my other tater cousins," explains Levitater. "Chief among those differences, I'd say, is that I don't explode on contact, or at all. I stick around!"
+
+[LEVITATER_TOOLTIP]
+Levitaters levitate random zombies.
+
+[LEVITATER_SKILL_LEVEL1]
+普通起飞
+
+[LEVITATER_SKILL_LEVEL1_DES]
+攻击冷却降低至7.5秒，秒杀概率上升至15%，最高击飞6阶僵尸
+
+[LEVITATER_SKILL_LEVEL2]
+认真起飞
+
+[LEVITATER_SKILL_LEVEL2_DES]
+攻击冷却降低至5秒，秒杀概率上升至20%，最高击飞8阶僵尸
+
+[LEVITATER_SKILL_LEVEL5]
+连续认真起飞
+
+[LEVITATER_SKILL_LEVEL5_DES]
+秒杀概率上升至30%，若攻击的僵尸处于飞行或悬浮状态，则悬浮洋芋释放两股绿色飓风，100%概率将中小型僵尸扔出场外，60%概率将巨人僵尸扔出场外，最高击飞10阶僵尸
+
+[LEVITATER_SUPERSKILL_DES]
+悬浮洋芋使场上5个僵尸悬浮5秒，有25%概率秒杀
+
+[LEVITATER_NEW_SKILL_LEVEL1_DES]
+每隔10秒，悬浮洋芋使本行离他最近的僵尸单格范围内的僵尸悬浮5秒，有10%概率将僵尸扔出场外，最高击飞4阶僵尸
+
+[LEVITATER_NEW_SKILL_LEVEL2_DES]
+攻击冷却降低至7.5秒，秒杀概率上升至15%，最高击飞6阶僵尸
+
+[LEVITATER_NEW_SKILL_LEVEL3_DES]
+攻击冷却降低至5秒，秒杀概率上升至20%，最高击飞8阶僵尸
+
+[LEVITATER_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招。
+
+[LEVITATER_NEW_SKILL_LEVEL5_DES]
+秒杀概率上升至30%，若攻击的僵尸处于飞行或悬浮状态，则悬浮洋芋释放两股绿色飓风，100%概率将中小型僵尸扔出场外，60%概率将巨人僵尸扔出场外，最高击飞10阶僵尸
+
+[STORE_PRODUCT_AVATAR_LEVITATER_TITLE]
+悬浮洋芋装扮
+
+[STORE_PRODUCT_AVATAR_LEVITATER]
+可使场上8个僵尸悬浮，其中一个悬浮为特殊旋风100%概率秒杀，其余僵尸仍为25%概率秒杀
+
+[LEVITATER_AVATAR_NAME]
+悬浮洋芋装扮
+
+[LEVITATER_PLANTFOOD_DESCRIPTION]
+悬浮洋芋使场上5个僵尸悬浮5秒，有25%概率秒杀
+
+[LEVITATER_AVATAR_PLANTFOOD_DESCRIPTION]
+可使场上8个僵尸悬浮，其中一个悬浮为特殊旋风100%概率秒杀，其余僵尸仍为25%概率秒杀
 
 [Plants_End]
 
@@ -27209,10 +27364,21 @@ Summer Ascent
 Abundance Year After Year
 
 [RANK_AVATAR_CONTENT_CONTENT_61056]
-Space-Time Rift Event Name Card
+Congratulations! For being a Grandmaster!!!!
+Season 19
 
 [RANK_AVATAR_CONTENT_TITLE_61056]
 Abundance Year After Year
+
+[rank_avatar_diy_60]
+Spring Blooms
+
+[RANK_AVATAR_CONTENT_CONTENT_61057]
+Congratulations! For being a Grandmaster!!!!
+Season 42
+
+[RANK_AVATAR_CONTENT_TITLE_61057]
+Spring Blooms
 
 [RANK_AVATAR_CONTENT_CONTENT_61023]
 Congratulations! For being a Grandmaster!!!!
@@ -29320,6 +29486,9 @@ SFX
 
 [OPTIONS_SKIPANIMS]
 Skip Results
+
+[OPTIONS_ZOMBIE_STARTRUSHONSCREEN]
+Off-Lawn Zombie Speed-Up
 
 [OUT_OF_CONTENT_CONFIRM]
 DOWNLOAD NOW
@@ -34236,6 +34405,9 @@ Wait for sync archive
 
 [SYNCING_WAITING_TEXT]
 Syncing save data, please wait a moment and then click OK.
+
+[NET_CONNECTING_JSON_UPDATE]
+Updating data...
 
 [NET_CONNECTING]
 LOADING...
@@ -41024,6 +41196,9 @@ Summon the chestnut minions to attack the zombies in a certain area ahead.
 [CHESTNUT_PLANTFOOD]
 Summon a squad of chestnuts to charge forward.
 
+[SMALLCHESTNUT]
+Chestnut Squad 
+
 [RAFFLESIA]
 Daquipa
 
@@ -41124,6 +41299,24 @@ Pick random targets on the lawn to fire large quantities of explosive peppers wh
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
 Splits when killed
+
+[ZOMBIE_BOBSLED_PUNK]
+冰车僵尸
+
+[ZOMBIE_BOBSLED_PUNK_DESCRIPTION]
+老冰不死，甚至逐渐流行！“太空兽人“的专辑制作尸，顶着飘逸鲻鱼头和最酷的新座驾炸场回归！他把你的草坪变成冰场的速度，比你“冻”感神经的反应速度还快
+
+[ZOMBIE_BOBSLED_PUNK_DESCRIPTION_HEADER]
+碾压路上的植物，并在身后留下冰道
+
+[ZOMBIE_SLED_PUNK]
+雪橇车僵尸小队
+
+[ZOMBIE_SLED_PUNK_DESCRIPTION]
+看看这大脑特攻队！这些僵尸运动员被冰霜”焊“在一起，彰显着“不抛尸、不弃尸”的团队精神
+
+[ZOMBIE_SLED_PUNK_DESCRIPTION_HEADER]
+四个为一队，可乘坐雪橇车在冰道上快速移动
 
 [ZOMBIE_BOBSLED]
 圣诞冰车僵尸
@@ -41229,6 +41422,15 @@ Splits when killed
 
 [ZOMBIE_LADDER_DESCRIPTION_HEADER]
 梯子可抵挡伤害，可在坚果墙等防御植物上架设梯子使僵尸越过该植物
+
+[ZOMBIE_POGO]
+蹦蹦僵尸
+
+[ZOMBIE_POGO_DESCRIPTION]
+蹦！蹦！蹦！那是蹦蹦僵尸发出的有力且有效的声音。
+
+[ZOMBIE_POGO_DESCRIPTION_HEADER]
+拥有蹦蹦杆时不会被植物阻挡，会直接跨过植物
 
 [ZOMBIE_POLE_VAULTING]
 撑杆僵尸
@@ -43834,7 +44036,7 @@ Daily Leaderboard Rewards
 Fun Competition Rule
 
 [MINIGAME_RULE_TXT]
-1. The Fun Competition runs from February 14, 2026, to February 26, 2026. A new mini-game is unlocked each day.
+1. The Fun Competition runs from March 19, to March 31. A new mini-game is unlocked each day.
 
 2. During the event, there is no daily challenge limit. Clearing a mini-game level rewards points and enhancement energy.
 
@@ -60550,8 +60752,8 @@ Secret Realm Chest Search
 
 [ARBORDAY_DESCRIPTION]
 Event Details：
-1. Every three Fuels consumed will open a chest chest once, rewarding a large amount of plant fragments, Gems, coins, and other prizes. The available rewards are： ^FF8000^Artifact Voucher, Zombie Pod, Crazy Hat Mushroom^oldclrr ^8600FF^Nightshade, Missile Toe^oldclrr ^2828FF^Primal Wall-nut, Asparagus, Caulipower^oldclrr ^82D900^Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclrr
-2. Fuels can be obtained through charging tasks or by purchasing diamond packs.
+1. Every three Watering Cans consumed will open a chest chest once, rewarding a large amount of plant fragments, Gems, coins, and other prizes. The available rewards are： ^FF8000^Artifact Blessing Tickets, Cranesbill Fencer, Princess Spring Grass^oldclr^ ^8600FF^ Scaredy-shroom, Missile Toe ^oldclrr ^2828FF^ Primal Wall-nut, Asparagus, Caulipower ^oldclrr ^82D900^ Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclrr
+2. Watering Cans can be obtained through charging tasks or by purchasing diamond packs.
 3. Every battery consumed will accumulate both personal and server-side charging progress. Rewards can be claimed based on individual and server-side progress!
 
 [NEWYEAR_GOODS_SHORT_DESCRIPTION]
@@ -65400,16 +65602,16 @@ Watering Can
 After plants are planted, there is a 3% chance per second that the plant will enter a water deficit state. In this state, the plant cannot attack. Use the watering can at the bottom right to water the plant and remove the water deficit status.
 
 [THEME_ZOMBIE_SUN_NAME]
-Sunday
-
-[THEME_ZOMBIE_SUN_DESCRIPTION]
-Sun-producing plants are banned
-
-[THEME_SUN_DISABLED_NAME]
 Deadly Sun
 
-[THEME_SUN_DISABLED_DESCRIPTION]
+[THEME_ZOMBIE_SUN_DESCRIPTION]
 Zombies drop sun when defeated
+
+[THEME_SUN_DISABLED_NAME]
+Sunday
+
+[THEME_SUN_DISABLED_DESCRIPTION]
+Sun-producing plants are banned
 
 [JOUST_LEAGUE_NAME_WOOD_SHORT_1]
 Log
@@ -67743,6 +67945,12 @@ Challenge
 
 [CHALLENGE_PURPOSE_2]
 Challenge
+
+[PVZ1_MODE_MINIGAME_START_LEVEL]
+Memory Lane - Mini-game
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_1]
+Memory Lane - Mini-game
 
 [PVZ1_MODE_START_LEVEL]
 Memory Lane - Level {NUM}
@@ -72565,6 +72773,54 @@ General Assault
 [S29_MEMORY_LEVEL_NAME_040]
 Emperor's Expedition
 
+[S29_MEMORY_LEVEL_NAME_049]
+Sun Crisis
+
+[S29_MEMORY_LEVEL_NAME_050]
+Mechanical Sun Current
+
+[S29_MEMORY_LEVEL_NAME_051]
+Minecart War
+
+[S29_MEMORY_LEVEL_NAME_052]
+Crack Eggs, Open Caps
+
+[S29_MEMORY_LEVEL_NAME_053]
+Trap Tactics
+
+[S29_MEMORY_LEVEL_NAME_054]
+Mustangs of the Frozen Frontier
+
+[S29_MEMORY_LEVEL_NAME_055]
+Sand Diver Raid
+
+[S29_MEMORY_LEVEL_NAME_056]
+Bloodbath on Deck
+
+[S29_MEMORY_LEVEL_NAME_057]
+First Sight of Green
+
+[S29_MEMORY_LEVEL_NAME_058]
+Potato Insurance
+
+[S29_MEMORY_LEVEL_NAME_059]
+Chomper Fast Food
+
+[S29_MEMORY_LEVEL_NAME_060]
+Soul Returns to the Ice Age
+
+[S29_MEMORY_LEVEL_NAME_061]
+Feed Me, Zombies
+
+[S29_MEMORY_LEVEL_NAME_062]
+Frontline Operations
+
+[S29_MEMORY_LEVEL_NAME_063]
+Reverse Attack
+
+[S29_MEMORY_LEVEL_NAME_064]
+Master of Darts, Shadows in Jars
+
 [S29_MEMORY_LEVEL_NAME_1]
 Wolves Advance
 
@@ -73588,6 +73844,9 @@ Hard Mode Rules： Only 2 Seed Slots for Premium Plants (Pre-selected premiums d
 [MODE_HOWTOPLAY_5_DESCRIPTION]
 In all modes, spatiotemporal energy is restored using the Spatiotemporal Energy Bean
 
+[MODE_HOWTOPLAY_6_DESCRIPTION]
+In Mini-game Mode, there are four sections: Play Mini-games, Vasebreaker, Zombie Enemy, and I Am a Plant. Rewards can be obtained by completing levels.
+
 [AUTH_LOGIN_ERROR_TEXT]
 Abnormal network fluctuations, please click to start the game later.
 
@@ -73784,6 +74043,45 @@ Achievement description
 1. Achievement coins can only be claimed once per achievement.
 2. Earn rewards when reaching required coin amounts
 3. Achievement progress will not reset between season.
+
+[PVZ1_MINIGAME_ACHIEVEMENT]
+Mini-game Achievements
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_1]
+[Mini-game]: Complete 20 different mini-games.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_2]
+[Mini-game]: Complete 50 different mini-games.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_3]
+[Vasebreaker]: Smash 500 vases.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_4]
+[Vasebreaker]: In one Vasebreaker level, smash all vases within 30 seconds, then win the level.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_5]
+[I, Zombie]: Summon 50 zombies.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_6]
+[I, Zombie]: Summon 100 zombies.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_7]
+[I Am a Plant]: Clear any level in I Am a Plant mode with 500 Sun remaining.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_8]
+[Vasebreaker]: Smash 1000 vases.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_9]
+[Mini-game]: Complete 100 mini-games.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_10]
+[I, Zombie]: Summon 200 zombies.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_11]
+[Mini-game]: Complete 140 mini-games.
+
+[PVZ1_MINIGAME_ACHIEVEMENT_NAME_12]
+[Vasebreaker]: Smash 2000 vases.
 
 [ANNIVERSARY_KEY_INFO_TITLE]
 Secret Realm Description
@@ -78307,22 +78605,6 @@ Task Activity Instructions
 [NEW_PVP_TASK_DESCRIPTION]
 Activity Rules：
 
-[NEW_PVP_TASK_DESCRIPTION_40]
-1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
-2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
-3. 4 weekly tasks unlock progressively, available until season end.
-4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
-5. Premium Pass： 
-   - Unlocks premium rewards
-   - +20% XP
-   - Instant 270 Coins + season plant
-6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
-7. Wheel： One-time rewards. Initial odds：
-   Gold/Gems ~22.5% 
-   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
-   Accessories： 19.3% (Super 2.0%)
-   Rare： Selectable Box 0.2%, Book 0.1%
-
 [NEW_PVP_TASK_DESCRIPTION_41]
 1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
 2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
@@ -78338,6 +78620,159 @@ Activity Rules：
    Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
    Accessories： 19.3% (Super 2.0%)
    Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_42]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+[NEW_PVP_TASK_DESCRIPTION_43]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_44]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_45]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_46]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_47]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_48]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_49]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
+[NEW_PVP_TASK_DESCRIPTION_50]
+1. Earn XP via daily/weekly challenges. 1000 XP = 1 level up + rewards.
+2. 3 daily task slots (refresh 3/day). New tasks only add to empty slots.
+3. 4 weekly tasks unlock progressively, available until season end.
+4. Rewards improve with level. Duel Coins till Lv50, then 10-level cycles. Coins expire post-season.
+5. Premium Pass： 
+   - Unlocks premium rewards
+   - +20% XP
+   - Instant 270 Coins + season plant
+6. Spend Coins in Lucky Wheel (20 rewards total). Lv50+Premium = claim all.
+7. Wheel： One-time rewards. Initial odds：
+   Gold/Gems ~22.5% 
+   Plants： Green 11.3%, Blue 7.9%, Purple 11.3%, Orange 2.5%
+   Accessories： 19.3% (Super 2.0%)
+   Rare： Selectable Box 0.2%, Book 0.1%
+
+
 
 
 
@@ -82362,7 +82797,7 @@ This plant does not have an plants food effect
 This plant does not have an plants food effect 
 
 [ACTIVITY_NEW_PLAYER_SURVEY_DESC]
-Participate in the survey, answer questions, and receive Gems and Umbrella Leaf Costume fragments.
+Participate in the survey, answer questions, and receive Gems and Costume Ticket rewards.
 
 [ACTIVITY_NEW_PLAYER_SURVEY_REWARD_TITLE]
 Possible rewards
@@ -84029,10 +84464,10 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
 [NIGHTTHETOY_TIP]
-Starfish  Shop
+Super Shop
 
 [NIGHTTHETOY_SHOP]
-Starfish  Shop
+Super Shop
 
 [NIGHTTHETOY_TASK]
 Event Tasks
@@ -84062,10 +84497,10 @@ Super Costume Event
 Basic Super Bundle
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Starfish Bundle
+Intermediate Super Bundle
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Advanced Starfish Bundle
+Advanced Super Bundle
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Beginner Limited Edition Gift Pack
@@ -84192,7 +84627,7 @@ Air Raid
 Enhancement Energy
 
 [GINGLEBELL_TITLE]
-SPRING FESTIVAL’S JINGLE BELLS
+Spring Jingle
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -84214,23 +84649,23 @@ Jingle Bells Description
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules：
-Special Mechanic - Gift Boxes： Attacking gift boxes does not increase your score.
+Special Mechanic： Attacking Umbrella Zombie does not increase your score.
     1. All damage dealt to Scarecrow within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Lurking in the Woods, Lurking in the Woods, Darting and Dodging), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Gracefully enters the scene, sits on the ground, strolls through the spring scenery), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00：00-10：00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
-    6. Ranking rewards auto-distribute after 10：00. On February 25, extends to 24 hours (no challenges allowed).
+    6. Ranking rewards auto-distribute after 10：00. On March 30, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-The Lion Dance, after taking a certain amount of damage, will spew flames in the direction it is facing.
+Umbrella Zombie periodically switches its defensive stance.
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-The flames extend 3 tiles and instantly kill any plants within range.
+The Direct Defense stance makes it immune to direct shots from the front. The Lobbed Defense stance makes it immune to lobbed projectiles.
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Theme 1: Wooden stakes move left and right within a certain range in their row. Their facing direction changes as they move.
+Theme 1: After a plant stake takes a certain amount of damage, it will vanish from its current tile and reappear on another fixed tile.
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
 Theme 2: Several stationary wooden stakes are present on the field.
@@ -84360,100 +84795,100 @@ Spring Festival Jingle Bells
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Lurking in the Woods - Level 1
+Gracefully enters the scene - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Lurking in the Woods - Level 2
+Gracefully enters the scene - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Lurking in the Woods - Level 3
+Gracefully enters the scene - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Lurking in the Woods - Level 1
+Gracefully enters the scene - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Lurking in the Woods - Level 2
+Gracefully enters the scene - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Lurking in the Woods - Level 3
+Gracefully enters the scene - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Darting and Dodging - Level 1
+strolls through the spring scenery - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Darting and Dodging - Level 2
+strolls through the spring scenery - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Darting and Dodging - Level 3
+strolls through the spring scenery - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Lurking in the Woods - Level 1
+Gracefully enters the scene - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Lurking in the Woods - Level 2
+Gracefully enters the scene - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Lurking in the Woods - Level 3
+Gracefully enters the scene - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Lurking in the Woods - Level 1
+Gracefully enters the scene - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Lurking in the Woods - Level 2
+Gracefully enters the scene - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Lurking in the Woods - Level 3
+Gracefully enters the scene - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Darting and Dodging - Level 1
+strolls through the spring scenery - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Darting and Dodging - Level 2
+strolls through the spring scenery - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Darting and Dodging - Level 3
+strolls through the spring scenery - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Lurking in the Woods - Level 1
+Gracefully enters the scene - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Lurking in the Woods - Level 2
+Gracefully enters the scene - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Lurking in the Woods - Level 3
+Gracefully enters the scene - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Lurking in the Woods - Level 1
+sits on the ground - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Lurking in the Woods - Level 2
+sits on the ground - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Lurking in the Woods - Level 3
+sits on the ground - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Darting and Dodging - Level 1
+strolls through the spring scenery - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Darting and Dodging - Level 2
+strolls through the spring scenery - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Darting and Dodging - Level 3
+strolls through the spring scenery - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge： Deal max damage within 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Patrolling the Mountains - Level {LEVEL_NUMBER}
+Gracefully Enters the Scene - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Lurking in the Woods - Level {LEVEL_NUMBER}
+Sits on the Ground - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Darting and Dodging - Level {LEVEL_NUMBER}
+Strolls Through Spring Scenery - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Jingle Bell Spring Festival
+{PLAYER}'s Spring Jingle Journey
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
 5 Blue Pendant Fragments (Selectable)
@@ -85353,7 +85788,13 @@ Obtained by participating in the Snow Mountain Mystery event.
 Flex Alliance
 
 [TOYS_HEAD_DES_ID_25810]
-Obtained by participating in the Fantasy Alternate World event.
+Obtained by participating in the Vast World Realm event.
+
+[TOYS_HEAD_ID_25835]
+Vast World
+
+[TOYS_HEAD_DES_ID_25835]
+Obtained by participating in the Vast World Realm event.
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -85453,6 +85894,12 @@ Obtained by exchanging with Super Corn in the Farm Battle event.
 Roaming by the Water
 
 [HARVEST_BATTLE_HEAD_DES_ID_25789]
+Obtained by exchanging with Super Corn in the Farm Battle event.
+
+[HARVEST_BATTLE_HEAD_ID_25839]
+Conquest Through Peace
+
+[HARVEST_BATTLE_HEAD_DES_ID_25839]
 Obtained by exchanging with Super Corn in the Farm Battle event.
 
 [TIANGONG_HEAD_ID_25712]
@@ -86955,5 +87402,677 @@ Complete Endless Level {NUMBER}
 
 [MAUSOLEUM_TASKDESCRIPTION_TITLE]
 Endless Challenge Tasks
+
+[PVZ1MODE_MINIGAME_TAB_NAME1]
+Play Mini-games
+
+[PVZ1MODE_MINIGAME_TAB_NAME2]
+Vasebreaker
+
+[PVZ1MODE_MINIGAME_TAB_NAME3]
+Zombie Enemy
+
+[PVZ1MODE_MINIGAME_TAB_NAME4]
+I Am a Plant
+
+[PVZ1MODE_MINIGAME_ITEM_0]
+Mini-game
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_1]
+Plant Zombies 1
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_2]
+Plant Zombies 2
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_3]
+Wall-nut Bowling
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_4]
+Seed Rain
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_5]
+Bejeweled
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_6]
+Invisible War
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_7]
+Look at the Stars
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_8]
+Look at the Nuts
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_9]
+Look at the Formation
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_10]
+Shifting Stars
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_11]
+Zombie Aquarium
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_12]
+Little Zombie, Big Trouble
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_13]
+Sled Zone
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_14]
+Overwhelming Tide 1
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_15]
+Overwhelming Tide 2
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_16]
+Whack-a-Zombie
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_17]
+Dance Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_18]
+Dr. Zomboss's Revenge
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_19]
+Zombie War
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_20]
+Mysterious Magic Hat
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_21]
+Camel Memory
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_22]
+Cannon Battle
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_23]
+Fence Battle
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_24]
+Explosive Barrel
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_25]
+Bronze Man Formation
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_26]
+Going Solo 1
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_27]
+Going Solo 2
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_28]
+Tit for Tat
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_29]
+Headshot Every Arrow
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_30]
+Theater Thrills 1
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_31]
+Theater Thrills 2
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_32]
+Greedy Avocado
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_33]
+Beach Bowling
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_34]
+Dodo Bird Adventure
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_35]
+Ice Age Matching
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_36]
+One Cannon Holds the Pass
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_37]
+Encirclement and Pursuit 1
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_38]
+Encirclement and Pursuit 2
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_39]
+Plants Soaring High
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_40]
+Car Klotski
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_41]
+Attack from Both Sides
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_42]
+Canned Giant
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_43]
+Hundred-Step Zombie Piercer
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_44]
+Endless Sands
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_45]
+Fire-Roasted Pea
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_46]
+Boarding Battle
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_47]
+Minecart Puzzle
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_48]
+Pitcher League
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_49]
+Martial Arts Manual
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_50]
+Talent Show
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_51]
+Absorbing Technique
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_52]
+Jet Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_53]
+Short-Range Shooter
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_54]
+Zombie Apocalypse
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_55]
+Shoal Surfing
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_56]
+Seafood Feast
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_57]
+Chilling Wind Howls
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_58]
+Freezing Cold
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_59]
+Right Remedy for the Right Situation
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_60]
+Ancient City Ruins
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_61]
+Endless Cycle of Life
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_62]
+Melody Lingers On
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_63]
+Age of the Dragon
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_64]
+Prehistoric Showdown
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_65]
+Toxic Fog Blankets the Area
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_66]
+Shadow Energy
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_67]
+Deceiving the Heavens to Cross the Ocean
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_68]
+Industrial Revolution
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_69]
+Indestructible
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_70]
+Renaissance
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_71]
+Each Showing Their Own Magic
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_72]
+Vibrant and Lively
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_73]
+Bond Power
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_74]
+Deadly Poison
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_75]
+Company Team Building
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_76]
+Powerful Alliance
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_77]
+Healing Magic
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_78]
+Roman Invasion
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_79]
+Underground Palace Adventure
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_80]
+Unify the Land
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_81]
+Spring Festival Overture
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_82]
+Thunderous Cannon Fire
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_83]
+Treading Snow for Plum Blossoms
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_84]
+Winter Departs, Spring Arrives
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_85]
+Warm Spring, Flowers Bloom
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_86]
+Triple Firepower
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_87]
+Small but Mighty
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_88]
+Eternal Childlike Heart
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_89]
+Magic Duel
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_90]
+Campfire Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_91]
+Tenacious and Unyielding
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_92]
+Hurdle Race
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_93]
+Halloween Horror
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_94]
+Haunted Lawn
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_95]
+Unable to Move an Inch
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_96]
+Christmas Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_97]
+Birthday Banquet
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_98]
+Celebration Salute
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_99]
+Tit for Tat
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_100]
+Moment of Truth
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_101]
+I, Zombie
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_102]
+Old but Vigorous
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_103]
+Death Airship
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_104]
+Eyes in All Directions
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_105]
+Sudden Misfortune
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_106]
+Star-Crossed Lovers
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_107]
+Endless Cycle of Life
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_108]
+Company Adventure
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_109]
+Parallel Dimensions
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_110]
+Lightning Fast
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_111]
+Pharaoh's Curse
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_112]
+Deck Carnival
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_113]
+Cowboy Swing
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_114]
+Shaolin Divine Power
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_115]
+Mechanical Crisis
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_116]
+Magic and Dragon
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_117]
+Beach Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_118]
+Frozen Battlefield
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_119]
+Raiders of the Lost Ark
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_120]
+Rock Together
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_121]
+Camel Formation
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_122]
+Expedition Squad
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_123]
+Sea Bird's Nest
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_124]
+Roller Battle
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_125]
+Chain Lightning
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_126]
+Surrounded by Enemies
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_127]
+Jianghu Magic
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_128]
+Martial Arts Secrets
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_129]
+Jet Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_130]
+Electromagnetic Barrier
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_131]
+Beach Party
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_132]
+Deep Sea Fear
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_133]
+Chilling Wind Howls
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_134]
+Walking on Thin Ice
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_135]
+Right Remedy for the Right Situation
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_136]
+Ancient City Adventure
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_137]
+Rock Night
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_138]
+Holographic Shield
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_139]
+Toxic Fog Blankets the Area
+
+[PVZ1_MODE_MINIGAME_START_LEVEL_140]
+Overwhelming Power
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_1]
+Why are there plant-headed zombies on the opposite side?
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_2]
+Why are there plant-headed zombies again?
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_3]
+Use Wall-nuts like bowling balls to knock down zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_4]
+It's raining seeds!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_5]
+Use the Bejeweled board to clear the level.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_6]
+Stop the invisible zombies from advancing.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_7]
+Arrange the formation according to the prompt.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_8]
+Arrange the formation according to the prompt.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_9]
+Arrange the formation according to the prompt.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_10]
+Use portals to eliminate zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_11]
+Use food to feed the zombies in the aquarium.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_12]
+Stop the shrunken zombies from advancing.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_13]
+Eliminate the zombies who love to play in the snow.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_14]
+Plant an entire column of plants at once.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_15]
+Plant an entire column of plants at once.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_16]
+Tap the zombies on the screen to eliminate them.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_17]
+The bouncing zombies are having a dance party.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_18]
+Dr. Zomboss has appeared again!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_41]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_42]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_43]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_44]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_45]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_46]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_47]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_48]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_49]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_50]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_51]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_52]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_53]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_54]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_55]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_56]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_57]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_58]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_59]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_60]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_101]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_102]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_103]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_104]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_105]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_106]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_107]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_108]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_109]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_110]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_111]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_112]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_113]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_114]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_115]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_116]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_117]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_118]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_119]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_120]
+Use zombies to eliminate all the plants.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_121]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_122]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_123]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_124]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_125]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_126]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_127]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_128]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_129]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_130]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_131]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_132]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_133]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_134]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_135]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_136]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_137]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_138]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_139]
+Use fixed plants to stop a fixed zombie formation.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_140]
+Use fixed plants to stop a fixed zombie formation.
+
+[ADVICE_ERROR_SCORE]
+This level's likes reward limit has been reached.
 
 [PVZ2_CHINESE_END]
