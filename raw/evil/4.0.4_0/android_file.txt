@@ -57387,10 +57387,10 @@ Exit Game
 Go to Update
 
 [PVZ_LOGIN_LOW_VERSION]
-Your current version is too low, please use the latest version to play!
+^FF0000 Your version is outdated. Please update to the latest version to continue playing.
 
 [PVZ_LOGIN_LOW_VERSION_WWAN]
-You are not currently on a wifi network, are you sure you want to download the update using mobile data?
+You are not currently connected to Wi-Fi. Confirm using mobile data to download the update?
 
 [PVZ_LOGIN_ERROR_TOKEN]
 Network error, please log in again.
@@ -58895,7 +58895,7 @@ Casual Summer Probability Announcement
 Midsummer Gathering Probability Announcement
 
 [WEEKLY_RECHARGEREWARD_DES]
-Recharge during the event to receive plant fragments. Recharge amount resets after the event.
+During the event period, make cumulative recharges to receive plant fragments. Recharge amount resets after the event ends.
 
 [CONSUME_RECIVE_DES]
 Consume Gems during the event to receive up to 40 fragments of {NAME} for free!
@@ -60520,49 +60520,49 @@ Complete a Plant Adventure.
 Arborday
 
 [GROWING_TASK]
-Charging Tasks
+TASK
 
 [ARBORDAY_BUNDDLE]
-Battery package
+BUNDLE
 
 [ARBORDAY_PROGRESS_REWARD]
-Progress Rewards
+REWARDS
 
 [ARBORDAY_PLAYER_PROGRESS_DESC]
-Personal progress： ^FFFF00 {NUMS} ^oldclr /
+Personal Progress: ^FFFF00 {NUMS} ^oldclr /
 
 [ARBORDAY_SERVER_PROGRESS_DESC]
-Server-side progress： ^FFFF00 {NUMS} ^oldclr times
+Server Progress: ^FFFF00 {NUMS} ^oldclr
 
 [ARBORDAY_PRESENT_PRICE_DESC]
 {NUMS}
 
 [ARBORDAY_BUY_BUNDLE_CONFIRM]
-Confirm the cost {NUM} diamond purchase Pack?
+Spend {NUM} Diamonds to purchase this bundle?
 
 [ARBORDAY_GEM_NOT_ENOUGH]
 Not enough Gems
 
 [ARBORDAY_TASK_NAME_1]
-Login
+Daily Login
 
 [ARBORDAY_TASK_NAME_2]
-Beat 1 level in Memory Lane.
+Clear 1 Memory Lane Level
 
 [ARBORDAY_TASK_NAME_3]
-Beat 1 level in Creative Courtyard.
+Clear 1 Creative Courtyard Level
 
 [ARBORDAY_TASK_NAME_4]
-Complete a Plant Adventure.
+Complete 1 Plant Adventure
 
 [ARBORDAY_TASK_NAME_5]
-Beat 3 levels in Memory Lane.
+Clear 3 Memory Lane Levels
 
 [ARBORDAY_TASK_NAME_6]
-Beat 3 levels in Creative Courtyard.
+Clear 3 Creative Courtyard Levels
 
 [ARBORDAY_TASK_NAME_7]
-Complete 3 Plant Adventures.
+Complete 3 Plant Adventures
 
 [DANGERROOM_TASK_NAME_1_1]
 Completed level 10.
@@ -60703,58 +60703,60 @@ Open 50 Chests.
 Throw colors (draw steps) 8 times in the "Art Theater" event (May 20 to June 2).
 
 [ARBORDAY_PLANTTREE]
-Trees planted： ^FFFF00 {NUM} ^oldclr trees
+Trees Planted: ^FFFF00 {NUM} ^oldclr
 
 [ARBORDAY_PROCESS]
-server-side progress： ^FFFF00 {NUM} ^oldclr times
+Server Progress: ^FFFF00 {NUM} ^oldclr
 
 [ARBORDAY_TOTAL_SERVER_BUY_REWARD_TIPS]
-Tip： To claim server-side progress, you need to charge at least 10 times~
+Tip: You need to water at least 10 times to claim the server progress rewards~
 
 [ARBORDAY_NEXT_HARVEST]
-Need ^FFFF00 {NUM} ^oldclr more charges until the next harvest
+Watering needed for next harvest: ^FFFF00 {NUM} ^oldclr times
 
 [ARBOARDAY_SURE_WATER]
-Are you sure you want to spend {NUM} Fuels to charge?
+Confirm spending {NUM} Watering Cans to water?
 
 [ARBOARDAY_SURE_WATER_GET]
-Are you sure you want to claim all rewards?
+Confirm claiming all rewards?
 
 [ARBOARDAY_KETTLE_NOT_ENOUGH]
-Insufficient Fuels
+Insufficient Watering Cans
 
 [ARBOARDAY_REWARD_NOT_ENOUGH]
-Not enough rewards to claim
+No rewards available to claim
 
 [WATER]
-One-click Charge
+Water All
 
 [WATER_GET]
-One-click Harvest
+Harvest All
 
 [HARVEST]
 Obtain
 
 [REFRESH_FRUIT]
-X{NUM}refresh
+Refresh X{NUM}
 
 [ARBORDAY_KETTLE_OBTAIN]
-Congratulations on getting {NUM} {NAME}
+Congratulations on obtaining {NUM} {NAME}!
 
 [MAT_ARBORDAY_KETTLE]
-Battery
+Watering Can
 
 [ARBORDAY_FULL]
-Award is full, please receive the reward first
+Rewards are full. Please claim your rewards first.
 
 [ARBORDAY_DESCRIPTION_TITLE]
-Secret Realm Chest Search
+Happy Tree Planting Instructions
 
 [ARBORDAY_DESCRIPTION]
 Event Details：
-1. Every three Watering Cans consumed will open a chest chest once, rewarding a large amount of plant fragments, Gems, coins, and other prizes. The available rewards are： ^FF8000^Artifact Blessing Tickets, Cranesbill Fencer, Princess Spring Grass^oldclr^ ^8600FF^ Scaredy-shroom, Missile Toe ^oldclrr ^2828FF^ Primal Wall-nut, Asparagus, Caulipower ^oldclrr ^82D900^ Threepeater, Explode-O-Nut, Dendrobium Windbreak^oldclrr
-2. Watering Cans can be obtained through charging tasks or by purchasing diamond packs.
-3. Every battery consumed will accumulate both personal and server-side charging progress. Rewards can be claimed based on individual and server-side progress!
+1. Consume three Watering Cans to open a chest once, earning generous rewards including Plant Fragments, Diamonds, Coins, and more. The list of obtainable rewards： ^FF8000^Artifact Blessing Tickets, Cranesbill Fencer, Princess Spring Grass^oldclr^ ^8600FF^ Scaredy-shroom, Missile Toe ^oldclrr ^2828FF^ Primal Wall-nut, Asparagus, Caulipower ^oldclrr ^82D900^ Threepeater, Explode-O-Nut, Dendrobium Windbreak ^oldclrr
+
+2. Watering Cans can be obtained by completing tasks or through Bundle.
+
+3. Each Watering Can consumed contributes to both personal and server watering progress. Rewards can be claimed based on personal progress and server progress!
 
 [NEWYEAR_GOODS_SHORT_DESCRIPTION]
 Participate in the super optional event and buy a great value optional Pack
