@@ -1,4 +1,4 @@
-# Translate by evilhack28 lastest version 4.0.1_2
+# Translate by evilhack28 lastest version 4.0.4_0
 
 Thanks Cybersteve for the github script !
 
