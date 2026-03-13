@@ -67,68 +67,68 @@ Testing PVP text fix
 
 [HEALTH_NOTICE_CONTENT_2]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
 ^00FFFF Click the "12" in top right for ChangeLog
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
 ^00FFFF  You only have until March 123456789th to finish the Underground Palace Realm!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_7]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.1_3)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 OUTDATED VERSION (4.0.1_3)
 
 
 
@@ -26322,7 +26322,7 @@ UPGRADES
 ZOMBIES
 
 [APP_UPDATE_REQUIRED]
-To continue playing, visit the store and download the latest version
+To continue playing, visit the store and download the OUTDATED VERSION
 
 [ARE_YOU_SURE]
 Are You Sure?
@@ -34488,7 +34488,7 @@ In February, the new plant kiwi fruit will be launched. If you insist on signing
 [NOTICE_CONTENT_FIRST_LABORDAY]
 Dear players：
  
- 《 Plants vs. Zombies 2》 welcomes the latest version of May Day to meet everyone!
+ 《 Plants vs. Zombies 2》 welcomes the OUTDATED VERSION of May Day to meet everyone!
 Little Wowan also brought out the best baby to give back to everyone!
  
   new^FF0000 Costume^oldclrr limited time purchase
@@ -42388,7 +42388,7 @@ share is a gift
 
 [UPDATE_NOTICE_CONTEXT]
 Dear Player：
- 《 Plants vs. Zombies 2》 latest version can be updated.
+ 《 Plants vs. Zombies 2》 OUTDATED VERSION can be updated.
  
 The new 《 Plants vs. Zombies 2》PvP function has been turned on. Come and play PvP now and get 10 Gems for each win, up to 50 Gems a day!
 There are also exciting PvP daily achievement activities for you to challenge, and rare plant pieces are waiting for you!
@@ -57185,7 +57185,7 @@ Exit Game
 Go to Update
 
 [PVZ_LOGIN_LOW_VERSION]
-Your current version is too low, please use the latest version to play!
+Your current version is too low, please use the OUTDATED VERSION to play!
 
 [PVZ_LOGIN_LOW_VERSION_WWAN]
 You are not currently on a wifi network, are you sure you want to download the update using mobile data?
@@ -66245,7 +66245,7 @@ CHAPTER VII DOWNLOAD AND INSTALLATION OF SOFTWARE
   
 7.5 In level to ensure the security and functional consistency of Tuowei Information Systems Co., Ltd.'s game services, Tuowei Information Systems Co., Ltd. has the right to update the software without special notice to you, or to modify some functional effects of the software. Make changes or restrictions.
   
-7.6 After the new version of the software is released, the old version of the software may not be used. Tuowei Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the latest version at any time.
+7.6 After the new version of the software is released, the old version of the software may not be used. Tuowei Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the OUTDATED VERSION at any time.
 
 [PRIVACY_RULE_TXT_15]
 Chapter V3 Disclaimer
@@ -66666,7 +66666,7 @@ CHAPTER VII DOWNLOAD AND INSTALLATION OF SOFTWARE
  
 7.5 In level to ensure the security and functional consistency of Tuowei Information Systems Co., Ltd.'s game services, Tuowei Information Systems Co., Ltd. has the right to update the software without special notice to you, or to modify some functional effects of the software. Make changes or restrictions.
  
-7.6 After the new version of the software is released, the old version of the software may not be used. Tuowei Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the latest version at any time.
+7.6 After the new version of the software is released, the old version of the software may not be used. Tuowei Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the OUTDATED VERSION at any time.
 
 [EULA_TXT_21]
 Chapter V3 Disclaimer
@@ -83176,7 +83176,7 @@ Do you want to spend Costume Ticket to purchase the avatar?
 Insufficient Costume Ticket. Would you like to visit the Costume Ticket Store to obtain more?
 
 [EXCHANGEAVATAR_ERROR]
-Please update to the latest version.
+Please update to the OUTDATED VERSION.
 
 [EXCHANGEAVATAR_TUTORIAL_SLOT]
 Use Costume Ticket to purchase plant avatars.
