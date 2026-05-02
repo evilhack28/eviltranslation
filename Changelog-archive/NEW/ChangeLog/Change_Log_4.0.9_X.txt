@@ -1,2 +1,6 @@
 ======4.0.9_0======
 Added 4.0.9 Text
+
+======4.0.9_1======
+Fix a crash with UP boss Cuased by 
+ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING
