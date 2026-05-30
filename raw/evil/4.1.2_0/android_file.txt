@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.0.6 server 6)
-Version          ： 4.0.6_0
+File Version     ： Text-based (4.1.2 server 1)
+Version          ： 4.1.2_0
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -33,6 +33,9 @@ Link             ： https：//linktr.ee/evilhack28
 
 SECTION_INFO
 
+ARTIFACT_START
+[Plants_Start]
+[Plants_End]
 [Zombies_Start]
 [Zombies_End]
 
@@ -44,8 +47,8 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======4.0.6_0======
-Added 4.0.6 Text
+======4.1.2_0======
+Added 4.1.2 Text
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
@@ -55,70 +58,70 @@ Added 4.0.6 Text
 
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 April 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 April 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 April 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 April 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 April 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 April 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
 ^00FFFF  Don't forget to check your mail!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_7]
-^00FFFF  Huge thanks to @devourdoom who translated the event for the community
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^00FFFF  Huge thanks to @devourdoom who translated the new zombie
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.0.6_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
 
 
 
@@ -158,7 +161,59 @@ Added 4.0.6 Text
 
 
 
+[NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_3]
+Guard-shroom's Demon-Slaying Cowboy
 
+[NEW_AVATAR_DESCRIPTION_GUARDSHROOM_3]
+Mini-shroom's chewing time reduced by 40%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GRAVEBUSTER_1]
+Grave Buster's Nostalgia
+
+[NEW_AVATAR_DESCRIPTION_GRAVEBUSTER_1]
+After successfully devouring a gravestone, produces 50 Sun and has a 50% chance to generate an additional coin
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LONGMALILY_1]
+White Dragon Lotus' Monocle
+
+[NEW_AVATAR_DESCRIPTION_LONGMALILY_1]
+Planting cooldown reduced by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_2]
+Frost Rambutan's Big Fat Dragon
+
+[NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_2]
+Freeze chance increased by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_2]
+Lunisolar Honeysuckle's “Eating Gear”
+
+[NEW_AVATAR_DESCRIPTION_TWINSHONEYSUCKLE_2]
+Damage increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_OXYGENALGAE_2]
+Oxygen Algae's Oxygen Mask
+
+[NEW_AVATAR_DESCRIPTION_OXYGENALGAE_2]
+Sun production increased by 10
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_2]
+Witch Hazel's Mermaid Witch
+
+[NEW_AVATAR_DESCRIPTION_WITCHHAZEL_2]
+Damage increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICCURRANT_2]
+Electric Currant's Warning Device
+
+[NEW_AVATAR_DESCRIPTION_ELECTRICCURRANT_2]
+Sun cost reduced by 20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_2]
+Primal Potato Mine's Minefield Sign
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE_2]
+Planting cooldown reduced by 15%
 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_4]
@@ -259,6 +314,42 @@ Added 4.0.6 Text
 
 [NEW_AVATAR_DESCRIPTION_POKRA_2]
 剧毒伤害提升25%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_2]
+金蝉花小风车装扮
+
+[NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_2]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_3]
+曼德拉草飞翼装扮
+
+[NEW_AVATAR_DESCRIPTION_MANDRAKE_3]
+阳光消耗减少15
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_2]
+小喷菇混的菇装扮
+
+[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_2]
+种植冷却减少20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BEANCHEMIST_1]
+豌豆药剂师红眼镜装扮
+
+[NEW_AVATAR_DESCRIPTION_BEANCHEMIST_1]
+休息时间减少10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WHITEMELON _1]
+白瓜相扑手小书包装扮
+
+[NEW_AVATAR_DESCRIPTION_WHITEMELON_1]
+种植冷却减少10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_3]
+闪电芦苇麦克风装扮
+
+[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_3]
+阳光消耗减少10
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_1]
 毁灭菇博士装扮
@@ -608,6 +699,61 @@ Angel Starfruit Master
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
 Attack power increased by 20%
 
+[NEW_AVATAR_DESCRIPTION_REPEATER_4]
+每次发射子弹都有50%概率立刻再发射一次子弹
+
+[NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_4]
+双重射手赤子童心装扮
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_2]
+金蝉花小风车装扮
+
+[NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_2]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_3]
+曼德拉草飞翼装扮
+
+[NEW_AVATAR_DESCRIPTION_MANDRAKE_3]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_2]
+小喷菇混的菇装扮
+
+[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_2]
+种植冷却减少20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BEANCHEMIST_1]
+豌豆药剂师红眼镜装扮
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WHITEMELON_1]
+白瓜相扑手小书包装扮
+
+[NEW_AVATAR_DESCRIPTION_WHITEMELON_1]
+种植冷却减少10%
+
+[NEW_AVATAR_DESCRIPTION_BEANCHEMIST_1]
+休息时间减少10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_3]
+闪电芦苇麦克风装扮
+
+[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_3]
+阳光消耗减少10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [GENE_DESCRIPTION_PINKSTARFRUIT]
 Plant Food damage increased by {Param_1}%
 
@@ -688,6 +834,18 @@ Increases growth speed by {Param_1}%.
 
 [GENE_DESCRIPTION_DRACAENA]
 Increases the maximum HP of zombies that Dracaena’s basic attacks (including Tier 5 flying swords) can defeat by {Param_1}%.
+
+[GENE_DESCRIPTION_LOTUSSHOWER]
+Increases torpedo cruiser damage by {Param_1}%.
+
+[GENE_DESCRIPTION_SEASHROOM]
+Increases health by {Param_1}% and lifespan by {Param_2}%.
+
+[GENE_DESCRIPTION_DRAGONROAR]
+Increases chewing speed by {Param_1}%.
+
+[GENE_DESCRIPTION_RHEUMNOBILE]
+PF effect has a {Param_1}% chance to absorb 2 additional zombies.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
 Big Smoke Mushroom Lion Dance Outfit
@@ -1571,7 +1729,7 @@ Lion Dance Token
 Awakening Lion Dance
 
 [ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_1]
-Active Skill: When used, the Lion Dance automatically targets the 3×3 area with the highest total zombie HP, dealing base damage + {MainField_2}% of the target's max HP and instantly killing zombies below {MainField_3}% HP. The lion dancer then knocks back 4 remaining zombies in the area. Each activation allows up to 3 jumps. Cooldown: 30 seconds. Usable {MainField_5} times per battle.
+Active Skill: When used, the Lion Dance automatically targets the 3×3 area with the highest total zombie HP, dealing base damage + {MainField_2}% of the target's max HP and instantly killing zombies below {MainField_3}% HP. The lion dancer then knocks back 4 remaining zombies in the area. Each activation allows up to 3 jumps. Cooldown: 30 seconds. Usable {MainField_7} times per battle.
 
 [ARTIFACT_LIONDANCE_SKILL_2]
 Firecracker Celebration
@@ -4043,11 +4201,23 @@ Joyful Movie Watching
 [LEVEL_EDITOR_HEAD_DES_ID_25848]
 Tonight's digital "pickled vegetable" snack is secured!
 
+[LEVEL_EDITOR_HEAD_ID_25880]
+随风远行
+
+[LEVEL_EDITOR_HEAD_DES_ID_25880]
+若是不知前路在何处，不妨随着风走吧
+
 [QUESTIONNAIRE_HEAD_ID_25840]
 Traces Along the Silk Road
 
 [QUESTIONNAIRE_HEAD_DES_ID_25840]
 A thousand caves line Mingsha Mountain, colorful clouds drape the cliffs.
+
+[TEXTPLAYER_HEAD_ID_25878]
+测试先锋
+
+[TEXTPLAYER_HEAD_DES_ID_25878]
+献与先行者的奖励
 
 [UNCHARTED_FOOL_ID_25843]
 Clever Victory
@@ -4358,6 +4528,12 @@ Radiant Bell Shining on the Moon
 [NEWYEAR_GIFT_HEAD_DES_ID_25844]
 Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
 
+[NEWYEAR_GIFT_HEAD_ID_25867]
+Western Regions Chant
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25867]
+Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
+
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev! 
 
@@ -4405,11 +4581,23 @@ Proof of Perfectly Completing Underground Palace
 [UNCHARTED_NO42_HEAD_DES_ID_10001]
 Proof of Perfectly Completing Parallel Universe No. 41
 
+[UNCHARTED_MAUSOLEUM_ID_25868]
+Tomb Maze
+
+[UNCHARTED_MAUSOLEUM_DES_ID_25868]
+Proof of perfectly clearing Tomb Relics.
+
 [UNCHARTED_CHILDRENSDAY_HEAD_ID_25709]
 I am Big Brother
 
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25709]
 Proof of Perfectly Completing Children's Day
+
+[UNCHARTED_CHILDRENSDAY_HEAD_ID_25899]
+Pea Walker
+
+[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25899]
+Proof of fully completing the limited-time Children's Day Secret Realm.
 
 [UNCHARTED_ZCORP_ID_25758]
 ZCorp Conqueror
@@ -4754,6 +4942,16 @@ His sarcophagus greatly protects him but slows down a rather fast zombie.
 
 {FLAVOR}The second cousin once removed of King Rot, he rose to power with his disappearing sarcophagus act, but met his untimely end in an unfortunate goat accident. His tale is told in great detail on the back of his sarcophagus, which no one will ever see.
 
+[ZOMBIE_GOALKEEPER_ZOMBIE]
+守门员僵尸
+
+[ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION]
+守门员僵尸曾是职业足球联赛的明星门将，凭借惊人的反应速度和钢铁般的手套，他无数次化解了对方的进攻。现在，他将自己的守门技术带到了战场上，用磁力手套反弹植物的子弹，还能灵活地在各行之间飞扑救球。
+
+[ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
+磁力手套可反弹平射类子弹，每隔一段时间会飞扑至相邻的行
+
+
 [ZOMBIE_EGYPT_IMP]
 Imp Mummy
 
@@ -5010,13 +5208,13 @@ Sometimes has a hidden armored plate.
 
 {FLAVOR}The grate is his most prized possession. The poncho is there just to protect it from getting rusty. Also, he's looking for his mechanical horse.
 
-[ZOMBIE_TREASUREYETI]
+[ZOMBIE_YETI]
 Chest Yeti
 
-[ZOMBIE_TREASUREYETI_DESCRIPTION_HEADER]
+[ZOMBIE_YETI_DESCRIPTION]
 A rare and curious creature, he always packs a lunch.
 
-[ZOMBIE_TREASUREYETI_DESCRIPTION]
+[ZOMBIE_YETI_DESCRIPTION_HEADER]
 {KEYWORD}Speed Details：{STAT} runs away after a short while
 {KEYWORD}Special：{STAT} carries chest
 
@@ -7526,6 +7724,9 @@ Roman Caesar Zombie tosses imperial salad dressing onto plants, making them irre
 [ELITE_ZOMBIE_TIPS_TEXT_PUMPKIN_HOUSE_GHOST]
 ^573701^After training, becomes immune to most effects, including transformation and instant kills.^oldclr^
 
+[ELITE_ZOMBIE_TIPS_TEXT_GENERAL_TREADMILL_PHASE1]
+^573701^After training, becomes immune to most effects, including transformation and instant kills.^oldclr^
+
 [ZOMBIE_ZOMBIE_JALAPENO]
 Jalapeno Zombie
 
@@ -7599,6 +7800,15 @@ Catapult Zombie
 
 [ZOMBIE_CATAPULT_DESCRIPTION_HEADER]
 Throws basketballs at your plants.
+
+[ZOMBIE_PLUSHIE_CART]
+玩偶售卖车僵尸
+
+[ZOMBIE_PLUSHIE_CART_DESCRIPTION_HEADER]
+封锁你的植物卡槽，玩偶耗尽后冲锋碾压植物。
+
+[ZOMBIE_PLUSHIE_CART_DESCRIPTION]
+玩偶售卖车僵尸开着塞满向日葵玩偶的推车而来，每3秒随机选择一个植物卡槽进行封锁，玩家需要花费阳光才能解锁。当卡槽封锁达到上限后，他会把玩偶砸向场上空地。玩偶耗尽后，他将收起抛投器，加速冲刺，驾驶空车全速前进，碾压沿途的一切植物！不过要小心地刺，这可是他的克星！
 
 [ZOMBIE_CATAPULT_DESCRIPTION]
 Of all the things Catapult Zombie could launch with his catapult, basketballs seemed like the best and most obvious choice.
@@ -8150,6 +8360,34 @@ Elite Bumper Car Zombie
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION_HEADER]
 Elite bumper zombies have toughness bars, electrical attribute attacks can reduce their toughness, the emptying toughness bar will make zombies enter a weak state, in which zombies will not act and attack until the toughness strip is restored. When a zombie has toughness values, it can be provided with an upper-limit effect.
+
+[ZOMBIE_TRENCH_COAT_IMPS]
+大衣伪装僵尸
+
+[ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION]
+每个小鬼僵尸都有个终极梦想：不用垫三个椅子才能够到厨房台面。这件侦探风衣是他们在僵尸旧货市场淘到的"成人门票"——虽然尺码明显是为一个比他们加起来还宽的僵尸定制的，但正因为如此，三个人挤进去刚刚好。
+
+[ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION_HEADER]
+风衣防具未被破环时僵尸免疫控制效果，防具被破坏后向前方抛出3只小鬼僵尸
+
+[ZOMBIE_PLUSHIE_CART]
+玩偶售卖车僵尸
+
+[ZOMBIE_PLUSHIE_CART_DESCRIPTION]
+僵尸博士最新的盈利模式：先把你的植物抢走，再以50阳光的价格把劣质替代品卖回给你。目前该商业模式在僵尸商学院被评为"年度最佳循环经济案例"——主要是因为没有其他案例参赛
+
+[ZOMBIE_PLUSHIE_CART_DESCRIPTION_HEADER]
+向植物卡槽和草坪上投掷向日葵玩偶
+
+[ZOMBIE_BUBBLE_MACHINE_IMP]
+泡泡机小鬼僵尸
+
+[ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION]
+当别的小鬼还在用石子砸窗户的时候，这位已经完成了从"恶作剧"到"轻武器"的技术升级。主要经费来源：替僵尸博士跑腿攒的零花钱。主要投诉来源：所有被泡泡淹过的植物。
+
+[ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION_HEADER]
+加特林泡泡：向前方倾泻大量泡泡子弹，被持续击中的植物将被巨型泡泡包裹并浮出场地。糖果轰炸：泡泡机小鬼往返飞行，并投掷圆形糖果。
+
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION]
 Only bumper cars that have passed the car-crash trials can be approved and modified into more sophisticated and dangerous professional bumper cars. The Elite Imp would also be promoted from a pilot to an experimental honorary dummy, and nobody understands why.
@@ -25559,13 +25797,13 @@ Levitaters levitate random zombies.
 霓裳羽衣
 
 [APSARLOTUS_SKILL_LEVEL1_DES]
-【天女散花】强放大招的触发代价降低，扣除的阳光比例由 200% 降低至 100%。【胡旋舞】的触发间隔缩短至每 8 秒触发一次。
+【天女散花】强放大招的触发代价降低，扣除的阳光比例由200%降低至100%。【胡旋舞】的触发间隔缩短至每8秒触发一次。
 
 [APSARLOTUS_SKILL_LEVEL2]
 梵音清唱
 
 [APSARLOTUS_SKILL_LEVEL2_DES]
-【天女散花】强放大招的触发代价降低，扣除的阳光比例由 100% 降低至 50%。【胡旋舞】的触发间隔缩短，缩短至每 6秒触发一次。
+【天女散花】强放大招的触发代价降低，扣除的阳光比例由100%降低至50%。【胡旋舞】的触发间隔缩短，缩短至每6秒触发一次。
 
 [APSARLOTUS_SKILL_LEVEL5]
 飞天神迹
@@ -25574,8 +25812,8 @@ Levitaters levitate random zombies.
 在祥云上种植植物若触发了自身的落地释放能量豆能力，祥云飞莲会扣除其50%的阳光消耗，立刻无缝衔接再次自动释放一次能量豆大招。
 
 [APSARLOTUS_NEW_SKILL_LEVEL1_DES]
-在前方1格生成祥云。在其上种植植物若未触发四阶觉醒，将消耗该植物200%的基础阳光消耗（最低消耗50点）强制触发四阶觉醒并提升攻击力。
-【胡旋舞】：每10秒提升3x3范围内植物的攻速与攻击力，持续5秒。
+在前方1格生成祥云。在其上种植植物若未触发四阶觉醒，将消耗该植物200%的基础阳光消耗（最低消耗50点）强制触发四阶觉醒并提升100%攻击力。
+【胡旋舞】：每10秒提升3x3范围内植物的50%攻速与20%攻击力，持续5秒。
 
 [APSARLOTUS_NEW_SKILL_LEVEL2_DES]
 祥云触发代价降低，扣除的阳光比例由200%降低至100%。【胡旋舞】的触发间隔缩短至每8秒触发一次。
@@ -25627,6 +25865,391 @@ Levitaters levitate random zombies.
 
 [SUNFLOWERZOMBIE_NEW_SKILL_LEVEL1_DES]
 生成后，向右行走并攻击沿途的僵尸；每隔10秒生产一次阳光
+
+
+[GLOOMBARA]
+幽潭婆罗
+
+[GLOOMBARA_DESCRIPTION]
+{KEYWORD}用法：{STAT}一次性使用，立即生效
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}幽潭婆罗是个重度“氛围感”爱好者，“打僵尸能不能赢另说，但出场特效必须唯美！”为了这20秒的专属滤镜，她甚至专门去报了一个影视后期特效速成班。
+
+[GLOOMBARA_DESCRIPTION_HEADER]
+开启灵界大门，强化灵界植物并用锁链束缚全场灵体僵尸。
+
+[GLOOMBARA_PLANTFOOD]
+此植物无能量豆大招。
+
+[GLOOMBARA_TOOLTIP]
+开启灵界大门，强化灵界植物并用锁链束缚全场灵体僵尸。
+
+[GLOOMBARA_SKILL_LEVEL1]
+通灵法术
+
+[GLOOMBARA_SKILL_LEVEL1_DES]
+锁链束缚僵尸持续时间增加至8.5秒。
+
+[GLOOMBARA_SKILL_LEVEL2]
+通灵秘术
+
+[GLOOMBARA_SKILL_LEVEL2_DES]
+锁链束缚僵尸持续时间增加至10秒。
+
+[GLOOMBARA_PRODUCT_SHORT_DESC]
+开启灵界大门，强化灵界植物并用锁链束缚全场灵体僵尸。
+
+[GLOOMBARA_NEW_SKILL_LEVEL1_DES]
+种植后，立刻展开灵界环境，持续20秒，同时召唤锁链束缚全场的灵体僵尸7秒
+
+[GLOOMBARA_NEW_SKILL_LEVEL2_DES]
+锁链束缚僵尸持续时间增加至8.5秒。
+
+[GLOOMBARA_NEW_SKILL_LEVEL3_DES]
+锁链束缚僵尸持续时间增加至10秒。
+
+[GLOOMBARA_PLANTFOOD_DESCRIPTION]
+此植物无能量豆大招。
+
+[GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
+此植物无能量豆大招。
+
+
+[GOLDMAGNET]
+吸金磁
+
+[GOLDMAGNET_DESCRIPTION]
+{KEYWORD}植物特征：{STAT}金色植物
+{FLAVOR} 吸金磁：“我怎么能在这虚度此生？”。“怎么说我曾经也是坐在办公室的，还有我的福利，股票、期货。现在呢？我却蹲在这个破草丛的旮旯里，随时有被僵尸嚼烂的风险！喔——等等，有枚硬币！”
+
+[GOLDMAGNET_DESCRIPTION_HEADER]
+吸取僵尸金属防具与掉落的银币、金币
+
+[GOLDMAGNET_TOOLTIP]
+吸取僵尸金属防具与掉落的银币、金币
+
+[GOLDMAGNET_PRODUCT_SHORT_DESC]
+吸取僵尸金属防具与掉落的银币、金币
+
+[GOLDMAGNET_PRODUCT_SHORT_DESC]
+吸取僵尸金属防具与掉落的银币、金币
+
+[STORE_PRODUCT_AVATAR_GOLDMAGNET]
+将所有吸收的金币与防具熔炼为一个巨大的金币沿直线向前滚动，对沿途所有僵尸造成碾压伤害，并推动路径上的中小型僵尸一起移动
+
+[STORE_PRODUCT_AVATAR_GOLDMAGNET_TITLE]
+吸金磁装扮
+
+[GOLDMAGNET_SKILL_LEVEL1]
+高效磁场
+
+[GOLDMAGNET_SKILL_LEVEL1_DES]
+吸取后的销毁时间由 13秒 缩短至 10秒，普通攻击触发“连头吸走/断手”的概率提升 5%
+
+[GOLDMAGNET_SKILL_LEVEL2]
+斥力强化
+
+[GOLDMAGNET_SKILL_LEVEL2_DES]
+吸取后的销毁时间由 10秒 缩短至 6秒，普通攻击触发“连头吸走/断手”的概率提升 5%，缩短至每 6秒触发一次。
+
+[GOLDMAGNET_SKILL_LEVEL5]
+磁力炼金术
+
+[GOLDMAGNET_SKILL_LEVEL5_DES]
+吸金磁首次吸收金币或防具时，生成伴生【金币】。后续每次吸收目标，【金币】充能层数+1。当充能层数达到5层时，且前方出现僵尸，将【金币】投出，沿直线缓慢滚动碾压一整行僵尸，对触碰的僵尸造成伤害。充能层数清零
+
+[GOLDMAGNET_NEW_SKILL_LEVEL1_DES]
+吸取范围内距离最近的僵尸金属防具。吸取后需耗时13秒进行销毁，期间无法行动。每2秒自动吸附并收集屏幕上掉落的银币、金币，吸收僵尸头部防具有5%概率直接连僵尸头一起吸走，吸收手部防具时，有10%概率使僵尸断手
+
+[GOLDMAGNET_NEW_SKILL_LEVEL2_DES]
+吸取后的销毁时间由 13秒 缩短至 10秒，普通攻击触发“连头吸走/断手”的概率提升 5%
+
+[GOLDMAGNET_NEW_SKILL_LEVEL3_DES]
+吸取后的销毁时间由 10秒 缩短至 6秒，普通攻击触发“连头吸走/断手”的概率提升 5%
+
+[GOLDMAGNET_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招
+
+[GOLDMAGNET_NEW_SKILL_LEVEL5_DES]
+吸金磁首次吸收金币或防具时，生成伴生【金币】。后续每次吸收目标，【金币】充能层数+1。当充能层数达到5层时，且前方出现僵尸，将【金币】投出，沿直线缓慢滚动碾压一整行僵尸，对触碰的僵尸造成伤害。充能层数清零
+
+[GOLDMAGNET_PLANTFOOD_DESCRIPTION]
+瞬间吸附全场所有已掉落的钱币与最多20个金属防具
+
+[GOLDMAGNET_AVATAR_PLANTFOOD_DESCRIPTION]
+将所有吸收的金币与防具熔炼为一个巨大的金币沿直线向前滚动，对沿途所有僵尸造成碾压伤害，并推动路径上的中小型僵尸一起移动
+
+[GLACIERSHROOM]
+冰川菇
+
+[GLACIERSHROOM_DESCRIPTION_HEADER]
+攻击范围内出现僵尸时，从地底生成尖刺攻击并减速范围内的所有僵尸。
+手动点击可冻结全屏僵尸。
+
+[GLACIERSHROOM_DESCRIPTION]
+{KEYWORD}特点：{STAT}生成范围的寒冰尖刺，且能手动触发全场冰冻！
+{KEYWORD}植物特征：{STAT}蓝色植物
+{FLAVOR}冰川菇皱着眉头，倒不是因为他不高兴或不满意，只是因为，儿时的一次意外让他的面部神经瘫痪了。
+
+[GLACIERSHROOM_TOOLTIP]
+生成寒冰尖刺造成范围伤害与减速，手动点击时冻结全场僵尸
+
+[GLACIERSHROOM_SKILL_LEVEL1]
+凛冬降临
+
+[GLACIERSHROOM_SKILL_LEVEL1_DES]
+主动技能的冷却时间减少15%。使用主动技能时，寒气波及全场，对全场所有僵尸造成40%攻击力的伤害。
+
+[GLACIERSHROOM_SKILL_LEVEL2]
+寒气爆发
+
+[GLACIERSHROOM_SKILL_LEVEL2_DES]
+主动技能的冷却时间减少提升至30%。使用主动技能时产生的全场伤害提升至100%攻击力。
+
+[GLACIERSHROOM_SKILL_LEVEL5]
+寒冰领域
+
+[GLACIERSHROOM_SKILL_LEVEL5_DES]
+在冰川菇自身周围产生一圈3*3范围的永久性寒冰领域，进入寒冰领域内的僵尸会被持续减速并每秒受到50%攻击力的伤害
+
+[STORE_PRODUCT_AVATAR_GLACIERSHROOM]
+大招生成的冰刺消失时将会碎裂，对范围内的所有僵尸再次造成1次伤害。同时向空中发射4个巨大的冰锥，瞄准草坪上血量最高的4只僵尸，造成伤害，并将其冻结3秒。
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL1_DES]
+生成寒冰尖刺造成范围伤害与减速，手动点击时冻结全场僵尸
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL2_DES]
+主动技能的冷却时间减少15%。使用主动技能时，寒气波及全场，对全场所有僵尸造成40%攻击力的伤害。
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL3_DES]
+主动技能的冷却时间减少提升至30%。使用主动技能时产生的全场伤害提升至100%攻击力。
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招。
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL5_DES]
+在冰川菇自身周围产生一圈3*3范围的永久性寒冰领域，进入寒冰领域内的僵尸会被持续减速并每秒受到50%攻击力的伤害
+
+[STORE_PRODUCT_AVATAR_GLACIERSHROOM_TITLE]
+冰川菇装扮
+
+[GLACIERSHROOM_AVATAR_NAME]
+冰川菇装扮
+
+[GLACIERSHROOM_PLANTFOOD_DESCRIPTION]
+爆发生成5x5范围的寒冰领域，范围内的每个地块上生成冰刺。
+
+[GLACIERSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+大招生成的冰刺消失时将会碎裂，对范围内的所有僵尸再次造成1次伤害。同时向空中发射4个巨大的冰锥，瞄准草坪上血量最高的4只僵尸，造成伤害，并将其冻结3秒。
+
+[EXORCISLILY]
+钟馗石蒜
+
+[EXORCISLILY_DESCRIPTION_HEADER]
+发射符咒攻击僵尸
+
+[EXORCISLILY_DESCRIPTION]
+{KEYWORD}特点：{STAT}发射符咒攻击僵尸
+{KEYWORD}植物特征：{STAT}红色植物、面恶心善
+{FLAVOR}钟馗石蒜总说自己是个严肃的书法家，但僵尸们根本不关心他的笔锋——他们只觉得这些黄纸贴在脑门上的时候，烧得眼睛有点睁不开。
+
+[EXORCISLILY_TOOLTIP]
+发射符咒攻击僵尸
+
+[EXORCISLILY_SKILL_LEVEL1]
+缩小符
+
+[EXORCISLILY_SKILL_LEVEL1_DES]
+攻击时有 15% 概率发射“缩小符”。使命中的僵尸缩小，附带20%的易伤效果（持续3秒）。
+
+[EXORCISLILY_SKILL_LEVEL2]
+画符精通
+
+[EXORCISLILY_SKILL_LEVEL2_DES]
+“缩小符”触发概率提升至 30%。
+
+[EXORCISLILY_SKILL_LEVEL5]
+符不单行
+
+[EXORCISLILY_SKILL_LEVEL5_DES]
+每次攻击额外朝离植物右侧最近的一个敌人发射灵符。
+
+[EXORCISLILY_SUPERSKILL_DES]
+向场上随机 5 个僵尸抛出五道天雷符。符咒贴中后，立刻眩晕目标僵尸2秒；随后在僵尸所在位置召唤天雷劈下，天雷对十字范围内的僵尸瞬间造成300点伤害。
+
+[EXORCISLILY_NEW_SKILL_LEVEL1_DES]
+每隔3秒，直线发射一张灵符造成30点伤害
+在灵界环境下，普通攻击替换为幽冥火符。命中僵尸后，会在目标处产生3X3范围的火焰爆炸，对范围内所有僵尸造成30点伤害。
+
+[EXORCISLILY_NEW_SKILL_LEVEL2_DES]
+攻击时有 15% 概率发射“缩小符”。使命中的僵尸缩小，附带20%的易伤效果（持续3秒）。
+
+[EXORCISLILY_NEW_SKILL_LEVEL3_DES]
+“缩小符”触发概率提升至 30%。
+
+[EXORCISLILY_NEW_SKILL_LEVEL4_DES]
+种植时有低概率直接释放能量豆大招。
+
+[EXORCISLILY_NEW_SKILL_LEVEL5_DES]
+每次攻击额外向距离植物右侧最近的一个僵尸发射灵符
+
+[STORE_PRODUCT_AVATAR_EXORCISLILY_TITLE]
+钟馗石蒜装扮
+
+[STORE_PRODUCT_AVATAR_EXORCISLILY]
+还会向全场所有处于被控制状态的友军植物扔出一道破妄符，解除其负面控制效果
+
+[EXORCISLILY_AVATAR_NAME]
+钟馗石蒜装扮
+
+[EXORCISLILY_PLANTFOOD_DESCRIPTION]
+钟馗石蒜使场上5个僵尸悬浮5秒，有25%概率秒杀
+
+[EXORCISLILY_AVATAR_PLANTFOOD_DESCRIPTION]
+还会向全场所有处于被控制状态的友军植物扔出一道破妄符，解除其负面控制效果
+
+[DOOMBELL]
+安息木编钟
+
+[DOOMBELL_DESCRIPTION_HEADER]
+阻挡僵尸，最多阻挡1只灵体僵尸
+
+[DOOMBELL_DESCRIPTION]
+{KEYWORD}特点：{STAT}可阻挡灵体僵尸
+{KEYWORD}植物特征：{STAT}棕色植物
+{FLAVOR}为什么那些原本可以无视碰撞的灵体僵尸，偏偏会停下来疯狂啃咬安息木编钟？深入调查后的最终结论是：并非他的钟声有多么净化灵魂，而是他那走调的低频共振实在太像“用指甲疯狂刮黑板”了。
+
+[DOOMBELL_TOOLTIP]
+阻挡僵尸与灵体僵尸
+
+[DOOMBELL_SKILL_LEVEL1]
+余音绕梁
+
+[DOOMBELL_SKILL_LEVEL1_DES]
+生命值上升至6000，死亡时发出一道强烈的3X3范围丧钟声波，^848484^眩晕Ⅰ^oldclr^该范围内的所有僵尸6秒
+
+[DOOMBELL_SKILL_LEVEL2]
+丧钟长鸣
+
+[DOOMBELL_SKILL_LEVEL2_DES]
+生命值上升至8000，死亡触发的丧钟声波效果增强，^848484^眩晕Ⅰ^oldclr^时间提升至9秒。
+
+[DOOMBELL_SKILL_LEVEL5]
+黄钟毁弃
+
+[DOOMBELL_SKILL_LEVEL5_DES]
+生命值上升至12000，无未被僵尸啃咬时，青铜钟会陷入沉寂并开始蓄力。若成功蓄力超过7秒，下次被僵尸接触并啃咬时会立刻释放一道剧烈的撼地波，将自身周围3X3范围内的所有僵尸击退1格
+
+[DOOMBELL_SUPERSKILL_DES]
+获得一个拥有8000点生命值的青铜外壳护盾。
+
+[DOOMBELL_NEW_SKILL_LEVEL1_DES]
+编钟每隔 5秒 会敲击自身发出一道3X3范围的音波，嘲讽范围内1只灵体僵尸拦截并阻挡。
+在灵界环境下，编钟不再受阻挡数量限制，能够拦截并阻挡途径的所有灵体僵尸和普通僵尸。同时持续嘲讽3X3范围内灵体僵尸进行啃咬，自身每秒恢复100点生命值。
+
+[DOOMBELL_NEW_SKILL_LEVEL2_DES]
+生命值上升至6000，死亡时发出一道强烈的3X3范围丧钟声波，^848484^眩晕Ⅰ^oldclr^该范围内的所有僵尸6秒
+
+[DOOMBELL_NEW_SKILL_LEVEL3_DES]
+生命值上升至8000，死亡触发的丧钟声波效果增强，^848484^眩晕Ⅰ^oldclr^时间提升至9秒。
+
+[DOOMBELL_NEW_SKILL_LEVEL4_DES]
+生命值上升至10000，种植时有低概率直接释放能量豆大招！
+
+[DOOMBELL_NEW_SKILL_LEVEL5_DES]
+生命值上升至12000，未被僵尸啃咬时，青铜钟会陷入沉寂并开始蓄力。若成功蓄力超过7秒，下次被僵尸接触并啃咬时会立刻释放一道剧烈的撼地波，将自身周围3X3范围内的所有僵尸击退1格
+
+[STORE_PRODUCT_AVATAR_DOOMBELL_TITLE]
+安息木编钟装扮
+
+[STORE_PRODUCT_AVATAR_DOOMBELL]
+获得一个拥有12000点生命值的白银外壳护盾
+
+[DOOMBELL_AVATAR_NAME]
+安息木编钟装扮
+
+[DOOMBELL_PLANTFOOD_DESCRIPTION]
+获得一个拥有8000点生命值的青铜外壳护盾。
+
+[DOOMBELL_AVATAR_PLANTFOOD_DESCRIPTION]
+获得一个拥有12000点生命值的白银外壳护盾
+
+[STORE_PRODUCT_AVATAR_GLOOMBARA_TITLE]
+幽潭婆罗装扮
+
+[STORE_PRODUCT_AVATAR_GLOOMBARA]
+无。
+
+[GLOOMBARA_AVATAR_NAME]
+幽潭婆罗装扮
+
+[GLOOMBARA_PLANTFOOD_DESCRIPTION]
+此植物无能量豆大招。
+
+[GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
+此植物无能量豆大招。
+
+[SOLARSAGE]
+阳光鼠尾草
+
+[SOLARSAGE_DESCRIPTION_HEADER]
+将普通体型僵尸转化为开悟僵尸后消失，开悟僵尸将持续产出阳光
+
+[SOLARSAGE_DESCRIPTION]
+{KEYWORD}特点：{STAT}将普通体型僵尸转化为开悟僵尸后消失，开悟僵尸将持续产出阳光
+{KEYWORD}植物特征：{STAT}黄色植物
+{FLAVOR}阳光鼠尾草是植物界著名的辩论专家，他那三寸不烂之舌总能把辩论对手打败。被他的语言所折服的僵尸说阳光鼠尾草曾问他一个问题：“既然你从未吃过脑子，那为什么想吃脑子？”
+
+[SOLARSAGE_TOOLTIP]
+将僵尸感化为开悟僵尸
+
+[SOLARSAGE_SKILL_LEVEL1]
+遁入光门
+
+[SOLARSAGE_SKILL_LEVEL1_DES]
+自身全部基础阳光产量提升 50%，转变其他僵尸的概率提升至 20%
+
+[SOLARSAGE_SKILL_LEVEL2]
+我即为光
+
+[SOLARSAGE_SKILL_LEVEL2_DES]
+自身全部基础阳光产量提升 100%，转变其他僵尸的概率提升至 30%
+
+[SOLARSAGE_SKILL_LEVEL5]
+众生皆无相
+
+[SOLARSAGE_SKILL_LEVEL5_DES]
+鼠尾草转化的开悟僵尸将进阶为自带莲座与华丽佛轮的“得道开悟僵尸”，其产出阳光与转化的间隔均缩短至 2.5 秒，转化其他僵尸的概率增至40%。
+
+[STORE_PRODUCT_AVATAR_SOLARSAGE]
+可额外将3x3范围内死亡的植物与5秒内死亡的僵尸全部复活
+
+[SOLARSAGE_NEW_SKILL_LEVEL1_DES]
+种植时生产50点阳光，当僵尸靠近阳光鼠尾草时，阳光鼠尾草会消失并生产100点阳光，将接触它的那只僵尸感化为开悟僵尸。
+
+[SOLARSAGE_NEW_SKILL_LEVEL2_DES]
+自身全部基础阳光产量提升 50%，转变其他僵尸的概率提升至 20%
+
+[SOLARSAGE_NEW_SKILL_LEVEL3_DES]
+自身全部基础阳光产量提升 100%，转变其他僵尸的概率提升至 30%
+
+[SOLARSAGE_NEW_SKILL_LEVEL4_DES]
+种植时高概率释放能量豆大招
+
+[SOLARSAGE_NEW_SKILL_LEVEL5_DES]
+鼠尾草转化的开悟僵尸将进阶为自带莲座与华丽佛轮的“得道开悟僵尸”，其产出阳光与转化的间隔均缩短至 2.5 秒，转化其他僵尸的概率增至40%。
+
+[STORE_PRODUCT_AVATAR_SOLARSAGE_TITLE]
+阳光鼠尾草装扮
+
+[SOLARSAGE_AVATAR_NAME]
+阳光鼠尾草装扮
+
+[SOLARSAGE_PLANTFOOD_DESCRIPTION]
+将自身3×3范围内所有僵尸（不包括上述僵尸）变形为开悟僵尸，释放大招后不会消失。
+
+[SOLARSAGE_AVATAR_PLANTFOOD_DESCRIPTION]
+可额外将3x3范围内死亡的植物与5秒内死亡的僵尸全部复活
 
 [Plants_End]
 
@@ -27661,6 +28284,44 @@ Season 44
 [RANK_AVATAR_CONTENT_TITLE_61059]
 Roaming the Ancient City
 
+[rank_avatar_diy_66]
+Bicycle Kick
+
+[RANK_AVATAR_CONTENT_CONTENT_61063]
+Congratulations! For being a Grandmaster!!!!
+Season 45
+
+[RANK_AVATAR_CONTENT_TITLE_61063]
+Bicycle Kick
+
+[rank_avatar_diy_67]
+Heart Blossoming with Joy
+
+[RANK_AVATAR_CONTENT_CONTENT_61064]
+Congratulations! For being a Grandmaster!!!!
+Season 46
+
+[RANK_AVATAR_CONTENT_TITLE_61064]
+Heart Blossoming with Joy
+
+[rank_avatar_diy_63]
+Tomb of the Soul Calming
+
+[RANK_AVATAR_CONTENT_CONTENT_61060]
+Obtained from exchange in the Secret Realm Shop.
+
+[RANK_AVATAR_CONTENT_TITLE_61060]
+Tomb of the Soul Calming
+
+[rank_avatar_diy_65]
+Battle on the Green
+
+[RANK_AVATAR_CONTENT_CONTENT_61062]
+Obtained from the Dave's Cup event
+
+[RANK_AVATAR_CONTENT_TITLE_61062]
+Battle on the Green
+
 [RANK_AVATAR_CONTENT_CONTENT_61023]
 Congratulations! For being a Grandmaster!!!!
 Season 20
@@ -27879,6 +28540,12 @@ Sleigh Squad
 
 [RANK_AVATAR_CONTENT_CONTENT_61505]
 The Sleigh Zombie Squad is ready to arrive!
+
+[RANK_AVATAR_CONTENT_TITLE_61506]
+Traces of Dunhuang
+
+[RANK_AVATAR_CONTENT_CONTENT_61506]
+Tracing the Silk Road, Shining Bright in Dunhuang
 
 [RANK_AVATAR_CONTENT_TITLE_61051]
 Beginning of the End
@@ -28105,6 +28772,9 @@ Sleigh Squad
 
 [rank_avatar_diy_103]
 Sleigh Squad
+
+[rank_avatar_diy_104]
+Traces of Dunhuang
 
 [DOWNLOAD_FAILED_BODY]
 Unable to retrieve update information.
@@ -29770,6 +30440,9 @@ Skip Results
 
 [OPTIONS_ZOMBIE_STARTRUSHONSCREEN]
 Off-Lawn Zombie Speed-Up
+
+[OPTIONS_SKIP_SPEEDCHANGE_EFFECT]
+Skip Speed-Up Flash Effect
 
 [OUT_OF_CONTENT_CONFIRM]
 DOWNLOAD NOW
@@ -32290,7 +32963,7 @@ Coins
 [LUCKYCHEST_DES_DESCRIPTION]
 666. sorry i really need to remove text ：(
 
-1. Event： February 06 to April 5. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event：May 1 to June 25. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -37519,6 +38192,12 @@ Barrage Enhancement
 [HOMINGTHISTLE_SKILL_LEVEL2_DES]
 Increases the probability of Homing Thistle's spiky barrage by 100%.
 
+[HOMINGTHISTLE_SKILL_LEVEL5]
+烈风穿林
+
+[HOMINGTHISTLE_SKILL_LEVEL5_DES]
+普攻和大招射出的尖刺有40%概率转化为穿透尖刺，穿透尖刺会追踪并穿透僵尸，穿透5次后消失。
+
 [LOTUSSHOWER_SKILL_LEVEL1]
 Super Bomb
 
@@ -38456,6 +39135,14 @@ Formula Enhancement
 
 [FUMESHROOM_SKILL1_LEVEL2_DES]
 Increases the probability of Venom Spray by 100%.
+
+[FUMESHROOM_SKILL1_LEVEL5]
+百变喷菇
+
+[FUMESHROOM_SKILL1_LEVEL5_DES]
+小喷喷菇：生长出额外的小喷菇协同作战，释放大招会联动场上所有该形态的大喷菇一同释放大招
+魅惑喷菇：攻击和大招均有概率将僵尸魅惑（8阶以下）
+雷电喷菇：攻击和大招有概率使金属道具失效掉落；大招范围变为三行并对僵尸造成麻痹，但不再击退僵尸
 
 [HYPNOSHROOM_SKILL1_LEVEL1]
 Intermediate Charm
@@ -40791,6 +41478,9 @@ Answered today
 You have answered all questions. Correct: {CORRECT_COUNT}, Incorrect: {WRONG_COUNT}
 Congratulations! You received {REDPACK_COUNT} Lucky Bags!
 
+[LANTERN_RIDDLES_INFO]
+Complete riddle activities to earn Lucky Bags. The more questions you answer correctly, the more Lucky Bags you will receive.
+
 [LANTERN_RIDDLES_TOTAL]
 Answered{DAY_GUESS} days, correct rate{CORRECT_COUNT}%, missed{DAY_MISSED} days
 
@@ -41589,6 +42279,15 @@ Splits when killed
 [ZOMBIE_POGO_DESCRIPTION_HEADER]
 拥有蹦蹦杆时不会被植物阻挡，会直接跨过植物
 
+[ZOMBIE_SCREENDOOR]
+铁网门僵尸
+
+[ZOMBIE_SCREENDOOR_DESCRIPTION]
+他上次拜访的那位房主防守并不熟练，吃掉那人的脑子后拿走了他家的纱门。
+
+[ZOMBIE_SCREENDOOR_DESCRIPTION_HEADER]
+铁门可抵挡伤害
+
 [ZOMBIE_POLE_VAULTING]
 撑杆僵尸
 
@@ -41615,6 +42314,16 @@ Splits when killed
 
 [ZOMBIE_POLE_VAULTING_FEASTIVUS_DESCRIPTION_HEADER]
 跨越遇到的第一颗植物，低生命值时会将手上的撑杆投掷并伤害植物
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE]
+海豚骑士僵尸
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+海豚骑士僵尸原本是僵尸水族馆中的一名僵尸海豚训练师，直到有一天他的僵尸海豚搭档说想看看外面的世界。海豚骑士僵尸就抱起他的搭档，迈出了外面世界冒险的第一步！
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+骑着海豚快速移动，遇到第一株植物时会跃过，随后失去海豚变为普通移动状态。被高坚果阻挡时会撞落并失去海豚，经过缠绕海草时会被直接拖入水中秒杀！
+
 
 [ZOMBIE_BEACH_IMP_QUIFF]
 飞机头小鬼僵尸
@@ -41725,6 +42434,78 @@ Splits when killed
 [ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION_HEADER]
 出场后瞄准它所在行最近的植物发射弓箭攻击
 
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT]
+Nether Archer Zombie
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION]
+Nether Archer Zombie once had a brilliant idea—if he could set his arrows on fire, their power would surely increase. Unfortunately, he had no idea how to start a fire, so the idea was shelved indefinitely. Only after becoming a spirit and gaining access to eerie ghost flames did this "genius" idea finally come to life.
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Shoots ghost fire arrows forward, slowing plants on hit.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD]
+Drunk Zombie
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION]
+The zombies are attacking… hic… wait, really…? I’m not drunk… and if you say I am, I really… can’t take it anymore!
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION_HEADER]
+Drinks after moving, then switches lanes and spits alcohol to stun plants.
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT]
+幽冥小兵僵尸
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION]
+幽冥小兵僵尸原本是一只普通的小兵僵尸，直到他在忘记自己是一只僵尸的情况下，在水池中看到了自己的倒影。于是他被吓得灵魂出窍，变成了幽冥小兵僵尸...
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION_HEADER]
+常见的小兵僵尸的灵体形态
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT]
+幽冥顶碗僵尸
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION]
+幽冥顶碗僵尸十分爱惜自己头上的小碗，当然，它的小碗也回应了这份“爱”。即便身死化为灵体，小碗也会陪伴在幽冥顶碗僵尸的身边。“爱你，小碗...”
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION_HEADER]
+常见的顶碗小兵僵尸的灵体形态
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT]
+Nether Helmethead Zombie
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION]
+Nether Helmethead Zombie protects his most vulnerable spot—his head—with a helmet, which makes him feel incredibly powerful… During a zombie army drill, he confidently demonstrated his "Headbutt Smash" to everyone, only to discover that he could become a spirit afterward…
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
+The spirit form of a common Helmethead Soldier Zombie.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
+Nether Gargantuar
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION]
+Nether Gargantuar has never had the best memory, he can only remember "walk" and "smash" through muscle memory. After turning into a spirit, he lost his muscle memory, now all he can do is "float"…
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION_HEADER]
+The spirit form of a Centurion Gargantuar.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT]
+Nether Drunk Zombie
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION]
+Hic… wah wah roo!!! wabby wabbo… hic…
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Emits ghost fire after moving, instantly destroying plants ahead.
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT]
+Nether Assassin Zombie
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION]
+Nether Assassin Zombie suffers from severe amnesia. His original mission was to assassinate Lord of the Underground Palace—but after arriving, he completely forgot his target and ended up being recruited into the zombie army instead. Recently, his condition has worsened to the point where he can even forget that he’s already dead and turn into a spirit...
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Moves from left to right in spirit form after death.
+
 [ZOMBIE_QIN_SHIELD_SEGMENT]
 盾卫僵尸
 
@@ -41752,6 +42533,15 @@ Splits when killed
 [ZOMBIE_QIN_TAOIST_DESCRIPTION_HEADER]
 可以复活秦俑将军或是将常规僵尸转化为秦俑
 
+[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE]
+布阵僵尸
+
+[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION]
+布阵僵尸总拍胸脯说自己的阵法是上古不传之秘——直到有小僵尸撞见他熬夜偷偷翻小朋友的《三十六计》漫画。哦对了，他帽子上的“令”字是自己用毛笔写的，淋了三次雨就掉色大半了。
+
+[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION_HEADER]
+掷出阵眼，创建法阵
+
 [ZOMBIE_ZOMBOSS_QINSHIHUANG]
 地宫之主
 
@@ -41763,6 +42553,110 @@ Splits when killed
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_BIG_SKILL_WARNING]
 终结技即将发动，请尽快击败地宫之主，别让他完成拔剑！
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING]
+Hurry—stop sword restore!
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST]
+幽冥地宫之主
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION]
+{FLAVOR}他面临着一个巨大的烦恼：在咸鱼堆里洗澡时，咸鱼总是会从他半透明的肚皮里漏出去。
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION_HEADER]
+挥剑决浮云！
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD]
+足球铁桶僵尸
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION_HEADER]
+拥有铁桶保护，铁桶受损后会变形直至脱落。
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION]
+我不知道为什么要戴这个铁桶。好吧，我知道，其实我只是觉得这个铁桶能挡住看台飞下来的爆米花。
+
+[ZOMBIE_SPORTZBALL_WIZARD]
+足球巫师僵尸
+
+[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION]
+他宣称自己能预判每一场球赛的胜负，秘诀就是把对方的守门员变成一颗球。
+
+[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION_HEADER]
+每过一段时间足球巫师僵尸可以把场上的植物变成足球
+
+[SPORTZBALL_IMP]
+足球小鬼僵尸
+
+[SPORTZBALL_IMP_DESCRIPTION]
+足球小鬼一直有个梦想，就是和大家“打成一片”。 自从他把自己装进球里后，这个梦想实现了一半——他确实经常在场上飞来飞去，只不过是以被击飞的方式。
+
+[SPORTZBALL_IMP_DESCRIPTION_HEADER]
+足球小鬼死亡后会在场上留下一个足球
+
+[SPORTZBALL_GARGANTUAR]
+足球巨人僵尸
+
+[SPORTZBALL_GARGANTUAR_DESCRIPTION]
+他曾经是职业足球队的裁判，直到他发现用门柱直接解决前锋比吹哨子管用得多，现在他只想在植物的后防线上完成一次漂亮的“帽子戏法”
+
+[SPORTZBALL_GARGANTUAR_DESCRIPTION_HEADER]
+足球巨人僵尸可以击飞场上的足球对植物造成大量伤害
+
+[ZOMBIE_GENERAL_TREADMILL_PHASE1]
+跑步机僵尸
+
+[ZOMBIE_GENERAL_TREADMILL_PHASE1_DESCRIPTION]
+跑步机僵尸已经跑了很久很久了，不是因为在追求永不放弃的体育精神，他只是不知道暂停键在哪。
+
+[ZOMBIE_GENERAL_TREADMILL_PHASE1_DESCRIPTION_HEADER]
+跑步机僵尸拥有多个阶段，不同阶段的生命值，每个阶段的跑步机僵尸都会停留在场边对自身前方的僵尸投掷强化物增强僵尸。
+
+[GOALKEEPER_ZOMBIE]
+守门员僵尸
+
+[GOALKEEPER_ZOMBIE_DESCRIPTION]
+对于守门员僵尸来说，最尴尬的不是漏球，而是扑救时发现对面是地刺。“这不算犯规吗？”他躺在地上喘气时总会这么问裁判。
+
+[GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
+守门员僵尸可以反弹部分平射子弹
+
+
+[ZOMBIE_SWIMMINGRING]
+游泳圈僵尸
+
+[ZOMBIE_SWIMMINGRING_DESCRIPTION]
+自从他不小心掉进泳池的同时又不小心刚刚好倒栽钻进一个小黄鸭游泳圈之后，他发现他再也无法和小黄鸭分开了（物理意义上的）
+
+[ZOMBIE_SWIMMINGRING_DESCRIPTION_HEADER]
+在陆地上移动速度比普通僵尸更慢，但在水中比普通僵尸移动速度更快
+
+[ZOMBIE_SWIMMINGRINGCONE]
+游泳圈路障僵尸
+
+[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION]
+这家伙每天都在找那个把路障和游泳圈叠在一起放的家伙，因为他从泳池钻出来的时候同时被路障和游泳圈卡住了...怎么会有这么倒霉的家伙...
+
+[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION_HEADER]
+在陆地上移动速度比普通僵尸更慢，但在水中比普通僵尸移动速度更快
+
+[ZOMBIE_SWIMMINGRINGBUCKET]
+游泳圈铁桶僵尸
+
+[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION]
+这家伙总是在幻想自己是一名骑士，所以他找来了他的坐骑“焚天灭地黄色雷霆鸭”和属于他的“宇宙无敌英雄战斗铁头盔”。
+
+[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION_HEADER]
+在陆地上移动速度比普通僵尸更慢，但在水中比普通僵尸移动速度更快
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE]
+海豚骑士僵尸
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+海豚在远古时代抛弃了陆地向海洋进化发展，而如今僵尸骑士与僵尸海豚又在海洋馆重新聚集在了一起。因为他们现在是一样的，都不需要呼吸，在水下畅通自如。
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+在水中拥有极快的移速，且会直接越过触碰到的第一棵植物
+
 
 [ZOMBIE_LION_DANCE]
 舞狮僵尸
@@ -44212,7 +45106,7 @@ Daily Leaderboard Rewards
 Fun Competition Rule
 
 [MINIGAME_RULE_TXT]
-1. The Fun Competition runs from April 15, to April 27. A new mini-game is unlocked each day.
+1. The Fun Competition runs from June 1, to June 13. A new mini-game is unlocked each day.
 
 2. During the event, there is no daily challenge limit. Clearing a mini-game level rewards points and enhancement energy.
 
@@ -59086,7 +59980,7 @@ Accumulated login {DAY} days to receive
 Red Pack Probability Announcement
 
 [ONEYUAN_SHOR_DESCRIPTION]
-Open gachapon for a chance to obtain powerful plants - Apple Mortar, Long Spear Ball Orchid, Princess Spring Grass, and other rare plants waiting for you!
+Open gachapon for a chance to obtain powerful plants - Mulberry Blaster, Long Spear Ball Orchid, Princess Spring Grass, and other rare plants waiting for you!
 
 [FESTIVAL2019_REDPACLET_GOLD]
 Gold Rewards
@@ -59165,7 +60059,7 @@ Please connect to the internet and try again.
 Boss Challenge Probability
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Kelp Guard Pieces
+Scaredy-shroom Pieces
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Other Epic Plant Pieces
@@ -61260,9 +62154,14 @@ Extra gene essence has been converted into 1 universal gene currency
 [GENE_SEQUENCE_LEVEL_UP]
 Confirm spending 1 gene essence of the current plant to level up the gene sequence?
 
+[GENE_SEQUENCE_LEVEL_UP_BATCH]
+Confirm spending {NUMS} gene essence of the current plant to level up the gene sequence?
 
 [GENE_SEQUENCE_BUY]
 Confirm exchange for current gene?
+
+[GENE_SEQUENCE_NEW_LEVEL_UP]
+Gene Upgrade
 
 [GENE_NEW_SEQUENCE_BUY]
 Confirm exchange for {PLANT} gene?
@@ -62234,6 +63133,10 @@ Rewards
 The conditions for making a wish have not been fulfilled
 Need to select all the bubble rewards
 
+[PLEASE_RESELECT_WARNING]
+Changing the wish reward will reset the number of remaining reward bubbles in the wishing pool to the initial number.
+Are you sure you want to change it?
+
 [WISHING_POOL_DESCRIPTION_1_VERSION1]
 Activity Rules：
 1. Buy Packs to obtain Wish Coins, valid only for the current event.
@@ -62420,16 +63323,19 @@ Clear Creative Courtyard 5 times
 Return polite
 
 [GIFT_RETURN_TAB_1]
-Return sign-in
+Login Rewards
 
 [GIFT_RETURN_TAB_2]
-Return Mission
+Task Rewards
 
 [EXP_GIFT_FOR_RETURN]
 Return to sun Points
 
 [GIFT_RETURN_TAB_3]
 Return Pack
+
+[GIFT_RETURN_TAB_4]
+Returner Privileges
 
 [GIFT_RETURN_UPDATE_NEWS]
 Update Express
@@ -62439,6 +63345,12 @@ View Update Express
 
 [GIFT_RETURN_SEE_UPDATE_NEWS_GO]
 View details
+
+[GIFT_RETURN_DOUBLE_COINS_REWARD_DESC]
+Limited-time returner privilege! Earn double Coins!
+
+[GIFT_RETURN_QUADRUPLE_COINS_REWARD_DESC]
+Coin privilege stacked! Earn quadruple Coins!
 
 [GIFT_RETURN_TASK_TIME_LIMIT]
 There are still ^FFFF00^ {NUM} ^oldclrr days until this task is unlocked
@@ -62450,36 +63362,40 @@ Validity ^FF0000 {NUM} ^oldclrrday
 Receive Experience Card
 
 [GIFT_RETURN_DESCRIPTION_TITLE]
-Welcome back!!!!! 
+Returne Login Rewards and Task Rewards Revamp
 
 [GIFT_RETURN_DESCRIPTION]
-Evil's Rules：
+Login Rewards:
 
-1. Yay you are back finnaly we was waiting for you all this time ：(
+Electric Peashooter Puzzle Pieces ×10, Diamonds ×188, Battle Pass Tickets ×20, Diamonds ×288, Scaredy-shroom Puzzle Pieces ×20, Battle Pass Tickets ×50, Penny Tickets ×10, Diamonds ×388, Penny Tickets ×10, Costume Vouchers ×888, Diamonds ×488, Orientational Puzzle Pieces ×10, Penny Tickets ×20
 
-2. you are lucky you will get Hearthshock and 20 fragment of Aloe with 300 dimaond and 8888 coins 50k rubies 10 legendary potion and 5 single draw ticket
+Task Milestone Rewards:
+Sling Pea Puzzle Pieces ×10, Sling Pea Costume Puzzle Pieces ×10, Umbrella Leaf Puzzle Pieces ×10, Speed-Up Flower Pot Pendant ×1, Umbrella Leaf Costume Puzzle Pieces ×30, Diamonds ×500, Speed-Up Clock Pendant ×1, Battle Pass Tickets ×100, Sling Pea Puzzle Pieces ×20, Penny Tickets ×20
 
-3. enjoy the game!!! and login every day for get special reward!!!!!
+The returnee paid bundles have been expanded from 2 sets to a rotating pool of 4 sets
 
-4. enjoy my mod 
+3 Major Returnee Bonuses:
+- Double rewards from Daily Challenges
+- 30% off the first daily pull in Penny’s Treasure
+- Double coin rewards
 
 [PRODUCT_GIFT_FOR_RETURN1_SHORTDESC]
-Hearthshock Pack
+Returner Gift Pack 1
 
 [PRODUCT_GIFT_FOR_RETURN2_SHORTDESC]
-Oilseed-pult Pack
+Returner Gift Pack 2
 
 [PRODUCT_GIFT_FOR_RETURN3_SHORTDESC]
-Elaeocarpus Pack
+Returner Gift Pack 3
 
 [PRODUCT_GIFT_FOR_RETURN4_SHORTDESC]
-Buttercup Pack
+Returner Gift Pack 4
 
 [PRODUCT_GIFT_FOR_RETURN5_SHORTDESC]
-Artifact Discount Pack
+Returner Gift Pack 5
 
 [PRODUCT_GIFT_FOR_RETURN6_SHORTDESC]
-Acid Artifact Discount Pack
+Returner Gift Pack 6
 
 [PRODUCT_GIFT_FOR_RETURN7_SHORTDESC]
 Cranesbill Fencer Pack
@@ -62539,7 +63455,7 @@ Completed 1 trip log daily mission
 Complete 1 creative courtyard visit
 
 [GIFT_FOR_RETURN_TASK_NAME_14]
-20 plant pieces were obtained
+10 plant pieces were obtained
 
 [GIFT_FOR_RETURN_TASK_NAME_15]
 Challenge any 1 level of the secret realm of time and space
@@ -62569,10 +63485,10 @@ Buy items in the Mystery Crystal Store
 New Plants
 
 [GIFT_FOR_RETURN_UPDATE_NEW_3_NAME]
-Ultra Gravity Artifact
+Lion Dance Artifact
 
 [GIFT_FOR_RETURN_UPDATE_NEW_3]
-This is an artifact that can control gravity, manipulating it to crush all zombies into the ground!
+This artifact can summon a lion dance that instantly kills zombies and knocks back Gargantuars!
 
 [GIFT_FOR_RETURN_UPDATE_NEW_4]
 ^FFFF00 New Gameplay ^oldclr            Stronger enemies, tougher challenges!
@@ -65018,6 +65934,9 @@ Increases the plant's level by 1, but cannot exceed the maximum level achieved t
 [TOOL_PACKET_DESC_TOOL_RIFT_ARTIFACT]
 +1 Artifact usage after use
 
+[TOOL_PACKET_SKILL_SWITCH_PEAVINE]
+Pea peak
+
 [PERK_MAX_LEVEL]
 MAX LEVEL
 
@@ -65221,6 +66140,9 @@ Defeat {NUMBER} Yetis
 
 [DEFEAT_X_IMPS]
 Defeat {NUMBER} Imps
+
+[DEFEAT_X_IMP]
+Defeat {NUMBER} Imps.
 
 [DEFEAT_X_BALLISTA]
 Defeat {NUMBER} siege ballistas.
@@ -68205,6 +69127,12 @@ Spend {NUMS} Copper Coins to purchase?
 
 [PVZ2_MAUSOLEUM_MODE_SHOP_BUY_HARD_CONFIRM]
 Spend {NUMS} Jades to purchase?
+
+[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_NORMAL_CONFIRM]
+Spend {NUMS} Coppers to purchase?
+
+[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_HARD_CONFIRM]
+Spend {NUMS} Soul Stones to purchase?
 
 [CUSTOM_LEVEL_SHOP_BUY_CONFIRM2]
 Would you like to spend {NUMS} creation coins to purchase?
@@ -73160,6 +74088,180 @@ Pod Battle
 [S30_MEMORY_LEVEL_NAME_032]
 Christmas Carol
 
+[S30_MEMORY_LEVEL_NAME_033]
+Stillness into Motion
+
+[S30_MEMORY_LEVEL_NAME_034]
+Boundless Strength
+
+[S30_MEMORY_LEVEL_NAME_035]
+Balance of Yin and Yang
+
+[S30_MEMORY_LEVEL_NAME_036]
+Ever-Changing
+
+[S30_MEMORY_LEVEL_NAME_037]
+Dragon Blast
+
+[S30_MEMORY_LEVEL_NAME_038]
+Hidden from Sight
+
+[S30_MEMORY_LEVEL_NAME_039]
+Shields Don't Matter
+
+[S30_MEMORY_LEVEL_NAME_040]
+Demons and Ghosts, Begone
+
+[S30_MEMORY_LEVEL_NAME_041]
+Alice in Wonderland
+
+[S30_MEMORY_LEVEL_NAME_042]
+Three Little Pigs and the Big Bad Wolf
+
+[S30_MEMORY_LEVEL_NAME_043]
+The Nutcracker and the Mouse King
+
+[S30_MEMORY_LEVEL_NAME_044]
+Snow White and the Seven Dwarfs
+
+[S30_MEMORY_LEVEL_NAME_045]
+An Angel Descends Beside Me
+
+[S30_MEMORY_LEVEL_NAME_046]
+Boy Scouts Assemble
+
+[S30_MEMORY_LEVEL_NAME_047]
+Gifts of Childhood
+
+[S30_MEMORY_LEVEL_NAME_048]
+Feast of the Demon Child
+
+[S30_MEMORY_LEVEL_NAME_049]
+Happy Children's Day
+
+[S30_MEMORY_LEVEL_NAME_050]
+Home Alone
+
+[S30_MEMORY_LEVEL_NAME_051]
+Candy World
+
+[S30_MEMORY_LEVEL_NAME_052]
+Laughter and Joy
+
+[S30_MEMORY_LEVEL_NAME_053]
+Still Young at Heart
+
+[S30_MEMORY_LEVEL_NAME_054]
+Fairy Tale Bubbles
+
+[S30_MEMORY_LEVEL_NAME_055]
+Cool and Sweet
+
+[S30_MEMORY_LEVEL_NAME_056]
+Drifting Through Turns
+
+[S30_MEMORY_LEVEL_NAME_057]
+Breaststroke and Butterfly
+
+[S30_MEMORY_LEVEL_NAME_058]
+Little Pea's Vacation
+
+[S30_MEMORY_LEVEL_NAME_059]
+Ice Racing
+
+[S30_MEMORY_LEVEL_NAME_060]
+Ball-Stopping Vanguard
+
+[S30_MEMORY_LEVEL_NAME_061]
+Olympic Spirit Never Dies
+
+[S30_MEMORY_LEVEL_NAME_062]
+Doll Feast
+
+[S30_MEMORY_LEVEL_NAME_063]
+Conehead Championship
+
+[S30_MEMORY_LEVEL_NAME_064]
+Passionate Green Field
+
+[S30_MEMORY_LEVEL_NAME_BOSS_7]
+Childhood Stroller 2
+
+[S30_MEMORY_LEVEL_NAME_BOSS_8]
+Sports Conqueror
+
+[S31_MEMORY_LEVEL_NAME_BOSS_1]
+Vulture Sky-Ripper
+
+[S31_MEMORY_LEVEL_NAME_001]
+Soft Over Hard
+
+[S31_MEMORY_LEVEL_NAME_002]
+No Waves Without Wind
+
+[S31_MEMORY_LEVEL_NAME_003]
+No Turning Back
+
+[S31_MEMORY_LEVEL_NAME_004]
+Plants (?) vs. Zombies
+
+[S31_MEMORY_LEVEL_NAME_005]
+New Bottle, Old Wine
+
+[S31_MEMORY_LEVEL_NAME_006]
+Every Trade Has Its Master
+
+[S31_MEMORY_LEVEL_NAME_007]
+One Step Higher
+
+[S31_MEMORY_LEVEL_NAME_008]
+A Lesser Witch Compared to a Greater One
+
+[S31_MEMORY_LEVEL_NAME_009]
+Little Pea's Workday
+
+[S31_MEMORY_LEVEL_NAME_010]
+Undying Disco
+
+[S31_MEMORY_LEVEL_NAME_011]
+Infernal Affairs
+
+[S31_MEMORY_LEVEL_NAME_012]
+Vase Ace
+
+[S31_MEMORY_LEVEL_NAME_013]
+I Can Laugh Last
+
+[S31_MEMORY_LEVEL_NAME_014]
+Unusual Gravity
+
+[S31_MEMORY_LEVEL_NAME_015]
+Open All Day
+
+[S31_MEMORY_LEVEL_NAME_016]
+Popcorn Party
+
+[S30_MEMORY_LEVEL_NAME_BOSS_5]
+Volcano Voyager
+
+[S30_MEMORY_LEVEL_NAME_BOSS_6]
+Childhood Stroller
+
+[WARNING_SUPERFANIMP_DROP]
+Fan Frenzy!
+
+[WARNING_FOOTBALLIMP_DROP]
+Shoot!
+
+[PVZ1MODE_DAVECUP]
+Dave's Cup Match
+
+[PVZ1MODE_DAVECUP_NORMAL_DESC]
+Soccer balls will occasionally appear on the field, and some zombies will interact with them.
+
+[CHALLENGE_DESTROY_SCHOOLBUS]
+Destroy {GRID_ITEMS} Ice Cream Trucks.
+
 [S30_MEMORY_LEVEL_NAME_1]
 Electromagnetic Induction
 
@@ -73210,6 +74312,150 @@ Raging Wind and Waves
 
 [S30_MEMORY_LEVEL_NAME_17]
 Return to Modern Times
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Magnet-shroom pulls in metal, and Electric Peashooter fries zombies in one shot—does that count as electromagnetic induction?
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_2]
+{SAY:WINNIE}Strictly speaking, electromagnetic induction is when a changing magnetic field generates an electric current. I'm surprised—you actually know physics?
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_3]
+{SAY:CRAZYDAVE}I don't. I just think crispy zombies look pretty appetizing.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data shows that attacking frozen zombies with fire causes increased damage.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_2]
+{SAY:CRAZYDAVE}Because it makes them catch a cold more easily?
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_3]
+{SAY:WINNIE}That's one factor we can't deny, User Dave.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data indicates that this childhood-style yard makes these Imps more active than usual.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_2]
+{SHOUT:CRAZYDAVE}Get these Imps out of my yard!
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_3]
+{SAY:CRAZYDAVE}I just planted those flowers!
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}It's time for these zombies to try the fresh Shadow-shroom.
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_2]
+{SAY:CRAZYDAVE}But if the zombies eat the Shadow-shroom, what do I eat?
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_3]
+{SAY:WINNIE}You may try the new taco flavor, User Dave.
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Our trap is almost complete.
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_2]
+{SAY:CRAZYDAVE}That's great! What materials are we still missing?
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_3]
+{SAY:WINNIE}Data shows we still need… $8.99.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}It appears the Armageddon is near. Our resources are critically low—no sun, no buffs.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_2]
+{SAY:CRAZYDAVE}We still have some secret weapons that can wipe out zombies over a large area. Time to bring them out.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_3]
+{SAY:WINNIE}Everything depends on this. If we fail to eliminate the zombies under these conditions, our brains will be eaten.
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Warning! A huge wave of zombies detected! And we did not bring Sunflowers!
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_2]
+{SAY:CRAZYDAVE}Good thing I invited a new friend—he'll fight alongside us.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}No one knows what lies within the fog. We may lose our way.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_2]
+{SAY:WINNIE}Luckily, we've brought along an assistant to a famous detective. He can guide us.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_3]
+{SAY:CRAZYDAVE}You mean… these Pea-nuts?
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}A huge wave of zombies is approaching—plant Explode-O-Nuts and blow them away!
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_2]
+{SAY:WINNIE}Warning: Explode-O-Nuts have limited range. Are you sure zombies won't counter the explosions with violence?
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_3]
+{SHOUT:CRAZYDAVE}Blow up one, that's a win; blow up a bunch, that's profit! Let's take the fight to the zombie horde!
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Legend says that when Onmyoji Zombie waves its fan, the shrine is swept by powerful winds.
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_2]
+{SAY:CRAZYDAVE}All I know is, when Levitater flaps its wings, zombies start flying.
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_3]
+{SAY:CRAZYDAVE}If these two winds meet, will they sweep up pufferfish?
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{PLAYFUL:CRAZYDAVE}{START_DIALOG_MUSIC}Why are there so many warning lines on the lawn?
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_2]
+{NPC_ENTER:zbcommander}{SAY:zbcommander}Alarm Arrowheads in the same lane will form a warning line.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_3]
+{SAY:zbcommander}Once triggered, one side of the Alarm Arrowheads will activate immediately.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_4]
+{SAY:zbcommander}It not only deals massive damage, but also disables nearby machines.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_5]
+{SAY:zbcommander}Those Hot Dates will lure zombies in, leaving them mesmerized for quite some time before they snap out of it.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_6]
+{SAY:CRAZYDAVE}I see… wait, who are you?
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Explode-O-Nut and Hot Date can't do anything against Explorer and Excavator Zombies.
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_2]
+{SAY:WINNIE}User Dave, wait until they ignite, then move the minecart—that's called riding the flames to wipe them all out.
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_3]
+{SAY:CRAZYDAVE}The zombies are practically roasted already—time to roll out a full-on barbecue party!
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}We've returned to the first stop of our journey, but this time it won't be as easy.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_2]
+{SAY:WINNIE}The circular time paradox prevents us from using plants obtained after leaving the initial maze map.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_3]
+{SAY:CRAZYDAVE}No room left to maneuver—let's clear this quickly and move on to the next stop.
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Aren't those the beans the zombies used to target?
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_2]
+{SAY:CRAZYDAVE}Protect them—Leave no bean behind.
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_3]
+{SAY:WINNIE}They've grown used to danger. So have we.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}The fierce winds have arrived—let Sky City become your grave.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_2]
+{SAY:ZOMBOSSICON}Behold—My newly developed Elite Lightning Gun Zombie will crush every plant in its path!
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Strong winds out here—careful your big talk doesn't blow back on you.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_4]
+{SAY:WINNIE}Activating emergency protocol: send these zombies back to the ground!
 
 [CHALLENGE_DESTROY_SPEAKER]
 Destroy {GRID_ITEMS} speakers.
@@ -74642,7 +75888,7 @@ The first pass reward for each level is not repeated
 1. Unlock Conditions
 
 [UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT2]
-All Normal levels unlock when the Secret Realm opens. Hard level becomes available after clearing all Normal levels (effective from February 12).
+All Normal levels unlock when the Secret Realm opens. Hard level becomes available after clearing all Normal levels.
 
 [UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT3]
 2. Level Content
@@ -74732,31 +75978,31 @@ Each of these has a assigned task and will be rewarded upon completion.
 4, task reward
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY]
-level rewards cannot be obtained repeatedly. The limited-time avatar for Hard mode is available from May 30, 2025 to June 28, 2025.
+level rewards cannot be obtained repeatedly. The limited-time avatar for Hard mode is available from May 30 to June 28.
 
-[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHILDRENSDAY_2026]
 Unlock Conditions：
 
-[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHILDRENSDAY_2026]
 All Normal level open when the event begins. Two Hard level unlock daily.
 
-[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHILDRENSDAY_2026]
 2. Stage Details
 
-[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHILDRENSDAY_2026]
 Normal level have level 3 zombies. Hard level zombie level vary based on mission selection.
 
-[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHILDRENSDAY_2026]
 3. Mission Rules
 
-[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHILDRENSDAY_2026]
 Each level has specific missions. Complete them to earn rewards.
 
-[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHILDRENSDAY_2025]
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHILDRENSDAY_2026]
 4. Mission Rewards
 
-[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2025]
-level rewards cannot be obtained repeatedly. The limited-time avatar for Hard mode is available from May 30, 2025 to June 28, 2025.
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2026]
+level rewards cannot be obtained repeatedly
 
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NEEDFORSPEED_202406]
 1. Opening Time
@@ -74838,7 +76084,10 @@ The storage limit of the spatio-temporal key is 7.
 Finish all normal level first!
 
 [TIMESPACE_MAUSOLEUM_MODE_HARD_LOCKED_CLICKED_HINT]
-Hard Mode unlocks after finish all Normal Mode levels (effective from February 12).
+Hard Mode unlocks after finish all Normal Mode levels
+
+[TIMESPACE_MAUSOLEUM_2_MODE_HARD_LOCKED_CLICKED_HINT]
+Hard Mode unlocks after finish all Normal Mode levels
 
 [CARD_GAME_HARD_LOCKED_CLICKED_HINT]
 Unlock the practical mode after all the levels in the teaching mode are cleared
@@ -75577,6 +76826,9 @@ Causes a charming effect on normal zombies and reduces 10 points of magic attrib
 ^573701^ After special training, it can resist control, transformation, and instant death. After taking a certain amount of damage within 3 seconds, it becomes invincible and returns to normal after a while. ^oldclrr
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_CHIEF_ELITE]
+^573701^ After special training, it can resist control, transformation, and instant death. After taking a certain amount of damage within 3 seconds, it becomes invincible and returns to normal after a while. ^oldclrr
+
+[ELITE_ZOMBIE_TIPS_TEXT_BUBBLE_MACHINE_IMP]
 ^573701^ After special training, it can resist control, transformation, and instant death. After taking a certain amount of damage within 3 seconds, it becomes invincible and returns to normal after a while. ^oldclrr
 
 [ELITE_ZOMBIE_TIPS_TEXT_BUMPERCAR_ELITE]
@@ -76725,6 +77977,11 @@ Complete the previous levels first.
 2. Normal and Hard mode levels offer first-time rewards and regular completion rewards.
 3. Hard mode levels are unlocked after completing all Normal mode levels.
 
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM_2]
+1. The Spacetime Event has various new worlds and new zombies for you to explore, with each world containing both Normal and Hard levels.
+2. Normal and Hard mode levels offer first-time rewards and regular completion rewards.
+3. Hard mode levels are unlocked after completing all Normal mode levels.
+
 [PVZ2_UNCHARTED_MAUSOLEUM_TIPS_DESC_UNCHARTED]
 1. The Spacetime Event has various new worlds and new zombies for you to explore, with each world containing both Normal and Hard levels.
 2. Normal and Hard mode levels offer first-time rewards and regular completion rewards.
@@ -76762,7 +78019,7 @@ Complete the previous levels first.
 5. Hard mode has optional challenges for extra rewards.
 6. Normal mode always has 3 challenges with first-time rewards.
 
-[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2025]
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2026]
 1. Secret Realm Zone offers new worlds/zombies with Normal & Hard levels.
 2. Levels have First Clear (one-time) and Regular Clear rewards.
 3. Clear all Normal levels to unlock Hard mode.
@@ -77884,6 +79141,24 @@ Elite touch car zombies come on
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHILDREN1]
 Elite Bumper Car Zombies have a unique resilience mechanism. While their resilience bar is not broken, they have high damage reduction. When the resilience bar is broken, the zombies enter a downed state. Electric attacks can reduce resilience value, with paralysis attacks being especially effective.
 
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_BMIELITE]
+Elite Bubble Machine Imp Arrives
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_BMIELITE]
+The Elite Bubble Machine Imp has a unique toughness mechanic. When the toughness bar is not broken, it has high damage reduction. When the toughness bar is broken, the zombie enters a downed state. (Fire attacks reduce toughness value; flame-based attacks are especially effective.)
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_GULLIVER]
+Gulliver's Tunnel
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_GULLIVER]
+A tunnel with one large end and one small end. Entering from the large end and exiting from the small end makes you smaller. Going the other way makes you larger.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PLUSHIE]
+Plushie Vending Cart
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PLUSHIE]
+The Plushie Vending Cart throws counterfeit plush Sunflowers that take up your card slots. No forced sales allowed!
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_NEEDFORSPEED1]
 Speed Charge
 
@@ -78420,6 +79695,12 @@ Long-distance
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_2]
 Special
+
+[LEVEL_SELECT_PREVIEW_TITLE]
+Cover Selection
+
+[LEVEL_SELECT_PREVIEW_BTN_OK]
+Confirm
 
 [LAWN_MAIL_TITLE]
 Mail
@@ -79463,7 +80744,7 @@ Information
 2. Amethyst Coins obtained from Daily/Weekly Chests, used for shop exchanges.
 3. Season Legendary/Regular Chests contain newly introduced zombies. Regular Legendary/Selectable Chests contain all released zombies.
 4. Season/Regular Legendary Chests reward: 310 Common cards, 100 Rare cards, 5 Legendary cards (random), 10 Amethyst Coins.
-5. Next season: Season Selectable Legendary Chests let you pick 3 Legendary zombies. Reward: 5 Legendary cards from those 3, plus random 310 Common, 100 Rare, 5 Legendary, 10 Amethyst Coins.
+5. Next season: Season Selectable Legendary Chests let you pick 3 Legendary zombies. Reward: 5 Legendary cards from those 3, plus random 310 Common, 100 Rare, and 10 Amethyst Coins.
 6. Season Regular Chests reward: 50 Common cards, 15 Rare cards, 3 Amethyst Coins, 60 Diamonds (random).
 7. All cards of the same rarity have equal drop rates within chest pools.
 
@@ -80027,6 +81308,9 @@ Shadow
 
 [PLANT_TAG_17]
 Ice
+
+[PLANT_TAG_38]
+Spirit Realm
 
 [PLANT_TAG_18]
 Summon
@@ -80836,7 +82120,7 @@ Reach 6 ★
 Reach 10 ★
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_1]
-Complete 3 challenges： Reduced sun production (1★), Zombie damage increased (2★), Zombie speed increased (3★)
+Complete 3 challenges： Zombie attack buff (1★), Left mold (2★), Zombie speed increased (3★)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_2]
 Reach 2★
@@ -80866,7 +82150,7 @@ Reach 6 ★
 Reach 10 ★
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_1]
-Complete 3 combo challenges： Tough plant cost more (1★), Left mold (2★), Plants damage reduced (3★)
+Complete 3 combo challenges： Tough plant cost more (1★), Right mold (2★), Plants damage reduced (3★)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_2]
 Reach 2★
@@ -80926,7 +82210,7 @@ Reach 6 ★
 Reach 10 ★
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_1]
-Complete 3 combo challenges： Ranged plants cooldown increased (1★), Zombie level increased (2★), Plants damage reduced (3★)
+Complete 3 combo challenges： Increase Special Plant Consumption (1★), Zombie level increased (2★), Plants damage reduced (3★)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_2]
 Reach 2★
@@ -80941,7 +82225,7 @@ Reach 6 ★
 Reach 10 ★
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_1]
-Complete 3 combo challenges： Plants damage reduced (1★), Reduced sun production (2★), Zombie level increased (3★)
+Complete 3 combo challenges： Plushie Vending Cart Zombie Gains Damage Reduction (1★), Reduced sun production (2★), Right Mold (3★)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_2]
 Reach 2★
@@ -80956,7 +82240,7 @@ Reach 6 ★
 Reach 10 ★
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_1]
-Complete 3 combo challenges： Reduce plant damage (1★), Left mold (2★), Zombie level increased to 8 (3★)
+Complete 3 combo challenges： Reduce plant damage (1★), Left mold (2★), Zombie level increased (3★)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_2]
 Reach 2★
@@ -81046,7 +82330,7 @@ Reach 6 ★
 Reach 10 ★
 
 [RE_HALLOWEEN_TASK_NAME_5_1]
-Complete three combination challenges： increase remote plant consumption (1★), receive sun reduced (2★), Zombie attack buffd (3★)
+Complete three combination challenges： increase remote plant consumption (1★), receive sun reduced (2★), Zombie attack buff (3★)
 
 [RE_HALLOWEEN_TASK_NAME_5_2]
 Reach 2★
@@ -82081,10 +83365,9 @@ Pole Vaulter Speed buff
 Pole Vaulter Zombies are 50% faster.
 
 [NUTCRACKER_GARGANTUAR_DAMAGE_REDUCED_DIFFICULTY_1]
-Nutcracker Gargantuar Damage Nerf
-
+Doll vending cart gains damage reduction effect
 [NUTCRACKER_GARGANTUAR_DAMAGE_REDUCED_DIFFICULTY_1_DESCRIPTION]
-Nutcracker Gargantuar damage reduced by 40%.
+Doll vending cart reduces damage by 40%
 
 [HITPOINTS_UP_ZOMBIE]
 Increased Zombie Health
@@ -82226,6 +83509,11 @@ In-depth research on toxins, toxins are more effective against zombies with a 16
 
 [FUMESHROOM_NEW_SKILL_LEVEL4_DES]
 Fume-shroom may be boosted when planted.
+
+[FUMESHROOM_NEW_SKILL_LEVEL5_DES]
+小喷喷菇：生长出额外的小喷菇协同作战，释放大招会联动场上所有该形态的大喷菇一同释放大招
+魅惑喷菇：攻击和大招均有概率将僵尸魅惑（8阶以下）
+雷电喷菇：攻击和大招有概率使金属道具失效掉落；大招范围变为三行并对僵尸造成麻痹，但不再击退僵尸
 
 [FUMESHROOM_PLANTFOOD_DESCRIPTION]
 Fume-shroom will expand as if he is gathering air, before unleashing a large amount of fumes that push zombies backward (for up to 10 tiles). Deals damage for 5 seconds.
@@ -82448,6 +83736,10 @@ There is a 50% probability that the guide thistle will fire two pins in successi
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL4_DES]
 There is a high probability of be boosted
+
+[HOMINGTHISTLE_NEW_SKILL_LEVEL5_DES]
+普攻和大招射出的尖刺有40%概率转化为穿透尖刺，穿透尖刺会追踪并穿透僵尸，穿透5次后消失。
+
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
 Launch at least 10 needles with damage 4 times its own attack power. If the zombies on the field are greater than 10, the number of needles fired by the guide thistle is consistent with the number of zombies on the field.
@@ -84296,7 +85588,7 @@ From Penny's Future Gift Box coin packs
 Lucky Chest Season 4
 
 [MAT_LUCKYCHEST_USE]
-Open for random rewards February 9 to April 5.
+Open for random rewards May 1 to June 25.
 
 [MAT_LUCKYCHEST_GOT_WAY]
 From Lucky Chest event or weekly packs
@@ -85061,22 +86353,40 @@ Obtain the Super Costume
 [TOYNIGHT_TASK_3]
 Obtain All Costumes
 
-[MAT_TOY_PARTS]
+[MAT_TOY_PARTS_1]
 Super Crystal
 
-[MAT_TOY_PARTS_USE]
+[MAT_TOY_PARTS_1_USE]
 Exchange for rewards in the Super Shop during the Super Costume Event
 
-[MAT_TOY_PARTS_GOT_WAY]
+[MAT_TOY_PARTS_1_GOT_WAY]
 Obtain from draws during the Super Costume Event
 
-[MAT_TOY_CLOCKWORK]
+[MAT_TOY_CLOCKWORK_1]
 Super Coins
 
-[MAT_TOY_CLOCKWORK_USE]
+[MAT_TOY_CLOCKWORK_1_USE]
 Used to draw rewards in the Super Costume Event
 
-[MAT_TOY_CLOCKWORK_GOT_WAY]
+[MAT_TOY_CLOCKWORK_1_GOT_WAY]
+Obtain by purchasing in the Super Costume Event Shop
+
+[MAT_TOY_PARTS_2]
+Super Crystal
+
+[MAT_TOY_PARTS_2_USE]
+Exchange for rewards in the Super Shop during the Super Costume Event
+
+[MAT_TOY_PARTS_2_GOT_WAY]
+Obtain from draws during the Super Costume Event
+
+[MAT_TOY_CLOCKWORK_2]
+Super Coins
+
+[MAT_TOY_CLOCKWORK_2_USE]
+Used to draw rewards in the Super Costume Event
+
+[MAT_TOY_CLOCKWORK_2_GOT_WAY]
 Obtain by purchasing in the Super Costume Event Shop
 
 [TOY_NIGHT_EXPIRED]
@@ -85115,6 +86425,42 @@ If already owned, automatically converted to Super Crystal reward
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
+
+[DAVECUP_PREDICT_COUNTDOWN]
+Pre-match Countdown
+
+[DAVECUP_LOCK_COUNTDOWN]
+Lockdown Countdown
+
+[DAVECUP_BATTLE_COUNTDOWN]
+Battle Countdown
+
+[DAVECUP_PREDICT_TIPS]
+Use points to support a team. Supporters of the winning team will receive point rewards.
+
+[DAVECUP_LOCK_TIPS]
+Displays a short one-line rule description.
+
+[DAVECUP_ALL_SUPPORT]
+Full Support
+
+[DAVECUP_SUPPORT_LEFT]
+Support Left
+
+[DAVECUP_SUPPORT_RIGHT]
+Support Right
+
+[DAVECUP_ROUND]
+Round ^FFFF00 {NUM} ^oldclr
+
+[DAVECUP_CURRENT_SCORE]
+Points: ^FFFF00 {NUM} ^oldclr
+
+[DAVECUP_BYSTANDER]
+Spectating
+
+[DAVECUP_SELECT_SUPPORT]
+Please select a team to support.
 
 [MINIGAME_COLLECTION_TITLE]
 Fun Competition
@@ -85171,7 +86517,7 @@ Air Raid
 Enhancement Energy
 
 [GINGLEBELL_TITLE]
-April Fools' Jingle
+Children's Day Jingle
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -85189,33 +86535,39 @@ Participation Award
 Best Score
 
 [GINGLEBELL_DESCRIPTION_TITLE]
-Jingle Bells Description
+Underground Palace's Jingle Bells Mechanics Introduction
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules：
-Special Mechanic： Attacking Chickens does increase your score.
+Special Mechanic： Attacking bumper cars does increase your score.
     1. All damage dealt to Scarecrow within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Chicken Charge, Fleeting Chicken, Chicken Come and Goy), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Drifting Through Turns, Ramming Rampage, Swaying Defense), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00：00-10：00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
-    6. Ranking rewards auto-distribute after 10：00. On March 30, extends to 24 hours (no challenges allowed).
+    6. Ranking rewards auto-distribute after 10：00. On June 17, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Zombie Chickens will crush plants within a certain area around themselves, and the crush range increases as they grow larger.
+Bumper Cars are immune to all control effects. While moving, they instantly destroy any plants they collide with along their path.
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-Zombie Chickens will grow larger after taking a certain amount of damage.
+When a Bumper Car collides with a defensive plant or a plant in an invincible state, it immediately moves in the opposite direction and decreases its speed by 1 tier.
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Theme 1: After a plant stake takes a certain amount of damage, it will vanish from its current tile and reappear on another fixed tile.
+Bumper Cars start in a high-speed state. In this state, they are immune to all damage and reflect all straight-shot projectiles traveling in their direction. In the medium-speed state, they remain immune to all incoming damage.
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
-Theme 2: Several stationary wooden stakes are present on the field.
+In the low-speed state, Bumper Cars take damage normally. In the stopped state, they take 300% damage for 5 seconds. After the duration ends, they return to the high-speed state
 
 [GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
-Theme 3: Wooden stakes move continuously. When a stake is attacked, its movement speed increases.
+Theme 1: Bumper Cars move repeatedly along a designated route. Starting from the initial point, they travel through each waypoint in order before finally returning to the starting point
+
+[GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
+Theme 2: Bumper Cars move left and right within a certain range on the same lane.
+
+[GINGLEBELL_HOWTOPLAY_7_DESCRIPTION]
+Theme 3: The lawn contains fixed vertical rail routes. When Bumper Cars are attacked, their movement speed increases.
 
 [MAUSOLEUMHARD_HOWTOPLAY_1_DESCRIPTION]
 In Hard Mode, plants that are eaten or destroyed are considered "fallen" (except for Sod).
@@ -85235,6 +86587,9 @@ Using the shovel to remove a plant does not mark it as "fallen," but shovel uses
 [MAUSOLEUMHARD_HOWTOPLAY_6_DESCRIPTION]
 If the player fails in Hard Mode, the level resets, all plants are revived, and the run restarts from the first Hard level.
 
+[MAUSOLEUMHARD_HOWTOPLAY_7_DESCRIPTION]
+In this Secret Realm, you can use 2 Generation 2 plants. In Hard mode, only the 2 Generation 2 plants selected at the start can be used per save file.
+
 [MAUSOLEUMDANGERROOM_HOWTOPLAY_1_DESCRIPTION]
 This Endless Mode recreates the classic PVZ endless experience: Plant Food abilities cannot be used.
 
@@ -85253,11 +86608,23 @@ Players can temporarily leave Endless Mode. Returning will resume from the saved
 [MAUSOLEUMDANGERROOM_HOWTOPLAY_6_DESCRIPTION]
 Failing a challenge or exiting rewards Copper Coins and Jades. Players can earn a maximum of 500 Jades per week from Endless Mode challenges.
 
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_7_DESCRIPTION]
+In this Secret Realm, you can use 2 Generation 2 plants. In Endless mode, only the 2 Generation 2 plants selected at the start can be used per save file.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_8_DESCRIPTION]
+After every 9 cleared levels, the 10th level is a Boss level. The Boss is the Secret Realm Boss: Lord of the Netherworld Tomb.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_9_DESCRIPTION]
+After a failed challenge or settling to exit, players will receive a certain amount of Coppers and Soul Stones as rewards.
+
 [MAT_MAUSOLEUM_NORMAL_COIN]
 Copper Coins
 
 [MAT_MAUSOLEUM_HARD_COIN]
 Jades
+
+[MAT_MAUSOLEUM_2_HARD_COIN]
+Soul Stone
 
 [MAT_MAUSOLEUM_BASIC_SUN1]
 Starting Sun I
@@ -85301,6 +86668,14 @@ Planting Cooldown Reduction II
 [MAT_MAUSOLEUM_COOLDOWN3]
 Planting Cooldown Reduction III
 
+[MAT_UNCHARTED_PERK_GATLINGPEA_1]
+Gatling Pea Enhancement I
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_2]
+Gatling Pea Enhancement II
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_3]
+Gatling Pea Enhancement III
 
 [GINGLEBELL_RANK]
 Your Rank： {NUMBER}
@@ -85333,106 +86708,106 @@ Best Score：{NUMBER}
 Deal as much damage as possible in 30 seconds
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-April Fools' Jingle
+Tomb Jingle
 
 [GINGLEBELL_TASKDESCRIPTION]
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Chicken Charge - Level 1
+Drifting Through Turns - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Chicken Charge - Level 2
+Drifting Through Turns - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Chicken Charge - Level 3
+Drifting Through Turns - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Chicken Charge - Level 1
+Drifting Through Turns - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Chicken Charge - Level 2
+Drifting Through Turns - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Chicken Charge - Level 3
+Drifting Through Turns - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Chicken Come and Goy - Level 1
+Swaying Defense - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Chicken Come and Goy - Level 2
+Swaying Defense - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Chicken Come and Goy - Level 3
+Swaying Defense - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Chicken Charge - Level 1
+Drifting Through Turns - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Chicken Charge - Level 2
+Drifting Through Turns - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Chicken Charge - Level 3
+Drifting Through Turns - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Chicken Charge - Level 1
+Drifting Through Turns - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Chicken Charge - Level 2
+Drifting Through Turns - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Chicken Charge - Level 3
+Drifting Through Turns - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Chicken Come and Goy - Level 1
+Swaying Defense - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Chicken Come and Goy - Level 2
+Swaying Defense - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Chicken Come and Goy - Level 3
+Swaying Defense - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Chicken Charge - Level 1
+Drifting Through Turns - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Chicken Charge - Level 2
+Drifting Through Turns - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Chicken Charge - Level 3
+Drifting Through Turns - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Fleeting Chicken - Level 1
+Ramming Rampage - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Fleeting Chicken - Level 2
+Ramming Rampage - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Fleeting Chicken - Level 3
+Ramming Rampage - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Chicken Come and Goy - Level 1
+Swaying Defense - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Chicken Come and Goy - Level 2
+Swaying Defense - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Chicken Come and Goy - Level 3
+Swaying Defense - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge： Deal max damage within 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Chicken Charge - Level {LEVEL_NUMBER}
+Drifting Through Turns - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Fleeting Chicken - Level {LEVEL_NUMBER}
+Ramming Rampage - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
 Strolls Through Spring Scenery - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s April Fools' Jingle
+{PLAYER}'s Trip to the Children's Day Jingle
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
 5 Blue Pendant Fragments (Selectable)
@@ -85676,112 +87051,116 @@ Game Error
 ^FF0000 CHEATER I HOPE YOU GET BAN FOR CHEATING LOOOOOSER
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
-Zombie N.42
-
+巨型普通僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION_HEADER]
-///// in research ////
-
+血量降为70%时会断手，随后将断手捡起，攻击方式改变为用断手砸击
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION]
-{FLAVOR}In this universe 
+42号平行宇宙最简单，最基础，最常见的僵尸你觉得他很大吗？这怎么了
+
+[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1]
+坚固路障僵尸
+[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION_HEADER]
+有着与法老僵尸一样的厚度
+[ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION]
+42号平行宇宙文化产业兴盛，每一只僵尸都有更多的机会展示橘色塑料圆锥时尚
 
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH]
-精英冰风酋长僵尸
-
+比基尼假发僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+此假发非彼假发
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+你以前是不是没见过这种的？对吧，比基尼僵尸在哪个宇宙都是先锋
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR]
-Gargantuar N.42
-
+迷你巨人僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION_HEADER]
-He would be bullied for Look like a imp in yours universe 
-
+一个普普通通的迷你巨人，不会投掷小鬼
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION]
-{FLAVOR}yes he's small but is not mean he's weak 
-we Always say "it's not the small bug that will eat the big one" but i think this time is false
+迷你巨人僵尸对分类学的困扰促使了他的暴怒
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR]
-精英冰风酋长僵尸
-
+毒奶医生僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+对本行第一个植物丢出针头，造成伤害和减速
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+平行宇宙到底改变了僵尸的身体构造还是医学界？至少考取医学执照简单粗暴了不少
 
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER]
-精英冰风酋长僵尸
-
+易怒小丑僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+与报纸僵尸一样，半血以下后进入旋风形态，飞快向前移动，接触到植物后造成高额每秒伤害，不再反弹子弹
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+当你始终为艺术全速前进，没人有资格笑话你
+
+[ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE]
+治愈自爆僵尸
+[ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
+不会主动自爆，血量归零死亡后爆炸，将周围3×3范围内的僵尸血量回满
+[ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION]
+火药火药，另一个宇宙的自爆僵尸对这个词的理解似乎有所不同
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR]
-精英冰风酋长僵尸
-
+洋铲僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击韧可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态尸僵尸不会行动及进攻，直至恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+与洋伞僵尸一样，可防御头顶的攻击
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR_DESCRIPTION]
-hello
+让这个宇宙的僵尸知道铲子可以用来挖土，比在古代遗迹挖出你的死党还不可思议
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE]
-精英冰风酋长僵尸
-
+挖掘伞僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条韧恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+与挖掘者僵尸一样，可防御正面的攻击
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎韧么对抗那个扇子装置了。
+不必觉得这个宇宙的洋伞僵尸很反常，毕竟你没有见过会自己拐弯的紫外线
 
 [ZOMBIE_UNIVERSE_UNCHARTED_RA]
-精英冰风酋长僵尸
-
+反转太阳神僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_RA_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+出场后如果能存活一段时间，则生产一次阳光供玩家使用
 [ZOMBIE_UNIVERSE_UNCHARTED_RA_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+别误会，太阳神僵尸可不是你的朋友，他更像是一个僵尸面孔的阳光菇
 
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO]
-精英冰风酋长僵尸
+反转蓑衣僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+出场后如果能存活一段时间，则生产一颗能量豆供玩家使用
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+蓑衣僵尸拒绝回答有关与我们宇宙那些冒绿光僵尸的关系问题，也可能其实大家真的都不知道
 
 [ZOMBIE_UNIVERSE_UNCHARTED_PROSPECTOR]
-精英冰风酋长僵尸
+淘金狂僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_PROSPECTOR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+出场后跳跃到最右侧的植物前面开始啃食，面前的植物消失后会继续跳跃，如果本行没有植物则跳到最左侧一格并进入家中
 [ZOMBIE_UNIVERSE_UNCHARTED_PROSPECTOR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+这个宇宙最神奇的现象是下靴子雨，还都是左脚的某些有关淘金僵尸的最终真相难道解开了吗！
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL]
-精英冰风酋长僵尸
+巨型冰鼬
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+移动速度稍慢，血量巨厚
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+乱扔自己会跑的雪球难免要出事故
+
+[ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN]
+巨鸡
+[ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION_HEADER]
+移动速度变为跟普通僵尸相同，血量稍厚
+[ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION]
+在我们的宇宙，你很难区分普通鸡和僵尸鸡但在这里，家禽分类学知识普及的很顺利
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER]
-精英冰风酋长僵尸
+弹性报纸僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+与小丑僵尸一样，报纸不再会被打掉而是反弹子弹
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+42号平行宇宙用弹力橡胶印刷报纸，复活了死去已久的纸媒读报僵尸就是这样出现的
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR]
-精英冰风酋长僵尸
+闪电型全明星僵尸
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+出场后为普通行走状态，受到一定伤害后会进入奔跑状态，奔跑状态下会直接穿过植物，在穿过植物时移动速度会略微减缓
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+当全明星僵尸学会了算术，理解了橄榄球的含义，那可就不再是同一只僵尸了
 
 [PVZ2UNCHARTED_SHOP_TITLE]
 Uncharted Shop
@@ -85791,7 +87170,7 @@ End in：
 
 [PVZ2UNCHARTED_SHOP_TIPS_DESC]
 1. Earn coin by completing Secret Realm levels or finishing Endless Mode, then exchange them for items in the Shop.  
-2. Plants bought from the Shop can only be used in the Secret Realm
+2. Shop plants and buffs can only be used in the Secret Realm after purchase.
 
 
 [NEWYEAR_PACK_TITLE]
@@ -86210,6 +87589,18 @@ Winter is Coming
 [AVATARCOLLECTIONS_HEAD_DES_ID_25807]
 Wind brings snow, rain mixed with frost, lands blanketed in cold, veiling the chill's gleam.
 
+[AVATARCOLLECTIONS_HEAD_ID_25866]
+All Things Have Spirit
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25866]
+Seek the true meaning of life in every smallest corner.
+
+[AVATARCOLLECTIONS_HEAD_ID_25869]
+Shadow of the Demon
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25869]
+Abhor, hunt, and ultimately become a demon — such is the fate of every demon hunter.
+
 [AVATARCOLLECTIONS_HEAD_ID_25808]
 Golden Saddle, Blessings for the New Year
 
@@ -86233,6 +87624,24 @@ Golden Saddle, Blessings for the New Year
 
 [AVATARCOLLECTIONS_THEME_DES19]
 Year of the Horse brings great fortune, the golden saddle delivers auspiciousness.
+
+[AVATARCOLLECTIONS_THEME_TITLE20]
+Traces of Dunhuang
+
+[AVATARCOLLECTIONS_THEME_DES20]
+Tracing the Silk Road, Shining Bright in Dunhuang
+
+[AVATARCOLLECTIONS_THEME_TITLE21]
+All Things Have Spirit
+
+[AVATARCOLLECTIONS_THEME_DES21]
+All things possess a spirit; vitality reflects across all directions.
+
+[AVATARCOLLECTIONS_THEME_TITLE22]
+Shadow of the Demon
+
+[AVATARCOLLECTIONS_THEME_DES22]
+Binding demons as shadows, hunting down the wicked.
 
 [AVATARCOLLECTIONS_NOT_EXIST]
 Not Owned
@@ -86344,6 +87753,12 @@ Chubby Bee Waltz
 
 [TOYS_HEAD_DES_ID_25845]
 Obtained by participating in the Sweet Rhapsody event.
+
+[TOYS_HEAD_ID_25865]
+Abyssal Thriller
+
+[TOYS_HEAD_DES_ID_25865]
+Obtained by participating in the Western Demon Hunting Legend event.
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -86510,6 +87925,19 @@ Cosplay
 
 [TIANGONG_HEAD_DES_ID_25846]
 Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
+
+[TIANGONG_HEAD_ID_25864]
+Wish Upon the Stars
+
+[TIANGONG_HEAD_DES_ID_25864]
+Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
+
+
+[TIANGONG_HEAD_ID_25879]
+魔力药剂
+
+[TIANGONG_HEAD_DES_ID_25879]
+在天宫寻宝活动中，累积抽取阶段奖励获取
 
 [PVP_ERROR_76030]
 Item cheating detected.
@@ -87849,33 +89277,45 @@ Secret Realm Carrot Launcher
 [UNCHARTED_CARROTLAUNCHER_TOOLTIP]
 Fires carrot missiles, dealing heavy damage to zombies ahead.
 
-[UNCHARTED_Sod]
+[UNCHARTED_HAYSTACK]
 Sod
 
-[UNCHARTED_Sod_DESCRIPTION]
-{KEYWORD}Usage: {STAT} Can be planted on roof terrain.
-{KEYWORD}Plant Traits: {STAT} Short stature, brown plant.
-{FLAVOR}The Flower Pot must be the most relaxed plant—no need to fight, and plenty of sunshine on the roof. Indeed, as a plant, it still needs photosynthesis.
+[UNCHARTED_HAYSTACK_DESCRIPTION]
+{KEYWORD}Usage: {STAT} 可以种植在坑道地形
+{KEYWORD}Plant Traits: {STAT} 矮个子、绿色植物
+{FLAVOR}草垛在原本的世界只是作为其他植物和僵尸作战的背景板，直到来到满是坑道的地宫后，他终于找到了自己的用武之地。现在，草垛作为对抗坑道必不可少的“基石”，活跃在第一线！
 
-[UNCHARTED_Sod_DESCRIPTION_HEADER]
+[UNCHARTED_HAYSTACK_DESCRIPTION_HEADER]
 Sod allow plants to be placed on roof terrain.
 
-[UNCHARTED_Sod_TOOLTIP]
+[STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK_TITLE]
+Sod Costume
+
+[STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK]
+Sun cost reduced by 15
+
+[UNCHARTED_HAYSTACK_NEW_SKILL_LEVEL1_DES]
+After planting Sod, plants can be planted above tunnels.
+
+[UNCHARTED_HAYSTACK_TOOLTIP]
 Sod enable plants to be planted on tunnels.
 
-[BONUS_CARD_PIECE_UNCHARTED_Sod]
+[UNCHARTED_HAYSTACK_AVATAR_PLANTFOOD_DESCRIPTION]
+Sod has no Plant Food effect.
+
+[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK]
 Sod Fragment
 
-[BONUS_CARD_PIECE_UNCHARTED_Sod_DESCRIPTION]
+[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK_DESCRIPTION]
 Obtain Sod fragments.
 
-[PLANTING_NEED_UNCHARTED_Sod_FIRST]
+[PLANTING_NEED_UNCHARTED_HAYSTACK_FIRST]
 Please place a Sod first.
 
-[PLANTING_UNCHARTED_Sod_ON_UNCHARTED_Sod]
+[PLANTING_UNCHARTED_HAYSTACK_ON_UNCHARTED_HAYSTACK]
 Cannot place a Sod on another Sod.
 
-[PLANTING_NOT_ON_UNCHARTED_Sod]
+[PLANTING_NOT_ON_UNCHARTED_HAYSTACK]
 {PLANT_NAME} cannot be planted on a Sod.
 
 [PLANTING_UNCHARTED_HAYSTAC_ONLY_TUNNEL]
@@ -88393,6 +89833,9 @@ Toxic Fog Blankets the Area
 [PVZ1_MODE_MINIGAME_START_LEVEL_140]
 Overwhelming Power
 
+[PVZ1_MODE_MINIGAME_START_LEVEL_141]
+Steam Ages
+
 [PVZ1_MODE_MINIGAME_MODE_DESC_1]
 Why are there plant-headed zombies on the opposite side?
 
@@ -88482,6 +89925,36 @@ Use Oak Archers to defeat all zombies.
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_30]
 Use plants to defeat zombies on a fixed path.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_31]
+Use plants to defeat zombies on a fixed path.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_32]
+Command Avocados to stop the zombie assault.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_33]
+Play bowling on the beach!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_34]
+Guide the dodo bird safely across the ice and river.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_35]
+Link matching plant projectiles to attack and defeat zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_36]
+Fire the main cannon to shoot down zombies and score enough points to clear the level.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_37]
+Set up obstacles and plants to prevent zombies from reaching the end.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_38]
+Set up obstacles and plants to prevent zombies from reaching the end.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_39]
+Dodge zombies and projectiles, and defeat powerful enemies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_40]
+Move cars to allow Dave to pass through.
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_41]
 Smash the vases and clear all the zombies.
@@ -88601,6 +90074,66 @@ Smash the vases and clear all the zombies.
 Smash the vases and clear all the zombies.
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_80]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_81]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_82]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_83]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_84]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_85]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_86]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_87]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_88]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_89]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_90]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_91]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_92]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_93]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_94]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_95]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_96]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_97]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_98]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_99]
+Smash the vases and clear all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_100]
 Smash the vases and clear all the zombies.
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_101]
@@ -88723,6 +90256,9 @@ Use fixed plants to stop a fixed zombie formation.
 [PVZ1_MODE_MINIGAME_MODE_DESC_140]
 Use fixed plants to stop a fixed zombie formation.
 
+[PVZ1_MODE_MINIGAME_MODE_DESC_141]
+Use zombies to eliminate all plants.
+
 [ADVICE_ERROR_SCORE]
 This level's likes reward limit has been reached.
 
@@ -88788,5 +90324,259 @@ Vasebreaker Master
 
 [MINI_GAMES_HEAD_DES_ID_25856]
 Smash 2000 vases in Vasebreaker mode.
+
+[TIME_TUNNEL_SKIP]
+Tap anywhere to skip the animation...
+
+[ACTIVITY_NEW_GIFTFORETURN_TIPS]
+Diamond Share Rules
+1. Base prize pool: 200,000 Diamonds. Each time a player participates in the event draw, the prize pool increases by 50 Diamonds.
+2. Up to 10% of diamond rewards can be shared!
+
+[GIFTFORETURN_DAILYSIGN_DAY_SUM]
+{NUM} Days
+
+[GIFTFORETURN_DAILYSIGN_MISSSIGNDAY_SUM]
+Missed {NUM} days
+
+[GIFTFORETURN_DAILYSIGN_SIGN_COST]
+{NUM}
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_1]
+Test
+
+[GIFTFORETURN_DAILYSIGN_SIGN_COST_NOT_ENOUGH]
+Insufficient Coins
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_1]
+Clear Hard Mode Level 10
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_2]
+Clear Hard Mode Level 5
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_3]
+Clear Normal Mode Level 10
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_4]
+Clear Normal Mode Level 8
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_5]
+Clear Normal Mode Level 6
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_6]
+Clear Normal Mode Level 3
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_1]
+Gatling Pea's base attack increased by 50%, sun cost reduced to 150.
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_2]
+Each normal attack has a 25% chance to trigger Arc Scatter. When triggered, after the initial 4 straight shots, 2 additional volleys are fired, each volley firing 5 peas in a fan shape in five directions.
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_3]
+When [Nether Pond Banyan] is on the field, Gatling Pea enters the "Spirit Realm State": base attack increased by 50%, and the chance to trigger "Arc Scatter" on normal attacks increased to 100%.
+
+[UIUNCHARTEDENTRY_LOCK_DESCRIPTION]
+This Secret Realm is locked.
+
+[UIUNCHARTEDENTRY_LOCK_UNCHARTED_MAUSOLEUM_2_DESCRIPTION]
+Unlock Condition: Clear all normal levels in Chapter 1 of the Tomb Secret Realm.
+
+[PVZ1MAUSOLEUM_HARDMODE_SELECT_PLANT_TIPS]
+In this Secret Realm, you can only select 2 Generation 2 plants. In Hard Mode and Endless Mode, only the first 2 Generation 2 plants selected per save file can be used. Once selected, they cannot be changed!
+Plants above the selection area are Generation 1; below are Generation 2.
+
+[ZOMBIE_NAME_BUBBLEMACHINEIMP]
+Bubble Machine Imp Zombie
+
+[ZOMBIE_DESC_BUBBLEMACHINEIMP]
+Elite zombie capable of hovering over column 8 to shoot bubbles that wrap plants, and can also throw candy to buff other zombies on the field.
+
+[DAVECUP_NOT_OPEN]
+Dave's Cup is currently unavailable.
+
+[DAVECUP_MATCH_BUTTON]
+Match Now
+
+[DAVECUP_INFO_BUTTON]
+How to Play
+
+[DAVECUP_INFO_DESC]
+1. Gameplay Overview: Each match pits 8 players against each other across 8 rounds of auto-battle predictions. Each player starts with 10,000 points. After the match ends, players are ranked based on their final total points.
+2. Match Phases: Before each round, players have 20 seconds to observe both sides' lineups. Players must spend the round's standard points to predict a winner by supporting either the [Left] or [Right] side. Rounds 6 to 8 unlock the "All-In" option, allowing players to wager all their points. If the timer runs out without a choice, the system will randomly select a side. If a player lacks sufficient points for the round's requirement, they will be forced to go "All-In" and wager all their remaining points.
+3. Winner Determination: Odd-numbered rounds are "Plants Defense vs. Zombies Offense." Zombies win if they break through the line or eliminate all plants; otherwise, Plants win. Even-numbered rounds are "Zombies vs. Zombies." The side that first breaks through the opponent's line or eliminates all opponents wins.
+4. Extra Buffs: The "Cheering Buff" is active throughout the match: all units gain 50% movement and attack speed at the start, which surges to 100% after 20 seconds! If combat reaches 60 seconds, the field enters "High-Temperature Injury Time": all units lose 6% of their max HP per second due to scorching heat.
+5. Event Rewards: After the match, [Milestone Points] are awarded based on final point rankings. Accumulating points increases your Milestone Level, unlocking tiered rewards. Some rewards are time-gated; progress cannot be increased beyond the current stage's max level until the next time phase unlocks.
+
+[DAVECUP_MAIN_SCREEN_QUEUEING_WAITED_TIME]
+Waiting time: {TIME}
+
+[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_TITLE]
+System
+
+[DAVECUP_MAIN_SCREEN_CANCEL_BUTTON_TITLE]
+Cancel Match
+
+[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_DESC]
+Cancel matchmaking?
+
+[DAVECUP_MAIN_SCREEN_MATCH_TIME_DESC]
+Estimated match time: {TIME}
+
+[DAVECUP_MAIN_SCREEN_SEARCH_TIME_DESC]
+Searching: {TIME}
+
+[DAVECUP_MAIN_SCREEN_SEARCH_PLAYER_DESC]
+^00FF00 {NUM}^oldclr^ / {MAX}
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_TITLE]
+Milestone Level
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_DESC]
+Opens in {NUM} days
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_TOMORROW_DESC]
+Opens at 00:00 tomorrow
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_DESC]
+{NUM}/{MAX}
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LV_TITLE]
+Lv.^FFFF00 {NUM}^oldclr^
+
+[DAVECUP_OPENSTAGE_TIPS]
+Full crowd cheering!
+
+[DAVECUP_HALFSTAGE_TIPS]
+The atmosphere is heating up!
+
+[DAVECUP_FINALSTAGE_TIPS]
+High-temperature injury time! A test of endurance!
+
+[DAVECUP_THIS_ROUND_RANK]
+Ranking
+
+[DAVECUP_THIS_ROUND_PLAYERNAME]
+Player Name
+
+[DAVECUP_THIS_ROUND_POINTS_CHANGE]
+Points Change
+
+[DAVECUP_THIS_ROUND_TOTAL_POINTS]
+Current Points
+
+[DAVECUP_NEXT_ROUND_START_COUNTDOWN]
+{TIME}S
+
+[DAVECUP_SETTLEMENT_TILE]
+Final Results
+
+[DAVECUP_FINAL_SETTLEMENT_YOUR_RANK_INFO]
+Your Ranking
+
+[DAVECUP_FINAL_SETTLEMENT_TOTAL_SCORE]
+Final Total Points
+
+[DAVECUP_FINAL_SETTLEMENT_CORRECT_TIMES]
+Correct Predictions: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_ALLIN_TIMES]
+All-In Times: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_LEVEL_INFO]
+Milestone Level
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_POINTS]
+Points Earned: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_BUTTON]
+Back to Milestone
+
+[DAVECUP_FINAL_SETTLEMENT_BACKACTIVITY_BUTTON]
+Return
+
+[PVZ_ERROR_76071]
+Not in room
+
+[PVZ_ERROR_76072]
+Not in betting phase
+
+[PVZ_ERROR_76073]
+Invalid support side
+
+[PVZ_ERROR_76074]
+Already bet this round
+
+[PVZ_ERROR_76075]
+All-In not yet available
+
+[PVZ_ERROR_76076]
+Not in battle phase
+
+[PVZ_ERROR_76077]
+Round mismatch
+
+[PVZ_ERROR_76078]
+Invalid winner
+
+[PVZ_ERROR_76079]
+Result verification failed
+
+[PVZ_ERROR_76080]
+Player data not found
+
+[PVZ_ERROR_76081]
+No milestone rewards to claim
+
+[PVZ_ERROR_76082]
+Cannot leave during a match
+
+[PVZ_ERROR_76083]
+Invalid emoji ID
+
+[PVZ_ERROR_76084]
+ZVZ world configuration insufficient
+
+[PVZ_ERROR_76085]
+Request too frequent
+
+[PVZ_ERROR_76086]
+Matchmaking disabled today
+
+[PVZ_ERROR_76087]
+Insufficient points to bet
+
+[DAVECUP_DESCRIPTION_TITLE]
+Dave's Cup Info
+
+[DAVECUP_DESCRIPTION]
+1. Gameplay Overview: Each match pits 8 players against each other across 8 rounds of auto-battle predictions. Each player starts with 10,000 points. After the match ends, players are ranked based on their final total points.
+2. Match Phases: Before each round, players have 20 seconds to observe both sides' lineups. Players must spend the round's standard points to predict a winner by supporting either the [Left] or [Right] side. Rounds 6 to 8 unlock the "All-In" option, allowing players to wager all their points. If the timer runs out without a choice, the system will randomly select a side. If a player lacks sufficient points for the round's requirement, they will be forced to go "All-In" and wager all their remaining points.
+3. Winner Determination: Odd-numbered rounds are "Plants Defense vs. Zombies Offense." Zombies win if they break through the line or eliminate all plants; otherwise, Plants win. Even-numbered rounds are "Zombies vs. Zombies." The side that first breaks through the opponent's line or eliminates all opponents wins.
+4. Extra Buffs: The "Cheering Buff" is active throughout the match: all units gain 50% movement and attack speed at the start, which surges to 100% after 20 seconds! If combat reaches 60 seconds, the field enters "High-Temperature Injury Time": all units lose 6% of their max HP per second due to scorching heat.
+5. Event Rewards: After the match, [Milestone Points] are awarded based on final point rankings. Accumulating points increases your Milestone Level, unlocking tiered rewards.
+
+[ZOMBIE_SPORTZBALL_IMP]
+Soccer Imp Zombie
+
+[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION_HEADER]
+Turns into a soccer ball after death. Can be knocked away by plants to bounce into other zombies.
+
+[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION]
+Soccer Imp always dreamed of "mingling" with everyone. Ever since he stuffed himself into a ball, that dream was half fulfilled — he certainly flies around the field a lot, just not in the way he imagined (it's usually by getting knocked away).
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR]
+Soccer Gargantuar
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION_HEADER]
+Shoots a Soccer Imp when HP drops below 50%. When hitting a soccer ball, he kicks it away with fury.
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION]
+He used to be a referee for a professional soccer team, until he discovered that taking out forwards with the goalpost was way more effective than blowing a whistle. Now he just wants to score a brilliant "hat trick" on the plants' back line.
+
+[DAVECUP_HEAD_ID_25889]
+Soccer Prodigy
+
+[DAVECUP_HEAD_DES_ID_25889]
+Dave's Cup Milestone Reward
 
 [PVZ2_CHINESE_END]
