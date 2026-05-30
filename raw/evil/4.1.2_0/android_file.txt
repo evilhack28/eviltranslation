@@ -78318,7 +78318,7 @@ Children's Playpark - Day 10
 Children's Playpark (hard) - Day 1
 
 [CHILDRENDAY_LEVEL_NAME_02_H]
-Children's Playpark (hard) - Dayy 2
+Children's Playpark (hard) - Day 2
 
 [CHILDRENDAY_LEVEL_NAME_03_H]
 Children's Playpark (hard) - Day 3
