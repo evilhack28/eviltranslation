@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.1.2 server 1)
-Version          ： 4.1.2_0
+File Version     ： Text-based (4.1.5 server 1)
+Version          ： 4.1.5_0
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -47,8 +47,8 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======4.1.2_0======
-Added 4.1.2 Text
+======4.1.5_0======
+Added 4.1.5 Text
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
@@ -58,70 +58,70 @@ Added 4.1.2 Text
 
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 July 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 July 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 July 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 July 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 July 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 30 May 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 1 July 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
 ^00FFFF  Don't forget to check your mail!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_7]
 ^00FFFF  Huge thanks to @devourdoom who translated the new zombie
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.2_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.5_0)
 
 
 
@@ -3428,6 +3428,79 @@ Effect 1： Upon planting, attack power increases by 60%; After 3 seconds, attac
 Effect 2： Planting cooldown time is reduced by 30%.
 Effect 3： Sun cost is reduced by 35.
 
+[HEAVY_SHACKLES]
+Crude Energy-Suppressing Chain
+
+[HEAVY_SHACKLES_DES]
+A magical chain that suppresses raging power when equipped.
+
+[HEAVY_SHACKLES_BOOST_DES]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 15% ATK/DEF boost for 6 seconds
+Effect 2: 5% chance to reset the plant's planting cooldown
+Effect 3: Locked
+
+[HEAVY_SHACKLES_BOOST_DES_1]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 20% ATK/DEF boost for 6 seconds
+Effect 2: 8% chance to reset the plant's planting cooldown
+Effect 3: Locked
+
+[HEAVY_SHACKLES_BOOST_DES_2]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 25% ATK/DEF boost for 6 seconds
+Effect 2: 11% chance to reset the plant's planting cooldown
+Effect 3: Locked
+
+[HEAVY_SHACKLES_BOOST_DES_3]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 30% ATK/DEF boost for 6 seconds
+Effect 2: 14% chance to reset the plant's planting cooldown
+Effect 3: Refunds 10% of the Sun cost upon planting
+
+[HEAVY_SHACKLES_BOOST_DES_4]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 35% ATK/DEF boost for 6 seconds
+Effect 2: 17% chance to reset the plant's planting cooldown
+Effect 3: Refunds 13% of the Sun cost upon planting
+
+[HEAVY_SHACKLES_BOOST_DES_5]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 40% ATK/DEF boost for 6 seconds
+Effect 2: 20% chance to reset the plant's planting cooldown
+Effect 3: Refunds 16% of the Sun cost upon planting
+
+[MITHRIL_SHACKLES]
+Refined Energy-Suppressing Chain
+
+[MITHRIL_SHACKLES_DES]
+It tempers sharpness and strength into calm wisdom.
+
+[MITHRIL_SHACKLES_BOOST_DES]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 25% ATK/DEF boost for 6 seconds
+Effect 2: 10% chance to reset the plant's planting cooldown
+Effect 3: Locked
+
+[MITHRIL_SHACKLES_BOOST_DES_1]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 40% ATK/DEF boost for 6 seconds
+Effect 2: 16% chance to reset the plant's planting cooldown
+Effect 3: Locked
+
+[MITHRIL_SHACKLES_BOOST_DES_2]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 55% ATK/DEF boost for 6 seconds
+Effect 2: 19% chance to reset the plant's planting cooldown
+Effect 3: Locked
+
+[MITHRIL_SHACKLES_BOOST_DES_3]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 70% ATK/DEF boost for 6 seconds
+Effect 2: 25% chance to reset the plant's planting cooldown
+Effect 3: Refunds 10% of the Sun cost upon planting
+
+[MITHRIL_SHACKLES_BOOST_DES_4]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 85% ATK/DEF boost for 6 seconds
+Effect 2: 31% chance to reset the plant's planting cooldown
+Effect 3: Refunds 15% of the Sun cost upon planting
+
+[MITHRIL_SHACKLES_BOOST_DES_5]
+Effect 1: Replaces the triggered Tier 4 Ability Awaken with a 100% ATK/DEF boost for 6 seconds
+Effect 2: 37% chance to reset the plant's planting cooldown
+Effect 3: Refunds 20% of the Sun cost upon planting
+
+
 [BOSS_CHALLENGE_HEAD_ID_25003]
 Anniversary Champion Avatar
 
@@ -4159,6 +4232,12 @@ Shining Etiquette
 [LEVEL_EDITOR_HEAD_DES_ID_25847]
 Limited edition avatar from the Prismatic Customization event.
 
+[LEVEL_EDITOR_HEAD_ID_25897]
+星夜好眠
+
+[LEVEL_EDITOR_HEAD_DES_ID_25897]
+幻彩定制活动限定头像
+
 [LEVEL_EDITOR_HEAD_ID_25777]
 Fruitful Harvest
 
@@ -4206,6 +4285,18 @@ Tonight's digital "pickled vegetable" snack is secured!
 
 [LEVEL_EDITOR_HEAD_DES_ID_25880]
 若是不知前路在何处，不妨随着风走吧
+
+[LEVEL_EDITOR_HEAD_ID_25901]
+积木行军
+
+[LEVEL_EDITOR_HEAD_DES_ID_25901]
+这步棋对吗？对的对的！哦~不对不对！
+
+[LEVEL_EDITOR_HEAD_ID_25903]
+彩绘世界
+
+[LEVEL_EDITOR_HEAD_DES_ID_25903]
+笔落处色散，杆停时界成
 
 [QUESTIONNAIRE_HEAD_ID_25840]
 Traces Along the Silk Road
@@ -4333,6 +4424,18 @@ Real or Fake Potato
 [SUMMER_MEMORIES_HEAD_DES_ID_25841]
 To players journeying through memories.
 Season 23
+
+[SUMMER_MEMORIES_HEAD_ID_25900]
+奇幻包菜
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25900]
+致在回忆之旅中一同前行的玩家
+
+[SUMMER_MEMORIES_HEAD_ID_25902]
+夏日浪行
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25902]
+致在回忆之旅中一同前行的玩家
 
 [PARTYEPSACTIVITY_HEAD_ID_25572]
 Party Orchid Mage
@@ -4533,6 +4636,12 @@ Western Regions Chant
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25867]
 Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
+
+[NEWYEAR_GIFT_HEAD_ID_25896]
+湖清绽莲
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25896]
+在庆典礼包活动期间，达到活动中累计充值进度领取
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev! 
@@ -20543,7 +20652,101 @@ Twins Mao Rabbit Growth Gift Outfit
 [NEW_AVATAR_DESCRIPTION_JEWELRABBIT_1]
 Planting cooldown reduced by 10%
 
+[NEW_AVATAR_SHORT_DESCRIPTION_CROWNFLOWER_4]
+Laser Crown Flower's Twilight Soul Lantern Costume
 
+[NEW_AVATAR_DESCRIPTION_CROWNFLOWER_4]
+Damage increased by 40%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_6]
+Sunflower's Sweet Dream Reflection Costume
+
+[NEW_AVATAR_DESCRIPTION_SUNFLOWER_6]
+Sun production speed increased by 30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_2]
+Hoya Heart's Noodles and Soup All Around
+
+[NEW_AVATAR_DESCRIPTION_HOYACORDATA_2]
+Encore chance increased by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SCAREDYSHROOM_2]
+Scaredy-shroom's Starry Night Companion Costume
+
+[NEW_AVATAR_DESCRIPTION_SCAREDYSHROOM_2]
+Damage increased by 25%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SCAREDYSHROOM_3]
+Scaredy-shroom's Starry Night Companion – Iridescent Dream Costume
+
+[NEW_AVATAR_DESCRIPTION_SCAREDYSHROOM_3]
+Damage increased by 25%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DUCKPEAR_3]
+Duck Pear's Forgotten King Costume
+
+[NEW_AVATAR_DESCRIPTION_DUCKPEAR_3]
+Sun cost reduced by 45
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GLACIERSHROOM_1]
+Ice-shroom's White Beard Costume
+
+[NEW_AVATAR_DESCRIPTION_GLACIERSHROOM_1]
+Damage increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FLAMELADY_1]
+Flame Flower Queen's Clockwork Costume
+
+[NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
+Damage increased by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_METEORFLOWER_1]
+Meteor Flower's Demon Disguise Costume
+
+[NEW_AVATAR_DESCRIPTION_METEORFLOWER_1]
+Attack speed increased by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDMAGNET_1]
+Gold Magnet's Ruff Collar Costume
+
+[NEW_AVATAR_DESCRIPTION_GOLDMAGNET_1]
+Sun cost reduced by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_UMBRELLALEAF_1]
+Umbrella Leaf's Triple-Umbrella Costume
+
+[NEW_AVATAR_DESCRIPTION_UMBRELLALEAF_1]
+HP increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_STARFRUIT_2]
+Starfruit's Angel Disguise Costume
+
+[NEW_AVATAR_DESCRIPTION_STARFRUIT_2]
+Damage increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_4]
+Twin Sunflower's Fork-and-Knife Costume
+
+[NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_4]
+Sun cost reduced by 20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LEVITATER_1]
+Levitater's Space Potato Costume
+
+[NEW_AVATAR_DESCRIPTION_LEVITATER_1]
+Attack cooldown reduced by 20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_APSARLOTUS_1]
+Auspicious Cloud Lotus' Bow Costume
+
+[NEW_AVATAR_DESCRIPTION_APSARLOTUS_1]
+Planting cooldown reduced by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_RIFLEBAMBOO_1]
+Bamboo Trooper's Traffic Cone Costume
+
+[NEW_AVATAR_DESCRIPTION_RIFLEBAMBOO_1]
+Damage increased by 15%
 
 
 
@@ -26251,6 +26454,75 @@ Levitaters levitate random zombies.
 [SOLARSAGE_AVATAR_PLANTFOOD_DESCRIPTION]
 可额外将3x3范围内死亡的植物与5秒内死亡的僵尸全部复活
 
+
+
+[PINECLONE]
+复制松果
+
+[PINECLONE_DESCRIPTION]
+{KEYWORD}范围：{STAT}单行
+{KEYWORD}特点：{STAT}克隆自身或其他植物复制体
+{KEYWORD}植物特征：{STAT}棕色植物
+{FLAVOR}并非针对谁，她只是更乐意和其他松果克隆体待在一起罢了
+
+[PINECLONE_DESCRIPTION_HEADER]
+直线发射子弹，命中产生X型激光
+
+[PINECLONE_TOOLTIP]
+直线发射子弹，命中产生X型激光
+
+[PINECLONE_PRODUCT_SHORT_DESC]
+直线发射子弹，命中产生X型激光
+
+[PINECLONE_SKILL_LEVEL1]
+活性增强
+
+[PINECLONE_SKILL_LEVEL1_DES]
+松果克隆体为本体植物的40%，同时，临时转化植物 攻防属性提升至被转换植物本体攻防属性的40%
+
+[PINECLONE_SKILL_LEVEL2]
+基因范例
+
+[PINECLONE_SKILL_LEVEL2_DES]
+松果克隆体为本体植物的60%，同时，临时转化植物 攻防属性提升至被转换植物本体攻防属性的60%
+
+[PINECLONE_SKILL_LEVEL5]
+基因重塑
+
+[PINECLONE_SKILL_LEVEL5_DES]
+叠种于已有植物时，3X3范围内的空缺位置由松果克隆体补齐
+
+[PINECLONE_AVATAR_NAME]
+复制松果装扮
+
+[STORE_PRODUCT_AVATAR_PINECLONE]
+使用能量豆大招时每个与其同名的克隆体会发射能量光球，为其提供 +10% 攻击力加成，持续 3 秒。克隆植物释放大招时，恢复至完整状态
+
+[STORE_PRODUCT_AVATAR_PINECLONE_TITLE]
+复制松果装扮
+
+[PINECLONE_NEW_SKILL_LEVEL1_DES]
+种植于空地：3X3 范围内的可种植空格区域生成松果克隆体；叠种于已有植物：3X3 范围内所有植物临时变为本体植物的克隆体；
+
+[PINECLONE_NEW_SKILL_LEVEL2_DES]
+松果克隆体为本体植物的40%，同时，临时转化植物 攻防属性提升至被转换植物本体攻防属性的40%
+
+[PINECLONE_NEW_SKILL_LEVEL3_DES]
+松果克隆体为本体植物的60%，同时，临时转化植物 攻防属性提升至被转换植物本体攻防属性的60%
+
+[PINECLONE_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招
+
+[PINECLONE_NEW_SKILL_LEVEL5_DES]
+叠种于已有植物时，3X3范围内的空缺位置由松果克隆体补齐
+
+[PINECLONE_PLANTFOOD_DESCRIPTION]
+复制松果沿着DNA形路径倾泻大量子弹
+
+[PINECLONE_AVATAR_PLANTFOOD_DESCRIPTION]
+使用能量豆大招时每个与其同名的克隆体会发射能量光球，为其提供 +10% 攻击力加成，持续 3 秒。克隆植物释放大招时，恢复至完整状态
+
+
 [Plants_End]
 
 
@@ -27657,6 +27929,9 @@ POWER UPS
 [CHOOSER_SELECT_PLANTS]
 SELECT PLANTS
 
+[CHOOSER_SELECT_PLANTS_LEVEL]
+SELECT PLANTS LEVEL
+
 [CHOOSER_SHOW_COMPLETED_OBJECTIVE_HINTS]
 Show completed objective hints in levels.
 
@@ -28254,6 +28529,15 @@ Season 19
 [RANK_AVATAR_CONTENT_TITLE_61056]
 Abundance Year After Year
 
+[rank_avatar_diy_69]
+Tyrant Zombie
+
+[RANK_AVATAR_CONTENT_CONTENT_61066]
+Space-Time Rift Limited Reward
+
+[RANK_AVATAR_CONTENT_TITLE_61066]
+Tyrant Zombie
+
 [rank_avatar_diy_60]
 Spring Blooms
 
@@ -28592,6 +28876,12 @@ Double Festival Gifts
 
 [RANK_AVATAR_CONTENT_CONTENT_61054]
 Rewards for players participating in the January Co-op event in 2026.
+
+[RANK_AVATAR_CONTENT_TITLE_61065]
+Scorching Summer
+
+[RANK_AVATAR_CONTENT_CONTENT_61065]
+Rewards for players participating in the July Co-op event in 2026.
 
 [RANK_AVATAR_BTN_CHANGE]
 Replace
@@ -30443,6 +30733,15 @@ Off-Lawn Zombie Speed-Up
 
 [OPTIONS_SKIP_SPEEDCHANGE_EFFECT]
 Skip Speed-Up Flash Effect
+
+[OPTIONS_SKIP_NEXT_WAVE]
+Auto-Advance Next Wave
+
+[OPTIONS_BATTLE_TAB]
+Combat
+
+[OPTIONS_MUSIC_TAB]
+Audio
 
 [OUT_OF_CONTENT_CONFIRM]
 DOWNLOAD NOW
@@ -32327,6 +32626,9 @@ Single grid
 [AREA_SINGLE]
 Single
 
+[AREA_X]
+X Pattern
+
 [STORE_BEST_DEAL]
 BEST DEAL
 
@@ -32963,7 +33265,7 @@ Coins
 [LUCKYCHEST_DES_DESCRIPTION]
 666. sorry i really need to remove text ：(
 
-1. Event：May 1 to June 25. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event：June 2 to June 26. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -38063,6 +38365,13 @@ Enhanced Penetration
 [STARFRUIT_SKILL1_LEVEL2_DES]
 Allows the energy dart to penetrate an additional zombie.
 
+[STARFRUIT_SKILL1_LEVEL5]
+引路星
+
+[STARFRUIT_SKILL1_LEVEL5_DES]
+每次攻击有20%概率额外发射一颗引路星，引路星会点亮路径上最多3棵星星果或天使星星果，使其下一次攻击时额外发射巨星造成大量伤害。
+
+
 [CARROTLAUNCHER_SKILL1_LEVEL1]
 Rapid Fire
 
@@ -41302,7 +41611,7 @@ Everyone opens red envelopes, and good gifts come and go!
 Colorful Dragon Boat Festival Lucky Zongzi
 
 [FESTIVAL_EVENT_TITLE_OLD]
-Summer Fest
+Summer Travelogue
 
 [FESTIVAL_EVENT_TITLE]
 Kids Fun Paradise
@@ -45106,7 +45415,7 @@ Daily Leaderboard Rewards
 Fun Competition Rule
 
 [MINIGAME_RULE_TXT]
-1. The Fun Competition runs from June 1, to June 13. A new mini-game is unlocked each day.
+1. The Fun Competition runs from August 8, to August 17. A new mini-game is unlocked each day.
 
 2. During the event, there is no daily challenge limit. Clearing a mini-game level rewards points and enhancement energy.
 
@@ -60059,7 +60368,7 @@ Please connect to the internet and try again.
 Boss Challenge Probability
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Scaredy-shroom Pieces
+Actinostemma Party Cannons Pieces
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Other Epic Plant Pieces
@@ -65339,20 +65648,20 @@ Boss HP Remaining: {VALUE}
 Boss Abilities
 
 [TEAM_BOSS_SKILL_DES_0]
-Skill 1: Tactical Summon
-Lets out a thunderous roar to call down beams of light that summon zombies onto the lawn.
+Skill 1: Roman Legion
+Summons Roman Shield Zombies or Gladiator Zombies. Don't let the Gladiator pick up speed — stop him as soon as possible!
 
 [TEAM_BOSS_SKILL_DES_1]
-Skill 2: Dazzling Fireworks
-Launches firework balls that explode after a short delay. Straight-shot and explosive plants can push these balls. If a firework ball collides with the BOSS, it will detonate instantly, dealing massive damage.
+Skill 2: War Horse Headbutt
+The war horse at the chariot's front performs a headbutt, dealing damage and control effects to plants in front.
 
 [TEAM_BOSS_SKILL_DES_2]
-Skill 3: The Aura that Swallows Ten-Thousand Treasures
-Inhales powerfully, column by column, across the three lanes directly in front of it. Swallowing explosive or red-flame plants will instead deal massive damage to the BOSS.
+Skill 3: Roman Charge
+Charges forward after a brief wind-up. Planting invincible plants or using Plant Food abilities at the right moment can stop the charge.
 
 [TEAM_BOSS_SKILL_DES_3]
-Skill 4: Blazing Mode
-After the battle has lasted for a while, the BOSS enters Blazing Mode. In this state, it summons enhanced zombies at a much higher frequency and gains strengthened abilities. However, even Dr. Zomboss must pay a price for this power—while Blazing Mode is active, the BOSS becomes more vulnerable. High risk, high reward.
+Skill 4: Legion Fire
+Unleashes a firewall that spreads toward plants. When enraged, the Zomboss releases a more destructive crimson legion fire. Consider digging a "firebreak" or using ice- or water-type plants to extinguish it...
 
 [TEAM_BOSS_HEALTH_PERCENT_TEXT]
 100%
@@ -65403,13 +65712,13 @@ Penny Lottery
 Penny Lottery Description
 
 [SECRET_GACHA_OVERVIEW_CONTENT]
-1. Made by evilhack28 (i wish you luuuuuuck and great open)
-2. Chest Single Draw Coupons can be obtained through cumulative recharge and other activities. Single Draw Coupons can be used as consumables for single draws.
-3. If players have Single Draw Coupons, they will be used first.Players can spend Gems to purchase additional open
-4. Players can click the Plant Wishlist button in the lower right corner to replace the desired grand prize plant.
-5. After replacing the desired plant, the grand prize plant will be the newly specified plant, with a separate prize pool.
-6. The grand prize plant refreshes automatically every day. Plants that have been refreshed will not be in the replaceable plant list. Be sure to draw in time when you see the desired plant!
-7. Besides Gems and plant rewards, other reward in the prize pool are for display purposes only and do not include all rewards.
+1. Players can use Secret Vouchers to draw rewards: Single Draw costs 1 Voucher; 10-Draw costs 10 Vouchers.
+2. Single-draw Vouchers can be obtained through cumulative recharge and other events. They can be used as consumables for Single Draws.
+3. Single-draw Vouchers are used first. When depleted, Diamonds can be spent to purchase more for draws.
+4. The plant jackpot has a Default Prize Plant and a Wish Prize Plant. If no wish is selected, the jackpot defaults to the Default Prize Plant.
+5. The Default Prize Plant refreshes automatically each day and cannot be replaced from the wish list. If you spot a desired plant, remember to draw in time!
+6. Tap the Plant Wish button in the bottom-right corner to select a plant from the wish list to replace the Default Prize Plant. The replacement becomes the new jackpot plant with its own separate pool.
+7. Aside from Diamond and plant rewards, other reward bubbles in the pool are for display purposes only and do not include all rewards.
 
 [SECRET_GACHA_TITLE]
 Probability
@@ -74158,7 +74467,7 @@ Fairy Tale Bubbles
 Cool and Sweet
 
 [S30_MEMORY_LEVEL_NAME_056]
-Drifting Through Turns
+Crab Migration
 
 [S30_MEMORY_LEVEL_NAME_057]
 Breaststroke and Butterfly
@@ -74189,6 +74498,12 @@ Childhood Stroller 2
 
 [S30_MEMORY_LEVEL_NAME_BOSS_8]
 Sports Conqueror
+
+[S30_MEMORY_LEVEL_NAME_BOSS_5]
+Volcano Voyager
+
+[S30_MEMORY_LEVEL_NAME_BOSS_6]
+Childhood Stroller
 
 [S31_MEMORY_LEVEL_NAME_BOSS_1]
 Vulture Sky-Ripper
@@ -74241,11 +74556,302 @@ Open All Day
 [S31_MEMORY_LEVEL_NAME_016]
 Popcorn Party
 
-[S30_MEMORY_LEVEL_NAME_BOSS_5]
-Volcano Voyager
+[S31_MEMORY_LEVEL_NAME_1]
+Golden City
 
-[S30_MEMORY_LEVEL_NAME_BOSS_6]
-Childhood Stroller
+[S31_MEMORY_LEVEL_NAME_2]
+First Movement
+
+[S31_MEMORY_LEVEL_NAME_3]
+Target of All
+
+[S31_MEMORY_LEVEL_NAME_4]
+Look Forward and Back
+
+[S31_MEMORY_LEVEL_NAME_5]
+Three Feet of Ice
+
+[S31_MEMORY_LEVEL_NAME_6]
+Purifying Flame
+
+[S31_MEMORY_LEVEL_NAME_7]
+Renovation Plan
+
+[S31_MEMORY_LEVEL_NAME_8]
+Sports Feast
+
+[S31_MEMORY_LEVEL_NAME_9]
+Turn Enemies into Friends
+
+[S31_MEMORY_LEVEL_NAME_10]
+Ice Guardian
+
+[S31_MEMORY_LEVEL_NAME_11]
+The Final Journey
+
+[S31_MEMORY_LEVEL_NAME_12]
+Gates of the Underworld
+
+[S31_MEMORY_LEVEL_NAME_13]
+Clash of Light and Dark
+
+[S31_MEMORY_LEVEL_NAME_14]
+Mushroomless Night
+
+[S31_MEMORY_LEVEL_NAME_15]
+Sheep into the Tiger's Mouth
+
+[S31_MEMORY_LEVEL_NAME_16]
+Twin Prong Attack
+
+[S31_MEMORY_LEVEL_NAME_017]
+Scorching Summer
+
+[S31_MEMORY_LEVEL_NAME_018]
+Waterfront Overlord
+
+[S31_MEMORY_LEVEL_NAME_019]
+Duck's Journey
+
+[S31_MEMORY_LEVEL_NAME_020]
+Greedy Avocado
+
+[S31_MEMORY_LEVEL_NAME_021]
+Beach Vacation
+
+[S31_MEMORY_LEVEL_NAME_022]
+Fishing Time
+
+[S31_MEMORY_LEVEL_NAME_023]
+Stranded Beach
+
+[S31_MEMORY_LEVEL_NAME_024]
+Underwater Invasion
+
+[S31_MEMORY_LEVEL_NAME_025]
+Pyramid of Doom
+
+[S31_MEMORY_LEVEL_NAME_026]
+Treasure of the Undead
+
+[S31_MEMORY_LEVEL_NAME_027]
+Desolate Mine
+
+[S31_MEMORY_LEVEL_NAME_028]
+Monks Assemble
+
+[S31_MEMORY_LEVEL_NAME_029]
+Fear of Tomorrow
+
+[S31_MEMORY_LEVEL_NAME_030]
+Ruins Explorer
+
+[S31_MEMORY_LEVEL_NAME_031]
+Frozen Ancient Battlefield
+
+[S31_MEMORY_LEVEL_NAME_032]
+Dangerous Highway
+
+[S31_MEMORY_LEVEL_NAME_033]
+Athlete
+
+[S31_MEMORY_LEVEL_NAME_034]
+Knock Them Away
+
+[S31_MEMORY_LEVEL_NAME_035]
+Control Master
+
+[S31_MEMORY_LEVEL_NAME_036]
+Chinese Zodiac
+
+[S31_MEMORY_LEVEL_NAME_037]
+Let's Dance
+
+[S31_MEMORY_LEVEL_NAME_038]
+Blooming Flowers
+
+[S31_MEMORY_LEVEL_NAME_039]
+Interwoven Light and Dark
+
+[S31_MEMORY_LEVEL_NAME_040]
+Animal World
+
+[S31_MEMORY_LEVEL_NAME_041]
+pH Value Crisis - Day 1
+
+[S31_MEMORY_LEVEL_NAME_042]
+pH Value Crisis - Day 2
+
+[S31_MEMORY_LEVEL_NAME_049]
+pH Value Crisis - Day 3
+
+[S31_MEMORY_LEVEL_NAME_044]
+pH Value Crisis - Day 4
+
+[S31_MEMORY_LEVEL_NAME_045]
+pH Value Crisis - Day 5
+
+[S31_MEMORY_LEVEL_NAME_046]
+pH Value Crisis - Day 6
+
+[S31_MEMORY_LEVEL_NAME_047]
+pH Value Crisis - Day 7
+
+[S31_MEMORY_LEVEL_NAME_048]
+pH Value Crisis - Day 8
+
+[S31_MEMORY_LEVEL_NAME_BOSS_2]
+Memory Tamperer
+
+[S31_MEMORY_LEVEL_NAME_BOSS_3]
+Tidal Colossus
+
+[S31_MEMORY_LEVEL_NAME_BOSS_4]
+Nightmare Bringer
+
+[S31_MEMORY_LEVEL_NAME_BOSS_5]
+Moonlit Raider
+
+[S31_MEMORY_LEVEL_NAME_BOSS_9]
+Roman Zomboss Battle
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Have you ever wondered what it would be like if all zombies were giants?
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_2]
+{SAY:CRAZYDAVE}They wouldn't be interested in my taco, would they?
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_3]
+{SAY:WINNIE}User Dave, they're only interested in squashing plants, not your taco.
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_4]
+{SAY:CRAZYDAVE}That's a relief... wait, that actually sounds worse!
+
+[NARRATIVE_PVZ1_S31_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The zombies have challenged us to a dance battle again.
+
+[NARRATIVE_PVZ1_S31_2_H_INTRO_2]
+{SAY:CRAZYDAVE}They said "loser must hide in a hole."
+
+[NARRATIVE_PVZ1_S31_2_H_INTRO_3]
+{SAY:WINNIE}Curse detected! Once defeated, pits will actually appear on the ground.
+
+[NARRATIVE_PVZ1_S31_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Those Sunflowers are sending out an SOS signal!
+
+[NARRATIVE_PVZ1_S31_3_H_INTRO_2]
+{SAY:WINNIE}We've arrived at the origin of the Plant Rescue Mission.
+
+[NARRATIVE_PVZ1_S31_3_H_INTRO_3]
+{SAY:WINNIE}If this mission fails, history will change drastically.
+
+[NARRATIVE_PVZ1_S31_5_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}As the saying goes: "Three feet of ice never forms in a single day."
+
+[NARRATIVE_PVZ1_S31_5_H_INTRO_2]
+{SAY:CRAZYDAVE}Were these zombies frozen since the Ice Age?
+
+[NARRATIVE_PVZ1_S31_5_H_INTRO_3]
+{SAY:WINNIE}We might have to worry about becoming popsicles ourselves.
+
+[NARRATIVE_PVZ1_S31_6_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The flame trap tiles look like an open-air barbecue.
+
+[NARRATIVE_PVZ1_S31_6_H_INTRO_2]
+{SAY:WINNIE}Cooking zombies is all about timing and heat — and making sure you don't catch fire yourself.
+
+[NARRATIVE_PVZ1_S31_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}I need to complete my collection of Gargantuar trophies.
+
+[NARRATIVE_PVZ1_S31_7_H_INTRO_2]
+{SAY:WINNIE}You can use those zombie modification devices. Just wait patiently for some volunteers.
+
+[NARRATIVE_PVZ1_S31_8_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}How dare you hold a sports event right under the nose of the great Roman Zombie Legion!
+
+[NARRATIVE_PVZ1_S31_8_H_INTRO_2]
+{SAY:ZOMBOSSICON}The Terminators of Olympus will make you pay for your insolence!
+
+[NARRATIVE_PVZ1_S31_8_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}I sense some passionate crowd interaction about to erupt.
+
+[NARRATIVE_PVZ1_S31_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Will charmed zombies still damage flower beds?
+
+[NARRATIVE_PVZ1_S31_9_H_INTRO_2]
+{SAY:WINNIE}No, they'll actually become your helpful allies.
+
+[NARRATIVE_PVZ1_S31_9_H_INTRO_3]
+{SAY:CRAZYDAVE}That's great! I love watching zombies fight each other!
+
+[NARRATIVE_PVZ1_S31_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Our sun system has been hacked. Maximum sun is limited to 50.
+
+[NARRATIVE_PVZ1_S31_10_H_INTRO_2]
+{SAY:CRAZYDAVE}Time to let our new friend shine!
+
+[NARRATIVE_PVZ1_S31_10_H_INTRO_3]
+{SAY:WINNIE}Don't forget to bring Plantern. Zombies seem to have gained invisibility abilities.
+
+[NARRATIVE_PVZ1_S31_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The Avocados are ready to roll in the warning zone.
+
+[NARRATIVE_PVZ1_S31_11_H_INTRO_2]
+{SAY:WINNIE}Those Avocados are important to us. Don't let the zombies touch them, Dave.
+
+[NARRATIVE_PVZ1_S31_11_H_INTRO_3]
+{SAY:CRAZYDAVE}Then let's make sure this Avocado run isn't the last one!
+
+[NARRATIVE_PVZ1_S31_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The tomb is dark and damp. What kind of plants would like it here?
+
+[NARRATIVE_PVZ1_S31_12_H_INTRO_2]
+{SAY:WINNIE}Based on the environment, we may get some unexpected reinforcements soon.
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}I have a bad feeling about this. The zombies have been buffed to epic levels.
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_2]
+{SAY:WINNIE}Shadow plants have great potential. Plan your sun and firepower distribution wisely.
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_3]
+{SAY:WINNIE}Let's complete this classic challenge worthy of history books!
+
+[NARRATIVE_PVZ1_S31_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Where did all the mushrooms go?
+
+[NARRATIVE_PVZ1_S31_14_H_INTRO_2]
+{SAY:WINNIE}Looks like we'll have to rely on these Oak Archers.
+
+[NARRATIVE_PVZ1_S31_14_H_INTRO_3]
+{SAY:WINNIE}These sharpshooters only do one thing — shoot whatever they can see!
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Have you ever wondered who made that treasure map?
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_2]
+{SAY:ZOMBOSSICON}Now, the real treasure hunters are coming for the prize!
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}If there's an X marked on the ground, treasure must be nearby.
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_4]
+{SAY:WINNIE}User Dave, we've been tricked — we ARE the treasure!
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}One plant is all I need to deal with those zombies.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_2]
+{SAY:WINNIE}Unknown signal detected, User Dave!
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_3]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Arrogant fool, I will cut you down!
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_4]
+{SAY:CRAZYDAVE}He sure sounds intimidating.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_5]
+{SAY:WINNIE}He might actually be researching something terrifying. We must be careful.
 
 [WARNING_SUPERFANIMP_DROP]
 Fan Frenzy!
@@ -83405,6 +84011,10 @@ Starfruit has a 40% chance to launch a star dart, which can penetrate 3 zombies 
 [STARFRUIT_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
 
+[STARFRUIT_NEW_SKILL_LEVEL5_DES]
+每次攻击有20%概率额外发射一颗引路星，引路星会点亮路径上最多3棵星星果或天使星星果，使其下一次攻击时额外发射巨星造成大量伤害。
+
+
 [STARFRUIT_PLANTFOOD_DESCRIPTION]
 Starfruit will shoot ten giant stars in five directions, each dealing 80 damage worth of damage to a single enemy.
 
@@ -84781,7 +85391,7 @@ Two-player duel  is online in 2023!  The highest ever you've ever achieved
 Plant Cultivation Purchase Restriction Pack
 
 [INVITATION_MAIN_TIPS_INFO]
-1. This event will run from February 9, 2025 to April 4, 2025.
+1. This event will run from July 2 to August 25
 2. After clearing the 6 day of the Mysterious Egypt, players can recruit others.
 3. During the event, you can earn tokens through recruitment tasks or daily sharing. These tokens can be used for recruitment draws to win great rewards. 
    After each event ends, the shop closes and excess tokens are recycled.
@@ -85024,7 +85634,7 @@ Currently selected less than {NUM} categories, unable to configure
 Future Gift Box Event Details
 
 [TOURISM_OCTOBER_TITLE]
-October Together
+July Co-op
 
 [TOURISM_OCTOBER_DEFAULT_TEXT2]
 Already in a team, does not meet the requirements to fill in.
@@ -85585,10 +86195,10 @@ Used to buy items in Penny's Future Gift Box
 From Penny's Future Gift Box coin packs
 
 [MAT_LUCKYCHEST]
-Lucky Chest Season 4
+Lucky Chest Season 8
 
 [MAT_LUCKYCHEST_USE]
-Open for random rewards May 1 to June 25.
+Open for random rewards July 2 to August 26.
 
 [MAT_LUCKYCHEST_GOT_WAY]
 From Lucky Chest event or weekly packs
@@ -85611,6 +86221,9 @@ Ingot Tasks
 [NFS_LINKAGE_TAB2_8]
 Dunhuang Tasks
 
+[NFS_LINKAGE_TAB2_9]
+Summer Tasks
+
 [NFS_LINKAGE_TAB3]
 Reward Shop
 
@@ -85631,6 +86244,12 @@ Golden Ingot Battle Event Guide
 
 [NFSLINKAGE_DESCRIPTION_TITLE_7]
 Dunhuang Event Guide
+
+[NFSLINKAGE_DESCRIPTION_TITLE_8]
+Dunhuang Adventure Event Description
+
+[NFSLINKAGE_DESCRIPTION_TITLE_9]
+Cool Summer Event Description
 
 [NFSLINKAGE_DESCRIPTION_4]
 Event Rules：
@@ -85672,6 +86291,14 @@ Event Rules
 4. Completing Dunhuang by completing missions, exchange for rewards in the Store
 5. Remember to exchange before the event ends!
 
+[NFSLINKAGE_DESCRIPTION_9]
+Event Rules
+1. Log in daily during the event to claim premium rewards (14-day check-in)
+2. Ingot Tasks include Daily and Event tasks (resets at 0：00 daily)
+3. Event tasks have multiple stages - next stage unlocks after completing current one
+4. Completing Summer by completing missions, exchange for rewards in the Store
+5. Remember to exchange before the event ends!
+
 [NFSLINKAGE_TITLE_4]
 Speed Challenge
 
@@ -85686,6 +86313,9 @@ Golden Ingot Battle
 
 [NFSLINKAGE_TITLE_8]
 Dunhuang Adventure
+
+[NFSLINKAGE_TITLE_9]
+Cool Summer
 
 [MAT_NFSLINKAGE_TICKET_4]
 Gear
@@ -85702,6 +86332,9 @@ Golden Ingot
 [MAT_NFSLINKAGE_TICKET_8]
 Golden Cloud Beads
 
+[MAT_NFSLINKAGE_TICKET_9]
+Coconut Ball Drink
+
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Gears and exchange them for premium items!
 
@@ -85716,6 +86349,9 @@ During the event, log in daily for 14 days of rewards! Complete missions to earn
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_8]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Golden Cloud Beads and exchange them exclusive rewards!
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_8]
+During the event, log in daily for 14 days of rewards! Complete missions to earn Coconut Ball Drinks and exchange them exclusive rewards!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -86462,6 +87098,9 @@ Spectating
 [DAVECUP_SELECT_SUPPORT]
 Please select a team to support.
 
+[DAVECUP_WAITING]
+Both teams are entering the field...
+
 [MINIGAME_COLLECTION_TITLE]
 Fun Competition
 
@@ -86517,7 +87156,7 @@ Air Raid
 Enhancement Energy
 
 [GINGLEBELL_TITLE]
-Children's Day Jingle
+Jingle Bells
 
 [GINGLEBELL_TIPS]
 Event closed
@@ -86539,29 +87178,29 @@ Underground Palace's Jingle Bells Mechanics Introduction
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules：
-Special Mechanic： Attacking bumper cars does increase your score.
+Special Mechanic： Attacking hermit crabs does increase your score.
     1. All damage dealt to Scarecrow within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Drifting Through Turns, Ramming Rampage, Swaying Defense), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Crab Migration, Crab Rampage, Crab Ambush), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00：00-10：00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
-    6. Ranking rewards auto-distribute after 10：00. On June 17, extends to 24 hours (no challenges allowed).
+    6. Ranking rewards auto-distribute after 10：00. On July 17, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Bumper Cars are immune to all control effects. While moving, they instantly destroy any plants they collide with along their path.
+Giant Hermit Crab has a Poison Resilience Bar, which can only be broken with Poison-type attacks.
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-When a Bumper Car collides with a defensive plant or a plant in an invincible state, it immediately moves in the opposite direction and decreases its speed by 1 tier.
+Each time the Giant Hermit Crab’s Poison Resilience Bar is depleted, small dummy targets will randomly spawn within the 8 surrounding tiles. These small dummy targets have no special mechanics.
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Bumper Cars start in a high-speed state. In this state, they are immune to all damage and reflect all straight-shot projectiles traveling in their direction. In the medium-speed state, they remain immune to all incoming damage.
+Theme 1: Giant Hermit Crabs will move in a loop along a specified route, starting from the starting point, moving through each waypoint in order, and finally returning to the starting point.
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
-In the low-speed state, Bumper Cars take damage normally. In the stopped state, they take 300% damage for 5 seconds. After the duration ends, they return to the high-speed state
+Theme 2: Giant Hermit Crabs will move left and right within a certain range in the same row.
 
 [GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
-Theme 1: Bumper Cars move repeatedly along a designated route. Starting from the initial point, they travel through each waypoint in order before finally returning to the starting point
+Theme 3: Traditional dummy targets. Only a limited number of Giant Hermit Crabs will exist on the lawn, and they will not move.
 
 [GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
 Theme 2: Bumper Cars move left and right within a certain range on the same lane.
@@ -86714,100 +87353,100 @@ Tomb Jingle
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Drifting Through Turns - Level 1
+Crab Migration - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Drifting Through Turns - Level 2
+Crab Migration - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Drifting Through Turns - Level 3
+Crab Migration - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Drifting Through Turns - Level 1
+Crab Migration - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Drifting Through Turns - Level 2
+Crab Migration - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Drifting Through Turns - Level 3
+Crab Migration - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Swaying Defense - Level 1
+Crab Ambush - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Swaying Defense - Level 2
+Crab Ambush - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Swaying Defense - Level 3
+Crab Ambush - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Drifting Through Turns - Level 1
+Crab Migration - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Drifting Through Turns - Level 2
+Crab Migration - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Drifting Through Turns - Level 3
+Crab Migration - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Drifting Through Turns - Level 1
+Crab Migration - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Drifting Through Turns - Level 2
+Crab Migration - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Drifting Through Turns - Level 3
+Crab Migration - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Swaying Defense - Level 1
+Crab Ambush - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Swaying Defense - Level 2
+Crab Ambush - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Swaying Defense - Level 3
+Crab Ambush - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Drifting Through Turns - Level 1
+Crab Migration - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Drifting Through Turns - Level 2
+Crab Migration - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Drifting Through Turns - Level 3
+Crab Migration - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Ramming Rampage - Level 1
+Crab Rampage - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Ramming Rampage - Level 2
+Crab Rampage - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Ramming Rampage - Level 3
+Crab Rampage - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Swaying Defense - Level 1
+Crab Ambush - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Swaying Defense - Level 2
+Crab Ambush - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Swaying Defense - Level 3
+Crab Ambush - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge： Deal max damage within 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Drifting Through Turns - Level {LEVEL_NUMBER}
+Crab Migration - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Ramming Rampage - Level {LEVEL_NUMBER}
+Crab Rampage - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
 Strolls Through Spring Scenery - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s Trip to the Children's Day Jingle
+{PLAYER}'s Trip to Jingle Bells
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
 5 Blue Pendant Fragments (Selectable)
@@ -87601,6 +88240,12 @@ Shadow of the Demon
 [AVATARCOLLECTIONS_HEAD_DES_ID_25869]
 Abhor, hunt, and ultimately become a demon — such is the fate of every demon hunter.
 
+[AVATARCOLLECTIONS_HEAD_ID_25904]
+影焰燃灯
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25904]
+夜幕深处，点亮指引魂魄的冥灯
+
 [AVATARCOLLECTIONS_HEAD_ID_25808]
 Golden Saddle, Blessings for the New Year
 
@@ -87642,6 +88287,12 @@ Shadow of the Demon
 
 [AVATARCOLLECTIONS_THEME_DES22]
 Binding demons as shadows, hunting down the wicked.
+
+[AVATARCOLLECTIONS_THEME_TITLE23]
+影焰燃灯
+
+[AVATARCOLLECTIONS_THEME_DES23]
+燃魂之火，必以魂熄
 
 [AVATARCOLLECTIONS_NOT_EXIST]
 Not Owned
@@ -87760,6 +88411,12 @@ Abyssal Thriller
 [TOYS_HEAD_DES_ID_25865]
 Obtained by participating in the Western Demon Hunting Legend event.
 
+[TOYS_HEAD_ID_25895]
+暮夜诡火
+
+[TOYS_HEAD_DES_ID_25895]
+参与活动夜幕冥冥获得
+
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
 
@@ -87866,6 +88523,12 @@ Conquest Through Peace
 [HARVEST_BATTLE_HEAD_DES_ID_25839]
 Obtained by exchanging with Super Corn in the Farm Battle event.
 
+[HARVEST_BATTLE_HEAD_ID_25894]
+闪耀巨星
+
+[HARVEST_BATTLE_HEAD_DES_ID_25894]
+在农场大作战活动中，通过超级玉米兑换
+
 [TIANGONG_HEAD_ID_25712]
 DJ Aloe
 
@@ -87937,6 +88600,18 @@ Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure 
 魔力药剂
 
 [TIANGONG_HEAD_DES_ID_25879]
+在天宫寻宝活动中，累积抽取阶段奖励获取
+
+[TIANGONG_HEAD_ID_25890]
+一击倒地
+
+[TIANGONG_HEAD_DES_ID_25890]
+在天宫寻宝活动中，累积抽取阶段奖励获取
+
+[TIANGONG_HEAD_ID_25891]
+极地生菜
+
+[TIANGONG_HEAD_DES_ID_25891]
 在天宫寻宝活动中，累积抽取阶段奖励获取
 
 [PVP_ERROR_76030]
@@ -90578,5 +91253,34 @@ Soccer Prodigy
 
 [DAVECUP_HEAD_DES_ID_25889]
 Dave's Cup Milestone Reward
+
+[ZOMBIE_GLADIATOR_ZOMBIE]
+角斗士僵尸
+
+[ZOMBIE_GLADIATOR_ZOMBIE_DESCRIPTION_HEADER]
+每行走一段距离会发起冲锋，冲锋时可用盾牌格挡平射子弹，断臂后失去格挡能力。
+
+[ZOMBIE_GLADIATOR_ZOMBIE_DESCRIPTION]
+不知道啊...老大说前面有免费脑子领俺就过来了，结果一来就让俺往前冲呢。
+
+[ZOMBIE_ZOMBOSSMECH_HOT_RODICUS]
+炙热征服者
+
+[ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION_HEADER]
+古罗马史上最残暴无度的帝皇（错误历史）
+
+[ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION]
+“懦弱是最大的耻辱，在僵王博士的名号下，唯有前进！为我献上一切吧！”自从僵尸博士穿越到了古罗马时间线上后，他一直都想说这句台词。注：这句话改编自他偶像的至理名言，据说他的偶像很爱坐在马桶上发呆。
+
+[POINTSCHALLENGE_DESCRIPTION_TITLE]
+Event Rules
+
+[POINTSCHALLENGE_DESCRIPTION]
+Points Tournament
+1. Event Period: July 13 – August 9  The reward-claiming period for the final week is August 10 – August 12. 
+2. How to Earn Points: Participate in the five major modes: Penny’s Pursuit, Arena, Memory Lane, Two-Player Mode, and Endless Challenge. Increasing your progress in each mode will automatically be converted into challenge points. Each mode has a weekly point cap of 500 points. Each week, the 4 modes with the highest points will be automatically selected and added together as your Weekly Total Points. 
+3. Weekly Participation: Complete the specified tasks for each mode every week to accumulate Weekly Participation. Reaching the required participation milestones will unlock progress rewards. Participation tasks and progress reset every Monday at 0:00. (Note: All level-clear tasks must be completed within the current week to count.)
+4. Weekly Leaderboard: Every Sunday at 24:00, rankings will be calculated by percentile based on all players’ Weekly Total Points. 
+5. Ranking Rewards: After the weekly settlement, enter the event screen to automatically claim the ranking reward for your corresponding tier.
 
 [PVZ2_CHINESE_END]
