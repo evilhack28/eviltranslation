@@ -5156,6 +5156,18 @@ Crosses watery gaps without a plank and flies over low plants.
 
 {FLAVOR}Seagull Zombie has racked up the frequent flier miles and dreams of going to the top of colleges in the world on a cerebral gastronomy vacation
 
+[ZOMBIE_PELICAN]
+鹈鹕僵尸
+
+[ZOMBIE_PELICAN_DESCRIPTION]
+{KEYWORD}特点：{STAT}越过地刺和冰冻生菜等低矮植物
+{KEYWORD}弱点：{STAT}玉米投手的黄油能够直接击落鹈鹕僵尸
+
+{FLAVOR}鹈鹕僵尸已经成功达到了累计飞行里程积分，他现在正盘算着去世界顶级大学，享受一个脑子盛宴假期。
+
+[ZOMBIE_PELICAN_DESCRIPTION_HEADER]
+即使没有地板也能越过低矮的植物或者水面。
+
 [ZOMBIE_PIRATE_CAPTAIN_PARROT]
 Zombie Parrot
 
@@ -20668,7 +20680,13 @@ Sun production speed increased by 30%
 Hoya Heart's Noodles and Soup All Around
 
 [NEW_AVATAR_DESCRIPTION_HOYACORDATA_2]
-Encore chance increased by 10%
+Encore chance increased by 30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_3]
+Hoya Heart's Noodles and Soup All Around
+
+[NEW_AVATAR_DESCRIPTION_HOYACORDATA_3]
+Encore chance increased by 30%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SCAREDYSHROOM_2]
 Scaredy-shroom's Starry Night Companion Costume
@@ -68464,6 +68482,213 @@ Back
 [BUTTON_DISAGREE_CANCEL]
 Back
 
+[PLANT_BOND_TAG_ICE_NAME]
+Ice Bond Effect
+
+[PLANT_BOND_TAG_ICE_0]
+Every 7 seconds, 2 hailstones (1×1 range) drop at random positions on the field, dealing 500 damage and applying an 80% slow effect to hit zombies for 3 seconds.
+
+[PLANT_BOND_TAG_ICE_1]
+Hailstone count increased by 2. Hail impacts have a 15% chance to freeze the target for 2 seconds.
+
+[PLANT_BOND_TAG_ICE_2]
+Hailstone count increased by 2. Hail range expanded to 3×3.
+
+[PLANT_BOND_TAG_FLAME_NAME]
+Flame Bond Effect
+
+[PLANT_BOND_TAG_FLAME_0]
+Fire-type plants have a 25% chance to burn the target for 5 seconds on hit. Burn: Deals 120 damage per second and increases damage taken from fire-type plants by 25%.
+
+[PLANT_BOND_TAG_FLAME_1]
+Zombies killed by burn effects explode, dealing 500 damage to zombies within a 1×1 range.
+
+[PLANT_BOND_TAG_FLAME_2]
+Explosion range expanded to 3×3.
+
+[PLANT_BOND_TAG_PHYSICS_NAME]
+Physical Bond Effect
+
+[PLANT_BOND_TAG_PHYSICS_0]
+Each physical plant on the field increases physical plant attack power by 5%.
+
+[PLANT_BOND_TAG_PHYSICS_1]
+Each physical plant on the field increases all plant attack power by 10%.
+
+[PLANT_BOND_TAG_PHYSICS_2]
+Each physical plant on the field increases all plant attack power by 15% and attack speed by 5%.
+
+[PLANT_BOND_TAG_LIGHTNING_NAME]
+Lightning Bond Effect
+
+[PLANT_BOND_TAG_LIGHTNING_0]
+Electric-type plants have a 15% chance to paralyze the target for 1 second on hit.
+
+[PLANT_BOND_TAG_LIGHTNING_1]
+Paralysis trigger chance increased by 10%, and paralysis duration extended by 1 second.
+
+[PLANT_BOND_TAG_LIGHTNING_2]
+Paralyzed enemies have a 25% chance to spawn a 3×3 paralysis field under them. The field lasts 5 seconds, dealing 300 damage per second to zombies within range with a 15% chance to paralyze for 1 second.
+
+[PLANT_BOND_TAG_MAGIC_NAME]
+Magic Bond Effect
+
+[PLANT_BOND_TAG_MAGIC_0]
+Magic-type plants have a 15% chance to banish the target for 3 seconds on hit.
+
+[PLANT_BOND_TAG_MAGIC_1]
+Physical projectiles pierce through banished targets, dealing damage again to subsequent targets hit.
+
+[PLANT_BOND_TAG_MAGIC_2]
+Physical projectiles passing through banished zombies deal 30% increased damage.
+
+[PLANT_BOND_TAG_POISON_NAME]
+Poison Bond Effect
+
+[PLANT_BOND_TAG_POISON_0]
+Poison-type plants have a 15% chance to apply a 6-second Deadly Poison effect on hit. Deadly Poison: Deals 5% current health damage per second.
+
+[PLANT_BOND_TAG_POISON_1]
+Poisoned targets have their movement speed reduced by 50%.
+
+[PLANT_BOND_TAG_POISON_2]
+When a poisoned zombie dies, the poison spreads to the nearest zombie within a 3×3 range.
+
+[PLANT_BOND_PRO_ENERGY_NAME]
+Energy Bond Effect
+
+[PLANT_BOND_PRO_PEA_NAME]
+Pea Bond Effect
+
+[PLANT_BOND_PRO_PEA_0]
+Summons a 1-star Super Gatling Pea.
+
+[PLANT_BOND_PRO_PEA_1]
+Upgrades the 1-star Super Gatling Pea to a 2-star Flame Gatling Pea.
+
+[PLANT_BOND_PRO_PEA_2]
+Upgrades the 2-star Flame Gatling Pea to a 3-star Electric Gatling Pea. Plant Food ability gains an additional effect.
+
+[PLANT_BOND_PRO_RESILIENT_NAME]
+Resilient Bond Effect
+
+[PLANT_BOND_PRO_RESILIENT_0]
+Resilient-type plants have their max HP increased by 25%.
+
+[PLANT_BOND_PRO_RESILIENT_1]
+All plants have their max HP increased by 30%.
+
+[PLANT_BOND_PRO_RESILIENT_2]
+When a Resilient-type plant's HP reaches 0, it instantly recovers 50% of its max HP once per battle per plant.
+
+[PLANT_BOND_PRO_DRAGON_NAME]
+Dragon Grass Bond Effect
+
+[PLANT_BOND_PRO_DRAGON_0]
+Normal attacks have a chance to summon a Dragon Soul that impacts entire rows, dealing damage and applying special effects. After Gluttonous Dragon Grass finishes its normal attack, it has a chance to summon a Dragon Soul that continuously launches fireballs.
+
+[PLANT_BOND_PRO_DRAGON_1]
+Dragon Soul coverage expanded to 3 rows. Fireball damage range increased.
+
+[PLANT_BOND_PRO_SHROOM_NAME]
+Mushroom Bond Effect
+
+[PLANT_BOND_PRO_SHROOM_0]
+At battle start, mushrooms have a 20% chance to drop a spore into a random 3×3 tile around themselves. The spore produces 1 random mushroom plant card after battle and then disappears. Max 2 spores per battle.
+
+[PLANT_BOND_PRO_SHROOM_1]
+Spores have a low chance to produce special mushroom cards: Iceberg Lettuce and Doom-shroom.
+
+[PLANT_BOND_PRO_ABYSS_NAME]
+Abyss Bond Effect
+
+[PLANT_BOND_PRO_ABYSS_0]
+At battle end, each Abyss-type plant produces 5 Abyss Eye fragments. Max 40 fragments per battle. Each absorbed fragment accumulates 1 layer, changing the Abyss Eye's abilities.
+
+[PLANT_BOND_PRO_ABYSS_1]
+At battle end, each Abyss-type plant produces 10 Abyss Eye fragments. Max 60 fragments per battle. Each absorbed fragment accumulates 1 layer, changing the Abyss Eye's abilities.
+
+[PLANT_BOND_PRO_ABYSS_2]
+At battle end, each Abyss-type plant produces 15 Abyss Eye fragments. Max 120 fragments per battle. Each absorbed fragment accumulates 1 layer, changing the Abyss Eye's abilities.
+
+[PLANT_BOND_TAG_0]
+Ice
+
+[PLANT_BOND_TAG_1]
+Flame
+
+[PLANT_BOND_TAG_2]
+Lightning
+
+[PLANT_BOND_TAG_3]
+Poison
+
+[PLANT_BOND_TAG_4]
+Physical
+
+[PLANT_BOND_TAG_5]
+Magic
+
+[PLANT_BOND_TAG_6]
+Pea
+
+[PLANT_BOND_TAG_7]
+Mushroom
+
+[PLANT_BOND_TAG_8]
+Dragon Grass
+
+[PLANT_BOND_TAG_9]
+Abyss
+
+[PLANT_BOND_TAG_10]
+Resilient
+
+[PLANT_BOND_TAG_11]
+Energy
+
+[WAREHOUSE_DISCARD_TITLE]
+Confirm Discard
+
+[WAREHOUSE_DISCARD_BODY]
+Are you sure you want to discard this item?
+
+[WAREHOUSE_DISCARD_CONFIRM]
+Confirm
+
+[SOUDACHE_BATTLE_INTRO_TIP]
+Tap anywhere to start.
+
+[SOUDACHE_INTERRUPT_HINT]
+Saved progress detected. Continue?
+
+[SOUDACHE_START_BATTLE]
+Start Battle
+
+[SOUDACHE_START_BATTLE_CONFIRM_HEADER]
+Confirm Start Battle
+
+[SOUDACHE_START_BATTLE_CONFIRM_BODY]
+There are still unpicked items on the field. Proceed to the next level?
+
+[WAREHOUSE_FULL_TITLE]
+Warehouse Full
+
+[WAREHOUSE_FULL_BODY]
+Warehouse is full. Unable to retrieve item!
+
+[WAREHOUSE_NORMAL_FULL_TITLE]
+Normal Warehouse Full
+
+[WAREHOUSE_NORMAL_FULL_BODY]
+Normal warehouse is full. Cannot store more items!
+
+[WAREHOUSE_INSURANCE_DEPLOY_TITLE]
+Confirm Deployment
+
+[WAREHOUSE_INSURANCE_DEPLOY_BODY]
+Are you sure you want to deploy the plants in the Insurance Slot?
+
 [BUTTON_DISAGREE_CONFIRM]
 Still Disagree
 
@@ -74699,6 +74924,36 @@ pH Value Crisis - Day 7
 
 [S31_MEMORY_LEVEL_NAME_048]
 pH Value Crisis - Day 8
+
+[S31_MEMORY_LEVEL_NAME_049]
+Strategic Planning - Day 1
+
+[S31_MEMORY_LEVEL_NAME_050]
+Strategic Planning - Day 2
+
+[S31_MEMORY_LEVEL_NAME_051]
+Strategic Planning - Day 3
+
+[S31_MEMORY_LEVEL_NAME_052]
+Strategic Planning - Day 4
+
+[S31_MEMORY_LEVEL_NAME_053]
+Strategic Planning - Day 5
+
+[S31_MEMORY_LEVEL_NAME_054]
+Strategic Planning - Day 6
+
+[S31_MEMORY_LEVEL_NAME_055]
+Strategic Planning - Day 7
+
+[S31_MEMORY_LEVEL_NAME_056]
+Strategic Planning - Day 8
+
+[S31_MEMORY_LEVEL_NAME_BOSS_6]
+Rainstorm Chanter
+
+[S31_MEMORY_LEVEL_NAME_BOSS_7]
+Strategic Mastermind
 
 [S31_MEMORY_LEVEL_NAME_BOSS_2]
 Memory Tamperer
@@ -90015,7 +90270,7 @@ Secret Realm Reward
 Space-Time Rift Event Guide
 
 [SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. After the event opens (from February 11 to February 17, 2026), players have 3 daily attempts to challenge the boss.
+1. After the event opens (from July 8 to July 14, 2026), players have 3 daily attempts to challenge the boss.
 2. On the first day, challenges are available immediately after the event starts at 0:00. Starting from the second day, leaderboards from the previous day are settled between 0:00 and 8:00, during which challenges are temporarily closed.
 3. After the settlement period ends, rewards are distributed to all participating players based on their leaderboard ranking.
 4. After settlement, one lucky player will also receive the Koi Reward (2,888 Diamonds + 20 Universal Fragments).
@@ -91254,6 +91509,662 @@ Soccer Prodigy
 [DAVECUP_HEAD_DES_ID_25889]
 Dave's Cup Milestone Reward
 
+[SOUDACHE_NOT_OPEN]
+Space-Time Expedition Rift is currently unavailable.
+
+[SOUDACHE_TIPS_DESC]
+1. Endless Mode is unlocked after clearing the last level of Hard Mode.
+2. Endless Mode consists of 100 waves. Each wave randomly selects zombies from the entire Secret Realm zombie pool. Zombie tier and count gradually increase.
+3. Clearing Endless Mode levels rewards a large number of high-tier coins, which can be exchanged for commemorative avatars in the shop.
+
+[SOUDACHE_CRYSTAL_DUST_COUNT]
+{NUM}
+
+[SOUDACHE_BTN_START_EXPEDITION]
+Start Expedition
+
+[SOUDACHE_BTN_GIFT_BOX]
+Space-Time Gift Box
+
+[SOUDACHE_BTN_PANNIE]
+Penny Tech
+
+[SOUDACHE_BTN_COLLECTION]
+Collection Cabinet
+
+[SOUDACHE_BTN_REFIT]
+Modify MO
+
+[SOUDACHE_SELECT_DIFFICULTY]
+Select Challenge Difficulty
+
+[SOUDACHE_DIFF_NORMAL]
+Normal Difficulty
+
+[SOUDACHE_DIFF_HARD]
+Hard Difficulty
+
+[SOUDACHE_DIFF_PERILOUS]
+Perilous Difficulty
+
+[SOUDACHE_DIFF_DESPERATE]
+Desperate Difficulty
+
+[SOUDACHE_DIFF_CARRY_DUST]
+{NUM}
+
+[SOUDACHE_DIFF_CARRY_DUST_LABEL]
+Carry Capacity
+
+[SOUDACHE_DIFF_UNLOCK_HINT0]
+Locked
+
+[SOUDACHE_DIFF_UNLOCK_HINT1]
+Locked
+
+[SOUDACHE_DIFF_UNLOCK_HINT2]
+Locked
+
+[SOUDACHE_DIFF_UNLOCK_HINT3]
+Locked
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS]
+Clear the previous difficulty first.
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_1]
+Clear Normal difficulty first.
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_2]
+Clear Hard difficulty first.
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_3]
+Clear Perilous difficulty first.
+
+[SOUDACHE_DIFF_LOCKED_TIME]
+Not yet available.
+
+[SOUDACHE_DIFF_LOCKED_DAYS_TIME]
+Opens in {NUM} days.
+
+[SOUDACHE_BTN_CONFIRM]
+Confirm
+
+[SOUDACHE_SHOP_DAVE_HINT]
+Come pick out what you need!
+
+[SOUDACHE_SHOP_REFRESH_CONFIRM]
+Spend {NUM} Space-Time Coins to refresh the shop?
+
+[SOUDACHE_SHOP_REFRESH_TIPS_TITLE]
+Shop Refresh Probability
+
+[SOUDACHE_SHOP_ACTIVITY_GOT]
+Sold Out
+
+[SOUDACHE_SHOP_TITLE]
+Space-Time Shop
+
+[SOUDACHE_SHOP_PRICE]
+{NUMS}
+
+[SOUDACHE_SHOP_OWNED_COUNT]
+Owned: {NUM}
+
+[SOUDACHE_SHOP_NOT_ENOUGH_DUST]
+Insufficient Space-Time Crystal Dust!
+
+[SOUDACHE_SHOP_BUY_CONFIRM]
+Purchase this item?
+
+[SOUDACHE_BAN_REMAINING_SECONDS_TITLE]
+System Notification
+
+[SOUDACHE_BAN_REMAINING_SECONDS_DESC]
+Ban time remaining: {NUM} hours
+
+[SOUDACHE_COLLECTION_EMBLEM_PEA_BADGE]
+Pea Badge
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_PEA_BADGE]
+Increases the appearance rate of Pea-type plants. Enhancement: Pea-type plants have a 20% chance to fire 3 peas simultaneously in a 15-degree rightward fan shape on normal attacks.
+
+[SOUDACHE_COLLECTION_EMBLEM_ABYSS_BADGE]
+Abyss Badge
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_ABYSS_BADGE]
+Increases the appearance rate of Abyss-type plants. Enhancement: When an Abyss-type plant or the Abyss Eye kills a zombie, a Cthulhu Zombie spawns at the zombie's death location.
+
+[SOUDACHE_COLLECTION_EMBLEM_SHROOM_BADGE]
+Mushroom Badge
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_SHROOM_BADGE]
+Significantly increases the appearance rate of Mushroom-type plants.
+
+[SOUDACHE_COLLECTION_CAT_STICKER]
+Cat Sticker
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CAT_STICKER]
+Cat Sticker description.
+
+[SOUDACHE_COLLECTION_ZOMBIE_NEWSPAPER]
+Zombie Newspaper
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_NEWSPAPER]
+Old newspapers left behind by zombies across various eras, recording chaotic but very zombie-styled news.
+
+[SOUDACHE_COLLECTION_IMP_BACKPACK]
+Children's Day Imp Backpack
+
+[SOUDACHE_COLLECTION_DESCRIPTION_IMP_BACKPACK]
+A backpack lost by an Imp Zombie during a festival event, filled with candy wrappers, toys, and assorted trinkets.
+
+[SOUDACHE_COLLECTION_WEIRD_SNACK]
+Weird Snack
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WEIRD_SNACK]
+A very popular snack on a certain planet in Universe NO.666. Highly recommend the tomato flavor!
+
+[SOUDACHE_COLLECTION_BROKEN_POT]
+Broken Iron Pot
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BROKEN_POT]
+An iron pot of unknown origin, looks like it's been heavily smashed.
+
+[SOUDACHE_COLLECTION_SUPER_LOLLIPOP]
+Super Lollipop
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SUPER_LOLLIPOP]
+One lick turns a zombie into a super-zombie. Unfortunately, the zombie holding it always gets taken out before taking a single lick.
+
+[SOUDACHE_COLLECTION_SUNFLOWER_STICKER]
+Sunflower Sticker
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SUNFLOWER_STICKER]
+A sticker popular among children on Earth in Universe NO.777. Said to be a fan merchandise of a famous local pop star.
+
+[SOUDACHE_COLLECTION_LOST_BOOT]
+Lost Boot
+
+[SOUDACHE_COLLECTION_DESCRIPTION_LOST_BOOT]
+Just an ordinary boot. The other one is who-knows-where.
+
+[SOUDACHE_COLLECTION_CHOCOLATE]
+Chocolate
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CHOCOLATE]
+</placeholder>
+
+[SOUDACHE_COLLECTION_GRIM_REAPER_BONE]
+Grim Reaper Zombie Bone
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GRIM_REAPER_BONE]
+</placeholder>
+
+[SOUDACHE_COLLECTION_PRISM_GRASS_SHADES]
+Prism Grass Shades
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PRISM_GRASS_SHADES]
+</placeholder>
+
+[SOUDACHE_COLLECTION_WINE_GOURD]
+Wine Gourd
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WINE_GOURD]
+</placeholder>
+
+[SOUDACHE_COLLECTION_ZOMBIE_PARACHUTE]
+Zombie Parachute
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_PARACHUTE]
+A parachute with 100% positive reviews on the shopping site! As for why there are no negative reviews — please don't ask.
+
+[SOUDACHE_COLLECTION_TURNIP_SPINNER]
+Turnip Spinner Propeller
+
+[SOUDACHE_COLLECTION_DESCRIPTION_TURNIP_SPINNER]
+To maintain its extremely high spin speed, this device breaks easily. Good thing Dave has plenty of spare parts ready.
+
+[SOUDACHE_COLLECTION_MAGICIAN_CARD_DECK]
+Magic-shroom Card Deck
+
+[SOUDACHE_COLLECTION_DESCRIPTION_MAGICIAN_CARD_DECK]
+When not fighting, Magic-shrooms often gather to play a card game called "Beat the Zomboss."
+
+[SOUDACHE_COLLECTION_WALNUST_IRON_ARMOR]
+Wall-nut Iron Armor
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WALNUST_IRON_ARMOR]
+"With this armor on, you still think you can break my defense?"
+
+[SOUDACHE_COLLECTION_DAVE_SALSA]
+Dave's Taco Sauce
+
+[SOUDACHE_COLLECTION_DESCRIPTION_DAVE_SALSA]
+Crazy Dave's spare sauce stuffed into the cart before an expedition. Said to make any taco taste more like a taco.
+
+[SOUDACHE_COLLECTION_ZEN_WATERING_CAN]
+Zen Watering Can
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZEN_WATERING_CAN]
+An old watering can used in the Zen Garden to tend plants. Even after being carried through the space-time gate into the expedition, it still carries the scent of plant growth.
+
+[SOUDACHE_COLLECTION_BALANCE_SHEET]
+Two-Player Data Balance Sheet
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BALANCE_SHEET]
+A balance sheet covered with revision marks, symbolizing the careful thought and trade-offs behind the expedition mode's number balancing.
+
+[SOUDACHE_COLLECTION_POTATO_SERVER]
+Potato-shaped Server
+
+[SOUDACHE_COLLECTION_DESCRIPTION_POTATO_SERVER]
+An early makeshift data server from Penny's Workshop. It looks like a potato, but it actually did handle important data logging.
+
+[SOUDACHE_COLLECTION_CARD_PACK]
+Trading Card Pack from Another Game
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CARD_PACK]
+A game card pack from Universe NO.666. You never know what card you'll pull.
+
+[SOUDACHE_COLLECTION_GREENHEAD_DUCK]
+Mallard Duck
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GREENHEAD_DUCK]
+Quack quack quack? Quack quack quack, quack quack quack, quack quack quack!
+
+[SOUDACHE_COLLECTION_SWORD_IN_STONE]
+Sword in the Stone
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SWORD_IN_STONE]
+</placeholder>
+
+[SOUDACHE_COLLECTION_PINATA]
+Piñata
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PINATA]
+</placeholder>
+
+[SOUDACHE_COLLECTION_BUTTERFLY_FISH]
+Butterfly Fish
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BUTTERFLY_FISH]
+Start with a tiny little fish...
+
+[SOUDACHE_COLLECTION_BULLHORN_HELMET]
+Bullhorn Helmet
+
+[SOUDACHE_COLLECTION_DESCRIPTION_BULLHORN_HELMET]
+</placeholder>
+
+[SOUDACHE_COLLECTION_SWEET_HOME]
+Sweet Home
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SWEET_HOME]
+</placeholder>
+
+[SOUDACHE_COLLECTION_OLD_GRAMOPHONE]
+Old Gramophone
+
+[SOUDACHE_COLLECTION_DESCRIPTION_OLD_GRAMOPHONE]
+</placeholder>
+
+[SOUDACHE_COLLECTION_GAME_DISC]
+VS1000 Garden Warfare Game Disc
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GAME_DISC]
+A game disc from Universe NO.666. Looks like a lot of fun.
+
+[SOUDACHE_COLLECTION_SHINY_WIG]
+Shiny Wig
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SHINY_WIG]
+A wig from a game company employee on Earth in Universe NO.666. Brand new — looks like it's never been worn.
+
+[SOUDACHE_COLLECTION_GOLDEN_FINGER_JAR]
+Golden Finger Jar
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_FINGER_JAR]
+A jar filled with all kinds of nifty gadgets. The contents seem to vary from universe to universe.
+
+[SOUDACHE_COLLECTION_STONE_FROG]
+Stone Frog
+
+[SOUDACHE_COLLECTION_DESCRIPTION_STONE_FROG]
+Ribbit! Ribbit! Ribbit! Ribbit! Ribbit-ribbit!
+
+[SOUDACHE_COLLECTION_WALKIE_TALKIE]
+Walkie-Talkie
+
+[SOUDACHE_COLLECTION_DESCRIPTION_WALKIE_TALKIE]
+A walkie-talkie used to summon zombie armies. Only certain special zombies can possess one. "Hello? Hello? Why isn't anyone talking?"
+
+[SOUDACHE_COLLECTION_PIRATE_TREASURE]
+Pirate Treasure
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PIRATE_TREASURE]
+</placeholder>
+
+[SOUDACHE_COLLECTION_GOLDEN_SHOVEL]
+Golden Shovel
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_SHOVEL]
+This shovel makes you want to dig something up.
+
+[SOUDACHE_COLLECTION_DRAGON_EGG]
+Dragon Egg
+
+[SOUDACHE_COLLECTION_DESCRIPTION_DRAGON_EGG]
+</placeholder>
+
+[SOUDACHE_COLLECTION_GOLD_CART]
+Golden Cart Model
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOLD_CART]
+A golden commemorative model based on the expedition cart, symbolizing a successful expedition that went deep enough.
+
+[SOUDACHE_COLLECTION_PHARAOH_SCEPTER]
+Pharaoh's Scepter
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PHARAOH_SCEPTER]
+A scepter lost in an Ancient Egypt space-time fragment. It carries a strong mark of its era and the authority to change everything.
+
+[SOUDACHE_COLLECTION_HONOR_HELMET]
+Honor Helmet
+
+[SOUDACHE_COLLECTION_DESCRIPTION_HONOR_HELMET]
+A golden helmet crafted in honor of a legendary hero on the lawn.
+
+[SOUDACHE_COLLECTION_GOBLIN_STATUE]
+Goblin Statue
+
+[SOUDACHE_COLLECTION_DESCRIPTION_GOBLIN_STATUE]
+</placeholder>
+
+[SOUDACHE_COLLECTION_TITLE]
+Collection Cabinet
+
+[SOUDACHE_COLLECTION_RARE_0]
+Common
+
+[SOUDACHE_COLLECTION_RARE_1]
+Fine
+
+[SOUDACHE_COLLECTION_RARE_2]
+Rare
+
+[SOUDACHE_COLLECTION_RARE_3]
+Hidden Treasure
+
+[SOUDACHE_BTN_UPGRADE_ALL]
+Upgrade All
+
+[SOUDACHE_BTN_TOTAL_PROGRESS]
+Total Collection
+{VALUE}/{MAX}
+
+[SOUDACHE_BTN_COLLECTION_LEVEL]
+Collection Cabinet
+Level ^FFFF00 {VALUE}^oldclr^
+
+[SOUDACHE_BTN_LEVEL_UP]
+Upgrade Star
+
+[SOUDACHE_BTN_CLAIM]
+Claim
+
+[SOUDACHE_BTN_CLAIMED]
+Claimed
+
+[SOUDACHE_COLLECTION_UNLOCK_SUCCESS]
+Unlock Successful
+
+[SOUDACHE_COLLECTION_UNLOCK_NOT_ENOUGH_COIN]
+Insufficient Space-Time Crystal Dust! Unlocking requires {NUM} Space-Time Crystal Dust.
+
+[SOUDACHE_COLLECTION_UNLOCK_HINT]
+You have not cleared the corresponding difficulty yet and cannot unlock this collectible.
+
+[SOUDACHE_COLLECTION_UNLOCK_FAIL]
+Weekly unlock attempts used up.
+
+[SOUDACHE_COLLECTION_UNLOCK_CONFIRM]
+Consume {NUM} Space-Time Crystal Dust to unlock this collectible?
+Remaining attempts this week: {REMAIN}/4
+
+[SOUDACHE_COLLECTION_NOT_ENOUGH_COINS]
+Insufficient Space-Time Crystal Dust! Upgrading all stars requires {NUMS} Space-Time Crystal Dust.
+
+[SOUDACHE_COLLECTION_UPGRADE_TITLE]
+Collectible Star Upgrade
+
+[SOUDACHE_COLLECTION_UPGRADE_OWNED]
+Owned: {NUM}
+
+[SOUDACHE_COLLECTION_UPGRADE_CONSUME_TITLE]
+Star Upgrade Cost
+
+[SOUDACHE_COLLECTION_UPGRADE_COST]
+{OWNED}/{REQUIRED}
+
+[SOUDACHE_COLLECTION_UPGRADE_INFO_TITLE]
+Collectible Info
+
+[SOUDACHE_COLLECTION_UPGRADE_QUALITY]
+Quality: ^FFFF00 {RARE}^oldclr^
+
+[SOUDACHE_COLLECTION_UPGRADE_LEVEL]
+Current Star Level: ^00FF00 {NUM}^oldclr^
+
+[SOUDACHE_COLLECTION_UPGRADE_DESC]
+Description: No description available.
+
+[SOUDACHE_COLLECTION_REWARD_TITLE]
+Collection Cabinet Rewards
+
+[SOUDACHE_TAB_COLLECTION_REWARD]
+Collection Rewards
+
+[SOUDACHE_TAB_LEVEL_REWARD]
+Level Rewards
+
+[SOUDACHE_COLLECTION_PROGRESS]
+Collection Progress: ^FFFF00 {VALUE}/{MAX}^oldclr^
+
+[SOUDACHE_COLLECTION_LEVEL_INFO]
+Collection Cabinet Level: ^FFFF00 {VALUE}/{MAX}^oldclr^
+
+[SOUDACHE_COLLECTION_ALL_UPGRADE_CONFIRM]
+Upgrade all upgradable collectibles at once with Space-Time Crystal Dust?
+
+[SOUDACHE_COLLECTION_ALL_UPGRADE_COST]
+Total Cost: {NUMS} Space-Time Crystal Dust
+
+[SOUDACHE_RARITY_COMMON]
+Common
+
+[SOUDACHE_RARITY_HARD]
+Hard
+
+[SOUDACHE_RARITY_PERILOUS]
+Perilous
+
+[SOUDACHE_RARITY_DESPERATE]
+Desperate
+
+[SOUDACHE_BACK_TITLE]
+Prompt
+
+[SOUDACHE_GOT_PLANT_TITLE]
+Claim Starting Plants
+
+[SOUDACHE_GOT_PLANT_DAVE_HINT]
+Some plants want to join you on your journey.
+
+[SOUDACHE_GOT_PLANT_QUIT_HINT]
+Are you sure you want to exit? This will lose your current expedition progress.
+
+[SOUDACHE_BTN_GOT_PLANT_CLAIM]
+Claim
+
+[SOUDACHE_CHOOSE_EMBLEM_TITLE]
+Choose Badge
+
+[SOUDACHE_BTN_CHOOSE_EMBLEM_CONFIRM]
+Confirm
+
+[SOUDACHE_CHOOSE_EMBLEM_DAVE_HINT]
+Choose a badge to infuse new power into your expedition!
+
+[SOUDACHE_GARBAGE_DISCARD_TITLE]
+Confirm Discard
+
+[SOUDACHE_GARBAGE_DISCARD_BODY]
+Are you sure you want to discard this item?
+
+[SOUDACHE_GARBAGE_DISCARD_WARNING]
+Cannot be recovered after discarding! Discarding does not convert to Space-Time Crystal Dust.
+
+[SOUDACHE_BTN_DISCARD_CONFIRM]
+Confirm Discard
+
+[SOUDACHE_BTN_CANCEL]
+Cancel
+
+[SOUDACHE_GARBAGE_NO_MORE_PROMPT]
+Don't show again this run.
+
+[SOUDACHE_REWARD_CLAIMED]
+Claimed
+
+[SOUDACHE_COLLECTION_REWARD_MILESTONE]
+Total collectibles obtained ^FFFF00 x{NUM}^oldclr^
+
+[SOUDACHE_COLLECTION_LEVEL_REWARD_MILESTONE]
+Collection Cabinet Level reached ^FFFF00 {NUM}^oldclr^
+
+[SOUDACHE_FRENZY_WARNING]
+Zombies have entered a frenzy! Eliminate them quickly!
+
+[SOUDACHE_EVACUATION_TITLE]
+Evacuation Window Available
+
+[SOUDACHE_EVACUATION_COMM_PENNY]
+Message from Penny
+
+[PVZ_ERROR_76105]
+Data verification failed.
+
+[SOUDACHE_EVACUATION_PENNY_ADVICE]
+You've successfully held off this wave. Load your loot into the trunk and evacuate.
+
+[SOUDACHE_EVACUATION_PENNY_ADVICE_2]
+Risk Warning:
+1. Continuing deeper will increase evacuation difficulty.
+2. If you fail, uninsured items will be lost.
+3. The evacuation window will reappear in later stages.
+
+[SOUDACHE_EVACUATION_ITEM_LIST]
+Item List
+
+[SOUDACHE_EVACUATE_SAFE]
+Safe Evacuation
+
+[SOUDACHE_EVACUATE_CONTINUE]
+Continue Deeper
+
+[SOUDACHE_SETTLE_VICTORY_TITLE]
+Expedition Successful
+
+[SOUDACHE_SETTLE_DEFEAT_TITLE]
+Expedition Failed
+
+[SOUDACHE_SETTLE_NODES]
+Nodes Completed
+
+[SOUDACHE_SETTLE_STATUS]
+Evacuation Status
+
+[SOUDACHE_SETTLE_STABILITY]
+Space-Time Stability
+
+[SOUDACHE_SETTLE_DUST]
+Space-Time Crystal Dust
+
+[SOUDACHE_SETTLE_WIN]
+Clear
+
+[SOUDACHE_SETTLE_LOSE]
+Failed
+
+[SOUDACHE_SETTLE_ITEMS]
+Item List
+
+[SOUDACHE_SETTLE_BTN_SAFE]
+Safe Evacuation
+
+[SOUDACHE_SETTLE_BTN_CONFIRM]
+Confirm Settlement
+
+[SOUDACHE_SETTLE_REWARDS_TITLE]
+Reward Summary
+
+[SOUDACHE_SETTLE_REWARDS_DUST]
+Space-Time Crystal Dust
+
+[SOUDACHE_SETTLE_REWARDS_ROW1]
+Loot Conversion
+
+[SOUDACHE_SETTLE_REWARDS_ROW2]
+Unused Crystal Dust Returned
+
+[SOUDACHE_SETTLE_REWARDS_ROW3]
+Collectible Rewards
+
+[SOUDACHE_SETTLE_REWARDS_BTN]
+Confirm Settlement
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_01]
+Search, Fight, and Extract — Escape with Your Loot
+
+[SOUDACHE_HOWTOPLAY_DESC_01]
+Gather resources during battle, deploy plants to fend off zombies, and take the earnings from your current run with you once you reach an extraction node. If your Spacetime Stability reaches zero, extraction will fail, and only items stored in the Safe will be retained.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_02]
+Starting Plants — Build Your Lineup for the Run
+
+[SOUDACHE_HOWTOPLAY_DESC_02]
+Begin the battle with 3 starting plants. Plants in Expedition Gate have independent rarities and stats, and do not inherit their levels from outside the mode.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_03]
+Form Synergies — Raise Star Levels
+
+[SOUDACHE_HOWTOPLAY_DESC_03]
+Plants can be obtained from resource points and shops, while duplicates can be used to increase their star levels. Raising a plant's star level grants substantial stat boosts. Assemble the required plants to activate powerful Synergies and help hold off the zombies.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_04]
+Unlock Tiles — Hold the Line
+
+[SOUDACHE_HOWTOPLAY_DESC_04]
+More tiles will be unlocked as you progress, and plants can only be deployed on these tiles. Once a plant's energy bar is full, tap it manually to release its Plant Food effect. Each zombie that crosses the line will reduce your Spacetime Stability by 10 points.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_05]
+Weigh the Risks — Gather Resources
+
+[SOUDACHE_HOWTOPLAY_DESC_05]
+Tap to move the Lawn Mower and gather resources from resource points. Gathering takes time, and beginning the process will awaken the zombies inside nearby gravestones.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_06]
+Higher Rarity, Greater Rewards and Risks
+
+[SOUDACHE_HOWTOPLAY_DESC_06]
+The color of a resource point indicates its rarity. Higher-rarity resource points yield more currency and higher-rarity plants, but the zombies within nearby gravestones also become stronger as the resource point's rarity increases.
+
+[SOUDACHE_HOWTOPLAY_SUBTITLE_07]
+Look for a Chance to Extract
+
+[SOUDACHE_HOWTOPLAY_DESC_07]
+The final node of each floor offers an extraction opportunity, allowing you to end the current run and claim your earnings. The deeper you venture, the higher the rarity of resource points and shop items will become. However, you will also encounter stronger zombies, making extraction increasingly difficult. If extraction fails, only items stored in the Safe will be retained.
+
 [ZOMBIE_GLADIATOR_ZOMBIE]
 角斗士僵尸
 
@@ -91282,5 +92193,151 @@ Points Tournament
 3. Weekly Participation: Complete the specified tasks for each mode every week to accumulate Weekly Participation. Reaching the required participation milestones will unlock progress rewards. Participation tasks and progress reset every Monday at 0:00. (Note: All level-clear tasks must be completed within the current week to count.)
 4. Weekly Leaderboard: Every Sunday at 24:00, rankings will be calculated by percentile based on all players’ Weekly Total Points. 
 5. Ranking Rewards: After the weekly settlement, enter the event screen to automatically claim the ranking reward for your corresponding tier.
+
+[POINTSCHALLENGE_RANK_DESCRIPTION_TITLE]
+Ranking Reward Details
+
+[POINTSCHALLENGE_RANK_DESCRIPTION]
+Top 1%: Targeted Fragments x10, Secret Vouchers x20
+Top 3%: Targeted Fragments x8, Secret Vouchers x15
+Top 5%: Targeted Fragments x8, Secret Vouchers x12
+Top 10%: Targeted Fragments x8, Secret Vouchers x10
+Top 20%: Targeted Fragments x6, Secret Vouchers x9
+Top 30%: Targeted Fragments x6, Secret Vouchers x8
+Top 50%: Targeted Fragments x5, Secret Vouchers x7
+Top 80%: Targeted Fragments x4, Secret Vouchers x6
+Top 100%: Targeted Fragments x2, Secret Vouchers x5
+
+[POINTSCHALLENGE_TASK_NAME_1101]
+Clear 1 Penny's Pursuit level this week.
+
+[POINTSCHALLENGE_TASK_NAME_1102]
+Clear 3 Penny's Pursuit levels this week.
+
+[POINTSCHALLENGE_TASK_NAME_1103]
+Clear 5 Penny's Pursuit levels this week.
+
+[POINTSCHALLENGE_TASK_NAME_1201]
+Complete 1Arena matches this week
+
+[POINTSCHALLENGE_TASK_NAME_1202]
+Complete 2 Arena matches this week.
+
+[POINTSCHALLENGE_TASK_NAME_1203]
+Complete 3 Arena matches this week.
+
+[POINTSCHALLENGE_TASK_NAME_1301]
+Complete 3 Memory Lane levels.
+
+[POINTSCHALLENGE_TASK_NAME_1302]
+Complete 6 Memory Lane levels.
+
+[POINTSCHALLENGE_TASK_NAME_1303]
+Complete 8 Memory Lane levels.
+
+[POINTSCHALLENGE_TASK_NAME_1401]
+Complete 1 PVP matches this week.
+
+[POINTSCHALLENGE_TASK_NAME_1402]
+Complete 2 PVP matches this week.
+
+[POINTSCHALLENGE_TASK_NAME_1403]
+Complete 3 PVP matches this week.
+
+[POINTSCHALLENGE_TASK_NAME_1501]
+Reach Endless Level 20.
+
+[POINTSCHALLENGE_TASK_NAME_1502]
+Reach Endless Level 50.
+
+[POINTSCHALLENGE_TASK_NAME_1503]
+Reach Endless Level 100.
+
+[POINTSCHALLENGE_ENDLESS_NODE_1]
+Floor 1
+
+[POINTSCHALLENGE_ENDLESS_NODE_2]
+Floor 31
+
+[POINTSCHALLENGE_ENDLESS_NODE_3]
+Floor 61
+
+[POINTSCHALLENGE_ENDLESS_NODE_4]
+Floor 91
+
+[POINTSCHALLENGE_ENDLESS_NODE_5]
+Floor 121
+
+[POINTSCHALLENGE_PENNY_NODE_1]
+Brick
+
+[POINTSCHALLENGE_PENNY_NODE_2]
+Iron
+
+[POINTSCHALLENGE_PENNY_NODE_3]
+Bronze
+
+[POINTSCHALLENGE_PENNY_NODE_4]
+Silver
+
+[POINTSCHALLENGE_PENNY_NODE_5]
+Gold
+
+[POINTSCHALLENGE_PENNY_NODE_6]
+Diamond
+
+[POINTSCHALLENGE_PENNY_NODE_7]
+Legend
+
+[POINTSCHALLENGE_BATTLEZ_NODE_1]
+Steel
+
+[POINTSCHALLENGE_BATTLEZ_NODE_2]
+Bronze
+
+[POINTSCHALLENGE_BATTLEZ_NODE_3]
+Silver
+
+[POINTSCHALLENGE_BATTLEZ_NODE_4]
+Gold
+
+[POINTSCHALLENGE_BATTLEZ_NODE_5]
+Jade
+
+[POINTSCHALLENGE_PVP_NODE_1]
+Copper Pot
+
+[POINTSCHALLENGE_PVP_NODE_2]
+Silver Pot
+
+[POINTSCHALLENGE_PVP_NODE_3]
+Gold Pot
+
+[POINTSCHALLENGE_PVP_NODE_4]
+Diamond Pot
+
+[POINTSCHALLENGE_PVP_NODE_5]
+Master Pot
+
+[POINTSCHALLENGE_PVP_NODE_6]
+Grandmaster Pot
+
+[POINTSCHALLENGE_MEMORY_NODE_1]
+Level 1
+
+[POINTSCHALLENGE_MEMORY_NODE_2]
+Level 5
+
+[POINTSCHALLENGE_MEMORY_NODE_3]
+Level 9
+
+[POINTSCHALLENGE_MEMORY_NODE_4]
+Level 14
+
+[POINTSCHALLENGE_MEMORY_NODE_5]
+Level 20
+
+[POINTSCHALLENGE_MEMORY_NODE_6]
+Level 26
 
 [PVZ2_CHINESE_END]
