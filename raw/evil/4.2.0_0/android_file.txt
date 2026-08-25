@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.1.7 Base 0)
-Version          ： 4.1.7_0
+File Version     ： Text-based (4.2.0 Base 0)
+Version          ： 4.2.0_0
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -47,8 +47,8 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======4.1.7_0======
-Added 4.1.7 Text
+======4.2.0_0======
+Added 4.2.0 Text
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
@@ -58,70 +58,70 @@ Added 4.1.7 Text
 
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 24 July 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 25 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 24 July 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 25 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 24 July 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 25 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 24 July 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 25 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 24 July 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 25 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 24 July 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 25 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
 ^00FFFF  Don't forget to check your mail!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_7]
 ^00FFFF  Huge thanks to @devourdoom who translated the new zombie
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.1.7_0)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_0)
 
 
 
@@ -207,7 +207,7 @@ Damage increased by 15%
 Electric Currant's Warning Device
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICCURRANT_2]
-Sun cost reduced by 20
+Sun cost reduced by 25
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_2]
 Primal Potato Mine's Minefield Sign
@@ -4238,6 +4238,18 @@ Limited edition avatar from the Prismatic Customization event.
 [LEVEL_EDITOR_HEAD_DES_ID_25897]
 幻彩定制活动限定头像
 
+[LEVEL_EDITOR_HEAD_ID_25919]
+星际来客
+
+[LEVEL_EDITOR_HEAD_DES_ID_25919]
+幻彩定制活动限定头像
+
+[LEVEL_EDITOR_HEAD_ID_25919]
+Interstellar Visitor
+
+[LEVEL_EDITOR_HEAD_DES_ID_25919]
+Limited edition avatar from the Prismatic Customization event.
+
 [LEVEL_EDITOR_HEAD_ID_25777]
 Fruitful Harvest
 
@@ -4297,6 +4309,18 @@ Tonight's digital "pickled vegetable" snack is secured!
 
 [LEVEL_EDITOR_HEAD_DES_ID_25903]
 笔落处色散，杆停时界成
+
+[LEVEL_EDITOR_HEAD_ID_25917]
+Explosive Art
+
+[LEVEL_EDITOR_HEAD_DES_ID_25917]
+Art is a giant white starfish!!!
+
+[LEVEL_EDITOR_HEAD_ID_25918]
+Cold as Ice
+
+[LEVEL_EDITOR_HEAD_DES_ID_25918]
+Who turned the AC to 25 degrees?
 
 [QUESTIONNAIRE_HEAD_ID_25840]
 Traces Along the Silk Road
@@ -4436,6 +4460,19 @@ Season 23
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25902]
 致在回忆之旅中一同前行的玩家
+
+
+[SUMMER_MEMORIES_HEAD_ID_25915]
+Shimmering Waters
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25915]
+To players journeying through memories.
+
+[SUMMER_MEMORIES_HEAD_ID_25916]
+Moonlit Flute
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25916]
+To players journeying through memories.
 
 [PARTYEPSACTIVITY_HEAD_ID_25572]
 Party Orchid Mage
@@ -4642,6 +4679,12 @@ Claim by reaching the cumulative recharge progress in the Celebration Gift Pack 
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25896]
 在庆典礼包活动期间，达到活动中累计充值进度领取
+
+[NEWYEAR_GIFT_HEAD_ID_25921]
+Planting Trees for Shade
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25921]
+Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev! 
@@ -4967,6 +5010,16 @@ Buckethead Mummy
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION_HEADER]
 His sandy bucket greatly protects him from damage.
 
+[ZOMBIE_MUMMY_ARMOR4]
+金字塔头僵尸
+
+[ZOMBIE_MUMMY_ARMOR4_DESCRIPTION]
+{FLAVOR}金字塔头僵尸并不知道自己的金字塔是金字塔形状的。在这方面，他反应有点迟钝。
+
+[ZOMBIE_MUMMY_ARMOR4_DESCRIPTION_HEADER]
+金字塔头盔能让他承受更严重的打击。
+
+
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION]
 {KEYWORD}Special：{STAT} High defense, use a plant foood to fight him!
 
@@ -5026,6 +5079,23 @@ Carries a torch that can instantly destroy your plants.
 {KEYWORD}Weakness：{STAT} cold attacks extinguish torch
 
 {FLAVOR}His impressive friendly mutton chops has always kept food in them for weeks, making sure his explorations are filled with snacks.
+
+[ZOMBIE_EXPLORER_VETERAN]
+狂热探险家僵尸
+
+[ZOMBIE_EXPLORER_DESCRIPTION]
+{KEYWORD}特点：{STAT}火炬烧毁接触到的植物
+{KEYWORD}弱点：{STAT}冰冻生菜、寒冰射手之类的冷冻攻击可以熄灭火炬
+
+{FLAVOR}
+狂热探险家僵尸从来不害怕黑暗。这并非因为他总是举着火炬，而是因为作为僵尸的他压根就没有"害怕"这种功能。
+
+[ZOMBIE_EXPLORER_VETERAN_DESCRIPTION]
+火炬僵尸从来不害怕黑暗。这并非因为他总是举着一支火炬，而是因为作为僵尸的他压根就没有"害怕"这种功能。
+
+[ZOMBIE_EXPLORER_VETERAN_DESCRIPTION_HEADER]
+相比探险者僵尸拥有更高的血量和更快的移动速度，携带一支更大的火炬，能够瞬间烧毁触碰到的任何植物。
+
 
 [ZOMBIE_TOMB_RAISER]
 Tomb Raiser Zombie
@@ -5120,6 +5190,15 @@ Buckethead Pirate
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION_HEADER]
 His sturdy wooden bucket provides excellent protection from damage.
+
+[ZOMBIE_PIRATE_ARMOR4]
+海藻酒桶头僵尸
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION]
+{FLAVOR}从最深的海域中打捞而来，海藻酒桶头僵尸的酒桶品质很高，只是戴上去有点太过紧贴了。
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION_HEADER]
+海藻酒桶头盔能让他承受更严重的打击
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION]
 {FLAVOR}Buckethead Pirate Zombie is looking for his bucket. Have you seen it? It's where? Up where? Speak up, he can't hear you.
@@ -5286,6 +5365,15 @@ His chili pot hat makes him greatly resistant to damage.
 [ZOMBIE_COWBOY_ARMOR2_DESCRIPTION]
 {FLAVOR}A five-time winner of the temporal chili cook-off. Those Egyptian zombies don't know their chili, but Cowboys love their beans. The more you eat, the more you brains.
 
+[ZOMBIE_COWBOY_ARMOR4]
+矿车头僵尸
+
+[ZOMBIE_COWBOY_ARMOR4_DESCRIPTION]
+{FLAVOR}矿车头僵尸如果倒立起来滚动的话，或许能跑得快得多，但他可没想那么远。
+
+[ZOMBIE_COWBOY_ARMOR4_DESCRIPTION_HEADER]
+矿车头盔能让他承受更严重的打击。
+
 [ZOMBIE_COWBOY_FLAG]
 Flag Cowboy Zombie
 
@@ -5444,6 +5532,24 @@ Conehead Kongfu Zombie
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION_HEADER]
 His iron teapot helmet can carry damage to a great extent.
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4]
+香炉头功夫僵尸
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION]
+{FLAVOR}炼丹炉里残留的古代丹药粉末有提神醒脑的功效，前提是你是一只僵尸并且在闻过之后还能分清方向。
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION_HEADER]
+香炉头盔能让他承受更严重的打击。
+
+[ZOMBIE_KONGFU_MONK_ARMOR4]
+香炉头武僧僵尸
+
+[ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION]
+{FLAVOR}别的僵尸闻了丹药粉末顶多打个喷嚏，他却从中学到了一整套人生哲理。现在他逢尸便讲"心如止水"，但见到植物还是会第一时间冲上去。
+
+[ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION_HEADER]
+香炉头盔能让他承受更严重的打击。
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION]
 {FLAVOR} Don't get me wrong, originally his purpose was just to perform the acrobatics of the teapot over his head.
@@ -5711,6 +5817,15 @@ Future Buckethead Zombie
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION_HEADER]
 His techno-bucket greatly increases his protection from damage.
 
+[ZOMBIE_FUTURE_ARMOR4]
+全息头僵尸
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION]
+{FLAVOR}力场之所以呈现出独特的颜色，源自频率谐波的叠加——外加毫不吝啬地刷了一层紫色油漆。
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION_HEADER]
+全息头盔能让他承受更严重的打击。
+
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION]
 {FLAVOR}Other zombies call him old-fashioned for being nostalgic for the year 2008. It was a simpler time when brains were brains, zombies were zombies, and those punk plants kept to themselves.
 
@@ -5866,6 +5981,15 @@ Knight Zombie
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION_HEADER]
 His king appointed helm provides amazing protection from damage.
+
+[ZOMBIE_DARK_ARMOR4]
+城堡头僵尸
+
+[ZOMBIE_DARK_ARMOR4_DESCRIPTION]
+{FLAVOR}僵尸博士在全球建筑界享有盛誉，曾20次荣膺《建筑文摘》年度最具震撼中世纪设计大奖。他在旷野中搭建的独立城堡，其变体之多似乎数不胜数。
+
+[ZOMBIE_DARK_ARMOR4_DESCRIPTION_HEADER]
+城堡头盔能让他承受更严重的打击。
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION]
 {FLAVOR}Knight Zombie was just as surprised as anyone when Zombie King promoted him. He'd never say this out loud, but he's not sure he deserves the position. He's not sure he has what it takes to wear the armor. But like they say, "Fake it 'til you make it."
@@ -6065,6 +6189,16 @@ Pompadour Buckethead
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION_HEADER]
 His scallop shelled bucket gives him great resistance to damage.
 
+[ZOMBIE_BEACH_ARMOR4]
+沙堡头衬衫僵尸
+
+[ZOMBIE_BEACH_ARMOR4_DESCRIPTION]
+{FLAVOR}他用海沙堆成的头盔硬得超乎想象，椰子砸上去只会自取其辱。唯一的遗憾是每次涨潮之后，他都得蹲在海滩上重新堆一遍。
+
+[ZOMBIE_BEACH_ARMOR4_DESCRIPTION_HEADER]
+沙堡头盔能让他承受更严重的打击。
+
+
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION]
 {FLAVOR}Pompadour Buckethead tried to learn to play the ukelele. He figured it would be easier to learn than the guitar on account of how small it is. But his stiff fingers ... they just weren't made for it. Now he just bangs on his bucket. And he's not half-bad either.
 
@@ -6100,6 +6234,16 @@ Bikini Buckethead
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION_HEADER]
 Her scallop shelled bucket provides great protection from damage.
+
+[ZOMBIE_BEACH_FEM_ARMOR4]
+沙堡头比基尼僵尸
+
+[ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION]
+{FLAVOR}她的沙堡头盔结构精巧、坚如磐石，连路过的螃蟹都忍不住驻足围观，可惜潮水每天准时来拆台。
+
+[ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION_HEADER]
+沙堡头盔能让她承受更严重的打击。
+
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION]
 {FLAVOR}Bikini Buckethead had big ambitions. She wanted to do more than lurch around on a beach all day. Her life's dream： to perform internationally with a synchronized swimming team. Sadly, the nose plug was her undoing. If she only had a nose ...
@@ -6252,17 +6396,25 @@ Blockhead Zombie
 [ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION_HEADER]
 The ice block on his head provides amazing protection from damage.
 
+[ZOMBIE_ICEAGE_ARMOR4]
+猛犸头僵尸
+
+[ZOMBIE_ICEAGE_ARMOR4_DESCRIPTION_HEADER]
+猛犸头盔能让他承受更严重的打击。
+
+[ZOMBIE_ICEAGE_ARMOR4_DESCRIPTION]
+{FLAVOR}其实猛犸头僵尸以前是个普通的洞穴僵尸，他每天都把头伸到冰流里面，想要成为一个冰砖僵尸，可是某一天一头猛犸象直接把他隔壁的冰砖僵尸踩扁了，“原来猛犸象才是最强的”他想。于是他求僵尸博士打造了一个猛犸头盔，有了这个他一定可以吃到美味的脑子！ 
+
+
 [ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION]
 {FLAVOR}One day, a Cave Zombie fell head-first into a glacial stream. It had been a bad day already, so he lay there in the frigid water for a long time contemplating the insignificance of his life. When he finally stood up, he discovered that his head was encased in ice. At last, his life had meaning! He was unique! He was Blockhead Zombie! At least, that's his story and he's sticking to it.
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE]
-Mammoth Head Zombie
-
+精英猛犸头僵尸
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION_HEADER]
-The sturdy helmet provides higher defense.
-
+升级后的猛犸头盔可为其提供更高的防御力和抗性。
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION]
-Actually, the Mammoth-Head Zombie used to be a regular cave zombie. Every day, he would stick his head into the ice flow, hoping to become an Blockhead Zombie. But one day, a mammoth stepped on the Blockhead Zombie next to him and flattened it. "So, mammoths are the strongest," he thought. So, he asked Dr. Zomboss to create a mammoth helmet for him. With this, he will definitely be able to enjoy delicious brains.
+升级精英款头盔的过程比想象的简单——僵尸博士拿起记号笔，在头盔内侧写上"正宗猛犸"四个大字。精英猛犸头僵尸端详了很久，觉得自己确实更猛了 
 
 [ZOMBIE_ICEAGE_FLAG]
 Cave Flag Zombie
@@ -6462,6 +6614,16 @@ Buckethead Pilot Zombie
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION_HEADER]
 His Bucket-shaped hat provides great protection from damage.
 
+[ZOMBIE_SKYCITY_ARMOR4]
+秃鹫头僵尸
+
+[ZOMBIE_SKYCITY_ARMOR4_DESCRIPTION_HEADER]
+秃鹫头盔能让他承受更严重的打击.
+
+[ZOMBIE_SKYCITY_ARMOR4_DESCRIPTION]
+{FLAVOR} 空军部队的制式气囊头盔通过了所有安全测试——除了着陆测试之外的所有测试。
+
+
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION]
 {FLAVOR}Did you hear that? Updraft impinging bucket makes a thud sound. Yes, that's the zombie's favorite music, it always brings fun to boring lives of zombies. That's why Buckethead Pilots are the most zombies in hot pursuits.
 
@@ -6589,6 +6751,15 @@ Buckethead Adventurer Zombie
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION_HEADER]
 His rugged bucket provides considerable protection from damage.
+
+[ZOMBIE_LOSTCITY_ARMOR4]
+祖玛头僵尸
+
+[ZOMBIE_LOSTCITY_ARMOR4_DESCRIPTION]
+纯金玛雅面具在阳光下熠熠生辉，只是他的脖子每天都要为这份美丽付出沉重的代价。 
+
+[ZOMBIE_LOSTCITY_ARMOR4_DESCRIPTION_HEADER]
+祖玛头盔能让他承受更严重的打击。
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION]
 Buckethead Adventurer's greatest discovery was that one morning, without warning or reason, there was a bucket on his head.
@@ -6750,6 +6921,15 @@ Neon Buckethead
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION_HEADER]
 Buckets absorb damage because that's just what they do.
 
+[ZOMBIE_EIGHTIES_ARMOR4]
+收音机头僵尸
+
+[ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION]
+头盔里播放的永远只有一首歌，而且每次都在副歌部分卡带。
+
+[ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION_HEADER]
+收音机头盔能让他承受更严重的打击。
+
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION]
 Neon Buckethead Zombie had to go all the way to the dump to find a headband he really liked.
 
@@ -6829,6 +7009,15 @@ Descends down from the sky with a speaker, crushing your plants at the same time
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION_HEADER]
 Pixelated zombie generated by super cool arcade machine. Comes in regular, cone, and bucket flavors.
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4]
+8位砖头僵尸
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4_DESCRIPTION]
+虽然他的砖头头盔重得让他走路都带卡帧效果，但他认为这恰恰体现了像素风格的复古魅力。
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4_DESCRIPTION_HEADER]
+8位砖头盔能让他承受更严重的打击。
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION]
 Being made out of light and positional co-ordinates has no effect on this erzatz zombie's ravenous hunger for tangy brains.
@@ -6917,6 +7106,15 @@ Jurassic Fossilhead
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
 Fossil skulls not only provide a huge amount of damage absorption, but are also extremely classy.
 
+[ZOMBIE_DINO_ARMOR4]
+琥珀头僵尸
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION]
+如果你从琥珀头僵尸身上提取DNA，再把它和青蛙的DNA混合在一起——这么做的话，你在某个节点上恐怕就已经触犯法律了。
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION_HEADER]
+琥珀头盔能让他承受更严重的打击。
+
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION]
 Contrary to his name, Jurassic Fossilhead's fossil head isn't actually a fossil. That skull's maybe a week and a half old, tops.
 
@@ -6939,6 +7137,16 @@ A trudging, damage-resistant zombie who is immune to Primal Peashooter's knockba
 {KEYWORD}Special：{STAT} immune to Primal Peashooter’s knockback
  
 {FLAVOR}Jurassic Bully is slow, stupid, and smells bad. But hey, at least he's punctual.
+
+[ZOMBIE_DINO_BULLY_VETERAN]
+拳击手野人僵尸
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION]
+有人把岩石绑在了拳击手野人僵尸的手上。由于没办法把石头取下来（因为石头绑在他手上），他别无选择，只能"摇滚"起来了。
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION_HEADER]
+双手各绑着一块巨大的岩石，以蛮力猛砸植物造成秒杀。砸碎植物后会使该格地面灼烧焦化，在一定时间内无法种植任何植物。
+
 
 [ZOMBIE_DINO_PUSHEGG]
 Egg Pusher Imp
@@ -7060,6 +7268,15 @@ Buckethead Zombie
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
 His bucket hat makes him extremely resistant to damage.
 
+[ZOMBIE_TUTORIAL_ARMOR4]
+砖头僵尸
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION]
+{FLAVOR}经过与多位故事书中的狼商议后，大家一致认定稻草头盔和木头头盔都不够格，砖石头盔必须被认真考虑。
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION_HEADER]
+砖头头盔能让他承受更严重的打击。
+
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION]
 {FLAVOR}There was a time when Buckethead Zombie was hailed as a zombie genius for his innovative bucket-on-head strategy. It's been a few years, though, and zombies wonder if he's got any surprises left. His secret? He doesn't.
 
@@ -7071,6 +7288,18 @@ His flag marks the arrival of a huge pile or "wave" of zombies.
 
 [ZOMBIE_TUTORIAL_FLAG_DESCRIPTION]
 {FLAVOR}A spelling impaired zombie named "Brian," Flag Zombie keeps thinking the rest of the zombies are talking to him. At least he feels important.
+
+[ZOMBIE_WEST_BULL_VETERAN]
+黑牛小鬼僵尸
+
+[ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION_HEADER]
+拥有极高的血量和骇人的冲撞攻击，每次撞击可秒杀前方植物并向前投掷小鬼骑手越过防线。
+
+[ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION]
+"传奇"这个词可能夸大了黑牛小鬼僵尸在牛仔世界的地位。不过，不要告诉他这一点——除非你迫不及待地想听他滔滔不绝地讲上一个小时的关于套小牛的长篇大论。
+
+[ZOMBIE_WEST_BULLRIDER_DESCRIPTION_HEADER]
+拥
 
 [ZOMBIE_MODERN_BALLOON]
 Balloon Zombie
@@ -7321,6 +7550,16 @@ Steam Bucket Zombie
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
 His forged iron bucket protects him from harm.
 
+[ZOMBIE_STEAM_ARMOR4]
+钟楼头僵尸
+
+[ZOMBIE_STEAM_ARMOR4_DESCRIPTION]
+头顶的蒸汽钟每天准时报时两次，遗憾的是两次都是同一个时间，而且从来不准。
+
+[ZOMBIE_STEAM_ARMOR4_DESCRIPTION_HEADER]
+钟楼头盔能让他承受更严重的打击。
+
+
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
 Buckethead Labor Zombie was rewarded with a salary increase a few days ago. He was very happy, so he asked the forger to forge a labeled iron bucket helmet for him. This iron bucket not only resisted a lot of damage for him, but also highlighted his identity!
 
@@ -7420,6 +7659,16 @@ Buckethead Aristocrat Zombie
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
 His iron bucket provides good protection and is a symbol of aristocracy.
+
+[ZOMBIE_RENAI_ARMOR4]
+雕塑头僵尸
+
+[ZOMBIE_RENAI_ARMOR4_DESCRIPTION]
+文艺复兴大师的杰作，只不过大师在雕刻的时候忘了留呼吸孔，好在僵尸本来就不需要呼吸。
+
+[ZOMBIE_RENAI_ARMOR4_DESCRIPTION_HEADER]
+雕塑头盔能让他承受更严重的打击。
+
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION]
 The bucket is a luxury item among the Aristocrat Zombies, one has to spend 200 brains just to buy one.
@@ -7577,6 +7826,16 @@ Buckethead Samurai Zombie
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
 This wire barrel gives good protection, at least that how the Samurai Zombies think.
+
+[ZOMBIE_HEIAN_ARMOR4]
+石灯笼头僵尸
+
+[ZOMBIE_HEIAN_ARMOR4_DESCRIPTION]
+石灯笼顶盖的内部空间非常适合养金鱼，他也是在某个雨天过后才意外发现这一点的。
+
+[ZOMBIE_HEIAN_ARMOR4_DESCRIPTION_HEADER]
+石灯笼头盔能让他承受更严重的打击。
+
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION]
 This wire barrel might look like it's made with wood, but the rings around it are top level japanned wire rings.
@@ -8231,6 +8490,15 @@ Playing Card Buckethead Zombie
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION_HEADER]
 A playing card buckethead zombie under the Red Queen's command.
 
+[ZOMBIE_FAIRY_TALE_ARMOR4]
+南瓜头僵尸
+
+[ZOMBIE_FAIRY_TALE_ARMOR4_DESCRIPTION]
+灰姑娘的南瓜马车过了午夜会变回南瓜，但他的南瓜不会——因为那根本不是同一颗南瓜。
+
+[ZOMBIE_FAIRY_TALE_ARMOR4_DESCRIPTION_HEADER]
+南瓜头盔能让他承受更严重的打击。
+
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION]
 As a soldier zombie with playing cards, it is very important to go forward bravely, and perhaps nothing is better than a bucket as armor.
 
@@ -8509,6 +8777,23 @@ Elite bumper zombies have toughness bars, electrical attribute attacks can reduc
 [ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION_HEADER]
 加特林泡泡：向前方倾泻大量泡泡子弹，被持续击中的植物将被巨型泡泡包裹并浮出场地。糖果轰炸：泡泡机小鬼往返飞行，并投掷圆形糖果。
 
+[ZOMBIE_ZOMBIE_COSMIC_IMP]
+宇宙小鬼僵尸
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION]
+现在在你面前的是：僵尸COSER界最高的山！僵尸影视圈最长的河！
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION_HEADER]
+宇宙万象：移动至第7列时，会变身为其他世界的小鬼僵尸，血量重置为变身后小鬼的血量。
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR]
+超新星巨人僵尸
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
+超新星巨人僵尸曾是宇宙钓鱼大赛冠军...的助手，他作为助手的任务就是去其他选手的位置，用他那根超新星权杖当鱼竿进行钓鱼。每当他成功钓上一条鱼后，那他周围的鱼就会全部被黑洞吸走。真是卑鄙的手段。
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
+超新星巨人僵尸每次攻击击杀植物时，会将其拓印在权杖上，随后释放黑洞将场上所有同名的植物全部秒杀。
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION]
 Only bumper cars that have passed the car-crash trials can be approved and modified into more sophisticated and dangerous professional bumper cars. The Elite Imp would also be promoted from a pilot to an experimental honorary dummy, and nobody understands why.
@@ -8854,6 +9139,15 @@ Z 公司严格遵守各地的废物处理条例。​
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION_HEADER]
 这位员工用环保的回收桶来保护自己的脑袋
 
+[ZOMBIE_ZCORP_ARMOR4]
+Z公司电脑头僵尸
+
+[ZOMBIE_ZCORP_ARMOR4_DESCRIPTION]
+电脑头僵尸每天对着自己的脑袋上的屏幕工作，唯一让他破防的是被植物揍到蓝屏的那一瞬间，文件没有保存
+
+[ZOMBIE_ZCORP_ARMOR4_DESCRIPTION_HEADER]
+电脑头盔能让他承受更严重的打击
+
 [ZOMBIE_ZCORP_FLAG]
 Z公司旗帜僵尸
 
@@ -8889,6 +9183,15 @@ Z公司鼓励合同工脑洞大开，想出保护头部的创新妙招。​
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION_HEADER]
 回收桶不仅能保护脑袋，更能保护地球的环境。
+
+[ZOMBIE_ZCORP_FEM_ARMOR4]
+Z公司合同工电脑头僵尸
+
+[ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION]
+Z公司一直标榜自己是绿色环保企业，直到有人发现他们的节能秘诀——让合同工全用脑袋上那台电脑办公，电费直接对半砍。
+
+[ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION_HEADER]
+电脑头盔能让他承受更严重的打击。
 
 [ZOMBIE_ZCORP_GARGANTUAR]
 Z公司总部巨型小鬼僵尸
@@ -26540,6 +26843,448 @@ Levitaters levitate random zombies.
 [PINECLONE_AVATAR_PLANTFOOD_DESCRIPTION]
 使用能量豆大招时每个与其同名的克隆体会发射能量光球，为其提供 +10% 攻击力加成，持续 3 秒。克隆植物释放大招时，恢复至完整状态
 
+[PHOENIXFLOAT]
+Flamboyant Float
+
+[PHOENIXFLOAT_DESCRIPTION]
+{KEYWORD}范围：{STAT}单行
+{KEYWORD}植物特征：{STAT}红色植物
+{FLAVOR}凤凰木花坚信：没有僵尸能拒绝一场庆典。即使它们拒绝了，花车也会开到它们脸上。至于那些漫天乱飞的花瓣？主要作用是让僵尸忘记自己原本该往哪边走。
+
+[PHOENIXFLOAT_DESCRIPTION_HEADER]
+可以召唤花车，花车根据搭载的植物释放对应效果
+
+[PHOENIXFLOAT_TOOLTIP]
+可以召唤花车，花车根据搭载的植物释放对应效果
+
+[PHOENIXFLOAT_PRODUCT_SHORT_DESC]
+可以召唤花车，花车根据搭载的植物释放对应效果
+
+[PHOENIXFLOAT_SKILL_LEVEL1]
+花车疾行
+
+[PHOENIXFLOAT_SKILL_LEVEL1_DES]
+花车的生成时间缩短至原来的85%
+
+[PHOENIXFLOAT_SKILL_LEVEL2]
+花车飞驰
+
+[PHOENIXFLOAT_SKILL_LEVEL2_DES]
+花车的生成时间缩短至原来的70%
+
+[PHOENIXFLOAT_SKILL_LEVEL5]
+花瓣满载
+
+[PHOENIXFLOAT_SKILL_LEVEL5_DES]
+有30%的概率生成1辆装载大量花瓣的花车，花车上的植物进行辅助和攻击时都会附带花瓣，被辅助的植物获得额外的攻击力加成和攻速加成；被附带花瓣的攻击击中时，僵尸会往反方向行走5秒。
+
+[PHOENIXFLOAT_AVATAR_NAME]
+凤凰木花车装扮
+
+[STORE_PRODUCT_AVATAR_PHOENIXFLOAT]
+花瓣雨造成的持续伤害和减速效果，持续时间延长至9秒。
+
+[STORE_PRODUCT_AVATAR_PHOENIXFLOAT_TITLE]
+凤凰木花车装扮
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL1_DES]
+凤凰木会周期性召唤乐队花车向右行驶，花车可将撞到的僵尸推向上下行；车上乐队会持续演奏，并对周围 3×3 区域施加对应效果。
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL2_DES]
+花车的生成时间缩短至原来的85%
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL3_DES]
+花车的生成时间缩短至原来的70%
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招
+
+[PHOENIXFLOAT_NEW_SKILL_LEVEL5_DES]
+有30%的概率生成1辆装载大量花瓣的花车，花车上的植物进行辅助和攻击时都会附带花瓣，被辅助的植物获得额外的攻击力加成和攻速加成；被附带花瓣的攻击击中时，僵尸会往反方向行走5秒。
+
+[PHOENIXFLOAT_PLANTFOOD_DESCRIPTION]
+凤凰木召唤一辆飞行的花凤凰花车，在本行和上下2行沿途洒下花瓣雨，对僵尸持续造成伤害，并施加50%减速效果，持续5秒。
+
+[PHOENIXFLOAT_AVATAR_PLANTFOOD_DESCRIPTION]
+花瓣雨造成的持续伤害和减速效果，持续时间延长至9秒。
+
+
+
+
+[COSMICPEA]
+Cosmic Pea
+
+[COSMICPEA_DESCRIPTION]
+{KEYWORD}范围：{STAT}单行
+{KEYWORD}植物特征：{STAT}紫色植物、宇宙家族
+{FLAVOR}宇宙那么大，一颗豌豆那么小。这种反差就真的很让人沉思，你懂吧？
+
+[COSMICPEA_DESCRIPTION_HEADER]
+直线发射子弹，月球基地中可召唤其他豌豆植物种子包
+
+[COSMICPEA_TOOLTIP]
+直线发射子弹，月球基地中可召唤其他豌豆植物种子包
+
+[COSMICPEA_PRODUCT_SHORT_DESC]
+直线发射子弹，月球基地中可召唤其他豌豆植物种子包
+
+[COSMICPEA_SKILL_LEVEL1]
+宇宙补给
+
+[COSMICPEA_SKILL_LEVEL1_DES]
+生成随机豌豆类植物种子包的间隔降低为28秒，有5%概率生产种子包后立即再生产一个
+
+[COSMICPEA_SKILL_LEVEL2]
+宇宙战备
+
+[COSMICPEA_SKILL_LEVEL2_DES]
+生成随机豌豆类植物种子包的间隔降低为25秒，有10%概率生产种子包后立即再生产一个
+
+[COSMICPEA_SKILL_LEVEL5]
+星体旋爆
+
+[COSMICPEA_SKILL_LEVEL5_DES]
+25%概率射出能够旋转缠绕僵尸的星体，星体旋转至中心点时产生一次3x3范围的爆炸伤害
+
+[COSMICPEA_AVATAR_NAME]
+宇宙豌豆装扮
+
+[STORE_PRODUCT_AVATAR_COSMICPEA]
+植物所属行列上的宇宙植物进行进化的植物数量上限增加至 5 颗
+
+[STORE_PRODUCT_AVATAR_COSMICPEA_TITLE]
+宇宙豌豆装扮
+
+[COSMICPEA_NEW_SKILL_LEVEL1_DES]
+攻击可造成宇宙属性伤害，对僵尸施加湮灭效果阻止部分特殊僵尸的死亡效果，还能对僵尸施加星星标记，星星标记数量达5颗时造成一次百分比伤害爆炸。每30秒生产一个豌豆植物种子包
+
+[COSMICPEA_NEW_SKILL_LEVEL2_DES]
+生成随机豌豆类植物种子包的间隔降低为28秒，有5%概率生产种子包后立即再生产一个
+
+[COSMICPEA_NEW_SKILL_LEVEL3_DES]
+生成随机豌豆类植物种子包的间隔降低为25秒，有10%概率生产种子包后立即再生产一个
+
+[COSMICPEA_NEW_SKILL_LEVEL4_DES]
+种植时有中概率立即进化一个形态
+
+[COSMICPEA_NEW_SKILL_LEVEL5_DES]
+概率射出强化星体子弹，造成更高伤害，随着进化形态而逐渐增强
+
+[COSMICPEA_PLANTFOOD_DESCRIPTION]
+所属行列至多3颗宇宙豌豆进化为下一阶段的宇宙豌豆，达到最高阶段时释放大招会释放大量宇宙豌豆子弹
+
+[COSMICPEA_AVATAR_PLANTFOOD_DESCRIPTION]
+植物所属行列上的宇宙植物进行进化的植物数量上限增加至 5 颗
+
+
+
+
+[COSMICMUSHROOM]
+Cosmic Mushroom
+
+[COSMICMUSHROOM_DESCRIPTION]
+{KEYWORD}范围：{STAT}单行
+{KEYWORD}植物特征：{STAT}紫色植物、宇宙家族
+{FLAVOR}他确实很飘。超级飘~~~~~的那种。
+
+[COSMICMUSHROOM_DESCRIPTION_HEADER]
+发射宇宙孢子攻击，月球基地中可召唤其他蘑菇植物种子包
+
+[COSMICMUSHROOM_TOOLTIP]
+发射宇宙孢子攻击，月球基地中可召唤其他蘑菇植物种子包
+
+[COSMICMUSHROOM_PRODUCT_SHORT_DESC]
+发射宇宙孢子攻击，月球基地中可召唤其他蘑菇植物种子包
+
+[COSMICMUSHROOM_SKILL_LEVEL1]
+宇宙增殖
+
+[COSMICMUSHROOM_SKILL_LEVEL1_DES]
+生成随机蘑菇类植物种子包的间隔降低为28秒，有5%概率生产种子包后立即再生产一个
+
+[COSMICMUSHROOM_SKILL_LEVEL2]
+宇宙扩展
+
+[COSMICMUSHROOM_SKILL_LEVEL2_DES]
+生成随机蘑菇类植物种子包的间隔降低为25秒，有10%概率生产种子包后立即再生产一个
+
+[COSMICMUSHROOM_SKILL_LEVEL5]
+蘑菇虫洞
+
+[COSMICMUSHROOM_SKILL_LEVEL5_DES]
+攻击时有概率触发一次Q弹蘑菇虫洞，在前方四格依次打开一个虫洞，并有其他世界蘑菇从洞中探头顶起僵尸造成伤害，根据出现蘑菇的类型触发不同的效果。
+
+[COSMICMUSHROOM_AVATAR_NAME]
+宇宙蘑菇装扮
+
+[STORE_PRODUCT_AVATAR_COSMICMUSHROOM]
+植物所属行列上的宇宙植物进行进化的植物数量上限增加至 5 颗
+
+[STORE_PRODUCT_AVATAR_COSMICMUSHROOM_TITLE]
+宇宙蘑菇装扮
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL1_DES]
+攻击可造成宇宙属性伤害，对僵尸施加湮灭效果阻止僵尸的死亡效果，还能对僵尸施加星星标记，星星标记数量达5颗时造成一次百分比伤害爆炸。每30秒生产一个蘑菇植物种子包
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL2_DES]
+生成随机蘑菇类植物种子包的间隔降低为28秒，有5%概率生产种子包后立即再生产一个
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL3_DES]
+生成随机蘑菇类植物种子包的间隔降低为25秒，有10%概率生产种子包后立即再生产一个
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL4_DES]
+种植时有中概率立即进化一个形态
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL5_DES]
+攻击时有概率触发一次Q弹蘑菇虫洞，在前方四格依次打开一个虫洞，并有其他世界蘑菇从洞中探头顶起僵尸造成伤害，根据出现蘑菇的类型触发不同的效果。
+
+[COSMICMUSHROOM_PLANTFOOD_DESCRIPTION]
+所属行列至多3颗宇宙蘑菇进化为下一阶段的宇宙蘑菇，达到最高阶段时释放大招会释放大量宇宙蘑菇子弹
+
+[COSMICMUSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+植物所属行列上的宇宙植物进行进化的植物数量上限增加至 5 颗
+
+
+
+
+[GRAVITREE]
+Gravitree
+
+[GRAVITREE_DESCRIPTION]
+{KEYWORD}范围：{STAT}3x3范围
+{KEYWORD}植物特征：{STAT}绿色植物、宇宙家族
+{FLAVOR}苹果不会落在离树太远的地方。其他东西也是。
+
+[GRAVITREE_DESCRIPTION_HEADER]
+当僵尸进入3x3范围内后，每隔6秒释放一次重力压制，对范围内僵尸造成伤害与减速效果，持续4秒。飞行僵尸会被压入土中硬控
+
+[GRAVITREE_TOOLTIP]
+范围伤害加减速，对飞行僵尸硬控
+
+[GRAVITREE_PRODUCT_SHORT_DESC]
+范围伤害加减速，对飞行僵尸硬控
+
+[GRAVITREE_SKILL_LEVEL1]
+变很重
+
+[GRAVITREE_SKILL_LEVEL1_DES]
+攻击间隔缩短至5秒，自身获得20%的减伤效果
+
+[GRAVITREE_SKILL_LEVEL2]
+重中之重
+
+[GRAVITREE_SKILL_LEVEL2_DES]
+攻击间隔缩短至4秒，自身获得40%的减伤效果
+
+[GRAVITREE_SKILL_LEVEL5]
+压力山大
+
+[GRAVITREE_SKILL_LEVEL5_DES]
+攻击升级为红色重力，攻击伤害提升，攻击可将范围内所有中小体型僵尸压入土中无法行动（不限于飞行僵尸），持续3秒，随后减速4秒
+
+[GRAVITREE_AVATAR_NAME]
+重力树装扮
+
+[STORE_PRODUCT_AVATAR_GRAVITREE]
+攻击发动时，额外在自身所在格砸下一颗巨型苹果，苹果爆炸对3X3范围造成伤害
+
+[STORE_PRODUCT_AVATAR_GRAVITREE_TITLE]
+重力树装扮
+
+[GRAVITREE_NEW_SKILL_LEVEL1_DES]
+当僵尸进入3x3范围内后，每隔6秒释放一次重力压制，对范围内僵尸造成伤害与减速效果，持续4秒。飞行僵尸会被压入土中硬控
+
+[GRAVITREE_NEW_SKILL_LEVEL2_DES]
+攻击间隔缩短至5秒，自身获得20%的减伤效果
+
+[GRAVITREE_NEW_SKILL_LEVEL3_DES]
+攻击间隔缩短至4秒，自身获得40%的减伤效果
+
+[GRAVITREE_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招
+
+[GRAVITREE_NEW_SKILL_LEVEL5_DES]
+攻击升级为红色重力，攻击伤害提升，攻击可将范围内所有中小体型僵尸压入土中无法行动（不限于飞行僵尸），持续3秒，随后减速4秒
+
+[GRAVITREE_PLANTFOOD_DESCRIPTION]
+重力树蓄力后发动一次超强重力，蓄力期间将5×5范围内的所有中小体型僵尸聚拢至自身所在格，造成伤害并压入土中持续6秒
+
+[GRAVITREE_AVATAR_PLANTFOOD_DESCRIPTION]
+攻击发动时，额外在自身所在格砸下一颗巨型苹果，苹果爆炸对3X3范围造成伤害
+
+
+
+
+
+[DARKMATTER_DRAGONFRUIT]
+Dark Matter Dragonfruit
+
+[DARKMATTER_DRAGONFRUIT_DESCRIPTION]
+{KEYWORD}范围：{STAT}单行
+{KEYWORD}植物特征：{STAT}红色植物、宇宙家族
+{FLAVOR}他们的祖先被追杀至太空深处。如今，后代归来，只为一场冰凉的果味复仇
+
+[DARKMATTER_DRAGONFRUIT_DESCRIPTION_HEADER]
+吐出暗物质火焰弹攻击，对命中的僵尸造成宇宙属性伤害，并施加量子状态。量子状态下法师类僵尸施法速度变慢3倍，平射子弹命中量子状态的僵尸后不会销毁，造成伤害并触发该子弹的命中效果
+
+[DARKMATTER_DRAGONFRUIT_TOOLTIP]
+吐出暗物质火焰弹攻击造成宇宙属性伤害，并施加量子状态。
+
+[DARKMATTER_DRAGONFRUIT_PRODUCT_SHORT_DESC]
+吐出暗物质火焰弹攻击，对命中的僵尸造成宇宙属性伤害，并施加量子状态。量子状态下法师类僵尸施法速度变慢3倍，平射子弹命中量子状态的僵尸后不会销毁，造成伤害并触发该子弹的命中效果
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1]
+能量掌控
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1_DES]
+火焰弹命中目标后会向目标身后产生一格范围爆炸，对范围内的僵尸造成宇宙伤害并施加量子状态
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2]
+能量驾驭
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2_DES]
+火焰弹爆炸范围增加至扇形范围，对范围内的僵尸造成宇宙伤害并施加量子状态
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5]
+湮灭龙息
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5_DES]
+有30%概率吐出坍缩弹,命中湮灭（秒杀）命中的第一个僵尸（除精英、boss类僵尸）后子弹变为普通攻击子弹。使用能量豆大招后，下次触发普通攻击时必定吐出坍缩弹
+
+[DARKMATTER_DRAGONFRUIT_AVATAR_NAME]
+暗物质火龙果装扮
+
+[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT]
+吐息次数增加至5次
+
+[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT_TITLE]
+暗物质火龙果装扮
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
+吐出暗物质火焰弹攻击，对命中的僵尸造成宇宙属性伤害，并施加量子状态。
+量子状态：法师类僵尸施法速度变慢3倍，平射子弹命中量子状态的僵尸后穿透不消失，正常造成伤害并触发该子弹的命中效果
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
+火焰弹命中目标后会向目标身后产生一格范围爆炸，对范围内的僵尸造成宇宙伤害并施加量子状态
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
+火焰弹爆炸范围增加至扇形范围，对范围内的僵尸造成宇宙伤害并施加量子状态
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
+种植时有低概率直接释放能量豆大招
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
+有30%概率吐出坍缩弹,命中湮灭（秒杀）命中的第一个僵尸（除精英、boss类僵尸）后子弹变为普通攻击子弹。使用能量豆大招后，下次触发普通攻击时必定吐出坍缩弹
+
+[DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
+暗物质火龙果召唤巨龙，，向场上随机 3 个僵尸位置各吐出一枚巨型暗物质弹，对落点5×5范围内的僵尸造成 1500 点伤害并施加量子状态。
+
+[DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+巨龙吐息次数增加至5次
+
+
+
+
+[COSMICNUT]
+Cosmic Nut
+
+[COSMICNUT_DESCRIPTION]
+{KEYWORD}范围：{STAT}无主动攻击
+{KEYWORD}植物特征：{STAT}紫色植物、宇宙家族
+{FLAVOR}他是数字命理学的铁杆信徒，但凡你给他个机会，他能就数字3的奥义跟你聊到天荒地老。
+
+[COSMICNUT_DESCRIPTION_HEADER]
+每隔一段时间可进行自主换位，月球基地中可召唤其他坚果植物种子包
+
+[COSMICNUT_TOOLTIP]
+每隔一段时间可进行自主换位，月球基地中可召唤其他坚果植物种子包
+
+[COSMICNUT_PRODUCT_SHORT_DESC]
+每隔一段时间可进行自主换位，月球基地中可召唤其他坚果植物种子包
+
+[COSMICNUT_SKILL_LEVEL1]
+黑洞牵引
+
+[COSMICNUT_SKILL_LEVEL1_DES]
+死后化作一个黑洞将左右各一格的僵尸持续向中心拖拽，持续3秒
+
+[COSMICNUT_SKILL_LEVEL2]
+黑洞吸引
+
+[COSMICNUT_SKILL_LEVEL2_DES]
+死后化作一个黑洞将左右各一格的僵尸持续向中心拖拽，持续6秒
+
+[COSMICNUT_SKILL_LEVEL5]
+黑洞跃迁
+
+[COSMICNUT_SKILL_LEVEL5_DES]
+死亡后的生成的黑洞，可以点击黑洞再点击场上的格子可将黑洞与黑洞左右一格范围内的非免控僵尸传送到目标位置。每个黑洞存在期间只能使用一次传送。黑洞传送后，持续时间刷新为6秒
+
+[COSMICNUT_AVATAR_NAME]
+宇宙坚果装扮
+
+[STORE_PRODUCT_AVATAR_COSMICNUT]
+植物所属行列上的宇宙植物进行进化的植物数量上限增加至 5 颗
+
+[STORE_PRODUCT_AVATAR_COSMICNUT_TITLE]
+宇宙坚果装扮
+
+[COSMICNUT_NEW_SKILL_LEVEL1_DES]
+可手动点击宇宙坚果进行位置转移，每30秒生产一个坚果植物种子包
+
+[COSMICNUT_NEW_SKILL_LEVEL2_DES]
+死后化作一个黑洞将左右各一格的僵尸持续向中心拖拽，持续3秒
+
+[COSMICNUT_NEW_SKILL_LEVEL3_DES]
+死后化作一个黑洞将左右各一格的僵尸持续向中心拖拽，持续6秒
+
+[COSMICNUT_NEW_SKILL_LEVEL4_DES]
+种植时有中概率立即进化一个形态
+
+[COSMICNUT_NEW_SKILL_LEVEL5_DES]
+死亡后的生成的黑洞，可以点击黑洞再点击场上的格子可将黑洞与黑洞左右一格范围内的非免控僵尸传送到目标位置。每个黑洞存在期间只能使用一次传送。黑洞传送后，持续时间刷新为6秒
+
+[COSMICNUT_PLANTFOOD_DESCRIPTION]
+所属行列至多3颗宇宙坚果进化为下一阶段的宇宙坚果，达到最高阶段时释放大招会获得一层陨石护甲
+
+[COSMICNUT_AVATAR_PLANTFOOD_DESCRIPTION]
+植物所属行列上的宇宙植物进行进化的植物数量上限增加至5颗
+
+
+[COSMOSS]
+Cosmoss
+
+[COSMOSS_DESCRIPTION]
+{KEYWORD}用法：{STAT} 可以种植在月球地形
+{KEYWORD}植物特征：{STAT}矮个子、绿色植物
+{FLAVOR}他是茅王·葡草斯利的头号粉丝。
+
+[COSMOSS_DESCRIPTION_HEADER]
+宇宙苔藓可以在月球地形时承载植物。
+
+[COSMOSS_TOOLTIP]
+宇宙苔藓能够让普通植物种在月球上
+
+[COSMOSS_NEW_SKILL_LEVEL1_DES]
+宇宙苔藓能够让普通植物种在月球上
+
+[BONUS_CARD_PIECE_COSMOSS]
+宇宙苔藓碎片
+
+[BONUS_CARD_PIECE_COSMOSS_DESCRIPTION]
+获得宇宙苔藓碎片
+
+[STORE_PRODUCT_AVATAR_COSMOSS_TITLE]
+宇宙苔藓装扮
+
+[COSMOSS_AVATAR_NAME]
+宇宙苔藓装扮
+
+[COSMOSS_AVATAR_PLANTFOOD_DESCRIPTION]
+无
+
+[STORE_PRODUCT_AVATAR_COSMOSS]
+无。
 
 [Plants_End]
 
@@ -27199,6 +27944,9 @@ You can't plant on firecrackers
 [ADVICE_PLANT_NOT_ON_RAIL]
 You can't plant on tracks without a cart
 
+[ADVICE_PLANT_NOT_ON_ROCKET]
+You can't plant on the rocket.
+
 [ADVICE_PLANT_NOT_ON_SEEING_STAR]
 Fill in all the outlined spaces with the target plant!
 
@@ -27403,6 +28151,9 @@ NOT ENOUGH COINS!!!
 
 [ADVICE_AQUARIUM_MAX_BRAIN]
 MAX Brains!
+
+[ADVICE_RADIATION_METEOR]
+RADIATION METEOR INCOMING!
 
 [NARRATIVE_ACTIVITY_LEVELS_INTRO_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Huh? Just went through a tough battle...
@@ -28556,6 +29307,26 @@ Space-Time Rift Limited Reward
 [RANK_AVATAR_CONTENT_TITLE_61066]
 Tyrant Zombie
 
+[rank_avatar_diy_70]
+Three Plants Make a Tiger
+
+[RANK_AVATAR_CONTENT_CONTENT_61067]
+Congratulations! For being a Grandmaster!!!!
+Season 47
+
+[RANK_AVATAR_CONTENT_TITLE_61067]
+Three Plants Make a Tiger
+
+[rank_avatar_diy_71]
+A Thousand Miles Share the Moon
+
+[RANK_AVATAR_CONTENT_CONTENT_61068]
+Congratulations! For being a Grandmaster!!!!
+Season 48
+
+[RANK_AVATAR_CONTENT_TITLE_61068]
+A Thousand Miles Share the Moon
+
 [rank_avatar_diy_60]
 Spring Blooms
 
@@ -29102,6 +29873,9 @@ Update is Available
 
 [EGYPT]
 Ancient Egypt
+
+[MOON]
+Moon Base Z
 
 [EGYPT_CHALLENGE_MINIGAME_A_NAME]
 Mummy Memory - I
@@ -30896,6 +31670,9 @@ Endless Challenge!
 [PLAYERS_TRIP_TO_ATLANTIS]
 {PLAYER}'s Trip to the Underwater World!
 
+[PLAYERS_TRIP_TO_MOON]
+{PLAYER}'s Trip to the Moon Base Z!
+
 [WARNING_LOW_TIDE]
 Low Tide!
 
@@ -32299,6 +33076,9 @@ Don't use Plant Food
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
 You will lose a star if you use plant food do you want to continue?
 
+[STARCHALLENGE_PVZ1_GAME35_BEAT_ZOMBOSS]
+Defeat the Frostbite Caves Zomboss.
+
 [MISTAKE_CLICK]
 NO
 
@@ -32701,6 +33481,27 @@ Great, now don't let these zombies eat your brains!
 [TUTORIAL_WIZARDFINGER_HELP]
 Try zapping them yourself!
 
+[TUTORIAL_SKIP_PINCH_TITLE]
+Skip Power Pinch Tutorial?
+
+[TUTORIAL_SKIP_PINCH_DESC]
+Skipping will proceed to the next tutorial. You can still use Power Pinch normally in this run.
+
+[TUTORIAL_SKIP_FLICK_TITLE]
+Skip Power Toss Tutorial?
+
+[TUTORIAL_SKIP_FLICK_DESC]
+Skipping will proceed to the next tutorial. You can still use Power Toss normally in this run.
+
+[TUTORIAL_SKIP_WIZARD_TITLE]
+Skip Power Zap Tutorial?
+
+[TUTORIAL_SKIP_WIZARD_DESC]
+Skipping will proceed to the next tutorial. You can still use Power Zap normally in this run.
+
+[TUTORIAL_SKIP_BUTTON]
+Skip This Tutorial
+
 [UI_SOCIAL_FRIEND_PICKER_MSG]
 Check out this cool app
 
@@ -32992,6 +33793,12 @@ Not OK Corral - III
 [WEST_LEVEL_NAME]
 Wild West - Day {LEVEL_NUMBER}
 
+[MOON_LEVEL_NAME]
+Moon Base Z - Day {LEVEL_NUMBER}
+
+[MOON_HARD_LEVEL_NAME]
+Moon Base Z (Expert) - Day {LEVEL_NUMBER}
+
 [WHO_ARE_YOU]
 TAP TO ENTER NAME
 
@@ -33048,6 +33855,9 @@ Heian Age
 
 [WORLD_NAME_ATLANTIS]
 Underwater World
+
+[WORLD_NAME_MOON]
+Moon Base Z
 
 [WORLD_NAME_TALE]
 Fairytale Forest
@@ -33283,7 +34093,7 @@ Coins
 [LUCKYCHEST_DES_DESCRIPTION]
 666. sorry i really need to remove text ：(
 
-1. Event：June 2 to June 26. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
+1. Event：August 30 to October 24. Complete mainline (Normal/Hard), Secret Realm, Endless, Penny's Pursuit, Memory, Duo Mode, or Stalemate Escape stages to gain daily progress.
 2. Lucky chests are valid only during the event period.
 3. Claim chests after 1, 5, or 10 daily completions. Progress resets daily.
 4. Chests provide random in-game rewards.
@@ -34263,6 +35073,30 @@ You got a Lawn Mower!
 [UPGRADE_MOWER]
 Lawn Mower
 
+[DATA_COLLECTION_TERMINAL]
+Collection Terminal
+
+[DATA_COLLECTION_TERMINAL_18_INFO]
+In the Moon World, tap the Collection Terminal to open the deployment panel. Select a Linear, Ring, or Cross-type collector and drag it to an available tile. Connecting collectors to crystals within range increases the power cap.
+
+[LIGHTNING_FINGER]
+Power Zap
+
+[LIGHTNING_FINGER_19_INFO]
+Hold your finger down on a zombie to electrocute it!
+
+[FLOATING_FINGER]
+Power Toss
+
+[FLOATING_FINGER_20_INFO]
+Swipe a zombie to toss it around. Swipe it twice to send it off the screen!
+
+[SCISSOR_FINGER]
+Power Pinch
+
+[SCISSOR_FINGER_21_INFO]
+Pinch a zombie to destroy it!
+
 [UPGRADE_MOWER_1_INFO]
 Ancient Egypt Lawn Mower.
 
@@ -34297,7 +35131,7 @@ Renaissance Ages Lawn Mower.
 Heian Ages Lawn Mower.
 
 [UPGRADE_MOWER_17_INFO]
-Underwater World Lawn Mower.
+Moon Base Z Lawn Mower.
 
 [UPGRADE_TREASURE_YETI]
 Unlock Chest Snowman
@@ -36890,7 +37724,10 @@ The network is not strong, please try again after reconnecting
 Unlock after beat {DUNGEON}
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED_HARD]
-Unlock after beat {DUNGEON} ^FF0000 Hard mode^oldclr
+Unlock after beat {DUNGEON} ^FF0000 Hard mode^oldclr.
+
+[PLANT_ADVENTURE_DUNGEON_CLOSED_EXPERT]
+Unlock after beat {DUNGEON} ^FF0000 Expert Mode^oldclr.
 
 [PLANT_ADVENTURE_UNCONNECTED]
 No internet.
@@ -41629,7 +42466,7 @@ Everyone opens red envelopes, and good gifts come and go!
 Colorful Dragon Boat Festival Lucky Zongzi
 
 [FESTIVAL_EVENT_TITLE_OLD]
-Summer Travelogue
+Anniversary Rendez-vous
 
 [FESTIVAL_EVENT_TITLE]
 Kids Fun Paradise
@@ -42707,6 +43544,15 @@ Splits when killed
 [ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
 头上的铁盔为其提供更多防御力
 
+[ZOMBIE_MAUSOLEUM_ARMOR4]
+兵马俑头僵尸
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION]
+不知道是从哪个坑里刨出来的，坚硬程度毋庸置疑——毕竟在地下压了两千年都没碎。唯一的遗憾是这玩意儿跟脑袋焊死了一样摘不下来，洗是没法洗了
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION_HEADER]
+兵马俑头盔能让他承受更严重的打击。
+
 [ZOMBIE_MAUSOLEUM_GARGANTUAR]
 百夫长巨人僵尸
 
@@ -42805,6 +43651,15 @@ Nether Helmethead Zombie protects his most vulnerable spot—his head—with a h
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
 The spirit form of a common Helmethead Soldier Zombie.
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT]
+幽冥兵马俑头僵尸
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION]
+兵马俑头盔的隐藏说明其实就刻在头盔内侧——死后自动进入灵体模式。可惜他戴着头盔的时候看不见，头盔碎了他终于看见了，但此时他已经飘在半空中了
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION_HEADER]
+兵马俑头僵尸的灵体形态
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
 Nether Gargantuar
@@ -46886,6 +47741,9 @@ Remaining {TIME}
 [KILL_ALL_ZOMBIE]
 Collect sun to grow plants to resist zombie invasion.
 
+[KILL_ALL_ZOMBIE_MOON]
+Mine Crystals to grow plants to resist zombie invasion.
+
 [EVIL_DAVID_CHALLENGE_FINISH]
 You've defeated Evil Dave.
 
@@ -47281,6 +48139,9 @@ Leaderboard Rewards Preview
 
 [BOSS_CHALLENGE_HEAD_ID_10000]
 This is a profile picture
+
+[PVZ_ERROR_76113]
+A payment order is already in progress.
 
 [GACHA_ITEM_NORMAL_HEADER]
 Normal Chest
@@ -59306,7 +60167,22 @@ Target： {NUMBER}
 {SAY:WINNIE} can burn coal using fire plants!
 
 [PLANTING_NOT_ON_MANHOLE]
-Can't be placed on a well hole
+Cannot be placed on manholes.
+
+[PLANTING_NEED_COSMOSS_FIRST]
+Please place Cosmoss first.
+
+[PLANTING_COSMOSS_ON_COSMOSS]
+Cannot place Cosmoss on top of Cosmoss.
+
+[PLANTING_COSMOSS_ONLY_UNIVERSE]
+Cosmoss can only be planted inside the Moon Base Z.
+
+[LIFE_SUPPORT_COLLAPSE_SOON]
+The life support system is OVERLOADED. Planted plants will fall asleep in 5 seconds.
+
+[PLANTING_COSMOSS_NOT_ADJACENT_TO_COSMOSS]
+Cosmoss can only be planted on tiles adjacent to other Cosmoss.
 
 [PLANTING_NEED_FLOWERPOT_FIRST]
 Please place the Flower Pot first
@@ -60386,7 +61262,7 @@ Please connect to the internet and try again.
 Boss Challenge Probability
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Actinostemma Party Cannons Pieces
+Flamboyant Float Plant Pieces
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Other Epic Plant Pieces
@@ -61335,6 +62211,15 @@ Complete the easy level on Day 13 of the Underwater World
 Complete the hard level on Day 13 of the Underwater World
 
 [TASK_WORLDTASK_ATLANTIS3]
+Complete the boss battle to finish Underwater World
+
+[TASK_WORLDTASK_MOON1]
+Complete the easy level on Day 13 of the Moon Base Z
+
+[TASK_WORLDTASK_MOON2]
+Complete the expert level on Day 13 of the Moon Base Z
+
+[TASK_WORLDTASK_MOON3]
 Complete the boss battle to finish Underwater World
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
@@ -62618,7 +63503,7 @@ Happy Lunar New Year
 Spring Garden Fair
 
 [BATTLE_ORDER_SUMMER]
-Summer Festival
+Anniversary Rendez-vous
 
 [BATTLE_ORDER_TAB1]
 REWARDS
@@ -62645,7 +63530,7 @@ Happy Lunar New Year
 Spring Garden Fair
 
 [BATTLE_ORDER_TAB5_SUMMER]
-Summer Festival
+Anniversary Rendez-vous
 
 [BATTLE_ORDER_OBTAIN_EXP]
 TASK
@@ -62774,7 +63659,7 @@ Happy Lunar New Year Event Description
 Spring Garden Fair Event Description
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_SUMMER]
-Summer Festival Event Description
+Anniversary Rendez-vous Event Description
 
 [BATTLE_ORDER_DESCRIPTION_AUTUMN]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -62787,7 +63672,7 @@ Summer Festival Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Electric Tailgrape ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -62800,7 +63685,7 @@ Summer Festival Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Electric Tailgrape ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -62812,7 +63697,7 @@ Summer Festival Event Description
    - 150 Gems.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Electric Tailgrape ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -62825,7 +63710,7 @@ Summer Festival Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Electric Tailgrape ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -62838,7 +63723,7 @@ Summer Festival Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^Electric Tailgrape ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
  
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
@@ -63929,11 +64814,11 @@ Play a match in Two-player Mode.
 Plant Cultivation Info
 
 [PLANT_CULTIVATE_DESCRIPTION]
-1. Event duration： August 30 - September 12.
+1. Event duration： August 28 - September 10.
 2. After the event starts, players can select one plant from the list to obtain a 14-day trial of its level 5 version and unlock tasks.
 3. Once a plant is selected, it cannot be changed.
 4. Completing tasks Growth Points. When the Growth Points are fully accumulated, players can receive 10 permanent piece and a costume.
-5. Players who do not complete the tasks within 14 days can log in between September 13-17 and use Gems to claim rewards based on their remaining progress.
+5. Players who do not complete the tasks within 14 days can log in between September 11-15 and use Gems to claim rewards based on their remaining progress.
 6. Plant trial cards can be viewed and used in Backpack -> Items -> Other Items.
 7. After each login, players must enter the Plant Cultivation Plan to view the task list. Rewards can only be claimed after completing the corresponding levels. Do not exit the game during task completion.
 
@@ -65097,6 +65982,72 @@ Trick-or-treat radish June 1st Costume
 
 [NEW_AVATAR_DESCRIPTION_GREENTURNIP_1]
 Attack speed increased by 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_3]
+毁灭菇吾即终焉装扮
+
+[NEW_AVATAR_DESCRIPTION_DOOMSHROOM_3]
+种植冷却减少40%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_5]
+原始豌豆远洋统帅
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_5]
+攻击力提升30%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_6]
+原始豌豆远洋统帅-银河
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_6]
+无
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TIGERSTOOL_3]
+虎头菇虎头虎尾装扮
+
+[NEW_AVATAR_DESCRIPTION_TIGERSTOOL_3]
+眩晕时间增加50%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_3]
+豌豆迫击炮摇篮装扮
+
+[NEW_AVATAR_DESCRIPTION_SLINGPEA_3]
+攻击速度提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DANDELION_2]
+蒲公英太阳帽装扮
+
+[NEW_AVATAR_DESCRIPTION_DANDELION_2]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ANTHURIUM_1]
+电离红掌礼帽装扮
+
+[NEW_AVATAR_DESCRIPTION_ANTHURIUM_1]
+攻击力提升20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MARIGOLD_1]
+金盏花画板装扮
+
+[NEW_AVATAR_DESCRIPTION_MARIGOLD_1]
+普攻生产银币时20%概率额外生产一枚银币
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LEVITATER_2]
+悬浮洋芋雪糕装扮
+
+[NEW_AVATAR_DESCRIPTION_LEVITATER_2]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_APSARLOTUS_2]
+祥云飞莲洋帽装扮
+
+[NEW_AVATAR_DESCRIPTION_APSARLOTUS_2]
+胡旋舞强化时间延长1秒
+
+[NEW_AVATAR_SHORT_DESCRIPTION_NIGHTCAP_3]
+暗夜菇双刀装扮
+
+[NEW_AVATAR_DESCRIPTION_NIGHTCAP_3]
+攻击力提升20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FIREPEASHOOTER_1]
 Flame Peas Anniversary Costume
@@ -68486,7 +69437,7 @@ Back
 Ice Bond Effect
 
 [PLANT_BOND_TAG_ICE_0]
-Every 7 seconds, 2 hailstones (1×1 range) drop at random positions on the field, dealing 500 damage and applying an 80% slow effect to hit zombies for 3 seconds.
+Every 4 seconds, 2 hailstones drop in random positions on the field in a 1×1 area, dealing 2000 damage each. Zombies hit are slowed by 80% for 3 seconds.
 
 [PLANT_BOND_TAG_ICE_1]
 Hailstone count increased by 2. Hail impacts have a 15% chance to freeze the target for 2 seconds.
@@ -68498,7 +69449,7 @@ Hailstone count increased by 2. Hail range expanded to 3×3.
 Flame Bond Effect
 
 [PLANT_BOND_TAG_FLAME_0]
-Fire-type plants have a 25% chance to burn the target for 5 seconds on hit. Burn: Deals 120 damage per second and increases damage taken from fire-type plants by 25%.
+Fire-type plants have a 25% chance to burn the target for 5 seconds on dealing damage. Burn: Deals 200 damage per second and increases damage taken from Fire-type plants by 25%.
 
 [PLANT_BOND_TAG_FLAME_1]
 Zombies killed by burn effects explode, dealing 500 damage to zombies within a 1×1 range.
@@ -68510,31 +69461,31 @@ Explosion range expanded to 3×3.
 Physical Bond Effect
 
 [PLANT_BOND_TAG_PHYSICS_0]
-Each physical plant on the field increases physical plant attack power by 5%.
+Each physical plant on the field increases physical plant attack power by 30%.
 
 [PLANT_BOND_TAG_PHYSICS_1]
-Each physical plant on the field increases all plant attack power by 10%.
+Each physical plant on the field increases all plant attack power by 35%.
 
 [PLANT_BOND_TAG_PHYSICS_2]
-Each physical plant on the field increases all plant attack power by 15% and attack speed by 5%.
+Each physical plant on the field increases all plant attack power by 45% and attack speed by 5%.
 
 [PLANT_BOND_TAG_LIGHTNING_NAME]
 Lightning Bond Effect
 
 [PLANT_BOND_TAG_LIGHTNING_0]
-Electric-type plants have a 15% chance to paralyze the target for 1 second on hit.
+Electric-type plants have a 50% chance to paralyze the target for 1 second on hit.
 
 [PLANT_BOND_TAG_LIGHTNING_1]
-Paralysis trigger chance increased by 10%, and paralysis duration extended by 1 second.
+Increases paralysis chance by 10% and extends paralysis duration by 1 second.
 
 [PLANT_BOND_TAG_LIGHTNING_2]
-Paralyzed enemies have a 25% chance to spawn a 3×3 paralysis field under them. The field lasts 5 seconds, dealing 300 damage per second to zombies within range with a 15% chance to paralyze for 1 second.
+Paralyzed enemies have a 25% chance to spawn a 3×3 paralysis field under them. The field lasts 5 seconds, dealing 1800 damage per second to zombies within range with a 50% chance to paralyze for 1 second.
 
 [PLANT_BOND_TAG_MAGIC_NAME]
 Magic Bond Effect
 
 [PLANT_BOND_TAG_MAGIC_0]
-Magic-type plants have a 15% chance to banish the target for 3 seconds on hit.
+Magic-type plants have a 50% chance to banish the target for 3 seconds on hit.
 
 [PLANT_BOND_TAG_MAGIC_1]
 Physical projectiles pierce through banished targets, dealing damage again to subsequent targets hit.
@@ -68564,19 +69515,19 @@ Pea Bond Effect
 Summons a 1-star Super Gatling Pea.
 
 [PLANT_BOND_PRO_PEA_1]
-Upgrades the 1-star Super Gatling Pea to a 2-star Flame Gatling Pea.
+Upgrades 1-star Super Gatling Pea to 1-star Fire Gatling Pea.
 
 [PLANT_BOND_PRO_PEA_2]
-Upgrades the 2-star Flame Gatling Pea to a 3-star Electric Gatling Pea. Plant Food ability gains an additional effect.
+Upgrades 1-star Fire Gatling Pea to 1-star Electric Gatling Pea, and its Plant Food ability gains additional effects.
 
 [PLANT_BOND_PRO_RESILIENT_NAME]
 Resilient Bond Effect
 
 [PLANT_BOND_PRO_RESILIENT_0]
-Resilient-type plants have their max HP increased by 25%.
+Resilient-type plants have their max HP increased by 100%.
 
 [PLANT_BOND_PRO_RESILIENT_1]
-All plants have their max HP increased by 30%.
+All plants have their max HP increased by 300%.
 
 [PLANT_BOND_PRO_RESILIENT_2]
 When a Resilient-type plant's HP reaches 0, it instantly recovers 50% of its max HP once per battle per plant.
@@ -68594,7 +69545,7 @@ Dragon Soul coverage expanded to 3 rows. Fireball damage range increased.
 Mushroom Bond Effect
 
 [PLANT_BOND_PRO_SHROOM_0]
-At battle start, mushrooms have a 20% chance to drop a spore into a random 3×3 tile around themselves. The spore produces 1 random mushroom plant card after battle and then disappears. Max 2 spores per battle.
+At battle start, mushrooms have a 60% chance to drop a spore into a random 3×3 tile around themselves. The spore produces 1 random mushroom plant card after battle and then disappears. Max 2 spores per battle.
 
 [PLANT_BOND_PRO_SHROOM_1]
 Spores have a low chance to produce special mushroom cards: Iceberg Lettuce and Doom-shroom.
@@ -68610,6 +69561,12 @@ At battle end, each Abyss-type plant produces 10 Abyss Eye fragments. Max 60 fra
 
 [PLANT_BOND_PRO_ABYSS_2]
 At battle end, each Abyss-type plant produces 15 Abyss Eye fragments. Max 120 fragments per battle. Each absorbed fragment accumulates 1 layer, changing the Abyss Eye's abilities.
+
+[PLANT_BOND_PRO_ABYSS_STORE_DESCRIPTION]
+Tier 0: Fires a continuous laser at the nearest zombie on the left every 6 seconds. The laser lasts 4 seconds and deals 200 damage per second.
+Tier 75: Aurora hits splash to a 3×3 area, dealing 300 damage per second to the 3×3 area.
+Tier 200: Fires an additional sweeping laser that scans the entire field. Continuous laser damage increases to 500. The sweeping laser deals 500 damage on contact with zombies.
+Tier 400: The sweeping laser becomes permanent. Continuous laser damage increases to 800. Sweeping laser damage increases to 600.
 
 [PLANT_BOND_TAG_0]
 Ice
@@ -68648,10 +69605,10 @@ Resilient
 Energy
 
 [WAREHOUSE_DISCARD_TITLE]
-Confirm Discard
+Confirm Recycle
 
 [WAREHOUSE_DISCARD_BODY]
-Are you sure you want to discard this item?
+Are you sure you want to recycle this item?
 
 [WAREHOUSE_DISCARD_CONFIRM]
 Confirm
@@ -68669,19 +69626,19 @@ Start Battle
 Confirm Start Battle
 
 [SOUDACHE_START_BATTLE_CONFIRM_BODY]
-There are still unpicked items on the field. Proceed to the next level?
+There are still uncollected items on the field. Start the battle anyway?
 
 [WAREHOUSE_FULL_TITLE]
-Warehouse Full
+Warehouse Inventory Full
 
 [WAREHOUSE_FULL_BODY]
-Warehouse is full. Unable to retrieve item!
+Warehouse inventory is full. Cannot retrieve item!
 
 [WAREHOUSE_NORMAL_FULL_TITLE]
-Normal Warehouse Full
+Warehouse Inventory Full
 
 [WAREHOUSE_NORMAL_FULL_BODY]
-Normal warehouse is full. Cannot store more items!
+Warehouse inventory is full. Cannot add any more items!
 
 [WAREHOUSE_INSURANCE_DEPLOY_TITLE]
 Confirm Deployment
@@ -72298,13 +73255,13 @@ Cold rainy night 3
 Elite Zombies Attack
 
 [S13_MEMORY_LEVEL_NAME_033]
-Summer Festival 1
+Anniversary Rendez-vous 1
 
 [S13_MEMORY_LEVEL_NAME_034]
-Summer Festival 2
+Anniversary Rendez-vous 2
 
 [S13_MEMORY_LEVEL_NAME_035]
-Summer Festival 3
+Anniversary Rendez-vous 3
 
 [S13_MEMORY_LEVEL_NAME_036]
 See Stars
@@ -74692,7 +75649,7 @@ Fairy Tale Bubbles
 Cool and Sweet
 
 [S30_MEMORY_LEVEL_NAME_056]
-Crab Migration
+Sweet Trap
 
 [S30_MEMORY_LEVEL_NAME_057]
 Breaststroke and Butterfly
@@ -75107,6 +76064,315 @@ Roman Zomboss Battle
 
 [NARRATIVE_PVZ1_S31_16_H_INTRO_5]
 {SAY:WINNIE}He might actually be researching something terrifying. We must be careful.
+
+[S31_MEMORY_LEVEL_NAME_057]
+Return to Rome - Day 1
+
+[S31_MEMORY_LEVEL_NAME_058]
+Return to Rome - Day 2
+
+[S31_MEMORY_LEVEL_NAME_059]
+Return to Rome - Day 3
+
+[S31_MEMORY_LEVEL_NAME_060]
+Return to Rome - Day 4
+
+[S31_MEMORY_LEVEL_NAME_061]
+Return to Rome - Day 5
+
+[S31_MEMORY_LEVEL_NAME_062]
+Return to Rome - Day 6
+
+[S31_MEMORY_LEVEL_NAME_063]
+Return to Rome - Day 7
+
+[S31_MEMORY_LEVEL_NAME_064]
+Return to Rome - Day 8
+
+[S31_MEMORY_LEVEL_NAME_BOSS_8]
+Roman Terminator
+
+[S32_MEMORY_LEVEL_NAME_001]
+Symbiotic Vines
+
+[S32_MEMORY_LEVEL_NAME_002]
+Thorny Thickets
+
+[S32_MEMORY_LEVEL_NAME_003]
+Into the Shadows
+
+[S32_MEMORY_LEVEL_NAME_004]
+Magic Duel
+
+[S32_MEMORY_LEVEL_NAME_005]
+The Emperor's March
+
+[S32_MEMORY_LEVEL_NAME_006]
+Thunder and Lightning
+
+[S32_MEMORY_LEVEL_NAME_007]
+Barely Movable
+
+[S32_MEMORY_LEVEL_NAME_008]
+Non-Stop All Day
+
+[S32_MEMORY_LEVEL_NAME_009]
+Return to Jurassic - Day 1
+
+[S32_MEMORY_LEVEL_NAME_010]
+Return to Jurassic - Day 2
+
+[S32_MEMORY_LEVEL_NAME_011]
+Return to Jurassic - Day 3
+
+[S32_MEMORY_LEVEL_NAME_012]
+Return to Jurassic - Day 4
+
+[S32_MEMORY_LEVEL_NAME_013]
+Return to Jurassic - Day 5
+
+[S32_MEMORY_LEVEL_NAME_014]
+Return to Jurassic - Day 6
+
+[S32_MEMORY_LEVEL_NAME_015]
+Return to Jurassic - Day 7
+
+[S32_MEMORY_LEVEL_NAME_016]
+Return to Jurassic - Day 8
+
+[S32_MEMORY_LEVEL_NAME_017]
+August 27, 2026 - Afternoon 1
+
+[S32_MEMORY_LEVEL_NAME_018]
+August 27, 2026 - Midnight 1
+
+[S32_MEMORY_LEVEL_NAME_019]
+August 27, 2026 - Afternoon 2
+
+[S32_MEMORY_LEVEL_NAME_020]
+August 27, 2026 - Midnight 2
+
+[S32_MEMORY_LEVEL_NAME_021]
+Bingwu Year, July 15 - Weishi (1-3 PM)
+
+[S32_MEMORY_LEVEL_NAME_022]
+Bingwu Year, July 15 - Zishi (11 PM-1 AM)
+
+[S32_MEMORY_LEVEL_NAME_023]
+Bingwu Year, July 15 - Nightmare
+
+[S32_MEMORY_LEVEL_NAME_024]
+Zhongyuan Festival Soul Pacification
+
+[S32_MEMORY_LEVEL_NAME_025]
+Caribbean Memories - Day 1
+
+[S32_MEMORY_LEVEL_NAME_026]
+Caribbean Memories - Day 2
+
+[S32_MEMORY_LEVEL_NAME_027]
+Caribbean Memories - Day 3
+
+[S32_MEMORY_LEVEL_NAME_028]
+Caribbean Memories - Day 4
+
+[S32_MEMORY_LEVEL_NAME_029]
+Caribbean Memories - Day 5
+
+[S32_MEMORY_LEVEL_NAME_030]
+Caribbean Memories - Day 6
+
+[S32_MEMORY_LEVEL_NAME_031]
+Caribbean Memories - Day 7
+
+[S32_MEMORY_LEVEL_NAME_032]
+Caribbean Memories - Day 8
+
+[S32_MEMORY_LEVEL_NAME_033]
+Autumn Fields in Falling Maple - Day 1
+
+[S32_MEMORY_LEVEL_NAME_034]
+Autumn Fields in Falling Maple - Day 2
+
+[S32_MEMORY_LEVEL_NAME_035]
+Autumn Fields in Falling Maple - Day 3
+
+[S32_MEMORY_LEVEL_NAME_036]
+Autumn Fields in Falling Maple - Day 4
+
+[S32_MEMORY_LEVEL_NAME_037]
+Autumn Fields in Falling Maple - Day 5
+
+[S32_MEMORY_LEVEL_NAME_038]
+Autumn Fields in Falling Maple - Day 6
+
+[S32_MEMORY_LEVEL_NAME_039]
+Autumn Fields in Falling Maple - Day 7
+
+[S32_MEMORY_LEVEL_NAME_040]
+Autumn Fields in Falling Maple - Day 8
+
+[S32_MEMORY_LEVEL_NAME_BOSS_1]
+Troupe Puppeteer
+
+[S32_MEMORY_LEVEL_NAME_BOSS_2]
+Roaring King Kong
+
+[S32_MEMORY_LEVEL_NAME_BOSS_3]
+Cyclic Performer
+
+[S32_MEMORY_LEVEL_NAME_BOSS_4]
+Bone Sinker
+
+[S32_MEMORY_LEVEL_NAME_BOSS_5]
+Maple Voyager
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Detecting abnormal space-time fluctuations. The front yard is shaking.
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_2]
+{SAY:WINNIE}We can only send out a small number of elite plants at a time to quell the chaos.
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_3]
+{SAY:CRAZYDAVE}I recommend the "veteran ice pro" — a master of outnumbered formation tactics.
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The encirclement of Ice Currants feels as cold as the underworld itself.
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_2]
+{SAY:WINNIE}Detecting that Dave is now chilled to the bone. I suggest using Lycoris to warm up.
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_3}
+{SAY:WINNIE}Its netherworld fire can even set souls ablaze.
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Attention! During thunderstorms, plants on the open roof are more likely to get struck by lightning.
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_2]
+{SAY:ZOMBOSSICON}Don't ask why zombies don't get struck.
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_3]
+{SAY:ZOMBOSSICON}Sincerely, Dr. Zombie-Insulator.
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}Want to use holographic tech to project something even better than Wall-nuts?
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_2]
+{SAY:CRAZYDAVE}Take this Copy Pinecone! Throw it onto your strongest plant.
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_3]
+{SHOUT:CRAZYDAVE}Then enjoy your firepower feast!
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The zombies in the Dark Ages are incredibly powerful, and we have limited firepower here.
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_2]
+{SAY:WINNIE}Going head-to-head will be extremely difficult. We'll need special tactics.
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_3]
+{SAY:CRAZYDAVE}Maybe we can harvest resources from the enemies themselves.
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Have you ever heard the legend of Medusa?
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_2]
+{SAY:CRAZYDAVE}If you accidentally lock eyes with her, you get turned to stone.
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_3]
+{SAY:WINNIE}We also have a "plant Medusa" of our own.
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_4]
+{SAY:WINNIE}It might help us deal with a lot of troublesome zombies.
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Sun is precious! Every planting must be taken seriously.
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_2]
+{SAY:CRAZYDAVE}Put the shovel aside, neighbor. We need to nurture our seeds with care.
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_3]
+{SAY:CRAZYDAVE}Think carefully, prepare the pots, and don't forget to water on time.
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}I found a message in a bottle. The letter inside says:
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_2]
+{SAY:WINNIE}"We invite you all out to sea for a chat. Signed... not zombies."
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_3]
+{SAY:CRAZYDAVE}Let me stuff a reply back in.
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_4]
+{SAY:CRAZYDAVE}"Why don't you come ashore if you're so tough?"
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Warning! Detecting a herd of enraged bulls.
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_2]
+{SAY:WINNIE}They're chasing a horde of zombies straight toward us.
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_3]
+{SAY:CRAZYDAVE}Is it the Running of the Bulls in Spain already?
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Quiet! We've run into an advance scout from the Zombie Archaeology Legion.
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_2]
+{SAY:WINNIE}We need to be careful. Deploying too many plants at once will attract the main zombie force.
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_3]
+{SAY:WINNIE}We need to be stealthy. Let them disappear into the jungle.
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}A single standing Eggplant Ninja can hold back an army.
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_2]
+{SAY:WINNIE}Once it gains mobility, it can dodge and perform advanced attacks at the same time.
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_3]
+{SAY:CRAZYDAVE}Flicking minecarts is an art. The stage is yours, neighbor.
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The Lily Pads have been washed away by the waves.
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_2]
+{SAY:WINNIE}Naval air support is arriving. Prepare for airdrop.
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_3]
+{SAY:CRAZYDAVE}That ship looks awfully familiar.
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}We're hit by corrosive acid rain! All we have are those Trumpet Tulips.
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_2]
+{SAY:WINNIE}We need to find a way to get them into a healing state.
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_3]
+{SAY:CRAZYDAVE}As they say, danger brings out the survival instinct — plants are no exception.
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Decks cleared, full speed ahead!
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_2]
+{SAY:CRAZYDAVE}Now aside from Seagull Zombies and Bungee Zombies, nothing can catch us.
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_3]
+{SAY:WINNIE}Data shows that not everything that flies is a seagull, and not everything that uses a rope is a Bungee Zombie.
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Sit back down. My epic masterpiece will show you what true art is.
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_2]
+{SAY:ZOMBOSSICON}A tragedy of love and sacrifice, brains and destruction — curtain up!
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}I think we're the main characters of this tragedy.
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_4]
+{SAY:WINNIE}A mutual destruction ending seems inevitable.
+
+[CHALLENGE_DESTROY_STONEBLOCK_MID]
+Destroy {GRID_ITEMS} medium-sized petrified statues.
 
 [WARNING_SUPERFANIMP_DROP]
 Fan Frenzy!
@@ -79465,42 +80731,54 @@ Anniversary Challenge - Pirate Seas
 Anniversary Challenge - Wild West
 
 [ANNIVERSARY_10TH_NAME_04]
-Anniversary Challenge - Far Future
-
-[ANNIVERSARY_10TH_NAME_05]
-Anniversary Challenge - Dark Ages
-
-[ANNIVERSARY_10TH_NAME_06]
-Anniversary Challenge - Big Wave Beach
-
-[ANNIVERSARY_10TH_NAME_07]
-Anniversary Challenge - Frostbite Caves
-
-[ANNIVERSARY_10TH_NAME_08]
-Anniversary Challenge - Sky City
-
-[ANNIVERSARY_10TH_NAME_09]
-Anniversary Challenge - Lost City
-
-[ANNIVERSARY_10TH_NAME_10]
-Anniversary Challenge - Neon Mixtape Tour
-
-[ANNIVERSARY_10TH_NAME_11]
-Anniversary Challenge - Jurassic Marsh
-
-[ANNIVERSARY_10TH_NAME_12]
-Anniversary Challenge - Steam Ages
-
-[ANNIVERSARY_10TH_NAME_13]
-Anniversary Challenge - Fairy Forest
-
-[ANNIVERSARY_10TH_NAME_14]
-Anniversary Challenge - Renaissance Ages
-
-[ANNIVERSARY_10TH_NAME_15]
 Anniversary Challenge - Kongfu World
 
+[ANNIVERSARY_10TH_NAME_05]
+Anniversary Challenge - Far Future
+
+[ANNIVERSARY_10TH_NAME_06]
+Anniversary Challenge - Dark Ages
+
+[ANNIVERSARY_10TH_NAME_07]
+Anniversary Challenge - Big Wave Beach
+
+[ANNIVERSARY_10TH_NAME_08]
+Anniversary Challenge - Frostbite Caves
+
+[ANNIVERSARY_10TH_NAME_09]
+Anniversary Challenge - Sky City
+
+[ANNIVERSARY_10TH_NAME_10]
+Anniversary Challenge - Lost City
+
+[ANNIVERSARY_10TH_NAME_11]
+Anniversary Challenge - Neon Mixtape Tour
+
+[ANNIVERSARY_10TH_NAME_12]
+Anniversary Challenge - Jurassic Marsh
+
+[ANNIVERSARY_10TH_NAME_13]
+Anniversary Challenge - Modern Day
+
+[ANNIVERSARY_10TH_NAME_14]
+Anniversary Challenge - Steam Ages
+
+[ANNIVERSARY_10TH_NAME_15]
+Anniversary Challenge - Renaissance Ages
+
 [ANNIVERSARY_10TH_NAME_16]
+Anniversary Challenge - Heian Ages
+
+[ANNIVERSARY_10TH_NAME_17]
+Anniversary Challenge - Underwater World
+
+[ANNIVERSARY_10TH_NAME_18]
+Anniversary Challenge - Fairy Forest
+
+[ANNIVERSARY_10TH_NAME_19]
+Anniversary Challenge - Underground Palace
+
+[ANNIVERSARY_10TH_NAME_20]
 Anniversary Challenge - Party
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_01_N]
@@ -82173,6 +83451,9 @@ Ice
 [PLANT_TAG_38]
 Spirit Realm
 
+[PLANT_TAG_39]
+Cosmic
+
 [PLANT_TAG_18]
 Summon
 
@@ -83624,6 +84905,306 @@ Reach 6 ★
 
 [ANNIVERSARY_2025_TASK_NAME_16_5]
 Reach 10 ★
+
+[ANNIVERSARY_2026_TASK_NAME_1_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Pharaoh Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_1_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_1_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_1_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_1_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_2_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Seagull Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_2_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_2_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_2_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_2_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_3_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Chicken Wrangler Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_3_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_3_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_3_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_3_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_4_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Kungfu Bronze Man Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_4_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_4_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_4_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_4_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_5_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Robot Conehead Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_5_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_5_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_5_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_5_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_6_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Archmage Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_6_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_6_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_6_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_6_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_7_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Octopus Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_7_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_7_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_7_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_7_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_8_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Ice Age Chief Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_8_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_8_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_8_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_8_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_9_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Twin-Cabin Plane Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_9_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_9_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_9_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_9_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_10_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Porter Imp Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_10_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_10_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_10_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_10_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_11_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Arcade Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_11_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_11_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_11_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_11_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_12_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Dino Trainer Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_12_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_12_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_12_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_12_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_13_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), All-Star Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_13_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_13_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_13_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_13_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_14_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Coal Miner Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_14_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_14_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_14_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_14_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_15_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Glider Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_15_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_15_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_15_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_15_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_16_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Onmyoji Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_16_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_16_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_16_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_16_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_17_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Priest Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_17_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_17_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_17_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_17_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_18_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Witch Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_18_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_18_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_18_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_18_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_19_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Cavalry Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_19_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_19_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_19_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_19_5]
+Reach 10★
+
+[ANNIVERSARY_2026_TASK_NAME_20_1]
+Complete three combination challenges: Increase Specialist Plant Consumption (1★), Anniversary Flying Zombie Movement Speed +50% (2★), Zombie Speed Boost (3★)
+
+[ANNIVERSARY_2026_TASK_NAME_20_2]
+Reach 2★
+
+[ANNIVERSARY_2026_TASK_NAME_20_3]
+Reach 4★
+
+[ANNIVERSARY_2026_TASK_NAME_20_4]
+Reach 6★
+
+[ANNIVERSARY_2026_TASK_NAME_20_5]
+Reach 10★
 
 [RE_HALLOWEEN_LEVEL_NAME_01]
 Ez level - evil Night 1
@@ -86390,10 +87971,16 @@ Clear 1 Creative Courtyard level daily
 Clear 1 Memory Journey level daily
 
 [NFSLINKAGE_TASK_NAME_9]
-Daily Challenge： New Underwater World Level
+Complete 1 Moon Base Z level daily.
+
+[NFSLINKAGE_TASK_NAME_20]
+Complete 1 Moon Base Z level daily.
 
 [NFSLINKAGE_TASK_NAME_10]
-Clear Underwater World World Level 12
+Clear Moon Base Z level 12.
+
+[NFSLINKAGE_TASK_NAME_19]
+Clear Moon Base Z level 12.
 
 [PENNY_GIFT_SHORT_DESCRIPTION]
 Open Penny's Future Gift Box for great rewards
@@ -86450,10 +88037,10 @@ Used to buy items in Penny's Future Gift Box
 From Penny's Future Gift Box coin packs
 
 [MAT_LUCKYCHEST]
-Lucky Chest Season 8
+Lucky Chest Season 9
 
 [MAT_LUCKYCHEST_USE]
-Open for random rewards July 2 to August 26.
+Open for random rewards August 30 to September 24.
 
 [MAT_LUCKYCHEST_GOT_WAY]
 From Lucky Chest event or weekly packs
@@ -86478,6 +88065,9 @@ Dunhuang Tasks
 
 [NFS_LINKAGE_TAB2_9]
 Summer Tasks
+
+[NFS_LINKAGE_TAB2_10]
+Anniversary Tasks
 
 [NFS_LINKAGE_TAB3]
 Reward Shop
@@ -86505,6 +88095,9 @@ Dunhuang Adventure Event Description
 
 [NFSLINKAGE_DESCRIPTION_TITLE_9]
 Cool Summer Event Description
+
+[NFSLINKAGE_DESCRIPTION_TITLE_10]
+Anniversary Celebration Event Description
 
 [NFSLINKAGE_DESCRIPTION_4]
 Event Rules：
@@ -86551,6 +88144,14 @@ Event Rules
 1. Log in daily during the event to claim premium rewards (14-day check-in)
 2. Ingot Tasks include Daily and Event tasks (resets at 0：00 daily)
 3. Event tasks have multiple stages - next stage unlocks after completing current one
+4. Completing Anniversary by completing missions, exchange for rewards in the Store
+5. Remember to exchange before the event ends!
+
+[NFSLINKAGE_DESCRIPTION_10]
+Event Rules
+1. Log in daily during the event to claim premium rewards (14-day check-in)
+2. Ingot Tasks include Daily and Event tasks (resets at 0：00 daily)
+3. Event tasks have multiple stages - next stage unlocks after completing current one
 4. Completing Summer by completing missions, exchange for rewards in the Store
 5. Remember to exchange before the event ends!
 
@@ -86572,6 +88173,9 @@ Dunhuang Adventure
 [NFSLINKAGE_TITLE_9]
 Cool Summer
 
+[NFSLINKAGE_TITLE_10]
+Anniversary Celebration
+
 [MAT_NFSLINKAGE_TICKET_4]
 Gear
 
@@ -86590,6 +88194,9 @@ Golden Cloud Beads
 [MAT_NFSLINKAGE_TICKET_9]
 Coconut Ball Drink
 
+[MAT_NFSLINKAGE_TICKET_10]
+Celebration Balloon
+
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Gears and exchange them for premium items!
 
@@ -86605,8 +88212,11 @@ During the event, log in daily for 14 days of rewards! Complete missions to earn
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_8]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Golden Cloud Beads and exchange them exclusive rewards!
 
-[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_8]
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_9]
 During the event, log in daily for 14 days of rewards! Complete missions to earn Coconut Ball Drinks and exchange them exclusive rewards!
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_10]
+During the event, log in daily for 14 days of rewards! Complete missions to earn CCelebration Balloon and exchange them exclusive rewards!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Slide your finger to move the vehicles. Horizontal vehicles move left and right, while vertical vehicles move up and down.
@@ -87429,14 +89039,14 @@ Participation Award
 Best Score
 
 [GINGLEBELL_DESCRIPTION_TITLE]
-Underground Palace's Jingle Bells Mechanics Introduction
+Jingle Bells Info
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules：
-Special Mechanic： Attacking hermit crabs does increase your score.
+Special Mechanic： Attacking Cake Tanks does increase your score.
     1. All damage dealt to Scarecrow within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Crab Migration, Crab Rampage, Crab Ambush), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Sweet Trap, Layered Surprises, Carnival Party), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00：00-10：00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
     6. Ranking rewards auto-distribute after 10：00. On July 17, extends to 24 hours (no challenges allowed).
@@ -87608,94 +89218,94 @@ Tomb Jingle
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Crab Migration - Level 1
+Sweet Trap - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Crab Migration - Level 2
+Sweet Trap - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Crab Migration - Level 3
+Sweet Trap - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Crab Migration - Level 1
+Sweet Trap - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Crab Migration - Level 2
+Sweet Trap - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Crab Migration - Level 3
+Sweet Trap - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Crab Ambush - Level 1
+Carnival Party - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Crab Ambush - Level 2
+Carnival Party - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Crab Ambush - Level 3
+Carnival Party - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Crab Migration - Level 1
+Sweet Trap - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Crab Migration - Level 2
+Sweet Trap - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Crab Migration - Level 3
+Sweet Trap - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Crab Migration - Level 1
+Sweet Trap - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Crab Migration - Level 2
+Sweet Trap - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Crab Migration - Level 3
+Sweet Trap - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Crab Ambush - Level 1
+Carnival Party - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Crab Ambush - Level 2
+Carnival Party - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Crab Ambush - Level 3
+Carnival Party - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Crab Migration - Level 1
+Sweet Trap - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Crab Migration - Level 2
+Sweet Trap - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Crab Migration - Level 3
+Sweet Trap - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Crab Rampage - Level 1
+Layered Surprises - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Crab Rampage - Level 2
+Layered Surprises - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Crab Rampage - Level 3
+Layered Surprises - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Crab Ambush - Level 1
+Carnival Party - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Crab Ambush - Level 2
+Carnival Party - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Crab Ambush - Level 3
+Carnival Party - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge： Deal max damage within 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Crab Migration - Level {LEVEL_NUMBER}
+Sweet Trap - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Crab Rampage - Level {LEVEL_NUMBER}
+Layered Surprises - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
 Strolls Through Spring Scenery - Level {LEVEL_NUMBER}
@@ -88131,20 +89741,19 @@ After use, you can select one plant costume from the items to obtain.
 Obtained by purchasing value gift boxes in the Celebration Bundle with a probability.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
-1. Claim a red packet once daily at 12:00–14:00 and 18:00–21:00 (max 2/day).  
+1. Claim a red packet once daily at 12:00–14:00 and 18:00–21:00 UTC +8 (max 2/day).  
 2. Feb 9–22: Daily 21:00 lottery selects one lucky player per server who claimed a red packet. Winner gets the grand prize.  
 3. Feb 15–21: Use draw tickets until 21:59 to enter the physical prize draw. Each ticket counts as one entry; winners drawn at 22:00.  
-4. Unclaimed grand prizes are forfeited.  
-
+4. Unclaimed grand prizes are voided.  
 
 [UINEWYEARREDPACKET_DES_TITLE]
-New Year Red Packet Event
+Festival Red Packet Event
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Happy New Year! Here's a special red packet just for you!
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Happy holidays! Here's a festival red packet for you.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY:newyearcrazydave}Your New Year red packet awaits!
+{SAY:newyearcrazydave}A festival red packet!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
 {NPC_EXIT:newyearcrazydave}
@@ -88159,53 +89768,52 @@ During the event period, you can receive a red packet once daily from 12：00-14
 Player ^FFFF00 {NAME} ^oldclr 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 9!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 28th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 10!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 29th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 11!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 30th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 12!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 31st Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 13!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 1st Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 14!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 2nd Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 15!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 3rd Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 16!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 4th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 17!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 5th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 18!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 6th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 19!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 7th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 20!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 8th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 21!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 9th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the Grand Prize on February 22!
-
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 10th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
 ^0775F7 {ITEM} ^oldclr × {NUMS}
 
 [REDPACKETWIDGET_DES_TITLE]
-Claim Your New Year Red Packet
+Festival Red Packet
 
 [REDPACKETWIDGET_SELECT_TITLE]
 Costume Selection
@@ -88280,24 +89888,24 @@ Sign Up for Lottery
 Get Free Lottery Tickets
 
 [PRODUCT_NEWYEARREDPACKETE_TITLE]
-New Year Red Packet
+Festival Red Packet
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
-Reward Preview：
-February 9： ^FF0000 Universal Fragment^oldclrr*200
-February 10： ^FF0000 Book^oldclrr*10
-February 11： ^FF0000 Fragment^oldclrr*300
-February 12： ^FF0000 Gems^oldclrr*20260
-February 13： ^FF0000 Limited Chest Trophy^oldclrr*5
-February 14： ^FF0000 Universal Fragment^oldclrr*200
-February 15： ^FF0000 Book^oldclrr*10
-February 16： ^FF0000 Fragment^oldclrr*300
-February 17： ^FF0000 Gems^oldclrr*20260
-February 18： ^FF0000 Limited Chest Trophy^oldclrr*5
-February 19： ^FF0000 Universal Fragment^oldclrr*200
-February 20： ^FF0000 Book^oldclrr*10
-February 21： ^FF0000 Fragment^oldclrr*300
-February 22： ^FF0000 Gems ^oldclrr *20260
+Reward Preview:
+August 28: ^ff0000^Universal Fragment^oldclr^ x200
+August 29: ^ff0000^Upgrade Book^oldclr^ x10
+August 30: ^ff0000^Targeted Fragment^oldclr^ x300
+August 31: ^ff0000^Diamonds^oldclr^ x20260
+September 1: ^ff0000^Limited Chest Trophy^oldclr^ x5
+September 2: ^ff0000^Universal Fragment^oldclr^ x200
+September 3: ^ff0000^Upgrade Book^oldclr^ x10
+September 4: ^ff0000^Targeted Fragment^oldclr^ x300
+September 5: ^ff0000^Diamonds^oldclr^ x20260
+September 6: ^ff0000^Limited Chest Trophy^oldclr^ x5
+September 7: ^ff0000^Universal Fragment^oldclr^ x200
+September 8: ^ff0000^Upgrade Book^oldclr^ x10
+September 9: ^ff0000^Targeted Fragment^oldclr^ x300
+September 10: ^ff0000^Diamonds^oldclr^ x20260
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
 Top Lucky Player Award
@@ -88496,10 +90104,16 @@ Shadow of the Demon
 Abhor, hunt, and ultimately become a demon — such is the fate of every demon hunter.
 
 [AVATARCOLLECTIONS_HEAD_ID_25904]
-影焰燃灯
+Shadowflame Lantern
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25904]
-夜幕深处，点亮指引魂魄的冥灯
+Deep in the night, light the underworld lantern that guides lost souls.
+
+[AVATARCOLLECTIONS_HEAD_ID_25922]
+End of All Realms
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25922]
+He shall bring the end of all realms.
 
 [AVATARCOLLECTIONS_HEAD_ID_25808]
 Golden Saddle, Blessings for the New Year
@@ -88548,6 +90162,12 @@ Binding demons as shadows, hunting down the wicked.
 
 [AVATARCOLLECTIONS_THEME_DES23]
 燃魂之火，必以魂熄
+
+[AVATARCOLLECTIONS_THEME_TITLE24]
+End of All Realms
+
+[AVATARCOLLECTIONS_THEME_DES24]
+Ruling over the end, bringing destruction to all realms.
 
 [AVATARCOLLECTIONS_NOT_EXIST]
 Not Owned
@@ -88671,6 +90291,12 @@ Obtained by participating in the Western Demon Hunting Legend event.
 
 [TOYS_HEAD_DES_ID_25895]
 参与活动夜幕冥冥获得
+
+[TOYS_HEAD_ID_25920]
+End of the Universe
+
+[TOYS_HEAD_DES_ID_25920]
+Obtained by participating in the Audience with the End event.
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -88869,6 +90495,12 @@ Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure 
 [TIANGONG_HEAD_DES_ID_25891]
 在天宫寻宝活动中，累积抽取阶段奖励获取
 
+[TIANGONG_HEAD_ID_25913]
+Void Walker
+
+[TIANGONG_HEAD_DES_ID_25913]
+Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
+
 [PVP_ERROR_76030]
 Item cheating detected.
 
@@ -89025,6 +90657,15 @@ Ocean Buckethead Zombie
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
 头上的铁桶提供了极大的保护使他免受伤害
 
+[ZOMBIE_ATLANTIS_ARMOR4]
+海洋珊瑚头僵尸
+
+[ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION]
+珊瑚头僵尸总觉得脑袋时重时轻，百思不得其解，还以为是自己的错觉。其实真相很简单——洋流经过他头上的珊瑚礁时，顺便把鱼群捎进捎出
+
+[ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION_HEADER]
+珊瑚头盔能让他承受更严重的打击。
+
 [ZOMBIE_ATLANTIS_gargantuar]
 Relic Gargantuar
 
@@ -89090,6 +90731,16 @@ Cannot plant on sea urchins
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION_HEADER]
 头上的深海铁桶提供了极大的保护使他免受伤害。
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4]
+遗迹珊瑚头僵尸
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION]
+珊瑚头僵尸一直以为自己的头盔是王国最受欢迎的顶奢单品，殊不知它不过是王国周边随手掰下来的一块珊瑚礁，里面还住着至少三位不愿透露姓名的海洋租客——并且至今没有交过房租。
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION_HEADER]
+珊瑚头盔能让他承受更严重的打击。
+
 
 [ZOMBIE_ATLANTIS_LAND_FLAG]
 遗迹旗帜僵尸
@@ -89255,6 +90906,18 @@ Recalling Memories, Green Shades Accompany Again!
 
 [SUN_AWARD_HEAD_DES_ID_25744]
 Let Happiness Continue to "Sprout"!
+
+[SUN_AWARD_HEAD_ID_25931]
+2026 Golden Sunflower Award
+
+[SUN_AWARD_HEAD_DES_ID_25931]
+Thirteen years together, guarding the garden's spring bloom.
+
+[UNCHARTED_BIRTHDAY_ID_25914]
+Flower-Birth Celebration
+
+[UNCHARTED_BIRTHDAY_HEAD_DES_ID_25914]
+Proof of Perfect Clearance in Anniversary Realm
 
 [UNCHARTED_BIRTHDAY_ID_25745]
 Anniversary Realm Conqueror
@@ -90321,6 +91984,18 @@ Double-Edged Journey
 
 [TIME_SPACE_HEAD_DES_ID_25818]
 Avatar from cumulative assists in Space-Time Rift.
+
+[TIME_SPACE_HEAD_ID_25898]
+Ice Fire Ice Fire Ice
+
+[TIME_SPACE_HEAD_DES_ID_25898]
+Time-Space Rift Assist Cumulative Reward Avatar
+
+[SEARCH_MODE_HEAD_ID_25912]
+The Royal Path
+
+[SEARCH_MODE_HEAD_DES_ID_25912]
+Expedition Gate Reward Avatar
 
 [MAUSOLEUM_TASKDESCRIPTION]
 Complete Endless Level {NUMBER}
@@ -91554,7 +93229,7 @@ Desperate Difficulty
 {NUM}
 
 [SOUDACHE_DIFF_CARRY_DUST_LABEL]
-Carry Capacity
+Cost
 
 [SOUDACHE_DIFF_UNLOCK_HINT0]
 Locked
@@ -91580,8 +93255,8 @@ Clear Hard difficulty first.
 [SOUDACHE_DIFF_LOCKED_PREV_PASS_3]
 Clear Perilous difficulty first.
 
-[SOUDACHE_DIFF_LOCKED_TIME]
-Not yet available.
+[PLAYERS_TRIP_TO_SOUDACHE]
+{PLAYER}'s Trip to the Expedition Gate
 
 [SOUDACHE_DIFF_LOCKED_DAYS_TIME]
 Opens in {NUM} days.
@@ -91611,7 +93286,7 @@ Space-Time Shop
 Owned: {NUM}
 
 [SOUDACHE_SHOP_NOT_ENOUGH_DUST]
-Insufficient Space-Time Crystal Dust!
+Insufficient Time-Space Coins!
 
 [SOUDACHE_SHOP_BUY_CONFIRM]
 Purchase this item?
@@ -91622,263 +93297,285 @@ System Notification
 [SOUDACHE_BAN_REMAINING_SECONDS_DESC]
 Ban time remaining: {NUM} hours
 
+[SOUDACHE_COLLECTION_PEA_BADGE]
+Pea Badge
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PEA_BADGE]
+Pea plants are more likely to appear later in the run.
+Enhancement: Basic attacks from Pea plants have a 20% chance to simultaneously fire 3 peas in a 15° fan-shaped spread to the right.
+
 [SOUDACHE_COLLECTION_EMBLEM_PEA_BADGE]
 Pea Badge
 
 [SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_PEA_BADGE]
-Increases the appearance rate of Pea-type plants. Enhancement: Pea-type plants have a 20% chance to fire 3 peas simultaneously in a 15-degree rightward fan shape on normal attacks.
+Pea plants are more likely to appear later in the run.
+Enhancement: Basic attacks from Pea plants have a 20% chance to simultaneously fire 3 peas in a 15° fan-shaped spread to the right.
+
+[SOUDACHE_COLLECTION_ABYSS_BADGE]
+Abyss Badge
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ABYSS_BADGE]
+Abyss plants are more likely to appear later in the run.
+Enhancement: When an Abyss plant or the Eye of the Abyss defeats a zombie, a Cthulhu Zombie is spawned where the zombie died.
 
 [SOUDACHE_COLLECTION_EMBLEM_ABYSS_BADGE]
 Abyss Badge
 
 [SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_ABYSS_BADGE]
-Increases the appearance rate of Abyss-type plants. Enhancement: When an Abyss-type plant or the Abyss Eye kills a zombie, a Cthulhu Zombie spawns at the zombie's death location.
+Abyss plants are more likely to appear later in the run.
+Enhancement: When an Abyss plant or the Eye of the Abyss defeats a zombie, a Cthulhu Zombie is spawned where the zombie died.
+
+[SOUDACHE_COLLECTION_SHROOM_BADGE]
+Shroom Badge
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SHROOM_BADGE]
+Shroom plants are much more likely to appear later in the run.
 
 [SOUDACHE_COLLECTION_EMBLEM_SHROOM_BADGE]
-Mushroom Badge
+Shroom Badge
 
 [SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_SHROOM_BADGE]
-Significantly increases the appearance rate of Mushroom-type plants.
+Shroom plants are much more likely to appear later in the run.
 
 [SOUDACHE_COLLECTION_CAT_STICKER]
 Cat Sticker
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CAT_STICKER]
-Cat Sticker description.
+A sticker popular among children on Earth in Universe No. 777. Put it on your forehead if you like it! There is a chance you may turn into a kitty after putting it on.
 
 [SOUDACHE_COLLECTION_ZOMBIE_NEWSPAPER]
 Zombie Newspaper
 
 [SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_NEWSPAPER]
-Old newspapers left behind by zombies across various eras, recording chaotic but very zombie-styled news.
+Old newspapers left behind by zombies throughout different eras, filled with chaotic yet distinctly zombie-style news.
 
 [SOUDACHE_COLLECTION_IMP_BACKPACK]
-Children's Day Imp Backpack
+Children’s Day Imp’s Schoolbag
 
 [SOUDACHE_COLLECTION_DESCRIPTION_IMP_BACKPACK]
-A backpack lost by an Imp Zombie during a festival event, filled with candy wrappers, toys, and assorted trinkets.
+A schoolbag left behind by Children’s Day Imp during a holiday event. It is filled with candy wrappers, toys, and all sorts of odds and ends.
 
 [SOUDACHE_COLLECTION_WEIRD_SNACK]
 Weird Snack
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WEIRD_SNACK]
-A very popular snack on a certain planet in Universe NO.666. Highly recommend the tomato flavor!
+A highly popular snack on a certain planet in Universe No. 666. The tomato flavor comes highly recommended!
 
 [SOUDACHE_COLLECTION_BROKEN_POT]
 Broken Iron Pot
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BROKEN_POT]
-An iron pot of unknown origin, looks like it's been heavily smashed.
+An iron pot of unknown origin. It looks as though someone struck it with considerable force.
 
 [SOUDACHE_COLLECTION_SUPER_LOLLIPOP]
 Super Lollipop
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SUPER_LOLLIPOP]
-One lick turns a zombie into a super-zombie. Unfortunately, the zombie holding it always gets taken out before taking a single lick.
+One lick can turn a zombie into a superhero. Unfortunately, every zombie who gets hold of it is defeated before taking a lick.
 
 [SOUDACHE_COLLECTION_SUNFLOWER_STICKER]
 Sunflower Sticker
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SUNFLOWER_STICKER]
-A sticker popular among children on Earth in Universe NO.777. Said to be a fan merchandise of a famous local pop star.
+A sticker popular among children on Earth in Universe No. 777. It is said to be fan merchandise for a famous singer on that planet.
 
 [SOUDACHE_COLLECTION_LOST_BOOT]
 Lost Boot
 
 [SOUDACHE_COLLECTION_DESCRIPTION_LOST_BOOT]
-Just an ordinary boot. The other one is who-knows-where.
+A perfectly ordinary boot. No one knows who is wearing the other one.
 
 [SOUDACHE_COLLECTION_CHOCOLATE]
 Chocolate
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CHOCOLATE]
-</placeholder>
+Special chocolate grown in the garden. It is said to make plants temporarily forget that they are plants.
 
 [SOUDACHE_COLLECTION_GRIM_REAPER_BONE]
-Grim Reaper Zombie Bone
+Tomb Raiser Zombie’s Bone
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GRIM_REAPER_BONE]
-</placeholder>
+The straightest bone in Tomb Raiser Zombie’s body. As for how many bones he has lost, no one can keep count.
 
 [SOUDACHE_COLLECTION_PRISM_GRASS_SHADES]
-Prism Grass Shades
+Magnifying Grass’ Sunglasses
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PRISM_GRASS_SHADES]
-</placeholder>
+Sunglasses that Magnifying Grass wears specifically to look cooler in battle. They do not actually have any lenses.
 
 [SOUDACHE_COLLECTION_WINE_GOURD]
 Wine Gourd
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WINE_GOURD]
-</placeholder>
+An old wine gourd treasured by Drinking Zombie for many years. A single whiff is enough to make plants dance on the spot.
 
 [SOUDACHE_COLLECTION_ZOMBIE_PARACHUTE]
 Zombie Parachute
 
 [SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_PARACHUTE]
-A parachute with 100% positive reviews on the shopping site! As for why there are no negative reviews — please don't ask.
+A parachute with a 100% positive rating on shopping websites! As for why there are no negative reviews, please do not ask.
 
 [SOUDACHE_COLLECTION_TURNIP_SPINNER]
-Turnip Spinner Propeller
+Rotobaga’s Spiral Device
 
 [SOUDACHE_COLLECTION_DESCRIPTION_TURNIP_SPINNER]
-To maintain its extremely high spin speed, this device breaks easily. Good thing Dave has plenty of spare parts ready.
+This device must maintain an extremely high rotation speed, so it breaks very easily. Fortunately, Dave has prepared plenty of replacement parts for it.
 
 [SOUDACHE_COLLECTION_MAGICIAN_CARD_DECK]
-Magic-shroom Card Deck
+Magic-shroom’s Poker Deck
 
 [SOUDACHE_COLLECTION_DESCRIPTION_MAGICIAN_CARD_DECK]
-When not fighting, Magic-shrooms often gather to play a card game called "Beat the Zomboss."
+When there are no battles to fight, Magic-shrooms often get together, pull out their decks, and play a game called Zomboss Hold ’Em.
 
 [SOUDACHE_COLLECTION_WALNUST_IRON_ARMOR]
-Wall-nut Iron Armor
+Wall-nut’s Iron Armor
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WALNUST_IRON_ARMOR]
-"With this armor on, you still think you can break my defense?"
+"With this armor on, you still think you can break through my defenses?"
 
 [SOUDACHE_COLLECTION_DAVE_SALSA]
-Dave's Taco Sauce
+Dave’s Taco Salsa
 
 [SOUDACHE_COLLECTION_DESCRIPTION_DAVE_SALSA]
-Crazy Dave's spare sauce stuffed into the cart before an expedition. Said to make any taco taste more like a taco.
+Backup salsa that Crazy Dave stuffed into the Lawn Mower before the expedition. It is said to make any taco taste even more like a taco.
 
 [SOUDACHE_COLLECTION_ZEN_WATERING_CAN]
 Zen Watering Can
 
 [SOUDACHE_COLLECTION_DESCRIPTION_ZEN_WATERING_CAN]
-An old watering can used in the Zen Garden to tend plants. Even after being carried through the space-time gate into the expedition, it still carries the scent of plant growth.
+An old watering can once used to care for plants in the Zen Garden. Even after being carried into the expedition through the Spacetime Portal, it still carries the scent of growing plants.
 
 [SOUDACHE_COLLECTION_BALANCE_SHEET]
-Two-Player Data Balance Sheet
+Two-Player Mode Balance Sheet
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BALANCE_SHEET]
-A balance sheet covered with revision marks, symbolizing the careful thought and trade-offs behind the expedition mode's number balancing.
+A balance sheet covered in countless revisions, representing the repeated deliberation involved in balancing stat trade-offs.
 
 [SOUDACHE_COLLECTION_POTATO_SERVER]
-Potato-shaped Server
+Potato-Type Server
 
 [SOUDACHE_COLLECTION_DESCRIPTION_POTATO_SERVER]
-An early makeshift data server from Penny's Workshop. It looks like a potato, but it actually did handle important data logging.
+A temporary data server assembled during the early days of Penny’s Workshop. It looks like a potato, but it genuinely handled important data-recording work.
 
 [SOUDACHE_COLLECTION_CARD_PACK]
-Trading Card Pack from Another Game
+Battle Card Pack from a Certain Game
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CARD_PACK]
-A game card pack from Universe NO.666. You never know what card you'll pull.
+A card pack from a game found in Universe No. 666. No one knows what cards it might contain.
 
 [SOUDACHE_COLLECTION_GREENHEAD_DUCK]
-Mallard Duck
+Greenhead Duck
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GREENHEAD_DUCK]
-Quack quack quack? Quack quack quack, quack quack quack, quack quack quack!
+Quack quack quack quack? Quack quack quack quack, quack quack quack quack, quack quack quack quack!
 
 [SOUDACHE_COLLECTION_SWORD_IN_STONE]
 Sword in the Stone
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SWORD_IN_STONE]
-</placeholder>
+Supposedly a sword embedded in a stone within an ancient spacetime fragment. To this day, no plant has managed to pull it out.
 
 [SOUDACHE_COLLECTION_PINATA]
 Piñata
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PINATA]
-</placeholder>
+A colorful paper pony that has been smashed countless times at carnivals. The candy inside vanished long ago.
 
 [SOUDACHE_COLLECTION_BUTTERFLY_FISH]
 Butterfly Fish
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BUTTERFLY_FISH]
-Start with a tiny little fish...
+You start with one tiny little fish...
 
 [SOUDACHE_COLLECTION_BULLHORN_HELMET]
 Bullhorn Helmet
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BULLHORN_HELMET]
-</placeholder>
+A spare helmet belonging to a football player who wishes to remain anonymous. It is said that anyone wearing it will speak with a built-in echo.
 
 [SOUDACHE_COLLECTION_SWEET_HOME]
 Sweet Home
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SWEET_HOME]
-</placeholder>
+The words "Sweet Home" are carved crookedly across it. The inside is completely empty, so its owner has probably gone out for a walk.
 
 [SOUDACHE_COLLECTION_OLD_GRAMOPHONE]
-Old Gramophone
+Vintage Gramophone
 
 [SOUDACHE_COLLECTION_DESCRIPTION_OLD_GRAMOPHONE]
-</placeholder>
+An antique left over from when Penny still used an old-fashioned record player. Its music makes plants sway along involuntarily.
 
 [SOUDACHE_COLLECTION_GAME_DISC]
 VS1000 Garden Warfare Game Disc
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GAME_DISC]
-A game disc from Universe NO.666. Looks like a lot of fun.
+A game disc found in Universe No. 666. It certainly looks fun to play.
 
 [SOUDACHE_COLLECTION_SHINY_WIG]
 Shiny Wig
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SHINY_WIG]
-A wig from a game company employee on Earth in Universe NO.666. Brand new — looks like it's never been worn.
+On Earth in Universe No. 666, this wig belonging to an employee of a certain game company still looks factory-new. It has probably never been worn.
 
 [SOUDACHE_COLLECTION_GOLDEN_FINGER_JAR]
-Golden Finger Jar
+Jar of Preserved Powers
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_FINGER_JAR]
-A jar filled with all kinds of nifty gadgets. The contents seem to vary from universe to universe.
+A jar containing all kinds of wonderfully interesting gadgets. The items stored inside seem to differ from universe to universe.
 
 [SOUDACHE_COLLECTION_STONE_FROG]
 Stone Frog
 
 [SOUDACHE_COLLECTION_DESCRIPTION_STONE_FROG]
-Ribbit! Ribbit! Ribbit! Ribbit! Ribbit-ribbit!
+Pfft! Pfft! Pfft! Pfft! Pfft-pfft-pfft!
 
 [SOUDACHE_COLLECTION_WALKIE_TALKIE]
 Walkie-Talkie
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WALKIE_TALKIE]
-A walkie-talkie used to summon zombie armies. Only certain special zombies can possess one. "Hello? Hello? Why isn't anyone talking?"
+A walkie-talkie used to summon zombie armies. Only certain special zombies are permitted to carry one. "Hello? Hello? Why isn’t anyone talking?"
 
 [SOUDACHE_COLLECTION_PIRATE_TREASURE]
-Pirate Treasure
+Pirates’ Treasure
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PIRATE_TREASURE]
-</placeholder>
+A chest of pirate loot swiped from Dr. Zomboss’ collection vault. It is filled with rusty zombie coins and a yellowed treasure map depicting the day Zomboss was defeated.
 
 [SOUDACHE_COLLECTION_GOLDEN_SHOVEL]
 Golden Shovel
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_SHOVEL]
-This shovel makes you want to dig something up.
+Just looking at this shovel makes you want to give it a dig.
 
 [SOUDACHE_COLLECTION_DRAGON_EGG]
-Dragon Egg
+Dinosaur Egg
 
 [SOUDACHE_COLLECTION_DESCRIPTION_DRAGON_EGG]
-</placeholder>
+An ancient dinosaur egg discovered by accident within a spacetime disturbance. It feels slightly warm to the touch, but no one knows whether it can still hatch.
 
 [SOUDACHE_COLLECTION_GOLD_CART]
-Golden Cart Model
+Golden Lawn Mower Model
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLD_CART]
-A golden commemorative model based on the expedition cart, symbolizing a successful expedition that went deep enough.
+A commemorative golden model based on the Expedition Lawn Mower, symbolizing a successful expedition that ventured deep into the unknown.
 
 [SOUDACHE_COLLECTION_PHARAOH_SCEPTER]
-Pharaoh's Scepter
+Pharaoh’s Scepter
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PHARAOH_SCEPTER]
-A scepter lost in an Ancient Egypt space-time fragment. It carries a strong mark of its era and the authority to change everything.
+A scepter left behind in an Ancient Egyptian spacetime fragment. It bears the unmistakable marks of its era and symbolizes the authority to change everything.
 
 [SOUDACHE_COLLECTION_HONOR_HELMET]
 Honor Helmet
 
 [SOUDACHE_COLLECTION_DESCRIPTION_HONOR_HELMET]
-A golden helmet crafted in honor of a legendary hero on the lawn.
+A golden helmet crafted in tribute to a legendary hero of the lawn.
 
 [SOUDACHE_COLLECTION_GOBLIN_STATUE]
-Goblin Statue
+Gnome Statue
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOBLIN_STATUE]
-</placeholder>
+A stone gnome statue of unknown origin. No matter where you place it, it will always appear somewhere else the next day.
 
 [SOUDACHE_COLLECTION_TITLE]
 Collection Cabinet
@@ -91897,6 +93594,14 @@ Hidden Treasure
 
 [SOUDACHE_BTN_UPGRADE_ALL]
 Upgrade All
+
+[SOUDACHE_HOW_TO_PLAY_TITLE]
+How to Play
+
+[SOUDACHE_UPGRADE_ALL_DESC]
+This upgrade consumes {NUM} Crystal Dust.
+After upgrade, Collection Cabinet increases by {LEVEL} levels.
+Upgrade order is from lowest to highest collection quality.
 
 [SOUDACHE_BTN_TOTAL_PROGRESS]
 Total Collection
@@ -91929,7 +93634,7 @@ Weekly unlock attempts used up.
 
 [SOUDACHE_COLLECTION_UNLOCK_CONFIRM]
 Consume {NUM} Space-Time Crystal Dust to unlock this collectible?
-Remaining attempts this week: {REMAIN}/4
+Remaining attempts this week: {REMAIN}/3
 
 [SOUDACHE_COLLECTION_NOT_ENOUGH_COINS]
 Insufficient Space-Time Crystal Dust! Upgrading all stars requires {NUMS} Space-Time Crystal Dust.
@@ -91977,7 +93682,10 @@ Collection Cabinet Level: ^FFFF00 {VALUE}/{MAX}^oldclr^
 Upgrade all upgradable collectibles at once with Space-Time Crystal Dust?
 
 [SOUDACHE_COLLECTION_ALL_UPGRADE_COST]
-Total Cost: {NUMS} Space-Time Crystal Dust
+Total Cost: {NUMS} Crystal.
+
+[SOUDACHE_COLLECTION_NO_UPGRADEABLE]
+No collectibles are currently available for upgrade.
 
 [SOUDACHE_RARITY_COMMON]
 Common
@@ -92016,16 +93724,16 @@ Confirm
 Choose a badge to infuse new power into your expedition!
 
 [SOUDACHE_GARBAGE_DISCARD_TITLE]
-Confirm Discard
+Confirm Recycle
 
 [SOUDACHE_GARBAGE_DISCARD_BODY]
 Are you sure you want to discard this item?
 
 [SOUDACHE_GARBAGE_DISCARD_WARNING]
-Cannot be recovered after discarding! Discarding does not convert to Space-Time Crystal Dust.
+Will be converted into Time-Space Coins after recycling.
 
 [SOUDACHE_BTN_DISCARD_CONFIRM]
-Confirm Discard
+Confirm Recycle
 
 [SOUDACHE_BTN_CANCEL]
 Cancel
@@ -92052,10 +93760,10 @@ Evacuation Window Available
 Message from Penny
 
 [PVZ_ERROR_76105]
-Data verification failed.
+Abnormal data detected. This round cannot be settled. Click Confirm to return to the main menu.
 
 [SOUDACHE_EVACUATION_PENNY_ADVICE]
-You've successfully held off this wave. Load your loot into the trunk and evacuate.
+You've successfully held off this wave of attack. Move the loot to the warehouse and you can evacuate.
 
 [SOUDACHE_EVACUATION_PENNY_ADVICE_2]
 Risk Warning:
@@ -92112,13 +93820,13 @@ Reward Summary
 Space-Time Crystal Dust
 
 [SOUDACHE_SETTLE_REWARDS_ROW1]
-Loot Conversion
+Loot Rewards
 
 [SOUDACHE_SETTLE_REWARDS_ROW2]
-Unused Crystal Dust Returned
+Difficulty Multiplier Bonus
 
 [SOUDACHE_SETTLE_REWARDS_ROW3]
-Collectible Rewards
+Total Rewards
 
 [SOUDACHE_SETTLE_REWARDS_BTN]
 Confirm Settlement
@@ -92165,6 +93873,118 @@ Look for a Chance to Extract
 [SOUDACHE_HOWTOPLAY_DESC_07]
 The final node of each floor offers an extraction opportunity, allowing you to end the current run and claim your earnings. The deeper you venture, the higher the rarity of resource points and shop items will become. However, you will also encounter stronger zombies, making extraction increasingly difficult. If extraction fails, only items stored in the Safe will be retained.
 
+[SOUDACHE_SAVE_AND_EXIT]
+SAVE & EXIT
+
+[ZOMBIE_SOUDACHE_D1_N6_HUNTER_ELITE]
+精英猎人僵尸
+
+[ZOMBIE_SOUDACHE_D1_N6_HUNTER_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D1_N6_HUNTER_ELITE_DESCRIPTION]
+运动会在远征之门设置了赛场——理由很简单，光在僵尸内部比没意思，得跟植物同台竞技才叫真本事。精英猎人僵尸对此表示热烈欢迎，毕竟每一届的植物选手都是新鲜的，而他的冠军纪录也在同步刷新。
+
+[ZOMBIE_SOUDACHE_D1_N12_WEASELHOARDER_ELITE]
+精英冰鼬僵尸
+
+[ZOMBIE_SOUDACHE_D1_N12_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D1_N12_WEASELHOARDER_ELITE_DESCRIPTION]
+变成精英冰鼬僵尸之后，他和冰鼬的品味也升级了——普通的松果已经满足不了他们，得是远征之门的新鲜货才行。
+
+[ZOMBIE_SOUDACHE_D1_N18_ELECTRIC_ELITE]
+精英闪电枪僵尸
+
+[ZOMBIE_SOUDACHE_D1_N18_ELECTRIC_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D1_N18_ELECTRIC_ELITE_DESCRIPTION]
+听说远征之门对面有全新的导电材料，精英闪电枪僵尸二话不说扛着设备就冲到了门前。
+
+[ZOMBIE_SOUDACHE_D2_N6_WEASELHOARDER_ELITE]
+精英冰鼬僵尸
+
+[ZOMBIE_SOUDACHE_D2_N6_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D2_N6_WEASELHOARDER_ELITE_DESCRIPTION]
+变成精英冰鼬僵尸之后，他和冰鼬的品味也升级了——普通的松果已经满足不了他们，得是远征之门的新鲜货才行。
+
+[ZOMBIE_SOUDACHE_D2_N12_ELECTRIC_ELITE]
+精英闪电枪僵尸
+
+[ZOMBIE_SOUDACHE_D2_N12_ELECTRIC_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D2_N12_ELECTRIC_ELITE_DESCRIPTION]
+听说远征之门对面有全新的导电材料，精英闪电枪僵尸二话不说扛着设备就冲到了门前。
+
+[ZOMBIE_SOUDACHE_D2_N18_CHIEF_ELITE]
+精英冰风酋长僵尸
+
+[ZOMBIE_SOUDACHE_D2_N18_CHIEF_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D2_N18_CHIEF_ELITE_DESCRIPTION]
+被吹飞的次数多了，冰风酋长僵尸总算练出了门道——不等对面掏出扇子，抬手就是一记冰风招呼过去。用他自己的话说，这叫"先下手为强"。
+
+[ZOMBIE_SOUDACHE_D3_N6_ELECTRIC_ELITE]
+精英闪电枪僵尸
+
+[ZOMBIE_SOUDACHE_D3_N6_ELECTRIC_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D3_N6_ELECTRIC_ELITE_DESCRIPTION]
+听说远征之门对面有全新的导电材料，精英闪电枪僵尸二话不说扛着设备就冲到了门前。"先下手为强"。
+
+[ZOMBIE_SOUDACHE_D3_N12_HEALER_ELITE]
+精英治愈者僵尸
+
+[ZOMBIE_SOUDACHE_D3_N12_HEALER_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D3_N12_HEALER_ELITE_DESCRIPTION]
+远征之门后面据说还藏着几条不同属性的龙，他拄着神杖天天在门口转悠，嘴里念叨着"再来一条，再打一条就好"。旁边的僵尸觉得自己是来打仗的，只有他是来刷副本的。
+
+[ZOMBIE_SOUDACHE_D3_N18_WIZARD_ELITE]
+精英魔法师僵尸
+
+[ZOMBIE_SOUDACHE_D3_N18_WIZARD_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D3_N18_WIZARD_ELITE_DESCRIPTION]
+今年的魔法师大会直接搬到了远征之门旁边——理由是植物还没见识过用魔法书垫桌角这种尖端技术。精英魔法师僵尸觉得，是时候开一场学术交流了，虽然对面似乎并没有报名参会的意思。
+
+[ZOMBIE_SOUDACHE_D4_N6_CHIEF_ELITE]
+精英冰风酋长僵尸
+
+[ZOMBIE_SOUDACHE_D4_N6_CHIEF_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D4_N6_CHIEF_ELITE_DESCRIPTION]
+被吹飞的次数多了，冰风酋长僵尸总算练出了门道——不等对面掏出扇子，抬手就是一记冰风招呼过去。用他自己的话说，这叫"先下手为强"。
+
+[ZOMBIE_SOUDACHE_D4_N12_WIZARD_ELITE]
+精英魔法师僵尸
+
+[ZOMBIE_SOUDACHE_D4_N12_WIZARD_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D4_N12_WIZARD_ELITE_DESCRIPTION]
+今年的魔法师大会直接搬到了远征之门旁边——理由是植物还没见识过用魔法书垫桌角这种尖端技术。精英魔法师僵尸觉得，是时候开一场学术交流了，虽然对面似乎并没有报名参会的意思。
+
+[ZOMBIE_SOUDACHE_D4_N18_BALLISTA_ELITE]
+精英罗马攻城车
+
+[ZOMBIE_SOUDACHE_D4_N18_BALLISTA_ELITE_DESCRIPTION_HEADER]
+通过远征之门来到此地
+
+[ZOMBIE_SOUDACHE_D4_N18_BALLISTA_ELITE_DESCRIPTION]
+为了应对远征之门的特殊机制，他又对攻城车进行了一番天才级改造。然后攻城车就卡在了门框上。
+
+
 [ZOMBIE_GLADIATOR_ZOMBIE]
 角斗士僵尸
 
@@ -92182,6 +94002,115 @@ The final node of each floor offers an extraction opportunity, allowing you to e
 
 [ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION]
 “懦弱是最大的耻辱，在僵王博士的名号下，唯有前进！为我献上一切吧！”自从僵尸博士穿越到了古罗马时间线上后，他一直都想说这句台词。注：这句话改编自他偶像的至理名言，据说他的偶像很爱坐在马桶上发呆。
+
+[ZOMBIE_MOON]
+宇航员僵尸
+
+[ZOMBIE_MOON_DESCRIPTION_HEADER]
+普通僵尸，无任何能力
+
+[ZOMBIE_MOON_DESCRIPTION]
+宇航员僵尸总是担惊受怕，因为他的氧气头盔在一次摔倒后破损了一大半。但他是僵尸，根本不需要呼吸，就像鱼离开了自行车。
+
+[ZOMBIE_MOON_FLAG]
+宇航员旗帜僵尸
+
+[ZOMBIE_MOON_FLAG_DESCRIPTION_HEADER]
+普通僵尸，无任何能力
+
+[ZOMBIE_MOON_FLAG_DESCRIPTION]
+作为ZASA宇航旅游局的资深导游，宇航员旗帜僵尸总是会举着一面旗帜来引导僵尸们的聚散。但在太空中没有风，所以他的旗帜总是无法展开。聪明的他将原本布做的旗帜换成铁制的后，就得到了一面永远飘扬的“旗帜”了。
+
+[ZOMBIE_MOON_ARMOR1]
+宇航员路障僵尸
+
+[ZOMBIE_MOON_ARMOR1_DESCRIPTION_HEADER]
+普通僵尸，无任何能力
+
+[ZOMBIE_MOON_ARMOR1_DESCRIPTION]
+为了在没有上下之分的太空世界固定位置，在这种太空专用的路障都会具备十分强的吸力，一旦识别到地面后固定成功，就绝无法被拔出。一般来说，这种路障是不会出现在僵尸头上的。可惜，宇航员路障僵尸从地下爬了出来...
+
+[ZOMBIE_MOON_ARMOR2]
+宇航员铁桶僵尸
+
+[ZOMBIE_MOON_ARMOR2_DESCRIPTION_HEADER]
+普通僵尸，无任何能力
+
+[ZOMBIE_MOON_ARMOR2_DESCRIPTION]
+原本宇航员铁桶僵尸的铁桶是用来装水的，但后来他上了太空才发现，在宇宙中用铁桶装水完全没有意义。所以他将铁桶戴在了头上，严丝合缝，仿佛这个铁桶生来就应该在他头上一般。...
+
+[ZOMBIE_MOON_ARMOR3]
+宇航员陨石僵尸
+
+[ZOMBIE_MOON_ARMOR3_DESCRIPTION_HEADER]
+普通僵尸，无任何能力
+
+[ZOMBIE_MOON_ARMOR3_DESCRIPTION]
+在浩瀚的宇宙中，一只僵尸，被陨石砸到脑袋的几率绝不等于零。宇航员陨石僵尸就是最生动的例子，甚至到现在，镶嵌在他脑袋上的陨石还是没能被他拔下来...
+
+[ZOMBIE_MOON_GARGANTUAR]
+宇航员巨人僵尸
+
+[ZOMBIE_MOON_GARGANTUAR_DESCRIPTION_HEADER]
+普通巨人僵尸，无任何能力
+
+[ZOMBIE_MOON_GARGANTUAR_DESCRIPTION]
+嘿！这大家伙是怎么上来的？我记得飞船没有加大码的座位！什么...什么叫分段运送，到点拼装？
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR]
+超新星巨人僵尸
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
+敲击击杀植物后秒杀全场同名植物
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
+超新星巨人僵尸曾是宇宙钓鱼大赛冠军...的助手，他作为助手的任务就是去其他选手的位置，用他那根超新星权杖当鱼竿进行钓鱼。每当他成功钓上一条鱼后，那他周围的鱼就会全部被黑洞吸走。真是卑鄙的手段。
+
+[ZOMBIE_MOON_WALKER]
+失重漫步者僵尸
+
+[ZOMBIE_MOON_WALKER_DESCRIPTION_HEADER]
+跳跃移动，跳跃期间无法被平射子弹击中，落地期间踩到植物可立刻继续跳跃
+
+[ZOMBIE_MOON_WALKER_DESCRIPTION]
+从一个体操运动员，到成为身姿最为矫健的宇航员，失重漫步者僵尸的励志故事激励了很多的小僵尸。因为他的梦想是跳得更高、更高，高到能够触碰到星星。现在，他做到了！
+
+[ZOMBIE_TELEPORT_LEFT]
+正向传送僵尸
+
+[ZOMBIE_TELEPORT_LEFT_DESCRIPTION_HEADER]
+传送水晶和僵尸，扰乱场上布局
+
+[ZOMBIE_TELEPORT_LEFT_DESCRIPTION]
+包括上厕所、睡觉、还有吃饭的顺序，他和他的双胞胎弟弟都要反过来无论做什么事
+
+[ZOMBIE_TELEPORT_RIGHT]
+反向传送僵尸
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION_HEADER]
+传送水晶和植物，扰乱场上布局
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION]
+他和他的双胞胎哥哥无论做什么事都要反过来，包括吃饭、睡觉、还有上厕所的顺序
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP]
+宇宙小鬼僵尸
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION_HEADER]
+到第七列时变身为更具威胁性的小鬼僵尸
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION]
+现在在你面前的是：僵尸COSER界最高的山！僵尸影视圈最长的河！
+
+[ZOMBIE_MOON_SHIP5000]
+机械战斗巡洋舰5000型
+
+[ZOMBIE_MOON_SHIP5000_DESCRIPTION_HEADER]
+给周围僵尸周期提供护盾。发射宇宙小鬼僵尸，发射四轮后过热
+
+[ZOMBIE_MOON_SHIP5000_DESCRIPTION]
+僵尸宇宙最先进的科技结晶之一，不仅搭载了护盾发生装置，还能够不断从异次元炮管中射出宇宙小鬼僵尸。即便只有四发载弹量，且频繁发射会导致过热降落，可这又有什么关系呢？只要驾驶员仔细寻思如何操纵，他总有一天会重新飞起来的！
+
 
 [POINTSCHALLENGE_DESCRIPTION_TITLE]
 Event Rules
@@ -92339,5 +94268,251 @@ Level 20
 
 [POINTSCHALLENGE_MEMORY_NODE_6]
 Level 26
+
+[NARRATIVE_MOON1_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}The lunar surface is too hostile. We can't plant anything here!
+
+[NARRATIVE_MOON1_TUTORIAL_1_2]
+{SAY:WINNIE}We can try planting on moss tiles instead.
+
+[NARRATIVE_MOON1_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}That's great! How can we create more moss tiles?
+
+[NARRATIVE_MOON1_TUTORIAL_2_2]
+{SAY:WINNIE}Try planting Cosmoss adjacent to existing moss tiles.
+
+[NARRATIVE_MOON1_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Wait, we're planting without using any sun!
+
+[NARRATIVE_MOON1_TUTORIAL_3_2]
+{SAY:WINNIE}That's right. Plants now draw power from the Life Support System instead of relying on sun.
+
+[NARRATIVE_MOON1_TUTORIAL_3_3]
+{SAY:WINNIE}Each plant increases the power load on the Life Support System.
+
+[NARRATIVE_MOON1_TUTORIAL_4_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{EXCITED:ASTRONAUTCRAZYDAVE}The zombie horde is coming! Let me help you plant some!
+
+[NARRATIVE_MOON1_TUTORIAL_5_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Stop planting! The Life Support System is entering buffer overload! Plants are becoming unstable!
+
+[NARRATIVE_MOON1_TUTORIAL_5_2]
+{EXCITED:ASTRONAUTCRAZYDAVE}Heh heh heh~ (not listening)
+
+[NARRATIVE_MOON1_TUTORIAL_6_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Huh? I can't plant anymore. The plants all seem frozen.
+
+[NARRATIVE_MOON1_TUTORIAL_6_2]
+{EXCITED:WINNIE}That's because the Life Support System has entered super-overload! We need to raise the power cap!
+
+[NARRATIVE_MOON1_TUTORIAL_6_3]
+{EXCITED:WINNIE}Try using Collectors! Collectors can harvest crystals to increase the power cap!
+
+[NARRATIVE_MOON1_TUTORIAL_7_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Great! Everything is back to normal!
+
+[NARRATIVE_MOON1_TUTORIAL_7_2]
+{SAY:WINNIE}Then get ready for the next wave!
+
+[NARRATIVE_MOON_2_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Cosmic plants can be planted directly on the lunar surface without the help of Cosmoss.
+
+[NARRATIVE_MOON_2_INTRO_2]
+{SAY:ASTRONAUTCRAZYDAVE}Wait! Sound doesn't travel in a vacuum — why are those zombies still "howling"?
+
+[NARRATIVE_MOON_2_INTRO_3]
+{SAY:ASTRONAUTCRAZYDAVE}Wait! I can "howl" too!
+
+[NARRATIVE_MOON_2_INTRO_4]
+{SAY:WINNIE}I've equipped you with invisible earphones that simulate battlefield sound effects in real time.
+
+[NARRATIVE_MOON_2_INTRO_5]
+{SAY:ASTRONAUTCRAZYDAVE}Can you switch it to taco-chewing sounds instead?
+
+[NARRATIVE_MOON_4_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Those zombies have shiny things on them! Must be promotional stickers!
+
+[NARRATIVE_MOON_4_INTRO_2]
+{SAY:WINNIE}Analysis shows those are teleport beacons.
+
+[NARRATIVE_MOON_4_INTRO_3]
+{SAY:WINNIE}When a low-health zombie retreats, it returns at full health through the beacon. Use Cosmic plants to annihilate them and prevent beacon deployment.
+
+[NARRATIVE_MOON_4_INTRO_4]
+{SAY:ASTRONAUTCRAZYDAVE}So we need to make them disappear completely — no return address left behind.
+
+[NARRATIVE_ROCKET_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Detecting a rocket ahead!
+
+[NARRATIVE_ROCKET_TUTORIAL_1_2]
+{SAY:ASTRONAUTCRAZYDAVE}A rocket! I've already buckled up!
+
+[NARRATIVE_ROCKET_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}When Cosmic Pea, Cosmic Wall-nut, and Cosmic Mushroom ride the rocket, each triggers a different effect.
+
+[NARRATIVE_ROCKET_TUTORIAL_2_2]
+{SAY:CRAZYDAVE}Blast off!!!
+
+[ROCKET_TUTORIAL_PLANT_COSMICPEA]
+Try planting Cosmic Pea on the rocket.
+
+[NARRATIVE_METEOR_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Alert! Radiation meteor detected approaching!
+
+[NARRATIVE_METEOR_TUTORIAL_1_2]
+{SAY:ASTRONAUTCRAZYDAVE}Space delivery? I didn't order a glowing rock!
+
+[NARRATIVE_METEOR_TUTORIAL_2_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Radiation meteors continuously erode nearby tiles. Send Collectors to mine them quickly.
+
+[NARRATIVE_METEOR_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Mining complete. The radiation meteor has provided us with a permanent power boost.
+
+[NARRATIVE_METEOR_TUTORIAL_3_2]
+{SAY:ASTRONAUTCRAZYDAVE}So it wasn't a bad rock — just a rude way of landing!
+
+[METEOR_TUTORIAL_TAP_TERMINAL]
+Tap the Collection Terminal to open the deployment panel.
+
+[METEOR_TUTORIAL_TERMINAL_DRAG]
+Drag the Collection Terminal onto the field.
+
+[MOON1_TUTORIAL_PLANT_PEASHOOTER]
+Drag Peashooter onto a moss tile.
+
+[MOON1_TUTORIAL_PLANT_COSMOSS]
+Plant Universe Moss adjacent to a moss tile to generate more moss tiles.
+
+[MOON1_TUTORIAL_CAPACITY_BANK]
+The top-left corner shows current power usage and power cap.
+
+[MOON1_TUTORIAL_PEASHOOTER_SLOT]
+Plant cards display their power usage value.
+
+[MOON1_TUTORIAL_TERMINAL]
+Tap the Collection Terminal to open the deployment panel.
+
+[MOON1_TUTORIAL_TERMINAL_DRAG]
+Drag the Collection Terminal onto the field.
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
+Pharaoh Zombie Damage Reduction
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER_DESCRIPTION]
+Pharaoh Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER]
+Seagull Zombie Speed Boost
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER_DESCRIPTION]
+Seagull Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER]
+Chicken Wrangler Speed Boost
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER_DESCRIPTION]
+Chicken Wrangler Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER]
+Kungfu Bronze Man Speed Boost
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER_DESCRIPTION]
+Kungfu Bronze Man movement speed increased by 50%.
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER]
+Robot Conehead Damage Reduction
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER_DESCRIPTION]
+Robot Conehead Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER]
+Archmage Zombie Damage Reduction
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER_DESCRIPTION]
+Archmage Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER]
+Octopus Zombie Damage Reduction
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER_DESCRIPTION]
+Octopus Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER]
+Ice Age Chief Damage Reduction
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER_DESCRIPTION]
+Ice Age Chief Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER]
+Twin-Cabin Plane Zombie Speed Boost
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER_DESCRIPTION]
+Twin-Cabin Plane Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER]
+Porter Imp Speed Boost
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER_DESCRIPTION]
+Porter Imp movement speed increased by 50%.
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER]
+Arcade Zombie Damage Reduction
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER_DESCRIPTION]
+Arcade Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER]
+Dino Trainer Speed Boost
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER_DESCRIPTION]
+Dino Trainer Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER]
+All-Star Zombie Speed Boost
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER_DESCRIPTION]
+All-Star Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER]
+Coal Miner Zombie Damage Reduction
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER_DESCRIPTION]
+Coal Miner Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER]
+Glider Zombie Speed Boost
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER_DESCRIPTION]
+Glider Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER]
+Onmyoji Zombie Damage Reduction
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER_DESCRIPTION]
+Onmyoji Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER]
+Priest Zombie Damage Reduction
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER_DESCRIPTION]
+Priest Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER]
+Witch Zombie Damage Reduction
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER_DESCRIPTION]
+Witch Zombie takes 20% less damage from plants.
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER]
+Tomb Cavalry Zombie Speed Boost
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER_DESCRIPTION]
+Tomb Cavalry Zombie movement speed increased by 50%.
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER]
+Anniversary Flying Zombie Speed Boost
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
+Anniversary Flying Zombie movement speed increased by 50%.
 
 [PVZ2_CHINESE_END]
