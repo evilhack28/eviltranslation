@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.2.0 Base 0)
-Version          ： 4.2.0_1
+File Version     ： Text-based (4.2.0 Server 1)
+Version          ： 4.2.0_2
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -50,8 +50,11 @@ ChangeLog
 ======4.2.0_0======
 Added 4.2.0 Text
 
-======4.2.0_0======
+======4.2.0_2======
 Fixed barret issue
+
+======4.2.0_2======
+Fixed Event text and Tips
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
@@ -61,70 +64,72 @@ Fixed barret issue
 
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 28 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 28 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 28 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 28 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 28 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 28 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
 ^00FFFF  Don't forget to check your mail!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_7]
-^00FFFF  Huge thanks to @devourdoom who translated the new zombie
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_8]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 [SPRING_TIPS_9]
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_1)
+^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
 
 
 
@@ -27152,7 +27157,7 @@ Dark Matter Dragonfruit
 湮灭龙息
 
 [DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5_DES]
-有30%概率吐出坍缩弹,命中湮灭（秒杀）命中的第一个僵尸（除精英、boss类僵尸）后子弹变为普通攻击子弹。使用能量豆大招后，下次触发普通攻击时必定吐出坍缩弹
+攻击时有30%概率吐出坍缩弹。坍缩弹命中首个僵尸后，湮灭其所在格内所有非精英、非Boss僵尸，随后转化为普通攻击子弹继续飞行。释放能量豆大招后，下一次普通攻击必定吐出坍缩弹。
 
 [DARKMATTER_DRAGONFRUIT_AVATAR_NAME]
 暗物质火龙果装扮
@@ -27177,7 +27182,7 @@ Dark Matter Dragonfruit
 种植时有低概率直接释放能量豆大招
 
 [DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
-有30%概率吐出坍缩弹,命中湮灭（秒杀）命中的第一个僵尸（除精英、boss类僵尸）后子弹变为普通攻击子弹。使用能量豆大招后，下次触发普通攻击时必定吐出坍缩弹
+攻击时有30%概率吐出坍缩弹。坍缩弹命中首个僵尸后，湮灭其所在格内所有非精英、非Boss僵尸，随后转化为普通攻击子弹继续飞行。释放能量豆大招后，下一次普通攻击必定吐出坍缩弹。
 
 [DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
 暗物质火龙果召唤巨龙，，向场上随机 3 个僵尸位置各吐出一枚巨型暗物质弹，对落点5×5范围内的僵尸造成 1500 点伤害并施加量子状态。
@@ -48144,7 +48149,7 @@ Leaderboard Rewards Preview
 This is a profile picture
 
 [PVZ_ERROR_76113]
-A payment order is already in progress.
+An order is already in progress. Please exit and re-enter to claim.
 
 [GACHA_ITEM_NORMAL_HEADER]
 Normal Chest
@@ -61564,42 +61569,42 @@ Last Discount：
 No Discount
 
 [HEAVEN_TREASURE_TAB1_DES3]
-Draw again：
+Draws until next discount：
 
 [HEAVEN_TREASURE_TAB1_DES4]
-times for next lucky discount
+draws until the next lucky discount.
 
 [HEAVEN_TREASURE_TAB2]
 Special Packs
 
 [HEAVEN_TREASURE_TAB2_DES1]
-Share Discount Code
+Share Code
 
 [HEAVEN_TREASURE_TAB2_DES2]
-Enter Discount Code
+Enter Code
 
 [HEAVEN_TREASURE_USE_CODE]
 Use Discount Code
 
 [HEAVEN_TREASURE_USE_CODE_DES]
-Enter code for 70% off special packs
-Obtain codes by purchasing packs at original price,
-then share with others
+Enter a discount code to purchase the discounted gift pack at 70% off.
+How to obtain a discount code: Players who purchase the special offer at full price will receive a discount code that can be shared with other players.
+Note: The discount code is valid from the date of purchase until the 1st of the following month at 00:00. Be sure to use it in time!
 
 [HEAVEN_TREASURE_FILL_IN_CODE_DES]
-Please enter discount code
+Please enter your discount code.
 
 [HEAVEN_TREASURE_USE_CODE_SUCCESS]
-Congratulations! 70% discount applied
+Congratulations! You've received a 70% off discount.
 
 [HEAVEN_TREASURE_YOUR_CODE]
 Your Discount Code：
 
 [HEAVEN_TREASURE_NO_SHARE_CODE]
-No shareable codes yet. Purchase special pack at original price to get one
+You don't have any shareable discount codes yet. Purchase the special offer pack at full price to obtain one.
 
 [HEAVEN_TREASURE_CODE_OUT_OF_DATA]
-Code expired. Enter new code or purchase at original price?
+The discount code has expired. Please enter a new discount code, or purchase the special offer pack at full price?
 
 [HEAVEN_TREASURE_BACK_REWARD]
 Special Rebate
@@ -64742,7 +64747,7 @@ Are you sure you want to use this trial card?
 Plant Cultivation
 
 [PLANT_CULTIVATE_CONFIRM_SELECT]
-Confirm selection of {NAME} ?
+Confirm selecting {NAME}? ^FF0000^Once selected, it cannot be changed. Please choose carefully!^oldclr^
 
 [PLANT_CULTIVATE_SHORT_DESCRIPTION]
 Join the Plant Cultivation to earn rare plant pieces!
@@ -77898,7 +77903,7 @@ Secret Realm Description
 1. Opening time
 
 [ANNIVERSARY_KEY_INFO_TEXT_2]
-This Uncharted event runs from August 30 to September 20.
+This Uncharted event runs from August 28 to September 20.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3]
 2. Level Unlock
@@ -89753,10 +89758,10 @@ Obtained by purchasing value gift boxes in the Celebration Bundle with a probabi
 Festival Red Packet Event
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Happy holidays! Here's a festival red packet for you.
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Happy 13th anniversary! Here's a red packet for you!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY:newyearcrazydave}A festival red packet!
+{SAY:ASTRONAUTCRAZYDAVE}Open it and see your luck! (why i am an astronaut ?)
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
 {NPC_EXIT:newyearcrazydave}
@@ -94354,7 +94359,7 @@ Level 26
 {NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}When Cosmic Pea, Cosmic Wall-nut, and Cosmic Mushroom ride the rocket, each triggers a different effect.
 
 [NARRATIVE_ROCKET_TUTORIAL_2_2]
-{SAY:CRAZYDAVE}Blast off!!!
+{SAY:ASTRONAUTCRAZYDAVE}Blast off!!!
 
 [ROCKET_TUTORIAL_PLANT_COSMICPEA]
 Try planting Cosmic Pea on the rocket.
