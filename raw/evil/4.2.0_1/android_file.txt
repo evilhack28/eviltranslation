@@ -61587,9 +61587,9 @@ Enter Code
 Use Discount Code
 
 [HEAVEN_TREASURE_USE_CODE_DES]
-Enter a discount code to purchase the discounted gift pack at 70% off.
-How to obtain a discount code: Players who purchase the special offer at full price will receive a discount code that can be shared with other players.
-Note: The discount code is valid from the date of purchase until the 1st of the following month at 00:00. Be sure to use it in time!
+Use a discount code to buy the gift pack at 70% off.
+How to get a code： Purchase the special offer at full price to receive a shareable discount code.
+Note: Codes are valid until 00:00 on the 1st of the following month.
 
 [HEAVEN_TREASURE_FILL_IN_CODE_DES]
 Please enter your discount code.
@@ -89761,7 +89761,7 @@ Festival Red Packet Event
 {NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Happy 13th anniversary! Here's a red packet for you!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY:ASTRONAUTCRAZYDAVE}Open it and see your luck! (why i am an astronaut ?)
+{SAY:newyearcrazydave}Open it and see your luck!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
 {NPC_EXIT:newyearcrazydave}
@@ -89770,7 +89770,7 @@ Festival Red Packet Event
 Sign Up for Lottery
 
 [REDPACKETWIDGET_DES_DESCRIPTION]
-During the event period, you can receive a red packet once daily from 12：00-14：00 and 18：00-21：00.
+During the event, red packets can be claimed daily from 12:00–14:00 and 18:00–21:00 (UTC+8).
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]
 Player ^FFFF00 {NAME} ^oldclr 
