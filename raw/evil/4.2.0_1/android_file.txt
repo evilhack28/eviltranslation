@@ -44738,22 +44738,22 @@ In short, enjoy yourself, haha! ^oldclr
 {NPC_ENTER:crazydaveicon}beware! Don't let the flying machine touch the giant zombies!
 
 [NARRATIVE_CARD_GAME_START_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} Welcome to the new card mode, use cards to win!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Welcome to the new Card Clash! Use your cards to claim victory!
 
 [NARRATIVE_CARD_GAME_START_INTRO_2]
-{EXCITED:crazydave} I can't wait to have a big fight.
+{EXCITED:crazydave}I can't wait to get started.
 
 [NARRATIVE_CARD_GAME_END_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie} is probably like this, use the cards in your hand reasonably to defeat zombies.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}That's about it. Use your cards wisely to defeat the zombies.
 
 [NARRATIVE_CARD_GAME_END_INTRO_2]
-{EXCITED:crazydave} is great, I gradually understood everything.
+{EXCITED:crazydave}Awesome! I'm starting to understand everything now.
 
 [NARRATIVE_CARD_GAME_TURN2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} Oh, it seems that you are lucky. The combination of these cards you draw will have a great effect.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Oh, looks like you're in luck — the cards you drew will combo into something amazing!
 
 [NARRATIVE_CARD_GAME_TURN2_INTRO_2]
-{EXCITED:crazydave} Let me try it.
+{EXCITED:crazydave}Let me try it out!
 
 [NARRATIVE_BESIEGE_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}The spacecraft seems to have something wrong
@@ -71050,13 +71050,13 @@ Plants vs. Traditional Zombies
 Unlocked after completing all level challenge objectives!
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_LEVEL_LOCKED]
-Levels unlock 2 day. this level is not yet available for unlocking.
+2 new levels unlock each day. This level is not available yet.
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_202411_LEVEL_LOCKED]
-Levels unlock 2 day. this level is not yet available for unlocking.
+2 new levels unlock each day. This level is not available yet.
 
 [UNCHARTED_ANNIVERSARY_SELECT_LEVEL_LOCKED]
-Come back tomorrow! 2 new level daily
+2 new levels unlock each day. This level is not available yet.
 
 [UNCHARTED_SPRING_FESTIVAL_2024_SELECT_LEVEL_LOCKED]
 Current level is locked. Please complete the previous level.
@@ -79974,12 +79974,11 @@ HACKER exam - Squash
 Binding devices
 
 [BIND_UNIQUE_ID_DESC]
-1. Binding a device will link your account,and game progress.
+1. Binding a device links your account, device, and save data.
 2. When logging with the same account on a new device, you must bind the device first.
-3. After binding a device, you must wait 12 hours before binding to another device.
-4. Factory resets, formatting, flashing, and other deep cleaning operations will be defined as a new device.
-5. You can bind up to four devices per year,limit reset on January 1st.
-6. eevil bypass it ? https：//mega.nz/folder/DRdRACiL#xzd9Lqi3kz4DwUbvRcVr2g
+3. After binding a device, you must wait 12 hours before binding another device.
+4. Factory resets, formatting, flashing, and other deep-cleaning operations will be recognized as new devices.
+5. Each account can bind multiple devices.
 
 [BIND_UNIQUE_ID_HINT]
 It seems you are logging in on a new device. Please click "Bind Device" on the main screen to rebind before starting the game.
