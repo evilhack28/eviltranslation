@@ -11,8 +11,8 @@ We’ve included unique markers to identify misuse, so if you copy our work, we�
  Evil Translation - Info
 ==========================
 
-File Version     ： Text-based (4.2.0 Server 1)
-Version          ： 4.2.0_2
+File Version     ： Text-based (4.2.4 Base 0)
+Version          ： 4.2.4_0
 Link             ： https：//linktr.ee/evilhack28
 
 
@@ -47,14 +47,8 @@ CREDITS
 ChangeLog
 
 [AGE_TIP_CONTENT]
-======4.2.0_0======
-Added 4.2.0 Text
-
-======4.2.0_2======
-Fixed barret issue
-
-======4.2.0_2======
-Fixed Event text and Tips
+======4.2.4_0======
+Added 4.2.4 Text
 
 [COMPLAIN_CONTENT]
 ^340202 evilhack28 ^oldclr Creator of the mod and translation
@@ -64,72 +58,72 @@ Fixed Event text and Tips
 
 
 [HEALTH_NOTICE_CONTENT_2]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 26 October 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 26 October 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 26 October 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 26 October 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_4]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 26 October 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 ^FF0000 If you paid for this, you have been scammed.
 
 [HEALTH_NOTICE_CONTENT_5]
-^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 29 August 2026)
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^00FFFF Click the "12" in top right for ChangeLog (Lastest Update 26 October 2026)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 ^FF0000 If you paid for this, you have been scammed.
 
 
 
 [SPRING_TIPS_1]
 ^00FFFF  Don't forget to check your mail!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_2]
 ^00FFFF  Don't forget to claim the 3 free Lucky Chests!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_3]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_4]
 ^00FFFF  Be sure not to play any online mods with cheats!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_5]
 ^00FFFF  Don't forget the daily challenge!
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_6]
 ^00FFFF  Made only by EvilHack28.
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_7]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_8]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 [SPRING_TIPS_9]
 ^00FFFF  Found a bug? Please report it at https://discord.gg/B3jZ7QaaSc
-^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version (4.2.0_2)
+^FFFF00 Made by ^FF0000 EvilHack28 ^888888| ^FF5D00 You’re using the ^FFFFFF ^00FF00 Latest Version
 
 
 
@@ -460,6 +454,84 @@ Aeonium Costume 2
 
 [NEW_AVATAR_DESCRIPTION_AEONIUM_1]
 Cooldown reduced by 10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GLACIERSHROOM_2]
+冰川菇断魂魔剑装扮
+
+[NEW_AVATAR_DESCRIPTION_GLACIERSHROOM_2]
+主动技能冷却减少35%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_4]
+曼德拉草燃极音浪装扮
+
+[NEW_AVATAR_DESCRIPTION_MANDRAKE_4]
+种植冷却减少20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_4]
+冰西瓜泳池焦点装扮
+
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_4]
+攻击速度提升25%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_5]
+冰西瓜泳池焦点-彩棱
+
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_5]
+无
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DMDRAGONFRUIT_1]
+暗物质火龙果龙翼装扮
+
+[NEW_AVATAR_DESCRIPTION_DMDRAGONFRUIT_1]
+攻击力提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BROCCOLI_1]
+大力花菜拳套装扮
+
+[NEW_AVATAR_DESCRIPTION_BROCCOLI_1]
+生命值提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
+铜钱草鼓手摇滚装扮
+
+[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
+阳光消耗减少20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_JALAPENO_1]
+火爆辣椒时髦眼镜装扮
+
+[NEW_AVATAR_DESCRIPTION_JALAPENO_1]
+种植冷却减少15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_3]
+暗影豌豆井盖装扮
+
+[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_3]
+攻击力提升20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BOOPHONEGEISHA_1]
+刺眼花艺伎折扇装扮
+
+[NEW_AVATAR_DESCRIPTION_BOOPHONEGEISHA_1]
+攻击力提升20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_3]
+逃脱树根骑士套装装扮
+
+[NEW_AVATAR_DESCRIPTION_ESCAPEROOT_3]
+降低阳光消耗30
+
+[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_3]
+海神草潜水镜装扮
+
+[NEW_AVATAR_DESCRIPTION_AQUAWEED_3]
+攻击速度提升15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_3]
+小喷菇炫目节拍装扮
+
+[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_3]
+四阶落地开大概率提升10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_2]
 电鳗香蕉超级装扮
@@ -854,6 +926,18 @@ Increases chewing speed by {Param_1}%.
 
 [GENE_DESCRIPTION_RHEUMNOBILE]
 PF effect has a {Param_1}% chance to absorb 2 additional zombies.
+
+[GENE_DESCRIPTION_OAKSHOOTER]
+攻击力提升{Param_1}%。
+
+[GENE_DESCRIPTION_OXYGENALGAE]
+2、3 阶的攻击力强化效果提升{Param_1}%。
+
+[GENE_DESCRIPTION_PASSIONFLOWER]
+所有齿轮持续时间增加{Param_1}%。
+
+[GENE_DESCRIPTION_HOYACORDATA]
+安可概率增加{Param_1}%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
 Big Smoke Mushroom Lion Dance Outfit
@@ -4252,6 +4336,12 @@ Limited edition avatar from the Prismatic Customization event.
 [LEVEL_EDITOR_HEAD_DES_ID_25919]
 幻彩定制活动限定头像
 
+[LEVEL_EDITOR_HEAD_ID_25944]
+炎夏冰瓜
+
+[LEVEL_EDITOR_HEAD_DES_ID_25944]
+幻彩定制活动限定头像
+
 [LEVEL_EDITOR_HEAD_ID_25919]
 Interstellar Visitor
 
@@ -4694,6 +4784,12 @@ Planting Trees for Shade
 [NEWYEAR_GIFT_HEAD_DES_ID_25921]
 Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
 
+[NEWYEAR_GIFT_HEAD_ID_25945]
+Peanut Blessings
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25945]
+Claim by reaching the cumulative recharge progress in the Celebration Gift Pack event.
+
 [TEN_THOUSAND_HEAD_ID_25636]
 Richer then dev! 
 
@@ -4741,6 +4837,12 @@ Proof of Perfectly Completing Underground Palace
 [UNCHARTED_NO42_HEAD_DES_ID_10001]
 Proof of Perfectly Completing Parallel Universe No. 41
 
+[UNCHARTED_ROMAN_HEAD_ID_25940]
+Conqueror of Roman Glory
+
+[UNCHARTED_ROMAN_HEAD_DES_ID_25940]
+Proof of Perfectly Completing Roman Glory.
+
 [UNCHARTED_MAUSOLEUM_ID_25868]
 Tomb Maze
 
@@ -4781,14 +4883,16 @@ Decompression failed.
 Server is busy, please try again later.
 
 [PVZ_ERROR_20320]
-You need to wait 12 hours after binding before you can bind to another device.
+After binding, you must wait 1 hour before binding another device.
 
 [PVZ_ERROR_20321]
 You can only bind up to 4 devices per year.
-Bypass it here： https：//mega.nz/folder/DRdRACiL#xzd9Lqi3kz4DwUbvRcVr2g
 
 [PVZ_ERROR_20711]
-Sensitive Word
+Sensitive word detected.
+
+[PVZ_ERROR_20730]
+Insufficient Upgrade Fragments.
 
 [PVZ_ERROR_21508]
 Remaining attempts are full, cannot purchase.
@@ -8569,13 +8673,25 @@ The rulers of the Fairytale world, although they have little combat power themse
 Guard Gargantuar
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION_HEADER]
-The sentinel of the Red Queen Imp, with a heavy shield and astounding capabilities.
+Wields a heavy shield with outstanding abilities.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Special：{STAT} Possesses significant damage reduction, drops shield on death!!
 {KEYWORD}Weaknesses：{STAT} Extreme potency and virtually flawless.
 
 {FLAVOR}Drops a shield to block damage.
+
+[ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR]
+Royal Guard Gargantuar
+
+[ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION_HEADER]
+The personal guard of the Red Queen Imp Zombie, wielding a heavy shield with outstanding abilities.
+
+[ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Traits:{STAT} Powerful damage reduction. Its shield drops upon death!!
+{KEYWORD}Weakness:{STAT} So powerful it seems to have no weaknesses!
+
+{FLAVOR}Throws down its shield to block damage.
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1]
 Mirror Queen Zombie
@@ -15124,7 +15240,7 @@ Moonflower Magic Moon Wand
 Moonflower party popper
 
 [NEW_AVATAR_DESCRIPTION_MOONFLOWER_1]
-Producing sun reduced by 5s
+Sun production speed increased by 15%.
 
 [GRIMROSE]
 Grimrose
@@ -26345,13 +26461,13 @@ Levitaters levitate random zombies.
 
 [APSARLOTUS_NEW_SKILL_LEVEL1_DES]
 在前方1格生成祥云。在其上种植植物若未触发四阶觉醒，将消耗该植物200%的基础阳光消耗（最低消耗50点）强制触发四阶觉醒并提升100%攻击力。
-【胡旋舞】：每10秒提升3x3范围内植物的50%攻速与20%攻击力，持续5秒。
+【胡旋舞】：开始起舞时，立即使3×3范围内的植物提升50%攻速与20%攻击力，持续5秒。舞蹈结束后进入10秒冷却
 
 [APSARLOTUS_NEW_SKILL_LEVEL2_DES]
-祥云触发代价降低，扣除的阳光比例由200%降低至100%。【胡旋舞】的触发间隔缩短至每8秒触发一次。
+祥云的触发代价降低，扣除的阳光比例由200%降至100%。【胡旋舞】结束后的冷却时间由10秒缩短至8秒。
 
 [APSARLOTUS_NEW_SKILL_LEVEL3_DES]
-祥云触发代价降低，扣除的阳光比例由100%降低至50%。【胡旋舞】的触发间隔缩短，缩短至每6秒触发一次。
+祥云的触发代价降低，扣除的阳光比例由100%降至50%。【胡旋舞】结束后的冷却时间由8秒缩短至6秒。
 
 [APSARLOTUS_NEW_SKILL_LEVEL4_DES]
 种植时有中概率直接释放能量豆大招
@@ -27124,70 +27240,70 @@ Gravitree
 
 
 
-[DARKMATTER_DRAGONFRUIT]
+[DMDRAGONFRUIT]
 Dark Matter Dragonfruit
 
-[DARKMATTER_DRAGONFRUIT_DESCRIPTION]
+[DMDRAGONFRUIT_DESCRIPTION]
 {KEYWORD}范围：{STAT}单行
 {KEYWORD}植物特征：{STAT}红色植物、宇宙家族
 {FLAVOR}他们的祖先被追杀至太空深处。如今，后代归来，只为一场冰凉的果味复仇
 
-[DARKMATTER_DRAGONFRUIT_DESCRIPTION_HEADER]
+[DMDRAGONFRUIT_DESCRIPTION_HEADER]
 吐出暗物质火焰弹攻击，对命中的僵尸造成宇宙属性伤害，并施加量子状态。量子状态下法师类僵尸施法速度变慢3倍，平射子弹命中量子状态的僵尸后不会销毁，造成伤害并触发该子弹的命中效果
 
-[DARKMATTER_DRAGONFRUIT_TOOLTIP]
+[DMDRAGONFRUIT_TOOLTIP]
 吐出暗物质火焰弹攻击造成宇宙属性伤害，并施加量子状态。
 
-[DARKMATTER_DRAGONFRUIT_PRODUCT_SHORT_DESC]
+[DMDRAGONFRUIT_PRODUCT_SHORT_DESC]
 吐出暗物质火焰弹攻击，对命中的僵尸造成宇宙属性伤害，并施加量子状态。量子状态下法师类僵尸施法速度变慢3倍，平射子弹命中量子状态的僵尸后不会销毁，造成伤害并触发该子弹的命中效果
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1]
+[DMDRAGONFRUIT_SKILL_LEVEL1]
 能量掌控
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1_DES]
+[DMDRAGONFRUIT_SKILL_LEVEL1_DES]
 火焰弹命中目标后会向目标身后产生一格范围爆炸，对范围内的僵尸造成宇宙伤害并施加量子状态
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2]
+[DMDRAGONFRUIT_SKILL_LEVEL2]
 能量驾驭
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2_DES]
+[DMDRAGONFRUIT_SKILL_LEVEL2_DES]
 火焰弹爆炸范围增加至扇形范围，对范围内的僵尸造成宇宙伤害并施加量子状态
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5]
+[DMDRAGONFRUIT_SKILL_LEVEL5]
 湮灭龙息
 
-[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5_DES]
+[DMDRAGONFRUIT_SKILL_LEVEL5_DES]
 攻击时有30%概率吐出坍缩弹。坍缩弹命中首个僵尸后，湮灭其所在格内所有非精英、非Boss僵尸，随后转化为普通攻击子弹继续飞行。释放能量豆大招后，下一次普通攻击必定吐出坍缩弹。
 
-[DARKMATTER_DRAGONFRUIT_AVATAR_NAME]
+[DMDRAGONFRUIT_AVATAR_NAME]
 暗物质火龙果装扮
 
-[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT]
+[STORE_PRODUCT_AVATAR_DMDRAGONFRUIT]
 吐息次数增加至5次
 
-[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT_TITLE]
+[STORE_PRODUCT_AVATAR_DMDRAGONFRUIT_TITLE]
 暗物质火龙果装扮
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
 吐出暗物质火焰弹攻击，对命中的僵尸造成宇宙属性伤害，并施加量子状态。
 量子状态：法师类僵尸施法速度变慢3倍，平射子弹命中量子状态的僵尸后穿透不消失，正常造成伤害并触发该子弹的命中效果
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
 火焰弹命中目标后会向目标身后产生一格范围爆炸，对范围内的僵尸造成宇宙伤害并施加量子状态
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
 火焰弹爆炸范围增加至扇形范围，对范围内的僵尸造成宇宙伤害并施加量子状态
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
 种植时有低概率直接释放能量豆大招
 
-[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
+[DMDRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
 攻击时有30%概率吐出坍缩弹。坍缩弹命中首个僵尸后，湮灭其所在格内所有非精英、非Boss僵尸，随后转化为普通攻击子弹继续飞行。释放能量豆大招后，下一次普通攻击必定吐出坍缩弹。
 
-[DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
+[DMDRAGONFRUIT_PLANTFOOD_DESCRIPTION]
 暗物质火龙果召唤巨龙，，向场上随机 3 个僵尸位置各吐出一枚巨型暗物质弹，对落点5×5范围内的僵尸造成 1500 点伤害并施加量子状态。
 
-[DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+[DMDRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 巨龙吐息次数增加至5次
 
 
@@ -27293,6 +27409,143 @@ Cosmoss
 
 [STORE_PRODUCT_AVATAR_COSMOSS]
 无。
+
+
+[NAGASALAK]
+娜迦蛇皮果
+
+[NAGASALAK_DESCRIPTION]
+{KEYWORD}范围：{STAT}整行
+{KEYWORD}特点：{STAT}水龙卷穿透攻击，造成冻结效果
+{KEYWORD}植物特征：{STAT}绿色植物
+{FLAVOR}"感受深海的力量吧！"娜迦蛇皮果甩动蛇尾，卷起水龙卷席卷前方所有敌人。
+
+[NAGASALAK_DESCRIPTION_HEADER]
+甩动蛇尾卷起水龙卷前进，对前方僵尸造成持续伤害和冻结效果
+
+[NAGASALAK_TOOLTIP]
+甩动蛇尾卷起水龙卷前进，对前方僵尸造成持续伤害和冻结效果
+
+[NAGASALAK_PRODUCT_SHORT_DESC]
+甩动蛇尾卷起水龙卷前进，对前方僵尸造成持续伤害和冻结效果
+
+[NAGASALAK_SKILL_LEVEL1]
+娜迦水旋
+
+[NAGASALAK_SKILL_LEVEL1_DES]
+水龙卷会穿透所有目标，未接触僵尸时移速为1秒2格、接触到僵尸时降低为1秒1格，接触僵尸期间每0.5秒造成140点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_SKILL_LEVEL2]
+娜迦回旋
+
+[NAGASALAK_SKILL_LEVEL2_DES]
+水龙卷会穿透所有目标，未接触僵尸时移速为1秒2格、接触到僵尸时降低为1秒1格，接触僵尸期间每0.3秒造成210点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_SKILL_LEVEL5]
+水神之怒
+
+[NAGASALAK_SKILL_LEVEL5_DES]
+普攻有60%概率甩出双水龙卷，双水龙卷同样会穿透所有目标，以超高频率造成420点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_AVATAR_NAME]
+娜迦蛇皮果装扮
+
+[STORE_PRODUCT_AVATAR_NAGASALAK]
+漩涡随机包含海洋生物一起旋转
+
+[STORE_PRODUCT_AVATAR_NAGASALAK_TITLE]
+娜迦蛇皮果装扮
+
+[NAGASALAK_NEW_SKILL_LEVEL1_DES]
+娜迦蛇皮果甩动蛇尾卷起水龙卷前进，水龙卷会穿透所有目标，接触僵尸时造成伤害和冻结效果。
+
+[NAGASALAK_NEW_SKILL_LEVEL2_DES]
+水龙卷接触僵尸期间每0.4秒造成210点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_NEW_SKILL_LEVEL3_DES]
+水龙卷接触僵尸期间每0.3秒造成280点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招
+
+[NAGASALAK_NEW_SKILL_LEVEL5_DES]
+普攻有60%概率甩出双水龙卷，每0.15秒造成420点伤害，且每次造成伤害都会造成冻结0.5秒。
+
+[NAGASALAK_PLANTFOOD_DESCRIPTION]
+自身周围出现水流，形成水球后飞向最近僵尸，破开形成巨大漩涡将僵尸向中心聚拢，中小体型僵尸被秒杀。
+
+[NAGASALAK_AVATAR_PLANTFOOD_DESCRIPTION]
+漩涡随机包含海洋生物一起旋转
+
+[COSMICSAUCER]
+宇宙飞碟瓜
+
+[COSMICSAUCER_DESCRIPTION]
+{KEYWORD}范围：{STAT}单格
+{KEYWORD}植物特征：{STAT}紫色植物、宇宙家族
+{FLAVOR}宇宙飞碟瓜约坚果去附近兜风。听说目的地在三十八万公里外，坚果默默放下了野餐篮。“怎么了？”宇宙飞碟瓜问，“我还特意挑了个能看见家的地方。”
+
+[COSMICSAUCER_DESCRIPTION_HEADER]
+将同格的中小型僵尸吸至空中，并救出周围陷入强引力的植物。
+
+[COSMICSAUCER_TOOLTIP]
+悬浮靠近的中小型僵尸
+
+[COSMICSAUCER_PRODUCT_SHORT_DESC]
+控制靠近的僵尸，并解除植物的强引力状态。
+
+[COSMICSAUCER_AVATAR_NAME]
+宇宙飞碟瓜装扮
+
+[STORE_PRODUCT_AVATAR_COSMICSAUCER_TITLE]
+宇宙飞碟瓜装扮
+
+[STORE_PRODUCT_AVATAR_COSMICSAUCER]
+大招可吸收的中小型僵尸数量上限由3个提升至6个。
+
+[COSMICSAUCER_SKILL_LEVEL1]
+引力捕手
+
+[COSMICSAUCER_SKILL_LEVEL1_DES]
+可吸收同格内剩余总生命值低于1000的中小型僵尸，休息时间缩短至12秒。
+
+[COSMICSAUCER_SKILL_LEVEL2]
+引力升级
+
+[COSMICSAUCER_SKILL_LEVEL2_DES]
+可吸收同格内剩余总生命值低于2000的中小型僵尸，休息时间缩短至10秒。
+
+[COSMICSAUCER_SKILL_LEVEL5]
+迷幻光束
+
+[COSMICSAUCER_SKILL_LEVEL5_DES]
+悬浮僵尸落地后有20%概率被魅惑，巨人、精英和首领单位免疫。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL1_DES]
+将同格内符合条件的中小型僵尸吸至空中，悬浮4秒，攻击结束后休息14秒。自身免疫强引力，并能救出周围3×3范围内陷入强引力的植物。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL2_DES]
+可吸收同格内剩余总生命值低于1000的中小型僵尸，休息时间缩短至12秒。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL3_DES]
+可吸收同格内剩余总生命值低于2000的中小型僵尸，休息时间缩短至10秒。
+
+[COSMICSAUCER_NEW_SKILL_LEVEL4_DES]
+种植时有中概率直接释放能量豆大招！
+
+[COSMICSAUCER_NEW_SKILL_LEVEL5_DES]
+悬浮僵尸落地后有20%概率被魅惑，无法魅惑的僵尸不受此效果影响。
+
+[COSMICSAUCER_PLANTFOOD_DESCRIPTION]
+依次吸收以自身为中心3×3范围内最多3个符合条件的中小型僵尸，优先吸收距离较近的目标。
+
+[COSMICSAUCER_AVATAR_PLANTFOOD_DESCRIPTION]
+依次吸收以自身为中心3×3范围内最多6个符合条件的中小型僵尸，优先吸收距离较近的目标。
+
+
+
+
+
 
 [Plants_End]
 
@@ -28836,20 +29089,20 @@ Different plants can be upgraded into other plants, use their powerful skills to
 (Create a New User)
 
 [CREDITS_PVZ_TITLE]
-Plants vs. Zombies 2 Chinese Version
-Made By evilhack28
+Plants vs. Zombies 2
+It's About Time
 
 [CREDTIS_CHINA_PRODUCER]
 Producer
 
 [CREDTIS_CHINA_DEVELOPER]
-Executive Producer
+Publishing Director
 
-[CREDTIS_CHINA_GOUDAN]
-Development Director
+[CREDTIS_CHINA_ASSOCIATEPRODUCER]
+Associate Producer
 
 [CREDTIS_CHINA_MANAGER]
-Senior Product Manager
+Product Director
 
 [CREDTIS_CHINA_PM]
 Operations Director
@@ -28858,25 +29111,34 @@ Operations Director
 Product Operations
 
 [CREDTIS_CHINA_DESIGNER]
-Game Design
+Game Designer
 
 [CREDTIS_CHINA_TD]
-Technical Director
+Client Technical Director
 
 [CREDTIS_CHINA_ENGINEER]
-Game Software Engineer
+Client Engineer
+
+[CREDTIS_CHINA_SERVERDEVELOPMENTDIRECTOR]
+Server Development Director
+
+[CREDTIS_CHINA_SERVERENGINEER]
+Server Engineer
 
 [CREDTIS_CHINA_LEAD_ARTIST]
 Art Manager
 
 [CREDTIS_CHINA_ ARTIST]
-Art
+Artist
 
 [CREDTIS_CHINA_QAMANAGER]
-Quality Assurance Manager
+QA Manager
 
 [CREDTIS_CHINA_QA]
-Quality Assurance
+QA
+
+[CREDTIS_CHINA_MT_MANAGER]
+Marketing Director
 
 [CREDTIS_CHINA_BN_MANAGER]
 Business Director
@@ -28888,19 +29150,19 @@ Business Development
 Marketing
 
 [CREDTIS_CHINA_DA_MANAGER]
-Operations Manager
+Operations & Maintenance Manager
 
 [CREDTIS_CHINA_DA]
-Operations
+Operations & Maintenance
 
 [CREDTIS_CHINA_SP_MANAGER]
-Customer Service Director
+Customer Support Director
 
 [CREDTIS_CHINA_SP]
 Customer Support
 
 [CREDTIS_CHINA_SPECIALTHANKS]
-Special Thanks evil
+Special Thanks
 
 [CURRENCY_STRING]
 {CURRENCY_SYMBOL}{AMOUNT}
@@ -29334,6 +29596,34 @@ Season 48
 
 [RANK_AVATAR_CONTENT_TITLE_61068]
 A Thousand Miles Share the Moon
+
+[rank_avatar_diy_72]
+Roman Charge
+
+[RANK_AVATAR_CONTENT_CONTENT_61069]
+Space-Time Rift Limited Reward
+
+[RANK_AVATAR_CONTENT_TITLE_61069]
+Roman Charge
+
+[rank_avatar_diy_73]
+Formation Breakthrough
+
+[RANK_AVATAR_CONTENT_CONTENT_61070]
+Congratulations! For being a Grandmaster!!!!
+Season 49
+
+[RANK_AVATAR_CONTENT_TITLE_61070]
+Formation Breakthrough
+
+[rank_avatar_diy_74]
+Bountiful Autumn Harvest
+
+[RANK_AVATAR_CONTENT_CONTENT_61071]
+Rewards for players participating in the October Co-op event in 2026.
+
+[RANK_AVATAR_CONTENT_TITLE_61071]
+Bountiful Autumn Harvest
 
 [rank_avatar_diy_60]
 Spring Blooms
@@ -30058,7 +30348,7 @@ Conch Combat
 Children's Playpark
 
 [PLAYERS_TRIP_TO_BIRTHDAYZ]
-{PLAYER}'s Trip to the Anniversary Carnival Party!
+{PLAYER}'s Trip to the Anniversary Shifting Positions!
 
 [GAME_OVER]
 GAME OVER
@@ -30174,6 +30464,12 @@ Speed Up
 
 [START_GAME_BUTTON]
 Start Game
+
+[START_GAME_BUTTON_OFFSKIPNEXT]
+Start Directly
+
+[START_GAME_BUTTON_ONSKIPNEXT]
+Turn Off and Start
 
 [CHOOSER_RESET_BUTTON]
 Clear Slots
@@ -32205,8 +32501,8 @@ You haven't chosen any sun producing plants, are you sure you want to continue?
 [SEED_CHOOSER_WARNING_TITLE]
 Warning
 
-[SEED_CHOOSER_WARNING_TITLE]
-Warning
+[SEED_CHOOSER_WARNING_PVZ1SKIPNEXTWAVE]
+"Auto-Advance Next Wave" is currently enabled. This feature increases the frequency of zombie spawns and raises the level's difficulty. Would you like to turn it off before starting?
 
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
 The star rating condition in this level requires the use of aerial plants. Are you sure you want to challenge this level without using any aerial plants?
@@ -32231,6 +32527,12 @@ Device Unbinding
 
 [SETTINGS_DEFINEID_TITLE]
 User ID
+
+[SETTINGS_SECOND_LOCK_TITLE]
+Secondary Password Management
+
+[SECOND_LOCK_VERIFY_FAILED]
+Incorrect password entered 5 times. You can try again in 24 hours.
 
 [SETTINGS_ABOUT_TEXT]
 Here you can see all the information about the game. What you are currently reading is it.
@@ -33094,7 +33396,7 @@ NO
 YES
 
 [STARCHALLENGE_PROTECT_PLANT]
-Protect the initially existing plants on the field from being eaten by zombies.
+Protect the plants initially present on the field.
 
 [STARCHALLENGE_PROTECT_PLANT_NAME]
 Seed Defense Battle
@@ -33784,7 +34086,13 @@ Tide wave approaching!
 Enemies are approaching!
 
 [WARNING_BLACK_HOLE_TIP]
-Black hole is going to suck plants!
+The black hole is about to pull in plants!
+
+[WARNING_GRAVITY_GENERATOR_ANTI]
+Anti-Gravity Field is about to activate!
+
+[WARNING_GRAVITY_GENERATOR_HEAVY]
+Hyper-Gravity Field is about to activate!
 
 [WELCOME_USER_NAME_2]
 Hello, %s!
@@ -35140,6 +35448,9 @@ Heian Ages Lawn Mower.
 
 [UPGRADE_MOWER_17_INFO]
 Moon Base Z Lawn Mower.
+
+[UPGRADE_MOWER_18_INFO]
+Roman Realm Lawn Mower.
 
 [UPGRADE_TREASURE_YETI]
 Unlock Chest Snowman
@@ -36817,10 +37128,43 @@ Dear plant buddies,
  New KongFu Plants, new gameplay makes a shining debut! Plant plants with Dave and experience a new game of joy! 
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
-Old progress was selected
+Older Progress Selected
 
 [SUMMARY_USE_OLDER_DATA_BODY]
-You're going to overwrite a new progress with an old one, are you sure you're going to do that?
+You are about to overwrite a newer progress with an older one. Are you sure you want to do this?
+
+[SUMMARY_MIGRATION_CONFIRM_HEADER]
+Please Confirm the Final Save
+
+[SUMMARY_ALMANAC_UNLOCK_COUNT]
+Almanac Unlocked
+
+[SUMMARY_ALMANAC_AMOUNT]
+{ALMANAC_COUNT} types
+
+[SUMMARY_MAIN_WORLD_STAR_COUNT]
+Main Story Stars
+
+[SUMMARY_RECENT_LEVEL]
+Most Recent Level
+
+[SUMMARY_FULL_STAR_WORLD_COUNT]
+Worlds with Full Stars
+
+[SUMMARY_MIGRATION_LOCAL_BODY]
+You are about to enter the game using the local save. Once confirmed, this save will become the default save used from now on.
+
+[SUMMARY_MIGRATION_CLOUD_BODY]
+You are about to enter the game using the cloud save. Once confirmed, this save will become the default save used from now on.
+
+[SUMMARY_MIGRATION_OLDER_HEADER]
+Latest Save Not Selected
+
+[SUMMARY_MIGRATION_OLDER_LOCAL_BODY]
+You are about to enter the game using the local save. ^FF0000 This may not be the latest save. ^oldclr Once confirmed, it will become the default save used from now on, and you will no longer be prompted to choose. Continue?
+
+[SUMMARY_MIGRATION_OLDER_CLOUD_BODY]
+You are about to enter the game using the cloud save. ^FF0000 This may not be the latest save. ^oldclr Once confirmed, it will become the default save used from now on, and you will no longer be prompted to choose. Continue?
 
 [SUMMARY_TITLE]
 Progress is different locally and in the cloud
@@ -40339,6 +40683,12 @@ Top and Bottom
 
 [PEANUT_SKILL1_LEVEL2_DES]
 Increases the chance of Simultaneous Fire by 100%.
+
+[PEANUT_SKILL1_LEVEL5]
+愤怒引擎
+
+[PEANUT_SKILL1_LEVEL5_DES]
+周围其他五阶植物数量越多，花生射手的子弹产生的爆炸伤害越高，攻速也越快
 
 [MAGNETSHROOM_SKILL1_LEVEL1]
 Strong Magnetic Field
@@ -44849,18 +45199,18 @@ share is a gift
  
 
 [UPDATE_NOTICE_CONTEXT]
-Dear Player：
- 《 Plants vs. Zombies 2》 latest version can be updated.
+Dear players：
+	The latest version of PvZ 2 is now available for update.
  
-The new 《 Plants vs. Zombies 2》PvP function has been turned on. Come and play PvP now and get 10 Gems for each win, up to 50 Gems a day!
-There are also exciting PvP daily achievement activities for you to challenge, and rare plant pieces are waiting for you!
+	The brand-new PvZ 2 PvP feature is now live. Play PvP now — each victory grants 10 Diamonds, up to 50 Diamonds per day!
+    There are also exciting daily PvP achievement events for you to challenge, with rare plant fragments waiting to be claimed!
  
- <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
+    <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
  
-^FF0000 New version size： ^oldclr 128M
+^FF0000 New version size: ^oldclr 128M
 
 [PVP_STORE_CLOSE]
-The StarCoin purchase entrance has been closed as PvP will close in the near future
+Since PvP will be closing soon, the Star Coin purchase entry has been closed.
 
 [SKYCITY]
 Sky City
@@ -46767,13 +47117,13 @@ Me
 Old Wang
 
 [PVP_MAP_USER_02]
-Program
+Programmer
 
 [PVP_MAP_USER_03]
-Planner
+Designer
 
 [PVP_MAP_USER_04]
-Art
+Artist
 
 [PVP_MAP_USER_LEVEL]
 Level %d
@@ -46785,7 +47135,7 @@ Battle Mode
 Garden Warfare
 
 [PVP_MENU_DEFEND]
-Setup Defense
+Set Up Defense
 
 [PVP_MENU_CAPTURE]
 Resource Contest
@@ -46794,7 +47144,7 @@ Resource Contest
 Consume
 
 [PVP_MENU_KAIQI]
-Open
+Enable
 
 [PVP_MENU_TRAIN]
 Train Zombies
@@ -46815,16 +47165,16 @@ Medal Exchange
 Vacant House
 
 [PVP_MAP_PVP_NULL_NAME]
-Dazzling Garlic
+Amazing Garlic
 
 [PVP_MAP_UNLOCK_DETAIL]
-Unlock the currently selected area with {NUMBER} stars.
+Unlock the currently selected area for {NUMBER} Star Coins?
 
 [PVP_MAP_UNENABLE_ATTACK_DETAIL]
-The opponent is currently online and cannot be attacked!
+The opponent is currently online. You cannot attack!
 
 [PVP_MAP_PRODUCT_SPEED]
-Output Speed： {NUMBER}/hour
+Production Rate: {NUMBER}/hour
 
 [PVP_MAP_BTN_ACHIEVE]
 Collect Rent
@@ -46842,10 +47192,10 @@ Scout Enemy
 End Scouting
 
 [PVP_MAP_ZOMBIE_TITLE]
-Your current zombie legion：
+Your current zombie legion:
 
 [ARENA_ENDING_BTN]
-Got it
+OK
 
 [PVP_MAP_MAIN_NAME]
 Your Base
@@ -46860,28 +47210,28 @@ Protected
 You have already claimed this reward. Please try again tomorrow.
 
 [PVP_ERROR_SERVER_DOWN]
-Server is under maintenance.
+Server under maintenance.
 
 [PVP_ERROR_PVP_NOT_OPEN]
 PVP system is not available.
 
 [PVP_ERROR_PVPCOIN_NOT_ENOUCH]
-Insufficient stars.
+Insufficient Star Coins.
 
 [PVP_ERROR_PVPCUP_NOT_ENOUCH]
-Insufficient trophies.
+Insufficient Trophies.
 
 [PVP_ERROR_PVP_TRAINING_NO_ZOMBIE]
-No zombies are being trained.
+No zombies currently in training.
 
 [PVP_ERROR_BATTLE_NO_ZOMBIE]
-No zombies available for battle. Train some now.
+No zombies available for battle. Go train some!
 
 [PVP_ERROR_NOT_SYNC]
-Not synchronized with cloud storage, cannot enter PVP!
+Cloud save not synced. Unable to enter PVP!
 
 [PVP_ERROR_20000]
-Data abnormality, verification failed
+Data anomaly. Verification failed.
 
 [PVP_ERROR_1001]
 The system is busy, please try again later
@@ -46905,112 +47255,112 @@ This record code is already in use
 Battle server under maintenance.
 
 [PVP_ERROR_25002]
-Battle server will be closed soon. Please prepare.
+Battle server is about to close. Please be prepared.
 
 [PVP_ERROR_25003]
-Client version needs updating.
+Client version needs to be updated.
 
 [PVP_ERROR_25219]
-Insufficient number of your medals.
+You do not have enough Medals.
 
 [PVP_ERROR_25224]
-The event of Evil Dave has ended.
+The Evil Dave event has ended.
 
 [PVP_ERROR_25501]
-Illegal number of zombies.
+Invalid zombie count.
 
 [PVP_ERROR_25502]
-Network is weak. Please try again later.
+Network is unstable. Please try again later.
 
 [PVP_ERROR_25504]
-The maximum number of trained zombies has been reached. Please sell some zombies to continue.
+The zombie type limit has been reached. Please sell some zombies to continue.
 
 [PVP_ERROR_25505]
-The population limit for trained zombies has been reached.
+The zombie population limit has been reached.
 
 [PVP_ERROR_25507]
-Request is too frequent. Please try again later.
+Too many requests. Please try again later.
 
 [PVP_ERROR_25509]
-Training queue is full. Cannot add more.
+The training queue is full. Cannot add more.
 
 [PVP_ERROR_25217]
-Illegal battle data.
+Invalid battle data.
 
 [PVP_ERROR_25223]
-The used sun cannot exceed the limit. Please readjust your team.
+Sun usage cannot exceed the limit. Please readjust your formation.
 
 [PVP_ERROR_25601]
-Lab information not initialized.
+Laboratory information not initialized.
 
 [PVP_ERROR_25602]
-The base is already at the maximum level.
+Base is already at max level.
 
 [PVP_ERROR_25603]
-The current lab is researching other projects. Please try again later.
+The laboratory is currently researching another project. Please come back later.
 
 [PVP_ERROR_25605]
-Base level is not enough.
+Base level is insufficient.
 
 [PVP_ERROR_25606]
-Defense sun is already at the maximum level.
+Defense Sun is already at max level.
 
 [PVP_ERROR_25607]
-Zombie population is already at the maximum level.
+Zombie population is already at max level.
 
 [PVP_ERROR_25608]
-Zombie has reached the highest rank.
+Zombies have already reached the highest level.
 
 [PVP_ERROR_25609]
-Zombie must be at the maximum level to breakthrough.
+Zombies must be at max level to break through.
 
 [PVP_ERROR_25610]
-Insufficient medals.
+Insufficient Medals.
 
 [PVP_ERROR_25611]
-Zombie has reached the maximum breakthrough level.
+Zombie is already at the maximum breakthrough level.
 
 [PVP_ERROR_25612]
-Skill level reaches the base level limit.
+Skill level has reached the base level limit.
 
 [PVP_ERROR_25613]
-Plant has reached the maximum breakthrough level.
+Plant is already at the maximum breakthrough level.
 
 [PVP_ERROR_25614]
-Skill is already at the maximum level.
+Skill is already at max level.
 
 [PVP_ERROR_25615]
-There are no ongoing upgrade projects.
+No upgrades currently in progress.
 
 [PVP_ERROR_25212]
-This resource point has been occupied.
+This resource point has already been occupied.
 
 [PVP_ERROR_46309]
-All the chest chests have been opened. Please go and confirm your rewards first~
+All chests have been opened. Go claim your rewards first~
 
 [PVP_ERROR_46209]
-Incorrect verification code.
+Verification code error.
 
 [PVP_ERROR_46210]
-Level collection has reached the limit.
+Level favorites have reached the limit.
 
 [ZHUFUJUAN]
 Blessing Voucher
 
 [PVP_ERROR_46211]
-Custom level quantity has reached the limit.
+Created level count has reached the limit.
 
 [PVP_ERROR_46212]
-Phone number already bound.
+Phone number is already bound.
 
 [PVP_ERROR_75051]
-Incorrect invitation code.
+Invitation code error.
 
 [PVP_ERROR_75052]
-The number of invitations is full.
+Invitation limit reached.
 
 [PVP_ERROR_45037]
-Incorrect invitation code.
+Invitation code error.
 
 [PVP_ERROR_76060]
 Not eligible to answer questions.
@@ -47019,7 +47369,7 @@ Not eligible to answer questions.
 Exceeded the number of available attempts.
 
 [PVP_ERROR_76062]
-No usable red packets available.
+No usable red packets.
 
 [PVP_ERROR_76063]
 Task does not exist.
@@ -47031,13 +47381,13 @@ Task not completed.
 Cannot claim task reward repeatedly.
 
 [PVP_ERROR_76066]
-Cannot reset before answering.
+Cannot reset before answering questions.
 
 [PVP_ERROR_76067]
 Reset conditions not met.
 
 [PVP_TRAINING_TAB_TRAIN]
-Training
+Train
 
 [PVP_TRAINING_TAB_VIEW]
 Current Troops
@@ -47049,10 +47399,10 @@ Total Troops：
 Total Time
 
 [PVP_TRAINING_FINISH_AT_ONCE]
-Finish Immediately： {NUMBER}
+{NUMBER} to Complete Instantly
 
 [PVP_TRAINING_NEED_SPACE]
-Required Troops：
+Troops Required：
 
 [PVP_TRAINING_NEED_COIN]
 Training Cost：
@@ -47061,41 +47411,41 @@ Training Cost：
 Training time：
 
 [PVP_TRAINING_SELL_CONFIRM]
-Are you sure you're going to sell these zombies?
+Are you sure you want to sell these zombies?
 
 [PVP_TRAINING_SELL_TITLE]
-Sale Zombies
+Sell Zombies
 
 [PVP_TRAINING_VIEW_TITLE]
-All armies
+All Troops
 
 [PVP_TRAINING_VIEW_DESC]
-The total strength cap can be upgraded in the laboratory
+You can increase the total troop cap in the Laboratory.
 
 [PVP_TRAINING_VIEW_SELL]
-Sell Zombies Get：
+Sell zombies to gain：
 
 [PVP_TRAINING_TOTAL_SPACE]
-Total strength：
+Total Troops：
 
 [PVP_ERROR_DIALOG_TITLE]
-Data abnormal
+Data Anomaly
 
 [PVP_ERROR_DIALOG_MSG]
-Game data is abnormal, try again.
- <Error Code： {NUMBER}>
+Game data anomaly. Please try again.
+<Error Code: {NUMBER}>
 
 [PVP_TRAINING_START_TIP]
-Click on the arms to train to start training your unit
+Tap a unit type to start training your troops.
 
 [PVP_TRAINING_FULL_TYPE_TIP]
-There are already 6 kinds of zombies, sell one to continue training
+You already have 6 zombie types. Sell one to continue training.
 
 [PVP_TRAINING_FULL_SPACE_TIP]
 Troops full!
 
 [PVP_TRAINING_FULL_LIST_TIP]
-The training cohort has exceeded the population cap and cannot train in its entirety
+The training queue exceeds the population cap. Cannot train all of them.
 
 [PVP_TRAINING_FINISH_TIP]
 Spend {NUMBER} Gems to finish immediately?
@@ -47104,29 +47454,29 @@ Spend {NUMBER} Gems to finish immediately?
 Spend {NUMBER} ¥ to complete immediately?
 
 [PVP_SEEDPACKET_LOCKED]
-Base {NUMBER} level unlock
+Unlocks at Base Level {NUMBER}
 
 [PVP_ZOMBIE_LOCKED]
-More zombies
-Stay tuned
+More zombies coming soon
+Stay tuned!
 
 [PVP_TRAINING_PAUSE]
-Suspended
+Paused
 
 [ARENA_PLAYER_BANK_TXT_WIN]
-Rewards available
+Rewards Available
 
 [ARENA_PLAYER_BANK_TXT_LOSE]
-Failure Loss
+Loss on Defeat
 
 [ARENA_PVP_BTN]
-Replacement of opponents
+Change Opponent
 
 [ARENA_PVP_OCCUPY_LEVEL]
 LV {LEVEL}
 
 [ARENA_PVP_OCCUPY_TXT]
-Post-snatch output
+Output After Capture
 
 [ARENA_PVP_OCCUPY_CURRENCY]
 {CURRENCY_NUM}/hour
@@ -47135,224 +47485,224 @@ Post-snatch output
 {MEDAL_NUM}/hour
 
 [ARENA_PVP_GET_CURRENCY_TXT]
-3★to grab
+3★ to Capture
 
 [ARENA_PVP_OCCUPY_BTN]
-{CURRENCY_COST} attack!
+Attack for {CURRENCY_COST}!
 
 [ARENA_PVP_OCCUPY_QUIT_BTN]
-Give up the attack!
+Abandon Attack!
 
 [PVP_DATA_ERROR_DIALOG_TITLE]
-Data parsing failed
+Data Parsing Failed
 
 [PVP_DATA_ERROR_DIALOG_MSG]
-Data parsing failed, please try again.
- <Error Code： {NUMBER}>
+Data parsing failed. Please try again.
+<Error Code: {NUMBER}>
 
 [PVP_ADVICE_GOTO_PVP]
 Start PVP Battle
 
 [PVP_COIN_LACK_TITLE]
-StarCoin Insufficient
+Insufficient Star Coins
 
 [PVP_COIN_LACK_TIP]
-Buy more Starcoins?
+Purchase more Star Coins?
 
 [PVP_CANCEL_UPGRADE_TIPS]
-Is the upgrade cancelled? Cancellations will refund half of your resources.
+Cancel the upgrade? Half of the resources will be refunded.
 
 [PVP_BASE_UPGRADE_CONTENT]
-The base grade determines the size of the base production and warehouse capacity.
+Base level determines base production and warehouse capacity.
 
 [PVP_SUN_LIMIT_CONTENT]
-The defensive sun cap is mainly used in PVP mode, adjusting our defensive formation to control the total number of plants that can be played.
+Defense Sun cap is mainly used in PVP mode to control the total number of plants that can be deployed in your defensive formation.
 
 [PVP_ZOMBIE_POPULATION_CONTENT]
-The zombie army population is mainly used in PVP mode, adjusting our attack formation to control the total number of zombies that can be played.
+Zombie troop population is mainly used in PVP mode to control the total number of zombies that can be deployed in your attacking formation.
 
 [REWARD_PER_HOUR]
-{COUNT} per hour
+{COUNT}/h
 
 [UPGRADE_CONSUME]
-^231C00 Upgrade consumption becomes
+^231C00 Upgrade Cost                           Becomes
 
 [NEED_BASE_LEVEL]
-^231C00 Base level required
+^231C00 Requires Base Level
 
 [NEXT_LEVEL]
-Next level
+Next Level
 
 [SKILL_LEVEL]
 Skill Level
 
 [SKILL_ATTRIBUTE]
-Skill attributes
+Skill Attributes
 
 [SKILL_UPGRADE_TIME]
-Upgrade {TIME}
+Upgrading {TIME}
 
 [SKILL_NEED_BASE_LEVEL]
-Base {COUNT} levelunlock
+Unlocks at Base Level {COUNT}
 
 [ZOMBIE_PVPSKILL_AID]
-Zombie Blood Pack
+Zombie Serum
 
 [ZOMBIE_PVPSKILL_AID_DESCRIPTION]
-Do the zombies still need blood? The answer is yes, delicious blood can give the zombies a lasting fighting power, after all, maintenance from the inside out is king.
+Heals any zombie partially in a 4x4 puddle tile for a while.
 
 [PVPSKILL_AID_UPGRADE_DESCRIPTION]
-Next level： Each time the blood volume of the recovered zombies increases {COUNT} points
+Next Level: Each zombie HP recovery increased by {COUNT}.
 
 [ZOMBIE_PVPSKILL_INVISIBLE]
-Mist of War
+Fog of War
 
 [ZOMBIE_PVPSKILL_INVISIBLE_DESCRIPTION]
-Dr. Zombie's latest technology, the fog of war can produce a small range of smoke bombs on the battlefield. Passing zombies will be protected by the fog and will not be discovered by plants.
+A Zombie Parrot will throw a smoke flask, creating a temporary fog shield in a 3x3 tile that protects all zombies on that tile from any attack.
 
 [PVPSKILL_INVISIBLE_UPGRADE_DESCRIPTION]
-Next level： duration of each smoke bomb, increase {COUNT} seconds
+Next Level: Smoke screen duration increased by {COUNT} seconds each time.
 
 [ZOMBIE_PVPSKILL_ZOMBIEFOOD]
-Plague potions
+Plague Pharmacy
 
 [ZOMBIE_PVPSKILL_ZOMBIEFOOD_DESCRIPTION]
-What happens if a zombie gets a plague? Become a zombie superman, of course! In level to allow zombies to develop super skills, Dr. Zombie developed the miracle medicine Plague Potion. After use, zombies each use their own unique skills.
+What happens when a zombie catches the plague? It becomes a super zombie, of course! To enable zombies to unleash super abilities, Dr. Zomboss developed the miraculous Plague Potion. When used, each zombie activates its own unique skill.
 
 [PVPSKILL_ZOMBIEFOOD_UPGRADE_DESCRIPTION]
-Next level： plague virus evolution, reduce {COUNT}% energy consumption each time
+Next Level: Plague virus evolution. Energy cost reduced by {COUNT}% each time.
 
 [ZOMBIE_PVPSKILL_RAGE]
-Fury potion
+Rage Potion
 
 [ZOMBIE_PVPSKILL_RAGE_DESCRIPTION]
-The most terrifying thing isn't zombies, it's enraged zombies. Zomboss invented rage potion, and the zombies are all excited. Their attack power and speed are greatly enhanced. Of course, due to excessive excitement, they're also more susceptible to damage!
+Creates a temporary 5x4 puddle tile that doubles the speed of any zombie that steps on it for 3 seconds.
 
 [PVPSKILL_RAGE_UPGRADE_DESCRIPTION]
-Next Level： Each time Rage is used, zombies' attack power and speed increase by {COUNT}%.
+Next Level: Each use of Rage increases zombie attack power and speed by {COUNT}%.
 
 [NARRATIVE_MAP_PVP_INTRO_1]
-{NPC_ENTER:winnie}{EXCITED}There's a wormhole ahead emitting an unknown signal!
+{NPC_ENTER:winnie}{EXCITED}There is a wormhole in front of us, and unknown signals are emitting from inside it!
 
 [NARRATIVE_MAP_PVP_INTRO_2]
-{NPC_ENTER:crazydave}{EXCITED}A wormhole? I wanna see the bugs! Let's go in!
+{NPC_ENTER:crazydave}{EXCITED}Wormhole? I want to see the worms! Let's go inside it!
 
 [NARRATIVE_MAP_PVPMAINMENU_INTRO_1]
-{NPC_ENTER:crazydave}{EXCITED}There's a mature community here, I'll check if they're selling corn rolls!
+{NPC_ENTER:crazydave}{EXCITED}这里有一个成熟的社区，我去看看有没有玉米卷卖！
 
 [NARRATIVE_MAP_PVPMAINMENU_INTRO_2]
-{NPC_ENTER:winnie}{EXCITED}Let's go check the neighborhood first!
+{NPC_ENTER:winnie}{EXCITED}我们还是先去街区看看有什么吧！
 
 [NARRATIVE_MAP_PVPGARDENWAR_INTRO_1]
 {NPC_ENTER:winnie}{EXCITED}What a beautiful neighborhood!
 
 [NARRATIVE_MAP_PVPGARDENWAR_INTRO_2]
-{NPC_ENTER:crazydave}{EXCITED}This house is nice, it'll be my base from now on!
+{NPC_ENTER:crazydave}{EXCITED}Neighbor! I now have a lot of neighbors!
 
 [NARRATIVE_PVP_PLANTMODULE_INTRO_1]
-{NPC_ENTER:crazydave}{EXCITED}I like the 5 flags at the bottom, don't let the zombies touch them!
+{NPC_ENTER:crazydave}{EXCITED}I like the five flags on the bottom line, don't let the zombies touch them!
 
 [NARRATIVE_PVP_PLANTMODULE_INTRO_2]
-{NPC_ENTER:winnie}{TIRED}Then let's plant 5 Pea Shooters to defend them!
+{NPC_ENTER:winnie}{TIRED}Then plant 5 Peashooters to defend them!
 
 [NARRATIVE_PVP_BATTLEMODULE1_INTRO_1]
-{NPC_ENTER:crazydave}{EXCITED}This team is weak!
+{NPC_ENTER:crazydave}{EXCITED}This lineup is way too weak!
 
 [NARRATIVE_PVP_BATTLEMODULE1_INTRO_2]
-{NPC_ENTER:winnie}{TIRED}We'll modify it later, detected a group of zombies, get ready to fight!
+{NPC_ENTER:winnie}{TIRED}We can modify it next time, I detect a wave of zombies, prepare to battle!
 
 [NARRATIVE_PVP_BATTLEMODULE1_INTRO_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAY}I'm the commander of the Zombie Guard, this is our territory, I'm going to destroy your defense!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAY}I am a Zombie Commander, this is our territory, I am going to destroy your defense!
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_1]
-{NPC_ENTER:zbcommander}{SAY}This is outrageous, you've wiped out all my guards! Looks like I have no choice but to join you!
+{NPC_ENTER:zbcommander}{SAY}This is outrageous, my only remaining guards have all been destroyed by you! It looks like I only have one choice -- join you!
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_2]
-{NPC_ENTER:crazydave}{TIRED}Alright, can you help me find some corn rolls?
+{NPC_ENTER:crazydave}{TIRED}Well, can you help me find a Taco please?
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_3]
-{SAY:zbcommander}{SAY}I'll assist you in training the zombie army, let's conquer the world together!
+{SAY:zbcommander}{SAY}I will help you train an army of zombies, let us conquer the whole world!
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_4]
-{SAY:crazydave}{TIRED}I want corn rolls from all over the world!
+{SAY:crazydave}{TIRED}I want tacos all over the world!
 
 [NARRATIVE_PVP_TRAINZB_INTRO_1]
-{NPC_ENTER:zbcommander}{SAY}Let's build the first zombie army together!
+{NPC_ENTER:zbcommander}{SAY}Let's build your first army of zombies!
 
 [NARRATIVE_PVP_TRAINZB_MORE_1]
-{NPC_ENTER:zbcommander}{SAY}Good job, I've trained more zombies for you, make good use of them!
+{NPC_ENTER:zbcommander}{SAY}Well done, I'll help you train more zombies, make good use of them!
 
 [NARRATIVE_PVP_ATTACK_INTRO_1]
-{NPC_ENTER:zbcommander}{SAY}Try the power of the zombie army!
+{NPC_ENTER:zbcommander}{SAY}Taste the power of the army of zombies!
 
 [NARRATIVE_PVP_ATTACKBEGIN_INTRO_1]
-{NPC_ENTER:zbcommander}{SAY}There are some unfriendly neighbors around the base, drive them away, attack!
+{NPC_ENTER:zbcommander}{SAY}基地周围有一些不怀好意的邻居，赶走他们，进攻！
 
 [NARRATIVE_PVP_ATTACKMODULE_INTRO_1]
-{NPC_ENTER:zbcommander}{SAY}Summon the zombie army, pull down all the flags at the bottom!
+{NPC_ENTER:zbcommander}{SAY}Summon an army of zombies and pull out all of the flags on the bottom line!
 
 [NARRATIVE_PVP_ATTACKMODULE_BUFINTRO_1]
-{NPC_ENTER:zbcommander}{SAY}Try the new ability of zombie technology, use plague to strengthen the zombie army!
+{NPC_ENTER:zbcommander}{SAY}Try new zombie scientific capabilities, use the potions to strengthen the zombies!
 
 [NARRATIVE_PVP_ATTACKMODULE_END_1]
-{NPC_ENTER:zbcommander}{SAY}We've knocked down all the flags and grabbed some shiny coins!
+{NPC_ENTER:zbcommander}{SAY}We pulled down all the flags, and got some shiny coins!
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_1]
-{NPC_ENTER:winnie}{TIRED}There's a new commercial district under the clouds!
+{NPC_ENTER:winnie}{TIRED}原来云层下面有新的商业区！
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_2]
-{NPC_ENTER:crazydave}{EXCITED}I wonder if there are corn rolls in the cafe?
+{NPC_ENTER:crazydave}{EXCITED}不知道咖啡馆里有没有玉米卷？
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAY}Occupy the cafe, small restaurants, and other commercial buildings can continuously collect rent!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAY}占领咖啡馆，小餐馆等商业建筑可以持续收获租金！
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_4]
-{NPC_EXIT:zbcommander}{NPC_ENTER:winnie}{TIRED}But beware that opponents might snatch them back!
+{NPC_EXIT:zbcommander}{NPC_ENTER:winnie}{TIRED}不过要提防对手又把它们抢回去哦！
 
 [NARRATIVE_MAP_PVPEVILDAVID_START_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED}Hehehe, evil Dave's evil brother is back! I'll be around your base,
+{NPC_ENTER:evilcrazydave}{EXCITED}Hey hey hey, I, Dave's evil, older brother, has come back ! Oh, I'll be near the base,
 
 [NARRATIVE_MAP_PVPEVILDAVID_START_INTRO_2]
-just to taunt you, you weakling. Can you defeat my carefully arranged garden defense? Come try if you dare!
+I exist to taunt you, you weakling, can you beat my carefully arranged garden defense? Try it if you have the guts!
 
 [NARRATIVE_MAP_PVPEVILDAVID_FAILED_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED}Hahaha, calling you a weakling is right on point
+{NPC_ENTER:evilcrazydave}{EXCITED}Ha ha ha, I was spot on in calling you a weakling, go back and practice!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_1_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED}Not bad, but don’t worry—this isn’t even close to showing the full strength of a highly educated Dave like me.
+{NPC_ENTER:evilcrazydave}{EXCITED}Oh, not bad, but rest assured, this isn't me, Dave's highly powerful strength,
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_1_INTRO_2]
-Just to tease the messy line-up that you're doing at once.
+Just to tease your hastily built, extremely messy squad.
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_2_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED} Don't be happy too early, you just got a few small victories, I exist to mock you!
+{NPC_ENTER:evilcrazydave}{EXCITED}Don't get too excited, you just got a few small victories, I exist to taunt you!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_3_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED}Humph, don't think you're better than me! I just put out 5 successes, and if I have the ability, I will challenge my next team.
+{NPC_ENTER:evilcrazydave}{EXCITED}Don't think you can beat me! I only used fifty percent of my strength, come challenge my next lineup if you have any skill.
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_3_INTRO_2]
-Guarantee you don't want to mock it!
+Guaranteed to taunt you!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_4_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED} No, it seems that my evil Dave is going to show his true strength!
+{NPC_ENTER:evilcrazydave}{EXCITED}No, it seems like me, Evil Dave, have to use my real strength!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_5_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED}What! You can pass this! No, no, it should be me mocking you, I will sort it out and challenge you again!
+{NPC_ENTER:evilcrazydave}{EXCITED}What? You can beat this too?! No no no, I should be the one taunting you, I'll just recoup then you can challenge me again!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_6_INTRO_1]
-{NPC_ENTER:evilcrazydave}{EXCITED} ah! I've been robbed of my resources by you! You remember it for me! I Evil Dave will be back again!
+{NPC_ENTER:evilcrazydave}{EXCITED}Ahh, you stole all my resources! You'll pay for this! Me, Evil Dave will come back again!
 
 [NARRATIVE_UNLOCK_WORLD_1_1]
-{NPC_ENTER:winnie} We arrived at the galaxy map and you can unlock one of the worlds.
+{NPC_ENTER:winnie}We've arrived at the Galaxy Map. You can unlock one of the worlds.
 
 [NARRATIVE_UNLOCK_WORLD_1_2]
-{NPC_ENTER:crazydave}{EXCITED} I will choose the one with fewer peppers!
+{NPC_ENTER:crazydave}{EXCITED}I'll pick the one with the least peppers!
 
 [NARRATIVE_UNLOCK_WORLD_2_1]
-{NPC_ENTER:winnie} Attention! Each time a new world is unlocked, the number of stars required for the remaining unlocked new worlds increases.
+{NPC_ENTER:winnie}Attention! After unlocking each new world, the star requirements for the remaining locked worlds will increase.
 
 [NARRATIVE_CR_STORE_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hey! Man, I found out there's a store here.
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hey!, I found a shop here.
 
 [PVP_TUTORIAL_ENTERGARDENWAR]
 Entering the Garden War
@@ -47361,73 +47711,73 @@ Entering the Garden War
 View Base
 
 [PVP_TUTORIAL_CLICKDEFEND]
-Tap to set up a defense
+Tap to Set Up Defense
 
 [PVP_TUTORIAL_ENTERTRAINING]
-Entering the training ground
+Enter Training Course
 
 [PVP_TUTORIAL_CLICKSAVEQUIT]
 Click Save to exit
 
 [PVP_TUTORIAL_CLICKTRAINZB]
-Tap Train Zombies
+Tap to Train Zombies
 
 [PVP_TUTORIAL_CLICKTRAIN5ZB]
-Click to train 5 zombies
+Tap to Train 5 Zombies
 
 [PVP_TUTORIAL_CLICKTRAIN20ZB]
-Click to train {NUMBER} zombies
+Tap to Train {NUMBER} Zombies
 
 [PVP_TUTORIAL_COMPLETETRAIN]
-Click to finish immediately
+Tap to Complete Instantly
 
 [PVP_TUTORIAL_CLICKATTACK]
-Click Enemy Hut
+Tap Enemy Hut
 
 [PVP_TUTORIAL_ATTACKSTART]
-Offensive
+Attack
 
 [PVP_TUTORIAL_CLICKCLOSE]
-Click Close
+Tap to Close
 
 [PVP_OCCUPY_CHECK]
-Click View
+Tap to View
 
 [PVP_TRAINING_TUTORIAL_FREE]
-Free-of-charge
+Free
 
 [PVP_TUTORIAL_PLACEZB]
-4 zombies placed on each column
+Place 4 zombies on each column.
 
 [PVP_TUTORIAL_CLICKBUF]
-Click Use Plague
+Tap to Use Plague Pharmacy
 
 [PVP_TUTORIAL_BUFTOZB]
-Plague placed on zombies
+Place the Plague Pharmacy on zombies.
 
 [PVP_TUTORIAL_CLICKPCCUPY]
-The battle for resources is open, go and see!
+The Resource Contest has begun — go check it out!
 
 [PVP_TUTORIAL_EDITPLANT]
-Dragging plants to change defensive formations
+Drag plants to change your defensive formation.
 
 [PVP_RANK_GAME]
 Garden League
 
 [PVP_RANK_RANK]
-Garden Chart
+Garden Leaderboard
 
 [PVP_RANK_CUR]
-This season
+This Season
 
 [PVP_RANK_ATTACK_WINTIMES]
-Attack Victory：
+Attack Wins：
 
 [PVP_RANK_DEFEND_WINTIMES]
-Defensive wins：
+Defense Wins：
 
 [PVP_RANK_TITLE]
-{NAME} league {NUMBER} level{RANK}
+{NAME} League Tier {NUMBER} {RANK}
 
 [PVP_RANK_TITLE_NAME1]
 Bronze
@@ -47445,80 +47795,80 @@ Crystal
 Master
 
 [PVP_RANK_TITLE_NAME6]
-Champ
+Champion
 
 [PVP_RANK_TITLE_NAME7]
-Legendary
+Legend
 
 [PVP_RANK_TITLE_DEF0]
-( superior )
+(Higher Tier)
 
 [PVP_RANK_TITLE_DEF1]
-(current)
+(Current)
 
 [PVP_RANK_TITLE_DEF2]
-( lower level )
+(Lower Tier)
 
 [PVP_RANK_WIN_DES]
-Daily Winning Extra Bonus
+Daily Win Bonus Reward
 
 [PVP_RANK_WIN_CUR_DES]
-Daily winning extra reward{NUMBER1}/{NUMBER2}
+Daily Win Bonus Reward {NUMBER1}/{NUMBER2}
 
 [PVP_RANK_NOTINLEAGUE]
-Your trophy count is temporarily out of any league, please try to improve your trophy count.
+Your trophy count is currently too low to enter any league. Please work on increasing your trophies.
 
 [PVP_RANK_SEEOTHERPARK]
-View the other party's garden
+View Garden
 
 [PVP_RANK_SEEOTHERARMY]
-View opposing legions
+View Legion
 
 [PVP_RANK_OTHERARMYNAME]
 {NAME}'s Legion
 
 [PVP_RANK_GARDEN_HEAD]
-Diamond Garden Tournament
+Diamond Garden Championship
 
 [PVP_RANK_GARDEN_AWARD1]
-Championship Rewards：
+1st Place Reward：
 
 [PVP_RANK_GARDEN_AWARD2]
-Runner-up Rewards：
+2nd Place Reward：
 
 [PVP_RANK_GARDEN_AWARD3]
-Third runner-up award：
+3rd Place Reward：
 
 [PVP_RANK_GARDEN_LAST]
-Previous season： {YEAR}year{MONTH}month
+Last Season: {MONTH}/{YEAR}
 
 [PVP_RANK_GARDEN_TITLE]
-{YEAR}Y {MONTH}M ： {DAY}D {HOUR}H
+{MONTH}/{YEAR} Season — Remaining: {DAY}d {HOUR}h
 
 [PVP_RANK_SHOWMORE]
 Upload more...
 
 [PVP_RANK_SHOWMOREFINISH]
-Already loaded all
+All items loaded.
 
 [PVP_RANK_MONTHREWARD_TITLE1]
-Rank Rewards
+Ranking Reward
 
 [PVP_RANK_MONTHREWARD_CONTENT1]
-Congratulations on your excellent performance last season
-Got the {NUM} name
-Receive ranking award medal {MEDAL}
+Congratulations on your outstanding performance last season!
+You placed #{NUM}
+Ranking Reward: Medal x{MEDAL}
 
 [PVP_RANK_MONTHREWARD_TITLE2]
-Season Rewards
+Season Reward
 
 [PVP_RANK_MONTHREWARD_CONTENT2]
-The number of trophies you won against last season is {OLDCUP}
-Get Reward StarCoin {COIN}
-The initial number of trophies for this season is {NEWCUP}
+Your battle trophies earned last season: {OLDCUP}
+Reward: Star Coins x{COIN}
+Starting trophies this season: {NEWCUP}
 
 [PVP_EXCHANGE_TITLE]
-Redemption Shop
+Exchange Store
 
 [PVP_EXCHANGE_REFRESH]
 Refresh
@@ -47527,25 +47877,25 @@ Refresh
 Spend
 
 [PVP_EXCHANGE_CONFIRM_END]
-{NUMBER} refreshes the store?
+{NUMBER} to refresh the shop?
 
 [PVP_EXCHANGE_CONFIRM_END_AD]
-Refresh the store with {NUMBER} or ^FF0000 watch 1 ad ^oldclr (remaining {LEFT} times)?
+{NUMBER} or ^FF0000 watch 1 ad ^oldclr to refresh the shop (Remaining: {LEFT})?
 
 [PVP_EXCHANGE_CONFIRM_BUY_END]
-{NUMBER} to purchase {NAME}?
+Purchase {NAME} for {NUMBER}?
 
 [PVP_EXCHANGE_CONFIRM_1]
 Your
 
 [PVP_EXCHANGE_CONFIRM_2]
-is insufficient,
+is insufficient.
 
 [PVP_EXCHANGE_CONFIRM_3]
-Battles to win more medals!
+Go join battles to earn more Medals!
 
 [PVP_PLAYBACK_START]
-Playback
+Replay
 
 [PVP_PLAYBACK_REPLAY]
 Replay
@@ -47554,91 +47904,91 @@ Replay
 CONTINUE
 
 [PVP_PLAYBACK_RETURN]
-Exit playback
+Exit Replay
 
 [PVP_PLAYBACK_END]
-End replay
+End Replay
 
 [PVP_PLAYBACK_TIP]
-Battle replay ends
+Battle replay ended.
 
 [PVP_PLAYBACK_TIP_PAUSE]
-Battle replay paused
+Battle replay paused.
 
 [PVP_PLAYBACK_TIME1]
-Just-just
+Just now
 
 [PVP_PLAYBACK_TIME2]
-{NUMBER} minutes ago
+{NUMBER} min ago
 
 [PVP_PLAYBACK_TIME3]
-{NUMBER} hours ago
+{NUMBER} hr ago
 
 [PVP_PLAYBACK_TIME4]
 {NUMBER} days ago
 
 [PVP_PLAYBACK_RESULT1]
-You beat ^F44647 {NAME}
+You defeated ^F44647 {NAME}
 
 [PVP_PLAYBACK_RESULT2]
-You didn't beat ^497600 {NAME}
+You failed to defeat ^497600 {NAME}
 
 [PVP_PLAYBACK_RESULT3]
 {NAME} ^497600 defeated you
 
 [PVP_PLAYBACK_RESULT4]
-{NAME} ^F44647 Didn't beat you
+{NAME} ^F44647 failed to defeat you
 
 [PVP_PLAYBACK_RESULT5]
-You captured the territory of ^F44647 {NAME} ^oldclr
+You captured ^F44647 {NAME}'s ^oldclr territory
 
 [PVP_PLAYBACK_RESULT6]
-You failed to capture the territory of ^497600 {NAME} ^oldclr
+You failed to capture ^497600 {NAME}'s ^oldclr territory
 
 [PVP_PLAYBACK_RESULT7]
 ^497600 {NAME} ^oldclr failed to capture your territory
 
 [PVP_PLAYBACK_RESULT8]
-^F44647 {NAME} ^oldclr Captured your territory
+^F44647 {NAME} ^oldclr captured your territory
 
 [PVP_PLAYBACK_RESULT9]
-You snatched ^F44647 {NAME} ^oldclr's territory
+You seized ^F44647 {NAME}'s ^oldclr territory
 
 [PVP_PLAYBACK_RESULT10]
-^F44647 {NAME} ^oldclr snatched your territory
+^F44647 {NAME} ^oldclr seized your territory
 
 [PVP_PLAYBACK_EMPTYNAME]
 Vacant
 
 [PVP_PLAYBACK_GET]
-Obtained：
+Gained：
 
 [PVP_PLAYBACK_LOSE]
-Loss：
+Lost：
 
 [PVP_PLAYBACK_RECORD_TIPS]
-Only the last 10 combat records are kept
+Only the latest 10 battle records are kept.
 
 [PVP_PLAYBACK_REVENGE]
 Revenge
 
 [PVP_PLAYBACK_REVENGE_DONE]
-Revenge
+Revenge Done
 
 [PVP_PLAYBACK_BE_REVENGED]
-The other party's revenge
+Opponent Revenge
 
 [PVP_PLAYBACK_ATTACKED]
-We attack
+Our Attack
 
 [ARENA_CHANGE_SPEED_BTN]
 x {SPEED}
 
 [ARENA_ENDING_BTN_BODY]
-You confirmed you're quitting?
+Are you sure you want to exit?
 
 [ARENA_ENDING_BTN_HEADER]
-End the fight
+End Battle
 
 [ARENA_ENDING_BTN_OK]
 Confirm
@@ -47647,98 +47997,99 @@ Confirm
 Cancel
 
 [PVP_ERROR_NO_OPP]
-Can't find an opponent
+No opponent found.
 
 [PVP_ERROR_OCCUPY_IS_FIGHTING]
-This resource point is being attacked by others
+This resource point is currently under attack by someone else.
 
 [PVP_ERROR_IS_ATTACKED]
-You're being attacked by other players
+You are currently being attacked by another player.
 
 [PRESENT_TITLE_1012]
-Big rebate to get prizes
+Big Rebate Prize
 
 [PRESENT_DES_1012]
-Get {NAME} x {NUM}
+Obtained {NAME} x {NUM}
 
 [PRESENT_CON_1012]
-Congratulations on winning the following prizes at the big rebate event：
+Congratulations! You have won the following prizes in the Big Rebate event:
 
 [PRESENT_DES_APPEND_1012]
- + get {NAME}
+ + Obtained {NAME}
 
 [PVP_UPDATE_NOTICE_TITLE]
-Street renewal compensation
+Street Update Compensation
 
 [SUPER_BOSS_COMING_SOON]
-Complete ALL Hard Mode levels in this world
+Complete ALL Hard levels in this world
+
+[SUPER_BOSS_COMING_SOON_MOON]
+Complete ALL Expert levels in this world
 
 [PVP_UPDATE_NOTICE_TEXT]
-We adapted the structure of the Garden War Map. Now you can be at the same time
-Searching for players and snatching resource points on the map. But, structural changes also
-Will make changes to the resource points you have. So here for you
-Compensate.
- 
-In this update you：
-An occupied resource point was forcibly demolished
-Compensation Star Coin Medal
+We have adjusted the structure of the Garden War map. You can now search for players and seize resource points at the same time.
+However, these changes have also affected the resource points you own. Therefore, we are providing compensation for the affected resource points.
+
+In this update:
+occupied resource points were forcibly demolished.
+Compensation: Star Coins Medals
 
 [PVP_UPDATE_NOTICE_BUTTON_TEXT]
 CONTINUE
 
 [PVP_ENTRY_MENU_SHOP]
-Redemption Shop
+Exchange Store
 
 [PVP_ENTRY_MENU_MAIN]
-Garden Wars
+Garden Warfare
 
 [PVP_ENTRY_MENU_PLAYBACK]
-Combat record
+Battle Record
 
 [PVP_ENTRY_MENU_TRAINING]
-Training ground
+Training Course
 
 [PVP_ENTRY_MENU_LAB]
-Labs
+Laboratory
 
 [PVP_ENTRY_MENU_RANK]
 Rankings
 
 [PVP_ZOMBIE_LEVEL_UP_TITLE]
-Zombie Advance
+Zombie Promotion
 
 [PVP_ZOMBIE_LEVEL_UP_MAX]
-Has reached the top
+Max Level Reached
 
 [PVP_ZOMBIE_LEVEL_UP_NEXT]
-Next advance：
+Next Promotion：
 
 [PVP_ZOMBIE_LEVEL_UP_NEXT_CONTENT1]
-Gain 50% attack boost and 50% blood volume boost
+Gain 50% attack boost and 50% health boost.
 
 [PVP_ZOMBIE_LEVEL_UP_NEXT_CONTENT2]
-Obtain 100% attack boost and 100% blood volume boost
+Gain 100% attack boost and 100% health boost.
 
 [PVP_ZOMBIE_LEVEL_UP_NEXT_CONTENT3]
-Gain 150% attack boost and 150% blood volume boost
+Gain 150% attack boost and 150% health boost.
 
 [PVP_ZOMBIE_LEVEL_UP_SKILLNAME]
-Plague Ability
+Plague Pharmacy
 
 [PVP_ZOMBIE_LEVEL_UP_SKILL_CONTENT]
-Instantly turned into a zombie wearing an iron bucket, so awesome!
+Instantly transforms into a bucket zombie. How awesome is that!
 
 [PVP_ZOMBIE_LEVEL_UP_COIN]
-{NUM} Upgrade!
+{NUM} to Promote!
 
 [PVP_ZOMBIE_LEVEL_UP_GEM]
-{NUM} Done now!
+{NUM} to Complete Instantly!
 
 [PVP_ZOMBIE_LEVEL_UP_TIME]
-Advanced {CONTENT}
+Promoting {CONTENT}
 
 [PVP_ZOMBIE_LEVEL_UP_NEED_TIME]
-This advance requires a duration of： {CONTENT}
+This promotion takes: {CONTENT}
 
 [EVIL_DAVID_NAME]
 Evil Dave {SON}/{MON}
@@ -47752,8 +48103,11 @@ Collect sun to grow plants to resist zombie invasion.
 [KILL_ALL_ZOMBIE_MOON]
 Mine Crystals to grow plants to resist zombie invasion.
 
+[KILL_ALL_ZOMBIE_MOON_MINIGAME]
+Use the claw to grab space items. Reach the target score to clear the level.
+
 [EVIL_DAVID_CHALLENGE_FINISH]
-You've defeated Evil Dave.
+You have defeated Evil Dave.
 
 [ACTIVITY_FINISH]
 Events have ended
@@ -48150,6 +48504,12 @@ This is a profile picture
 
 [PVZ_ERROR_76113]
 An order is already in progress. Please exit and re-enter to claim.
+
+[PVZ_ERROR_76114]
+You have an unfinished Chroma Customization order. Please exit and re-enter the game, and wait for the reward to arrive before purchasing again.
+
+[PVZ_ERROR_76127]
+Data not refreshed. Please exit and re-enter the event.
 
 [GACHA_ITEM_NORMAL_HEADER]
 Normal Chest
@@ -56536,7 +56896,7 @@ Suppressive Fire
 Gathering of Divinations
 
 [PLANT_FAMILY_NAME_50048]
-Carnival Party
+Shifting Positions
 
 [PLANT_FAMILY_NAME_50049]
 Current Overload
@@ -56546,6 +56906,9 @@ From the Abyss
 
 [PLANT_FAMILY_NAME_50051]
 Brave the Winds and Tides
+
+[PLANT_FAMILY_NAME_50052]
+Moonwalk to the Clouds
 
 [PLANT_FAMILT_BOOST_TITLE]
 Plant Family Effect：
@@ -57384,6 +57747,9 @@ You can't plant a plant on a springboard
 
 [PLANTING_NOT_ON_OBSTACLE]
 Can't plant plants on ice
+
+[PLANTING_NOT_ON_GLADIATOR_TROPHY]
+Cannot plant on trophies.
 
 [PLANTING_NOT_ON_COAL_TRUCK]
 You can't plant plants on a coal mine car
@@ -61270,7 +61636,7 @@ Please connect to the internet and try again.
 Boss Challenge Probability
 
 [BOSSCHALLENGE_LEGENDPLANTS_PIECE]
-Flamboyant Float Plant Pieces
+Sunshine Leek Plant Pieces
 
 [BOSSCHALLENGE_EPICPLANTS_PIECE]
 Other Epic Plant Pieces
@@ -63680,7 +64046,7 @@ Anniversary Rendez-vous Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Frost Rambutan ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -63693,7 +64059,7 @@ Anniversary Rendez-vous Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Frost Rambutan ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -63705,7 +64071,7 @@ Anniversary Rendez-vous Event Description
    - 150 Gems.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Frost Rambutan ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -63718,7 +64084,7 @@ Anniversary Rendez-vous Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Frost Rambutan ^oldclrr.
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
 1. Earn EXP by completing daily, weekly, and limited challenges. Every 500 EXP levels you up, unlocking rewards.
@@ -63731,7 +64097,7 @@ Anniversary Rendez-vous Event Description
 4. Use gems in the "Chest" section to spin the wheel for rewards. Premium Pass holders reaching level 50 can clear all 20 rewards.
 5. Rewards on the wheel are unique and redistributed when claimed. Initial probabilities：
    -Coins： 22.66%, Gems： 27.20%, Charms： 19.26%, Plants： 24.25%, Super Charms： 2.04%, Single Draw Ticket： 4.53%, Advanced Book： 0.06%.
-6. After level 50, you can obtain fragments of ^FF8000^ Lunisolar Honeysuckle ^oldclrr.
+6. After level 50, you can obtain fragments of ^FF8000^ Frost Rambutan ^oldclrr.
  
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
@@ -64822,7 +65188,7 @@ Play a match in Two-player Mode.
 Plant Cultivation Info
 
 [PLANT_CULTIVATE_DESCRIPTION]
-1. Event duration： August 28 - September 10.
+1. Event duration： October 1 - October 14.
 2. After the event starts, players can select one plant from the list to obtain a 14-day trial of its level 5 version and unlock tasks.
 3. Once a plant is selected, it cannot be changed.
 4. Completing tasks Growth Points. When the Growth Points are fully accumulated, players can receive 10 permanent piece and a costume.
@@ -65933,6 +66299,36 @@ Used by： {PLANT}
 
 [NEW_AVATAR_EFFECT]
 Costume Effect
+
+[PLANT_AVATAR_EFFECT_BUTTON_ON]
+Costume Effect: On
+
+[PLANT_AVATAR_EFFECT_BUTTON_OFF]
+Costume Effect: Off
+
+[PLANT_AVATAR_EFFECT_BUTTON_DISABLED]
+Costume Effect
+
+[PLANT_AVATAR_EFFECT_DIALOG_TITLE]
+Enable Costume Effect?
+
+[PLANT_AVATAR_EFFECT_OPEN]
+On
+
+[PLANT_AVATAR_EFFECT_CLOSE]
+Off
+
+[PLANT_AVATAR_EFFECT_CANCEL]
+Cancel
+
+[PLANT_AVATAR_EFFECT_CONFIRM]
+Confirm
+
+[PLANT_AVATAR_EFFECT_INFO]
+Costume Effect On: Costume effects take effect normally.\nCostume Effect Off: Costume effects are disabled, but the costume appearance still displays normally.
+
+[PLANT_AVATAR_EFFECT_DISABLED_NOTICE]
+Costume effect disabled.
 
 [NEW_AVATAR_WEAR]
 Equip
@@ -68535,22 +68931,19 @@ Upgrades bowling ball types to： Frost Rambutan Ball, Jackfruit Emperor Ball, F
 Privacy Terms
 
 [SETTING_LOGOUT_TITLE]
-Delete Account
-
+Account Deletion
 
 [SETTING_LOGOUT_TEXT]
-Because this game is a stand-alone type, it cannot be played on its own
-Cancel your account. Please write off the need
-Contact Customer Service, Customer Service Contact：
-QQ public account 4008932088.
-Customer service will contact you within 3-5 working days.
+Since this game is an offline single-player title, accounts cannot be deleted on your own.
+If you need to delete your account, please contact customer support:
+QQ Official Account: 4008932088.
+Support will contact you within 3–5 business days.
 
 [SETTING_LOGOUT_TEXT_A]
-Because this game belongs to a single machine type, it cannot be self
-Cancellation of the account. Please if you have cancellation requirements
-Contact Customer Service Contact Information：
-QQ Public No. 4008932088.
-The customer service will contact you within 3-5 working days.
+Since this game is an offline single-player title, accounts cannot be deleted on your own.
+If you need to delete your account, please contact customer support:
+QQ Official Account: 4008932088.
+Support will contact you within 3–5 business days.
 
 [PRIVACY_RULE_BTN_TXT]
 Privacy Terms
@@ -75657,7 +76050,7 @@ Fairy Tale Bubbles
 Cool and Sweet
 
 [S30_MEMORY_LEVEL_NAME_056]
-Sweet Trap
+Royal Chess Match
 
 [S30_MEMORY_LEVEL_NAME_057]
 Breaststroke and Butterfly
@@ -76219,6 +76612,87 @@ Autumn Fields in Falling Maple - Day 7
 
 [S32_MEMORY_LEVEL_NAME_040]
 Autumn Fields in Falling Maple - Day 8
+
+[S32_MEMORY_LEVEL_NAME_041]
+Dave's Badlands Expedition - Day 1
+
+[S32_MEMORY_LEVEL_NAME_042]
+Dave's Badlands Expedition - Day 2
+
+[S32_MEMORY_LEVEL_NAME_043]
+Dave's Badlands Expedition - Day 3
+
+[S32_MEMORY_LEVEL_NAME_044]
+Dave's Badlands Expedition - Day 4
+
+[S32_MEMORY_LEVEL_NAME_045]
+Dave's Badlands Expedition - Day 5
+
+[S32_MEMORY_LEVEL_NAME_046]
+Dave's Badlands Expedition - Day 6
+
+[S32_MEMORY_LEVEL_NAME_047]
+Dave's Badlands Expedition - Day 7
+
+[S32_MEMORY_LEVEL_NAME_048]
+Dave's Badlands Expedition - Day 8
+
+[S32_MEMORY_LEVEL_NAME_049]
+Crisp Autumn Days - Day 1
+
+[S32_MEMORY_LEVEL_NAME_050]
+Crisp Autumn Days - Day 2
+
+[S32_MEMORY_LEVEL_NAME_051]
+Crisp Autumn Days - Day 3
+
+[S32_MEMORY_LEVEL_NAME_052]
+Crisp Autumn Days - Day 4
+
+[S32_MEMORY_LEVEL_NAME_053]
+Crisp Autumn Days - Day 5
+
+[S32_MEMORY_LEVEL_NAME_054]
+Crisp Autumn Days - Day 6
+
+[S32_MEMORY_LEVEL_NAME_055]
+Crisp Autumn Days - Day 7
+
+[S32_MEMORY_LEVEL_NAME_056]
+Crisp Autumn Days - Day 8
+
+[S32_MEMORY_LEVEL_NAME_057]
+Lunar Expedition - Day 1
+
+[S32_MEMORY_LEVEL_NAME_058]
+Lunar Expedition - Day 2
+
+[S32_MEMORY_LEVEL_NAME_059]
+Lunar Expedition - Day 3
+
+[S32_MEMORY_LEVEL_NAME_060]
+Lunar Expedition - Day 4
+
+[S32_MEMORY_LEVEL_NAME_061]
+Lunar Expedition - Day 5
+
+[S32_MEMORY_LEVEL_NAME_062]
+Lunar Expedition - Day 6
+
+[S32_MEMORY_LEVEL_NAME_063]
+Lunar Expedition - Day 7
+
+[S32_MEMORY_LEVEL_NAME_064]
+Lunar Expedition - Day 8
+
+[S32_MEMORY_LEVEL_NAME_BOSS_6]
+Wasteland Skimmer
+
+[S32_MEMORY_LEVEL_NAME_BOSS_7]
+Vulture Sky-Ripper
+
+[S32_MEMORY_LEVEL_NAME_BOSS_8]
+Lunar Voyager
 
 [S32_MEMORY_LEVEL_NAME_BOSS_1]
 Troupe Puppeteer
@@ -78139,6 +78613,30 @@ Each level has specific missions. Complete them to earn rewards.
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2026]
 level rewards cannot be obtained repeatedly
 
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ROMA]
+Unlock Conditions：
+
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ROMA]
+All Normal level open when the event begins. Two Hard level unlock daily.
+
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ROMA]
+2. Stage Details
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ROMA]
+Normal level have level 3 zombies. Hard level zombie level vary based on mission selection.
+
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ROMA]
+3. Mission Rules
+
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ROMA]
+Each level has specific missions. Complete them to earn rewards.
+
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ROMA]
+4. Mission Rewards
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ROMA]
+level rewards cannot be obtained repeatedly
+
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NEEDFORSPEED_202406]
 1. Opening Time
 
@@ -79976,7 +80474,7 @@ Binding devices
 [BIND_UNIQUE_ID_DESC]
 1. Binding a device links your account, device, and save data.
 2. When logging with the same account on a new device, you must bind the device first.
-3. After binding a device, you must wait 12 hours before binding another device.
+3. After binding a device, you must wait 1 hours before binding another device.
 4. Factory resets, formatting, flashing, and other deep-cleaning operations will be recognized as new devices.
 5. Each account can bind multiple devices.
 
@@ -81141,11 +81639,29 @@ As usual
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
 Classic Mode - No special mechanics
 
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_NOMOD]
-As usual
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_AQUILA]
+Roman Eagle Standard
 
-[PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
-Classic Mode - No special mechanics
+[PVZ2_UNCHARTED_MODE_MODE_DESC_AQUILA]
+The standard-bearer creates a 3×3 aura centered on itself, granting 50% damage reduction and immunity to control effects. Magnet-shroom/Magnet-shroom can permanently destroy the Eagle Standard.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_COLOSSEUM]
+Gladiator Row
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_COLOSSEUM]
+Temporarily seals five horizontal tiles on the battlefield to form a "Gladiator Row." The outcome of this duel will grant the player a large amount of Plant Food or deploy more hostile zombies after settlement.
+
+[PVZ2_UNCHARTED_MODE_AQUILA_TITLE_NOMOD]
+Roman Eagle Standard
+
+[PVZ2_UNCHARTED_MODE_AQUILA_DESC_NOMOD]
+The standard-bearer creates a 3×3 aura centered on itself, granting 50% damage reduction and immunity to control effects. Magnet-shroom/Magnet-shroom can permanently destroy the Eagle Standard.
+
+[PVZ2_UNCHARTED_MODE_COLOSSEUM_TITLE_NOMOD]
+Gladiator Row
+
+[PVZ2_UNCHARTED_MODE_COLOSSEUM_DESC_NOMOD]
+Temporarily seals five horizontal tiles on the battlefield to form a "Gladiator Row." The outcome of this duel will grant the player a large amount of Plant Food or deploy more hostile zombies after settlement.
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE1]
 Appetizer
@@ -81325,6 +81841,77 @@ Move the vehicles within the given steps to help Dave return to his house!
 
 [PLAYERS_TRIP_TO_ICEAGENIGHTMARE]
 {PLAYER}'s Trip to Frostbite Caves Resurgence!
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ROMA]
+1. The Space-Time Secret Realm contains various new worlds and zombies waiting for you to explore. Each world has Normal and Hard levels.
+2. Normal and Hard mode levels each have First Clear Rewards and Regular Clear Rewards. First Clear Rewards are obtained on the first clear and cannot be claimed again.
+3. Hard mode levels are unlocked after clearing all Normal mode levels.
+4. Hard levels unlock over time.
+5. Hard mode has specific challenge objectives. Check and complete them for rewards — failing them does not affect normal clearing.
+6. Normal mode always contains 3 challenge objectives. Completing each objective for the first time grants its corresponding reward.
+
+[ROMA_LEVEL_NAME_01_N]
+Roman Glory - Day 1
+
+[ROMA_LEVEL_NAME_02_N]
+Roman Glory - Day 2
+
+[ROMA_LEVEL_NAME_03_N]
+Roman Glory - Day 3
+
+[ROMA_LEVEL_NAME_04_N]
+Roman Glory - Day 4
+
+[ROMA_LEVEL_NAME_05_N]
+Roman Glory - Day 5
+
+[ROMA_LEVEL_NAME_06_N]
+Roman Glory - Day 6
+
+[ROMA_LEVEL_NAME_07_N]
+Roman Glory - Day 7
+
+[ROMA_LEVEL_NAME_08_N]
+Roman Glory - Day 8
+
+[ROMA_LEVEL_NAME_09_N]
+Roman Glory - Day 9
+
+[ROMA_LEVEL_NAME_10_N]
+Roman Glory - Day 10
+
+[ROMA_LEVEL_NAME_01_H]
+Roman Glory - Day 1 (Hard)
+
+[ROMA_LEVEL_NAME_02_H]
+Roman Glory - Day 2 (Hard)
+
+[ROMA_LEVEL_NAME_03_H]
+Roman Glory - Day 3 (Hard)
+
+[ROMA_LEVEL_NAME_04_H]
+Roman Glory - Day 4 (Hard)
+
+[ROMA_LEVEL_NAME_05_H]
+Roman Glory - Day 5 (Hard)
+
+[ROMA_LEVEL_NAME_06_H]
+Roman Glory - Day 6 (Hard)
+
+[ROMA_LEVEL_NAME_07_H]
+Roman Glory - Day 7 (Hard)
+
+[ROMA_LEVEL_NAME_08_H]
+Roman Glory - Day 8 (Hard)
+
+[ROMA_LEVEL_NAME_09_H]
+Roman Glory - Day 9 (Hard)
+
+[ROMA_LEVEL_NAME_10_H]
+Roman Glory - Day 10 (Hard)
+
+[PLAYERS_TRIP_TO_ROMA]
+{PLAYER}'s Roman Glory
 
 [PLAYERS_TRIP_TO_CHRISTMAS]
 {PLAYER}'s Christmas Party
@@ -85063,6 +85650,156 @@ Reach 6★
 [ANNIVERSARY_2026_TASK_NAME_10_5]
 Reach 10★
 
+[UNCHARTED_ROMA_TASK_NAME_1_1]
+Complete three combined challenges: Eagle Standard Descends (1★), Reduced Card Slots (2★), Zombie Attack Boost (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_1_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_1_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_1_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_1_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_2_1]
+Complete three combined challenges: Zombie Attack Boost (1★), Reduced Sun Collection (2★), Reduced Card Slots (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_2_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_2_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_2_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_2_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_3_1]
+Complete three combined challenges: Increased Shooter Plant Cooldown (3★), Eagle Standard Descends (2★), Zombie Attack Boost (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_3_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_3_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_3_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_3_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_4_1]
+Complete three combined challenges: Increased Specialist Plant Cost (1★), Control Immunity (2★), Eagle Standard Descends (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_4_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_4_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_4_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_4_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_5_1]
+Complete three combined challenges: Increased Shooter Plant Cost (1★), Increased Zombie Movement Speed (2★), Zombie Attack Boost (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_5_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_5_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_5_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_5_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_6_1]
+Complete three combined challenges: Increased Specialist Plant Cost (1★), Reduced Plant Damage (2★), Zombie Attack Boost (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_6_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_6_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_6_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_6_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_7_1]
+Complete three combined challenges: Increased Support Plant Cost (1★), Zombie Attack Boost (2★), Reduced Card Slots (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_7_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_7_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_7_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_7_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_8_1]
+Complete three combined challenges: Reduced Sun Collection (1★), Reduced Card Slots (2★), Gladiator Party (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_8_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_8_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_8_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_8_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_9_1]
+Complete three combined challenges: Increased Shooter Plant Cost (1★), Increased Zombie Movement Speed (2★), Zombie Tier Up (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_9_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_9_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_9_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_9_5]
+Reach 10★
+
+[UNCHARTED_ROMA_TASK_NAME_10_1]
+Complete three combined challenges: Reduced Card Slots (1★), Increased Zombie Movement Speed (2★), Zombie Attack Boost (3★)
+
+[UNCHARTED_ROMA_TASK_NAME_10_2]
+Reach 2★
+
+[UNCHARTED_ROMA_TASK_NAME_10_3]
+Reach 4★
+
+[UNCHARTED_ROMA_TASK_NAME_10_4]
+Reach 6★
+
+[UNCHARTED_ROMA_TASK_NAME_10_5]
+Reach 10★
+
 [ANNIVERSARY_2026_TASK_NAME_11_1]
 Complete three combination challenges: Increase Specialist Plant Consumption (1★), Arcade Zombie takes 20% less damage from plants (2★), Zombie Speed Boost (3★)
 
@@ -85339,8 +86076,14 @@ Difficulty 3
 [ZOMBIE_DEFAULT_DIFFICULTY_3_DESCRIPTION]
 Zombie level set to 5 and cannot use artifacts and plants food
 
+[ZOMBIE_NODEFAULT_DIFFICULTY_3]
+Difficulty 3
+
+[ZOMBIE_NODEFAULT_DIFFICULTY_3_DESCRIPTION]
+Zombies start at Level 5. Artifacts cannot be used.
+
 [ZOMBIE_12TH_DIFFICULTY_3]
-Difficulty III
+Difficulty 3
 
 [ZOMBIE_12TH_DIFFICULTY_3_DESCRIPTION]
 Zombies start at level 5. Artifacts cannot be used.
@@ -85397,7 +86140,9 @@ Immune to Control Effects (2★)
 Immune to Control Effects
 
 [ZOMBIE_IMMUNITY_DIFFICULTY_3]
+Control Immunity (3★)
 [ZOMBIE_IMMUNITY_DIFFICULTY_3_DESCRIPTION]
+Immune to control effects.
 
 [ZOMBIE_ATTACK_DIFFICULTY_1]
 Zombie attack buff  (1star)
@@ -85985,6 +86730,9 @@ The tacit understanding of peanuts goes to the next level, with a 50% chance of 
 
 [PEANUT_NEW_SKILL_LEVEL4_DES]
 When planting, there is a probability of directly releasing plants food!
+
+[PEANUT_NEW_SKILL_LEVEL5_DES]
+周围格上其他五阶的植物数量越多，花生射手越愤怒。愤怒可以使花生射手提升愤怒档位，档位越高，花生子弹产生的爆炸伤害越高，攻速也越快。
 
 [PEANUT_PLANTFOOD_DESCRIPTION]
 The Peanut Shooter quickly fires large quantities of peanuts, restoring his health while obtaining a metal helmet that can absorb 4,000 damage.
@@ -87477,7 +88225,7 @@ Currently selected less than {NUM} categories, unable to configure
 Future Gift Box Event Details
 
 [TOURISM_OCTOBER_TITLE]
-July Co-op
+October Co-op
 
 [TOURISM_OCTOBER_DEFAULT_TEXT2]
 Already in a team, does not meet the requirements to fill in.
@@ -87536,6 +88284,12 @@ Cannot enter your own invitation code
 [TOURISM_OCTOBER_INVITATION_SUCCESS]
 Applied to join the team
 
+[TOURISM_OCTOBER_REWARD_EMPTY_TITLE]
+Notice
+
+[TOURISM_OCTOBER_REWARD_EMPTY]
+Token limit reached.
+
 [PVP_ERROR_75525]
 Already joined a team, cannot apply to join another team
 
@@ -87567,7 +88321,19 @@ Failed to generate invitation code
 Cannot apply repeatedly to join
 
 [PVP_ERROR_75535]
-The member has already joined another team, please refresh the page
+This member has already joined another team. Please reopen the page to refresh.
+
+[PVZ_ERROR_75536]
+The captain cannot leave the team while members remain.
+
+[PVZ_ERROR_75537]
+Leave cooldown active after leaving the team.
+
+[PVZ_ERROR_75538]
+team kick cooldown active.
+
+[PVZ_ERROR_75539]
+Friendship Coin limit reached.
 
 [PVP_ERROR_76000]
 Unlocks for exchange after clearing Stage 4 on Normal difficulty.
@@ -88751,6 +89517,33 @@ Obtain 3000 coins.
 [TOURISMOCTOBER_MEMBER_TEXT]
 Team member
 
+[TOURISM_OCTOBER_TEAM_MANAGEMENT]
+Team Management
+
+[TOURISM_OCTOBER_REMOVE_MEMBER]
+Remove Member
+
+[TOURISM_OCTOBER_LEAVE_TEAM]
+Leave team
+
+[TOURISM_OCTOBER_KICK_CONFIRM]
+Are you sure you want to remove this member from the team?
+
+[TOURISM_OCTOBER_LEAVE_CONFIRM]
+Are you sure you want to leave the current team?
+
+[TOURISM_OCTOBER_JOIN_COOLDOWN]
+Join team cooldown active. Please wait {TIME}.
+
+[TOURISM_OCTOBER_KICK_COOLDOWN]
+Kick member cooldown active. Please wait {TIME}.
+
+[TOURISM_OCTOBER_LEAVE_COOLDOWN]
+Leave team cooldown active. Please wait {TIME}.
+
+[TOURISM_OCTOBER_KICKED_TIP]
+You have been removed from the team. Please rejoin a team.
+
 [TOURISMOCTOBER_TASK_NAME_2]
 Beat 3 level
 
@@ -88791,13 +89584,15 @@ Daily tasks refresh every day, with a maximum of 3069 coin available!
 Monthly tasks last until October 31.
 
 [TOURISMOCTOBER_MAIN_TIPS_INFO]
-1. Players can earn event coin by completing daily tasks, monthly tasks, and personal tasks.
-2. Event coin can be exchanged for rewards in the exchange shop. Coin will not carry over to the next phase.
-3. Daily tasks refresh daily, while monthly and personal tasks do not refresh and can only be completed once.
-4. Each squad can have up to three members. The first player to accept another player into the squad becomes the captain!
-5. Once in a squad, only the captain can decide whether to accept new members. Joined members cannot enter an invitation code again.
-6. When a squad member completes a task, other squad members can also claim the same amount of rewards.
-7. Complete personal challenges to earn more points for rewards! (Challenge coin are personal - teammates don't share rewards)"
+1. Earn event tokens via Daily, Monthly, and Personal Tasks.
+2. Token cap per event (Personal Task tokens don't count toward the cap).
+3. Tokens can be exchanged for rewards in the Exchange Shop. They don't carry over to the next period.
+4. Daily Tasks refresh daily. Monthly and Personal Tasks don't refresh and can be completed only once.
+5. Squads hold up to 3 members. The first player to accept another becomes captain!
+6. After joining a squad, only the captain decides who can join. Members can't enter an invite code.
+7. When a squad member completes a task, other members can claim the same rewards!
+8. In the management interface, the captain can kick members, and members can leave on their own. Kicking or leaving auto-claims all shared rewards.
+9. Complete Personal Task challenges for more points! (Personal Task tokens can't be shared with teammates.)
 
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3]
 Elite Mirror Queen Zombie
@@ -89050,32 +89845,32 @@ Jingle Bells Info
 
 [GINGLEBELL_DESCRIPTION]
 Event Rules：
-Special Mechanic： Attacking Cake Tanks does increase your score.
+Special Mechanic： Attacking King does increase your score.
     1. All damage dealt to Scarecrow within time limit counts as clearance score.
     2. Scores from newly unlocked stages complete daily missions (refreshed daily).
-    3. Three themes unlock sequentially (Sweet Trap, Layered Surprises, Carnival Party), each with 3 stages. New stage every 2 days, new theme every 6 days.
+    3. Three themes unlock sequentially (Royal Chess Match, Rook Roll, Shifting Positions), each with 3 stages. New stage every 2 days, new theme every 6 days.
     4. No special mechanics in current theme.
     5. Leaderboards rank by total score across current theme's 3 stages. Frozen daily 00：00-10：00 after new themes unlock (no gameplay during ranking). Non-current theme plays don't affect rankings.
-    6. Ranking rewards auto-distribute after 10：00. On July 17, extends to 24 hours (no challenges allowed).
+    6. Ranking rewards auto-distribute after 10：00. On October 18, extends to 24 hours (no challenges allowed).
     7. Players with abnormal scores will have current event scores excluded from rankings.
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Giant Hermit Crab has a Poison Resilience Bar, which can only be broken with Poison-type attacks.
+After the King Zombie takes a certain amount of damage, it summons soldier chess pieces in the surrounding 8 tiles. While soldier chess pieces are present in the surrounding 8 tiles, the King Zombie gains a damage reduction shield.
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-Each time the Giant Hermit Crab’s Poison Resilience Bar is depleted, small dummy targets will randomly spawn within the 8 surrounding tiles. These small dummy targets have no special mechanics.
+Soldier chess pieces shatter immediately after being hit 5 times. If not destroyed within 10 seconds, they shatter automatically.
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Theme 1: Giant Hermit Crabs will move in a loop along a specified route, starting from the starting point, moving through each waypoint in order, and finally returning to the starting point.
+When no soldier chess pieces are within the 8 tiles around the King Zombie, its damage reduction shield is removed and it gains a weakened effect, taking 100% increased damage. Lasts 5 seconds.
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
-Theme 2: Giant Hermit Crabs will move left and right within a certain range in the same row.
+Theme 1: Several wooden stakes are present on the field and do not move.
 
 [GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
-Theme 3: Traditional dummy targets. Only a limited number of Giant Hermit Crabs will exist on the lawn, and they will not move.
+Theme 2: Fixed upper and lower track routes exist on the field, and the wooden stake stands on a minecart. When the King Stake summons soldier chess pieces, the minecart beneath it stops moving, and resumes movement after the weakened period ends.
 
 [GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
-Theme 2: Bumper Cars move left and right within a certain range on the same lane.
+Theme 3: The wooden stake has fixed tiles where it appears. After the stake takes a certain amount of damage, it disappears from its current tile and reappears on another fixed tile.
 
 [GINGLEBELL_HOWTOPLAY_7_DESCRIPTION]
 Theme 3: The lawn contains fixed vertical rail routes. When Bumper Cars are attacked, their movement speed increases.
@@ -89200,6 +89995,9 @@ Jingle Bells Leaderboard Rewards
 [GINGLEBELL_TAB1]
 Challenge
 
+[GINGLEBELL_TAB2]
+Ranking Rewards
+
 [GINGLEBELL_TAB3]
 Rewards
 
@@ -89219,100 +90017,100 @@ Best Score：{NUMBER}
 Deal as much damage as possible in 30 seconds
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Tomb Jingle
+King Jingle
 
 [GINGLEBELL_TASKDESCRIPTION]
 Deal {NUMBER} damage in the latest level.
 
 [A_PILE_SNOWMEN1_TITLE]
-Sweet Trap - Level 1
+Royal Chess Match - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Sweet Trap - Level 2
+Royal Chess Match - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Sweet Trap - Level 3
+Royal Chess Match - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Sweet Trap - Level 1
+Royal Chess Match - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Sweet Trap - Level 2
+Royal Chess Match - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Sweet Trap - Level 3
+Royal Chess Match - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Carnival Party - Level 1
+Shifting Positions - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Carnival Party - Level 2
+Shifting Positions - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Carnival Party - Level 3
+Shifting Positions - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Sweet Trap - Level 1
+Royal Chess Match - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Sweet Trap - Level 2
+Royal Chess Match - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Sweet Trap - Level 3
+Royal Chess Match - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Sweet Trap - Level 1
+Royal Chess Match - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
-Sweet Trap - Level 2
+Royal Chess Match - Level 2
 
 [GINGLEBELL_S2_3_TITLE]
-Sweet Trap - Level 3
+Royal Chess Match - Level 3
 
 [GINGLEBELL_S3_1_TITLE]
-Carnival Party - Level 1
+Shifting Positions - Level 1
 
 [GINGLEBELL_S3_2_TITLE]
-Carnival Party - Level 2
+Shifting Positions - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Carnival Party - Level 3
+Shifting Positions - Level 3
 
 [GINGLEBELL_S4_1_TITLE]
-Sweet Trap - Level 1
+Royal Chess Match - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Sweet Trap - Level 2
+Royal Chess Match - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Sweet Trap - Level 3
+Royal Chess Match - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Layered Surprises - Level 1
+Rook Roll - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Layered Surprises - Level 2
+Rook Roll - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Layered Surprises - Level 3
+Rook Roll - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Carnival Party - Level 1
+Shifting Positions - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Carnival Party - Level 2
+Shifting Positions - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Carnival Party - Level 3
+Shifting Positions - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge： Deal max damage within 30 seconds!
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Sweet Trap - Level {LEVEL_NUMBER}
+Royal Chess Match - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Layered Surprises - Level {LEVEL_NUMBER}
+Rook Roll - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
 Strolls Through Spring Scenery - Level {LEVEL_NUMBER}
@@ -89701,7 +90499,16 @@ Summer Pack Purchase Instructions：
 4. The obtained costume box will be stored in your backpack. After use, you can select one costume from the box to obtain.
 5. The current costume chest expires after the event end
 
-[NEWYEARPACK_MAIN_TIPS_INFO]
+[NEWYEARPACK_MAIN_TIPS_INFO_16]
+Celebration Accumulated Recharge Instructions：
+   During the event, recharging anywhere in the game will accumulate progress on the recharge progress bar.
+
+
+Daily Free Gift： Gems*15
+2 ¥ Benefit Pack： Gems*30, 10% chance to obtain Basic Costume Box
+3 ¥ Benefit Pack： Gems*90, 10% chance to obtain Intermediate Costume Box
+6 ¥ Benefit Pack： Gems*180, 10% chance to obtain advanced Costume Box
+[NEWYEARPACK_MAIN_TIPS_INFO_15]
 Celebration Accumulated Recharge Instructions：
    During the event, recharging anywhere in the game will accumulate progress on the recharge progress bar.
 
@@ -89748,10 +90555,9 @@ After use, you can select one plant costume from the items to obtain.
 Obtained by purchasing value gift boxes in the Celebration Bundle with a probability.
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
-1. Claim a red packet once daily at 12:00–14:00 and 18:00–21:00 UTC +8 (max 2/day).  
-2. Feb 9–22: Daily 21:00 lottery selects one lucky player per server who claimed a red packet. Winner gets the grand prize.  
-3. Feb 15–21: Use draw tickets until 21:59 to enter the physical prize draw. Each ticket counts as one entry; winners drawn at 22:00.  
-4. Unclaimed grand prizes are voided.  
+1. During the event, red packets can be claimed from the main interface at fixed daily times: 12:00–14:00 and 18:00–21:00 (max 2 claims per day).
+2. From October 1 to October 14, one lucky player will be drawn daily at 21:00 from all servers (one for iOS and one for Android) — players must have claimed that day's red packet to be eligible — to win the day's premium jackpot prize.
+3. If the daily jackpot winner does not log in to claim the prize before the next day's draw, the reward will be voided.
 
 [UINEWYEARREDPACKET_DES_TITLE]
 Festival Red Packet Event
@@ -89775,46 +90581,46 @@ During the event, red packets can be claimed daily from 12:00–14:00 and 18:00�
 Player ^FFFF00 {NAME} ^oldclr 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 28th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 1st Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 29th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 2nd Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 30th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 3rd Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the August 31st Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 4th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 1st Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 5th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 2nd Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 6th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 3rd Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 7th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 4th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 8th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 5th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 9th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 6th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 10th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 7th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 11th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 8th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 12th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 9th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 13th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-Congratulations ^FFFF00 {NAME} ^oldclr for winning the September 10th Jackpot!
+Congratulations ^FFFF00 {NAME} ^oldclr for winning the October 14th Jackpot!
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
 ^0775F7 {ITEM} ^oldclr × {NUMS}
@@ -89899,23 +90705,23 @@ Festival Red Packet
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
 Reward Preview:
-August 28: ^ff0000^Universal Fragment^oldclr^ x200
-August 29: ^ff0000^Upgrade Book^oldclr^ x10
-August 30: ^ff0000^Targeted Fragment^oldclr^ x300
-August 31: ^ff0000^Diamonds^oldclr^ x20260
-September 1: ^ff0000^Limited Chest Trophy^oldclr^ x5
-September 2: ^ff0000^Universal Fragment^oldclr^ x200
-September 3: ^ff0000^Upgrade Book^oldclr^ x10
-September 4: ^ff0000^Targeted Fragment^oldclr^ x300
-September 5: ^ff0000^Diamonds^oldclr^ x20260
-September 6: ^ff0000^Limited Chest Trophy^oldclr^ x5
-September 7: ^ff0000^Universal Fragment^oldclr^ x200
-September 8: ^ff0000^Upgrade Book^oldclr^ x10
-September 9: ^ff0000^Targeted Fragment^oldclr^ x300
-September 10: ^ff0000^Diamonds^oldclr^ x20260
+October 1: ^ff0000^Universal Fragment^oldclr^ x200
+October 2: ^ff0000^Upgrade Book^oldclr^ x10
+October 3: ^ff0000^Targeted Fragment^oldclr^ x300
+October 4: ^ff0000^Diamonds^oldclr^ x20260
+October 5: ^ff0000^Limited Chest Trophy^oldclr^ x5
+October 6: ^ff0000^Universal Fragment^oldclr^ x200
+October 7: ^ff0000^Upgrade Book^oldclr^ x10
+October 8: ^ff0000^Targeted Fragment^oldclr^ x300
+October 9: ^ff0000^Diamonds^oldclr^ x20260
+October 10: ^ff0000^Limited Chest Trophy^oldclr^ x5
+October 11: ^ff0000^Universal Fragment^oldclr^ x200
+October 12: ^ff0000^Upgrade Book^oldclr^ x10
+October 13: ^ff0000^Targeted Fragment^oldclr^ x300
+October 14: ^ff0000^Diamonds^oldclr^ x20260
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
-Top Lucky Player Award
+Lucky Koi Player Prize
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
 Open Summer Packs to get loads of gems and rare costumes!
@@ -90305,6 +91111,12 @@ End of the Universe
 [TOYS_HEAD_DES_ID_25920]
 Obtained by participating in the Audience with the End event.
 
+[TOYS_HEAD_ID_25941]
+Piercing Ice Sword
+
+[TOYS_HEAD_DES_ID_25941]
+Obtained by participating in the Magic Crystal Sword event.
+
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
 
@@ -90412,10 +91224,16 @@ Conquest Through Peace
 Obtained by exchanging with Super Corn in the Farm Battle event.
 
 [HARVEST_BATTLE_HEAD_ID_25894]
-闪耀巨星
+Shining Superstar
 
 [HARVEST_BATTLE_HEAD_DES_ID_25894]
-在农场大作战活动中，通过超级玉米兑换
+Redeemed with Super Corn in the Farm Battle event.
+
+[HARVEST_BATTLE_HEAD_ID_25946]
+Powerful Sound Wave
+
+[HARVEST_BATTLE_HEAD_DES_ID_25946]
+Redeemed with Super Corn in the Farm Battle event.
 
 [TIANGONG_HEAD_ID_25712]
 DJ Aloe
@@ -90506,6 +91324,12 @@ Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure 
 Void Walker
 
 [TIANGONG_HEAD_DES_ID_25913]
+Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
+
+[TIANGONG_HEAD_ID_25942]
+Phantom Demon Zombie
+
+[TIANGONG_HEAD_DES_ID_25942]
 Obtained by reaching cumulative draw milestones in the Heavenly Palace Treasure Hunt event.
 
 [PVP_ERROR_76030]
@@ -90987,9 +91811,13 @@ Spend {NUMS} Fragments to purchase?
 Spend {NUMS} Essence to purchase?
 Note： Requires owning the base costume to equip
 
-[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION]
-1. Obtain Aloe Healer's "Fortune Flows" Costume and other valuable rewards.
-2. Plant Chroma Costumes require the base costume to use. Switch Chroma Costumes in the costume equip page.
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_8]
+1. Obtain Primal Peashooter Ocean Commander - Galaxy Costume and other great rewards.
+2. Chroma plant costumes require owning the base costume first. You can switch to Chroma costumes on the costume equip page.
+
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_9]
+1. Obtain Winter Melon Pool Spotlight - Prism Costume and other great rewards.
+2. Chroma plant costumes require owning the base costume first. You can switch to Chroma costumes on the costume equip page.
 
 [COLORCUSTOMIZATION_DESCRIPTION_TITLE_1]
 Chroma Costume Drop Rate
@@ -91000,13 +91828,21 @@ Chroma Costume Drop Rate：
     Guaranteed drop on the 10th purchase if not obtained in previous 9
 Chroma Costumes require the base costume to use. Switch Chroma Costumes in the costume equip page.
 
-[COLORCUSTOMIZATION_DESCRIPTION]
-Event Rules：
-1. Purchase Chroma Packs to get Gems, custom rewards, Chroma Essence, etc.
-2. Each Chroma Pack has a chance to drop Aloe Healer's "Fortune Flows" Costume (guaranteed within 10 purchases)
-3. Every 5 accumulated pack purchases grants one free pack
-4. Duplicate Aloe Healer's "Fortune Flows" Costumes convert to fragments, exchangeable for Gems in the event store (exchange early!)
-5. Unused Chroma Essence carries over to next event
+[COLORCUSTOMIZATION_DESCRIPTION_8]
+Event Rules:
+1. Purchase Chroma Gift Packs to obtain Diamonds, selectable rewards, Chroma Essence, and more.
+2. Each Chroma Gift Pack purchase has a chance to grant Primal Peashooter Ocean Commander - Galaxy Costume. Guaranteed within 10 purchases.
+3. Every 5 cumulative purchases of any Chroma Gift Pack grants one free additional pack.
+4. Duplicate Primal Peashooter Ocean Commander - Galaxy Costumes convert into Primal Peashooter Ocean Commander - Galaxy Costume Fragments. These Fragments can be exchanged for Diamonds in the Exchange Shop during the event. Exchange early if needed!
+5. Unused Chroma Essence carries over to the next period.
+
+[COLORCUSTOMIZATION_DESCRIPTION_9]
+Event Rules:
+1. Purchase Chroma Gift Packs to obtain Diamonds, selectable rewards, Chroma Essence, and more.
+2. Each Chroma Gift Pack purchase has a chance to grant Winter Melon Pool Spotlight - Prism Costume. Guaranteed within 10 purchases.
+3. Every 5 cumulative purchases of any Chroma Gift Pack grants one free additional pack.
+4. Duplicate Winter Melon Pool Spotlight - Prism Costumes convert into Winter Melon Pool Spotlight - Prism Costume Fragments. These Fragments can be exchanged for Diamonds in the Exchange Shop during the event. Exchange early if needed!
+5. Unused Chroma Essence carries over to the next period.
 
 [PRODUCT_COLOR_CUSTOMIZATION]
 Chroma Customization Pack
@@ -91842,7 +92678,7 @@ When the server-wide contribution points reach a reward node, all participating 
 2. 399 Costume Vouchers
 3. 5 Orange Nutrient Solutions
 4. Space-Time Rift Exclusive Name Card
-5. Singer Sunflower – Sweetheart Cake
+5. Puff-shroom Super Costume
 6. Treasure Vouchers
 
 During the daily event, when the combined damage dealt by you and your teammate reaches the required node, you can claim the "Today's Squad Challenge Cumulative Damage" node reward.
@@ -91940,7 +92776,7 @@ Secret Realm Reward
 Space-Time Rift Event Guide
 
 [SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. After the event opens (from July 8 to July 14, 2026), players have 3 daily attempts to challenge the boss.
+1. After the event opens (from September 30 to October 6), players have 3 daily attempts to challenge the boss.
 2. On the first day, challenges are available immediately after the event starts at 0:00. Starting from the second day, leaderboards from the previous day are settled between 0:00 and 8:00, during which challenges are temporarily closed.
 3. After the settlement period ends, rewards are distributed to all participating players based on their leaderboard ranking.
 4. After settlement, one lucky player will also receive the Koi Reward (2,888 Diamonds + 20 Universal Fragments).
@@ -91997,6 +92833,12 @@ Ice Fire Ice Fire Ice
 
 [TIME_SPACE_HEAD_DES_ID_25898]
 Time-Space Rift Assist Cumulative Reward Avatar
+
+[TIME_SPACE_HEAD_ID_25943]
+United We Stand
+
+[TIME_SPACE_HEAD_DES_ID_25943]
+Space-Time Rift Support Cumulative Reward Avatar
 
 [SEARCH_MODE_HEAD_ID_25912]
 The Royal Path
@@ -94073,6 +94915,16 @@ SAVE & EXIT
 [ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
 超新星巨人僵尸曾是宇宙钓鱼大赛冠军...的助手，他作为助手的任务就是去其他选手的位置，用他那根超新星权杖当鱼竿进行钓鱼。每当他成功钓上一条鱼后，那他周围的鱼就会全部被黑洞吸走。真是卑鄙的手段。
 
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR]
+宇宙辐射巨人僵尸
+
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION_HEADER]
+突变增强了肉体，死亡时发生尸爆，辐射周围的植物与僵尸。
+
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION]
+辐射之前，他只是个普通僵尸。辐射之后，他长出了惊人的肌肉，还学会了徒手拆墙。幸好他的衣服与他一起进化了，不至于只穿一条裤子。
+
+
 [ZOMBIE_MOON_WALKER]
 失重漫步者僵尸
 
@@ -94276,6 +95128,52 @@ Level 20
 [POINTSCHALLENGE_MEMORY_NODE_6]
 Level 26
 
+[ZOMBIE_ZOMBIE_MOON_BLADE]
+星际剑客僵尸
+
+[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION]
+星际剑客僵尸手持一把高科技量子切割刃，这把切割刃甚至能够切开空间！星际剑客僵尸得到了这把剑后总能在一次次的冒险中成功回到家，因为他可以切开空间拿到落在家里的钥匙。
+
+[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION_HEADER]
+能切割植物发射的实体子弹，还能将同行植物牵引至面前处决
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST]
+维度幻象僵尸
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION]
+他原本只是月球剧团的道具师，因为总偷穿主角戏服被开除，一气之下把道具改装成了武器。
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION_HEADER]
+可随机变身为埃及Boss、气功教主或Z机甲释放技能，半血时进入无敌变身
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST]
+维度幻象僵尸
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION]
+他原本只是月球剧团的道具师，因为总偷穿主角戏服被开除，一气之下把道具改装成了武器。
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION_HEADER]
+可随机变身为埃及Boss、气功教主或Z机甲释放技能，半血时进入无敌变身
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP]
+超新星小鬼僵尸
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION]
+“嘿！我的枪呢？”每次超新星巨人将他发射出来的时候都会把他的枪留在背上。多亏如此，这家伙在地上时毫无威胁。
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION_HEADER]
+普通小鬼，无任何能力
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI]
+超新星双子僵尸
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION]
+“你知道的，我们是宇宙中最臭名昭著，最恶贯满盈的——宇宙无敌双子星组合！”自从他们夺得了复制松果的复制科技，这两只臭味相投的僵尸就一直在一起搭档了
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION_HEADER]
+背上的超新星小鬼会瞄准前方植物，随后将目标周围3×3范围内的其他植物同化为目标植物；濒死时会被投掷出去。
+
+
 [NARRATIVE_MOON1_TUTORIAL_1_1]
 {NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}The lunar surface is too hostile. We can't plant anything here!
 
@@ -94384,6 +95282,87 @@ Tap the Collection Terminal to open the deployment panel.
 [METEOR_TUTORIAL_TERMINAL_DRAG]
 Drag the Collection Terminal onto the field.
 
+[NARRATIVE_GRAVITY_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}前方怎么有一块巨大的磁铁？
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_2]
+{EXCITED:WINNIE}那是重力发生器！能够改变目标范围内的重力！
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_3]
+{SAY:WINNIE}磁铁会发出紫色的反重力子弹，落到场上后会让目标区域的单位进入反重力状态
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_4]
+{SAY:WINNIE}植物会一直上浮，而僵尸会进入上升前进状态
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_5]
+{SAY:ASTRONAUTCRAZYDAVE}噢,我不喜欢飘来飘去的！
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_6]
+{SAY:WINNIE}是时候让重力树接管这里了！重力树可以解除反重力状态。
+
+[GRAVITY_TUTORIAL_PLANT_GRAVITREE]
+把重力树拖至目标地块上
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}磁铁还会发出绿色的超重力子弹，落到场上后会让目标区域的单位进入超重力状态
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_2]
+{SAY:WINNIE}植物会陷入地里，而僵尸会免疫击退效果
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_3]
+{SAY:ASTRONAUTCRAZYDAVE}陷在地里？怎么感觉和僵尸一样？
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_4]
+{SAY:WINNIE}种植宇宙飞碟瓜吧！宇宙飞碟瓜可以解除超重力状态！
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}灵活运用这两株植物来反制重力发生器吧！
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_2]
+{SAY:ASTRONAUTCRAZYDAVE}看上去很简单啊！直接开战吧！
+
+[GRAVITY_TUTORIAL_PLANT_COSMICSAUCER]
+把宇宙飞碟瓜拖至目标地块上
+
+[NARRATIVE_MOON_13_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}怎么有一块奇怪的矿石？
+
+[NARRATIVE_MOON_13_INTRO_2]
+{EXCITED:WINNIE}那是坚壳矿石！只有打破坚壳才可以采集里面的晶矿！
+
+[NARRATIVE_MOON_13_INTRO_3]
+{SAY:WINNIE}多种些植物将坚壳打碎吧！
+
+[NARRATIVE_MOON_14_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}滴滴！检测到易碎晶矿！
+
+[NARRATIVE_MOON_14_INTRO_2]
+{SAY:ASTRONAUTCRAZYDAVE}这个也需要打碎吗？
+
+[NARRATIVE_MOON_14_INTRO_3]
+{SAY:WINNIE}不！易碎晶矿在采集一段时间后会碎掉，之后就无法采集了
+
+[NARRATIVE_MOON_14_INTRO_4]
+{SAY:WINNIE}部分易碎晶矿中有能量豆，晶矿碎掉后可以获得
+
+[NARRATIVE_MOON_14_INTRO_5]
+{SAY:ASTRONAUTCRAZYDAVE}好吧！没办法好好采个尽兴了！
+
+[NARRATIVE_MOON_20_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}危险！前方检测到辐射晶矿！
+
+[NARRATIVE_MOON_20_INTRO_2]
+{SAY:WINNIE}辐射晶矿会周期性对周围的植物和僵尸进行辐射
+
+[NARRATIVE_MOON_20_INTRO_3]
+{SAY:WINNIE}植物会随机变成其他植物，僵尸会有概率变成辐射巨人
+
+[NARRATIVE_MOON_20_INTRO_4]
+{SAY:ASTRONAUTCRAZYDAVE}那我过去会变成什么呢？
+
+[NARRATIVE_MOON_20_INTRO_5]
+{SAY:WINNIE}呃，我不知道，但最好别那样做
+
 [MOON1_TUTORIAL_PLANT_PEASHOOTER]
 Drag Peashooter onto a moss tile.
 
@@ -94401,6 +95380,24 @@ Tap the Collection Terminal to open the deployment panel.
 
 [MOON1_TUTORIAL_TERMINAL_DRAG]
 Drag the Collection Terminal onto the field.
+
+[NARRATIVE_ARENA_TUTORIAL_1_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}是奖杯！它是属于我的了！
+
+[NARRATIVE_ARENA_TUTORIAL_1_2]
+{SAY:WINNIE}这是角斗场在进行表演！我们要和僵尸进行角斗！
+
+[NARRATIVE_ARENA_TUTORIAL_2_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}哇！好多能量豆！大招用个爽！
+
+[NARRATIVE_ARENA_TUTORIAL_2_2]
+{SAY:WINNIE}在角斗胜利后，奖杯会爆发出大量能量豆
+
+[NARRATIVE_ARENA_TUTORIAL_2_3]
+{SAY:WINNIE}但如果角斗失败，会从天上降下大量的僵尸铁笼！
+
+[NARRATIVE_ARENA_TUTORIAL_2_4]
+{SAY:CRAZYDAVE}那我要赢下每一场角斗！
 
 [ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
 Pharaoh Zombie Damage Reduction
@@ -94521,5 +95518,152 @@ Anniversary Flying Zombie Speed Boost
 
 [ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
 Anniversary Flying Zombie movement speed increased by 50%.
+
+[MOON_GRAPPLE_UPGRADE_WINCH]
+Power Winch
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER]
+High-Speed Launcher
+
+[MOON_GRAPPLE_UPGRADE_MAGNET]
+Moon Crystal Magnet
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK]
+Dual-Hook Launcher
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY]
+Zomboss Appraisal System
+
+[MOON_GRAPPLE_GUIDE_DESC_1]
+Hold to aim, drag to adjust, release to fire! Grab items to earn points and experience. Reach the target score within the time limit — clear three rounds in a row to win!
+
+[MOON_GRAPPLE_GUIDE_DESC_2]
+Once the experience bar is full, you can choose one upgrade. After selecting a card, tap "Confirm" to apply it. The game pauses during selection.
+
+[MOON_GRAPPLE_GUIDE_DESC_3]
+Frenzy: Triggered by grabbing or smashing items 10 times in a row. During Frenzy, firing and empty-return speeds are doubled.
+
+[MOON_GRAPPLE_GUIDE_DESC_4]
+Meteor Shower: Triggered by grabbing and retrieving the Meteor Flower, which appears only once per round. During Meteor Shower, no moon rocks spawn and retrieval scores are doubled.
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_1]
+Retrieval speed increased by 35%.
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_2]
+Retrieval speed increased by a total of 70%.
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_3]
+Retrieval speed increased by a total of 110%, and heavy-object slowdown is further reduced by 25%.
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_1]
+Firing speed increased by 35%, and empty-return speed increased by 20%.
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_2]
+Firing speed increased by a total of 70%, and empty-return speed increased by a total of 50%.
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_3]
+Firing speed increased by a total of 110%, and empty-return speed increased by a total of 90%.
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_1]
+Attracts 1 small Moon Crystal within a small radius.
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_2]
+Increases attraction radius and pull speed.
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_3]
+Further increases attraction radius, attracting and retrieving up to 2 crystals at once.
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_1]
+After the main hook is fired, you can aim again to fire a secondary hook at 70% speed. The next round begins after both hooks return.
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_2]
+Secondary hook speed increased to 90% of the main hook. Still waits for both hooks to return.
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_3]
+Secondary hook reaches 100% of the main hook's speed. Either hook can be fired independently once it returns.
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_1]
+Marks 1 bounty target every 12 seconds. Retrieval score increased by 50%.
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_2]
+Marks 1 bounty target every 10 seconds. Retrieval score increased by 100%.
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_3]
+After retrieving a bounty, the mark transfers to a qualifying item in another formation, keeping the 100% score bonus and allowing continuous chains.
+
+[MOON_GRAPPLE_FRENZY_WARNING]
+Frenzy activated!
+
+[MOON_GRAPPLE_LOSS_MESSAGE]
+Challenge failed!
+
+[MOON_GRAPPLE_CANNOT_FIRE]
+Cannot fire the hook right now.
+
+[EAGLE_FLAG_ARRIVAL]
+Eagle Standard Descends
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_1_DESCRIPTION]
+At the start, 1 additional Eagle Standard randomly spawns in an empty tile in columns 8 and 9 on the right.
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_2_DESCRIPTION]
+At the start, 3 additional Eagle Standards randomly spawn in empty tiles in columns 8 and 9 on the right.
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_3_DESCRIPTION]
+At the start, 5 additional Eagle Standards randomly spawn in empty tiles in columns 8 and 9 on the right.
+
+[ADVICE_GLADIATOR_ROW_WARNING]
+Gladiator Row is about to begin!
+
+[ADVICE_GLADIATOR_ROW_PLANTS_WIN]
+Plants win the duel!
+
+[ADVICE_GLADIATOR_ROW_ZOMBIES_WIN]
+Zombies win the duel!
+
+[ADVICE_GLADIATOR_ROW_ACTION_INSIDE]
+During the duel, you can only interact with the Gladiator Row area!
+
+[ROMAN_BALLISTA_PARTY]
+Roman Ballista Party
+
+[ROMAN_BALLISTA_PARTY_DESCRIPTION]
+Roman Ballista's HP increased to 300%, and it throws 1 extra jar each time.
+
+[ROMAN_HEALER_PARTY]
+Healer Party
+
+[ROMAN_HEALER_PARTY_DESCRIPTION]
+Healer Zombie's HP increased to 300%, and its healing interval is reduced to 2.5 seconds.
+
+[GLADIATOR_PARTY]
+Gladiator Party
+
+[GLADIATOR_PARTY_DESCRIPTION]
+Gladiator Zombie's movement speed and attack power increased to 300%.
+
+[UNCHARTED_ROMA_N_CHALLENGE_2]
+Defeat {NUMBER} Roman Shield Zombies.
+
+[UNCHARTED_ROMA_N_CHALLENGE_3]
+Cumulatively defeat {NUMBER} Roman Bucket Zombies, Centurion Zombies, or Statue Zombies.
+
+[UNCHARTED_ROMA_N_CHALLENGE_4]
+Cumulatively defeat {NUMBER} Roman Shield Zombies.
+
+[UNCHARTED_ROMA_N_CHALLENGE_5]
+Defeat {NUMBER} Healer Zombies.
+
+[UNCHARTED_ROMA_N_CHALLENGE_6]
+Defeat {NUMBER} Medusa Zombies.
+
+[UNCHARTED_ROMA_N_CHALLENGE_9]
+Defeat {NUMBER} Gladiator Zombies.
+
+[UNCHARTED_ROMA_N_CHALLENGE_10]
+Defeat the Roman Zomboss and clear the level.
+
+[ARENA_TUTORIAL_PLANT_PEASHOOTER]
+Drag Peashooter onto the target tile.
 
 [PVZ2_CHINESE_END]
